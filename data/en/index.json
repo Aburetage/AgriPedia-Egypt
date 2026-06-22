@@ -1,0 +1,141 @@
+{
+  "home": {
+    "hero": {
+      "eyebrow": "An Egyptian agricultural platform",
+      "title": "AgriPedia Egypt",
+      "subtitle": "An Egyptian platform with a scientific vision for more advanced and sustainable Arab agriculture",
+      "text": "Accurate agricultural knowledge is no longer optional; it is the foundation for better decisions and more efficient, sustainable crops.",
+      "primary_cta": "Explore the encyclopedia",
+      "secondary_cta": "Discover our vision",
+      "visual_tags": ["Science", "Experience", "Sustainability"]
+    },
+    "pillars_label": "AgriPedia Egypt foundations",
+    "pillars": [
+      { "icon": "fas fa-flask-vial", "title": "Trusted science", "text": "Knowledge grounded in research and analysis" },
+      { "icon": "fas fa-tractor", "title": "Field experience", "text": "Insight that understands real farms" },
+      { "icon": "fas fa-screwdriver-wrench", "title": "Practical application", "text": "Tools and programs made to be used" },
+      { "icon": "fas fa-earth-africa", "title": "An Arab vision", "text": "From Egypt to the Arab world" }
+    ],
+    "about": {
+      "kicker": "Why AgriPedia?",
+      "title": "Modern agriculture is an integrated scientific system",
+      "side_note": "Connecting science with agricultural reality",
+      "paragraphs": [
+        "Agriculture is no longer a set of inherited practices or experience repeated from one season to the next. It has become an integrated scientific system in which soil, water, climate, nutrition, plant physiology, pests, diseases, quality, and economics interact.",
+        "With climate change, rising input costs, limited water resources, greater pest pressure, and stricter quality, export, and processing requirements, access to accurate information has become essential rather than optional.",
+        "AgriPedia Egypt was founded to provide trusted agricultural content in Arabic, linking scientific research with field experience and presenting knowledge clearly and practically for agricultural engineers, growers, researchers, students, investors, and everyone working across the agricultural sector."
+      ]
+    },
+    "journey": {
+      "kicker": "From planning to market",
+      "title": "A reference for the crop’s complete journey",
+      "text": "The platform aims to build a comprehensive agricultural reference that supports understanding from initial crop planning through land preparation, soil and water analysis, cultivar selection, irrigation and fertilization management, growth monitoring, diagnosis, pest and disease management, harvest, quality, marketing, and processing.",
+      "steps": [
+        { "icon": "fas fa-map", "title": "Planning", "text": "Define the goal, environment, and crop" },
+        { "icon": "fas fa-vials", "title": "Analysis", "text": "Read soil and water before deciding" },
+        { "icon": "fas fa-seedling", "title": "Establishment", "text": "Prepare land and select cultivars and seedlings" },
+        { "icon": "fas fa-droplet", "title": "Management", "text": "Irrigation, nutrition, and growth monitoring" },
+        { "icon": "fas fa-shield-halved", "title": "Protection", "text": "Diagnosis and pest and disease management" },
+        { "icon": "fas fa-chart-line", "title": "Return", "text": "Harvest, quality, marketing, and processing" }
+      ]
+    },
+    "practice": {
+      "kicker": "Knowledge made usable",
+      "title": "Beyond theoretical text",
+      "text": "We ensure that information is more than theory. It is usable knowledge supported by examples, tables, practical programs, digital tools, agricultural calculators, scientific studies, and critical analysis.",
+      "tools": [
+        { "icon": "fas fa-table", "title": "Practical tables", "text": "Summarize decisions and simplify comparison" },
+        { "icon": "fas fa-calculator", "title": "Agricultural calculators", "text": "Turn data into practical figures" },
+        { "icon": "fas fa-laptop-code", "title": "Digital tools", "text": "Support monitoring and analysis" },
+        { "icon": "fas fa-book-open", "title": "Scientific studies", "text": "Presented with clear critical reading" }
+      ]
+    },
+    "impact": {
+      "kicker": "How do we define success?",
+      "title": "Measured results, not repeated practices",
+      "text": "We believe agricultural success is measured not only by yield, but by the efficiency of every cubic meter of water, every unit of fertilizer, and every field operation—and by the ability to produce a sound, safe, marketable crop with a genuine economic return.",
+      "items": [
+        { "icon": "fas fa-water", "title": "Water efficiency", "text": "More value from every cubic meter" },
+        { "icon": "fas fa-leaf", "title": "Input efficiency", "text": "Calculated nutrition and operations" },
+        { "icon": "fas fa-circle-check", "title": "Quality and safety", "text": "A crop fit for markets and processing" },
+        { "icon": "fas fa-coins", "title": "Real returns", "text": "Sustainable farm economics" }
+      ]
+    },
+    "principles": {
+      "kicker": "How we work",
+      "title": "More informed and precise agricultural decisions",
+      "text": "AgriPedia Egypt seeks to promote diagnosis before treatment, prevention before intervention, integrated management instead of random solutions, and the use of data and analysis instead of relying entirely on guesswork.",
+      "items": [
+        { "icon": "fas fa-stethoscope", "title": "Diagnose before treating", "text": "Identify the cause before choosing an intervention." },
+        { "icon": "fas fa-umbrella", "title": "Prevention first", "text": "Stop problems before their costs rise." },
+        { "icon": "fas fa-diagram-project", "title": "Integrated management", "text": "Connect cultural, biological, and chemical measures." },
+        { "icon": "fas fa-chart-simple", "title": "Data over guesswork", "text": "Base decisions on monitoring, analysis, and measurement." }
+      ]
+    },
+    "audience": {
+      "kicker": "Who is it for?",
+      "title": "Specialized knowledge for every agricultural decision-maker",
+      "text": "Clear content that respects different levels of experience and serves professionals, learners, and investors across the agricultural sector.",
+      "items": [
+        { "icon": "fas fa-user-tie", "text": "Agricultural engineers" },
+        { "icon": "fas fa-tractor", "text": "Growers" },
+        { "icon": "fas fa-microscope", "text": "Researchers" },
+        { "icon": "fas fa-graduation-cap", "text": "Students" },
+        { "icon": "fas fa-briefcase", "text": "Investors" }
+      ]
+    },
+    "library": {
+      "kicker": "Start learning",
+      "title": "Explore the agricultural encyclopedia",
+      "text": "Organized scientific and practical guides that help you reach the information you need quickly and clearly."
+    },
+    "cards": [
+      {
+        "target": "tuta",
+        "color": "--blue",
+        "icon": "fas fa-bug",
+        "title": "Tuta absoluta",
+        "desc": "A comprehensive IPM guide covering economic importance, the nature of damage, monitoring, and correction of common misconceptions.",
+        "disabled": false
+      },
+      {
+        "target": "soon",
+        "color": "--muted",
+        "icon": "fas fa-leaf",
+        "title": "Other Crops & Pests (Soon)",
+        "desc": "New sections are being prepared to expand the encyclopedia with more pests, diseases, crops, and agricultural practices.",
+        "disabled": true
+      }
+    ],
+    "closing": {
+      "kicker": "A vision beyond borders",
+      "title": "From Egypt to the entire Arab world",
+      "text": "We are building a modern agricultural library that respects science, understands reality, supports development, and puts specialized knowledge within reach of everyone pursuing better agriculture and a more sustainable future.",
+      "signature": "AgriPedia Egypt — Science understood, experience applied, results measured.",
+      "cta": "Start with the current guide"
+    }
+  },
+  "sidebar": [
+    {
+      "title": "Tuta absoluta",
+      "icon": "fas fa-bug",
+      "is_active": true,
+      "links": [
+        { "text": "Introduction and Overview", "target": "tuta", "disabled": false },
+        { "text": "Identification and Nature of Damage", "target": "tuta", "disabled": false },
+        { "text": "Scientific and Common Names", "target": "tuta", "disabled": false },
+        { "text": "Scientific Classification", "target": "tuta", "disabled": false },
+        { "text": "Origin and Global Spread", "target": "tuta", "disabled": false },
+        { "text": "Morphological Description", "target": "tuta", "disabled": false }
+      ]
+    },
+    {
+      "title": "Encyclopedia Sections (Soon)",
+      "icon": "fas fa-seedling",
+      "is_active": false,
+      "links": [
+        { "text": "More will be added later", "target": "soon", "disabled": true }
+      ]
+    }
+  ]
+}

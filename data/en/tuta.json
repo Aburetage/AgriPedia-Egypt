@@ -1,0 +1,31 @@
+{
+  "id": "tuta",
+  "chapter_number": "Insect Pests | Tomato",
+  "chapter_title": "Tuta absoluta",
+  "tabs": [
+    {
+      "tab_title": "Introduction and Overview",
+      "content_path": "tuta/0.json"
+    },
+    {
+      "tab_title": "Identification and Nature of Damage",
+      "content_path": "tuta/1.json"
+    },
+    {
+      "tab_title": "Scientific and Common Names",
+      "content_path": "tuta/2.json"
+    },
+    {
+      "tab_title": "Scientific Classification",
+      "content_path": "tuta/3.json"
+    },
+    {
+      "tab_title": "Origin and Global Spread",
+      "content_path": "tuta/4.json"
+    },
+    {
+      "tab_title": "Morphological Description",
+      "content_path": "tuta/5.json"
+    }
+  ]
+}

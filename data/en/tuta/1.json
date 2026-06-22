@@ -1,0 +1,1097 @@
+{
+  "tab_title": "Identification and Nature of Damage",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Two"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Identifying Tuta absoluta and the Nature of Its Damage"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.1 Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is one of the most dangerous insect pests attacking tomato crops in both open fields and protected cultivation. It has earned this status because it can infest multiple plant parts, reproduces rapidly, conceals its larvae within plant tissues, moves easily between fields as adult moths, and can develop resistance to several insecticides."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The danger of Tuta absoluta is not measured solely by the number of insects in the field, but by its ability to cause direct damage inside leaves, stems, growing points, and fruit. At the start of an infestation, a plant may look acceptable externally even though larvae have already begun forming mines within its tissues."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Understanding the insect, the life stage responsible for damage, and the infestation process is therefore essential before establishing any monitoring or control program."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.2 Definition of Tuta absoluta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is a small moth in the order Lepidoptera, which includes butterflies and moths. It belongs to the small-moth family Gelechiidae, whose many species have larvae that bore or feed within plant tissues."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The commonly used scientific name is:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta (Meyrick)"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some recent taxonomic references also use the name:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Phthorimaea absoluta (Meyrick)"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The use of a different genus name in some sources does not mean that two different pests are involved. It reflects taxonomic revisions of relationships among genera in this group. Tuta absoluta remains the name most widely used in agricultural guides, control programs, pheromone traps, and agricultural trade."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The insect undergoes complete metamorphosis and passes through four main stages:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg.",
+            "Larva.",
+            "Pupa.",
+            "Adult moth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each stage has a different role in the life cycle. The egg begins a generation; the larva feeds, grows, and causes damage; the pupa is the transformation stage; and adult moths mate, disperse, and lay eggs."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tomato is the pest’s principal economic host, although it can infest other plants, particularly species in the nightshade family."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.3 Is Tuta absoluta a Moth, a Leafminer, or a Worm?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These names describe different aspects of the insect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Moth: the winged adult insect.",
+            "Larva or worm: the stage that hatches from the egg and feeds on the plant.",
+            "Leafminer: a description of how the larva feeds within plant tissue.",
+            "Tomato leafminer: a common name for the pest, although it does not describe all forms of damage.",
+            "Tomato borer or tomato fruit borer: names referring to its ability to penetrate fruit and stems.",
+            "Weevil: a colloquial name used by some growers, but taxonomically incorrect because the insect is not a true weevil in the order Coleoptera."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is therefore not a “worm” throughout its life. It is a moth whose worm-like larval stage bores into the plant and causes damage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.4 Nature of Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation usually begins when a female lays eggs on plant parts. A small larva then hatches, searches for a suitable entry point, and quickly penetrates a leaf, stem, bud, or fruit."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Once inside plant tissue, the larva begins feeding and forms a mine or mined patch. The appearance of damage varies with the infested plant part and the age of the larva."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is a pest that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mines leaves.",
+            "Bores into stems and petioles.",
+            "Attacks growing points.",
+            "Bores into fruit.",
+            "Causes both direct and indirect damage.",
+            "Can infest plants from the nursery stage until close to harvest."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Describing it only as a “leafminer” is therefore incomplete, because the most serious economic losses are often associated with damage to growing points, stems, and fruit."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.5 Nature of the Damage Caused by the Pest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Damage caused by Tuta absoluta can be divided into five interrelated types:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Direct feeding damage.",
+            "Physiological damage.",
+            "Structural damage.",
+            "Indirect damage caused by secondary infection.",
+            "Economic and market damage."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.5.1 Direct Feeding Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Direct damage occurs when larvae feed on plant tissues. In leaves, a larva consumes the mesophyll between the upper and lower epidermis, while the two outer epidermal layers may remain temporarily intact."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This produces pale or translucent areas known as:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mines or mined patches"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "As feeding continues and the mine expands, the damaged area gradually turns brown, dries out, and dies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In stems, petioles, and growing points, larvae feed within tissues and form tunnels that may interfere with the movement of water and nutrients and with the continued growth of young plant parts."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In fruit, the larva enters beneath the skin or into the fleshy tissue and forms tunnels usually accompanied by feeding debris and frass."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.5.2 Physiological Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Leaf infestation does more than create dry patches; it reduces the effective leaf area available for photosynthesis."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When infestation is severe, it may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced sugar production within the plant.",
+            "Poor fruit nutrition.",
+            "Reduced vegetative growth.",
+            "A lower capacity for fruit filling.",
+            "Reduced final yield.",
+            "Fruit exposure to sunlight after canopy collapse.",
+            "A greater risk of sunscald and elevated fruit temperature.",
+            "A lower capacity to tolerate heat and water stress."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The severity of these effects depends on the percentage and location of infested leaves, plant age, timing of damage, and the canopy’s ability to continue producing new leaves."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not every leaf mine represents the same loss. Damage to an old lower leaf is not equivalent to damage affecting several young leaves or the growing point during fruit set and filling."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.5.3 Structural Damage to Stems and Growing Points"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae may bore into:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaf petioles.",
+            "Young growth.",
+            "Buds.",
+            "Growing points.",
+            "Tender stems.",
+            "The area where the calyx joins the fruit."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Damage to the growing point of young plants has more serious consequences than the loss of part of a leaf because it may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cessation of main-stem growth.",
+            "Death of the growing point.",
+            "Irregular lateral growth.",
+            "Delayed plant development.",
+            "An imbalance between vegetative and reproductive growth.",
+            "Poor formation of early clusters.",
+            "Loss of part of the early yield."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tunnels within the stem may also weaken tissues and cause the portion beyond the damaged area to wilt, especially when several larvae are present or when infestation overlaps with plant pathogens."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.5.4 Direct Damage to Fruit"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruit infestation is the most economically serious form of damage because the pest directly reaches the part harvested and sold or delivered to a processing plant."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae may enter fruit:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Near the calyx and pedicel.",
+            "Where fruit touches leaves or other fruit.",
+            "From the sides of the fruit.",
+            "Through cracks or weak areas in the skin.",
+            "Sometimes from the lower side or other externally inconspicuous areas."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infested fruit may show signs such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Small entry holes.",
+            "Exit holes.",
+            "Dark frass near an opening.",
+            "Shallow tunnels beneath the skin.",
+            "Soft or sunken areas.",
+            "Discoloration around the tunnel.",
+            "A larva or cast skin inside the fruit.",
+            "Rot developing around the damaged site."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The entry hole may be extremely small compared with the damage inside the fruit. A quick external inspection is therefore insufficient, particularly when evaluating crops intended for processing or export."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.5.5 Indirect Damage and Secondary Infection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The mines, holes, and wounds made by larvae provide entry points for pathogens, especially rot-causing fungi and bacteria."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A limited insect infestation can therefore develop into compound damage involving:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A wound caused by larval entry.",
+            "Tunnels within the tissue.",
+            "Moisture and frass accumulating in the tunnel.",
+            "Entry of pathogenic microorganisms.",
+            "Tissue breakdown and decay.",
+            "Complete loss of the fruit."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rot may continue to develop during harvest, transport, and temporary storage, so losses may continue after the crop has left the field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This problem intensifies under warm, humid conditions, when fruit is piled, transport is delayed, or additional mechanical wounds are present."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.5.6 Economic and Market Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infested fruit does not have to fall or disappear for an economic loss to be recorded. It may remain on the plant and count toward total yield while being unmarketable."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Forms of economic loss include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Rejection of infested fruit in the fresh market.",
+            "Downgrading.",
+            "A higher cull rate.",
+            "Higher labor costs.",
+            "Rejection of entire loads when infestation is high.",
+            "Greater processing losses.",
+            "A higher microbial load in raw material.",
+            "Less sound fruit available for processing.",
+            "More sprays and higher control costs.",
+            "Difficulty complying with pre-harvest intervals.",
+            "A higher risk of pesticide residues.",
+            "Lower profits for growers and processors."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fields should therefore be assessed by marketable yield rather than total fruit weight alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.6 The Damaging Stage"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.6.1 The Larva Is Responsible for Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larval stage is the damaging stage in the life cycle of Tuta absoluta."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva passes through several instars and consumes more tissue as it matures. Newly hatched larvae begin with small mines, which expand as they grow. A larva may move from one mine to another or from a leaf to another plant part."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "All larval instars can cause damage, although the nature of that damage differs among them:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Newly Hatched Larvae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They are characterized by being:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Extremely small.",
+            "Quick to search for an entry point.",
+            "Able to start tiny mines that are difficult to detect.",
+            "Potentially more vulnerable to control during the short interval between hatching and tissue entry.",
+            "Important targets for biopesticides and materials acting by contact or ingestion."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Intermediate and Advanced Larval Instars"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They are characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Consuming more tissue.",
+            "Forming wider mines.",
+            "Producing more visible frass.",
+            "Being able to attack stems and fruit.",
+            "Causing most of the visible damage.",
+            "Receiving greater protection within plant tissue.",
+            "Sometimes leaving a mine and moving to a new site."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Large larvae and extensive mines should not be allowed to appear before action is taken, because by then a substantial amount of damage has already occurred."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.6.2 Why Is the Egg Not Considered a Damaging Stage?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The egg does not feed on the plant and therefore causes no direct damage. It is, however, an important early indicator of a new generation before damage begins."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Monitoring eggs is useful because killing or parasitizing them before hatching prevents larvae from emerging. This is why egg parasitoids such as Trichogramma species and inspection of young leaves before mines appear are important."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The egg is not a damaging stage, but it is a critical stage for prevention."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.6.3 Why Is the Pupa Not Considered a Damaging Stage?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa is a non-feeding stage in which the larva transforms into an adult moth. It therefore causes no direct loss of plant tissue."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The presence of pupae in soil, leaves, or residues means that a new generation of moths will soon emerge. Residue management, tillage, and disposal of infested plants are therefore important for reducing pest sources."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.6.4 Why Is the Adult Moth Not Directly Damaging?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Adult moths, if they feed at all, consume liquids; they neither bore into tomato tissue nor make the mines found in leaves and fruit."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The moth does not directly cause visible damage, but it has major epidemiological importance because it is responsible for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mating.",
+            "Egg laying.",
+            "Movement between plants.",
+            "Migration between fields.",
+            "Reinfestation of young plantings.",
+            "Spread of the pest over new distances."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The moth can therefore be described as the dispersal and reproductive stage, while the larva is the damaging stage."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This distinction is essential when interpreting pheromone traps: a trap measures adult male activity and does not directly count larvae within plants."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.7 How Damage Develops, Step by Step"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The infestation sequence can be simplified as follows:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Stage One: Moths Reach the Field"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Moths may arrive from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A neighboring infested field.",
+            "Residues from an old crop.",
+            "Infested seedlings.",
+            "Other solanaceous hosts.",
+            "Volunteer plants or host weeds.",
+            "Contaminated crates or transport equipment in some cases."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Stage Two: Egg Laying"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Females lay eggs on suitable plant parts, especially young tissues and leaves, and may also lay them near stems, calyces, and fruit."
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Stage Three: Hatching"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A very small larva emerges from the egg and begins searching for an entry point."
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Stage Four: Tissue Entry"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva bores into a leaf, stem, or fruit and becomes less exposed to external influences after entry."
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Stage Five: Mine Expansion"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva continues feeding and growing, the damaged area expands, and frass accumulates within the mine or around openings."
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Stage Six: Movement"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A larva may leave a mine and move to another leaf, stem, or fruit, so an empty mine does not mean that the infestation has ended."
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Stage Seven: Pupation and Emergence of a New Generation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "After completing its growth, the larva pupates. A new moth then emerges, lays eggs, and repeats the infestation cycle."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Overlapping generations result in eggs, larvae, pupae, and moths being present in the field at the same time. This complicates control and prevents reliance on a single treatment."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.8 Why Is It Difficult for Insecticides to Reach the Larva?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "After penetrating plant tissue, the larva becomes partly enclosed by layers of leaf, stem, or fruit. Spray solution may therefore cover the outside of the plant without reaching the larva at an effective dose."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Control becomes more difficult when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larvae are older.",
+            "Larvae are deep inside fruit.",
+            "The canopy is dense.",
+            "Spray coverage is poor.",
+            "Water volume is insufficient.",
+            "Spray does not reach both leaf surfaces.",
+            "The product is unsuitable for the target stage.",
+            "Spraying is delayed until mines have expanded.",
+            "Resistance to the active ingredient is present."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Timing is therefore crucial. Intervention should preferably target the period immediately before or after hatching, before most larvae become established within tissues."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This timing cannot be determined from traps alone. Trap data must be combined with inspections for eggs, recent mines, larvae, and infested plants."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.9 General Overview of Pest Risk"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.9.1 A Successful Invasive Pest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta has several traits that helped it change from a local South American pest into a widely distributed international pest, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Rapid reproduction.",
+            "Multiple generations.",
+            "Small size.",
+            "Ease of concealment.",
+            "Ability to move with plant products.",
+            "Ability to fly and disperse locally.",
+            "Availability of alternative hosts.",
+            "Adaptation to a wide range of environmental conditions.",
+            "Rapid colonization of new production areas."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest creates particular pressure where tomato crops are continuous or overlap, leaving no adequate period without a plant host."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.9.2 Infestation at Every Crop Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation may begin in the nursery and continue until the end of harvest. The form of loss therefore varies by crop stage:"
+        },
+        {
+          "type": "doc-table",
+          "rows": [
+            {
+              "label": "Nursery",
+              "value": "Weak seedlings and transfer of the pest to the field"
+            },
+            {
+              "label": "After transplanting",
+              "value": "Slow establishment and damage to growing points"
+            },
+            {
+              "label": "Vegetative growth",
+              "value": "Reduced leaf area"
+            },
+            {
+              "label": "Flowering and fruit set",
+              "value": "Disrupted growth and damage to young tissues"
+            },
+            {
+              "label": "Fruit filling",
+              "value": "Reduced photosynthesis and fruit infestation"
+            },
+            {
+              "label": "Color development and harvest",
+              "value": "Fruit rejection, greater losses, and pre-harvest-interval constraints"
+            }
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This long period makes pest management a continuous program, not a remedial spray applied after damage appears."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.9.3 Overlapping Generations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under suitable conditions, the field may contain all of the following at the same time:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Newly laid eggs.",
+            "Small larvae.",
+            "Large larvae.",
+            "Pupae.",
+            "Adult moths."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A treatment may therefore affect one stage while the others remain and rebuild the population shortly afterward."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Differences in crop age and multiple planting dates in the area also allow the pest to keep moving from one field to another."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.9.4 Capacity to Cause Severe Losses"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In severe outbreaks that are not detected early or managed effectively, a very large proportion of the crop may be damaged, and marketable-yield losses may approach complete loss in extreme cases."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The estimate of “100% losses” should not be applied generally to every infestation. Actual losses vary according to several factors, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation start date.",
+            "Egg and larval density.",
+            "Percentage of infested fruit.",
+            "Crop age.",
+            "Cultivar.",
+            "Temperature.",
+            "Monitoring quality.",
+            "Speed of intervention.",
+            "Condition of neighboring fields.",
+            "Natural-enemy levels.",
+            "Effectiveness of the control program."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Early pest presence does not make crop loss inevitable, but it does require a rapid, monitoring-based response."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.9.5 Ability to Develop Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta populations in many regions face intense selection pressure because insecticides are used repeatedly."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "With multiple generations and large populations, individuals capable of tolerating a particular active ingredient are more likely to survive. These individuals then reproduce, reducing the pest population’s susceptibility to the insecticide."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance increases when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The same active ingredient is repeated.",
+            "The same IRAC group is repeated.",
+            "Different trade names from the same group are used.",
+            "Rates are reduced without technical justification.",
+            "Spraying occurs at the wrong time.",
+            "Control relies on insecticides alone.",
+            "Migration continues from fields with different spray programs.",
+            "A large number of treatments is applied during the season."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insecticide resistance is one of the main reasons Tuta absoluta remains difficult to control and persistently dangerous."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.9.6 Movement from Old Fields to New Plantings"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A field where harvest has ended can become a major source of moths if infested plants are left without shredding or ploughing."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A dangerous scenario develops when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation rises in an old field.",
+            "Harvest nears its end.",
+            "The grower stops spraying.",
+            "Infested plants remain in the ground.",
+            "New moths emerge in large numbers.",
+            "They move into younger fields.",
+            "Infestation begins in the new plantings."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crop-residue management is therefore not cosmetic; it directly breaks the pest cycle and protects neighboring fields."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "2.9.7 Low Acceptance Threshold for Infested Fruit"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A plant may tolerate limited leaf infestation, but infested fruit is usually commercially unacceptable."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A single hole may lead to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Culling the fruit.",
+            "Downgrading it.",
+            "Entry of rot organisms.",
+            "Rejection during grading.",
+            "A higher defect rate in the load."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The economic threshold for fruit infestation is therefore much lower than the threshold associated with a limited number of leaf mines."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In processing tomatoes, a distinction must be made among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Total yield.",
+            "Red-ripe yield.",
+            "Sound yield.",
+            "Yield accepted by the factory.",
+            "The proportion of infested, rotten, or rejected fruit."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.10 Difference Between Active and Old Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Seeing a mine on a leaf does not necessarily mean a live larva is present at inspection. The larva may have:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Remained inside the mine.",
+            "Left and moved to another leaf.",
+            "Died.",
+            "Been parasitized.",
+            "Completed its growth and left to pupate."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Several mines should therefore be opened and examined to determine whether the infestation is active."
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Signs of Active Infestation"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A live larva.",
+            "Fresh frass.",
+            "Recently chewed tissue.",
+            "Continued mine expansion.",
+            "Small, recent mines.",
+            "New eggs close to growing areas."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Signs of Old Infestation"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A completely dry mine.",
+            "Dead brown tissue.",
+            "Absence of the larva.",
+            "An exit hole.",
+            "No further mine expansion."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Confusing old and active infestation leads to inaccurate spray decisions. Insecticides may be used because old damage is present even though it contains no live larvae, or a field may be neglected because moth catches are low despite active larvae within the plants."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.11 Indicators to Monitor When Assessing Risk"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta should not be assessed using a single indicator. A better assessment combines:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of moths in traps.",
+            "Week-to-week trend in trap catches.",
+            "Percentage of plants bearing eggs.",
+            "Percentage of plants with recent mines.",
+            "Number of live larvae.",
+            "Percentage of infested growing points.",
+            "Percentage of fruit with holes.",
+            "Distribution of infestation within the field.",
+            "Infestation intensity at field edges compared with the interior.",
+            "Presence of neighboring old or neglected fields.",
+            "Presence of natural enemies or parasitized eggs.",
+            "Crop age and time remaining until harvest."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Risk increases when rising trap catches coincide with new eggs, recent mines, live larvae, and infested fruit."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.12 Common Misconceptions"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Misconception One: Tuta absoluta Attacks Leaves Only"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Incorrect. It can infest leaves, petioles, stems, growing points, and fruit."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Misconception Two: The Moth Makes Holes in Fruit"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Incorrect. The larva bores into fruit, while the moth lays eggs and spreads the infestation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Misconception Three: If No Moths Are Seen, the Field Is Pest-Free"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Incorrect. Moths are small and may be more active at specific times, while larvae remain concealed within the plant."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Misconception Four: High Trap Catch Equals the Same Percentage of Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not accurate. A trap measures male activity, while damage depends on eggs, larvae, their location, and crop age."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Misconception Five: Every Mine Requires an Immediate Spray"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not accurate. The mine must be checked to determine whether it is recent and contains a live larva, and the spread of infestation and other field indicators must be assessed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Misconception Six: Changing the Trade Name Prevents Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Incorrect. Several trade names may contain the same active ingredient or belong to the same IRAC group and mode of action."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Misconception Seven: More Sprays Mean Better Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Incorrect. Indiscriminate sprays may increase resistance, residues, and costs and kill natural enemies without achieving sustainable control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "2.13 Chapter Summary"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is an invasive moth whose larval stage causes direct damage. Larvae begin feeding within leaves and can also attack growing points, stems, and fruit, producing overlapping physiological, market, and economic damage."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Eggs and pupae cause no feeding damage, while the adult moth is the reproductive and dispersal stage. Distinguishing among these stages is essential for selecting and timing control measures."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest’s overall danger arises from a combination of factors:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval concealment within tissues.",
+            "Infestation of multiple plant parts.",
+            "Overlapping generations.",
+            "Continued infestation from nursery to harvest.",
+            "Movement between fields.",
+            "Susceptibility of infested fruit to rot and rejection.",
+            "High potential for insecticide resistance.",
+            "Difficulty of relying on a single control method."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Detecting the pest only after mines have spread and fruit has been infested is therefore relatively late. Real success begins by preventing entry with seedlings, monitoring moths and eggs, detecting young larvae before they establish within tissues, and applying an integrated program of cultural, biological, behavioral, and chemical measures."
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "References",
+          "id": "chapter-two-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta (GNORAB): Overview, hosts, distribution and pest information.",
+              "url": "https://gd.eppo.int/taxon/GNORAB"
+            },
+            {
+              "number": 2,
+              "text": "European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta: EPPO Data Sheet.",
+              "url": "https://gd.eppo.int/download/doc/972_ds_GNORAB_en.pdf"
+            },
+            {
+              "number": 3,
+              "text": "CABI. (2020). Phthorimaea absoluta (tomato leafminer). CABI Compendium.",
+              "url": "https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.49260"
+            },
+            {
+              "number": 4,
+              "text": "Mujica, N., et al. (2022). Tomato leafminer, Tuta absoluta. Pest Risk Atlas for Africa. International Potato Center (CIP).",
+              "url": "https://cipotato.org/riskatlasforafrica/wp-content/uploads/sites/4/2022/12/Tuta-absoluta_New-atlas-chapter.pdf"
+            },
+            {
+              "number": 5,
+              "text": "USDA–APHIS Cooperative Agricultural Pest Survey Program. (2025). Phthorimaea absoluta CAPS Datasheet.",
+              "url": "https://caps.ceris.purdue.edu/wp-content/uploads/2025/07/Phthorimaea-absoluta-CAPS-datasheet-20250328.pdf"
+            },
+            {
+              "number": 6,
+              "text": "Desneux, N., Wajnberg, E., Wyckhuys, K. A. G., et al. (2010). Biological invasion of European tomato crops by Tuta absoluta: Ecology, geographic expansion and prospects for biological control. Journal of Pest Science, 83, 197–215.",
+              "url": "https://doi.org/10.1007/s10340-010-0321-6"
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-20"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tuta",
+  "chapter_number": "آفات حشرية | طماطم",
+  "chapter_title": "توتا أبسولوتا (Tuta absoluta)",
+  "tabs": [
+    {
+      "tab_title": "تمهيد ومقدمة",
+      "content_path": "tuta/0.json"
+    },
+    {
+      "tab_title": "التعريف بحشرة توتا أبسولوتا وطبيعة ضررها",
+      "content_path": "tuta/1.json"
+    },
+    {
+      "tab_title": "التسمية والأسماء الشائعة",
+      "content_path": "tuta/2.json"
+    },
+    {
+      "tab_title": "التصنيف العلمي",
+      "content_path": "tuta/3.json"
+    },
+    {
+      "tab_title": "الظهور والانتشار العالمي",
+      "content_path": "tuta/4.json"
+    },
+    {
+      "tab_title": "الوصف المورفولوجي",
+      "content_path": "tuta/5.json"
+    }
+  ]
+}

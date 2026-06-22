@@ -1,0 +1,16 @@
+{
+  "name": "AgriPedia Egypt",
+  "short_name": "AgriPedia",
+  "description": "الموسوعة الزراعية الشاملة للإدارة المتكاملة للآفات والمحاصيل الزراعية",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2921/2921937.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
