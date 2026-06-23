@@ -33,15 +33,15 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     
     <!-- 🟢 CSS File -->
-    <link rel="stylesheet" href="css/style.css?v=18">
+    <link rel="stylesheet" href="css/style.css?v=20">
 </head>
 <body class="light-mode">
 
 <div id="scroll-progress" aria-hidden="true"></div>
 <button id="back-to-top" class="ripple-btn" type="button" title="العودة لأعلى" aria-label="العودة لأعلى"><i aria-hidden="true" class="fas fa-chevron-up"></i></button>
 <button id="installAppBtn" class="ripple-btn" type="button" title="تثبيت التطبيق" aria-label="تثبيت التطبيق" hidden><i aria-hidden="true" class="fas fa-download"></i></button>
-<button id="exitReadingMode" class="exit-reading-mode ripple-btn" type="button" aria-label="إنهاء وضع القراءة" hidden><i class="fas fa-xmark" aria-hidden="true"></i><span>إنهاء وضع القراءة</span><kbd>Esc</kbd></button>
-<div id="readingModeToast" class="reading-mode-toast" role="status" aria-live="polite" hidden><i class="fas fa-book-open" aria-hidden="true"></i><span>تم تفعيل وضع القراءة — استخدم زر الخروج أو Esc للإنهاء</span></div>
+<button id="exitReadingMode" class="exit-reading-mode ripple-btn" type="button" aria-label="خروج من وضع القراءة" hidden><i class="fas fa-xmark" aria-hidden="true"></i><span>خروج</span><kbd>Esc</kbd></button>
+<div id="readingModeToast" class="reading-mode-toast" role="status" aria-live="polite" hidden><i class="fas fa-book-open" aria-hidden="true"></i><span>وضع القراءة مفعل — Esc للخروج</span></div>
 
 <div class="orbs" aria-hidden="true">
     <div class="orb orb1"></div>
@@ -55,8 +55,7 @@
             <button id="goHomeBtn" class="menu-btn home-header-btn ripple-btn" type="button" title="الرئيسية" aria-label="الذهاب إلى الرئيسية"><i aria-hidden="true" class="fas fa-home"></i></button>
             <button id="menuToggle" class="menu-btn ripple-btn" type="button" aria-label="فتح فهرس المحتويات" aria-controls="sidebar" aria-expanded="false"><i aria-hidden="true" class="fas fa-bars"></i></button>
         </div>
-        <!-- تم تغيير الاسم هنا -->
-        <h1 id="headerTitle">AgriPedia Egypt</h1>
+        <button id="headerTitle" class="site-title-btn ripple-btn" type="button" aria-label="الذهاب إلى الرئيسية">AgriPedia Egypt</button>
     </div>
     <div class="header-controls">
         <button id="searchToggle" class="control-btn search-control-btn ripple-btn" type="button" title="البحث" aria-label="البحث في الموسوعة" aria-controls="searchModal" aria-expanded="false"><i aria-hidden="true" class="fas fa-magnifying-glass"></i></button>
@@ -155,8 +154,8 @@
     </button>
     <button class="b-nav-btn ripple-btn" type="button" id="bNavMenu" aria-controls="sidebar" aria-expanded="false">
         <i class="fas fa-list"></i>
-        <span class="ar-txt">الموسوعة</span>
-        <span class="en-txt" style="display:none;">Index</span>
+        <span class="ar-txt">الأقسام</span>
+        <span class="en-txt" style="display:none;">Sections</span>
     </button>
     <button class="b-nav-btn ripple-btn" type="button" id="bNavSearch" aria-controls="searchModal" aria-expanded="false">
         <i class="fas fa-magnifying-glass"></i>
@@ -165,8 +164,8 @@
     </button>
     <button class="b-nav-btn ripple-btn" type="button" id="bNavTheme" aria-pressed="false">
         <i class="fas fa-moon" id="bNavThemeIcon"></i>
-        <span class="ar-txt">المظهر</span>
-        <span class="en-txt" style="display:none;">Theme</span>
+        <span class="ar-txt">السمات</span>
+        <span class="en-txt" style="display:none;">Themes</span>
     </button>
     <button class="b-nav-btn ripple-btn" type="button" id="bNavInfo" aria-controls="infoModal" aria-expanded="false">
         <i class="fas fa-headset"></i>
@@ -175,7 +174,7 @@
     </button>
 </nav>
 
-<script src="js/app.js?v=18"></script>
+<script src="js/app.js?v=20"></script>
 
 </body>
 </html>

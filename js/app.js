@@ -42,6 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('menuToggle')?.addEventListener('click', toggleSidebar);
     document.getElementById('sidebarOverlay')?.addEventListener('click', closeSidebar);
     document.getElementById('goHomeBtn')?.addEventListener('click', () => { window.location.hash = 'home'; });
+    document.getElementById('headerTitle')?.addEventListener('click', () => { window.location.hash = 'home'; });
     document.getElementById('exitReadingMode')?.addEventListener('click', () => setReadingFocus(false));
     
     // نوافذ التواصل
@@ -769,14 +770,15 @@ function updateReadingModeLocalizedContent() {
     const isArabic = currentLang === 'ar';
     const exitButton = document.getElementById('exitReadingMode');
     const toast = document.getElementById('readingModeToast');
-    const exitLabel = isArabic ? 'إنهاء وضع القراءة' : 'Exit reading mode';
+    const exitLabel = isArabic ? 'خروج' : 'Exit';
+    const exitAriaLabel = isArabic ? 'خروج من وضع القراءة' : 'Exit reading mode';
     if (exitButton) {
-        exitButton.setAttribute('aria-label', exitLabel);
+        exitButton.setAttribute('aria-label', exitAriaLabel);
         exitButton.querySelector('span').textContent = exitLabel;
     }
     if (toast) toast.querySelector('span').textContent = isArabic
-        ? 'تم تفعيل وضع القراءة — استخدم زر الخروج أو Esc للإنهاء'
-        : 'Reading mode enabled — use the exit button or Esc to leave';
+        ? 'وضع القراءة مفعل — Esc للخروج'
+        : 'Reading mode on — Esc to exit';
 }
 
 function setReadingFocus(enabled, announce = true) {
@@ -813,6 +815,7 @@ function updateLocalizedLabels() {
     const setAttr = (id, attr, value) => { const el = document.getElementById(id); if (el) el.setAttribute(attr, value); };
     setAttr('menuToggle', 'aria-label', labels.menu);
     setAttr('goHomeBtn', 'aria-label', labels.home);
+    setAttr('headerTitle', 'aria-label', labels.home);
     setAttr('infoToggleDesktop', 'aria-label', labels.info);
     setAttr('searchToggle', 'aria-label', labels.search);
     setAttr('themeToggle', 'aria-label', labels.theme);
@@ -1405,7 +1408,11 @@ function buildDocArticle(items, meta = {}) {
                 html += `<h6 class="doc-subheading level-${item.level}">${formatDocText(item.text)}</h6>`;
             }
         }
-        else if (item.type === 'doc-paragraph') html += `<p class="doc-paragraph">${formatDocText(item.text, usedGlossaryTerms)}</p>`;
+        else if (item.type === 'doc-paragraph') {
+            html += isTaxonomyLadderText(item.text)
+                ? buildTaxonomyLadder(item.text, usedGlossaryTerms)
+                : `<p class="doc-paragraph">${formatDocText(item.text, usedGlossaryTerms)}</p>`;
+        }
         else if (item.type === 'doc-quote') html += `<blockquote class="doc-quote">${formatDocText(item.text, usedGlossaryTerms)}</blockquote>`;
         else if (item.type === 'doc-callout') html += `<aside class="doc-callout ${escapeHtml(item.tone)}"><i class="${escapeHtml(item.icon)}" aria-hidden="true"></i><p>${formatDocText(item.text, usedGlossaryTerms)}</p></aside>`;
         else if (item.type === 'doc-list') {
@@ -1448,6 +1455,26 @@ function buildDocArticle(items, meta = {}) {
         <span>${labels.next}</span><strong>${formatDocText(sectionHeadings[1]?.text || '')}</strong><i class="fas ${currentLang === 'ar' ? 'fa-arrow-down' : 'fa-arrow-down'}" aria-hidden="true"></i>
     </button>`;
     return html + '</article>';
+}
+
+function isTaxonomyLadderText(value) {
+    const text = String(value || '').trim();
+    if (!text.includes('↓')) return false;
+    const parts = text.split('↓').map(part => part.trim()).filter(Boolean);
+    return parts.length >= 4 && parts.every(part => part.length <= 80);
+}
+
+function buildTaxonomyLadder(value, usedGlossaryTerms = null) {
+    const text = String(value || '').trim();
+    const parts = text.split('↓').map(part => part.trim()).filter(Boolean);
+    if (parts.length < 4) return `<p class="doc-paragraph">${formatDocText(text, usedGlossaryTerms)}</p>`;
+    return `<div class="taxonomy-ladder" role="list" aria-label="${escapeHtml(text)}">
+        ${parts.map((part, index) => `<div class="taxonomy-step" role="listitem">
+            <span class="taxonomy-rank">${String(index + 1).padStart(2, '0')}</span>
+            <span class="taxonomy-node">${formatDocText(part, usedGlossaryTerms)}</span>
+            ${index < parts.length - 1 ? '<span class="taxonomy-arrow" aria-hidden="true">↓</span>' : ''}
+        </div>`).join('')}
+    </div>`;
 }
 
 function updateArticleReadingState() {
