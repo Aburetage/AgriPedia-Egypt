@@ -55,9 +55,9 @@ const expected = {
   quickSummaries: 0,
   chapterMeters: 0,
   shareMenus: 1,
-  tables: 2,
+  tables: 0,
   readingTools: 5,
-  referenceCards: 7,
+  referenceCards: 6,
   nextSectionButton: 1,
   listToggles: 0,
 };

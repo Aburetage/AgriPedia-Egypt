@@ -17,7 +17,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.1 مقدمة"
+          "text": "مقدمة"
         },
         {
           "type": "doc-paragraph",
@@ -38,14 +38,15 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.2 الاسم العلمي"
+          "text": "الاسم العلمي"
         },
         {
           "type": "doc-paragraph",
           "text": "الاسم العلمي التصنيفي الحديث للحشرة هو:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Phthorimaea absoluta Meyrick, 1917"
         },
         {
@@ -53,7 +54,8 @@
           "text": "أما الاسم الذي اشتهرت به الآفة عالميًا خلال العقود الأخيرة فهو:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Tuta absoluta (Meyrick, 1917)"
         },
         {
@@ -82,7 +84,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.3 تفسير الاسم العلمي"
+          "text": "تفسير الاسم العلمي"
         },
         {
           "type": "doc-paragraph",
@@ -94,7 +96,8 @@
           "text": "اسم الجنس"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Phthorimaea"
         },
         {
@@ -107,7 +110,8 @@
           "text": "اسم النوع"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "absoluta"
         },
         {
@@ -119,7 +123,8 @@
           "text": "ويُكتب اسم الجنس والنوع بخط مائل:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Phthorimaea absoluta"
         },
         {
@@ -127,7 +132,8 @@
           "text": "أما اسم العالم الذي وصف النوع وسنة الوصف فلا يُكتبان بخط مائل:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Phthorimaea absoluta Meyrick, 1917"
         },
         {
@@ -135,7 +141,8 @@
           "text": "ويظهر اسم العالم بين قوسين عند كتابة الاسم السابق:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Tuta absoluta (Meyrick, 1917)"
         },
         {
@@ -147,7 +154,8 @@
           "text": "وبعد كتابة الاسم كاملًا للمرة الأولى، يُختصر إلى:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "P. absoluta"
         },
         {
@@ -155,13 +163,14 @@
           "text": "أو، في المراجع التي تستخدم الاسم الشائع:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "T. absoluta"
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.4 تاريخ التسمية العلمية"
+          "text": "تاريخ التسمية العلمية"
         },
         {
           "type": "doc-paragraph",
@@ -172,7 +181,8 @@
           "text": "وحملت عند وصفها الأول اسم:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Phthorimaea absoluta Meyrick, 1917"
         },
         {
@@ -186,12 +196,12 @@
         {
           "type": "doc-list",
           "items": [
-            "Phthorimaea absoluta.",
-            "Gnorimoschema absoluta.",
-            "Scrobipalpula absoluta.",
-            "Scrobipalpuloides absoluta.",
-            "Tuta absoluta.",
-            "Phthorimaea absoluta مرة أخرى."
+            "1. Phthorimaea absoluta.",
+            "2. Gnorimoschema absoluta.",
+            "3. Scrobipalpula absoluta.",
+            "4. Scrobipalpuloides absoluta.",
+            "5. Tuta absoluta.",
+            "6. Phthorimaea absoluta مرة أخرى."
           ]
         },
         {
@@ -201,7 +211,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.5 الأسماء العلمية السابقة والمرادفة"
+          "text": "الأسماء العلمية السابقة والمرادفة"
         },
         {
           "type": "doc-paragraph",
@@ -247,14 +257,15 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.6 الرمز الدولي للآفة"
+          "text": "الرمز الدولي للآفة"
         },
         {
           "type": "doc-paragraph",
           "text": "تحمل الحشرة في قاعدة بيانات المنظمة الأوروبية والمتوسطية لوقاية النباتات الرمز:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "EPPO Code: GNORAB"
         },
         {
@@ -262,7 +273,8 @@
           "text": "يرجع الجزء الأول من هذا الرمز إلى الاسم السابق:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Gnorimoschema absoluta"
         },
         {
@@ -288,19 +300,20 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.7 الأسماء العالمية الشائعة"
+          "text": "الأسماء العالمية الشائعة"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.7.1 Tomato leafminer"
+          "text": "Tomato leafminer"
         },
         {
           "type": "doc-paragraph",
           "text": "الترجمة الحرفية لهذا الاسم هي:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "حافرة أوراق الطماطم"
         },
         {
@@ -322,14 +335,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.7.2 South American tomato leafminer"
+          "text": "South American tomato leafminer"
         },
         {
           "type": "doc-paragraph",
           "text": "يعني:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "حافرة الطماطم الجنوبية الأمريكية"
         },
         {
@@ -337,7 +351,8 @@
           "text": "أو:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "حافرة أوراق الطماطم في أمريكا الجنوبية"
         },
         {
@@ -358,14 +373,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.7.3 Tomato leafminer moth"
+          "text": "Tomato leafminer moth"
         },
         {
           "type": "doc-paragraph",
           "text": "يعني:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "عثة الطماطم الحافرة"
         },
         {
@@ -379,14 +395,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.7.4 South American tomato moth"
+          "text": "South American tomato moth"
         },
         {
           "type": "doc-paragraph",
           "text": "يعني:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "عثة الطماطم الجنوبية الأمريكية"
         },
         {
@@ -408,14 +425,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.7.5 Tomato borer"
+          "text": "Tomato borer"
         },
         {
           "type": "doc-paragraph",
           "text": "يعني:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "حفار الطماطم"
         },
         {
@@ -444,14 +462,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.7.6 Tomato pinworm"
+          "text": "Tomato pinworm"
         },
         {
           "type": "doc-paragraph",
           "text": "يظهر اسم Tomato pinworm في بعض المراجع المرتبطة بتوتا أبسولوتا، إلا أن هذا الاسم يُستخدم أيضًا بصورة رئيسية لآفة أخرى هي:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Keiferia lycopersicella"
         },
         {
@@ -465,14 +484,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.7.7 South American tomato pinworm"
+          "text": "South American tomato pinworm"
         },
         {
           "type": "doc-paragraph",
           "text": "يعني:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "دودة الطماطم الدبوسية الجنوبية الأمريكية"
         },
         {
@@ -497,7 +517,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.8 الأسماء الشائعة في عدد من اللغات"
+          "text": "الأسماء الشائعة في عدد من اللغات"
         },
         {
           "type": "doc-paragraph",
@@ -585,15 +605,15 @@
         {
           "type": "doc-list",
           "items": [
-            "محصول الطماطم بوصفه العائل الاقتصادي الأساسي.",
-            "الحفر داخل الأنسجة بوصفه سلوك اليرقات.",
-            "العثة بوصفها شكل الحشرة الكاملة."
+            "1. محصول الطماطم بوصفه العائل الاقتصادي الأساسي.",
+            "2. الحفر داخل الأنسجة بوصفه سلوك اليرقات.",
+            "3. العثة بوصفها شكل الحشرة الكاملة."
           ]
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.9 الاسم العربي"
+          "text": "الاسم العربي"
         },
         {
           "type": "doc-paragraph",
@@ -617,8 +637,8 @@
           "text": "ويُعد اسم:"
         },
         {
-          "type": "doc-quote",
-          "text": "توتا أبسولوتا — حفار أوراق وثمار الطماطم"
+          "type": "doc-paragraph",
+          "text": "> توتا أبسولوتا — حفار أوراق وثمار الطماطم"
         },
         {
           "type": "doc-paragraph",
@@ -631,14 +651,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.9.1 توتا أبسولوتا"
+          "text": "توتا أبسولوتا"
         },
         {
           "type": "doc-paragraph",
           "text": "يمثل اسم «توتا أبسولوتا» النقل الصوتي للاسم العلمي الشائع:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Tuta absoluta"
         },
         {
@@ -665,7 +686,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.9.2 حفار أوراق وثمار الطماطم"
+          "text": "حفار أوراق وثمار الطماطم"
         },
         {
           "type": "doc-paragraph",
@@ -693,14 +714,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.9.3 حافرة أوراق الطماطم"
+          "text": "حافرة أوراق الطماطم"
         },
         {
           "type": "doc-paragraph",
           "text": "يمثل هذا الاسم الترجمة الحرفية لاسم:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Tomato leafminer"
         },
         {
@@ -718,7 +740,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.9.4 حافرة الطماطم"
+          "text": "حافرة الطماطم"
         },
         {
           "type": "doc-paragraph",
@@ -729,13 +751,14 @@
           "text": "ويرتبط الاسم المحدد دائمًا بتوتا أبسولوتا:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "حافرة الطماطم توتا أبسولوتا."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.9.5 عثة الطماطم الجنوبية الأمريكية"
+          "text": "عثة الطماطم الجنوبية الأمريكية"
         },
         {
           "type": "doc-paragraph",
@@ -748,12 +771,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.10 أسماء الآفة في مصر"
+          "text": "أسماء الآفة في مصر"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.10.1 التوتا"
+          "text": "التوتا"
         },
         {
           "type": "doc-paragraph",
@@ -764,7 +787,8 @@
           "text": "وهو اختصار للاسم:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Tuta absoluta"
         },
         {
@@ -800,7 +824,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.10.2 فراشة التوتا"
+          "text": "فراشة التوتا"
         },
         {
           "type": "doc-paragraph",
@@ -811,7 +835,8 @@
           "text": "والتعبير الأدق من الناحية الحشرية هو:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "عثة التوتا"
         },
         {
@@ -825,7 +850,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.10.3 دودة التوتا"
+          "text": "دودة التوتا"
         },
         {
           "type": "doc-paragraph",
@@ -836,7 +861,8 @@
           "text": "والاسم العلمي لهذا الطور هو:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "يرقة التوتا"
         },
         {
@@ -856,7 +882,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.10.4 حافرة الطماطم"
+          "text": "حافرة الطماطم"
         },
         {
           "type": "doc-paragraph",
@@ -878,7 +904,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.10.5 السوسة أو سوسة الطماطم"
+          "text": "السوسة أو سوسة الطماطم"
         },
         {
           "type": "doc-paragraph",
@@ -905,7 +931,8 @@
           "text": "فتوتا أبسولوتا تنتمي إلى:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "رتبة حرشفية الأجنحة — Lepidoptera"
         },
         {
@@ -917,7 +944,8 @@
           "text": "أما السوس الحقيقي فينتمي إلى:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "رتبة غمدية الأجنحة — Coleoptera"
         },
         {
@@ -966,19 +994,20 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.11 الفرق بين التوتا والليف ماينر في الطماطم"
+          "text": "الفرق بين التوتا والليف ماينر في الطماطم"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.11.1 معنى كلمة Leaf miner"
+          "text": "معنى كلمة Leaf miner"
         },
         {
           "type": "doc-paragraph",
           "text": "تعني كلمة:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Leaf miner"
         },
         {
@@ -1013,14 +1042,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.11.2 المقصود بالليف ماينر حقليًا في مصر"
+          "text": "المقصود بالليف ماينر حقليًا في مصر"
         },
         {
           "type": "doc-paragraph",
           "text": "عند استخدام اسم «الليف ماينر» في حقول الطماطم المصرية، يكون المقصود غالبًا:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "ذباب صانعات الأنفاق — Liriomyza spp."
         },
         {
@@ -1057,7 +1087,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.11.3 توتا أبسولوتا ليست ذبابة ليف ماينر"
+          "text": "توتا أبسولوتا ليست ذبابة ليف ماينر"
         },
         {
           "type": "doc-paragraph",
@@ -1094,7 +1124,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.11.4 المقارنة بين التوتا والليف ماينر"
+          "text": "المقارنة بين التوتا والليف ماينر"
         },
         {
           "type": "doc-table",
@@ -1164,7 +1194,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.11.5 شكل أنفاق التوتا"
+          "text": "شكل أنفاق التوتا"
         },
         {
           "type": "doc-paragraph",
@@ -1191,7 +1221,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.11.6 شكل أنفاق Liriomyza"
+          "text": "شكل أنفاق Liriomyza"
         },
         {
           "type": "doc-paragraph",
@@ -1218,19 +1248,20 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.12 الفرق بين التوتا وآفات أخرى متشابهة"
+          "text": "الفرق بين التوتا وآفات أخرى متشابهة"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.12.1 التوتا ودودة ثمار الطماطم"
+          "text": "التوتا ودودة ثمار الطماطم"
         },
         {
           "type": "doc-paragraph",
           "text": "ترتبط دودة ثمار الطماطم غالبًا بالنوع:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Helicoverpa armigera"
         },
         {
@@ -1244,14 +1275,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.12.2 التوتا وفراشة درنات البطاطس"
+          "text": "التوتا وفراشة درنات البطاطس"
         },
         {
           "type": "doc-paragraph",
           "text": "فراشة درنات البطاطس هي:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Phthorimaea operculella"
         },
         {
@@ -1259,7 +1291,8 @@
           "text": "أما توتا أبسولوتا فهي:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Phthorimaea absoluta"
         },
         {
@@ -1277,14 +1310,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.12.3 التوتا والدودة الدبوسية للطماطم"
+          "text": "التوتا والدودة الدبوسية للطماطم"
         },
         {
           "type": "doc-paragraph",
           "text": "تعرف الدودة الدبوسية للطماطم في أمريكا الشمالية باسم:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Keiferia lycopersicella"
         },
         {
@@ -1298,7 +1332,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.13 المصطلحات الحقلية الدقيقة"
+          "text": "المصطلحات الحقلية الدقيقة"
         },
         {
           "type": "doc-table",
@@ -1356,7 +1390,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.14 أهمية الاسم الصحيح في التشخيص والمكافحة"
+          "text": "أهمية الاسم الصحيح في التشخيص والمكافحة"
         },
         {
           "type": "doc-paragraph",
@@ -1402,14 +1436,15 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3.15 خلاصة الفصل"
+          "text": "خلاصة الفصل"
         },
         {
           "type": "doc-paragraph",
           "text": "الاسم العلمي التصنيفي الحديث لتوتا أبسولوتا هو:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Phthorimaea absoluta Meyrick, 1917"
         },
         {
@@ -1417,7 +1452,8 @@
           "text": "أما الاسم الأشهر عالميًا وحقليًا فهو:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Tuta absoluta (Meyrick, 1917)"
         },
         {
@@ -1476,60 +1512,52 @@
           "text": "وبذلك يكون التمييز الحقلي الأساسي:"
         },
         {
-          "type": "doc-quote",
-          "text": "التوتا: عثة تحفر يرقاتها في الأوراق والقمم والسيقان والثمار."
-        },
-        {
-          "type": "doc-quote",
-          "text": "الليف ماينر: ذبابة تصنع يرقاتها أنفاقًا متعرجة داخل الأوراق أساسًا."
+          "type": "doc-paragraph",
+          "text": "> التوتا: عثة تحفر يرقاتها في الأوراق والقمم والسيقان والثمار."
         },
         {
           "type": "doc-paragraph",
-          "text": "المراجع"
+          "text": "> الليف ماينر: ذبابة تصنع يرقاتها أنفاقًا متعرجة داخل الأوراق أساسًا."
         },
         {
-          "type": "doc-paragraph",
-          "text": "1. European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta (GNORAB): Preferred name, synonyms and common names."
+          "type": "doc-heading",
+          "level": 3,
+          "text": "المراجع",
+          "id": "chapter-three-references"
         },
         {
-          "type": "doc-paragraph",
-          "text": "https://gd.eppo.int/taxon/GNORAB"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "2. Chang, P. E. C., & Metz, M. A. (2021). Classification of Tuta absoluta (Meyrick, 1917) (Lepidoptera: Gelechiidae: Gelechiinae: Gnorimoschemini) based on cladistic analysis of morphology. Proceedings of the Entomological Society of Washington, 123(1), 41–54."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://doi.org/10.4289/0013-8797.123.1.41"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "3. USDA–APHIS Cooperative Agricultural Pest Survey Program. (2025). Phthorimaea absoluta CAPS Datasheet: Synonyms and common names."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://caps.ceris.purdue.edu/wp-content/uploads/2025/07/Phthorimaea-absoluta-CAPS-datasheet-20250328.pdf"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "4. CABI. Phthorimaea absoluta: Identity, nomenclature and common names."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.49260"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "5. Pandey, M., et al. (2023). A review on biology and possible management strategies of Tuta absoluta. Heliyon."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10248037/"
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "EPPO. Phthorimaea absoluta (GNORAB): Taxonomy, preferred name, synonyms and common names.",
+              "url": "https://gd.eppo.int/taxon/GNORAB"
+            },
+            {
+              "number": 2,
+              "text": "Chang, P. E. C., & Metz, M. A. (2021). Classification of Tuta absoluta (Meyrick, 1917) (Lepidoptera: Gelechiidae: Gelechiinae: Gnorimoschemini) based on cladistic analysis of morphology. Proceedings of the Entomological Society of Washington, 123(1), 41–54.",
+              "url": "https://doi.org/10.4289/0013-8797.123.1.41"
+            },
+            {
+              "number": 3,
+              "text": "USDA–APHIS CAPS. (2025). Phthorimaea absoluta CAPS Datasheet: Synonyms and common names.",
+              "url": "https://caps.ceris.purdue.edu/wp-content/uploads/2025/07/Phthorimaea-absoluta-CAPS-datasheet-20250328.pdf"
+            },
+            {
+              "number": 4,
+              "text": "CABI. Phthorimaea absoluta: Identity and nomenclature.",
+              "url": "https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.49260"
+            },
+            {
+              "number": 5,
+              "text": "Pandey, M., et al. (2023). A review on biology and possible management strategies of Tuta absoluta. Heliyon.",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10248037/"
+            }
+          ]
         }
       ],
       "meta": {
-        "updated_at": "2026-06-20"
+        "updated_at": "2026-06-23"
       }
     }
   ]

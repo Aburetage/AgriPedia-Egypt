@@ -17,7 +17,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.1 مقدمة"
+          "text": "مقدمة"
         },
         {
           "type": "doc-paragraph",
@@ -34,7 +34,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.2 تعريف حشرة توتا أبسولوتا"
+          "text": "تعريف حشرة توتا أبسولوتا"
         },
         {
           "type": "doc-paragraph",
@@ -45,7 +45,8 @@
           "text": "يُستخدم الاسم العلمي الشائع:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Tuta absoluta (Meyrick)"
         },
         {
@@ -53,7 +54,8 @@
           "text": "كما تستخدم بعض المراجع التصنيفية الحديثة الاسم:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Phthorimaea absoluta (Meyrick)"
         },
         {
@@ -67,10 +69,10 @@
         {
           "type": "doc-list",
           "items": [
-            "البيضة.",
-            "اليرقة.",
-            "العذراء.",
-            "الحشرة الكاملة أو الفراشة."
+            "1. البيضة.",
+            "2. اليرقة.",
+            "3. العذراء.",
+            "4. الحشرة الكاملة أو الفراشة."
           ]
         },
         {
@@ -84,7 +86,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.3 هل توتا أبسولوتا فراشة أم حافرة أم دودة؟"
+          "text": "هل توتا أبسولوتا فراشة أم حافرة أم دودة؟"
         },
         {
           "type": "doc-paragraph",
@@ -108,7 +110,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.4 طبيعة الإصابة"
+          "text": "طبيعة الإصابة"
         },
         {
           "type": "doc-paragraph",
@@ -140,7 +142,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.5 طبيعة الضرر الذي تحدثه الآفة"
+          "text": "طبيعة الضرر الذي تحدثه الآفة"
         },
         {
           "type": "doc-paragraph",
@@ -149,17 +151,17 @@
         {
           "type": "doc-list",
           "items": [
-            "ضرر تغذوي مباشر.",
-            "ضرر فسيولوجي.",
-            "ضرر تركيبي.",
-            "ضرر غير مباشر ناتج عن العدوى الثانوية.",
-            "ضرر اقتصادي وتسويقي."
+            "1. ضرر تغذوي مباشر.",
+            "2. ضرر فسيولوجي.",
+            "3. ضرر تركيبي.",
+            "4. ضرر غير مباشر ناتج عن العدوى الثانوية.",
+            "5. ضرر اقتصادي وتسويقي."
           ]
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.5.1 الضرر التغذوي المباشر"
+          "text": "الضرر التغذوي المباشر"
         },
         {
           "type": "doc-paragraph",
@@ -170,7 +172,8 @@
           "text": "وينتج عن ذلك تكوين مناطق فاتحة أو شفافة تعرف باسم:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "الأنفاق أو البقع الحفرية — Mines"
         },
         {
@@ -188,7 +191,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.5.2 الضرر الفسيولوجي"
+          "text": "الضرر الفسيولوجي"
         },
         {
           "type": "doc-paragraph",
@@ -222,7 +225,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.5.3 الضرر التركيبي في السيقان والقمم"
+          "text": "الضرر التركيبي في السيقان والقمم"
         },
         {
           "type": "doc-paragraph",
@@ -262,7 +265,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.5.4 الضرر المباشر في الثمار"
+          "text": "الضرر المباشر في الثمار"
         },
         {
           "type": "doc-paragraph",
@@ -306,7 +309,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.5.5 الضرر غير المباشر والعدوى الثانوية"
+          "text": "الضرر غير المباشر والعدوى الثانوية"
         },
         {
           "type": "doc-paragraph",
@@ -319,12 +322,12 @@
         {
           "type": "doc-list",
           "items": [
-            "جرحًا ناتجًا عن دخول اليرقة.",
-            "أنفاقًا داخل الأنسجة.",
-            "تجمع رطوبة وفضلات داخل النفق.",
-            "دخول كائنات دقيقة ممرضة.",
-            "تحلل الأنسجة وتعفنها.",
-            "فقد الثمرة بالكامل."
+            "1. جرحًا ناتجًا عن دخول اليرقة.",
+            "2. أنفاقًا داخل الأنسجة.",
+            "3. تجمع رطوبة وفضلات داخل النفق.",
+            "4. دخول كائنات دقيقة ممرضة.",
+            "5. تحلل الأنسجة وتعفنها.",
+            "6. فقد الثمرة بالكامل."
           ]
         },
         {
@@ -338,7 +341,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.5.6 الضرر الاقتصادي والتسويقي"
+          "text": "الضرر الاقتصادي والتسويقي"
         },
         {
           "type": "doc-paragraph",
@@ -372,12 +375,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.6 الطور الضار"
+          "text": "الطور الضار"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.6.1 اليرقة هي الطور المسؤول عن الضرر"
+          "text": "اليرقة هي الطور المسؤول عن الضرر"
         },
         {
           "type": "doc-paragraph",
@@ -393,7 +396,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "اليرقات حديثة الفقس"
         },
         {
@@ -412,7 +415,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "اليرقات المتوسطة والمتقدمة"
         },
         {
@@ -438,7 +441,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.6.2 لماذا لا تُعد البيضة طورًا ضارًا؟"
+          "text": "لماذا لا تُعد البيضة طورًا ضارًا؟"
         },
         {
           "type": "doc-paragraph",
@@ -455,7 +458,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.6.3 لماذا لا تُعد العذراء طورًا ضارًا؟"
+          "text": "لماذا لا تُعد العذراء طورًا ضارًا؟"
         },
         {
           "type": "doc-paragraph",
@@ -468,7 +471,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.6.4 لماذا لا تُعد الفراشة الكاملة الطور الضار مباشرة؟"
+          "text": "لماذا لا تُعد الفراشة الكاملة الطور الضار مباشرة؟"
         },
         {
           "type": "doc-paragraph",
@@ -500,7 +503,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.7 آلية حدوث الضرر خطوة بخطوة"
+          "text": "آلية حدوث الضرر خطوة بخطوة"
         },
         {
           "type": "doc-paragraph",
@@ -508,7 +511,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "المرحلة الأولى: وصول الفراشات إلى الحقل"
         },
         {
@@ -528,7 +531,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "المرحلة الثانية: وضع البيض"
         },
         {
@@ -537,7 +540,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "المرحلة الثالثة: الفقس"
         },
         {
@@ -546,7 +549,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "المرحلة الرابعة: دخول النسيج"
         },
         {
@@ -555,7 +558,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "المرحلة الخامسة: اتساع النفق"
         },
         {
@@ -564,7 +567,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "المرحلة السادسة: الانتقال"
         },
         {
@@ -573,7 +576,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "المرحلة السابعة: التعذر وظهور جيل جديد"
         },
         {
@@ -587,7 +590,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.8 لماذا يصعب وصول المبيد إلى اليرقة؟"
+          "text": "لماذا يصعب وصول المبيد إلى اليرقة؟"
         },
         {
           "type": "doc-paragraph",
@@ -622,12 +625,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.9 فكرة عامة عن خطورة الآفة"
+          "text": "فكرة عامة عن خطورة الآفة"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.9.1 آفة غازية ناجحة"
+          "text": "آفة غازية ناجحة"
         },
         {
           "type": "doc-paragraph",
@@ -654,40 +657,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.9.2 إصابة المحصول في جميع مراحله"
+          "text": "إصابة المحصول في جميع مراحله"
         },
         {
           "type": "doc-paragraph",
           "text": "يمكن أن تبدأ الإصابة داخل المشتل وتستمر حتى نهاية الحصاد. ويترتب على ذلك اختلاف شكل الخسارة حسب مرحلة المحصول:"
         },
         {
-          "type": "doc-table",
-          "rows": [
-            {
-              "label": "المشتل",
-              "value": "ضعف الشتلات وانتقال الآفة إلى الحقل"
-            },
-            {
-              "label": "بعد الشتل",
-              "value": "بطء التأسيس وإصابة القمم"
-            },
-            {
-              "label": "النمو الخضري",
-              "value": "تراجع المسطح الورقي"
-            },
-            {
-              "label": "التزهير والعقد",
-              "value": "اضطراب النمو وإصابة الأنسجة الحديثة"
-            },
-            {
-              "label": "امتلاء الثمار",
-              "value": "انخفاض التمثيل الضوئي وإصابة الثمار"
-            },
-            {
-              "label": "التلوين والحصاد",
-              "value": "رفض الثمار وزيادة الفاقد ومشكلة فترة الأمان"
-            }
-          ]
+          "type": "doc-paragraph",
+          "text": "| مرحلة المحصول | الأثر المحتمل للإصابة | | --------------- | ------------------------------------------- | | المشتل | ضعف الشتلات وانتقال الآفة إلى الحقل | | بعد الشتل | بطء التأسيس وإصابة القمم | | النمو الخضري | تراجع المسطح الورقي | | التزهير والعقد | اضطراب النمو وإصابة الأنسجة الحديثة | | امتلاء الثمار | انخفاض التمثيل الضوئي وإصابة الثمار | | التلوين والحصاد | رفض الثمار وزيادة الفاقد ومشكلة فترة الأمان |"
         },
         {
           "type": "doc-paragraph",
@@ -696,7 +674,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.9.3 تداخل الأجيال"
+          "text": "تداخل الأجيال"
         },
         {
           "type": "doc-paragraph",
@@ -723,7 +701,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.9.4 القدرة على إحداث خسائر شديدة"
+          "text": "القدرة على إحداث خسائر شديدة"
         },
         {
           "type": "doc-paragraph",
@@ -756,7 +734,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.9.5 القدرة على تطوير المقاومة"
+          "text": "القدرة على تطوير المقاومة"
         },
         {
           "type": "doc-paragraph",
@@ -790,7 +768,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.9.6 انتقالها من الحقول القديمة إلى الحديثة"
+          "text": "انتقالها من الحقول القديمة إلى الحديثة"
         },
         {
           "type": "doc-paragraph",
@@ -803,13 +781,13 @@
         {
           "type": "doc-list",
           "items": [
-            "ترتفع الإصابة في حقل قديم.",
-            "يقترب الحصاد من نهايته.",
-            "يتوقف المزارع عن الرش.",
-            "تظل النباتات المصابة في الأرض.",
-            "تخرج أعداد جديدة من الفراشات.",
-            "تنتقل إلى حقول أصغر عمرًا.",
-            "تبدأ الإصابة في الزراعات الحديثة."
+            "1. ترتفع الإصابة في حقل قديم.",
+            "2. يقترب الحصاد من نهايته.",
+            "3. يتوقف المزارع عن الرش.",
+            "4. تظل النباتات المصابة في الأرض.",
+            "5. تخرج أعداد جديدة من الفراشات.",
+            "6. تنتقل إلى حقول أصغر عمرًا.",
+            "7. تبدأ الإصابة في الزراعات الحديثة."
           ]
         },
         {
@@ -819,7 +797,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.9.7 انخفاض عتبة قبول الثمار المصابة"
+          "text": "انخفاض عتبة قبول الثمار المصابة"
         },
         {
           "type": "doc-paragraph",
@@ -860,7 +838,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.10 الفرق بين الإصابة النشطة والإصابة القديمة"
+          "text": "الفرق بين الإصابة النشطة والإصابة القديمة"
         },
         {
           "type": "doc-paragraph",
@@ -882,7 +860,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "دلائل الإصابة النشطة"
         },
         {
@@ -898,7 +876,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "دلائل الإصابة القديمة"
         },
         {
@@ -918,7 +896,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.11 مؤشرات يجب رصدها لتقدير الخطورة"
+          "text": "مؤشرات يجب رصدها لتقدير الخطورة"
         },
         {
           "type": "doc-paragraph",
@@ -948,7 +926,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.12 مفاهيم خاطئة شائعة"
+          "text": "مفاهيم خاطئة شائعة"
         },
         {
           "type": "doc-heading",
@@ -1016,7 +994,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2.13 خلاصة الفصل"
+          "text": "خلاصة الفصل"
         },
         {
           "type": "doc-paragraph",
@@ -1049,7 +1027,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 1,
+          "level": 3,
           "text": "المراجع",
           "id": "chapter-two-references"
         },
@@ -1058,12 +1036,12 @@
           "items": [
             {
               "number": 1,
-              "text": "European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta (GNORAB): Overview, hosts, distribution and pest information.",
+              "text": "EPPO. Phthorimaea absoluta (GNORAB): Data sheet and pest overview.",
               "url": "https://gd.eppo.int/taxon/GNORAB"
             },
             {
               "number": 2,
-              "text": "European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta: EPPO Data Sheet.",
+              "text": "EPPO. Phthorimaea absoluta: EPPO Data Sheet.",
               "url": "https://gd.eppo.int/download/doc/972_ds_GNORAB_en.pdf"
             },
             {
@@ -1073,24 +1051,24 @@
             },
             {
               "number": 4,
-              "text": "Mujica, N., et al. (2022). Tomato leafminer, Tuta absoluta. Pest Risk Atlas for Africa. International Potato Center (CIP).",
+              "text": "Mujica, N., et al. Tomato leafminer, Tuta absoluta: Pest Risk Atlas for Africa chapter. International Potato Center (CIP).",
               "url": "https://cipotato.org/riskatlasforafrica/wp-content/uploads/sites/4/2022/12/Tuta-absoluta_New-atlas-chapter.pdf"
             },
             {
               "number": 5,
-              "text": "USDA–APHIS Cooperative Agricultural Pest Survey Program. (2025). Phthorimaea absoluta CAPS Datasheet.",
+              "text": "USDA–APHIS CAPS. (2025). Phthorimaea absoluta CAPS Datasheet.",
               "url": "https://caps.ceris.purdue.edu/wp-content/uploads/2025/07/Phthorimaea-absoluta-CAPS-datasheet-20250328.pdf"
             },
             {
               "number": 6,
-              "text": "Desneux, N., Wajnberg, E., Wyckhuys, K. A. G., et al. (2010). Biological invasion of European tomato crops by Tuta absoluta: Ecology, geographic expansion and prospects for biological control. Journal of Pest Science, 83, 197–215.",
-              "url": "https://doi.org/10.1007/s10340-010-0321-6"
+              "text": "Arnó, J., Sorribas, R., Prat, M., Matas, M., Pozo, C., Rodríguez, D., Garreta, A., Gómez, A., & Gabarra, R. (2019). Tuta absoluta success on susceptible and resistant tomato cultivars. Environmental Entomology, 48(6), 1394–1401.",
+              "url": "https://academic.oup.com/ee/article/48/6/1394/5584331"
             }
           ]
         }
       ],
       "meta": {
-        "updated_at": "2026-06-20"
+        "updated_at": "2026-06-23"
       }
     }
   ]

@@ -17,7 +17,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "1. مقدمة عامة"
+          "text": "مقدمة عامة"
         },
         {
           "type": "doc-paragraph",
@@ -40,12 +40,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "2. أهمية الطماطم عالميًا"
+          "text": "أهمية الطماطم عالميًا"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.1 حجم الإنتاج العالمي"
+          "text": "حجم الإنتاج العالمي"
         },
         {
           "type": "doc-paragraph",
@@ -73,7 +73,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.2 القيمة الغذائية"
+          "text": "القيمة الغذائية"
         },
         {
           "type": "doc-paragraph",
@@ -101,7 +101,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.3 الأهمية التصنيعية"
+          "text": "الأهمية التصنيعية"
         },
         {
           "type": "doc-paragraph",
@@ -131,7 +131,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "2.4 الأهمية الاجتماعية والاقتصادية"
+          "text": "الأهمية الاجتماعية والاقتصادية"
         },
         {
           "type": "doc-paragraph",
@@ -160,12 +160,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "3. أهمية الطماطم في مصر"
+          "text": "أهمية الطماطم في مصر"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.1 موقع الطماطم في الزراعة المصرية"
+          "text": "موقع الطماطم في الزراعة المصرية"
         },
         {
           "type": "doc-paragraph",
@@ -197,7 +197,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.2 تعدد العروات ومناطق الإنتاج"
+          "text": "تعدد العروات ومناطق الإنتاج"
         },
         {
           "type": "doc-paragraph",
@@ -208,9 +208,7 @@
           "text": "فعندما توجد حقول الطماطم بأعمار مختلفة ومتقاربة مكانيًا، تستطيع الآفات الانتقال من الحقول القديمة إلى الزراعات الحديثة. وقد تتحول الحقول المتروكة، أو بقايا المحصول، أو النباتات المتطوعة، أو العوائل الباذنجانية البرية إلى مصادر مستمرة لتكاثر الآفة وانتشارها."
         },
         {
-          "type": "doc-callout",
-          "tone": "danger",
-          "icon": "fas fa-triangle-exclamation",
+          "type": "doc-paragraph",
           "text": "وتُعرف هذه الظاهرة أحيانًا باسم الجسر الأخضر (Green Bridge)، حيث تتوافر نباتات عائلة مناسبة للآفة طوال فترات طويلة، فلا تنقطع دورة حياتها بصورة كاملة بين المواسم."
         },
         {
@@ -220,24 +218,29 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.3 الطماطم الطازجة والطماطم الصناعية"
+          "text": "الطماطم الطازجة والطماطم الصناعية"
         },
         {
           "type": "doc-paragraph",
           "text": "تُنتج الطماطم في مصر لغرضين رئيسيين:"
         },
         {
-          "type": "doc-table",
-          "rows": [
-            {
-              "label": "الإنتاج للسوق الطازج",
-              "value": "ويُركز على صفات الشكل، والحجم، واللون، والصلابة، وتحمل التداول، وخلو الثمار من العيوب الظاهرية."
-            },
-            {
-              "label": "الإنتاج للتصنيع",
-              "value": "ويُركز على البريكس، واللون، والتركيز، والصلابة، والنضج المتجانس، وانخفاض العيوب، وكفاءة التحويل إلى معجون أو مركزات."
-            }
-          ]
+          "type": "doc-heading",
+          "level": 4,
+          "text": "الإنتاج للسوق الطازج:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "ويُركز على صفات الشكل، والحجم، واللون، والصلابة، وتحمل التداول، وخلو الثمار من العيوب الظاهرية."
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "الإنتاج للتصنيع:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "ويُركز على البريكس، واللون، والتركيز، والصلابة، والنضج المتجانس، وانخفاض العيوب، وكفاءة التحويل إلى معجون أو مركزات."
         },
         {
           "type": "doc-paragraph",
@@ -246,7 +249,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "3.4 أثر الفاقد في سلسلة القيمة"
+          "text": "أثر الفاقد في سلسلة القيمة"
         },
         {
           "type": "doc-paragraph",
@@ -271,12 +274,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4. لماذا تعتبر الآفات خطرًا اقتصاديًا؟"
+          "text": "لماذا تعتبر الآفات خطرًا اقتصاديًا؟"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.1 الفرق بين وجود الآفة وحدوث الضرر الاقتصادي"
+          "text": "الفرق بين وجود الآفة وحدوث الضرر الاقتصادي"
         },
         {
           "type": "doc-paragraph",
@@ -287,21 +290,31 @@
           "text": "ويُفرق علم إدارة الآفات بين ثلاثة مفاهيم رئيسية:"
         },
         {
-          "type": "doc-table",
-          "rows": [
-            {
-              "label": "الإصابة (Infestation)",
-              "value": "وجود الآفة أو أطوارها على النبات أو داخل أنسجته."
-            },
-            {
-              "label": "الضرر (Damage)",
-              "value": "التأثير الفعلي للآفة في الأنسجة النباتية، مثل الأنفاق أو التغذية أو تلف الثمار."
-            },
-            {
-              "label": "الخسارة الاقتصادية (Economic Loss)",
-              "value": "الانخفاض المالي الناتج عن فقد المحصول أو تدني جودته أو ارتفاع تكاليف إنتاجه."
-            }
-          ]
+          "type": "doc-heading",
+          "level": 4,
+          "text": "الإصابة (Infestation):"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "وجود الآفة أو أطوارها على النبات أو داخل أنسجته."
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "الضرر (Damage):"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "التأثير الفعلي للآفة في الأنسجة النباتية، مثل الأنفاق أو التغذية أو تلف الثمار."
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "الخسارة الاقتصادية (Economic Loss):"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "الانخفاض المالي الناتج عن فقد المحصول أو تدني جودته أو ارتفاع تكاليف إنتاجه."
         },
         {
           "type": "doc-paragraph",
@@ -310,7 +323,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.2 الخسارة المباشرة في المحصول"
+          "text": "الخسارة المباشرة في المحصول"
         },
         {
           "type": "doc-paragraph",
@@ -338,7 +351,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.3 انخفاض الجودة التسويقية"
+          "text": "انخفاض الجودة التسويقية"
         },
         {
           "type": "doc-paragraph",
@@ -349,8 +362,8 @@
           "text": "وتُعد هذه النقطة شديدة الأهمية؛ لأن المعيار الاقتصادي الحقيقي ليس دائمًا إجمالي المحصول، وإنما:"
         },
         {
-          "type": "doc-quote",
-          "text": "المحصول القابل للتسويق أو المقبول تصنيعيًا."
+          "type": "doc-paragraph",
+          "text": "> المحصول القابل للتسويق أو المقبول تصنيعيًا."
         },
         {
           "type": "doc-paragraph",
@@ -363,7 +376,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.4 زيادة تكاليف الإنتاج"
+          "text": "زيادة تكاليف الإنتاج"
         },
         {
           "type": "doc-paragraph",
@@ -392,7 +405,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.5 متبقيات المبيدات وفترات ما قبل الحصاد"
+          "text": "متبقيات المبيدات وفترات ما قبل الحصاد"
         },
         {
           "type": "doc-paragraph",
@@ -417,7 +430,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.6 ظهور المقاومة للمبيدات"
+          "text": "ظهور المقاومة للمبيدات"
         },
         {
           "type": "doc-paragraph",
@@ -446,7 +459,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.7 قتل الأعداء الحيوية"
+          "text": "قتل الأعداء الحيوية"
         },
         {
           "type": "doc-paragraph",
@@ -473,14 +486,15 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.8 معادلة الخسارة الاقتصادية"
+          "text": "معادلة الخسارة الاقتصادية"
         },
         {
           "type": "doc-paragraph",
           "text": "يمكن التعبير بصورة مبسطة عن الأثر الاقتصادي للآفة بالعلاقة التالية:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "الأثر الاقتصادي الكلي للآفة ="
         },
         {
@@ -505,12 +519,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5. تمهيد عن خطورة توتا أبسولوتا"
+          "text": "تمهيد عن خطورة توتا أبسولوتا"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.1 ما توتا أبسولوتا؟"
+          "text": "ما توتا أبسولوتا؟"
         },
         {
           "type": "doc-paragraph",
@@ -540,7 +554,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.2 لماذا تعد من أخطر آفات الطماطم؟"
+          "text": "لماذا تعد من أخطر آفات الطماطم؟"
         },
         {
           "type": "doc-paragraph",
@@ -705,7 +719,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "6. توتا أبسولوتا في الظروف المصرية"
+          "text": "توتا أبسولوتا في الظروف المصرية"
         },
         {
           "type": "doc-paragraph",
@@ -739,7 +753,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "7. لماذا لا تكفي المكافحة الكيميائية وحدها؟"
+          "text": "لماذا لا تكفي المكافحة الكيميائية وحدها؟"
         },
         {
           "type": "doc-paragraph",
@@ -772,7 +786,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "8. المبادئ الأولية للنجاح في إدارة الآفة"
+          "text": "المبادئ الأولية للنجاح في إدارة الآفة"
         },
         {
           "type": "doc-paragraph",
@@ -781,26 +795,91 @@
         {
           "type": "doc-list",
           "items": [
-            "منع دخول الآفة مع الشتلات المصابة.",
-            "تركيب المصائد الفرمونية مبكرًا، قبل ظهور الإصابة الشديدة.",
-            "فحص النباتات ميدانيًا، وعدم الاعتماد على المصائد وحدها.",
-            "إزالة الأوراق أو النباتات شديدة الإصابة في بداية التفشي عندما يكون ذلك ممكنًا.",
-            "التخلص السريع من مخلفات المحصول بعد انتهاء الحصاد.",
-            "منع استمرار الحقول المهملة كمصدر للفراشات.",
-            "مكافحة الحشائش والعوائل البديلة.",
-            "حماية الأعداء الحيوية الموجودة طبيعيًا.",
-            "استخدام عوامل المكافحة الحيوية والميكروبية ضمن برنامج واضح.",
-            "اختيار المبيدات بناءً على المادة الفعالة وآلية التأثير، وليس الاسم التجاري فقط.",
-            "تناوب مجموعات المبيدات وفق تصنيف IRAC.",
-            "الالتزام بالجرعات وفترات ما قبل الحصاد.",
-            "تقييم النتائج من خلال نسبة الإصابة والثمرة التالفة، وليس بعدد الرشات.",
-            "تنسيق المكافحة بين الحقول المتجاورة قدر الإمكان."
+            "1. منع دخول الآفة مع الشتلات المصابة."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "2. تركيب المصائد الفرمونية مبكرًا، قبل ظهور الإصابة الشديدة."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "3. فحص النباتات ميدانيًا، وعدم الاعتماد على المصائد وحدها."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "4. إزالة الأوراق أو النباتات شديدة الإصابة في بداية التفشي عندما يكون ذلك ممكنًا."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "5. التخلص السريع من مخلفات المحصول بعد انتهاء الحصاد."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "6. منع استمرار الحقول المهملة كمصدر للفراشات."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "7. مكافحة الحشائش والعوائل البديلة."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "8. حماية الأعداء الحيوية الموجودة طبيعيًا."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "9. استخدام عوامل المكافحة الحيوية والميكروبية ضمن برنامج واضح."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "10. اختيار المبيدات بناءً على المادة الفعالة وآلية التأثير، وليس الاسم التجاري فقط."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "11. تناوب مجموعات المبيدات وفق تصنيف IRAC."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "12. الالتزام بالجرعات وفترات ما قبل الحصاد."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "13. تقييم النتائج من خلال نسبة الإصابة والثمرة التالفة، وليس بعدد الرشات."
+          ]
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "14. تنسيق المكافحة بين الحقول المتجاورة قدر الإمكان."
           ]
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "9. الرسالة الأساسية للفصل"
+          "text": "الرسالة الأساسية للفصل"
         },
         {
           "type": "doc-paragraph",
@@ -827,8 +906,12 @@
           "text": "ولهذا فإن النجاح في التعامل معها يبدأ قبل ظهور الضرر الاقتصادي، من خلال الوقاية والرصد والكشف المبكر، ثم استخدام مجموعة متكاملة من الإجراءات الزراعية والحيوية والسلوكية والكيميائية."
         },
         {
+          "type": "doc-paragraph",
+          "text": "وستتناول الفصول التالية تعريف الآفة وتسميتها وتصنيفها وانتشارها العالمي، ثم وصف أطوارها ودورة حياتها وعوائلها وأعراض الإصابة، قبل الانتقال إلى فصل تفصيلي شامل عن برامج الإدارة المتكاملة لتوتا أبسولوتا في الحقول المكشوفة."
+        },
+        {
           "type": "doc-heading",
-          "level": 1,
+          "level": 3,
           "text": "المراجع",
           "id": "chapter-one-references"
         },
@@ -837,44 +920,39 @@
           "items": [
             {
               "number": 1,
-              "text": "FAO. 2024. Agricultural Production Statistics 2010–2023. Food and Agriculture Organization of the United Nations, Rome.",
-              "url": "https://www.fao.org/statistics/highlights-archive/highlights-detail/agricultural-production-statistics-2010-2023/en"
+              "text": "Food and Agriculture Organization of the United Nations (FAO). FAOSTAT: Crops and Livestock Products—Tomato Production Database. Rome, Italy.",
+              "url": "https://www.fao.org/faostat/en/#data/QCL"
             },
             {
               "number": 2,
-              "text": "FAO. 2021. Food Loss Analysis for Tomato Value Chains in Egypt. Food and Agriculture Organization of the United Nations, Cairo.",
-              "url": "https://doi.org/10.4060/cb4733en"
-            },
-            {
-              "number": 3,
-              "text": "Guedes, R. N. C., Roditakis, E., Campos, M. R., et al. 2019. Insecticide Resistance in the Tomato Pinworm Tuta absoluta: Patterns, Spread, Mechanisms, Management and Outlook. Journal of Pest Science, 92: 1329–1342.",
-              "url": "https://doi.org/10.1007/s10340-019-01086-9"
-            },
-            {
-              "number": 4,
-              "text": "NAPPO. Surveillance Protocol for the Tomato Leaf Miner, Tuta absoluta.",
-              "url": "https://www.ippc.int/fr/about/core-activities/capacity-development/guides-and-training-materials/contributed-resource-detail/surveillance-protocol-tomato-leaf-miner-tuta-absoluta/"
-            },
-            {
-              "number": 5,
-              "text": "Biondi, A., Guedes, R. N. C., Wan, F. H., and Desneux, N. 2018. Ecology, Worldwide Spread, and Management of the Invasive South American Tomato Pinworm, Tuta absoluta: Past, Present, and Future. Annual Review of Entomology, 63: 239–258.",
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F.-H., & Desneux, N. (2018). Ecology, Worldwide Spread, and Management of the Invasive South American Tomato Pinworm, Tuta absoluta: Past, Present, and Future. Annual Review of Entomology, 63, 239–258.",
               "url": "https://doi.org/10.1146/annurev-ento-031616-034933"
             },
             {
-              "number": 6,
-              "text": "Desneux, N., Han, P., Mansour, R., et al. 2022. Integrated Pest Management of Tuta absoluta: Practical Implementations across Different World Regions. Journal of Pest Science, 95(1): 17–39.",
-              "url": "https://doi.org/10.1007/s10340-021-01442-8"
+              "number": 3,
+              "text": "Desneux, N., Wajnberg, E., Wyckhuys, K. A. G., Burgio, G., Arpaia, S., Narváez-Vasquez, C. A., González-Cabrera, J., Catalán Ruescas, D., Tabone, E., Frandon, J., Pizzol, J., Poncet, C., Cabello, T., & Urbaneja, A. (2010). Biological invasion of European tomato crops by Tuta absoluta: Ecology, geographic expansion and prospects for biological control. Journal of Pest Science, 83, 197–215.",
+              "url": "https://doi.org/10.1007/s10340-010-0321-6"
             },
             {
-              "number": 7,
-              "text": "EPPO. Phthorimaea absoluta, commonly known as Tuta absoluta. EPPO Global Database.",
-              "url": "https://gd.eppo.int/taxon/GNORAB"
+              "number": 4,
+              "text": "CABI. (2020). Phthorimaea absoluta (tomato leafminer). CABI Compendium.",
+              "url": "https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.49260"
+            },
+            {
+              "number": 5,
+              "text": "CABI. (2019). Tomato leafminer (Tuta absoluta): Impacts and coping strategies for Africa.",
+              "url": "https://www.invasive-species.org/wp-content/uploads/sites/2/2019/04/Tuta-Evidence-Note_FINAL.pdf"
+            },
+            {
+              "number": 6,
+              "text": "FAO. Developing an Integrated Pest Management and Biorational Programme for Control and Containment of Tuta absoluta in Tomato.",
+              "url": "https://openknowledge.fao.org/handle/20.500.14283/cb3204en"
             }
           ]
         }
       ],
       "meta": {
-        "updated_at": "2026-06-19"
+        "updated_at": "2026-06-23"
       }
     }
   ]
