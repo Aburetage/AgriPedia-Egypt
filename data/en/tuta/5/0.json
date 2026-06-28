@@ -1,0 +1,716 @@
+{
+  "tab_title": "Morphological Description",
+  "part_index": 0,
+  "part_title": "Part One: General Introduction to Morphological Description",
+  "part_short_title": "General Introduction to Morphological Description",
+  "part_subtitle": "",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Six"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Morphological Description of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Morphological description refers to the study of the external and structural characteristics that distinguish a living organism, such as shape, size, color, body segmentation, appendages, wings, setae, and diagnostic markings.",
+          "prepared_text": "[[prepared]][[term:morphology]]Morphological description[[/term]] refers to the study of the external and structural characteristics that distinguish a living organism, such as shape, size, color, body segmentation, appendages, wings, setae, and diagnostic markings."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Morphological description provides an essential basis for identifying Tuta absoluta and distinguishing it from other pests that attack tomato crops, particularly species that may cause similar symptoms, such as leaf-mining flies, potato tuber moth, tomato pinworm, and tomato fruitworm.",
+          "prepared_text": "[[prepared]]Morphological description provides an essential basis for identifying Tuta absoluta and distinguishing it from other pests that attack tomato crops, particularly species that may cause similar symptoms, such as leaf-mining flies, potato tuber moth, tomato pinworm, and tomato fruitworm."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta undergoes complete metamorphosis involving four clearly distinct stages that differ in both form and function:",
+          "prepared_text": "[[prepared]]Tuta absoluta undergoes [[term:complete-metamorphosis]]complete metamorphosis[[/term]] involving four clearly distinct stages that differ in both form and function:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Egg.",
+            "2. Larva.",
+            "3. Pupa.",
+            "4. Adult insect or moth."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Egg.",
+            "[[prepared]]2. Larva.",
+            "[[prepared]]3. [[term:pupation]]Pupa[[/term]].",
+            "[[prepared]]4. Adult insect or moth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The transition between these stages is not merely a gradual increase in size. Each stage differs from the others in body structure, behavior, location on the plant, and role within the life cycle.",
+          "prepared_text": "[[prepared]]The transition between these stages is not merely a gradual increase in size. Each stage differs from the others in body structure, behavior, location on the plant, and role within the life cycle."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The egg represents the beginning of a new individual, the larva is the feeding and damaging stage, the pupa is the stage of body reorganization and transformation, while the adult moth represents the reproductive, dispersal, and egg-laying stage.",
+          "prepared_text": "[[prepared]]The egg represents the beginning of a new individual, the larva is the feeding and damaging stage, the pupa is the stage of body reorganization and transformation, while the adult moth represents the reproductive, dispersal, and egg-laying stage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Importance of Morphological Description in Pest Diagnosis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Finding a mine inside a tomato leaf is not sufficient to confirm the presence of Tuta absoluta, because several insects are capable of forming mines within leaves.",
+          "prepared_text": "[[prepared]]Finding a mine inside a tomato leaf is not sufficient to confirm the presence of Tuta absoluta, because several insects are capable of forming [[term:mines]]mines[[/term]] within leaves."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Likewise, the presence of a larva inside a tomato fruit is not sufficient to conclude that it is a Tuta larva, because fruits may be infested by other larval species.",
+          "prepared_text": "[[prepared]]Likewise, the presence of a larva inside a tomato fruit is not sufficient to conclude that it is a Tuta larva, because fruits may be infested by other larval species."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Correct diagnosis depends on combining several lines of evidence, including:",
+          "prepared_text": "[[prepared]]Correct diagnosis depends on combining several lines of evidence, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg shape and oviposition site.",
+            "Larval form and color.",
+            "Presence of a distinct head and legs.",
+            "Markings located behind the head.",
+            "Number of larval instars.",
+            "Shape of the mine and the frass present within it.",
+            "Location of the pupa and nature of the surrounding covering.",
+            "Appearance of the adult moth.",
+            "Wing color and markings.",
+            "Shape of the antennae.",
+            "Insect size.",
+            "Results of pheromone traps.",
+            "Microscopic examination when required."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg shape and oviposition site.",
+            "[[prepared]]Larval form and color.",
+            "[[prepared]]Presence of a distinct head and legs.",
+            "[[prepared]]Markings located behind the head.",
+            "[[prepared]]Number of [[term:larval-instar]]larval instars[[/term]].",
+            "[[prepared]]Shape of the mine and the [[term:frass]]frass[[/term]] present within it.",
+            "[[prepared]]Location of the pupa and nature of the surrounding covering.",
+            "[[prepared]]Appearance of the adult moth.",
+            "[[prepared]]Wing color and markings.",
+            "[[prepared]]Shape of the antennae.",
+            "[[prepared]]Insect size.",
+            "[[prepared]]Results of [[term:pheromone-trap]]pheromone traps[[/term]].",
+            "[[prepared]]Microscopic examination when required."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The level of diagnostic confidence increases as several compatible characteristics are observed together.",
+          "prepared_text": "[[prepared]]The level of diagnostic confidence increases as several compatible characteristics are observed together."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Complete Metamorphosis in Tuta absoluta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta belongs to the insects that undergo complete metamorphosis, a type of development known as:",
+          "prepared_text": "[[prepared]]Tuta absoluta belongs to the insects that undergo complete metamorphosis, a type of development known as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Complete Metamorphosis or Holometabolous Development"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In this type of development, the larva differs clearly from the adult insect.",
+          "prepared_text": "[[prepared]]In this type of development, the larva differs clearly from the adult insect."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva:",
+          "prepared_text": "[[prepared]]The larva:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Has a worm-like body.",
+            "Possesses chewing mouthparts.",
+            "Feeds on plant tissues.",
+            "Moves within mines and between plant parts.",
+            "Represents the stage responsible for agricultural damage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Has a worm-like body.",
+            "[[prepared]]Possesses chewing mouthparts.",
+            "[[prepared]]Feeds on plant tissues.",
+            "[[prepared]]Moves within mines and between plant parts.",
+            "[[prepared]]Represents the stage responsible for agricultural damage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The adult insect:",
+          "prepared_text": "[[prepared]]The adult insect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Is a small winged moth.",
+            "Does not produce mines or holes within plant tissues.",
+            "Mates and lays eggs.",
+            "Transfers infestation between plants and fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Is a small winged moth.",
+            "[[prepared]]Does not produce mines or holes within plant tissues.",
+            "[[prepared]]Mates and lays eggs.",
+            "[[prepared]]Transfers infestation between plants and fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupal stage separates these two stages. During pupation, profound internal and external changes occur, leading to the formation of the adult moth.",
+          "prepared_text": "[[prepared]]The pupal stage separates these two stages. During pupation, profound internal and external changes occur, leading to the formation of the adult moth."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Morphological Changes During the Life Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The insect begins as a very small egg, usually laid singly on plant parts. After embryonic development is completed, a minute larva emerges and begins searching for a suitable location to penetrate plant tissue.",
+          "prepared_text": "[[prepared]]The insect begins as a very small egg, usually laid singly on plant parts. After embryonic development is completed, a minute larva emerges and begins searching for a suitable location to penetrate plant tissue."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva passes through four larval instars:",
+          "prepared_text": "[[prepared]]The larva passes through four larval instars:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "First larval instar, L1.",
+            "Second larval instar, L2.",
+            "Third larval instar, L3.",
+            "Fourth larval instar, L4."
+          ],
+          "prepared_items": [
+            "[[prepared]]First larval instar, L1.",
+            "[[prepared]]Second larval instar, L2.",
+            "[[prepared]]Third larval instar, L3.",
+            "[[prepared]]Fourth larval instar, L4."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each instar is separated from the next by a molt, during which the larva sheds its old external covering so that the new covering can accommodate an increase in body size.",
+          "prepared_text": "[[prepared]]Each instar is separated from the next by a molt, during which the larva sheds its old external covering so that the new covering can accommodate an increase in body size."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva does not change only in size; changes also occur in:",
+          "prepared_text": "[[prepared]]The larva does not change only in size; changes also occur in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Head-capsule width.",
+            "Body length.",
+            "Body color.",
+            "Visibility of body segmentation.",
+            "Quantity of tissue consumed.",
+            "Size of mines.",
+            "Ability of the larva to move between plant parts.",
+            "Visibility of diagnostic markings."
+          ],
+          "prepared_items": [
+            "[[prepared]]Head-capsule width.",
+            "[[prepared]]Body length.",
+            "[[prepared]]Body color.",
+            "[[prepared]]Visibility of body segmentation.",
+            "[[prepared]]Quantity of tissue consumed.",
+            "[[prepared]]Size of mines.",
+            "[[prepared]]Ability of the larva to move between plant parts.",
+            "[[prepared]]Visibility of diagnostic markings."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "After completing the fourth larval instar, the larva stops feeding, enters the prepupal stage, and then transforms into a pupa.",
+          "prepared_text": "[[prepared]]After completing the fourth larval instar, the larva stops feeding, enters the prepupal stage, and then transforms into a pupa."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "After metamorphosis is completed, a small moth emerges from the pupa. The moth differs completely from the larva in body form, wings, mouthparts, and biological function.",
+          "prepared_text": "[[prepared]]After metamorphosis is completed, a small moth emerges from the pupa. The moth differs completely from the larva in body form, wings, mouthparts, and biological function."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Morphological and Biological Characteristics"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Morphological description must be distinguished from biological description.",
+          "prepared_text": "[[prepared]]Morphological description must be distinguished from biological description."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Morphological Description"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It addresses:",
+          "prepared_text": "[[prepared]]It addresses:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Shape.",
+            "Color.",
+            "Measurements.",
+            "Body parts.",
+            "External markings.",
+            "Wings.",
+            "Legs.",
+            "Antennae.",
+            "Diagnostic characteristics."
+          ],
+          "prepared_items": [
+            "[[prepared]]Shape.",
+            "[[prepared]]Color.",
+            "[[prepared]]Measurements.",
+            "[[prepared]]Body parts.",
+            "[[prepared]]External markings.",
+            "[[prepared]]Wings.",
+            "[[prepared]]Legs.",
+            "[[prepared]]Antennae.",
+            "[[prepared]][[term:diagnostic-characters]]Diagnostic characteristics[[/term]]."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Biological Description"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It addresses:",
+          "prepared_text": "[[prepared]]It addresses:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Duration of each stage.",
+            "Growth rate.",
+            "Behavior.",
+            "Fecundity.",
+            "Feeding sites.",
+            "Response to temperature and humidity.",
+            "Timing of activity.",
+            "Number of generations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Duration of each stage.",
+            "[[prepared]]Growth rate.",
+            "[[prepared]]Behavior.",
+            "[[prepared]]Fecundity.",
+            "[[prepared]]Feeding sites.",
+            "[[prepared]]Response to temperature and humidity.",
+            "[[prepared]]Timing of activity.",
+            "[[prepared]]Number of generations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The two fields may be related, but egg length or larval color is a morphological characteristic, whereas egg-incubation period or larval growth rate is a biological characteristic.",
+          "prepared_text": "[[prepared]]The two fields may be related, but egg length or larval color is a morphological characteristic, whereas egg-incubation period or larval growth rate is a biological characteristic."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Variation in Color and Size"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The color of the different stages of Tuta absoluta is not completely constant, but changes according to several factors, most importantly:",
+          "prepared_text": "[[prepared]]The color of the different stages of Tuta absoluta is not completely constant, but changes according to several factors, most importantly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Age of the stage.",
+            "Degree of development.",
+            "Proximity to molting.",
+            "Proximity to hatching or moth emergence.",
+            "Type of food.",
+            "Environmental conditions.",
+            "Method of specimen preservation.",
+            "Lighting used during examination."
+          ],
+          "prepared_items": [
+            "[[prepared]]Age of the stage.",
+            "[[prepared]]Degree of development.",
+            "[[prepared]]Proximity to molting.",
+            "[[prepared]]Proximity to hatching or moth emergence.",
+            "[[prepared]]Type of food.",
+            "[[prepared]]Environmental conditions.",
+            "[[prepared]]Method of specimen preservation.",
+            "[[prepared]]Lighting used during examination."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A newly laid egg differs in color from an egg approaching hatching, a newly hatched larva differs from a fully grown larva, and a newly formed pupa differs from one approaching adult emergence.",
+          "prepared_text": "[[prepared]]A newly laid egg differs in color from an egg approaching hatching, a newly hatched larva differs from a fully grown larva, and a newly formed pupa differs from one approaching adult emergence."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "For this reason, color alone should not be used for diagnosis. It should be interpreted together with size, shape, location of the specimen, and other anatomical characteristics.",
+          "prepared_text": "[[prepared]]For this reason, color alone should not be used for diagnosis. It should be interpreted together with size, shape, location of the specimen, and other anatomical characteristics."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Published measurements also vary to a limited extent among studies as a result of differences in:",
+          "prepared_text": "[[prepared]]Published measurements also vary to a limited extent among studies as a result of differences in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Geographical strains.",
+            "Temperature.",
+            "Host plant.",
+            "Measurement methods.",
+            "Whether the specimen is alive or preserved.",
+            "Exact age within the developmental stage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Geographical strains.",
+            "[[prepared]]Temperature.",
+            "[[prepared]][[term:host-plant]]Host plant[[/term]].",
+            "[[prepared]]Measurement methods.",
+            "[[prepared]]Whether the specimen is alive or preserved.",
+            "[[prepared]]Exact age within the developmental stage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When measurements are presented, an approximate range should therefore be used to represent natural variation rather than treating a single number as a fixed limit for all individuals.",
+          "prepared_text": "[[prepared]]When measurements are presented, an approximate range should therefore be used to represent natural variation rather than treating a single number as a fixed limit for all individuals."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Field Examination and Laboratory Examination"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Many characteristics of Tuta absoluta can be provisionally identified in the field using:",
+          "prepared_text": "[[prepared]]Many characteristics of Tuta absoluta can be provisionally identified in the field using:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Hand lens.",
+            "White sheet of paper.",
+            "Fine brush.",
+            "Fine forceps.",
+            "Collection bags or containers.",
+            "Pheromone traps.",
+            "Mobile-phone camera equipped with a magnifying lens."
+          ],
+          "prepared_items": [
+            "[[prepared]]Hand lens.",
+            "[[prepared]]White sheet of paper.",
+            "[[prepared]]Fine brush.",
+            "[[prepared]]Fine forceps.",
+            "[[prepared]]Collection bags or containers.",
+            "[[prepared]]Pheromone traps.",
+            "[[prepared]]Mobile-phone camera equipped with a magnifying lens."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, some fine characteristics cannot be confirmed with the naked eye, particularly:",
+          "prepared_text": "[[prepared]]However, some fine characteristics cannot be confirmed with the naked eye, particularly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Details of the egg surface.",
+            "Head-capsule measurements.",
+            "Arrangement of larval setae.",
+            "Wing venation.",
+            "Genitalic characteristics.",
+            "Differences among closely related species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Details of the egg surface.",
+            "[[prepared]]Head-capsule measurements.",
+            "[[prepared]]Arrangement of larval setae.",
+            "[[prepared]]Wing venation.",
+            "[[prepared]]Genitalic characteristics.",
+            "[[prepared]]Differences among closely related species."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These characteristics require a stereomicroscope, and final confirmation in difficult cases may require molecular analysis.",
+          "prepared_text": "[[prepared]]These characteristics require a stereomicroscope, and final confirmation in difficult cases may require molecular analysis."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Collecting Specimens Without Damaging Them"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Different life stages require appropriate collection methods.",
+          "prepared_text": "[[prepared]]Different life stages require appropriate collection methods."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Eggs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A small section of the leaf surrounding the egg should be cut rather than attempting to remove the egg directly, because slight pressure may crush it.",
+          "prepared_text": "[[prepared]]A small section of the leaf surrounding the egg should be cut rather than attempting to remove the egg directly, because slight pressure may crush it."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Larvae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The mine should be opened gradually using a needle or fine forceps while avoiding pressure on the larval body.",
+          "prepared_text": "[[prepared]]The mine should be opened gradually using a needle or fine forceps while avoiding pressure on the larval body."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Pupae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupae should be collected together with part of the leaf, cocoon, or surrounding soil, because forceful removal of the covering may damage the pupa.",
+          "prepared_text": "[[prepared]]Pupae should be collected together with part of the leaf, cocoon, or surrounding soil, because forceful removal of the covering may damage the pupa."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Adults"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Adults should be collected from traps or plants while preserving the wings and scales, because excessive friction causes scales to detach and alters the external appearance.",
+          "prepared_text": "[[prepared]]Adults should be collected from traps or plants while preserving the wings and scales, because excessive friction causes scales to detach and alters the external appearance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Specimen information should be recorded, including:",
+          "prepared_text": "[[prepared]]Specimen information should be recorded, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collection date.",
+            "Location.",
+            "Host plant.",
+            "Infested plant part.",
+            "Life stage present.",
+            "Type of damage.",
+            "Type of trap when the moth is collected from a trap."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collection date.",
+            "[[prepared]]Location.",
+            "[[prepared]]Host plant.",
+            "[[prepared]]Infested plant part.",
+            "[[prepared]]Life stage present.",
+            "[[prepared]]Type of damage.",
+            "[[prepared]]Type of trap when the moth is collected from a trap."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Difference Between Field Diagnosis and Taxonomic Confirmation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An agricultural engineer can diagnose infestation in the field with a good degree of confidence when several characteristic signs occur together, such as:",
+          "prepared_text": "[[prepared]]An agricultural engineer can diagnose infestation in the field with a good degree of confidence when several characteristic signs occur together, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Irregular blotch mines.",
+            "Presence of frass inside the mine.",
+            "A larva with a distinct head and legs.",
+            "Presence of the dark band behind the head in advanced larvae.",
+            "Infestation of growing points and fruits.",
+            "Capture of Tuta moths in pheromone traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Irregular blotch mines.",
+            "[[prepared]]Presence of frass inside the mine.",
+            "[[prepared]]A larva with a distinct head and legs.",
+            "[[prepared]]Presence of the dark band behind the head in advanced larvae.",
+            "[[prepared]]Infestation of growing points and fruits.",
+            "[[prepared]]Capture of Tuta moths in pheromone traps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, taxonomic confirmation becomes necessary when:",
+          "prepared_text": "[[prepared]]However, [[term:taxonomic-confirmation]]taxonomic confirmation[[/term]] becomes necessary when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The pest appears in an area where it has not previously been recorded.",
+            "Similar species are present.",
+            "Results will be used in scientific publication.",
+            "A plant-quarantine study is being conducted.",
+            "The specimen is damaged or incomplete.",
+            "Trap results and field symptoms are inconsistent."
+          ],
+          "prepared_items": [
+            "[[prepared]]The pest appears in an area where it has not previously been recorded.",
+            "[[prepared]]Similar species are present.",
+            "[[prepared]]Results will be used in scientific publication.",
+            "[[prepared]]A plant-quarantine study is being conducted.",
+            "[[prepared]]The specimen is damaged or incomplete.",
+            "[[prepared]]Trap results and field symptoms are inconsistent."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In such cases, diagnosis depends on microscopic or molecular characteristics rather than on the appearance of damage alone.",
+          "prepared_text": "[[prepared]]In such cases, diagnosis depends on microscopic or molecular characteristics rather than on the appearance of damage alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Relationship Between Morphology and the Location of Each Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The location where a life stage is found provides supporting evidence, but is not sufficient by itself.",
+          "prepared_text": "[[prepared]]The location where a life stage is found provides supporting evidence, but is not sufficient by itself."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Eggs may be found on leaves or young plant parts, whereas larvae occur inside leaves, stems, or fruits. Pupae may form inside a folded leaf, within a silken cocoon, or near the soil surface. Adult moths commonly hide among plants, and males can be monitored using pheromone traps.",
+          "prepared_text": "[[prepared]]Eggs may be found on leaves or young plant parts, whereas larvae occur inside leaves, stems, or fruits. Pupae may form inside a folded leaf, within a silken cocoon, or near the soil surface. Adult moths commonly hide among plants, and males can be monitored using pheromone traps."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, these locations may vary according to conditions. Diagnosis should therefore combine:",
+          "prepared_text": "[[prepared]]However, these locations may vary according to conditions. Diagnosis should therefore combine:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Location of the stage.",
+            "Its shape.",
+            "Its size.",
+            "Its color.",
+            "Diagnostic markings.",
+            "Nature of the surrounding damage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Location of the stage.",
+            "[[prepared]]Its shape.",
+            "[[prepared]]Its size.",
+            "[[prepared]]Its color.",
+            "[[prepared]]Diagnostic markings.",
+            "[[prepared]]Nature of the surrounding damage."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Diagnostic Sequence of the Life Stages"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Identification of the insect proceeds from the smallest stage to the largest stage:",
+          "prepared_text": "[[prepared]]Identification of the insect proceeds from the smallest stage to the largest stage:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Egg"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its shape, color, size, oviposition site, and changes occurring before hatching are examined.",
+          "prepared_text": "[[prepared]]Its shape, color, size, oviposition site, and changes occurring before hatching are examined."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Larva"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larval instar, color, head capsule, legs, prothoracic shield, body form, and distinguishing characteristics from other leaf-mining insects are examined.",
+          "prepared_text": "[[prepared]]The larval instar, color, [[term:head-capsule]]head capsule[[/term]], legs, [[term:prothoracic-shield]]prothoracic shield[[/term]], body form, and distinguishing characteristics from other leaf-mining insects are examined."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Pupa"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its shape, color, length, location, presence of a silken cocoon, and changes preceding moth emergence are examined.",
+          "prepared_text": "[[prepared]]Its shape, color, length, location, presence of a silken cocoon, and changes preceding moth emergence are examined."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Adult Insect"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Body length, wingspan, body and wing color, dark markings, fringes, antennae, and sexual differences are examined.",
+          "prepared_text": "[[prepared]]Body length, wingspan, body and wing color, dark markings, fringes, antennae, and sexual differences are examined."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These stages are presented in detail in the subsequent parts of this chapter.",
+          "prepared_text": "[[prepared]]These stages are presented in detail in the subsequent parts of this chapter."
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-23",
+        "part_index": 0,
+        "part_title": "Part One: General Introduction to Morphological Description",
+        "part_subtitle": ""
+      }
+    }
+  ]
+}
