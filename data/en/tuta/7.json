@@ -17,11 +17,6 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "Principal Host, Confirmed Hosts, Alternative Hosts, Experimental Hosts, Suspected Hosts, and Weeds"
-        },
-        {
-          "type": "doc-heading",
-          "level": 2,
           "text": "Introduction"
         },
         {
@@ -3287,7 +3282,8 @@
         }
       ],
       "meta": {
-        "updated_at": "2026-06-28"
+        "updated_at": "2026-06-28",
+        "subtitle": "Principal Host, Confirmed Hosts, Alternative Hosts, Experimental Hosts, Suspected Hosts, and Weeds"
       }
     }
   ]
