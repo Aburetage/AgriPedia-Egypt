@@ -262,13 +262,44 @@ def parse_references(reference_path: Path) -> list[dict[str, object]]:
     return parse_reference_lines(reference_path.read_text(encoding="utf-8").splitlines())
 
 
+def extract_opening_subtitle(items: list[dict[str, object]]) -> str:
+    chapter_heading_indexes = [
+        index for index, item in enumerate(items)
+        if item.get("type") == "doc-heading" and int(item.get("level", 0)) == 1
+    ]
+    if len(chapter_heading_indexes) < 2:
+        return ""
+    candidate_index = chapter_heading_indexes[1] + 1
+    if candidate_index >= len(items):
+        return ""
+    candidate = items[candidate_index]
+    if candidate.get("type") != "doc-heading" or int(candidate.get("level", 0)) != 2:
+        return ""
+    next_section = next((
+        item for item in items[candidate_index + 1:]
+        if item.get("type") == "doc-heading" and int(item.get("level", 0)) == 2
+    ), None)
+    candidate_text = str(candidate.get("text", "")).strip()
+    next_text = str(next_section.get("text", "")).strip() if next_section else ""
+    if re.fullmatch(r"(?:مقدمة|Introduction)", next_text, flags=re.I) and not re.fullmatch(
+        r"(?:مقدمة|Introduction)", candidate_text, flags=re.I
+    ):
+        items.pop(candidate_index)
+        return candidate_text
+    return ""
+
+
 def update_tab(markdown_paths: list[Path], tab_path: Path, references: list[dict[str, object]], reference_heading: str, reference_id: str) -> int:
     data = json.loads(tab_path.read_text(encoding="utf-8"))
     items = parse_markdown(markdown_paths, references, reference_heading, reference_id)
+    subtitle = extract_opening_subtitle(items)
+    meta = {"updated_at": date.today().isoformat()}
+    if subtitle:
+        meta["subtitle"] = subtitle
     data["content_blocks"] = [{
         "type": "doc-article",
         "items": items,
-        "meta": {"updated_at": date.today().isoformat()},
+        "meta": meta,
     }]
     tab_path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return sum(len(item.get("items", [])) for item in items if item.get("type") == "reference-list")
