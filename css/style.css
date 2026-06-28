@@ -200,6 +200,16 @@ body.light-mode .sidebar { box-shadow: -10px 0 30px rgba(0,0,0,0.1); }
 .chapter-links a.active { color: var(--cyan); background: rgba(0, 212, 255, 0.08); font-weight: 700; }  
 .chapter-links a.active::before { background: var(--cyan); border-color: var(--cyan); box-shadow: 0 0 10px rgba(0,212,255,0.6); width: 9px; height: 9px; inset-inline-start: -1.1rem;}  
 .chapter-links span.disabled { opacity: 0.5; cursor: not-allowed; }
+.sidebar-subchapter { padding-block: 0.2rem !important; }
+.sidebar-subchapter details { border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+.sidebar-subchapter summary { align-items: center; background: rgba(0,212,255,0.045); color: var(--text); cursor: pointer; display: flex; font-size: 0.84rem; font-weight: 800; justify-content: space-between; list-style: none; min-height: 42px; padding: 0.55rem 0.7rem; }
+.sidebar-subchapter summary::-webkit-details-marker { display: none; }
+.sidebar-subchapter summary i { color: var(--cyan); font-size: 0.7rem; transition: transform 0.25s ease; }
+.sidebar-subchapter details[open] summary i { transform: rotate(180deg); }
+.sidebar-sub-links { border-top: 1px solid var(--border); list-style: none; margin: 0; padding: 0.25rem 0.4rem 0.4rem; }
+.sidebar-sub-links li { padding: 0 !important; }
+.chapter-links .sidebar-sub-links a { font-size: 0.76rem; min-height: 34px; padding: 0.38rem 0.55rem; }
+.chapter-links .sidebar-sub-links a::before { display: none; }
 
 /* ═══ حاوية المحتوى والمقدمة ═══ */
 .container { margin: 0 auto; max-width: 1100px; min-width: 0; padding: 2.5rem 1.5rem; position: relative; width: 100%; z-index: 1; }

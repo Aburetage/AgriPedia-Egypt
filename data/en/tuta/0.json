@@ -21,21 +21,25 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato is one of the most important food and economic vegetable crops worldwide, owing to its extensive cultivation, its diverse forms of consumption, and its use in a large number of food industries. It is not only consumed fresh, but is also used in the production of tomato paste, juices, sauces, ketchup, peeled and canned tomatoes, powders, concentrates, and other products."
+          "text": "Tomato is one of the most important food and economic vegetable crops worldwide, owing to its extensive cultivation, its diverse forms of consumption, and its use in a large number of food industries. It is not only consumed fresh, but is also used in the production of tomato paste, juices, sauces, ketchup, peeled and canned tomatoes, powders, concentrates, and other products.",
+          "prepared_text": "[[prepared]]Tomato is one of the most important food and economic vegetable crops worldwide, owing to its extensive cultivation, its diverse forms of consumption, and its use in a large number of food industries. It is not only consumed fresh, but is also used in the production of tomato paste, juices, sauces, ketchup, peeled and canned tomatoes, powders, concentrates, and other products."
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato occupies a prominent position within agricultural systems because it is a relatively high-value crop, has a rapid economic turnover, and requires intensive labor and agricultural inputs. It is also linked to a broad chain of activities that includes seed and transplant production, fertilizers and pesticides, crop husbandry operations, harvesting, transport, grading, packing, marketing, and food processing."
+          "text": "Tomato occupies a prominent position within agricultural systems because it is a relatively high-value crop, has a rapid economic turnover, and requires intensive labor and agricultural inputs. It is also linked to a broad chain of activities that includes seed and transplant production, fertilizers and pesticides, crop husbandry operations, harvesting, transport, grading, packing, marketing, and food processing.",
+          "prepared_text": "[[prepared]]Tomato occupies a prominent position within agricultural systems because it is a relatively high-value crop, has a rapid economic turnover, and requires intensive labor and agricultural inputs. It is also linked to a broad chain of activities that includes seed and transplant production, fertilizers and pesticides, crop husbandry operations, harvesting, transport, grading, packing, marketing, and food processing."
         },
         {
           "type": "doc-paragraph",
-          "text": "However, this major economic importance makes tomato highly sensitive to any decline in yield or quality. Exposure of the crop to a serious insect pest does not merely mean the loss of part of the foliage or fruit; it may also lead to a reduction in marketable yield, increased control costs, rejection of some consignments, a higher percentage of losses, and disruption of supply schedules to processors and markets."
+          "text": "However, this major economic importance makes tomato highly sensitive to any decline in yield or quality. Exposure of the crop to a serious insect pest does not merely mean the loss of part of the foliage or fruit; it may also lead to a reduction in marketable yield, increased control costs, rejection of some consignments, a higher percentage of losses, and disruption of supply schedules to processors and markets.",
+          "prepared_text": "[[prepared]]However, this major economic importance makes tomato highly sensitive to any decline in yield or quality. Exposure of the crop to a serious insect pest does not merely mean the loss of part of the foliage or fruit; it may also lead to a reduction in [[term:marketable-yield]]marketable yield[[/term]], increased control costs, rejection of some consignments, a higher percentage of losses, and disruption of supply schedules to processors and markets."
         },
         {
           "type": "doc-callout",
           "tone": "amber",
           "icon": "fas fa-bug",
-          "text": "Among the pests that have caused a fundamental shift in tomato production systems worldwide during recent decades, Tuta absoluta, commonly known as the tomato leafminer or tomato borer, stands out as one of the most serious invasive pests threatening tomato production in open fields and protected cultivation."
+          "text": "Among the pests that have caused a fundamental shift in tomato production systems worldwide during recent decades, Tuta absoluta, commonly known as the tomato leafminer or tomato borer, stands out as one of the most serious invasive pests threatening tomato production in open fields and protected cultivation.",
+          "prepared_text": "[[prepared]]Among the pests that have caused a fundamental shift in tomato production systems worldwide during recent decades, Tuta absoluta, commonly known as the tomato leafminer or tomato borer, stands out as one of the most serious [[term:invasive-pest]]invasive pests[[/term]] threatening tomato production in open fields and protected cultivation."
         },
         {
           "type": "doc-heading",
@@ -49,15 +53,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato is cultivated in most agricultural regions worldwide, from temperate and Mediterranean areas to tropical and subtropical regions. According to statistics from the Food and Agriculture Organization, global tomato production reached approximately 192 million tonnes in 2023, making tomato the leading vegetable crop in terms of global production volume in that year. [1]"
+          "text": "Tomato is cultivated in most agricultural regions worldwide, from temperate and Mediterranean areas to tropical and subtropical regions. According to statistics from the Food and Agriculture Organization, global tomato production reached approximately 192 million tonnes in 2023, making tomato the leading vegetable crop in terms of global production volume in that year. [1]",
+          "prepared_text": "[[prepared]]Tomato is cultivated in most agricultural regions worldwide, from temperate and Mediterranean areas to tropical and subtropical regions. According to statistics from the Food and Agriculture Organization, global tomato production reached approximately 192 million tonnes in 2023, making tomato the leading vegetable crop in terms of global production volume in that year. [1]"
         },
         {
           "type": "doc-paragraph",
-          "text": "This enormous production volume reflects the importance of tomato to global food security and also demonstrates the sensitivity of markets to major disruptions affecting key production regions, whether due to pests, diseases, heat waves, water scarcity, or supply-chain disturbances."
+          "text": "This enormous production volume reflects the importance of tomato to global food security and also demonstrates the sensitivity of markets to major disruptions affecting key production regions, whether due to pests, diseases, heat waves, water scarcity, or supply-chain disturbances.",
+          "prepared_text": "[[prepared]]This enormous production volume reflects the importance of tomato to global food security and also demonstrates the sensitivity of markets to major disruptions affecting key production regions, whether due to pests, diseases, heat waves, water scarcity, or supply-chain disturbances."
         },
         {
           "type": "doc-paragraph",
-          "text": "The importance of tomato is not limited to countries that produce it for domestic consumption. Some countries depend on it as:"
+          "text": "The importance of tomato is not limited to countries that produce it for domestic consumption. Some countries depend on it as:",
+          "prepared_text": "[[prepared]]The importance of tomato is not limited to countries that produce it for domestic consumption. Some countries depend on it as:"
         },
         {
           "type": "doc-list",
@@ -68,6 +75,14 @@
             "An important component of food security.",
             "A raw material for tomato paste and sauce factories.",
             "A strategic crop in regional and international trade."
+          ],
+          "prepared_items": [
+            "[[prepared]]A crop for fresh export.",
+            "[[prepared]]A major processing crop.",
+            "[[prepared]]A source of agricultural and industrial employment.",
+            "[[prepared]]An important component of food security.",
+            "[[prepared]]A raw material for tomato paste and sauce factories.",
+            "[[prepared]]A strategic crop in regional and international trade."
           ]
         },
         {
@@ -77,7 +92,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato fruit contains a range of important nutritional and health-promoting compounds, including:"
+          "text": "Tomato fruit contains a range of important nutritional and health-promoting compounds, including:",
+          "prepared_text": "[[prepared]]Tomato fruit contains a range of important nutritional and health-promoting compounds, including:"
         },
         {
           "type": "doc-list",
@@ -88,15 +104,25 @@
             "Carotenoids.",
             "Lycopene.",
             "A number of phenolic compounds and antioxidants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Vitamin C.",
+            "[[prepared]]Potassium.",
+            "[[prepared]]Organic acids.",
+            "[[prepared]]Carotenoids.",
+            "[[prepared]][[term:lycopene]]Lycopene[[/term]].",
+            "[[prepared]]A number of phenolic compounds and antioxidants."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Lycopene is one of the principal compounds associated with the red color of the fruit and is also an important quality indicator in tomato cultivars intended for processing. Its value and concentration are affected by cultivar, ripening stage, temperature, nutrition, and the health status of the plant and fruit."
+          "text": "Lycopene is one of the principal compounds associated with the red color of the fruit and is also an important quality indicator in tomato cultivars intended for processing. Its value and concentration are affected by cultivar, ripening stage, temperature, nutrition, and the health status of the plant and fruit.",
+          "prepared_text": "[[prepared]]Lycopene is one of the principal compounds associated with the red color of the fruit and is also an important quality indicator in tomato cultivars intended for processing. Its value and concentration are affected by cultivar, ripening stage, temperature, nutrition, and the health status of the plant and fruit."
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato quality is not limited to nutritional value alone; it also includes color, firmness, size, shape, total soluble solids, acidity, and freedom of the fruit from insect and disease damage."
+          "text": "Tomato quality is not limited to nutritional value alone; it also includes color, firmness, size, shape, total soluble solids, acidity, and freedom of the fruit from insect and disease damage.",
+          "prepared_text": "[[prepared]]Tomato quality is not limited to nutritional value alone; it also includes color, firmness, size, shape, [[term:brix-tss]]total soluble solids[[/term]], acidity, and freedom of the fruit from insect and disease damage."
         },
         {
           "type": "doc-heading",
@@ -105,7 +131,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Production objectives for processing tomatoes differ from those for tomatoes intended for fresh consumption. Processors place greater emphasis on traits such as:"
+          "text": "Production objectives for processing tomatoes differ from those for tomatoes intended for fresh consumption. Processors place greater emphasis on traits such as:",
+          "prepared_text": "[[prepared]]Production objectives for processing tomatoes differ from those for tomatoes intended for fresh consumption. Processors place greater emphasis on traits such as:"
         },
         {
           "type": "doc-list",
@@ -118,15 +145,27 @@
             "Ease of harvesting.",
             "A high proportion of fruit ripening at the same time.",
             "Low losses during grading and processing."
+          ],
+          "prepared_items": [
+            "[[prepared]]High total soluble solids and °Brix.",
+            "[[prepared]]Strong and uniform red color.",
+            "[[prepared]]High lycopene content.",
+            "[[prepared]]Low defect incidence.",
+            "[[prepared]]Fruit firmness and tolerance to transport.",
+            "[[prepared]]Ease of harvesting.",
+            "[[prepared]]A high proportion of fruit ripening at the same time.",
+            "[[prepared]]Low losses during grading and processing."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Insect infestation directly affects these characteristics. An infested fruit may be rejected even when its size and color are suitable, because the presence of mines, holes, or larvae inside the fruit makes it commercially and industrially unacceptable."
+          "text": "Insect infestation directly affects these characteristics. An infested fruit may be rejected even when its size and color are suitable, because the presence of mines, holes, or larvae inside the fruit makes it commercially and industrially unacceptable.",
+          "prepared_text": "[[prepared]]Insect infestation directly affects these characteristics. An infested fruit may be rejected even when its size and color are suitable, because the presence of [[term:mines]]mines[[/term]], holes, or larvae inside the fruit makes it commercially and industrially unacceptable."
         },
         {
           "type": "doc-paragraph",
-          "text": "Insect injury also opens entry sites for secondary decay organisms, thereby increasing the proportion of damaged fruit, raising grading costs, and reducing the amount of raw material suitable for processing."
+          "text": "Insect injury also opens entry sites for secondary decay organisms, thereby increasing the proportion of damaged fruit, raising grading costs, and reducing the amount of raw material suitable for processing.",
+          "prepared_text": "[[prepared]]Insect injury also opens entry sites for secondary decay organisms, thereby increasing the proportion of damaged fruit, raising grading costs, and reducing the amount of raw material suitable for processing."
         },
         {
           "type": "doc-heading",
@@ -135,7 +174,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The value of the tomato crop extends beyond the sale price of the fruit, as it is associated with large numbers of workers in:"
+          "text": "The value of the tomato crop extends beyond the sale price of the fruit, as it is associated with large numbers of workers in:",
+          "prepared_text": "[[prepared]]The value of the tomato crop extends beyond the sale price of the fruit, as it is associated with large numbers of workers in:"
         },
         {
           "type": "doc-list",
@@ -151,11 +191,25 @@
             "Wholesale and retail markets.",
             "Food-processing plants.",
             "Quality-control and pesticide-residue laboratories."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nurseries.",
+            "[[prepared]]Seed production.",
+            "[[prepared]]Crop husbandry.",
+            "[[prepared]]Irrigation and fertigation systems.",
+            "[[prepared]]Pest management.",
+            "[[prepared]]Harvesting.",
+            "[[prepared]]Packing.",
+            "[[prepared]]Transport.",
+            "[[prepared]]Wholesale and retail markets.",
+            "[[prepared]]Food-processing plants.",
+            "[[prepared]]Quality-control and pesticide-residue laboratories."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Consequently, any major crisis in tomato production transmits its effects from the field to the remaining links of the value chain. Farmers' income may decline, some labor activities may stop, processing-plant operating efficiency may decrease, consumer prices may rise, or the need to import processed products may increase."
+          "text": "Consequently, any major crisis in tomato production transmits its effects from the field to the remaining links of the value chain. Farmers' income may decline, some labor activities may stop, processing-plant operating efficiency may decrease, consumer prices may rise, or the need to import processed products may increase.",
+          "prepared_text": "[[prepared]]Consequently, any major crisis in tomato production transmits its effects from the field to the remaining links of the value chain. Farmers' income may decline, some labor activities may stop, processing-plant operating efficiency may decrease, consumer prices may rise, or the need to import processed products may increase."
         },
         {
           "type": "doc-heading",
@@ -169,11 +223,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato is one of the most important vegetable crops in Egypt in terms of cultivated area, production, and consumption. Climatic conditions and the diversity of production regions allow it to be grown across multiple planting seasons and dates, making the crop available in markets for extended periods of the year."
+          "text": "Tomato is one of the most important vegetable crops in Egypt in terms of cultivated area, production, and consumption. Climatic conditions and the diversity of production regions allow it to be grown across multiple planting seasons and dates, making the crop available in markets for extended periods of the year.",
+          "prepared_text": "[[prepared]]Tomato is one of the most important vegetable crops in Egypt in terms of cultivated area, production, and consumption. Climatic conditions and the diversity of production regions allow it to be grown across multiple planting seasons and dates, making the crop available in markets for extended periods of the year."
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato production is distributed across many regions, including:"
+          "text": "Tomato production is distributed across many regions, including:",
+          "prepared_text": "[[prepared]]Tomato production is distributed across many regions, including:"
         },
         {
           "type": "doc-list",
@@ -188,11 +244,24 @@
             "Beni Suef and Fayoum.",
             "Upper Egypt.",
             "New and reclaimed lands."
+          ],
+          "prepared_items": [
+            "[[prepared]]The Nile Delta governorates.",
+            "[[prepared]]The Nile Valley.",
+            "[[prepared]]Old agricultural lands.",
+            "[[prepared]]Nubaria.",
+            "[[prepared]]Wadi El Natrun.",
+            "[[prepared]]The northwestern coast.",
+            "[[prepared]]Western Minya areas.",
+            "[[prepared]]Beni Suef and Fayoum.",
+            "[[prepared]]Upper Egypt.",
+            "[[prepared]]New and reclaimed lands."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "A previous assessment prepared by the Food and Agriculture Organization on the tomato value chain in Egypt showed that Egyptian production reached approximately 7.9 million tonnes in 2016, placing Egypt at that time fifth among tomato-producing countries worldwide. This figure is cited here as a historical indicator of the size of the sector, not as a fixed value for every season. [2]"
+          "text": "A previous assessment prepared by the Food and Agriculture Organization on the tomato value chain in Egypt showed that Egyptian production reached approximately 7.9 million tonnes in 2016, placing Egypt at that time fifth among tomato-producing countries worldwide. This figure is cited here as a historical indicator of the size of the sector, not as a fixed value for every season. [2]",
+          "prepared_text": "[[prepared]]A previous assessment prepared by the Food and Agriculture Organization on the tomato value chain in Egypt showed that Egyptian production reached approximately 7.9 million tonnes in 2016, placing Egypt at that time fifth among tomato-producing countries worldwide. This figure is cited here as a historical indicator of the size of the sector, not as a fixed value for every season. [2]"
         },
         {
           "type": "doc-heading",
@@ -201,19 +270,23 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The multiplicity of tomato planting seasons in Egypt helps maintain supply to markets and processing plants, but it simultaneously creates a major challenge for pest management."
+          "text": "The multiplicity of tomato planting seasons in Egypt helps maintain supply to markets and processing plants, but it simultaneously creates a major challenge for pest management.",
+          "prepared_text": "[[prepared]]The multiplicity of tomato planting seasons in Egypt helps maintain supply to markets and processing plants, but it simultaneously creates a major challenge for pest management."
         },
         {
           "type": "doc-paragraph",
-          "text": "When tomato fields of different ages are located close to one another, pests can move from older fields into newly planted crops. Abandoned fields, crop residues, volunteer plants, or wild solanaceous hosts may become continuous sources for pest reproduction and spread."
+          "text": "When tomato fields of different ages are located close to one another, pests can move from older fields into newly planted crops. Abandoned fields, crop residues, volunteer plants, or wild solanaceous hosts may become continuous sources for pest reproduction and spread.",
+          "prepared_text": "[[prepared]]When tomato fields of different ages are located close to one another, pests can move from older fields into newly planted crops. Abandoned fields, crop residues, volunteer plants, or wild [[term:solanaceae]]solanaceous hosts[[/term]] may become continuous sources for pest reproduction and spread."
         },
         {
           "type": "doc-paragraph",
-          "text": "This phenomenon is sometimes known as the Green Bridge, in which suitable host plants remain available to the pest for prolonged periods, preventing a complete break in its life cycle between seasons."
+          "text": "This phenomenon is sometimes known as the Green Bridge, in which suitable host plants remain available to the pest for prolonged periods, preventing a complete break in its life cycle between seasons.",
+          "prepared_text": "[[prepared]]This phenomenon is sometimes known as the [[term:green-bridge]]Green Bridge[[/term]], in which suitable host plants remain available to the pest for prolonged periods, preventing a complete break in its life cycle between seasons."
         },
         {
           "type": "doc-paragraph",
-          "text": "The problem becomes more evident when a grower stops controlling a severely infested field before removing, shredding, and ploughing under the plants, because large numbers of adult moths then migrate into younger neighboring fields."
+          "text": "The problem becomes more evident when a grower stops controlling a severely infested field before removing, shredding, and ploughing under the plants, because large numbers of adult moths then migrate into younger neighboring fields.",
+          "prepared_text": "[[prepared]]The problem becomes more evident when a grower stops controlling a severely infested field before removing, shredding, and ploughing under the plants, because large numbers of adult moths then migrate into younger neighboring fields."
         },
         {
           "type": "doc-heading",
@@ -222,7 +295,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomatoes are produced in Egypt for two principal purposes:"
+          "text": "Tomatoes are produced in Egypt for two principal purposes:",
+          "prepared_text": "[[prepared]]Tomatoes are produced in Egypt for two principal purposes:"
         },
         {
           "type": "doc-heading",
@@ -231,7 +305,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This system focuses on appearance, size, color, firmness, tolerance to handling, and freedom of the fruit from visible defects."
+          "text": "This system focuses on appearance, size, color, firmness, tolerance to handling, and freedom of the fruit from visible defects.",
+          "prepared_text": "[[prepared]]This system focuses on appearance, size, color, firmness, tolerance to handling, and freedom of the fruit from visible defects."
         },
         {
           "type": "doc-heading",
@@ -240,11 +315,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This system focuses on °Brix, color, concentration, firmness, uniform ripening, low defect incidence, and conversion efficiency into paste or concentrates."
+          "text": "This system focuses on °Brix, color, concentration, firmness, uniform ripening, low defect incidence, and conversion efficiency into paste or concentrates.",
+          "prepared_text": "[[prepared]]This system focuses on °Brix, color, concentration, firmness, uniform ripening, low defect incidence, and conversion efficiency into paste or concentrates."
         },
         {
           "type": "doc-paragraph",
-          "text": "In both systems, Tuta absoluta infestation represents a direct threat. In the fresh market, holes, mines, and deformities reduce the market grade of the fruit. In processing tomatoes, infestation increases the proportion of fruit rejected during grading, raises losses, and may lead to rejection of loads that exceed acceptable limits for defects and infestation."
+          "text": "In both systems, Tuta absoluta infestation represents a direct threat. In the fresh market, holes, mines, and deformities reduce the market grade of the fruit. In processing tomatoes, infestation increases the proportion of fruit rejected during grading, raises losses, and may lead to rejection of loads that exceed acceptable limits for defects and infestation.",
+          "prepared_text": "[[prepared]]In both systems, Tuta absoluta infestation represents a direct threat. In the fresh market, holes, mines, and deformities reduce the market grade of the fruit. In processing tomatoes, infestation increases the proportion of fruit rejected during grading, raises losses, and may lead to rejection of loads that exceed acceptable limits for defects and infestation."
         },
         {
           "type": "doc-heading",
@@ -253,7 +330,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato is naturally relatively perishable and is highly affected by poor handling, delayed transport, high temperature, and mechanical and insect damage. Therefore, crop loss is not limited to fruit that falls in the field; it also includes:"
+          "text": "Tomato is naturally relatively perishable and is highly affected by poor handling, delayed transport, high temperature, and mechanical and insect damage. Therefore, crop loss is not limited to fruit that falls in the field; it also includes:",
+          "prepared_text": "[[prepared]]Tomato is naturally relatively perishable and is highly affected by poor handling, delayed transport, high temperature, and mechanical and insect damage. Therefore, crop loss is not limited to fruit that falls in the field; it also includes:"
         },
         {
           "type": "doc-list",
@@ -265,11 +343,21 @@
             "Fruit decayed as a result of insect wounds.",
             "Price reduction due to poor quality.",
             "Loss of the added value that could have been achieved through processing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infested fruit that cannot be sold.",
+            "[[prepared]]Fruit rejected at grading stations.",
+            "[[prepared]]Fruit rejected by the processing plant.",
+            "[[prepared]]Losses during transport.",
+            "[[prepared]]Fruit decayed as a result of insect wounds.",
+            "[[prepared]]Price reduction due to poor quality.",
+            "[[prepared]]Loss of the added value that could have been achieved through processing."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The Food and Agriculture Organization has conducted specific studies on losses in the tomato value chain in Egypt, reflecting the economic importance of reducing losses from the field to the consumer. [2]"
+          "text": "The Food and Agriculture Organization has conducted specific studies on losses in the tomato value chain in Egypt, reflecting the economic importance of reducing losses from the field to the consumer. [2]",
+          "prepared_text": "[[prepared]]The Food and Agriculture Organization has conducted specific studies on losses in the tomato value chain in Egypt, reflecting the economic importance of reducing losses from the field to the consumer. [2]"
         },
         {
           "type": "doc-heading",
@@ -283,11 +371,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The presence of a single insect or a limited number of insects does not necessarily mean that an economic loss has occurred or that chemical intervention is required. An economic decision should be linked to pest density, the life stage present, crop age, the proportion of infested plants or fruit, crop value, intervention cost, and the damage expected if control is not undertaken."
+          "text": "The presence of a single insect or a limited number of insects does not necessarily mean that an economic loss has occurred or that chemical intervention is required. An economic decision should be linked to pest density, the life stage present, crop age, the proportion of infested plants or fruit, crop value, intervention cost, and the damage expected if control is not undertaken.",
+          "prepared_text": "[[prepared]]The presence of a single insect or a limited number of insects does not necessarily mean that an economic loss has occurred or that chemical intervention is required. An economic decision should be linked to pest density, the life stage present, crop age, the proportion of infested plants or fruit, crop value, intervention cost, and the damage expected if control is not undertaken."
         },
         {
           "type": "doc-paragraph",
-          "text": "Pest management science distinguishes among three principal concepts:"
+          "text": "Pest management science distinguishes among three principal concepts:",
+          "prepared_text": "[[prepared]]Pest management science distinguishes among three principal concepts:"
         },
         {
           "type": "doc-heading",
@@ -296,7 +386,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The presence of the pest or its life stages on the plant or within its tissues."
+          "text": "The presence of the pest or its life stages on the plant or within its tissues.",
+          "prepared_text": "[[prepared]]The presence of the pest or its life stages on the plant or within its tissues."
         },
         {
           "type": "doc-heading",
@@ -305,7 +396,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The actual effect of the pest on plant tissues, such as mining, feeding, or fruit injury."
+          "text": "The actual effect of the pest on plant tissues, such as mining, feeding, or fruit injury.",
+          "prepared_text": "[[prepared]]The actual effect of the pest on plant tissues, such as mining, feeding, or fruit injury."
         },
         {
           "type": "doc-heading",
@@ -314,11 +406,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The financial reduction resulting from yield loss, quality deterioration, or increased production costs."
+          "text": "The financial reduction resulting from yield loss, quality deterioration, or increased production costs.",
+          "prepared_text": "[[prepared]]The financial reduction resulting from yield loss, quality deterioration, or increased production costs."
         },
         {
           "type": "doc-paragraph",
-          "text": "A plant may tolerate limited infestation, whereas a small infestation occurring at a sensitive stage, such as the beginning of fruit set or fruit filling, may cause a much greater loss."
+          "text": "A plant may tolerate limited infestation, whereas a small infestation occurring at a sensitive stage, such as the beginning of fruit set or fruit filling, may cause a much greater loss.",
+          "prepared_text": "[[prepared]]A plant may tolerate limited infestation, whereas a small infestation occurring at a sensitive stage, such as the beginning of fruit set or fruit filling, may cause a much greater loss."
         },
         {
           "type": "doc-heading",
@@ -327,7 +421,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Pests feed on different plant parts and may cause:"
+          "text": "Pests feed on different plant parts and may cause:",
+          "prepared_text": "[[prepared]]Pests feed on different plant parts and may cause:"
         },
         {
           "type": "doc-list",
@@ -342,11 +437,24 @@
             "Fruit decay.",
             "Reduction in total yield.",
             "Reduction in marketable yield."
+          ],
+          "prepared_items": [
+            "[[prepared]]Seedling death.",
+            "[[prepared]]Reduction in leaf area.",
+            "[[prepared]]Reduced photosynthesis.",
+            "[[prepared]]Damage to growing points.",
+            "[[prepared]]Flower desiccation.",
+            "[[prepared]]Fruit-set drop.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Fruit decay.",
+            "[[prepared]]Reduction in total yield.",
+            "[[prepared]]Reduction in marketable yield."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "In the case of Tuta absoluta, damage is not limited to the leaf. Larvae can attack leaves, stems, growing points, and fruit, causing effects that extend simultaneously to vegetative growth, yield, and quality."
+          "text": "In the case of Tuta absoluta, damage is not limited to the leaf. Larvae can attack leaves, stems, growing points, and fruit, causing effects that extend simultaneously to vegetative growth, yield, and quality.",
+          "prepared_text": "[[prepared]]In the case of Tuta absoluta, damage is not limited to the leaf. Larvae can attack leaves, stems, growing points, and fruit, causing effects that extend simultaneously to vegetative growth, yield, and quality."
         },
         {
           "type": "doc-heading",
@@ -355,23 +463,28 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A field may produce a high total fruit weight, yet a large proportion may be unmarketable because of infestation."
+          "text": "A field may produce a high total fruit weight, yet a large proportion may be unmarketable because of infestation.",
+          "prepared_text": "[[prepared]]A field may produce a high total fruit weight, yet a large proportion may be unmarketable because of infestation."
         },
         {
           "type": "doc-paragraph",
-          "text": "This point is extremely important because the true economic criterion is not always total yield, but rather:"
+          "text": "This point is extremely important because the true economic criterion is not always total yield, but rather:",
+          "prepared_text": "[[prepared]]This point is extremely important because the true economic criterion is not always total yield, but rather:"
         },
         {
           "type": "doc-paragraph",
-          "text": "> Marketable yield or yield accepted for processing."
+          "text": "> Marketable yield or yield accepted for processing.",
+          "prepared_text": "[[prepared]]> Marketable yield or yield accepted for processing."
         },
         {
           "type": "doc-paragraph",
-          "text": "Perforated fruit, fruit containing larvae, or fruit affected by decay may be included when total field weight is estimated, but they do not represent actual income to the grower."
+          "text": "Perforated fruit, fruit containing larvae, or fruit affected by decay may be included when total field weight is estimated, but they do not represent actual income to the grower.",
+          "prepared_text": "[[prepared]]Perforated fruit, fruit containing larvae, or fruit affected by decay may be included when total field weight is estimated, but they do not represent actual income to the grower."
         },
         {
           "type": "doc-paragraph",
-          "text": "In fresh-tomato markets, a small hole in the fruit can greatly reduce its commercial value. In processing plants, infested fruit may increase the percentage of defects and losses during grading, and may also raise the microbial load and affect the safety and quality of the raw material."
+          "text": "In fresh-tomato markets, a small hole in the fruit can greatly reduce its commercial value. In processing plants, infested fruit may increase the percentage of defects and losses during grading, and may also raise the microbial load and affect the safety and quality of the raw material.",
+          "prepared_text": "[[prepared]]In fresh-tomato markets, a small hole in the fruit can greatly reduce its commercial value. In processing plants, infested fruit may increase the percentage of defects and losses during grading, and may also raise the [[term:microbial-load]]microbial load[[/term]] and affect the safety and quality of the raw material."
         },
         {
           "type": "doc-heading",
@@ -380,7 +493,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Pests add multiple cost items to production per feddan, including:"
+          "text": "Pests add multiple cost items to production per feddan, including:",
+          "prepared_text": "[[prepared]]Pests add multiple cost items to production per feddan, including:"
         },
         {
           "type": "doc-list",
@@ -396,11 +510,25 @@
             "Cost of crop-residue disposal.",
             "Cost of residue analysis.",
             "Cost of respraying when a treatment fails."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cost of pesticides.",
+            "[[prepared]]Cost of spraying and operation.",
+            "[[prepared]]Labor costs.",
+            "[[prepared]]Purchase of traps and [[term:pheromone-trap]]pheromones[[/term]].",
+            "[[prepared]]Monitoring and inspection costs.",
+            "[[prepared]]Cost of biological-control agents.",
+            "[[prepared]]Increased number of field visits.",
+            "[[prepared]]Cost of removing severely infested plants.",
+            "[[prepared]]Cost of crop-residue disposal.",
+            "[[prepared]]Cost of residue analysis.",
+            "[[prepared]]Cost of respraying when a treatment fails."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "When random spraying is relied upon, the grower may incur high costs without achieving effective pest control, particularly when the pesticide is applied at the wrong time or against a life stage concealed within plant tissue."
+          "text": "When random spraying is relied upon, the grower may incur high costs without achieving effective pest control, particularly when the pesticide is applied at the wrong time or against a life stage concealed within plant tissue.",
+          "prepared_text": "[[prepared]]When random spraying is relied upon, the grower may incur high costs without achieving effective pest control, particularly when the pesticide is applied at the wrong time or against a life stage concealed within plant tissue."
         },
         {
           "type": "doc-heading",
@@ -409,7 +537,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Excessive or unregulated pesticide use may lead to:"
+          "text": "Excessive or unregulated pesticide use may lead to:",
+          "prepared_text": "[[prepared]]Excessive or unregulated pesticide use may lead to:"
         },
         {
           "type": "doc-list",
@@ -421,11 +550,21 @@
             "Increased cost of residue testing.",
             "Restrictions on the use of certain active ingredients.",
             "Damage to the reputation of the farm or supplying company."
+          ],
+          "prepared_items": [
+            "[[prepared]]Exceeding [[term:pesticide-safety]]maximum residue limits[[/term]].",
+            "[[prepared]]Failure to comply with the preharvest interval.",
+            "[[prepared]]Rejection of domestic or export consignments.",
+            "[[prepared]]Difficulty marketing the crop to processors committed to quality specifications.",
+            "[[prepared]]Increased cost of residue testing.",
+            "[[prepared]]Restrictions on the use of certain active ingredients.",
+            "[[prepared]]Damage to the reputation of the farm or supplying company."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This problem is particularly sensitive in tomato because of repeated picking in fresh-market cultivars or the proximity of once-over harvest in processing tomatoes."
+          "text": "This problem is particularly sensitive in tomato because of repeated picking in fresh-market cultivars or the proximity of once-over harvest in processing tomatoes.",
+          "prepared_text": "[[prepared]]This problem is particularly sensitive in tomato because of repeated picking in fresh-market cultivars or the proximity of once-over harvest in processing tomatoes."
         },
         {
           "type": "doc-heading",
@@ -434,11 +573,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Resistance develops when individuals that are more tolerant to a pesticide survive and reproduce, after which the frequency of resistance traits within the pest population increases over successive generations."
+          "text": "Resistance develops when individuals that are more tolerant to a pesticide survive and reproduce, after which the frequency of resistance traits within the pest population increases over successive generations.",
+          "prepared_text": "[[prepared]]Resistance develops when individuals that are more tolerant to a pesticide survive and reproduce, after which the frequency of resistance traits within the pest population increases over successive generations."
         },
         {
           "type": "doc-paragraph",
-          "text": "The risk of resistance increases under the following conditions:"
+          "text": "The risk of resistance increases under the following conditions:",
+          "prepared_text": "[[prepared]]The risk of resistance increases under the following conditions:"
         },
         {
           "type": "doc-list",
@@ -450,11 +591,21 @@
             "Incomplete spray coverage.",
             "Complete reliance on chemical control.",
             "A high number of pest generations during the season."
+          ],
+          "prepared_items": [
+            "[[prepared]]Repeated use of the same [[term:active-ingredient]]active ingredient[[/term]].",
+            "[[prepared]]Use of products with different trade names that belong to the same [[term:mode-of-action]]mode of action[[/term]].",
+            "[[prepared]]Use of doses below those recommended.",
+            "[[prepared]]Repeated spraying without monitoring.",
+            "[[prepared]]Incomplete spray coverage.",
+            "[[prepared]]Complete reliance on chemical control.",
+            "[[prepared]]A high number of pest generations during the season."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Studies have shown that Tuta absoluta is capable of developing resistance to different insecticide groups through changes in target-site sensitivity or increased ability to detoxify the pesticide. [3]"
+          "text": "Studies have shown that Tuta absoluta is capable of developing resistance to different insecticide groups through changes in target-site sensitivity or increased ability to detoxify the pesticide. [3]",
+          "prepared_text": "[[prepared]]Studies have shown that Tuta absoluta is capable of developing resistance to different insecticide groups through changes in target-site sensitivity or increased ability to detoxify the pesticide. [3]"
         },
         {
           "type": "doc-heading",
@@ -463,11 +614,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Broad-spectrum pesticides may kill parasitoids and predators that occur naturally in the field. When natural-enemy populations decline, the agroecosystem loses part of its natural capacity to regulate pest populations."
+          "text": "Broad-spectrum pesticides may kill parasitoids and predators that occur naturally in the field. When natural-enemy populations decline, the agroecosystem loses part of its natural capacity to regulate pest populations.",
+          "prepared_text": "[[prepared]]Broad-spectrum pesticides may kill parasitoids and predators that occur naturally in the field. When natural-enemy populations decline, the agroecosystem loses part of its natural capacity to regulate pest populations."
         },
         {
           "type": "doc-paragraph",
-          "text": "In some cases, the pest population declines for a short period after spraying, then rises rapidly again because of:"
+          "text": "In some cases, the pest population declines for a short period after spraying, then rises rapidly again because of:",
+          "prepared_text": "[[prepared]]In some cases, the pest population declines for a short period after spraying, then rises rapidly again because of:"
         },
         {
           "type": "doc-list",
@@ -477,11 +630,19 @@
             "Immigration of new moths from neighboring fields.",
             "Continued presence of eggs and larvae inside mines.",
             "Failure to eliminate infestation sources in old fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Survival of some resistant individuals.",
+            "[[prepared]]Mortality of [[term:biological-control]]natural enemies[[/term]].",
+            "[[prepared]]Immigration of new moths from neighboring fields.",
+            "[[prepared]]Continued presence of eggs and larvae inside mines.",
+            "[[prepared]]Failure to eliminate infestation sources in old fields."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Therefore, the success of a spray treatment should not be evaluated only by the number of insects killed immediately, but by the sustained reduction in pest population and the preservation of biological balance within the field."
+          "text": "Therefore, the success of a spray treatment should not be evaluated only by the number of insects killed immediately, but by the sustained reduction in pest population and the preservation of biological balance within the field.",
+          "prepared_text": "[[prepared]]Therefore, the success of a spray treatment should not be evaluated only by the number of insects killed immediately, but by the sustained reduction in pest population and the preservation of biological balance within the field."
         },
         {
           "type": "doc-heading",
@@ -490,7 +651,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The economic effect of a pest can be expressed in a simplified form by the following relationship:"
+          "text": "The economic effect of a pest can be expressed in a simplified form by the following relationship:",
+          "prepared_text": "[[prepared]]The economic effect of a pest can be expressed in a simplified form by the following relationship:"
         },
         {
           "type": "doc-heading",
@@ -499,7 +661,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Loss of marketable yield"
+          "text": "Loss of marketable yield",
+          "prepared_text": "[[prepared]]Loss of marketable yield"
         },
         {
           "type": "doc-list",
@@ -510,11 +673,20 @@
             "Supply or export losses",
             "Effects of pesticide resistance",
             "Indirect environmental and health impacts."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduction in price due to lower quality",
+            "[[prepared]]Control costs",
+            "[[prepared]]Grading and rejection costs",
+            "[[prepared]]Supply or export losses",
+            "[[prepared]]Effects of pesticide resistance",
+            "[[prepared]]Indirect environmental and health impacts."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "It is therefore clear that the most serious pest is not necessarily the one that consumes the greatest amount of plant tissue, but rather the pest that combines rapid reproduction, difficulty of detection, high control costs, attack on the marketable part of the plant, and the capacity to develop resistance."
+          "text": "It is therefore clear that the most serious pest is not necessarily the one that consumes the greatest amount of plant tissue, but rather the pest that combines rapid reproduction, difficulty of detection, high control costs, attack on the marketable part of the plant, and the capacity to develop resistance.",
+          "prepared_text": "[[prepared]]It is therefore clear that the most serious pest is not necessarily the one that consumes the greatest amount of plant tissue, but rather the pest that combines rapid reproduction, difficulty of detection, high control costs, attack on the marketable part of the plant, and the capacity to develop resistance."
         },
         {
           "type": "doc-heading",
@@ -528,11 +700,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta is a small lepidopteran insect native to South America that, within a relatively short period, became a widespread invasive pest threatening tomato production in Europe, Africa, Asia, and the Middle East."
+          "text": "Tuta absoluta is a small lepidopteran insect native to South America that, within a relatively short period, became a widespread invasive pest threatening tomato production in Europe, Africa, Asia, and the Middle East.",
+          "prepared_text": "[[prepared]]Tuta absoluta is a small lepidopteran insect native to South America that, within a relatively short period, became a widespread invasive pest threatening tomato production in Europe, Africa, Asia, and the Middle East."
         },
         {
           "type": "doc-paragraph",
-          "text": "It is known worldwide by names such as:"
+          "text": "It is known worldwide by names such as:",
+          "prepared_text": "[[prepared]]It is known worldwide by names such as:"
         },
         {
           "type": "doc-list",
@@ -541,15 +715,23 @@
             "Tomato borer.",
             "South American tomato moth.",
             "South American tomato pinworm."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato leaf miner.",
+            "[[prepared]]Tomato borer.",
+            "[[prepared]]South American tomato moth.",
+            "[[prepared]]South American tomato pinworm."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The name tomato leafminer is widely used, but it does not alone describe all forms of damage because the larvae do not attack leaves only; they can also attack stems, growing points, flowers, and fruit."
+          "text": "The name tomato leafminer is widely used, but it does not alone describe all forms of damage because the larvae do not attack leaves only; they can also attack stems, growing points, flowers, and fruit.",
+          "prepared_text": "[[prepared]]The name tomato leafminer is widely used, but it does not alone describe all forms of damage because the larvae do not attack leaves only; they can also attack stems, growing points, flowers, and fruit."
         },
         {
           "type": "doc-paragraph",
-          "text": "The larval stage is responsible for direct damage, as the larva mines into plant tissues and feeds in a site that is relatively protected from external conditions and from many surface-applied spray treatments."
+          "text": "The larval stage is responsible for direct damage, as the larva mines into plant tissues and feeds in a site that is relatively protected from external conditions and from many surface-applied spray treatments.",
+          "prepared_text": "[[prepared]]The [[term:larval-instar]]larval stage[[/term]] is responsible for direct damage, as the larva mines into plant tissues and feeds in a site that is relatively protected from external conditions and from many surface-applied spray treatments."
         },
         {
           "type": "doc-heading",
@@ -558,7 +740,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The seriousness of Tuta absoluta results from the combination of several biological and behavioral traits in a single pest."
+          "text": "The seriousness of Tuta absoluta results from the combination of several biological and behavioral traits in a single pest.",
+          "prepared_text": "[[prepared]]The seriousness of Tuta absoluta results from the combination of several biological and behavioral traits in a single pest."
         },
         {
           "type": "doc-heading",
@@ -567,11 +750,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The larva spends a large part of its active period inside leaf, stem, or fruit tissue. Consequently, spray droplets may reach the plant surface without reaching the concealed larva at an effective concentration."
+          "text": "The larva spends a large part of its active period inside leaf, stem, or fruit tissue. Consequently, spray droplets may reach the plant surface without reaching the concealed larva at an effective concentration.",
+          "prepared_text": "[[prepared]]The larva spends a large part of its active period inside leaf, stem, or fruit tissue. Consequently, spray droplets may reach the plant surface without reaching the concealed larva at an effective concentration."
         },
         {
           "type": "doc-paragraph",
-          "text": "The presence of larvae inside mines also makes early detection of infestation more difficult unless plants are inspected regularly and carefully."
+          "text": "The presence of larvae inside mines also makes early detection of infestation more difficult unless plants are inspected regularly and carefully.",
+          "prepared_text": "[[prepared]]The presence of larvae inside mines also makes early detection of infestation more difficult unless plants are inspected regularly and carefully."
         },
         {
           "type": "doc-heading",
@@ -580,7 +765,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect can produce successive generations throughout the year when suitable temperature and host plants are available. Its relatively short life cycle under warm conditions leads to a rapid increase in population if infestation is not detected early."
+          "text": "The insect can produce successive generations throughout the year when suitable temperature and host plants are available. Its relatively short life cycle under warm conditions leads to a rapid increase in population if infestation is not detected early.",
+          "prepared_text": "[[prepared]]The insect can produce successive generations throughout the year when suitable temperature and host plants are available. Its relatively short life cycle under warm conditions leads to a rapid increase in population if infestation is not detected early."
         },
         {
           "type": "doc-heading",
@@ -589,11 +775,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Infestation can begin at the seedling stage and continue through vegetative growth, flowering, fruit set, fruit filling, and until near harvest."
+          "text": "Infestation can begin at the seedling stage and continue through vegetative growth, flowering, fruit set, fruit filling, and until near harvest.",
+          "prepared_text": "[[prepared]]Infestation can begin at the seedling stage and continue through vegetative growth, flowering, fruit set, fruit filling, and until near harvest."
         },
         {
           "type": "doc-paragraph",
-          "text": "The economic impact varies according to the timing of infestation:"
+          "text": "The economic impact varies according to the timing of infestation:",
+          "prepared_text": "[[prepared]]The economic impact varies according to the timing of infestation:"
         },
         {
           "type": "doc-list",
@@ -602,6 +790,12 @@
             "Infestation of growing points may deform plant growth.",
             "Leaf infestation reduces effective leaf area.",
             "Fruit infestation causes direct loss of the marketable portion."
+          ],
+          "prepared_items": [
+            "[[prepared]]Early infestation may weaken establishment and growth.",
+            "[[prepared]]Infestation of growing points may deform plant growth.",
+            "[[prepared]]Leaf infestation reduces effective leaf area.",
+            "[[prepared]]Fruit infestation causes direct loss of the marketable portion."
           ]
         },
         {
@@ -611,7 +805,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae can attack:"
+          "text": "Larvae can attack:",
+          "prepared_text": "[[prepared]]Larvae can attack:"
         },
         {
           "type": "doc-list",
@@ -624,11 +819,22 @@
             "Green fruit.",
             "Fruit that has begun to color.",
             "Ripe fruit."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves.",
+            "[[prepared]]Petioles.",
+            "[[prepared]]Growing points.",
+            "[[prepared]]Tender stems.",
+            "[[prepared]]Calyces.",
+            "[[prepared]]Green fruit.",
+            "[[prepared]]Fruit that has begun to color.",
+            "[[prepared]]Ripe fruit."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This diversity of infestation sites makes control more difficult and means that monitoring based on traps alone is insufficient."
+          "text": "This diversity of infestation sites makes control more difficult and means that monitoring based on traps alone is insufficient.",
+          "prepared_text": "[[prepared]]This diversity of infestation sites makes control more difficult and means that monitoring based on traps alone is insufficient."
         },
         {
           "type": "doc-heading",
@@ -637,15 +843,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Monitoring protocols and plant-protection reports indicate that severe unmanaged infestation can cause losses ranging from 80 to 100% under some conditions, in both protected cultivation and open fields. [4]"
+          "text": "Monitoring protocols and plant-protection reports indicate that severe unmanaged infestation can cause losses ranging from 80 to 100% under some conditions, in both protected cultivation and open fields. [4]",
+          "prepared_text": "[[prepared]]Monitoring protocols and plant-protection reports indicate that severe unmanaged infestation can cause losses ranging from 80 to 100% under some conditions, in both protected cultivation and open fields. [4]"
         },
         {
           "type": "doc-paragraph",
-          "text": "However, this figure must be interpreted accurately. It represents the potential upper limit under severe outbreaks and in the absence of effective control; it does not mean that every infested field will automatically lose this proportion."
+          "text": "However, this figure must be interpreted accurately. It represents the potential upper limit under severe outbreaks and in the absence of effective control; it does not mean that every infested field will automatically lose this proportion.",
+          "prepared_text": "[[prepared]]However, this figure must be interpreted accurately. It represents the potential upper limit under severe outbreaks and in the absence of effective control; it does not mean that every infested field will automatically lose this proportion."
         },
         {
           "type": "doc-paragraph",
-          "text": "Actual losses depend on:"
+          "text": "Actual losses depend on:",
+          "prepared_text": "[[prepared]]Actual losses depend on:"
         },
         {
           "type": "doc-list",
@@ -660,6 +869,18 @@
             "Monitoring efficiency.",
             "Speed of intervention.",
             "Type of control program used."
+          ],
+          "prepared_items": [
+            "[[prepared]]Timing of initial infestation.",
+            "[[prepared]]Pest density.",
+            "[[prepared]]Plant age.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Canopy condition.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Presence of neighboring infestation sources.",
+            "[[prepared]]Monitoring efficiency.",
+            "[[prepared]]Speed of intervention.",
+            "[[prepared]]Type of control program used."
           ]
         },
         {
@@ -669,11 +890,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The movement of fruit, transplants, packing materials, and agricultural trade, together with the insect's capacity for local dispersal, facilitated the spread of Tuta absoluta from its native range to extensive areas."
+          "text": "The movement of fruit, transplants, packing materials, and agricultural trade, together with the insect's capacity for local dispersal, facilitated the spread of Tuta absoluta from its native range to extensive areas.",
+          "prepared_text": "[[prepared]]The movement of fruit, transplants, packing materials, and agricultural trade, together with the insect's capacity for local dispersal, facilitated the spread of Tuta absoluta from its native range to extensive areas."
         },
         {
           "type": "doc-paragraph",
-          "text": "After it was recorded in Spain in 2006, it spread rapidly across the Mediterranean Basin, Africa, and Asia and became a major threat to tomato production in most regions where it became established. [5]"
+          "text": "After it was recorded in Spain in 2006, it spread rapidly across the Mediterranean Basin, Africa, and Asia and became a major threat to tomato production in most regions where it became established. [5]",
+          "prepared_text": "[[prepared]]After it was recorded in Spain in 2006, it spread rapidly across the Mediterranean Basin, Africa, and Asia and became a major threat to tomato production in most regions where it became established. [5]"
         },
         {
           "type": "doc-heading",
@@ -682,11 +905,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta has a short life cycle and high reproductive capacity, two factors that increase the probability of selecting resistant individuals when insecticides with the same mode of action are repeatedly used."
+          "text": "Tuta absoluta has a short life cycle and high reproductive capacity, two factors that increase the probability of selecting resistant individuals when insecticides with the same mode of action are repeatedly used.",
+          "prepared_text": "[[prepared]]Tuta absoluta has a short life cycle and high reproductive capacity, two factors that increase the probability of selecting resistant individuals when insecticides with the same mode of action are repeatedly used."
         },
         {
           "type": "doc-paragraph",
-          "text": "Resistance to multiple insecticide groups has been recorded in different pest populations, making rotation among IRAC groups, reduction of chemical selection pressure, and integration of nonchemical control methods essential rather than optional. [3]"
+          "text": "Resistance to multiple insecticide groups has been recorded in different pest populations, making rotation among IRAC groups, reduction of chemical selection pressure, and integration of nonchemical control methods essential rather than optional. [3]",
+          "prepared_text": "[[prepared]]Resistance to multiple insecticide groups has been recorded in different pest populations, making rotation among [[term:irac]]IRAC groups[[/term]], reduction of chemical selection pressure, and integration of nonchemical control methods essential rather than optional. [3]"
         },
         {
           "type": "doc-heading",
@@ -695,11 +920,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Adult moths may move from old, neglected fields or fields where control has stopped into younger neighboring fields."
+          "text": "Adult moths may move from old, neglected fields or fields where control has stopped into younger neighboring fields.",
+          "prepared_text": "[[prepared]]Adult moths may move from old, neglected fields or fields where control has stopped into younger neighboring fields."
         },
         {
           "type": "doc-paragraph",
-          "text": "The risk of this migration increases when:"
+          "text": "The risk of this migration increases when:",
+          "prepared_text": "[[prepared]]The risk of this migration increases when:"
         },
         {
           "type": "doc-list",
@@ -710,11 +937,20 @@
             "Alternative hosts or volunteer plants are present.",
             "Traps are not used in production areas.",
             "Each grower acts independently without coordination with neighboring growers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infested plants are left after harvest has ended.",
+            "[[prepared]]Shredding and ploughing are delayed.",
+            "[[prepared]]Planting seasons overlap.",
+            "[[prepared]][[term:alternative-host]]Alternative hosts[[/term]] or volunteer plants are present.",
+            "[[prepared]]Traps are not used in production areas.",
+            "[[prepared]]Each grower acts independently without coordination with neighboring growers."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Consequently, Tuta absoluta management cannot be limited to field boundaries; it requires area-wide management at the level of the agricultural production zone and the grower community."
+          "text": "Consequently, Tuta absoluta management cannot be limited to field boundaries; it requires area-wide management at the level of the agricultural production zone and the grower community.",
+          "prepared_text": "[[prepared]]Consequently, Tuta absoluta management cannot be limited to field boundaries; it requires area-wide management at the level of the agricultural production zone and the grower community."
         },
         {
           "type": "doc-heading",
@@ -723,11 +959,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Egyptian conditions provide several factors that may favor continued pest activity, including warm weather during large parts of the year, multiple tomato planting seasons, overlapping crops, the presence of potato, eggplant, and other solanaceous hosts, and the retention of crop residues in some areas."
+          "text": "Egyptian conditions provide several factors that may favor continued pest activity, including warm weather during large parts of the year, multiple tomato planting seasons, overlapping crops, the presence of potato, eggplant, and other solanaceous hosts, and the retention of crop residues in some areas.",
+          "prepared_text": "[[prepared]]Egyptian conditions provide several factors that may favor continued pest activity, including warm weather during large parts of the year, multiple tomato planting seasons, overlapping crops, the presence of potato, eggplant, and other solanaceous hosts, and the retention of crop residues in some areas."
         },
         {
           "type": "doc-paragraph",
-          "text": "Movement of the pest from one planting season to another may maintain insect pressure throughout the season. Therefore, each field should be viewed as part of a wider production system that includes:"
+          "text": "Movement of the pest from one planting season to another may maintain insect pressure throughout the season. Therefore, each field should be viewed as part of a wider production system that includes:",
+          "prepared_text": "[[prepared]]Movement of the pest from one planting season to another may maintain insect pressure throughout the season. Therefore, each field should be viewed as part of a wider production system that includes:"
         },
         {
           "type": "doc-list",
@@ -740,15 +978,27 @@
             "Packing stations.",
             "Crates used to transport fruit and transplants.",
             "Grading and processing waste."
+          ],
+          "prepared_items": [
+            "[[prepared]]The nursery.",
+            "[[prepared]]Neighboring fields.",
+            "[[prepared]]Fields in which harvesting has ended.",
+            "[[prepared]]Solanaceous crops.",
+            "[[prepared]]Weeds and wild hosts.",
+            "[[prepared]]Packing stations.",
+            "[[prepared]]Crates used to transport fruit and transplants.",
+            "[[prepared]]Grading and processing waste."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "In open-field processing tomatoes, infestation may appear early and then increase as the canopy expands and plants overlap. If the canopy deteriorates late in the season, fruit becomes more exposed to heat and secondary infections, while larvae continue to attack fruit close to harvest."
+          "text": "In open-field processing tomatoes, infestation may appear early and then increase as the canopy expands and plants overlap. If the canopy deteriorates late in the season, fruit becomes more exposed to heat and secondary infections, while larvae continue to attack fruit close to harvest.",
+          "prepared_text": "[[prepared]]In open-field processing tomatoes, infestation may appear early and then increase as the canopy expands and plants overlap. If the canopy deteriorates late in the season, fruit becomes more exposed to heat and [[term:secondary-infection]]secondary infections[[/term]], while larvae continue to attack fruit close to harvest."
         },
         {
           "type": "doc-paragraph",
-          "text": "Fields with delayed ripening may also be exposed to immigration of moths from early fields where harvesting has ended or where control programs have stopped."
+          "text": "Fields with delayed ripening may also be exposed to immigration of moths from early fields where harvesting has ended or where control programs have stopped.",
+          "prepared_text": "[[prepared]]Fields with delayed ripening may also be exposed to immigration of moths from early fields where harvesting has ended or where control programs have stopped."
         },
         {
           "type": "doc-heading",
@@ -757,11 +1007,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Global experience has demonstrated that reliance on pesticides alone does not achieve sustainable control of Tuta absoluta. The insect is protected inside mines during part of its life, and eggs, larvae, pupae, and moths may all be present in the field at the same time."
+          "text": "Global experience has demonstrated that reliance on pesticides alone does not achieve sustainable control of Tuta absoluta. The insect is protected inside mines during part of its life, and eggs, larvae, pupae, and moths may all be present in the field at the same time.",
+          "prepared_text": "[[prepared]]Global experience has demonstrated that reliance on pesticides alone does not achieve sustainable control of Tuta absoluta. The insect is protected inside mines during part of its life, and eggs, larvae, [[term:pupation]]pupae[[/term]], and moths may all be present in the field at the same time."
         },
         {
           "type": "doc-paragraph",
-          "text": "Repeated spraying may also lead to:"
+          "text": "Repeated spraying may also lead to:",
+          "prepared_text": "[[prepared]]Repeated spraying may also lead to:"
         },
         {
           "type": "doc-list",
@@ -773,15 +1025,26 @@
             "Failure of some active ingredients.",
             "Fewer available options close to harvest.",
             "Disruption of biological balance in the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Selection of resistant strains.",
+            "[[prepared]]Mortality of natural enemies.",
+            "[[prepared]]Increased pesticide residues.",
+            "[[prepared]]Higher production costs.",
+            "[[prepared]]Failure of some active ingredients.",
+            "[[prepared]]Fewer available options close to harvest.",
+            "[[prepared]]Disruption of biological balance in the field."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Accordingly, recent scientific reviews emphasize that effective management of Tuta absoluta must be based on Integrated Pest Management (IPM) by combining monitoring, traps, cultural practices, biological control, and selective pesticides within a single program. [5, 6]"
+          "text": "Accordingly, recent scientific reviews emphasize that effective management of Tuta absoluta must be based on Integrated Pest Management (IPM) by combining monitoring, traps, cultural practices, biological control, and selective pesticides within a single program. [5, 6]",
+          "prepared_text": "[[prepared]]Accordingly, recent scientific reviews emphasize that effective management of Tuta absoluta must be based on [[term:ipm]]Integrated Pest Management[[/term]] (IPM) by combining monitoring, traps, cultural practices, biological control, and selective pesticides within a single program. [5, 6]"
         },
         {
           "type": "doc-paragraph",
-          "text": "Applying integrated pest management does not mean completely refraining from pesticide use. Rather, it means using a pesticide when needed, at the correct timing, with the appropriate active ingredient, and after assessing pest density, while preserving natural enemies as far as possible and preventing the development of resistance."
+          "text": "Applying integrated pest management does not mean completely refraining from pesticide use. Rather, it means using a pesticide when needed, at the correct timing, with the appropriate active ingredient, and after assessing pest density, while preserving natural enemies as far as possible and preventing the development of resistance.",
+          "prepared_text": "[[prepared]]Applying integrated pest management does not mean completely refraining from pesticide use. Rather, it means using a pesticide when needed, at the correct timing, with the appropriate active ingredient, and after assessing pest density, while preserving natural enemies as far as possible and preventing the development of resistance."
         },
         {
           "type": "doc-heading",
@@ -790,90 +1053,133 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Before addressing the practical details in the following chapters, the general foundations for successful control can be summarized as follows:"
+          "text": "Before addressing the practical details in the following chapters, the general foundations for successful control can be summarized as follows:",
+          "prepared_text": "[[prepared]]Before addressing the practical details in the following chapters, the general foundations for successful control can be summarized as follows:"
         },
         {
           "type": "doc-list",
           "items": [
             "1. Prevent introduction of the pest through infested transplants."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Prevent introduction of the pest through infested transplants."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "2. Install pheromone traps early, before severe infestation appears."
+          ],
+          "prepared_items": [
+            "[[prepared]]2. Install pheromone traps early, before severe infestation appears."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "3. Inspect plants in the field and do not rely on traps alone."
+          ],
+          "prepared_items": [
+            "[[prepared]]3. Inspect plants in the field and do not rely on traps alone."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "4. Remove heavily infested leaves or plants at the beginning of an outbreak when feasible."
+          ],
+          "prepared_items": [
+            "[[prepared]]4. Remove heavily infested leaves or plants at the beginning of an outbreak when feasible."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "5. Rapidly dispose of crop residues after harvest is completed."
+          ],
+          "prepared_items": [
+            "[[prepared]]5. Rapidly dispose of crop residues after harvest is completed."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "6. Prevent neglected fields from remaining a source of moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]6. Prevent neglected fields from remaining a source of moths."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "7. Control weeds and alternative hosts."
+          ],
+          "prepared_items": [
+            "[[prepared]]7. Control weeds and alternative hosts."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "8. Protect naturally occurring natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]8. Protect naturally occurring natural enemies."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "9. Use biological and microbial control agents within a clearly defined program."
+          ],
+          "prepared_items": [
+            "[[prepared]]9. Use biological and microbial control agents within a clearly defined program."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "10. Select pesticides according to the active ingredient and mode of action, not the trade name alone."
+          ],
+          "prepared_items": [
+            "[[prepared]]10. Select pesticides according to the active ingredient and mode of action, not the trade name alone."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "11. Rotate pesticide groups according to the IRAC classification."
+          ],
+          "prepared_items": [
+            "[[prepared]]11. Rotate pesticide groups according to the IRAC classification."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "12. Comply with recommended doses and preharvest intervals."
+          ],
+          "prepared_items": [
+            "[[prepared]]12. Comply with recommended doses and preharvest intervals."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "13. Evaluate results according to infestation level and damaged fruit, not according to the number of sprays."
+          ],
+          "prepared_items": [
+            "[[prepared]]13. Evaluate results according to infestation level and damaged fruit, not according to the number of sprays."
           ]
         },
         {
           "type": "doc-list",
           "items": [
             "14. Coordinate control among neighboring fields as far as possible."
+          ],
+          "prepared_items": [
+            "[[prepared]]14. Coordinate control among neighboring fields as far as possible."
           ]
         },
         {
@@ -883,11 +1189,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta is not merely an insect that attacks tomato leaves; it is a complex economic pest that affects production, quality, control costs, crop safety, and the sustainability of pesticide programs."
+          "text": "Tuta absoluta is not merely an insect that attacks tomato leaves; it is a complex economic pest that affects production, quality, control costs, crop safety, and the sustainability of pesticide programs.",
+          "prepared_text": "[[prepared]]Tuta absoluta is not merely an insect that attacks tomato leaves; it is a complex economic pest that affects production, quality, control costs, crop safety, and the sustainability of pesticide programs."
         },
         {
           "type": "doc-paragraph",
-          "text": "Its seriousness arises from its capacity to:"
+          "text": "Its seriousness arises from its capacity to:",
+          "prepared_text": "[[prepared]]Its seriousness arises from its capacity to:"
         },
         {
           "type": "doc-list",
@@ -899,15 +1207,26 @@
             "Survive on multiple plant hosts.",
             "Develop pesticide resistance.",
             "Cause severe losses when detection is delayed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Remain concealed within plant tissues.",
+            "[[prepared]]Produce multiple generations.",
+            "[[prepared]]Attack leaves, stems, and fruit.",
+            "[[prepared]]Spread rapidly between fields and regions.",
+            "[[prepared]]Survive on multiple plant hosts.",
+            "[[prepared]]Develop pesticide resistance.",
+            "[[prepared]]Cause severe losses when detection is delayed."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Successful management therefore begins before economic damage appears, through prevention, monitoring, and early detection, followed by the use of an integrated set of cultural, biological, behavioral, and chemical measures."
+          "text": "Successful management therefore begins before economic damage appears, through prevention, monitoring, and early detection, followed by the use of an integrated set of cultural, biological, behavioral, and chemical measures.",
+          "prepared_text": "[[prepared]]Successful management therefore begins before economic damage appears, through prevention, monitoring, and early detection, followed by the use of an integrated set of cultural, biological, behavioral, and chemical measures."
         },
         {
           "type": "doc-paragraph",
-          "text": "The following chapters will address the pest's definition, names, classification, and global distribution, followed by a description of its life stages, life cycle, hosts, and infestation symptoms, before proceeding to a detailed and comprehensive chapter on integrated management programs for Tuta absoluta in open fields."
+          "text": "The following chapters will address the pest's definition, names, classification, and global distribution, followed by a description of its life stages, life cycle, hosts, and infestation symptoms, before proceeding to a detailed and comprehensive chapter on integrated management programs for Tuta absoluta in open fields.",
+          "prepared_text": "[[prepared]]The following chapters will address the pest's definition, names, classification, and global distribution, followed by a description of its life stages, life cycle, hosts, and infestation symptoms, before proceeding to a detailed and comprehensive chapter on integrated management programs for Tuta absoluta in open fields."
         },
         {
           "type": "doc-heading",

@@ -21,15 +21,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The spread of Tuta absoluta represents one of the fastest cases of biological invasion recorded among modern agricultural pests. For many years, the insect remained associated with South America, before appearing in Spain in 2006 and subsequently spreading within a short period across most of the Mediterranean Basin, Europe, Africa, the Middle East, and Asia."
+          "text": "The spread of Tuta absoluta represents one of the fastest cases of biological invasion recorded among modern agricultural pests. For many years, the insect remained associated with South America, before appearing in Spain in 2006 and subsequently spreading within a short period across most of the Mediterranean Basin, Europe, Africa, the Middle East, and Asia.",
+          "prepared_text": "[[prepared]]The spread of Tuta absoluta represents one of the fastest cases of [[term:bioinvasion]]biological invasion[[/term]] recorded among modern agricultural pests. For many years, the insect remained associated with South America, before appearing in Spain in 2006 and subsequently spreading within a short period across most of the Mediterranean Basin, Europe, Africa, the Middle East, and Asia."
         },
         {
           "type": "doc-paragraph",
-          "text": "In less than two decades, the pest shifted from being a regional problem known in South American countries to a global threat to tomato production in both open fields and protected cultivation."
+          "text": "In less than two decades, the pest shifted from being a regional problem known in South American countries to a global threat to tomato production in both open fields and protected cultivation.",
+          "prepared_text": "[[prepared]]In less than two decades, the pest shifted from being a regional problem known in South American countries to a global threat to tomato production in both open fields and protected cultivation."
         },
         {
           "type": "doc-paragraph",
-          "text": "Its spread was not the result of the insect’s flight capacity alone, but rather the interaction of several factors, most importantly:"
+          "text": "Its spread was not the result of the insect’s flight capacity alone, but rather the interaction of several factors, most importantly:",
+          "prepared_text": "[[prepared]]Its spread was not the result of the insect’s flight capacity alone, but rather the interaction of several factors, most importantly:"
         },
         {
           "type": "doc-list",
@@ -43,11 +46,23 @@
             "Climatic suitability of Mediterranean, African, and Asian regions for establishment.",
             "Delayed detection of infestation in newly invaded regions.",
             "Weak agricultural sanitation and inadequate disposal of crop residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]International trade in tomato fruits and plant material.",
+            "[[prepared]]Movement of transplants, packaging materials, and means of transport.",
+            "[[prepared]]Natural movement between neighboring areas.",
+            "[[prepared]]Continuous cultivation of tomato and [[term:solanaceae]]solanaceous hosts[[/term]] throughout the year.",
+            "[[prepared]]The insect’s ability to produce successive generations.",
+            "[[prepared]]Concealment of eggs and larvae within or on plant tissues.",
+            "[[prepared]]Climatic suitability of Mediterranean, African, and Asian regions for establishment.",
+            "[[prepared]]Delayed detection of infestation in newly invaded regions.",
+            "[[prepared]]Weak agricultural sanitation and inadequate disposal of crop residues."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "A distinction must be made between the date of the insect’s actual introduction and the date of its first official record. The pest may arrive in a given area and remain at low population levels for several weeks or months before being detected and diagnosed. Therefore, the years of record presented in this chapter represent the first documented detection and do not always establish the exact date on which the first individual entered a country."
+          "text": "A distinction must be made between the date of the insect’s actual introduction and the date of its first official record. The pest may arrive in a given area and remain at low population levels for several weeks or months before being detected and diagnosed. Therefore, the years of record presented in this chapter represent the first documented detection and do not always establish the exact date on which the first individual entered a country.",
+          "prepared_text": "[[prepared]]A distinction must be made between the date of the insect’s actual introduction and the date of its first official record. The pest may arrive in a given area and remain at low population levels for several weeks or months before being detected and diagnosed. Therefore, the years of record presented in this chapter represent the first documented detection and do not always establish the exact date on which the first individual entered a country."
         },
         {
           "type": "doc-heading",
@@ -61,7 +76,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta is a pest of Neotropical origin, and its native range lies in South America, particularly in the western part of the Neotropical region, known as:"
+          "text": "Tuta absoluta is a pest of Neotropical origin, and its native range lies in South America, particularly in the western part of the Neotropical region, known as:",
+          "prepared_text": "[[prepared]]Tuta absoluta is a pest of Neotropical origin, and its native range lies in South America, particularly in the western part of the Neotropical region, known as:"
         },
         {
           "type": "doc-heading",
@@ -70,11 +86,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Historically, its presence has been associated with areas extending along both sides of the Andes and with tomato-producing regions in South American countries."
+          "text": "Historically, its presence has been associated with areas extending along both sides of the Andes and with tomato-producing regions in South American countries.",
+          "prepared_text": "[[prepared]]Historically, its presence has been associated with areas extending along both sides of the Andes and with tomato-producing regions in South American countries."
         },
         {
           "type": "doc-paragraph",
-          "text": "Within its native range, the pest has been recorded in countries including:"
+          "text": "Within its native range, the pest has been recorded in countries including:",
+          "prepared_text": "[[prepared]]Within its native range, the pest has been recorded in countries including:"
         },
         {
           "type": "doc-list",
@@ -89,11 +107,24 @@
             "Paraguay.",
             "Uruguay.",
             "Venezuela."
+          ],
+          "prepared_items": [
+            "[[prepared]]Peru.",
+            "[[prepared]]Chile.",
+            "[[prepared]]Argentina.",
+            "[[prepared]]Bolivia.",
+            "[[prepared]]Brazil.",
+            "[[prepared]]Colombia.",
+            "[[prepared]]Ecuador.",
+            "[[prepared]]Paraguay.",
+            "[[prepared]]Uruguay.",
+            "[[prepared]]Venezuela."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Accordingly, the insect is not considered an introduced or invasive species throughout most of South America, but rather an indigenous component of the pest community associated with tomato and the family Solanaceae in the region."
+          "text": "Accordingly, the insect is not considered an introduced or invasive species throughout most of South America, but rather an indigenous component of the pest community associated with tomato and the family Solanaceae in the region.",
+          "prepared_text": "[[prepared]]Accordingly, the insect is not considered an introduced or invasive species throughout most of South America, but rather an indigenous component of the pest community associated with tomato and the family Solanaceae in the region."
         },
         {
           "type": "doc-heading",
@@ -102,11 +133,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The British entomologist Edward Meyrick scientifically described the insect in 1917 based on specimens collected from the Huancayo region of Peru."
+          "text": "The British entomologist Edward Meyrick scientifically described the insect in 1917 based on specimens collected from the Huancayo region of Peru.",
+          "prepared_text": "[[prepared]]The British entomologist Edward Meyrick scientifically described the insect in 1917 based on specimens collected from the Huancayo region of Peru."
         },
         {
           "type": "doc-paragraph",
-          "text": "At the time of its original description, it was named:"
+          "text": "At the time of its original description, it was named:",
+          "prepared_text": "[[prepared]]At the time of its original description, it was named:"
         },
         {
           "type": "doc-heading",
@@ -115,7 +148,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Its taxonomic position then changed several times until it became internationally known as:"
+          "text": "Its taxonomic position then changed several times until it became internationally known as:",
+          "prepared_text": "[[prepared]]Its taxonomic position then changed several times until it became internationally known as:"
         },
         {
           "type": "doc-heading",
@@ -124,11 +158,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Before being recently reassigned to the genus Phthorimaea."
+          "text": "Before being recently reassigned to the genus Phthorimaea.",
+          "prepared_text": "[[prepared]]Before being recently reassigned to the genus Phthorimaea."
         },
         {
           "type": "doc-paragraph",
-          "text": "The fact that the insect was described in 1917 does not mean that it first appeared in Peru during that year; rather, it means that this was the date of its formal scientific recognition and taxonomic naming."
+          "text": "The fact that the insect was described in 1917 does not mean that it first appeared in Peru during that year; rather, it means that this was the date of its formal scientific recognition and taxonomic naming.",
+          "prepared_text": "[[prepared]]The fact that the insect was described in 1917 does not mean that it first appeared in Peru during that year; rather, it means that this was the date of its formal scientific recognition and taxonomic naming."
         },
         {
           "type": "doc-heading",
@@ -137,11 +173,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "During the twentieth century, the insect became one of the principal pests of tomato in South America. By the final decades of that century, it had been recorded in most of the continent’s major tomato-producing countries."
+          "text": "During the twentieth century, the insect became one of the principal pests of tomato in South America. By the final decades of that century, it had been recorded in most of the continent’s major tomato-producing countries.",
+          "prepared_text": "[[prepared]]During the twentieth century, the insect became one of the principal pests of tomato in South America. By the final decades of that century, it had been recorded in most of the continent’s major tomato-producing countries."
         },
         {
           "type": "doc-paragraph",
-          "text": "Its spread within South America was facilitated by:"
+          "text": "Its spread within South America was facilitated by:",
+          "prepared_text": "[[prepared]]Its spread within South America was facilitated by:"
         },
         {
           "type": "doc-list",
@@ -153,11 +191,21 @@
             "Suitable temperatures.",
             "Ability of moths to move between fields.",
             "Persistence of volunteer plants and solanaceous weeds."
+          ],
+          "prepared_items": [
+            "[[prepared]]Large-scale tomato cultivation.",
+            "[[prepared]]Overlapping planting dates.",
+            "[[prepared]]Movement of fruits and transplants between regions.",
+            "[[prepared]]Presence of potato, eggplant, and other solanaceous hosts.",
+            "[[prepared]]Suitable temperatures.",
+            "[[prepared]]Ability of moths to move between fields.",
+            "[[prepared]]Persistence of volunteer plants and solanaceous weeds."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest became a major problem in both fresh-market and processing tomatoes, especially in Argentina, Brazil, Chile, and Peru."
+          "text": "The pest became a major problem in both fresh-market and processing tomatoes, especially in Argentina, Brazil, Chile, and Peru.",
+          "prepared_text": "[[prepared]]The pest became a major problem in both fresh-market and processing tomatoes, especially in Argentina, Brazil, Chile, and Peru."
         },
         {
           "type": "doc-heading",
@@ -166,7 +214,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "In South America, the insect evolved over long periods within an environment containing a diverse group of natural enemies, including:"
+          "text": "In South America, the insect evolved over long periods within an environment containing a diverse group of natural enemies, including:",
+          "prepared_text": "[[prepared]]In South America, the insect evolved over long periods within an environment containing a diverse group of [[term:biological-control]]natural enemies[[/term]], including:"
         },
         {
           "type": "doc-list",
@@ -176,19 +225,29 @@
             "Predators.",
             "Entomopathogenic fungi.",
             "Naturally occurring pathogens."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Larval parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Entomopathogenic fungi.",
+            "[[prepared]]Naturally occurring pathogens."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "For this reason, Tuta absoluta in its native range has historically been associated with a more complex ecological network than that present in areas it invaded more recently."
+          "text": "For this reason, Tuta absoluta in its native range has historically been associated with a more complex ecological network than that present in areas it invaded more recently.",
+          "prepared_text": "[[prepared]]For this reason, Tuta absoluta in its native range has historically been associated with a more complex ecological network than that present in areas it invaded more recently."
         },
         {
           "type": "doc-paragraph",
-          "text": "However, the presence of natural enemies did not prevent it from becoming an economic pest, particularly where intensive spray programs killed predators and parasitoids and promoted the development of insecticide resistance."
+          "text": "However, the presence of natural enemies did not prevent it from becoming an economic pest, particularly where intensive spray programs killed predators and parasitoids and promoted the development of insecticide resistance.",
+          "prepared_text": "[[prepared]]However, the presence of natural enemies did not prevent it from becoming an economic pest, particularly where intensive spray programs killed predators and parasitoids and promoted the development of [[term:resistance]]insecticide resistance[[/term]]."
         },
         {
           "type": "doc-paragraph",
-          "text": "The accumulated experience in South America provides an important foundation for understanding:"
+          "text": "The accumulated experience in South America provides an important foundation for understanding:",
+          "prepared_text": "[[prepared]]The accumulated experience in South America provides an important foundation for understanding:"
         },
         {
           "type": "doc-list",
@@ -198,6 +257,13 @@
             "Role of predators.",
             "Influence of resistant cultivars.",
             "Importance of integrated pest management."
+          ],
+          "prepared_items": [
+            "[[prepared]]Insecticide resistance in the pest.",
+            "[[prepared]]Effectiveness of larval parasitoids.",
+            "[[prepared]]Role of predators.",
+            "[[prepared]]Influence of resistant cultivars.",
+            "[[prepared]]Importance of [[term:ipm]]integrated pest management[[/term]]."
           ]
         },
         {
@@ -212,11 +278,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The exact route through which Tuta absoluta moved from South America to Europe has not been conclusively determined."
+          "text": "The exact route through which Tuta absoluta moved from South America to Europe has not been conclusively determined.",
+          "prepared_text": "[[prepared]]The exact route through which Tuta absoluta moved from South America to Europe has not been conclusively determined."
         },
         {
           "type": "doc-paragraph",
-          "text": "Pest risk analyses indicate that introduction may have occurred through agricultural trade, particularly through:"
+          "text": "Pest risk analyses indicate that introduction may have occurred through agricultural trade, particularly through:",
+          "prepared_text": "[[prepared]]Pest risk analyses indicate that introduction may have occurred through agricultural trade, particularly through:"
         },
         {
           "type": "doc-list",
@@ -227,15 +295,25 @@
             "Sorting residues associated with shipments.",
             "Infested plants or transplants.",
             "Plant material belonging to the family Solanaceae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infested tomato fruits.",
+            "[[prepared]]Fruits carrying eggs or larvae near the calyx.",
+            "[[prepared]]Packaging materials and crates.",
+            "[[prepared]]Sorting residues associated with shipments.",
+            "[[prepared]]Infested plants or transplants.",
+            "[[prepared]]Plant material belonging to the family Solanaceae."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta moths have been found in European wholesale markets and packing facilities receiving imported fruits, demonstrating the ability of fruit-handling chains to transport the pest."
+          "text": "Tuta absoluta moths have been found in European wholesale markets and packing facilities receiving imported fruits, demonstrating the ability of fruit-handling chains to transport the pest.",
+          "prepared_text": "[[prepared]]Tuta absoluta moths have been found in European wholesale markets and packing facilities receiving imported fruits, demonstrating the ability of fruit-handling chains to transport the pest."
         },
         {
           "type": "doc-paragraph",
-          "text": "However, the presence of the insect in a packing facility does not by itself prove that the facility was the source of the initial spread. Therefore, the precise route of introduction into Spain remains uncertain."
+          "text": "However, the presence of the insect in a packing facility does not by itself prove that the facility was the source of the initial spread. Therefore, the precise route of introduction into Spain remains uncertain.",
+          "prepared_text": "[[prepared]]However, the presence of the insect in a packing facility does not by itself prove that the facility was the source of the initial spread. Therefore, the precise route of introduction into Spain remains uncertain."
         },
         {
           "type": "doc-heading",
@@ -244,15 +322,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta was first recorded in Europe at the end of 2006 in tomato fields in the province of Castellón, within the Valencia region of eastern Spain."
+          "text": "Tuta absoluta was first recorded in Europe at the end of 2006 in tomato fields in the province of Castellón, within the Valencia region of eastern Spain.",
+          "prepared_text": "[[prepared]]Tuta absoluta was first recorded in Europe at the end of 2006 in tomato fields in the province of Castellón, within the Valencia region of eastern Spain."
         },
         {
           "type": "doc-paragraph",
-          "text": "In 2007, infestation appeared at other locations along the Spanish Mediterranean coast, particularly in Valencia Province, and the pest was also detected on the island of Ibiza in the Balearic Islands."
+          "text": "In 2007, infestation appeared at other locations along the Spanish Mediterranean coast, particularly in Valencia Province, and the pest was also detected on the island of Ibiza in the Balearic Islands.",
+          "prepared_text": "[[prepared]]In 2007, infestation appeared at other locations along the Spanish Mediterranean coast, particularly in Valencia Province, and the pest was also detected on the island of Ibiza in the Balearic Islands."
         },
         {
           "type": "doc-paragraph",
-          "text": "Some winter tomato crops suffered severe infestation, demonstrating at an early stage that the pest could:"
+          "text": "Some winter tomato crops suffered severe infestation, demonstrating at an early stage that the pest could:",
+          "prepared_text": "[[prepared]]Some winter tomato crops suffered severe infestation, demonstrating at an early stage that the pest could:"
         },
         {
           "type": "doc-list",
@@ -261,11 +342,18 @@
             "Reproduce in both greenhouses and open fields.",
             "Move between production areas.",
             "Cause major losses within a short period."
+          ],
+          "prepared_items": [
+            "[[prepared]]Establish under Mediterranean climatic conditions.",
+            "[[prepared]]Reproduce in both greenhouses and open fields.",
+            "[[prepared]]Move between production areas.",
+            "[[prepared]]Cause major losses within a short period."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The record in Spain represented the principal turning point in the pest’s global history, as the Iberian Peninsula became the gateway for its spread into the Mediterranean Basin and Afro-Eurasia."
+          "text": "The record in Spain represented the principal turning point in the pest’s global history, as the Iberian Peninsula became the gateway for its spread into the Mediterranean Basin and Afro-Eurasia.",
+          "prepared_text": "[[prepared]]The record in Spain represented the principal turning point in the pest’s global history, as the Iberian Peninsula became the gateway for its spread into the Mediterranean Basin and Afro-Eurasia."
         },
         {
           "type": "doc-heading",
@@ -274,11 +362,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "After its first detection, the pest did not remain confined to Castellón but moved into tomato-producing areas along the Spanish Mediterranean coast."
+          "text": "After its first detection, the pest did not remain confined to Castellón but moved into tomato-producing areas along the Spanish Mediterranean coast.",
+          "prepared_text": "[[prepared]]After its first detection, the pest did not remain confined to Castellón but moved into tomato-producing areas along the Spanish Mediterranean coast."
         },
         {
           "type": "doc-paragraph",
-          "text": "This spread was facilitated by:"
+          "text": "This spread was facilitated by:",
+          "prepared_text": "[[prepared]]This spread was facilitated by:"
         },
         {
           "type": "doc-list",
@@ -290,11 +380,21 @@
             "Mild winters in coastal areas.",
             "Movement of moths between fields.",
             "Continuous cultivation of suitable hosts."
+          ],
+          "prepared_items": [
+            "[[prepared]]High density of tomato cultivation.",
+            "[[prepared]]Connectivity among production areas.",
+            "[[prepared]]Movement of fruits and packaging materials.",
+            "[[prepared]]Presence of greenhouse production.",
+            "[[prepared]]Mild winters in coastal areas.",
+            "[[prepared]]Movement of moths between fields.",
+            "[[prepared]]Continuous cultivation of suitable hosts."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Within a short period, the pest became established in most Spanish tomato-producing regions, including the Canary Islands."
+          "text": "Within a short period, the pest became established in most Spanish tomato-producing regions, including the Canary Islands.",
+          "prepared_text": "[[prepared]]Within a short period, the pest became established in most Spanish tomato-producing regions, including the Canary Islands."
         },
         {
           "type": "doc-heading",
@@ -308,11 +408,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Following its record in Spain, the insect moved rapidly eastward and northward through tomato production and marketing networks."
+          "text": "Following its record in Spain, the insect moved rapidly eastward and northward through tomato production and marketing networks.",
+          "prepared_text": "[[prepared]]Following its record in Spain, the insect moved rapidly eastward and northward through tomato production and marketing networks."
         },
         {
           "type": "doc-paragraph",
-          "text": "Major milestones in its European spread included:"
+          "text": "Major milestones in its European spread included:",
+          "prepared_text": "[[prepared]]Major milestones in its European spread included:"
         },
         {
           "type": "doc-list",
@@ -327,11 +429,24 @@
             "Cyprus: detected in protected tomato production areas in 2009.",
             "United Kingdom: outbreaks appeared in tomato production and handling facilities during 2009.",
             "Germany, the Netherlands, and other northern countries: individual moths or outbreaks were recorded, often in association with packing facilities or protected cultivation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spain: first record at the end of 2006.",
+            "[[prepared]]France: detections during 2008.",
+            "[[prepared]]Italy: first record in spring 2008 in Calabria, followed by spread into several Italian regions.",
+            "[[prepared]]Portugal: officially recorded in 2009.",
+            "[[prepared]]Malta: recorded in 2009.",
+            "[[prepared]]Switzerland: recorded in 2009.",
+            "[[prepared]]Greece: detected in 2009.",
+            "[[prepared]]Cyprus: detected in protected tomato production areas in 2009.",
+            "[[prepared]]United Kingdom: outbreaks appeared in tomato production and handling facilities during 2009.",
+            "[[prepared]]Germany, the Netherlands, and other northern countries: individual moths or outbreaks were recorded, often in association with packing facilities or protected cultivation."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Within a few years, the insect reached more than thirty countries across Europe and the western Palaearctic region."
+          "text": "Within a few years, the insect reached more than thirty countries across Europe and the western Palaearctic region.",
+          "prepared_text": "[[prepared]]Within a few years, the insect reached more than thirty countries across Europe and the western Palaearctic region."
         },
         {
           "type": "doc-heading",
@@ -340,15 +455,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The spread of Tuta absoluta in Europe did not result entirely from continuous natural movement of moths from Spain into neighboring countries."
+          "text": "The spread of Tuta absoluta in Europe did not result entirely from continuous natural movement of moths from Spain into neighboring countries.",
+          "prepared_text": "[[prepared]]The spread of Tuta absoluta in Europe did not result entirely from continuous natural movement of moths from Spain into neighboring countries."
         },
         {
           "type": "doc-paragraph",
-          "text": "In some countries, geographically separated outbreaks appeared at approximately the same time, as occurred in Greece, where the distribution pattern indicated the possibility of several independent introductions rather than gradual natural spread from a single source."
+          "text": "In some countries, geographically separated outbreaks appeared at approximately the same time, as occurred in Greece, where the distribution pattern indicated the possibility of several independent introductions rather than gradual natural spread from a single source.",
+          "prepared_text": "[[prepared]]In some countries, geographically separated outbreaks appeared at approximately the same time, as occurred in Greece, where the distribution pattern indicated the possibility of several independent introductions rather than gradual natural spread from a single source."
         },
         {
           "type": "doc-paragraph",
-          "text": "This demonstrates the presence of two overlapping pathways:"
+          "text": "This demonstrates the presence of two overlapping pathways:",
+          "prepared_text": "[[prepared]]This demonstrates the presence of two overlapping pathways:"
         },
         {
           "type": "doc-heading",
@@ -357,7 +475,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This occurs through the flight of moths between neighboring areas and fields."
+          "text": "This occurs through the flight of moths between neighboring areas and fields.",
+          "prepared_text": "[[prepared]]This occurs through the flight of moths between neighboring areas and fields."
         },
         {
           "type": "doc-heading",
@@ -366,7 +485,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This occurs through the transport of:"
+          "text": "This occurs through the transport of:",
+          "prepared_text": "[[prepared]]This occurs through the transport of:"
         },
         {
           "type": "doc-list",
@@ -377,11 +497,20 @@
             "Vehicles.",
             "Sorting residues.",
             "Plant products between countries and regions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruits.",
+            "[[prepared]]Transplants.",
+            "[[prepared]]Packaging materials.",
+            "[[prepared]]Vehicles.",
+            "[[prepared]]Sorting residues.",
+            "[[prepared]]Plant products between countries and regions."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This pattern explains the sudden appearance of the insect at locations far from the nearest known outbreak."
+          "text": "This pattern explains the sudden appearance of the insect at locations far from the nearest known outbreak.",
+          "prepared_text": "[[prepared]]This pattern explains the sudden appearance of the insect at locations far from the nearest known outbreak."
         },
         {
           "type": "doc-heading",
@@ -390,7 +519,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The probability of pest establishment was greater in southern European countries with Mediterranean climates, where there are:"
+          "text": "The probability of pest establishment was greater in southern European countries with Mediterranean climates, where there are:",
+          "prepared_text": "[[prepared]]The probability of [[term:establishment]]pest establishment[[/term]] was greater in southern European countries with Mediterranean climates, where there are:"
         },
         {
           "type": "doc-list",
@@ -399,19 +529,28 @@
             "Open-field and protected tomato production.",
             "Long production seasons.",
             "High densities of fields and greenhouses."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mild winter temperatures.",
+            "[[prepared]]Open-field and protected tomato production.",
+            "[[prepared]]Long production seasons.",
+            "[[prepared]]High densities of fields and greenhouses."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "In some northern European countries, lower temperatures limited the insect’s ability to persist year-round in open fields."
+          "text": "In some northern European countries, lower temperatures limited the insect’s ability to persist year-round in open fields.",
+          "prepared_text": "[[prepared]]In some northern European countries, lower temperatures limited the insect’s ability to persist year-round in open fields."
         },
         {
           "type": "doc-paragraph",
-          "text": "However, heated greenhouses, packing stations, and wholesale markets provided environments in which the pest could survive or temporary outbreaks could occur."
+          "text": "However, heated greenhouses, packing stations, and wholesale markets provided environments in which the pest could survive or temporary outbreaks could occur.",
+          "prepared_text": "[[prepared]]However, heated greenhouses, packing stations, and wholesale markets provided environments in which the pest could survive or temporary outbreaks could occur."
         },
         {
           "type": "doc-paragraph",
-          "text": "Consequently, its status differed among European countries, where the pest was:"
+          "text": "Consequently, its status differed among European countries, where the pest was:",
+          "prepared_text": "[[prepared]]Consequently, its status differed among European countries, where the pest was:"
         },
         {
           "type": "doc-list",
@@ -419,6 +558,11 @@
             "Established and widely distributed in some countries.",
             "Limited to certain areas in others.",
             "Transient or subject to eradication in some colder regions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Established and widely distributed in some countries.",
+            "[[prepared]]Limited to certain areas in others.",
+            "[[prepared]]Transient or subject to [[term:eradication]]eradication[[/term]] in some colder regions."
           ]
         },
         {
@@ -433,11 +577,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta crossed the Mediterranean Sea shortly after its appearance in Spain."
+          "text": "Tuta absoluta crossed the Mediterranean Sea shortly after its appearance in Spain.",
+          "prepared_text": "[[prepared]]Tuta absoluta crossed the Mediterranean Sea shortly after its appearance in Spain."
         },
         {
           "type": "doc-paragraph",
-          "text": "During 2008, it was recorded in three major North African countries:"
+          "text": "During 2008, it was recorded in three major North African countries:",
+          "prepared_text": "[[prepared]]During 2008, it was recorded in three major North African countries:"
         },
         {
           "type": "doc-list",
@@ -445,19 +591,27 @@
             "Morocco.",
             "Algeria.",
             "Tunisia."
+          ],
+          "prepared_items": [
+            "[[prepared]]Morocco.",
+            "[[prepared]]Algeria.",
+            "[[prepared]]Tunisia."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "These records marked the beginning of the pest’s invasion of Africa."
+          "text": "These records marked the beginning of the pest’s invasion of Africa.",
+          "prepared_text": "[[prepared]]These records marked the beginning of the pest’s invasion of Africa."
         },
         {
           "type": "doc-paragraph",
-          "text": "Geographical and commercial proximity between southern Europe and North Africa facilitated its movement, particularly given the intensive tomato trade and the continuity of production areas along the Mediterranean coasts."
+          "text": "Geographical and commercial proximity between southern Europe and North Africa facilitated its movement, particularly given the intensive tomato trade and the continuity of production areas along the Mediterranean coasts.",
+          "prepared_text": "[[prepared]]Geographical and commercial proximity between southern Europe and North Africa facilitated its movement, particularly given the intensive tomato trade and the continuity of production areas along the Mediterranean coasts."
         },
         {
           "type": "doc-paragraph",
-          "text": "After reaching the Maghreb, the pest moved eastward toward Libya and Egypt, and then southward into sub-Saharan Africa."
+          "text": "After reaching the Maghreb, the pest moved eastward toward Libya and Egypt, and then southward into sub-Saharan Africa.",
+          "prepared_text": "[[prepared]]After reaching the Maghreb, the pest moved eastward toward Libya and Egypt, and then southward into sub-Saharan Africa."
         },
         {
           "type": "doc-heading",
@@ -471,19 +625,23 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The first documented observations of Tuta absoluta in Egypt were recorded in 2009."
+          "text": "The first documented observations of Tuta absoluta in Egypt were recorded in 2009.",
+          "prepared_text": "[[prepared]]The first documented observations of Tuta absoluta in Egypt were recorded in 2009."
         },
         {
           "type": "doc-paragraph",
-          "text": "Egyptian studies indicate that the first record occurred in Marsa Matruh Governorate, located in northwestern Egypt near the Libyan border and the Mediterranean coast."
+          "text": "Egyptian studies indicate that the first record occurred in Marsa Matruh Governorate, located in northwestern Egypt near the Libyan border and the Mediterranean coast.",
+          "prepared_text": "[[prepared]]Egyptian studies indicate that the first record occurred in Marsa Matruh Governorate, located in northwestern Egypt near the Libyan border and the Mediterranean coast."
         },
         {
           "type": "doc-paragraph",
-          "text": "During 2010, the pest appeared in other areas and subsequently spread rapidly among tomato-producing governorates."
+          "text": "During 2010, the pest appeared in other areas and subsequently spread rapidly among tomato-producing governorates.",
+          "prepared_text": "[[prepared]]During 2010, the pest appeared in other areas and subsequently spread rapidly among tomato-producing governorates."
         },
         {
           "type": "doc-paragraph",
-          "text": "The European and Mediterranean Plant Protection Organization database records the status of the pest in Egypt as follows:"
+          "text": "The European and Mediterranean Plant Protection Organization database records the status of the pest in Egypt as follows:",
+          "prepared_text": "[[prepared]]The European and Mediterranean Plant Protection Organization database records the status of the pest in Egypt as follows:"
         },
         {
           "type": "doc-list",
@@ -491,6 +649,11 @@
             "First record: 2009.",
             "Subsequent spread: rapid at the national level.",
             "Status: present and widely distributed."
+          ],
+          "prepared_items": [
+            "[[prepared]]First record: 2009.",
+            "[[prepared]]Subsequent spread: rapid at the national level.",
+            "[[prepared]]Status: present and widely distributed."
           ]
         },
         {
@@ -500,11 +663,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The geographical location of the first record in Marsa Matruh is consistent with the possibility that the pest moved from the west after spreading through the Maghreb and Libya."
+          "text": "The geographical location of the first record in Marsa Matruh is consistent with the possibility that the pest moved from the west after spreading through the Maghreb and Libya.",
+          "prepared_text": "[[prepared]]The geographical location of the first record in Marsa Matruh is consistent with the possibility that the pest moved from the west after spreading through the Maghreb and Libya."
         },
         {
           "type": "doc-paragraph",
-          "text": "Movement may have occurred through:"
+          "text": "Movement may have occurred through:",
+          "prepared_text": "[[prepared]]Movement may have occurred through:"
         },
         {
           "type": "doc-list",
@@ -514,15 +679,24 @@
             "Means of transport.",
             "Gradual movement of moths between production areas.",
             "More than one pathway at the same time."
+          ],
+          "prepared_items": [
+            "[[prepared]]Transport of fruits and packaging materials along the coast and across borders.",
+            "[[prepared]]Regional trade.",
+            "[[prepared]]Means of transport.",
+            "[[prepared]]Gradual movement of moths between production areas.",
+            "[[prepared]]More than one pathway at the same time."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "However, this geographical sequence does not provide conclusive evidence that Libya was the only direct source of the insect’s introduction into Egypt."
+          "text": "However, this geographical sequence does not provide conclusive evidence that Libya was the only direct source of the insect’s introduction into Egypt.",
+          "prepared_text": "[[prepared]]However, this geographical sequence does not provide conclusive evidence that Libya was the only direct source of the insect’s introduction into Egypt."
         },
         {
           "type": "doc-paragraph",
-          "text": "There is insufficient evidence to determine:"
+          "text": "There is insufficient evidence to determine:",
+          "prepared_text": "[[prepared]]There is insufficient evidence to determine:"
         },
         {
           "type": "doc-list",
@@ -531,11 +705,18 @@
             "The exact point of entry.",
             "The date on which the first individual arrived.",
             "Whether introduction occurred once or on multiple occasions."
+          ],
+          "prepared_items": [
+            "[[prepared]]The specific shipment that transported the pest.",
+            "[[prepared]]The exact point of entry.",
+            "[[prepared]]The date on which the first individual arrived.",
+            "[[prepared]]Whether introduction occurred once or on multiple occasions."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Therefore, the scientifically confirmed fact is that the pest was detected in Egypt in 2009 and subsequently spread rapidly, while the direct pathway of introduction remains unresolved."
+          "text": "Therefore, the scientifically confirmed fact is that the pest was detected in Egypt in 2009 and subsequently spread rapidly, while the direct pathway of introduction remains unresolved.",
+          "prepared_text": "[[prepared]]Therefore, the scientifically confirmed fact is that the pest was detected in Egypt in 2009 and subsequently spread rapidly, while the direct pathway of introduction remains unresolved."
         },
         {
           "type": "doc-heading",
@@ -544,7 +725,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta encountered highly favorable conditions for establishment and reproduction in the Egyptian agricultural environment."
+          "text": "Tuta absoluta encountered highly favorable conditions for establishment and reproduction in the Egyptian agricultural environment.",
+          "prepared_text": "[[prepared]]Tuta absoluta encountered highly favorable conditions for establishment and reproduction in the Egyptian agricultural environment."
         },
         {
           "type": "doc-heading",
@@ -553,7 +735,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato is cultivated in Egypt across several planting seasons and dates, providing suitable host plants during most months of the year."
+          "text": "Tomato is cultivated in Egypt across several planting seasons and dates, providing suitable host plants during most months of the year.",
+          "prepared_text": "[[prepared]]Tomato is cultivated in Egypt across several planting seasons and dates, providing suitable host plants during most months of the year."
         },
         {
           "type": "doc-heading",
@@ -562,7 +745,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Fruits, transplants, crates, and means of transport move between production areas, markets, packing stations, and processing plants, increasing the probability of transporting live stages."
+          "text": "Fruits, transplants, crates, and means of transport move between production areas, markets, packing stations, and processing plants, increasing the probability of transporting live stages.",
+          "prepared_text": "[[prepared]]Fruits, transplants, crates, and means of transport move between production areas, markets, packing stations, and processing plants, increasing the probability of transporting live stages."
         },
         {
           "type": "doc-heading",
@@ -571,7 +755,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The same production area may simultaneously contain:"
+          "text": "The same production area may simultaneously contain:",
+          "prepared_text": "[[prepared]]The same production area may simultaneously contain:"
         },
         {
           "type": "doc-list",
@@ -581,11 +766,19 @@
             "Fields in the vegetative-growth stage.",
             "Fruiting fields.",
             "Fields in which harvest has ended but crop residues have not been removed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nurseries.",
+            "[[prepared]]Recently transplanted fields.",
+            "[[prepared]]Fields in the vegetative-growth stage.",
+            "[[prepared]]Fruiting fields.",
+            "[[prepared]]Fields in which harvest has ended but crop residues have not been removed."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This overlap allows moths to move continuously from old fields into younger ones."
+          "text": "This overlap allows moths to move continuously from old fields into younger ones.",
+          "prepared_text": "[[prepared]]This overlap allows moths to move continuously from old fields into younger ones."
         },
         {
           "type": "doc-heading",
@@ -594,7 +787,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Temperatures across large areas of Egypt permit the development of multiple generations, while protected cultivation and warmer regions allow continued activity during winter."
+          "text": "Temperatures across large areas of Egypt permit the development of multiple generations, while protected cultivation and warmer regions allow continued activity during winter.",
+          "prepared_text": "[[prepared]]Temperatures across large areas of Egypt permit the development of multiple generations, while protected cultivation and warmer regions allow continued activity during winter."
         },
         {
           "type": "doc-heading",
@@ -603,7 +797,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Potato, eggplant, and some solanaceous weeds provide plants that may support pest survival between tomato seasons."
+          "text": "Potato, eggplant, and some solanaceous weeds provide plants that may support pest survival between tomato seasons.",
+          "prepared_text": "[[prepared]]Potato, eggplant, and some solanaceous weeds provide plants that may support pest survival between tomato seasons."
         },
         {
           "type": "doc-heading",
@@ -612,7 +807,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Leaving plants in the field after harvest allows larvae and pupae to survive and a new generation of moths to emerge."
+          "text": "Leaving plants in the field after harvest allows larvae and pupae to survive and a new generation of moths to emerge.",
+          "prepared_text": "[[prepared]]Leaving plants in the field after harvest allows larvae and [[term:pupation]]pupae[[/term]] to survive and a new generation of moths to emerge."
         },
         {
           "type": "doc-heading",
@@ -621,7 +817,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The severity of the pest led many producers to intensify spraying, but repeated use of the same insecticide groups resulted in reduced efficacy in some cases and harmed natural enemies."
+          "text": "The severity of the pest led many producers to intensify spraying, but repeated use of the same insecticide groups resulted in reduced efficacy in some cases and harmed natural enemies.",
+          "prepared_text": "[[prepared]]The severity of the pest led many producers to intensify spraying, but repeated use of the same insecticide groups resulted in reduced efficacy in some cases and harmed natural enemies."
         },
         {
           "type": "doc-heading",
@@ -630,11 +827,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The emergence of Tuta absoluta caused major changes in tomato protection programs in Egypt."
+          "text": "The emergence of Tuta absoluta caused major changes in tomato protection programs in Egypt.",
+          "prepared_text": "[[prepared]]The emergence of Tuta absoluta caused major changes in tomato protection programs in Egypt."
         },
         {
           "type": "doc-paragraph",
-          "text": "Management increasingly came to depend on a set of practices that had not previously been implemented with the same level of regularity, including:"
+          "text": "Management increasingly came to depend on a set of practices that had not previously been implemented with the same level of regularity, including:",
+          "prepared_text": "[[prepared]]Management increasingly came to depend on a set of practices that had not previously been implemented with the same level of regularity, including:"
         },
         {
           "type": "doc-list",
@@ -648,11 +847,23 @@
             "Monitoring of fruit infestation.",
             "Implementation of biological control programs.",
             "Consideration of pesticide residues and preharvest intervals."
+          ],
+          "prepared_items": [
+            "[[prepared]][[term:pheromone-trap]]Pheromone traps[[/term]].",
+            "[[prepared]]Weekly moth counting.",
+            "[[prepared]]Inspection of [[term:mines]]mines[[/term]] and larvae.",
+            "[[prepared]]Greater attention to pest-free nurseries.",
+            "[[prepared]]Rotation of insecticide groups.",
+            "[[prepared]]Rapid disposal of crop residues.",
+            "[[prepared]]Monitoring of fruit infestation.",
+            "[[prepared]]Implementation of biological control programs.",
+            "[[prepared]]Consideration of pesticide residues and preharvest intervals."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Control costs also increased, and crop success became strongly linked to the timing of infestation detection and the effectiveness of the integrated management program."
+          "text": "Control costs also increased, and crop success became strongly linked to the timing of infestation detection and the effectiveness of the integrated management program.",
+          "prepared_text": "[[prepared]]Control costs also increased, and crop success became strongly linked to the timing of infestation detection and the effectiveness of the integrated management program."
         },
         {
           "type": "doc-heading",
@@ -666,7 +877,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "After the pest became established in North African countries, it moved along several pathways:"
+          "text": "After the pest became established in North African countries, it moved along several pathways:",
+          "prepared_text": "[[prepared]]After the pest became established in North African countries, it moved along several pathways:"
         },
         {
           "type": "doc-list",
@@ -676,11 +888,19 @@
             "Through trade and transport networks connecting capitals and markets.",
             "From tomato production centers into neighboring areas.",
             "Through coastal and inland countries."
+          ],
+          "prepared_items": [
+            "[[prepared]]From Egypt and Libya toward Sudan and East Africa.",
+            "[[prepared]]From the Maghreb toward West Africa.",
+            "[[prepared]]Through trade and transport networks connecting capitals and markets.",
+            "[[prepared]]From tomato production centers into neighboring areas.",
+            "[[prepared]]Through coastal and inland countries."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest was recorded in Sudan in 2010 and subsequently continued its spread into the Horn of Africa and eastern parts of the continent."
+          "text": "The pest was recorded in Sudan in 2010 and subsequently continued its spread into the Horn of Africa and eastern parts of the continent.",
+          "prepared_text": "[[prepared]]The pest was recorded in Sudan in 2010 and subsequently continued its spread into the Horn of Africa and eastern parts of the continent."
         },
         {
           "type": "doc-heading",
@@ -689,11 +909,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest reached tomato-producing areas in East African countries during the first half of the second decade of the twenty-first century."
+          "text": "The pest reached tomato-producing areas in East African countries during the first half of the second decade of the twenty-first century.",
+          "prepared_text": "[[prepared]]The pest reached tomato-producing areas in East African countries during the first half of the second decade of the twenty-first century."
         },
         {
           "type": "doc-paragraph",
-          "text": "It was recorded in countries including:"
+          "text": "It was recorded in countries including:",
+          "prepared_text": "[[prepared]]It was recorded in countries including:"
         },
         {
           "type": "doc-list",
@@ -705,15 +927,26 @@
             "Uganda.",
             "Rwanda.",
             "Burundi."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sudan.",
+            "[[prepared]]Ethiopia.",
+            "[[prepared]]Kenya.",
+            "[[prepared]]Tanzania.",
+            "[[prepared]]Uganda.",
+            "[[prepared]]Rwanda.",
+            "[[prepared]]Burundi."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "In Kenya, moths were collected in pheromone traps from the beginning of 2014, and high numbers were recorded in some tomato-producing areas."
+          "text": "In Kenya, moths were collected in pheromone traps from the beginning of 2014, and high numbers were recorded in some tomato-producing areas.",
+          "prepared_text": "[[prepared]]In Kenya, moths were collected in pheromone traps from the beginning of 2014, and high numbers were recorded in some tomato-producing areas."
         },
         {
           "type": "doc-paragraph",
-          "text": "Movement of tomatoes between production areas and markets, together with natural flight, facilitated rapid spread among East African countries."
+          "text": "Movement of tomatoes between production areas and markets, together with natural flight, facilitated rapid spread among East African countries.",
+          "prepared_text": "[[prepared]]Movement of tomatoes between production areas and markets, together with natural flight, facilitated rapid spread among East African countries."
         },
         {
           "type": "doc-heading",
@@ -722,7 +955,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta also spread into West Africa, where it appeared in tomato-growing regions in countries including:"
+          "text": "Tuta absoluta also spread into West Africa, where it appeared in tomato-growing regions in countries including:",
+          "prepared_text": "[[prepared]]Tuta absoluta also spread into West Africa, where it appeared in tomato-growing regions in countries including:"
         },
         {
           "type": "doc-list",
@@ -735,11 +969,22 @@
             "Ghana.",
             "Burkina Faso.",
             "Other countries in the region."
+          ],
+          "prepared_items": [
+            "[[prepared]]Senegal.",
+            "[[prepared]]Niger.",
+            "[[prepared]]Nigeria.",
+            "[[prepared]]Benin.",
+            "[[prepared]]Togo.",
+            "[[prepared]]Ghana.",
+            "[[prepared]]Burkina Faso.",
+            "[[prepared]]Other countries in the region."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Its spread in West Africa was associated with cross-border movement of fruits, interconnected regional markets, weak internal quarantine systems, and successive production seasons."
+          "text": "Its spread in West Africa was associated with cross-border movement of fruits, interconnected regional markets, weak internal quarantine systems, and successive production seasons.",
+          "prepared_text": "[[prepared]]Its spread in West Africa was associated with cross-border movement of fruits, interconnected regional markets, weak internal quarantine systems, and successive production seasons."
         },
         {
           "type": "doc-heading",
@@ -748,7 +993,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest continued to spread into:"
+          "text": "The pest continued to spread into:",
+          "prepared_text": "[[prepared]]The pest continued to spread into:"
         },
         {
           "type": "doc-list",
@@ -762,19 +1008,33 @@
             "Botswana.",
             "Namibia.",
             "South Africa."
+          ],
+          "prepared_items": [
+            "[[prepared]]Democratic Republic of the Congo.",
+            "[[prepared]]Angola.",
+            "[[prepared]]Zambia.",
+            "[[prepared]]Zimbabwe.",
+            "[[prepared]]Malawi.",
+            "[[prepared]]Mozambique.",
+            "[[prepared]]Botswana.",
+            "[[prepared]]Namibia.",
+            "[[prepared]]South Africa."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "It was recorded in Mozambique in 2016 and subsequently appeared in several provinces from north to south."
+          "text": "It was recorded in Mozambique in 2016 and subsequently appeared in several provinces from north to south.",
+          "prepared_text": "[[prepared]]It was recorded in Mozambique in 2016 and subsequently appeared in several provinces from north to south."
         },
         {
           "type": "doc-paragraph",
-          "text": "It was also recorded in South Africa during 2016–2017, completing a movement extending from the northern coast of the continent to its southernmost areas."
+          "text": "It was also recorded in South Africa during 2016–2017, completing a movement extending from the northern coast of the continent to its southernmost areas.",
+          "prepared_text": "[[prepared]]It was also recorded in South Africa during 2016–2017, completing a movement extending from the northern coast of the continent to its southernmost areas."
         },
         {
           "type": "doc-paragraph",
-          "text": "By the end of the second decade of the twenty-first century, the pest had reached all major African regions within approximately ten years of its first detection in North Africa."
+          "text": "By the end of the second decade of the twenty-first century, the pest had reached all major African regions within approximately ten years of its first detection in North Africa.",
+          "prepared_text": "[[prepared]]By the end of the second decade of the twenty-first century, the pest had reached all major African regions within approximately ten years of its first detection in North Africa."
         },
         {
           "type": "doc-heading",
@@ -788,11 +1048,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta was first recorded in Turkey in August 2009 in the Urla district of İzmir Province on the Aegean coast."
+          "text": "Tuta absoluta was first recorded in Turkey in August 2009 in the Urla district of İzmir Province on the Aegean coast.",
+          "prepared_text": "[[prepared]]Tuta absoluta was first recorded in Turkey in August 2009 in the Urla district of İzmir Province on the Aegean coast."
         },
         {
           "type": "doc-paragraph",
-          "text": "The larvae caused:"
+          "text": "The larvae caused:",
+          "prepared_text": "[[prepared]]The larvae caused:"
         },
         {
           "type": "doc-list",
@@ -800,11 +1062,17 @@
             "Blotch mines in leaves.",
             "Infestation of aboveground plant parts.",
             "Superficial tunnels on fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Blotch mines in leaves.",
+            "[[prepared]]Infestation of aboveground plant parts.",
+            "[[prepared]]Superficial tunnels on fruits."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect then spread rapidly through Turkish tomato-producing regions, and Turkey became a major point of departure for its eastward movement into Asia."
+          "text": "The insect then spread rapidly through Turkish tomato-producing regions, and Turkey became a major point of departure for its eastward movement into Asia.",
+          "prepared_text": "[[prepared]]The insect then spread rapidly through Turkish tomato-producing regions, and Turkey became a major point of departure for its eastward movement into Asia."
         },
         {
           "type": "doc-heading",
@@ -813,7 +1081,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "During the subsequent period, the pest appeared in several eastern Mediterranean countries, including:"
+          "text": "During the subsequent period, the pest appeared in several eastern Mediterranean countries, including:",
+          "prepared_text": "[[prepared]]During the subsequent period, the pest appeared in several eastern Mediterranean countries, including:"
         },
         {
           "type": "doc-list",
@@ -823,15 +1092,24 @@
             "Syria.",
             "Lebanon.",
             "Jordan."
+          ],
+          "prepared_items": [
+            "[[prepared]]Israel.",
+            "[[prepared]]Palestinian territories.",
+            "[[prepared]]Syria.",
+            "[[prepared]]Lebanon.",
+            "[[prepared]]Jordan."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Geographical and commercial connectivity among these countries, together with movement of fruits and transplants, facilitated the pest’s movement between tomato-producing areas."
+          "text": "Geographical and commercial connectivity among these countries, together with movement of fruits and transplants, facilitated the pest’s movement between tomato-producing areas.",
+          "prepared_text": "[[prepared]]Geographical and commercial connectivity among these countries, together with movement of fruits and transplants, facilitated the pest’s movement between tomato-producing areas."
         },
         {
           "type": "doc-paragraph",
-          "text": "In Syria, moths and damage were recorded in several coastal regions, after which the pest continued its movement toward Iraq and countries of the Arabian Peninsula."
+          "text": "In Syria, moths and damage were recorded in several coastal regions, after which the pest continued its movement toward Iraq and countries of the Arabian Peninsula.",
+          "prepared_text": "[[prepared]]In Syria, moths and damage were recorded in several coastal regions, after which the pest continued its movement toward Iraq and countries of the Arabian Peninsula."
         },
         {
           "type": "doc-heading",
@@ -840,15 +1118,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta was first recorded in Iraq during autumn 2010 near the Rabia area in Nineveh Governorate, adjacent to the Syrian border."
+          "text": "Tuta absoluta was first recorded in Iraq during autumn 2010 near the Rabia area in Nineveh Governorate, adjacent to the Syrian border.",
+          "prepared_text": "[[prepared]]Tuta absoluta was first recorded in Iraq during autumn 2010 near the Rabia area in Nineveh Governorate, adjacent to the Syrian border."
         },
         {
           "type": "doc-paragraph",
-          "text": "The location of the record suggests possible movement along the northwestern route from the Levant and Turkey."
+          "text": "The location of the record suggests possible movement along the northwestern route from the Levant and Turkey.",
+          "prepared_text": "[[prepared]]The location of the record suggests possible movement along the northwestern route from the Levant and Turkey."
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest was subsequently recorded in other areas, particularly with the movement of tomatoes between governorates and the availability of suitable climatic conditions."
+          "text": "The pest was subsequently recorded in other areas, particularly with the movement of tomatoes between governorates and the availability of suitable climatic conditions.",
+          "prepared_text": "[[prepared]]The pest was subsequently recorded in other areas, particularly with the movement of tomatoes between governorates and the availability of suitable climatic conditions."
         },
         {
           "type": "doc-heading",
@@ -857,11 +1138,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest reached Iran at the beginning of the second decade of the twenty-first century and subsequently appeared in several tomato-producing areas."
+          "text": "The pest reached Iran at the beginning of the second decade of the twenty-first century and subsequently appeared in several tomato-producing areas.",
+          "prepared_text": "[[prepared]]The pest reached Iran at the beginning of the second decade of the twenty-first century and subsequently appeared in several tomato-producing areas."
         },
         {
           "type": "doc-paragraph",
-          "text": "Iran represented an important corridor for pest movement toward:"
+          "text": "Iran represented an important corridor for pest movement toward:",
+          "prepared_text": "[[prepared]]Iran represented an important corridor for pest movement toward:"
         },
         {
           "type": "doc-list",
@@ -869,11 +1152,17 @@
             "Central Asia.",
             "Pakistan.",
             "Eastern and southern Asia."
+          ],
+          "prepared_items": [
+            "[[prepared]]Central Asia.",
+            "[[prepared]]Pakistan.",
+            "[[prepared]]Eastern and southern Asia."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Climatic diversity in Iran, together with the presence of protected and open-field production, also supported establishment in several regions."
+          "text": "Climatic diversity in Iran, together with the presence of protected and open-field production, also supported establishment in several regions.",
+          "prepared_text": "[[prepared]]Climatic diversity in Iran, together with the presence of protected and open-field production, also supported establishment in several regions."
         },
         {
           "type": "doc-heading",
@@ -882,7 +1171,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta continued spreading through the Arabian Peninsula and the Gulf and was recorded in:"
+          "text": "Tuta absoluta continued spreading through the Arabian Peninsula and the Gulf and was recorded in:",
+          "prepared_text": "[[prepared]]Tuta absoluta continued spreading through the Arabian Peninsula and the Gulf and was recorded in:"
         },
         {
           "type": "doc-list",
@@ -892,19 +1182,29 @@
             "Qatar.",
             "United Arab Emirates.",
             "Yemen."
+          ],
+          "prepared_items": [
+            "[[prepared]]Saudi Arabia.",
+            "[[prepared]]Sultanate of Oman.",
+            "[[prepared]]Qatar.",
+            "[[prepared]]United Arab Emirates.",
+            "[[prepared]]Yemen."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "It was recorded in Qatar in 2012 and in the United Arab Emirates in 2012 in tomato and eggplant greenhouses."
+          "text": "It was recorded in Qatar in 2012 and in the United Arab Emirates in 2012 in tomato and eggplant greenhouses.",
+          "prepared_text": "[[prepared]]It was recorded in Qatar in 2012 and in the United Arab Emirates in 2012 in tomato and eggplant greenhouses."
         },
         {
           "type": "doc-paragraph",
-          "text": "In Yemen, it was detected in January 2013, after which official surveys showed that it had spread through a large number of farms and governorates within a short period."
+          "text": "In Yemen, it was detected in January 2013, after which official surveys showed that it had spread through a large number of farms and governorates within a short period.",
+          "prepared_text": "[[prepared]]In Yemen, it was detected in January 2013, after which official surveys showed that it had spread through a large number of farms and governorates within a short period."
         },
         {
           "type": "doc-paragraph",
-          "text": "Rapid spread in arid environments demonstrates that limited rainfall does not prevent establishment when the following are available:"
+          "text": "Rapid spread in arid environments demonstrates that limited rainfall does not prevent establishment when the following are available:",
+          "prepared_text": "[[prepared]]Rapid spread in arid environments demonstrates that limited rainfall does not prevent establishment when the following are available:"
         },
         {
           "type": "doc-list",
@@ -914,6 +1214,13 @@
             "Continuous plant hosts.",
             "Protected agricultural structures.",
             "Markets that move fruits between regions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Irrigated cultivation.",
+            "[[prepared]]Suitable temperatures.",
+            "[[prepared]]Continuous plant hosts.",
+            "[[prepared]]Protected agricultural structures.",
+            "[[prepared]]Markets that move fruits between regions."
           ]
         },
         {
@@ -928,7 +1235,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "After the insect was recorded in Turkey in 2009, it moved eastward through parallel routes:"
+          "text": "After the insect was recorded in Turkey in 2009, it moved eastward through parallel routes:",
+          "prepared_text": "[[prepared]]After the insect was recorded in Turkey in 2009, it moved eastward through parallel routes:"
         },
         {
           "type": "doc-list",
@@ -939,11 +1247,20 @@
             "4. Pakistan and India.",
             "5. Nepal and Bangladesh.",
             "6. Western regions of China."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Turkey, the Levant, Iraq, and Iran.",
+            "[[prepared]]2. Iran and Central Asia.",
+            "[[prepared]]3. The Arabian Peninsula.",
+            "[[prepared]]4. Pakistan and India.",
+            "[[prepared]]5. Nepal and Bangladesh.",
+            "[[prepared]]6. Western regions of China."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Spread within Asia was rapid, particularly in countries cultivating tomato year-round or exchanging fruits and transplants across borders."
+          "text": "Spread within Asia was rapid, particularly in countries cultivating tomato year-round or exchanging fruits and transplants across borders.",
+          "prepared_text": "[[prepared]]Spread within Asia was rapid, particularly in countries cultivating tomato year-round or exchanging fruits and transplants across borders."
         },
         {
           "type": "doc-heading",
@@ -952,11 +1269,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta was first recorded in India in 2014 in areas of southern and western India."
+          "text": "Tuta absoluta was first recorded in India in 2014 in areas of southern and western India.",
+          "prepared_text": "[[prepared]]Tuta absoluta was first recorded in India in 2014 in areas of southern and western India."
         },
         {
           "type": "doc-paragraph",
-          "text": "It subsequently appeared in:"
+          "text": "It subsequently appeared in:",
+          "prepared_text": "[[prepared]]It subsequently appeared in:"
         },
         {
           "type": "doc-list",
@@ -965,15 +1284,23 @@
             "Northwestern India.",
             "Eastern regions.",
             "Northeastern India."
+          ],
+          "prepared_items": [
+            "[[prepared]]Central India.",
+            "[[prepared]]Northwestern India.",
+            "[[prepared]]Eastern regions.",
+            "[[prepared]]Northeastern India."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The large tomato-growing area, multiple production seasons, and movement of fruits between states facilitated expansion of the pest."
+          "text": "The large tomato-growing area, multiple production seasons, and movement of fruits between states facilitated expansion of the pest.",
+          "prepared_text": "[[prepared]]The large tomato-growing area, multiple production seasons, and movement of fruits between states facilitated expansion of the pest."
         },
         {
           "type": "doc-paragraph",
-          "text": "Its emergence in India represented an important milestone in the invasion pathway because India is a major center of tomato production and trade in South Asia."
+          "text": "Its emergence in India represented an important milestone in the invasion pathway because India is a major center of tomato production and trade in South Asia.",
+          "prepared_text": "[[prepared]]Its emergence in India represented an important milestone in the invasion pathway because India is a major center of tomato production and trade in South Asia."
         },
         {
           "type": "doc-heading",
@@ -982,11 +1309,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect was officially recorded in Nepal in May 2016 in a commercial tomato farm in the Kathmandu Valley."
+          "text": "The insect was officially recorded in Nepal in May 2016 in a commercial tomato farm in the Kathmandu Valley.",
+          "prepared_text": "[[prepared]]The insect was officially recorded in Nepal in May 2016 in a commercial tomato farm in the Kathmandu Valley."
         },
         {
           "type": "doc-paragraph",
-          "text": "Identification was confirmed through:"
+          "text": "Identification was confirmed through:",
+          "prepared_text": "[[prepared]]Identification was confirmed through:"
         },
         {
           "type": "doc-list",
@@ -994,11 +1323,17 @@
             "External morphological characters.",
             "Examination of male genitalia.",
             "Comparison with reference specimens."
+          ],
+          "prepared_items": [
+            "[[prepared]]External morphological characters.",
+            "[[prepared]]Examination of male genitalia.",
+            "[[prepared]]Comparison with reference specimens."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Initial surveys showed that the pest was not confined to a single farm but had already spread across the Kathmandu Valley and surrounding areas."
+          "text": "Initial surveys showed that the pest was not confined to a single farm but had already spread across the Kathmandu Valley and surrounding areas.",
+          "prepared_text": "[[prepared]]Initial surveys showed that the pest was not confined to a single farm but had already spread across the Kathmandu Valley and surrounding areas."
         },
         {
           "type": "doc-heading",
@@ -1007,7 +1342,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "During approximately the same period, the pest appeared in other countries of South and Central Asia, including:"
+          "text": "During approximately the same period, the pest appeared in other countries of South and Central Asia, including:",
+          "prepared_text": "[[prepared]]During approximately the same period, the pest appeared in other countries of South and Central Asia, including:"
         },
         {
           "type": "doc-list",
@@ -1018,15 +1354,25 @@
             "Tajikistan.",
             "Uzbekistan.",
             "Kazakhstan."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pakistan.",
+            "[[prepared]]Bangladesh.",
+            "[[prepared]]Kyrgyzstan.",
+            "[[prepared]]Tajikistan.",
+            "[[prepared]]Uzbekistan.",
+            "[[prepared]]Kazakhstan."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The location of these countries along overland trade routes, together with connectivity among tomato-producing areas, facilitated its spread."
+          "text": "The location of these countries along overland trade routes, together with connectivity among tomato-producing areas, facilitated its spread.",
+          "prepared_text": "[[prepared]]The location of these countries along overland trade routes, together with connectivity among tomato-producing areas, facilitated its spread."
         },
         {
           "type": "doc-paragraph",
-          "text": "It was recorded in Kyrgyzstan during the second decade of the current century, followed shortly afterward by the first documented record in Tajikistan."
+          "text": "It was recorded in Kyrgyzstan during the second decade of the current century, followed shortly afterward by the first documented record in Tajikistan.",
+          "prepared_text": "[[prepared]]It was recorded in Kyrgyzstan during the second decade of the current century, followed shortly afterward by the first documented record in Tajikistan."
         },
         {
           "type": "doc-heading",
@@ -1035,15 +1381,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta reached northwestern China during the second half of the second decade of the twenty-first century."
+          "text": "Tuta absoluta reached northwestern China during the second half of the second decade of the twenty-first century.",
+          "prepared_text": "[[prepared]]Tuta absoluta reached northwestern China during the second half of the second decade of the twenty-first century."
         },
         {
           "type": "doc-paragraph",
-          "text": "The western border regions represented the first interface for pest entry, consistent with its movement through Central Asian countries."
+          "text": "The western border regions represented the first interface for pest entry, consistent with its movement through Central Asian countries.",
+          "prepared_text": "[[prepared]]The western border regions represented the first interface for pest entry, consistent with its movement through Central Asian countries."
         },
         {
           "type": "doc-paragraph",
-          "text": "Its arrival in China raised major concerns because of:"
+          "text": "Its arrival in China raised major concerns because of:",
+          "prepared_text": "[[prepared]]Its arrival in China raised major concerns because of:"
         },
         {
           "type": "doc-list",
@@ -1053,11 +1402,19 @@
             "Diversity of climatic regions.",
             "High intensity of internal trade.",
             "Potential movement from western regions to eastern production areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]The vast area devoted to tomato production.",
+            "[[prepared]]Extensive processing tomato cultivation.",
+            "[[prepared]]Diversity of climatic regions.",
+            "[[prepared]]High intensity of internal trade.",
+            "[[prepared]]Potential movement from western regions to eastern production areas."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Climatic suitability models indicated that large areas of China and Asia may allow pest survival or seasonal development when suitable hosts and temperatures are available."
+          "text": "Climatic suitability models indicated that large areas of China and Asia may allow pest survival or seasonal development when suitable hosts and temperatures are available.",
+          "prepared_text": "[[prepared]]Climatic suitability models indicated that large areas of China and Asia may allow pest survival or seasonal development when suitable hosts and temperatures are available."
         },
         {
           "type": "doc-heading",
@@ -1123,11 +1480,70 @@
               "After 2017",
               "Continued local expansion and new records in areas previously pest-free or only lightly infested"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Year or Period",
+            "[[prepared]]Main Event"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]1917",
+              "[[prepared]]Scientific description of the insect from specimens collected in Peru"
+            ],
+            [
+              "[[prepared]]Twentieth century",
+              "[[prepared]]Spread and establishment as a major tomato pest in South America"
+            ],
+            [
+              "[[prepared]]Early 1980s",
+              "[[prepared]]Widespread recording in many South American countries"
+            ],
+            [
+              "[[prepared]]End of 2006",
+              "[[prepared]]First European record in Castellón, Spain"
+            ],
+            [
+              "[[prepared]]2007",
+              "[[prepared]]Spread along the Spanish coast and on the island of Ibiza"
+            ],
+            [
+              "[[prepared]]2008",
+              "[[prepared]]Recorded in Morocco, Algeria, and Tunisia, and appeared in Italy and France"
+            ],
+            [
+              "[[prepared]]2009",
+              "[[prepared]]Recorded in Egypt, Turkey, and many Mediterranean and European countries"
+            ],
+            [
+              "[[prepared]]2010",
+              "[[prepared]]Appeared in Sudan, Syria, Iraq, and several areas of the Middle East"
+            ],
+            [
+              "[[prepared]]2011–2013",
+              "[[prepared]]Expanded through East Africa, the Arabian Peninsula, and Iran"
+            ],
+            [
+              "[[prepared]]2014",
+              "[[prepared]]Recorded in India, Kenya, and other African and Asian areas"
+            ],
+            [
+              "[[prepared]]2015–2016",
+              "[[prepared]]Spread in Nepal, Pakistan, Bangladesh, Mozambique, and parts of sub-Saharan Africa"
+            ],
+            [
+              "[[prepared]]2016–2017",
+              "[[prepared]]Reached South Africa and parts of Central Asia and China"
+            ],
+            [
+              "[[prepared]]After 2017",
+              "[[prepared]]Continued local expansion and new records in areas previously pest-free or only lightly infested"
+            ]
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This table presents selected milestones and does not constitute a complete list of every country or first recording site."
+          "text": "This table presents selected milestones and does not constitute a complete list of every country or first recording site.",
+          "prepared_text": "[[prepared]]This table presents selected milestones and does not constitute a complete list of every country or first recording site."
         },
         {
           "type": "doc-heading",
@@ -1141,7 +1557,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Infested fruits may carry:"
+          "text": "Infested fruits may carry:",
+          "prepared_text": "[[prepared]]Infested fruits may carry:"
         },
         {
           "type": "doc-list",
@@ -1150,15 +1567,23 @@
             "Larvae inside hidden tunnels.",
             "Pupae or larvae concealed in associated residues.",
             "Moths inside packages or means of transport."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs near the calyx.",
+            "[[prepared]]Larvae inside hidden tunnels.",
+            "[[prepared]]Pupae or larvae concealed in associated residues.",
+            "[[prepared]]Moths inside packages or means of transport."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "A fruit may appear externally sound despite containing a small larva, particularly during the early stage of infestation."
+          "text": "A fruit may appear externally sound despite containing a small larva, particularly during the early stage of infestation.",
+          "prepared_text": "[[prepared]]A fruit may appear externally sound despite containing a small larva, particularly during the early stage of infestation."
         },
         {
           "type": "doc-paragraph",
-          "text": "Trade can transport fruits over distances within hours or days that greatly exceed the insect’s natural flight capacity."
+          "text": "Trade can transport fruits over distances within hours or days that greatly exceed the insect’s natural flight capacity.",
+          "prepared_text": "[[prepared]]Trade can transport fruits over distances within hours or days that greatly exceed the insect’s natural flight capacity."
         },
         {
           "type": "doc-heading",
@@ -1167,7 +1592,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Infested transplants may represent a greater risk than fruits in some cases because they may carry:"
+          "text": "Infested transplants may represent a greater risk than fruits in some cases because they may carry:",
+          "prepared_text": "[[prepared]]Infested transplants may represent a greater risk than fruits in some cases because they may carry:"
         },
         {
           "type": "doc-list",
@@ -1176,11 +1602,18 @@
             "Larvae inside small mines.",
             "Pupae among leaves or in the growing medium.",
             "A living plant that allows completion of the pest’s life cycle."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs on leaves.",
+            "[[prepared]]Larvae inside small mines.",
+            "[[prepared]]Pupae among leaves or in the growing medium.",
+            "[[prepared]]A living plant that allows completion of the pest’s life cycle."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "A limited number of infested transplants can establish a new outbreak in an area previously free of the pest."
+          "text": "A limited number of infested transplants can establish a new outbreak in an area previously free of the pest.",
+          "prepared_text": "[[prepared]]A limited number of infested transplants can establish a new outbreak in an area previously free of the pest."
         },
         {
           "type": "doc-heading",
@@ -1189,7 +1622,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Live stages may hide in:"
+          "text": "Live stages may hide in:",
+          "prepared_text": "[[prepared]]Live stages may hide in:"
         },
         {
           "type": "doc-list",
@@ -1200,11 +1634,20 @@
             "Floors of transport vehicles.",
             "Packing-station residues.",
             "Sorting and temporary storage units."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crates.",
+            "[[prepared]]Plastic or wooden packaging.",
+            "[[prepared]]Remnants of leaves and calyces.",
+            "[[prepared]]Floors of transport vehicles.",
+            "[[prepared]]Packing-station residues.",
+            "[[prepared]]Sorting and temporary storage units."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Risk increases when packaging materials are reused between farms and markets without cleaning."
+          "text": "Risk increases when packaging materials are reused between farms and markets without cleaning.",
+          "prepared_text": "[[prepared]]Risk increases when packaging materials are reused between farms and markets without cleaning."
         },
         {
           "type": "doc-heading",
@@ -1213,7 +1656,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Adult moths can fly and move between fields, particularly when:"
+          "text": "Adult moths can fly and move between fields, particularly when:",
+          "prepared_text": "[[prepared]]Adult moths can fly and move between fields, particularly when:"
         },
         {
           "type": "doc-list",
@@ -1224,11 +1668,20 @@
             "Harvest has ended.",
             "A recently planted field is nearby.",
             "Winds are directed toward production areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Population density is high in an old field.",
+            "[[prepared]]Spraying stops before plants are removed.",
+            "[[prepared]]The crop is drying down.",
+            "[[prepared]]Harvest has ended.",
+            "[[prepared]]A recently planted field is nearby.",
+            "[[prepared]]Winds are directed toward production areas."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This capacity is sufficient to expand infestation locally between villages and adjacent production areas, but by itself it does not explain the sudden appearance of the pest in distant countries or islands."
+          "text": "This capacity is sufficient to expand infestation locally between villages and adjacent production areas, but by itself it does not explain the sudden appearance of the pest in distant countries or islands.",
+          "prepared_text": "[[prepared]]This capacity is sufficient to expand infestation locally between villages and adjacent production areas, but by itself it does not explain the sudden appearance of the pest in distant countries or islands."
         },
         {
           "type": "doc-heading",
@@ -1237,11 +1690,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest requires a plant host to continue reproducing. When tomatoes are cultivated throughout the year, moths move from one season to the next without a clear interruption."
+          "text": "The pest requires a plant host to continue reproducing. When tomatoes are cultivated throughout the year, moths move from one season to the next without a clear interruption.",
+          "prepared_text": "[[prepared]]The pest requires a plant host to continue reproducing. When tomatoes are cultivated throughout the year, moths move from one season to the next without a clear interruption."
         },
         {
           "type": "doc-paragraph",
-          "text": "The continuous presence of host plants between seasons is known as:"
+          "text": "The continuous presence of host plants between seasons is known as:",
+          "prepared_text": "[[prepared]]The continuous presence of host plants between seasons is known as:"
         },
         {
           "type": "doc-heading",
@@ -1250,7 +1705,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This bridge may consist of:"
+          "text": "This bridge may consist of:",
+          "prepared_text": "[[prepared]]This bridge may consist of:"
         },
         {
           "type": "doc-list",
@@ -1262,6 +1718,15 @@
             "Eggplant.",
             "Wild solanaceous hosts.",
             "Crop residues that have not been removed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato fields of overlapping ages.",
+            "[[prepared]]Nurseries.",
+            "[[prepared]]Volunteer plants.",
+            "[[prepared]]Potato.",
+            "[[prepared]]Eggplant.",
+            "[[prepared]]Wild solanaceous hosts.",
+            "[[prepared]]Crop residues that have not been removed."
           ]
         },
         {
@@ -1271,11 +1736,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta produces successive generations when suitable temperature and host plants are available."
+          "text": "Tuta absoluta produces successive generations when suitable temperature and host plants are available.",
+          "prepared_text": "[[prepared]]Tuta absoluta produces successive generations when suitable temperature and host plants are available."
         },
         {
           "type": "doc-paragraph",
-          "text": "The short generation time under warm conditions leads to:"
+          "text": "The short generation time under warm conditions leads to:",
+          "prepared_text": "[[prepared]]The short generation time under warm conditions leads to:"
         },
         {
           "type": "doc-list",
@@ -1285,11 +1752,19 @@
             "Increased probability of individuals being transported with shipments.",
             "Rapid colonization of new sites.",
             "Overlap of eggs, larvae, pupae, and moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Rapid multiplication of population numbers.",
+            "[[prepared]]Movement from an undetectable level to a severe outbreak.",
+            "[[prepared]]Increased probability of individuals being transported with shipments.",
+            "[[prepared]]Rapid colonization of new sites.",
+            "[[prepared]]Overlap of eggs, larvae, pupae, and moths."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest does not depend on a single annual generation but can complete multiple generations depending on climate."
+          "text": "The pest does not depend on a single annual generation but can complete multiple generations depending on climate.",
+          "prepared_text": "[[prepared]]The pest does not depend on a single annual generation but can complete multiple generations depending on climate."
         },
         {
           "type": "doc-heading",
@@ -1298,15 +1773,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta does not depend on an obligatory winter diapause that prevents activity when suitable conditions are available."
+          "text": "Tuta absoluta does not depend on an obligatory winter diapause that prevents activity when suitable conditions are available.",
+          "prepared_text": "[[prepared]]Tuta absoluta does not depend on an obligatory [[term:diapause]]winter diapause[[/term]] that prevents activity when suitable conditions are available."
         },
         {
           "type": "doc-paragraph",
-          "text": "When tomato and appropriate temperatures are present inside greenhouses or warm regions, the life cycle can continue during long periods of the year."
+          "text": "When tomato and appropriate temperatures are present inside greenhouses or warm regions, the life cycle can continue during long periods of the year.",
+          "prepared_text": "[[prepared]]When tomato and appropriate temperatures are present inside greenhouses or warm regions, the life cycle can continue during long periods of the year."
         },
         {
           "type": "doc-paragraph",
-          "text": "This characteristic supports:"
+          "text": "This characteristic supports:",
+          "prepared_text": "[[prepared]]This characteristic supports:"
         },
         {
           "type": "doc-list",
@@ -1315,6 +1793,12 @@
             "Overwintering in temperate regions.",
             "Early infestation in the following season.",
             "Continuous generations in tropical and subtropical regions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Survival in protected cultivation.",
+            "[[prepared]]Overwintering in temperate regions.",
+            "[[prepared]]Early infestation in the following season.",
+            "[[prepared]]Continuous generations in tropical and subtropical regions."
           ]
         },
         {
@@ -1324,7 +1808,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest is difficult to detect during the early stages of invasion because:"
+          "text": "The pest is difficult to detect during the early stages of invasion because:",
+          "prepared_text": "[[prepared]]The pest is difficult to detect during the early stages of invasion because:"
         },
         {
           "type": "doc-list",
@@ -1335,11 +1820,20 @@
             "Larvae may be present inside fruits.",
             "Pupae may occur in soil or crop residues.",
             "Moths are small and hide within the canopy."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs are small.",
+            "[[prepared]]Newly hatched larvae rapidly enter plant tissues.",
+            "[[prepared]]Early mines are limited in size.",
+            "[[prepared]]Larvae may be present inside fruits.",
+            "[[prepared]]Pupae may occur in soil or crop residues.",
+            "[[prepared]]Moths are small and hide within the canopy."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect’s internal feeding habit sometimes allows it to pass through rapid inspection procedures."
+          "text": "The insect’s internal feeding habit sometimes allows it to pass through rapid inspection procedures.",
+          "prepared_text": "[[prepared]]The insect’s internal feeding habit sometimes allows it to pass through rapid inspection procedures."
         },
         {
           "type": "doc-heading",
@@ -1348,7 +1842,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Early Tuta infestation may be confused with:"
+          "text": "Early Tuta infestation may be confused with:",
+          "prepared_text": "[[prepared]]Early Tuta infestation may be confused with:"
         },
         {
           "type": "doc-list",
@@ -1358,11 +1853,19 @@
             "Potato tuber moth.",
             "Leaf spots.",
             "Mechanical injuries or fruit rots."
+          ],
+          "prepared_items": [
+            "[[prepared]][[term:liriomyza]]Liriomyza[[/term]] leaf-mining flies.",
+            "[[prepared]]Tomato fruitworm.",
+            "[[prepared]]Potato tuber moth.",
+            "[[prepared]]Leaf spots.",
+            "[[prepared]]Mechanical injuries or fruit rots."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Delayed diagnosis gives the pest sufficient time to produce one or more generations before containment measures begin."
+          "text": "Delayed diagnosis gives the pest sufficient time to produce one or more generations before containment measures begin.",
+          "prepared_text": "[[prepared]]Delayed diagnosis gives the pest sufficient time to produce one or more generations before containment measures begin."
         },
         {
           "type": "doc-heading",
@@ -1371,7 +1874,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Conditions across extensive regions of the world match the pest’s thermal requirements, particularly in:"
+          "text": "Conditions across extensive regions of the world match the pest’s thermal requirements, particularly in:",
+          "prepared_text": "[[prepared]]Conditions across extensive regions of the world match the pest’s thermal requirements, particularly in:"
         },
         {
           "type": "doc-list",
@@ -1382,11 +1886,20 @@
             "Tropical Africa and temperate highlands.",
             "South and Central Asia.",
             "Protected cultivation in colder European regions."
+          ],
+          "prepared_items": [
+            "[[prepared]]The Mediterranean Basin.",
+            "[[prepared]]North Africa.",
+            "[[prepared]]Irrigated areas of the Middle East.",
+            "[[prepared]]Tropical Africa and temperate highlands.",
+            "[[prepared]]South and Central Asia.",
+            "[[prepared]]Protected cultivation in colder European regions."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Extremely high temperatures do not always eliminate the pest because crop canopies, greenhouses, and irrigation provide local microclimates that are less severe than exposed air temperatures."
+          "text": "Extremely high temperatures do not always eliminate the pest because crop canopies, greenhouses, and irrigation provide local microclimates that are less severe than exposed air temperatures.",
+          "prepared_text": "[[prepared]]Extremely high temperatures do not always eliminate the pest because crop canopies, greenhouses, and irrigation provide local microclimates that are less severe than exposed air temperatures."
         },
         {
           "type": "doc-heading",
@@ -1395,11 +1908,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato is the principal economic host, but the pest can survive on other plants, particularly those belonging to the family Solanaceae."
+          "text": "Tomato is the principal economic host, but the pest can survive on other plants, particularly those belonging to the family Solanaceae.",
+          "prepared_text": "[[prepared]]Tomato is the [[term:host-plant]]principal economic host[[/term]], but the pest can survive on other plants, particularly those belonging to the family Solanaceae."
         },
         {
           "type": "doc-paragraph",
-          "text": "Associated hosts or plants include:"
+          "text": "Associated hosts or plants include:",
+          "prepared_text": "[[prepared]]Associated hosts or plants include:"
         },
         {
           "type": "doc-list",
@@ -1411,11 +1926,21 @@
             "Black nightshade.",
             "Datura.",
             "Other wild solanaceous species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Potato.",
+            "[[prepared]]Eggplant.",
+            "[[prepared]]Some pepper species under certain conditions.",
+            "[[prepared]]Wild eggplant.",
+            "[[prepared]]Black nightshade.",
+            "[[prepared]]Datura.",
+            "[[prepared]]Other wild solanaceous species."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The presence of these plants prevents complete interruption of the pest’s life cycle between tomato seasons."
+          "text": "The presence of these plants prevents complete interruption of the pest’s life cycle between tomato seasons.",
+          "prepared_text": "[[prepared]]The presence of these plants prevents complete interruption of the pest’s life cycle between tomato seasons."
         },
         {
           "type": "doc-heading",
@@ -1424,11 +1949,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "When the pest appeared in new regions, many producers and inspectors were insufficiently familiar with its symptoms."
+          "text": "When the pest appeared in new regions, many producers and inspectors were insufficiently familiar with its symptoms.",
+          "prepared_text": "[[prepared]]When the pest appeared in new regions, many producers and inspectors were insufficiently familiar with its symptoms."
         },
         {
           "type": "doc-paragraph",
-          "text": "This led to:"
+          "text": "This led to:",
+          "prepared_text": "[[prepared]]This led to:"
         },
         {
           "type": "doc-list",
@@ -1439,11 +1966,20 @@
             "Failure to install traps early.",
             "Failure to remove crop residues.",
             "Expansion of the outbreak before official reporting."
+          ],
+          "prepared_items": [
+            "[[prepared]]Delayed diagnosis.",
+            "[[prepared]]Continued movement of infested fruits.",
+            "[[prepared]]Transfer of transplants between regions.",
+            "[[prepared]]Failure to install traps early.",
+            "[[prepared]]Failure to remove crop residues.",
+            "[[prepared]]Expansion of the outbreak before official reporting."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Once the pest has spread over a large area, complete eradication becomes extremely difficult."
+          "text": "Once the pest has spread over a large area, complete eradication becomes extremely difficult.",
+          "prepared_text": "[[prepared]]Once the pest has spread over a large area, complete eradication becomes extremely difficult."
         },
         {
           "type": "doc-heading",
@@ -1452,15 +1988,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Insecticide resistance is not a geographical pathway for pest movement, but it increases the insect’s capacity to establish after arrival."
+          "text": "Insecticide resistance is not a geographical pathway for pest movement, but it increases the insect’s capacity to establish after arrival.",
+          "prepared_text": "[[prepared]]Insecticide resistance is not a geographical pathway for pest movement, but it increases the insect’s capacity to establish after arrival."
         },
         {
           "type": "doc-paragraph",
-          "text": "When an insect population carrying some degree of resistance enters an area that depends on the same insecticides, the first treatments may fail to eliminate it."
+          "text": "When an insect population carrying some degree of resistance enters an area that depends on the same insecticides, the first treatments may fail to eliminate it.",
+          "prepared_text": "[[prepared]]When an insect population carrying some degree of resistance enters an area that depends on the same insecticides, the first treatments may fail to eliminate it."
         },
         {
           "type": "doc-paragraph",
-          "text": "Intensive spraying after pest detection may also:"
+          "text": "Intensive spraying after pest detection may also:",
+          "prepared_text": "[[prepared]]Intensive spraying after pest detection may also:"
         },
         {
           "type": "doc-list",
@@ -1469,11 +2008,18 @@
             "Kill local natural enemies.",
             "Increase control costs.",
             "Leave surviving outbreaks capable of further spread."
+          ],
+          "prepared_items": [
+            "[[prepared]]Select more resistant individuals.",
+            "[[prepared]]Kill local natural enemies.",
+            "[[prepared]]Increase control costs.",
+            "[[prepared]]Leave surviving outbreaks capable of further spread."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "For this reason, chemical spraying alone is insufficient to prevent expansion of the pest."
+          "text": "For this reason, chemical spraying alone is insufficient to prevent expansion of the pest.",
+          "prepared_text": "[[prepared]]For this reason, chemical spraying alone is insufficient to prevent expansion of the pest."
         },
         {
           "type": "doc-heading",
@@ -1482,7 +2028,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Movement of Tuta absoluta can be divided into two levels:"
+          "text": "Movement of Tuta absoluta can be divided into two levels:",
+          "prepared_text": "[[prepared]]Movement of Tuta absoluta can be divided into two levels:"
         },
         {
           "type": "doc-heading",
@@ -1491,7 +2038,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This occurs mainly through moth flight and transfers infestation among:"
+          "text": "This occurs mainly through moth flight and transfers infestation among:",
+          "prepared_text": "[[prepared]]This occurs mainly through moth flight and transfers infestation among:"
         },
         {
           "type": "doc-list",
@@ -1500,6 +2048,12 @@
             "Adjacent fields.",
             "Villages.",
             "Nearby production areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plants.",
+            "[[prepared]]Adjacent fields.",
+            "[[prepared]]Villages.",
+            "[[prepared]]Nearby production areas."
           ]
         },
         {
@@ -1509,7 +2063,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This is mainly associated with human activity, especially:"
+          "text": "This is mainly associated with human activity, especially:",
+          "prepared_text": "[[prepared]]This is mainly associated with human activity, especially:"
         },
         {
           "type": "doc-list",
@@ -1521,11 +2076,21 @@
             "Crop trucks.",
             "Wholesale markets.",
             "Packing stations."
+          ],
+          "prepared_items": [
+            "[[prepared]]International trade.",
+            "[[prepared]]Transport of fruits.",
+            "[[prepared]]Transport of transplants.",
+            "[[prepared]]Movement of packaging materials.",
+            "[[prepared]]Crop trucks.",
+            "[[prepared]]Wholesale markets.",
+            "[[prepared]]Packing stations."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The combination of both patterns explains the rapidity of the global invasion: trade introduces the pest into a distant location, and moth flight together with local movement of produce then spreads it within the newly invaded region."
+          "text": "The combination of both patterns explains the rapidity of the global invasion: trade introduces the pest into a distant location, and moth flight together with local movement of produce then spreads it within the newly invaded region.",
+          "prepared_text": "[[prepared]]The combination of both patterns explains the rapidity of the global invasion: trade introduces the pest into a distant location, and moth flight together with local movement of produce then spreads it within the newly invaded region."
         },
         {
           "type": "doc-heading",
@@ -1534,11 +2099,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A small outbreak can be eradicated if it is detected early and remains isolated, but eradication becomes difficult after the pest reaches several farms."
+          "text": "A small outbreak can be eradicated if it is detected early and remains isolated, but eradication becomes difficult after the pest reaches several farms.",
+          "prepared_text": "[[prepared]]A small outbreak can be eradicated if it is detected early and remains isolated, but eradication becomes difficult after the pest reaches several farms."
         },
         {
           "type": "doc-paragraph",
-          "text": "This is due to:"
+          "text": "This is due to:",
+          "prepared_text": "[[prepared]]This is due to:"
         },
         {
           "type": "doc-list",
@@ -1553,11 +2120,24 @@
             "Difficulty coordinating control among all growers.",
             "Ability of a small number of individuals to establish a new population.",
             "Resistance of some populations to insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Presence of multiple life stages at the same time.",
+            "[[prepared]]Concealment of larvae within plants.",
+            "[[prepared]]Presence of pupae in soil and crop residues.",
+            "[[prepared]]Movement of moths between fields.",
+            "[[prepared]]Overlapping planting seasons.",
+            "[[prepared]]Daily movement of fruits.",
+            "[[prepared]]Presence of [[term:alternative-host]]alternative hosts[[/term]].",
+            "[[prepared]]Difficulty coordinating control among all growers.",
+            "[[prepared]]Ability of a small number of individuals to establish a new population.",
+            "[[prepared]]Resistance of some populations to insecticides."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Once the pest becomes widely distributed, the objective shifts from eradication to:"
+          "text": "Once the pest becomes widely distributed, the objective shifts from eradication to:",
+          "prepared_text": "[[prepared]]Once the pest becomes widely distributed, the objective shifts from eradication to:"
         },
         {
           "type": "doc-list",
@@ -1568,6 +2148,14 @@
             "Reducing infestation sources.",
             "Slowing the development of resistance.",
             "Preventing movement into new areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Preventing population increase.",
+            "[[prepared]]Reducing damage.",
+            "[[prepared]]Protecting fruits.",
+            "[[prepared]]Reducing infestation sources.",
+            "[[prepared]]Slowing the development of resistance.",
+            "[[prepared]]Preventing movement into new areas."
           ]
         },
         {
@@ -1582,7 +2170,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "When fruit infestation becomes widespread, the pest is already established. Monitoring must therefore begin with traps and plant inspection before losses appear."
+          "text": "When fruit infestation becomes widespread, the pest is already established. Monitoring must therefore begin with traps and plant inspection before losses appear.",
+          "prepared_text": "[[prepared]]When fruit infestation becomes widespread, the pest is already established. Monitoring must therefore begin with traps and plant inspection before losses appear."
         },
         {
           "type": "doc-heading",
@@ -1591,7 +2180,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "An infested transplant can move the pest into a new field even when that field is far from the nearest known outbreak."
+          "text": "An infested transplant can move the pest into a new field even when that field is far from the nearest known outbreak.",
+          "prepared_text": "[[prepared]]An infested transplant can move the pest into a new field even when that field is far from the nearest known outbreak."
         },
         {
           "type": "doc-heading",
@@ -1600,7 +2190,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Leaving an infested field after harvest does not affect only its owner; it turns the field into a source of moths that attack surrounding crops."
+          "text": "Leaving an infested field after harvest does not affect only its owner; it turns the field into a source of moths that attack surrounding crops.",
+          "prepared_text": "[[prepared]]Leaving an infested field after harvest does not affect only its owner; it turns the field into a source of moths that attack surrounding crops."
         },
         {
           "type": "doc-heading",
@@ -1609,7 +2200,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Fruits and moths move between districts, governorates, and countries. Management therefore requires coordination among producers and regulatory authorities."
+          "text": "Fruits and moths move between districts, governorates, and countries. Management therefore requires coordination among producers and regulatory authorities.",
+          "prepared_text": "[[prepared]]Fruits and moths move between districts, governorates, and countries. Management therefore requires coordination among producers and regulatory authorities."
         },
         {
           "type": "doc-heading",
@@ -1618,7 +2210,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Confusing Tuta with leaf miner delays diagnosis and leads to the use of unsuitable monitoring and control methods."
+          "text": "Confusing Tuta with leaf miner delays diagnosis and leads to the use of unsuitable monitoring and control methods.",
+          "prepared_text": "[[prepared]]Confusing Tuta with leaf miner delays diagnosis and leads to the use of unsuitable monitoring and control methods."
         },
         {
           "type": "doc-heading",
@@ -1627,7 +2220,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The history of the invasion demonstrates that reliance on insecticides did not stop pest expansion and, in many regions, led to resistance development and damage to natural enemies."
+          "text": "The history of the invasion demonstrates that reliance on insecticides did not stop pest expansion and, in many regions, led to resistance development and damage to natural enemies.",
+          "prepared_text": "[[prepared]]The history of the invasion demonstrates that reliance on insecticides did not stop pest expansion and, in many regions, led to resistance development and damage to natural enemies."
         },
         {
           "type": "doc-heading",
@@ -1636,27 +2230,33 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta originated in South America and was scientifically described from Peru in 1917. It subsequently became a major tomato pest in many countries across the continent."
+          "text": "Tuta absoluta originated in South America and was scientifically described from Peru in 1917. It subsequently became a major tomato pest in many countries across the continent.",
+          "prepared_text": "[[prepared]]Tuta absoluta originated in South America and was scientifically described from Peru in 1917. It subsequently became a major tomato pest in many countries across the continent."
         },
         {
           "type": "doc-paragraph",
-          "text": "The global invasion phase began with its detection in Spain at the end of 2006. It then spread rapidly across southern Europe and the Mediterranean Basin."
+          "text": "The global invasion phase began with its detection in Spain at the end of 2006. It then spread rapidly across southern Europe and the Mediterranean Basin.",
+          "prepared_text": "[[prepared]]The global invasion phase began with its detection in Spain at the end of 2006. It then spread rapidly across southern Europe and the Mediterranean Basin."
         },
         {
           "type": "doc-paragraph",
-          "text": "It reached North Africa in 2008, when it was recorded in Morocco, Algeria, and Tunisia, and subsequently appeared in Egypt in 2009. Egyptian studies indicate that the first record occurred in Marsa Matruh before the pest spread during subsequent years across most Egyptian tomato-producing regions."
+          "text": "It reached North Africa in 2008, when it was recorded in Morocco, Algeria, and Tunisia, and subsequently appeared in Egypt in 2009. Egyptian studies indicate that the first record occurred in Marsa Matruh before the pest spread during subsequent years across most Egyptian tomato-producing regions.",
+          "prepared_text": "[[prepared]]It reached North Africa in 2008, when it was recorded in Morocco, Algeria, and Tunisia, and subsequently appeared in Egypt in 2009. Egyptian studies indicate that the first record occurred in Marsa Matruh before the pest spread during subsequent years across most Egyptian tomato-producing regions."
         },
         {
           "type": "doc-paragraph",
-          "text": "In the same year, the pest was recorded in Turkey, from which it extended into the Levant, Iraq, Iran, and the Arabian Peninsula, and then into South, Central, and East Asia."
+          "text": "In the same year, the pest was recorded in Turkey, from which it extended into the Levant, Iraq, Iran, and the Arabian Peninsula, and then into South, Central, and East Asia.",
+          "prepared_text": "[[prepared]]In the same year, the pest was recorded in Turkey, from which it extended into the Levant, Iraq, Iran, and the Arabian Peninsula, and then into South, Central, and East Asia."
         },
         {
           "type": "doc-paragraph",
-          "text": "Within approximately ten years of entering Africa, it had reached all major regions of the continent, while continuing to expand through India, Nepal, Pakistan, Central Asia, and China."
+          "text": "Within approximately ten years of entering Africa, it had reached all major regions of the continent, while continuing to expand through India, Nepal, Pakistan, Central Asia, and China.",
+          "prepared_text": "[[prepared]]Within approximately ten years of entering Africa, it had reached all major regions of the continent, while continuing to expand through India, Nepal, Pakistan, Central Asia, and China."
         },
         {
           "type": "doc-paragraph",
-          "text": "This spread did not result from a single factor but from the interaction of:"
+          "text": "This spread did not result from a single factor but from the interaction of:",
+          "prepared_text": "[[prepared]]This spread did not result from a single factor but from the interaction of:"
         },
         {
           "type": "doc-list",
@@ -1671,11 +2271,24 @@
             "Climatic suitability.",
             "Delayed detection and diagnosis.",
             "Difficulty of eradication after multiple outbreaks become established."
+          ],
+          "prepared_items": [
+            "[[prepared]]International and regional trade.",
+            "[[prepared]]Transport of fruits, transplants, and packaging materials.",
+            "[[prepared]]Natural flight of moths.",
+            "[[prepared]]Overlapping tomato-growing seasons.",
+            "[[prepared]]Presence of alternative hosts.",
+            "[[prepared]]Concealment of larvae within plant tissues.",
+            "[[prepared]]Multiple generations.",
+            "[[prepared]]Climatic suitability.",
+            "[[prepared]]Delayed detection and diagnosis.",
+            "[[prepared]]Difficulty of eradication after multiple outbreaks become established."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This invasion history demonstrates that management of Tuta absoluta does not begin with spraying an infested field. It begins with preventing its movement, inspecting transplants and fruits, installing traps early, removing crop residues, and coordinating management among fields and production regions."
+          "text": "This invasion history demonstrates that management of Tuta absoluta does not begin with spraying an infested field. It begins with preventing its movement, inspecting transplants and fruits, installing traps early, removing crop residues, and coordinating management among fields and production regions.",
+          "prepared_text": "[[prepared]]This invasion history demonstrates that management of Tuta absoluta does not begin with spraying an infested field. It begins with preventing its movement, inspecting transplants and fruits, installing traps early, removing crop residues, and coordinating management among fields and production regions."
         },
         {
           "type": "doc-heading",

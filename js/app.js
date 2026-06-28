@@ -1,6 +1,6 @@
 const appContainer = document.getElementById('app-container');
 const sidebarContainer = document.getElementById('sidebar-menu-container');
-const DATA_VERSION = '31';
+const DATA_VERSION = '32';
 const versionedDataUrl = path => `${path}${path.includes('?') ? '&' : '?'}v=${DATA_VERSION}`;
 // 🌟 ضبط الوضع الداكن واللغة العربية كافتراضي 🌟
 let currentLang = localStorage.getItem('lang') || 'ar';
@@ -22,6 +22,10 @@ let termTooltipPinned = false;
 let renderedRoute = '';
 let scrollSaveFrame = 0;
 let readingToastTimer = null;
+let scrollUiFrame = 0;
+let articleSectionObserver = null;
+let articleObserverResizeTimer = null;
+let observedArticleSections = new Set();
 
 document.addEventListener('DOMContentLoaded', () => {
     if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
@@ -72,13 +76,21 @@ document.addEventListener('DOMContentLoaded', () => {
     const backToTopBtn = document.getElementById('back-to-top');
     const progressBar = document.getElementById('scroll-progress');
     window.addEventListener('scroll', () => {
-        let scrollTop = window.scrollY || document.documentElement.scrollTop;
-        let scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-        if(progressBar) progressBar.style.width = scrollHeight > 0 ? Math.min((scrollTop / scrollHeight) * 100, 100) + '%' : '0%';
-        if(backToTopBtn) scrollTop > 400 ? backToTopBtn.classList.add('show') : backToTopBtn.classList.remove('show');
-        scheduleScrollPositionSave();
-        if (activeTermTrigger) hideTermTooltip();
-        updateArticleReadingState();
+        if (scrollUiFrame) return;
+        scrollUiFrame = requestAnimationFrame(() => {
+            scrollUiFrame = 0;
+            const scrollTop = window.scrollY || document.documentElement.scrollTop;
+            const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            if(progressBar) progressBar.style.width = scrollHeight > 0 ? Math.min((scrollTop / scrollHeight) * 100, 100) + '%' : '0%';
+            if(backToTopBtn) scrollTop > 400 ? backToTopBtn.classList.add('show') : backToTopBtn.classList.remove('show');
+            scheduleScrollPositionSave();
+            if (activeTermTrigger) hideTermTooltip();
+            if (!('IntersectionObserver' in window)) updateArticleReadingState();
+        });
+    }, { passive: true });
+    window.addEventListener('resize', () => {
+        window.clearTimeout(articleObserverResizeTimer);
+        articleObserverResizeTimer = window.setTimeout(() => initializeArticleSectionObserver(), 160);
     }, { passive: true });
 
     // أحداث النقر والتفاعل داخل المحتوى
@@ -234,10 +246,17 @@ async function fetchChapterManifest(lang, chapterId) {
 }
 
 async function fetchChapterTab(lang, chapterId, tab, tabIndex) {
-    if (Array.isArray(tab.content_blocks)) return tab;
+    if (Array.isArray(tab.content_blocks) || Array.isArray(tab.parts)) return tab;
     const contentPath = tab.content_path || `${chapterId}/${tabIndex}.json`;
     const response = await fetch(versionedDataUrl(`data/${lang}/${contentPath}`));
     if (!response.ok) throw new Error(`Chapter tab failed for ${chapterId}-${tabIndex}`);
+    return response.json();
+}
+
+async function fetchChapterPart(lang, chapterId, tabIndex, part, partIndex) {
+    const contentPath = part.content_path || `${chapterId}/${tabIndex}/${partIndex}.json`;
+    const response = await fetch(versionedDataUrl(`data/${lang}/${contentPath}`));
+    if (!response.ok) throw new Error(`Chapter part failed for ${chapterId}-${tabIndex}-${partIndex}`);
     return response.json();
 }
 
@@ -247,11 +266,30 @@ function prefetchAdjacentTab(lang, chapterId, chapterData, tabIndex) {
     const slowConnection = /(^|-)2g$/.test(navigator.connection?.effectiveType || '');
     if (slowConnection) return;
     const run = () => {
-        const contentPath = nextTab.content_path || `${chapterId}/${tabIndex + 1}.json`;
+        const contentPath = nextTab.parts?.[0]?.content_path || nextTab.content_path || `${chapterId}/${tabIndex + 1}.json`;
         fetch(versionedDataUrl(`data/${lang}/${contentPath}`)).catch(() => {});
     };
     if ('requestIdleCallback' in window) window.requestIdleCallback(run, { timeout: 1800 });
     else window.setTimeout(run, 700);
+}
+
+function prefetchAdjacentPart(lang, partContext) {
+    if (!partContext || navigator.connection?.saveData) return;
+    const nextPart = partContext.parts[partContext.index + 1];
+    if (!nextPart) return;
+    const slowConnection = /(^|-)2g$/.test(navigator.connection?.effectiveType || '');
+    if (slowConnection) return;
+    const run = () => fetch(versionedDataUrl(`data/${lang}/${nextPart.content_path}`)).catch(() => {});
+    if ('requestIdleCallback' in window) window.requestIdleCallback(run, { timeout: 1800 });
+    else window.setTimeout(run, 700);
+}
+
+function chapterTabRoute(chapterId, tabIndex, tab, partIndex = null) {
+    if (Array.isArray(tab?.parts) && tab.parts.length) {
+        const safePartIndex = Number.isInteger(partIndex) ? partIndex : 0;
+        return `${chapterId}-${tabIndex}-${safePartIndex}`;
+    }
+    return `${chapterId}-${tabIndex}`;
 }
 
 function normalizeSearchText(value) {
@@ -300,9 +338,9 @@ function renderSearchResults(query) {
         return;
     }
     resultsContainer.innerHTML = matches.map(entry => `
-        <button type="button" class="search-result-item ripple-btn" data-search-route="${escapeHtml(entry.chapterId)}-${entry.tabIndex}" data-search-target="doc-section-${entry.sectionIndex}">
+        <button type="button" class="search-result-item ripple-btn" data-search-route="${escapeHtml(entry.chapterId)}-${entry.tabIndex}${Number.isInteger(entry.partIndex) ? `-${entry.partIndex}` : ''}" data-search-target="doc-section-${entry.sectionIndex}">
             <span class="search-result-copy">
-                <span class="search-result-meta"><i class="fas fa-book-open" aria-hidden="true"></i>${escapeHtml(entry.tabTitle)}</span>
+                <span class="search-result-meta"><i class="fas fa-book-open" aria-hidden="true"></i>${escapeHtml(entry.tabTitle)}${entry.partTitle ? ` — ${escapeHtml(entry.partTitle)}` : ''}</span>
                 <strong>${highlightSearchMatch(entry.sectionTitle, query)}</strong>
                 <small>${highlightSearchMatch(createSearchSnippet(entry.text, query), query)}</small>
             </span>
@@ -482,7 +520,7 @@ function handleRouting() {
         loadGlossaryPage();
         syncBottomNav('none');
     } else {
-        const routeMatch = hash.match(/^(.+)-(\d+)$/);
+        const routeMatch = hash.match(/^(.+?)-(\d+)(?:-(\d+))?$/);
         if (!routeMatch || !getValidChapterIds().has(routeMatch[1])) {
             latestChapterRequest++;
             renderRouteError();
@@ -490,7 +528,8 @@ function handleRouting() {
         }
         const chap = routeMatch[1];
         const tab = Number(routeMatch[2]);
-        loadChapter(chap, tab);
+        const part = routeMatch[3] === undefined ? null : Number(routeMatch[3]);
+        loadChapter(chap, tab, part);
         syncBottomNav('none');
     }
 }
@@ -570,7 +609,15 @@ function handleArticleAnchor(event) {
     event.preventDefault();
     const article = link.closest('.doc-article');
     const target = article?.querySelector(`#${link.dataset.scrollTarget}`) || document.getElementById(link.dataset.scrollTarget);
-    if (!target) return;
+    if (!target) {
+        const referenceRoute = article?.dataset.referenceRoute;
+        if (referenceRoute && link.classList.contains('citation-link')) {
+            pendingSearchScroll = { route: referenceRoute, target: link.dataset.scrollTarget, query: '' };
+            if (window.location.hash === `#${referenceRoute}`) handleRouting();
+            else window.location.hash = referenceRoute;
+        }
+        return;
+    }
     const targetPart = target.closest('[data-doc-part-index]');
     if (article && targetPart?.hidden) activateDocPart(article, Number(targetPart.dataset.docPartIndex));
     const collapsedParent = target.closest('details:not([open])');
@@ -919,7 +966,7 @@ async function loadIndex() {
     }
 }
 
-async function loadChapter(chapterId, tabIndex = 0) {
+async function loadChapter(chapterId, tabIndex = 0, requestedPartIndex = null) {
     const requestId = ++latestChapterRequest;
     const requestedLang = currentLang;
     saveCurrentScrollPosition();
@@ -938,10 +985,28 @@ async function loadChapter(chapterId, tabIndex = 0) {
         }
         activeTabs[chapterId] = tabIndex;
         activeTabs[chapterId + "_total"] = chapterData.tabs.length; 
-        const activeTabData = await fetchChapterTab(requestedLang, chapterId, chapterData.tabs[tabIndex], tabIndex);
+        const tabManifest = chapterData.tabs[tabIndex];
+        const tabData = await fetchChapterTab(requestedLang, chapterId, tabManifest, tabIndex);
         if (requestId !== latestChapterRequest) return;
-        renderChapter(chapterData, tabIndex, activeTabData);
-        prefetchAdjacentTab(requestedLang, chapterId, chapterData, tabIndex);
+        let activeTabData = tabData;
+        let partContext = null;
+        if (Array.isArray(tabData.parts) && tabData.parts.length) {
+            const partIndex = requestedPartIndex === null ? 0 : requestedPartIndex;
+            if (!Number.isInteger(partIndex) || partIndex < 0 || partIndex >= tabData.parts.length) {
+                renderRouteError();
+                return;
+            }
+            activeTabs[chapterId + "_part"] = partIndex;
+            activeTabData = await fetchChapterPart(requestedLang, chapterId, tabIndex, tabData.parts[partIndex], partIndex);
+            if (requestId !== latestChapterRequest) return;
+            partContext = { index: partIndex, parts: tabData.parts, tabIndex };
+        } else if (requestedPartIndex !== null) {
+            renderRouteError();
+            return;
+        }
+        renderChapter(chapterData, tabIndex, activeTabData, partContext);
+        if (partContext) prefetchAdjacentPart(requestedLang, partContext);
+        else prefetchAdjacentTab(requestedLang, chapterId, chapterData, tabIndex);
     } catch (error) {
         if (requestId !== latestChapterRequest) return;
         console.error(`Error loading ${chapterId}:`, error);
@@ -950,8 +1015,7 @@ async function loadChapter(chapterId, tabIndex = 0) {
 }
 
 function renderSidebar(sidebarData) {
-    let html = `<div class="home-link-wrap"><a href="#home" class="active ripple-btn" id="nav-home"><i class="fas fa-home"></i> <span>${currentLang === 'ar' ? 'الرئيسية' : 'Home'}</span></a></div>
-        <div class="home-link-wrap glossary-nav-wrap"><a href="#glossary" class="ripple-btn" id="nav-glossary"><i class="fas fa-spell-check"></i> <span>${currentLang === 'ar' ? 'دليل المصطلحات العلمية' : 'Scientific terminology guide'}</span></a></div>`;
+    let html = `<div class="home-link-wrap"><a href="#home" class="active ripple-btn" id="nav-home"><i class="fas fa-home"></i> <span>${currentLang === 'ar' ? 'الرئيسية' : 'Home'}</span></a></div>`;
     sidebarData.forEach((group) => {
         html += `
         <div class="chapter-group ${group.is_active ? 'active' : ''}">
@@ -960,9 +1024,20 @@ function renderSidebar(sidebarData) {
                 <i class="fas fa-chevron-down arrow" aria-hidden="true"></i>
             </button>
             <ul class="chapter-links">
-                ${group.links.map((link, idx) => link.disabled
-                    ? `<li><span class="disabled" aria-disabled="true"><span>${link.text}</span></span></li>`
-                    : `<li><a href="#${link.target}-${idx}" class="ripple-btn"><span>${link.text}</span></a></li>`).join('')}
+                ${group.links.map((link, idx) => {
+                    if (link.disabled) return `<li><span class="disabled" aria-disabled="true"><span>${link.text}</span></span></li>`;
+                    if (Array.isArray(link.children) && link.children.length) {
+                        return `<li class="sidebar-subchapter">
+                            <details open>
+                                <summary><span>${link.text}</span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
+                                <ul class="sidebar-sub-links">
+                                    ${link.children.map(child => `<li><a href="#${link.target}-${idx}-${child.part_index}" class="ripple-btn"><span>${child.text}</span></a></li>`).join('')}
+                                </ul>
+                            </details>
+                        </li>`;
+                    }
+                    return `<li><a href="#${link.target}-${idx}" class="ripple-btn"><span>${link.text}</span></a></li>`;
+                }).join('')}
             </ul>
         </div>`;
     });
@@ -1168,7 +1243,7 @@ function renderHome(homeData) {
     restoreScrollPosition(renderedRoute);
 }
 
-function renderChapter(data, initialTab, activeTabData) {
+function renderChapter(data, initialTab, activeTabData, partContext = null) {
     document.title = `${data.chapter_title} | AgriPedia Egypt`; 
     const chapId = data.id;
     const showChapterNavigation = data.tabs.length > 1;
@@ -1179,10 +1254,15 @@ function renderChapter(data, initialTab, activeTabData) {
                 <h2 class="chap-name">${data.chapter_title}</h2>
             </div>
             <div class="chapter-tabs ch-tabs" id="tabs-${chapId}" role="tablist" aria-label="${currentLang === 'ar' ? 'أقسام المقال' : 'Article sections'}">
-                ${data.tabs.map((tab, idx) => `<button class="tab-btn ripple-btn ${idx === initialTab ? 'active' : ''}" type="button" role="tab" id="tab-${chapId}-${idx}" aria-selected="${idx === initialTab}" aria-controls="tab-pane-${chapId}-${idx}" tabindex="${idx === initialTab ? '0' : '-1'}" onclick="window.location.hash='${chapId}-${idx}'">${tab.tab_title}</button>`).join('')}
+                ${data.tabs.map((tab, idx) => `<button class="tab-btn ripple-btn ${idx === initialTab ? 'active' : ''}" type="button" role="tab" id="tab-${chapId}-${idx}" aria-selected="${idx === initialTab}" aria-controls="tab-pane-${chapId}-${idx}" tabindex="${idx === initialTab ? '0' : '-1'}" onclick="window.location.hash='${chapterTabRoute(chapId, idx, tab)}'">${tab.tab_title}</button>`).join('')}
             </div>` : ''}
             <div id="content-${chapId}">
-                <div class="tab-content active" id="tab-pane-${chapId}-${initialTab}" role="tabpanel" ${showChapterNavigation ? `aria-labelledby="tab-${chapId}-${initialTab}"` : `aria-label="${escapeHtml(activeTabData.tab_title)}"`}>${buildBlocks(activeTabData.content_blocks)}</div>
+                <div class="tab-content active" id="tab-pane-${chapId}-${initialTab}" role="tabpanel" ${showChapterNavigation ? `aria-labelledby="tab-${chapId}-${initialTab}"` : `aria-label="${escapeHtml(activeTabData.tab_title)}"`}>${buildBlocks(activeTabData.content_blocks, partContext ? {
+                    parts_navigation: partContext.parts,
+                    active_part_index: partContext.index,
+                    part_route_base: `${chapId}-${initialTab}`,
+                    reference_route: `${chapId}-${initialTab}-${partContext.parts.length - 1}`
+                } : {})}</div>
             </div>
             ${showChapterNavigation ? `<div class="pagination-controls" id="pagination-${chapId}"></div>` : ''}
         </section>
@@ -1194,9 +1274,9 @@ function renderChapter(data, initialTab, activeTabData) {
             centerScrollableItem(tabStrip, tabStrip?.querySelector('.tab-btn.active'), 'auto');
         });
     }
-    if (showChapterNavigation) renderPagination(data);
-    updateActiveSidebarLink(chapId, initialTab);
-    const currentRoute = `${chapId}-${initialTab}`;
+    if (showChapterNavigation) renderPagination(data, partContext);
+    updateActiveSidebarLink(chapId, initialTab, partContext?.index ?? null);
+    const currentRoute = chapterTabRoute(chapId, initialTab, data.tabs[initialTab], partContext?.index ?? null);
     renderedRoute = currentRoute;
     if (pendingSearchScroll?.route === currentRoute) {
         const pendingResult = pendingSearchScroll;
@@ -1208,23 +1288,25 @@ function renderChapter(data, initialTab, activeTabData) {
             const target = activeArticle?.querySelector(`#${targetId}`);
             const targetPart = target?.closest('[data-doc-part-index]');
             if (activeArticle && targetPart?.hidden) activateDocPart(activeArticle, Number(targetPart.dataset.docPartIndex));
+            const collapsedParent = target?.closest('details:not([open])');
+            if (collapsedParent) collapsedParent.open = true;
             highlightArticleSearch(pendingResult.query, target);
             target?.scrollIntoView({ behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
-            updateArticleReadingState();
+            initializeArticleSectionObserver(activeArticle);
         }));
     } else {
         restoreScrollPosition(currentRoute);
-        requestAnimationFrame(() => requestAnimationFrame(updateArticleReadingState));
+        requestAnimationFrame(() => requestAnimationFrame(() => initializeArticleSectionObserver()));
     }
     if(window.innerWidth <= 768) closeSidebar();
 }
 
-function buildBlocks(blocks) {
+function buildBlocks(blocks, articleContext = {}) {
     let html = '';
     blocks.forEach(block => {
         if (block.type === 'sec-label') html += `<div class="sec-label"><span class="ic">${block.icon}</span><span>${block.text}</span></div>`;
         else if (block.type === 'card') html += `<div class="card" style="--card-top: ${block.theme};">${block.header_title ? `<div class="card-hdr"><div class="ico" style="color: var(--cyan);"><i class="${block.header_icon}"></i></div><span>${block.header_title}</span></div>` : ''}<div class="info-box">${buildInnerBlocks(block.body)}</div></div>`;
-        else if (block.type === 'doc-article') html += buildDocArticle(block.items, block.meta || {});
+        else if (block.type === 'doc-article') html += buildDocArticle(block.items, { ...(block.meta || {}), ...articleContext });
     });
     return html;
 }
@@ -1333,6 +1415,15 @@ function buildDocArticle(items, meta = {}) {
         const sectionIndex = sectionHeadings.indexOf(part.targetHeading);
         return { ...part, sectionIndex };
     }).filter(part => part.sectionIndex >= 0);
+    const externalParts = Array.isArray(meta.parts_navigation)
+        ? meta.parts_navigation.map((part, index) => ({
+            title: part.part_title,
+            description: part.part_subtitle || '',
+            route: `${meta.part_route_base}-${index}`,
+            active: index === Number(meta.active_part_index || 0)
+        }))
+        : [];
+    const partNavigationItems = externalParts.length ? externalParts : docParts;
     const sectionPartIndexes = sectionHeadings.map((_, sectionIndex) => {
         if (!docParts.length) return -1;
         let partIndex = 0;
@@ -1378,7 +1469,7 @@ function buildDocArticle(items, meta = {}) {
     const encodedShareUrl = encodeURIComponent(shareUrl);
     const encodedShareText = encodeURIComponent(articleTitle);
 
-    let html = `<article class="doc-article"${docParts.length ? ' data-active-part-index="0"' : ''} data-font-scale="${storedFontScale}" style="--article-text-size: ${(storedFontScale * 0.0096).toFixed(4)}rem;">
+    let html = `<article class="doc-article"${partNavigationItems.length ? ` data-active-part-index="${Number(meta.active_part_index || 0)}"` : ''}${meta.reference_route ? ` data-reference-route="${escapeHtml(meta.reference_route)}"` : ''} data-font-scale="${storedFontScale}" style="--article-text-size: ${(storedFontScale * 0.0096).toFixed(4)}rem;">
         <header class="doc-article-hero">
             <p class="doc-chapter-label">${formatDocText(chapterHeadings[0]?.text || '')}</p>
             <h3 class="doc-article-title">${formatDocText(articleTitle)}</h3>
@@ -1407,10 +1498,10 @@ function buildDocArticle(items, meta = {}) {
             </div>
         </header>
         <div class="doc-navigation-shell">
-            ${docParts.length ? `<div class="doc-parts-shell">
+            ${partNavigationItems.length ? `<div class="doc-parts-shell">
                 <span class="doc-parts-label"><i class="fas fa-layer-group" aria-hidden="true"></i>${labels.parts}</span>
                 <nav class="doc-parts-nav" aria-label="${labels.parts}">
-                    ${docParts.map((part, index) => `<a href="#tuta-0" class="doc-part-link" data-doc-part-select="${index}" data-scroll-target="doc-section-${part.sectionIndex + 1}" data-section-index="${part.sectionIndex}"${index === 0 ? ' aria-current="true"' : ''}>
+                    ${partNavigationItems.map((part, index) => `<a href="${externalParts.length ? `#${part.route}` : '#tuta-0'}" class="doc-part-link"${externalParts.length ? '' : ` data-doc-part-select="${index}" data-scroll-target="doc-section-${part.sectionIndex + 1}" data-section-index="${part.sectionIndex}"`}${externalParts.length ? (part.active ? ' aria-current="true"' : '') : (index === 0 ? ' aria-current="true"' : '')}>
                         <span class="doc-part-index">${String(index + 1).padStart(2, '0')}</span>
                         <span class="doc-part-copy"><strong>${formatDocText(part.title)}</strong>${part.description ? `<small>${formatDocText(part.description)}</small>` : ''}</span>
                     </a>`).join('')}
@@ -1497,31 +1588,36 @@ function buildDocArticle(items, meta = {}) {
             }
         }
         else if (item.type === 'doc-paragraph') {
+            const displayText = item.prepared_text || item.text;
             html += isTaxonomyLadderText(item.text)
-                ? buildTaxonomyLadder(item.text, usedGlossaryTerms)
-                : `<p class="doc-paragraph">${formatDocText(item.text, usedGlossaryTerms)}</p>`;
+                ? buildTaxonomyLadder(displayText, usedGlossaryTerms)
+                : `<p class="doc-paragraph">${formatDocText(displayText, usedGlossaryTerms)}</p>`;
         }
-        else if (item.type === 'doc-quote') html += `<blockquote class="doc-quote">${formatDocText(item.text, usedGlossaryTerms)}</blockquote>`;
-        else if (item.type === 'doc-callout') html += `<aside class="doc-callout ${escapeHtml(item.tone)}"><i class="${escapeHtml(item.icon)}" aria-hidden="true"></i><p>${formatDocText(item.text, usedGlossaryTerms)}</p></aside>`;
+        else if (item.type === 'doc-quote') html += `<blockquote class="doc-quote">${formatDocText(item.prepared_text || item.text, usedGlossaryTerms)}</blockquote>`;
+        else if (item.type === 'doc-callout') html += `<aside class="doc-callout ${escapeHtml(item.tone)}"><i class="${escapeHtml(item.icon)}" aria-hidden="true"></i><p>${formatDocText(item.prepared_text || item.text, usedGlossaryTerms)}</p></aside>`;
         else if (item.type === 'doc-list') {
             listIndex++;
             const listId = `doc-list-${listIndex}`;
             const isCompactTermList = item.items.length > 1 && item.items.every(text => text.replace(/<[^>]+>/g, '').trim().length <= 48);
             const listClass = isCompactTermList ? 'doc-term-list' : 'doc-card-grid';
-            html += `<ul class="${listClass}" id="${listId}">${item.items.map(text => `<li>${formatDocText(text, usedGlossaryTerms)}</li>`).join('')}</ul>`;
+            const displayItems = item.prepared_items || item.items;
+            html += `<ul class="${listClass}" id="${listId}">${displayItems.map(text => `<li>${formatDocText(text, usedGlossaryTerms)}</li>`).join('')}</ul>`;
         }
         else if (item.type === 'doc-table') {
             if (Array.isArray(item.headers)) {
+                const displayHeaders = item.prepared_headers || item.headers;
+                const displayRows = item.prepared_rows || item.rows;
                 html += `<div class="doc-table-shell"><p class="doc-table-hint"><i class="fas fa-arrows-left-right" aria-hidden="true"></i>${labels.tableHint}</p>
                     <div class="doc-table-wrap"><table class="doc-table doc-table-matrix">
-                        <thead><tr>${item.headers.map(header => `<th scope="col">${formatDocText(header, usedGlossaryTerms)}</th>`).join('')}</tr></thead>
-                        <tbody>${item.rows.map(row => `<tr>${row.map((cell, index) => index === 0
+                        <thead><tr>${displayHeaders.map(header => `<th scope="col">${formatDocText(header, usedGlossaryTerms)}</th>`).join('')}</tr></thead>
+                        <tbody>${displayRows.map(row => `<tr>${row.map((cell, index) => index === 0
                             ? `<th scope="row">${formatDocText(cell, usedGlossaryTerms)}</th>`
                             : `<td>${formatDocText(cell, usedGlossaryTerms)}</td>`).join('')}</tr>`).join('')}</tbody>
                     </table></div></div>`;
             } else {
+                const displayRows = item.prepared_rows || item.rows;
                 html += `<div class="doc-table-shell"><p class="doc-table-hint"><i class="fas fa-arrows-left-right" aria-hidden="true"></i>${labels.tableHint}</p>
-                    <div class="doc-table-wrap"><table class="doc-table"><tbody>${item.rows.map(row => `
+                    <div class="doc-table-wrap"><table class="doc-table"><tbody>${displayRows.map(row => `
                         <tr><th scope="row">${formatDocText(row.label, usedGlossaryTerms)}</th><td>${formatDocText(row.value, usedGlossaryTerms)}</td></tr>`).join('')}</tbody></table></div></div>`;
             }
         }
@@ -1565,8 +1661,35 @@ function buildTaxonomyLadder(value, usedGlossaryTerms = null) {
     </div>`;
 }
 
-function updateArticleReadingState() {
-    const article = document.querySelector('.tab-content.active .doc-article') || document.querySelector('.doc-article');
+function setActiveArticleSection(article, activeSection) {
+    if (!article || !activeSection) return;
+    const sections = [...article.querySelectorAll('.doc-section-card[id]:not([hidden])')];
+    const activeIndex = sections.indexOf(activeSection);
+    if (activeIndex < 0) return;
+    const tocLinks = [...article.querySelectorAll('.doc-toc a:not([hidden])')];
+    tocLinks.forEach((link, index) => {
+        if (index === activeIndex) link.setAttribute('aria-current', 'true');
+        else link.removeAttribute('aria-current');
+    });
+    if (article.dataset.activeSectionIndex !== String(activeIndex)) {
+        article.dataset.activeSectionIndex = String(activeIndex);
+        const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+        centerScrollableItem(article.querySelector('.doc-toc'), tocLinks[activeIndex], behavior);
+    }
+
+    const nextButton = article.querySelector('.doc-next-section');
+    if (!nextButton) return;
+    if (activeIndex >= sections.length - 1) {
+        nextButton.hidden = true;
+    } else {
+        nextButton.hidden = false;
+        nextButton.dataset.scrollTarget = sections[activeIndex + 1].id;
+        nextButton.querySelector('strong').textContent = sections[activeIndex + 1].querySelector('.doc-section-title')?.textContent || '';
+    }
+}
+
+function updateArticleReadingState(article = null) {
+    article ||= document.querySelector('.tab-content.active .doc-article') || document.querySelector('.doc-article');
     if (!article) return;
     const sections = [...article.querySelectorAll('.doc-section-card[id]:not([hidden])')];
     if (!sections.length) return;
@@ -1578,29 +1701,39 @@ function updateArticleReadingState() {
     sectionTops.forEach((sectionTop, index) => {
         if (sectionTop <= marker) activeIndex = index;
     });
+    setActiveArticleSection(article, sections[activeIndex]);
+}
 
-    const tocLinks = [...article.querySelectorAll('.doc-toc a:not([hidden])')];
-    tocLinks.forEach((link, index) => {
-        if (index === activeIndex) link.setAttribute('aria-current', 'true');
-        else link.removeAttribute('aria-current');
+function initializeArticleSectionObserver(article = null) {
+    article ||= document.querySelector('.tab-content.active .doc-article') || document.querySelector('.doc-article');
+    articleSectionObserver?.disconnect();
+    articleSectionObserver = null;
+    observedArticleSections = new Set();
+    if (!article) return;
+    const sections = [...article.querySelectorAll('.doc-section-card[id]:not([hidden])')];
+    if (!sections.length) return;
+    updateArticleReadingState(article);
+    if (!('IntersectionObserver' in window)) return;
+
+    const navigationBottom = article.querySelector('.doc-navigation-shell')?.getBoundingClientRect().bottom || 0;
+    const topOffset = Math.max(0, Math.ceil(navigationBottom + 12));
+    const bottomCut = Math.max(0, Math.floor(window.innerHeight - topOffset - 110));
+    articleSectionObserver = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) observedArticleSections.add(entry.target);
+            else observedArticleSections.delete(entry.target);
+        });
+        const candidates = [...observedArticleSections];
+        if (!candidates.length) return;
+        candidates.sort((first, second) =>
+            Math.abs(first.getBoundingClientRect().top - topOffset) - Math.abs(second.getBoundingClientRect().top - topOffset));
+        setActiveArticleSection(article, candidates[0]);
+    }, {
+        root: null,
+        rootMargin: `-${topOffset}px 0px -${bottomCut}px 0px`,
+        threshold: 0
     });
-    if (article.dataset.activeSectionIndex !== String(activeIndex)) {
-        article.dataset.activeSectionIndex = String(activeIndex);
-        const toc = article.querySelector('.doc-toc');
-        const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
-        centerScrollableItem(toc, tocLinks[activeIndex], behavior);
-    }
-
-    const nextButton = article.querySelector('.doc-next-section');
-    if (!nextButton) return;
-    if (activeIndex >= sections.length - 1) {
-        nextButton.hidden = true;
-    } else {
-        nextButton.hidden = false;
-        nextButton.dataset.scrollTarget = sections[activeIndex + 1].id;
-        const nextTitle = sections[activeIndex + 1].querySelector('.doc-section-title')?.textContent || '';
-        nextButton.querySelector('strong').textContent = nextTitle;
-    }
+    sections.forEach(section => articleSectionObserver.observe(section));
 }
 
 function activateDocPart(article, partIndex) {
@@ -1624,7 +1757,7 @@ function activateDocPart(article, partIndex) {
     const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
     centerScrollableItem(article.querySelector('.doc-parts-nav'), partLinks[partIndex], behavior);
     article.dataset.activeSectionIndex = '';
-    updateArticleReadingState();
+    initializeArticleSectionObserver(article);
 }
 
 function updateArticleFontControls(article) {
@@ -1692,7 +1825,15 @@ function escapeRegExp(value) {
 
 function formatDocText(value, usedTerms = null) {
     let formatted = escapeHtml(value);
-    if (usedTerms && currentGlossary.length) formatted = applySmartTerms(formatted, usedTerms);
+    const isPrecompiled = formatted.startsWith('[[prepared]]');
+    if (isPrecompiled) formatted = formatted.slice('[[prepared]]'.length);
+    const hasPreparedTerms = formatted.includes('[[term:');
+    if (hasPreparedTerms) {
+        formatted = formatted.replace(/\[\[term:([^\]]+)\]\]([\s\S]*?)\[\[\/term\]\]/g, (_, termId, match) =>
+            `<button type="button" class="smart-term" data-term-id="${escapeHtml(termId)}" aria-expanded="false" aria-controls="termTooltip">${match}</button>`);
+    } else if (!isPrecompiled && usedTerms && currentGlossary.length) {
+        formatted = applySmartTerms(formatted, usedTerms);
+    }
     return formatted
         .replace(/\[(\d+)([،,]\s*)(\d+)\]/g, (_, first, separator, second) =>
             `[<a class="citation-link" href="#tuta-0" data-scroll-target="reference-${first}">${first}</a>${separator}<a class="citation-link" href="#tuta-0" data-scroll-target="reference-${second}">${second}</a>]`)
@@ -1799,18 +1940,73 @@ function hideTermTooltip() {
     termTooltipPinned = false;
 }
 
-function renderPagination(data) {
+function renderPagination(data, partContext = null) {
     const index = activeTabs[data.id];
     const paginationWrap = document.getElementById(`pagination-${data.id}`);
     if (!paginationWrap) return;
 
+    let previous = null;
+    let next = null;
+    if (partContext) {
+        if (partContext.index > 0) {
+            const part = partContext.parts[partContext.index - 1];
+            previous = {
+                route: `${data.id}-${index}-${partContext.index - 1}`,
+                title: part.part_short_title || part.part_title
+            };
+        } else if (index > 0) {
+            const previousTab = data.tabs[index - 1];
+            const previousPartIndex = previousTab.parts?.length ? previousTab.parts.length - 1 : null;
+            previous = {
+                route: chapterTabRoute(data.id, index - 1, previousTab, previousPartIndex),
+                title: previousPartIndex === null ? previousTab.tab_title : previousTab.parts[previousPartIndex].part_short_title
+            };
+        }
+
+        if (partContext.index < partContext.parts.length - 1) {
+            const part = partContext.parts[partContext.index + 1];
+            next = {
+                route: `${data.id}-${index}-${partContext.index + 1}`,
+                title: part.part_short_title || part.part_title
+            };
+        } else if (index < data.tabs.length - 1) {
+            const nextTab = data.tabs[index + 1];
+            next = {
+                route: chapterTabRoute(data.id, index + 1, nextTab),
+                title: nextTab.parts?.[0]?.part_short_title || nextTab.tab_title
+            };
+        }
+    } else {
+        if (index > 0) {
+            const previousTab = data.tabs[index - 1];
+            const previousPartIndex = previousTab.parts?.length ? previousTab.parts.length - 1 : null;
+            previous = {
+                route: chapterTabRoute(data.id, index - 1, previousTab, previousPartIndex),
+                title: previousPartIndex === null ? previousTab.tab_title : previousTab.parts[previousPartIndex].part_short_title
+            };
+        }
+        if (index < data.tabs.length - 1) {
+            const nextTab = data.tabs[index + 1];
+            next = {
+                route: chapterTabRoute(data.id, index + 1, nextTab),
+                title: nextTab.parts?.[0]?.part_short_title || nextTab.tab_title
+            };
+        }
+    }
+
     let html = '';
-    if (index > 0) { html += `<button class="nav-btn prev ripple-btn" onclick="window.location.hash='${data.id}-${index - 1}'"><i class="fas ${currentLang === 'ar' ? 'fa-arrow-right' : 'fa-arrow-left'}"></i><div><span class="btn-label">${currentLang === 'ar' ? 'السابق' : 'Previous'}</span><span class="btn-title">${data.tabs[index - 1].tab_title}</span></div></button>`; } else { html += `<div style="flex: 1;"></div>`; }
-    if (index < data.tabs.length - 1) { html += `<button class="nav-btn next ripple-btn" onclick="window.location.hash='${data.id}-${index + 1}'"><div><span class="btn-label">${currentLang === 'ar' ? 'التالي' : 'Next'}</span><span class="btn-title">${data.tabs[index + 1].tab_title}</span></div><i class="fas ${currentLang === 'ar' ? 'fa-arrow-left' : 'fa-arrow-right'}"></i></button>`; }
+    if (previous) {
+        html += `<button class="nav-btn prev ripple-btn" onclick="window.location.hash='${previous.route}'"><i class="fas ${currentLang === 'ar' ? 'fa-arrow-right' : 'fa-arrow-left'}"></i><div><span class="btn-label">${currentLang === 'ar' ? 'السابق' : 'Previous'}</span><span class="btn-title">${escapeHtml(previous.title)}</span></div></button>`;
+    } else {
+        html += `<div style="flex: 1;"></div>`;
+    }
+    if (next) {
+        html += `<button class="nav-btn next ripple-btn" onclick="window.location.hash='${next.route}'"><div><span class="btn-label">${currentLang === 'ar' ? 'التالي' : 'Next'}</span><span class="btn-title">${escapeHtml(next.title)}</span></div><i class="fas ${currentLang === 'ar' ? 'fa-arrow-left' : 'fa-arrow-right'}"></i></button>`;
+    }
     paginationWrap.innerHTML = html;
 }
 
-function updateActiveSidebarLink(target, tabIndex = null) {
+function updateActiveSidebarLink(target, tabIndex = null, partIndex = null) {
     document.querySelectorAll('.sidebar-menu a').forEach(a => {
         a.classList.remove('active');
         a.removeAttribute('aria-current');
@@ -1824,10 +2020,15 @@ function updateActiveSidebarLink(target, tabIndex = null) {
         return;
     }
     const links = document.querySelectorAll('.chapter-links a');
+    const activeHref = partIndex === null
+        ? `#${target}-${tabIndex}`
+        : `#${target}-${tabIndex}-${partIndex}`;
     links.forEach(link => {
-        if(link.getAttribute('href') === `#${target}-${tabIndex}`) {
+        if(link.getAttribute('href') === activeHref) {
             link.classList.add('active');
             link.setAttribute('aria-current', 'page');
+            const details = link.closest('details');
+            if (details) details.open = true;
             link.closest('.chapter-group')?.classList.add('active');
             link.closest('.chapter-group')?.querySelector('.chapter-header')?.setAttribute('aria-expanded', 'true');
         }

@@ -26,15 +26,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta is one of the most serious insect pests of tomato because its larvae can attack most aerial parts of the plant from the seedling stage until fruit maturity."
+          "text": "Tuta absoluta is one of the most serious insect pests of tomato because its larvae can attack most aerial parts of the plant from the seedling stage until fruit maturity.",
+          "prepared_text": "[[prepared]]Tuta absoluta is one of the most serious insect pests of tomato because its larvae can attack most aerial parts of the plant from the seedling stage until fruit maturity."
         },
         {
           "type": "doc-paragraph",
-          "text": "Damage is not caused by the adult insect or the pupa, but by larvae that mine within plant tissues, feeding between the two leaf epidermal layers or entering growing points, stems, flowers, and fruits."
+          "text": "Damage is not caused by the adult insect or the pupa, but by larvae that mine within plant tissues, feeding between the two leaf epidermal layers or entering growing points, stems, flowers, and fruits.",
+          "prepared_text": "[[prepared]]Damage is not caused by the adult insect or the [[term:pupation]]pupa[[/term]], but by larvae that mine within plant tissues, feeding between the two leaf epidermal layers or entering growing points, stems, flowers, and fruits."
         },
         {
           "type": "doc-paragraph",
-          "text": "Infestation is particularly serious because larvae remain concealed within plant tissues, where the mines provide partial protection from:"
+          "text": "Infestation is particularly serious because larvae remain concealed within plant tissues, where the mines provide partial protection from:",
+          "prepared_text": "[[prepared]]Infestation is particularly serious because larvae remain concealed within plant tissues, where the [[term:mines]]mines[[/term]] provide partial protection from:"
         },
         {
           "type": "doc-list",
@@ -44,22 +47,35 @@
             "Rainfall.",
             "Some predators.",
             "Insecticides remaining on the external plant surface."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sunlight.",
+            "[[prepared]]Desiccation.",
+            "[[prepared]]Rainfall.",
+            "[[prepared]]Some predators.",
+            "[[prepared]]Insecticides remaining on the external plant surface."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Infestation causes losses through two principal pathways:"
+          "text": "Infestation causes losses through two principal pathways:",
+          "prepared_text": "[[prepared]]Infestation causes losses through two principal pathways:"
         },
         {
           "type": "doc-list",
           "items": [
             "1. Direct losses resulting from tissue consumption and fruit damage.",
             "2. Indirect losses resulting from pathogen entry, reduced plant efficiency, increased sorting and control costs, and crop rejection."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Direct losses resulting from tissue consumption and fruit damage.",
+            "[[prepared]]2. Indirect losses resulting from pathogen entry, reduced plant efficiency, increased sorting and control costs, and crop rejection."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Losses may range from low levels that the plant can compensate for to near-total loss of marketable yield under severe infestation without effective management."
+          "text": "Losses may range from low levels that the plant can compensate for to near-total loss of marketable yield under severe infestation without effective management.",
+          "prepared_text": "[[prepared]]Losses may range from low levels that the plant can compensate for to near-total loss of [[term:marketable-yield]]marketable yield[[/term]] under severe infestation without effective management."
         },
         {
           "type": "doc-heading",
@@ -68,7 +84,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Three basic terms must be distinguished."
+          "text": "Three basic terms must be distinguished.",
+          "prepared_text": "[[prepared]]Three basic terms must be distinguished."
         },
         {
           "type": "doc-heading",
@@ -82,7 +99,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This means the presence of the pest or any of its stages on the plant, such as:"
+          "text": "This means the presence of the pest or any of its stages on the plant, such as:",
+          "prepared_text": "[[prepared]]This means the presence of the pest or any of its stages on the plant, such as:"
         },
         {
           "type": "doc-list",
@@ -92,11 +110,19 @@
             "Presence of an active mine.",
             "Presence of a pupa.",
             "Presence of adult moths in traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Presence of eggs.",
+            "[[prepared]]Presence of a live larva.",
+            "[[prepared]]Presence of an active mine.",
+            "[[prepared]]Presence of a pupa.",
+            "[[prepared]]Presence of adult moths in traps."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Infestation does not necessarily mean that an economic loss has occurred."
+          "text": "Infestation does not necessarily mean that an economic loss has occurred.",
+          "prepared_text": "[[prepared]]Infestation does not necessarily mean that an economic loss has occurred."
         },
         {
           "type": "doc-heading",
@@ -110,7 +136,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Damage is the visible or functional change caused by the insect in the plant, such as:"
+          "text": "Damage is the visible or functional change caused by the insect in the plant, such as:",
+          "prepared_text": "[[prepared]]Damage is the visible or functional change caused by the insect in the plant, such as:"
         },
         {
           "type": "doc-list",
@@ -121,6 +148,14 @@
             "Fruit holes.",
             "Leaf desiccation.",
             "Reduction in green leaf area."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaf mines.",
+            "[[prepared]]Death of the growing point.",
+            "[[prepared]]Stem boring.",
+            "[[prepared]]Fruit holes.",
+            "[[prepared]]Leaf desiccation.",
+            "[[prepared]]Reduction in green leaf area."
           ]
         },
         {
@@ -135,7 +170,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Economic loss is the reduction in crop value resulting from infestation and includes:"
+          "text": "Economic loss is the reduction in crop value resulting from infestation and includes:",
+          "prepared_text": "[[prepared]]Economic loss is the reduction in crop value resulting from infestation and includes:"
         },
         {
           "type": "doc-list",
@@ -148,11 +184,22 @@
             "Increased control costs.",
             "Reduced harvesting and packing efficiency.",
             "Loss of part of the quality or shelf life."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced yield weight.",
+            "[[prepared]]Increased rejected fruit.",
+            "[[prepared]]Lower proportion of marketable yield.",
+            "[[prepared]]Rejection of a shipment or factory delivery.",
+            "[[prepared]]Increased sorting costs.",
+            "[[prepared]]Increased control costs.",
+            "[[prepared]]Reduced harvesting and packing efficiency.",
+            "[[prepared]]Loss of part of the quality or shelf life."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Low leaf infestation may occur without a clear economic loss, whereas a single hole in a fresh-market tomato fruit may cause it to be rejected."
+          "text": "Low leaf infestation may occur without a clear economic loss, whereas a single hole in a fresh-market tomato fruit may cause it to be rejected.",
+          "prepared_text": "[[prepared]]Low leaf infestation may occur without a clear economic loss, whereas a single hole in a fresh-market tomato fruit may cause it to be rejected."
         },
         {
           "type": "doc-heading",
@@ -161,11 +208,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The larva is responsible for all direct damage."
+          "text": "The larva is responsible for all direct damage.",
+          "prepared_text": "[[prepared]]The larva is responsible for all direct damage."
         },
         {
           "type": "doc-paragraph",
-          "text": "Damage severity varies according to larval instar:"
+          "text": "Damage severity varies according to larval instar:",
+          "prepared_text": "[[prepared]]Damage severity varies according to [[term:larval-instar]]larval instar[[/term]]:"
         },
         {
           "type": "doc-table",
@@ -190,11 +239,34 @@
               "Fourth instar, L4",
               "Highest tissue consumption and most severe damage to fruits and stems"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Larval Instar",
+            "[[prepared]]Nature of Damage"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]First instar, L1",
+              "[[prepared]]Initiation of small, limited mines"
+            ],
+            [
+              "[[prepared]]Second instar, L2",
+              "[[prepared]]Enlargement of mines and increased tissue consumption"
+            ],
+            [
+              "[[prepared]]Third instar, L3",
+              "[[prepared]]Broad mines and movement into growing points, stems, and fruits"
+            ],
+            [
+              "[[prepared]]Fourth instar, L4",
+              "[[prepared]]Highest tissue consumption and most severe damage to fruits and stems"
+            ]
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Not all larvae are equally important. A young larva may be present without producing extensive damage, whereas an advanced larva may spoil more than one leaf or fruit by leaving one mine and moving to another site."
+          "text": "Not all larvae are equally important. A young larva may be present without producing extensive damage, whereas an advanced larva may spoil more than one leaf or fruit by leaving one mine and moving to another site.",
+          "prepared_text": "[[prepared]]Not all larvae are equally important. A young larva may be present without producing extensive damage, whereas an advanced larva may spoil more than one leaf or fruit by leaving one mine and moving to another site."
         },
         {
           "type": "doc-heading",
@@ -203,11 +275,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Infestation may begin in the nursery or immediately after transplanting."
+          "text": "Infestation may begin in the nursery or immediately after transplanting.",
+          "prepared_text": "[[prepared]]Infestation may begin in the nursery or immediately after transplanting."
         },
         {
           "type": "doc-paragraph",
-          "text": "The first symptoms commonly appear as:"
+          "text": "The first symptoms commonly appear as:",
+          "prepared_text": "[[prepared]]The first symptoms commonly appear as:"
         },
         {
           "type": "doc-list",
@@ -218,11 +292,20 @@
             "A pale area between the two leaf epidermal layers.",
             "Dark frass within the mine.",
             "A small larva visible when the leaf is held against the light."
+          ],
+          "prepared_items": [
+            "[[prepared]]Small eggs on young leaves.",
+            "[[prepared]]A minute penetration point.",
+            "[[prepared]]A small transparent mine.",
+            "[[prepared]]A pale area between the two leaf epidermal layers.",
+            "[[prepared]]Dark [[term:frass]]frass[[/term]] within the mine.",
+            "[[prepared]]A small larva visible when the leaf is held against the light."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Early infestation may pass unnoticed, particularly when:"
+          "text": "Early infestation may pass unnoticed, particularly when:",
+          "prepared_text": "[[prepared]]Early infestation may pass unnoticed, particularly when:"
         },
         {
           "type": "doc-list",
@@ -232,11 +315,19 @@
             "Inspection focuses on old leaves.",
             "Symptoms are confused with Liriomyza infestation.",
             "Mines are not opened to confirm the presence of larvae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larval numbers are low.",
+            "[[prepared]]Mines are small.",
+            "[[prepared]]Inspection focuses on old leaves.",
+            "[[prepared]]Symptoms are confused with [[term:liriomyza]]Liriomyza[[/term]] infestation.",
+            "[[prepared]]Mines are not opened to confirm the presence of larvae."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Damage increases as larvae develop and generations accumulate."
+          "text": "Damage increases as larvae develop and generations accumulate.",
+          "prepared_text": "[[prepared]]Damage increases as larvae develop and generations accumulate."
         },
         {
           "type": "doc-heading",
@@ -245,7 +336,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Leaves are the plant parts most frequently used for oviposition and the initial feeding of larvae."
+          "text": "Leaves are the plant parts most frequently used for oviposition and the initial feeding of larvae.",
+          "prepared_text": "[[prepared]]Leaves are the plant parts most frequently used for oviposition and the initial feeding of larvae."
         },
         {
           "type": "doc-heading",
@@ -254,7 +346,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A mine begins as:"
+          "text": "A mine begins as:",
+          "prepared_text": "[[prepared]]A mine begins as:"
         },
         {
           "type": "doc-list",
@@ -263,11 +356,18 @@
             "A pale spot.",
             "A short track.",
             "A limited silvery area."
+          ],
+          "prepared_items": [
+            "[[prepared]]A small, nearly transparent point.",
+            "[[prepared]]A pale spot.",
+            "[[prepared]]A short track.",
+            "[[prepared]]A limited silvery area."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The larva feeds on mesophyll tissue between the two leaf epidermal layers, while the outer epidermis remains relatively intact during the early stage of infestation."
+          "text": "The larva feeds on mesophyll tissue between the two leaf epidermal layers, while the outer epidermis remains relatively intact during the early stage of infestation.",
+          "prepared_text": "[[prepared]]The larva feeds on [[term:mesophyll]]mesophyll[[/term]] tissue between the two leaf epidermal layers, while the outer epidermis remains relatively intact during the early stage of infestation."
         },
         {
           "type": "doc-heading",
@@ -276,7 +376,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "As feeding continues, the mine expands and becomes:"
+          "text": "As feeding continues, the mine expands and becomes:",
+          "prepared_text": "[[prepared]]As feeding continues, the mine expands and becomes:"
         },
         {
           "type": "doc-list",
@@ -286,11 +387,19 @@
             "White or silvery.",
             "Gray or brown as it ages.",
             "Containing black or brown frass."
+          ],
+          "prepared_items": [
+            "[[prepared]]Irregular in shape.",
+            "[[prepared]]Blotch-like.",
+            "[[prepared]]White or silvery.",
+            "[[prepared]]Gray or brown as it ages.",
+            "[[prepared]]Containing black or brown frass."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Frass may accumulate on one side of the mine or appear as dark lines and dots."
+          "text": "Frass may accumulate on one side of the mine or appear as dark lines and dots.",
+          "prepared_text": "[[prepared]]Frass may accumulate on one side of the mine or appear as dark lines and dots."
         },
         {
           "type": "doc-heading",
@@ -299,7 +408,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "After the larva leaves or dies, the mine becomes:"
+          "text": "After the larva leaves or dies, the mine becomes:",
+          "prepared_text": "[[prepared]]After the larva leaves or dies, the mine becomes:"
         },
         {
           "type": "doc-list",
@@ -309,11 +419,19 @@
             "Brittle.",
             "Empty.",
             "Easily torn."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dry.",
+            "[[prepared]]Brown.",
+            "[[prepared]]Brittle.",
+            "[[prepared]]Empty.",
+            "[[prepared]]Easily torn."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Dead tissue may fall away, leaving irregular holes in the leaf."
+          "text": "Dead tissue may fall away, leaving irregular holes in the leaf.",
+          "prepared_text": "[[prepared]]Dead tissue may fall away, leaving irregular holes in the leaf."
         },
         {
           "type": "doc-heading",
@@ -322,7 +440,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "At high pest density, mines formed by several larvae may overlap, converting a large part of the leaf into tissue that is:"
+          "text": "At high pest density, mines formed by several larvae may overlap, converting a large part of the leaf into tissue that is:",
+          "prepared_text": "[[prepared]]At high pest density, mines formed by several larvae may overlap, converting a large part of the leaf into tissue that is:"
         },
         {
           "type": "doc-list",
@@ -331,11 +450,18 @@
             "Silvery.",
             "Brown.",
             "Dead and dry."
+          ],
+          "prepared_items": [
+            "[[prepared]]Transparent.",
+            "[[prepared]]Silvery.",
+            "[[prepared]]Brown.",
+            "[[prepared]]Dead and dry."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Coalescence of mines causes loss of a large proportion of the effective green leaf area."
+          "text": "Coalescence of mines causes loss of a large proportion of the effective green leaf area.",
+          "prepared_text": "[[prepared]]Coalescence of mines causes loss of a large proportion of the effective green leaf area."
         },
         {
           "type": "doc-heading",
@@ -344,7 +470,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Severe damage may lead to:"
+          "text": "Severe damage may lead to:",
+          "prepared_text": "[[prepared]]Severe damage may lead to:"
         },
         {
           "type": "doc-list",
@@ -354,11 +481,19 @@
             "Death of parts of the leaf.",
             "Leaf fall.",
             "Exposure of fruits to sunlight."
+          ],
+          "prepared_items": [
+            "[[prepared]]Curling of leaflets.",
+            "[[prepared]]Drying of leaf margins.",
+            "[[prepared]]Death of parts of the leaf.",
+            "[[prepared]]Leaf fall.",
+            "[[prepared]]Exposure of fruits to sunlight."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Curling does not always occur in a regular pattern and may overlap with symptoms of water stress, viruses, or mites."
+          "text": "Curling does not always occur in a regular pattern and may overlap with symptoms of water stress, viruses, or mites.",
+          "prepared_text": "[[prepared]]Curling does not always occur in a regular pattern and may overlap with symptoms of water stress, viruses, or mites."
         },
         {
           "type": "doc-heading",
@@ -367,11 +502,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae feed on mesophyll cells, which contain a large proportion of the chloroplasts responsible for photosynthesis."
+          "text": "Larvae feed on mesophyll cells, which contain a large proportion of the chloroplasts responsible for photosynthesis.",
+          "prepared_text": "[[prepared]]Larvae feed on mesophyll cells, which contain a large proportion of the chloroplasts responsible for photosynthesis."
         },
         {
           "type": "doc-paragraph",
-          "text": "This results in:"
+          "text": "This results in:",
+          "prepared_text": "[[prepared]]This results in:"
         },
         {
           "type": "doc-list",
@@ -383,15 +520,26 @@
             "Reduced chlorophyll content.",
             "Redirection of plant resources toward defensive responses.",
             "Reduced root and shoot growth under severe infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced green leaf area.",
+            "[[prepared]]Reduced light interception.",
+            "[[prepared]]Reduced sugar production.",
+            "[[prepared]]Disturbance of gas exchange.",
+            "[[prepared]]Reduced chlorophyll content.",
+            "[[prepared]]Redirection of plant resources toward defensive responses.",
+            "[[prepared]]Reduced root and shoot growth under severe infestation."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The effect is not limited to the visible mine area. Physiological and defensive responses may also occur in surrounding tissues."
+          "text": "The effect is not limited to the visible mine area. Physiological and defensive responses may also occur in surrounding tissues.",
+          "prepared_text": "[[prepared]]The effect is not limited to the visible mine area. Physiological and defensive responses may also occur in surrounding tissues."
         },
         {
           "type": "doc-paragraph",
-          "text": "Physiological studies have shown that infestation can reduce:"
+          "text": "Physiological studies have shown that infestation can reduce:",
+          "prepared_text": "[[prepared]]Physiological studies have shown that infestation can reduce:"
         },
         {
           "type": "doc-list",
@@ -401,11 +549,19 @@
             "Water-use efficiency.",
             "Vegetative growth.",
             "Biomass."
+          ],
+          "prepared_items": [
+            "[[prepared]]Photosynthetic rate.",
+            "[[prepared]]Stomatal conductance.",
+            "[[prepared]]Water-use efficiency.",
+            "[[prepared]]Vegetative growth.",
+            "[[prepared]]Biomass."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The magnitude of the reduction varies according to:"
+          "text": "The magnitude of the reduction varies according to:",
+          "prepared_text": "[[prepared]]The magnitude of the reduction varies according to:"
         },
         {
           "type": "doc-list",
@@ -416,6 +572,14 @@
             "Timing of infestation.",
             "Nutrition and irrigation.",
             "Ability of the plant to produce new leaves."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation severity.",
+            "[[prepared]]Plant age.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Timing of infestation.",
+            "[[prepared]]Nutrition and irrigation.",
+            "[[prepared]]Ability of the plant to produce new leaves."
           ]
         },
         {
@@ -425,11 +589,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Not every level of leaf infestation causes a loss equal to the proportion of affected leaf area."
+          "text": "Not every level of leaf infestation causes a loss equal to the proportion of affected leaf area.",
+          "prepared_text": "[[prepared]]Not every level of leaf infestation causes a loss equal to the proportion of affected leaf area."
         },
         {
           "type": "doc-paragraph",
-          "text": "The plant may compensate for part of the damage through:"
+          "text": "The plant may compensate for part of the damage through:",
+          "prepared_text": "[[prepared]]The plant may compensate for part of the damage through:"
         },
         {
           "type": "doc-list",
@@ -438,11 +604,18 @@
             "Increased activity of healthy leaves.",
             "Redistribution of carbohydrates.",
             "Continued vegetative growth."
+          ],
+          "prepared_items": [
+            "[[prepared]]Production of new leaves.",
+            "[[prepared]]Increased activity of healthy leaves.",
+            "[[prepared]]Redistribution of carbohydrates.",
+            "[[prepared]]Continued vegetative growth."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Compensatory capacity is greater when:"
+          "text": "Compensatory capacity is greater when:",
+          "prepared_text": "[[prepared]]Compensatory capacity is greater when:"
         },
         {
           "type": "doc-list",
@@ -452,11 +625,19 @@
             "Nutrition and irrigation are balanced.",
             "Fruits and growing points are not directly attacked.",
             "Pest pressure declines rapidly."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation is early and low.",
+            "[[prepared]]The plant is vigorous.",
+            "[[prepared]]Nutrition and irrigation are balanced.",
+            "[[prepared]]Fruits and growing points are not directly attacked.",
+            "[[prepared]]Pest pressure declines rapidly."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Compensatory capacity decreases when:"
+          "text": "Compensatory capacity decreases when:",
+          "prepared_text": "[[prepared]]Compensatory capacity decreases when:"
         },
         {
           "type": "doc-list",
@@ -467,6 +648,14 @@
             "Generations recur without reducing the population.",
             "The plant is also affected by other pests or diseases.",
             "The plant is exposed to water or salinity stress."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation is severe and persistent.",
+            "[[prepared]]Damage occurs during fruit filling.",
+            "[[prepared]]Leaves close to fruit clusters are damaged.",
+            "[[prepared]]Generations recur without reducing the population.",
+            "[[prepared]]The plant is also affected by other pests or diseases.",
+            "[[prepared]]The plant is exposed to water or salinity stress."
           ]
         },
         {
@@ -476,11 +665,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae attack tender growing points and terminal and lateral buds."
+          "text": "Larvae attack tender growing points and terminal and lateral buds.",
+          "prepared_text": "[[prepared]]Larvae attack tender growing points and terminal and lateral buds."
         },
         {
           "type": "doc-paragraph",
-          "text": "Symptoms include:"
+          "text": "Symptoms include:",
+          "prepared_text": "[[prepared]]Symptoms include:"
         },
         {
           "type": "doc-list",
@@ -493,11 +684,22 @@
             "Deformation of new growth.",
             "Cessation of stem elongation.",
             "Emergence of irregular lateral shoots."
+          ],
+          "prepared_items": [
+            "[[prepared]]Wilting of the terminal bud.",
+            "[[prepared]]Death of the growing point.",
+            "[[prepared]]Presence of dark frass.",
+            "[[prepared]]Presence of silken threads.",
+            "[[prepared]]Young leaves stuck together.",
+            "[[prepared]]Deformation of new growth.",
+            "[[prepared]]Cessation of stem elongation.",
+            "[[prepared]]Emergence of irregular lateral shoots."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Growing-point infestation is particularly serious in:"
+          "text": "Growing-point infestation is particularly serious in:",
+          "prepared_text": "[[prepared]]Growing-point infestation is particularly serious in:"
         },
         {
           "type": "doc-list",
@@ -506,11 +708,18 @@
             "Recently transplanted seedlings.",
             "Young plants.",
             "Determinate cultivars."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nurseries.",
+            "[[prepared]]Recently transplanted seedlings.",
+            "[[prepared]]Young plants.",
+            "[[prepared]]Determinate cultivars."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Death of the growing point in a young plant may cause:"
+          "text": "Death of the growing point in a young plant may cause:",
+          "prepared_text": "[[prepared]]Death of the growing point in a young plant may cause:"
         },
         {
           "type": "doc-list",
@@ -520,6 +729,13 @@
             "Reduced number of clusters.",
             "Delayed flowering and harvest.",
             "Reduced early yield."
+          ],
+          "prepared_items": [
+            "[[prepared]]Delayed growth.",
+            "[[prepared]]Irregular plant architecture.",
+            "[[prepared]]Reduced number of clusters.",
+            "[[prepared]]Delayed flowering and harvest.",
+            "[[prepared]]Reduced early yield."
           ]
         },
         {
@@ -529,7 +745,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae may infest:"
+          "text": "Larvae may infest:",
+          "prepared_text": "[[prepared]]Larvae may infest:"
         },
         {
           "type": "doc-list",
@@ -539,11 +756,19 @@
             "Flower pedicels.",
             "Young clusters.",
             "Sepals."
+          ],
+          "prepared_items": [
+            "[[prepared]]Flower buds.",
+            "[[prepared]]Flowers.",
+            "[[prepared]]Flower pedicels.",
+            "[[prepared]]Young clusters.",
+            "[[prepared]]Sepals."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Symptoms appear as:"
+          "text": "Symptoms appear as:",
+          "prepared_text": "[[prepared]]Symptoms appear as:"
         },
         {
           "type": "doc-list",
@@ -555,11 +780,21 @@
             "Flower drop.",
             "Poor fruit set.",
             "Deformation of young fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Minute holes.",
+            "[[prepared]]Dark frass.",
+            "[[prepared]]Silken threads.",
+            "[[prepared]]Bud desiccation.",
+            "[[prepared]]Flower drop.",
+            "[[prepared]]Poor fruit set.",
+            "[[prepared]]Deformation of young fruits."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Flowers are not the most common infestation site compared with leaves, but their infestation directly affects the number of fruits formed."
+          "text": "Flowers are not the most common infestation site compared with leaves, but their infestation directly affects the number of fruits formed.",
+          "prepared_text": "[[prepared]]Flowers are not the most common infestation site compared with leaves, but their infestation directly affects the number of fruits formed."
         },
         {
           "type": "doc-heading",
@@ -568,7 +803,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae enter petioles and tender stems, particularly near:"
+          "text": "Larvae enter petioles and tender stems, particularly near:",
+          "prepared_text": "[[prepared]]Larvae enter petioles and tender stems, particularly near:"
         },
         {
           "type": "doc-list",
@@ -578,11 +814,19 @@
             "Buds.",
             "Cluster–stem junctions.",
             "Tender tissues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nodes.",
+            "[[prepared]]Leaf bases.",
+            "[[prepared]]Buds.",
+            "[[prepared]]Cluster–stem junctions.",
+            "[[prepared]]Tender tissues."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Signs include:"
+          "text": "Signs include:",
+          "prepared_text": "[[prepared]]Signs include:"
         },
         {
           "type": "doc-list",
@@ -594,15 +838,26 @@
             "Weakening of the stem.",
             "Drying of terminal growth.",
             "Breakage of tender tissues."
+          ],
+          "prepared_items": [
+            "[[prepared]]A small entry hole.",
+            "[[prepared]]Frass accumulating at the opening.",
+            "[[prepared]]An internal tunnel.",
+            "[[prepared]]Wilting of the leaf beyond the infestation point.",
+            "[[prepared]]Weakening of the stem.",
+            "[[prepared]]Drying of terminal growth.",
+            "[[prepared]]Breakage of tender tissues."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The external tunnel may not be obvious, while wilting or weakening of the affected part becomes visible."
+          "text": "The external tunnel may not be obvious, while wilting or weakening of the affected part becomes visible.",
+          "prepared_text": "[[prepared]]The external tunnel may not be obvious, while wilting or weakening of the affected part becomes visible."
         },
         {
           "type": "doc-paragraph",
-          "text": "In seedlings, infestation of the main stem may cause:"
+          "text": "In seedlings, infestation of the main stem may cause:",
+          "prepared_text": "[[prepared]]In seedlings, infestation of the main stem may cause:"
         },
         {
           "type": "doc-list",
@@ -611,6 +866,12 @@
             "Death of the upper part.",
             "Weakening of the seedling.",
             "Plant death in severe cases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Growth cessation.",
+            "[[prepared]]Death of the upper part.",
+            "[[prepared]]Weakening of the seedling.",
+            "[[prepared]]Plant death in severe cases."
           ]
         },
         {
@@ -620,7 +881,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Fruit infestation represents the most important form of economic damage because infested fruits lose a large proportion of their fresh-market or processing value."
+          "text": "Fruit infestation represents the most important form of economic damage because infested fruits lose a large proportion of their fresh-market or processing value.",
+          "prepared_text": "[[prepared]]Fruit infestation represents the most important form of economic damage because infested fruits lose a large proportion of their fresh-market or processing value."
         },
         {
           "type": "doc-heading",
@@ -629,7 +891,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The larva may enter through:"
+          "text": "The larva may enter through:",
+          "prepared_text": "[[prepared]]The larva may enter through:"
         },
         {
           "type": "doc-list",
@@ -641,11 +904,21 @@
             "The side of the fruit.",
             "Wounds or cracks.",
             "The point of contact between two fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]The area beneath the calyx.",
+            "[[prepared]]Near the pedicel.",
+            "[[prepared]]Between the sepals.",
+            "[[prepared]]The point where a leaf touches the fruit.",
+            "[[prepared]]The side of the fruit.",
+            "[[prepared]]Wounds or cracks.",
+            "[[prepared]]The point of contact between two fruits."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Infestation is common near the calyx because this area provides the larva with protection and a suitable hiding site."
+          "text": "Infestation is common near the calyx because this area provides the larva with protection and a suitable hiding site.",
+          "prepared_text": "[[prepared]]Infestation is common near the calyx because this area provides the larva with protection and a suitable hiding site."
         },
         {
           "type": "doc-heading",
@@ -654,7 +927,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The entry hole is usually:"
+          "text": "The entry hole is usually:",
+          "prepared_text": "[[prepared]]The entry hole is usually:"
         },
         {
           "type": "doc-list",
@@ -664,11 +938,19 @@
             "Dark at the margins.",
             "Surrounded by frass.",
             "Less conspicuous than the internal damage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Small.",
+            "[[prepared]]Circular or irregular.",
+            "[[prepared]]Dark at the margins.",
+            "[[prepared]]Surrounded by frass.",
+            "[[prepared]]Less conspicuous than the internal damage."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The hole may be only a few millimeters in diameter while the tunnel extends through a large part of the fruit."
+          "text": "The hole may be only a few millimeters in diameter while the tunnel extends through a large part of the fruit.",
+          "prepared_text": "[[prepared]]The hole may be only a few millimeters in diameter while the tunnel extends through a large part of the fruit."
         },
         {
           "type": "doc-heading",
@@ -677,7 +959,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The larva feeds within:"
+          "text": "The larva feeds within:",
+          "prepared_text": "[[prepared]]The larva feeds within:"
         },
         {
           "type": "doc-list",
@@ -686,11 +969,18 @@
             "The region close to the skin.",
             "Tissues surrounding the calyx.",
             "Internal locules in some cases."
+          ],
+          "prepared_items": [
+            "[[prepared]]The flesh.",
+            "[[prepared]]The region close to the skin.",
+            "[[prepared]]Tissues surrounding the calyx.",
+            "[[prepared]]Internal locules in some cases."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Tunnels appear as:"
+          "text": "Tunnels appear as:",
+          "prepared_text": "[[prepared]]Tunnels appear as:"
         },
         {
           "type": "doc-list",
@@ -700,6 +990,13 @@
             "Soft areas.",
             "Black frass.",
             "Internal decay."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cavities.",
+            "[[prepared]]Brown tissue.",
+            "[[prepared]]Soft areas.",
+            "[[prepared]]Black frass.",
+            "[[prepared]]Internal decay."
           ]
         },
         {
@@ -709,7 +1006,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "After completing feeding, the larva may leave the fruit, resulting in:"
+          "text": "After completing feeding, the larva may leave the fruit, resulting in:",
+          "prepared_text": "[[prepared]]After completing feeding, the larva may leave the fruit, resulting in:"
         },
         {
           "type": "doc-list",
@@ -718,11 +1016,18 @@
             "External frass.",
             "An empty tunnel.",
             "Initial decay around the opening."
+          ],
+          "prepared_items": [
+            "[[prepared]]An exit hole.",
+            "[[prepared]]External frass.",
+            "[[prepared]]An empty tunnel.",
+            "[[prepared]]Initial decay around the opening."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "More than one hole may occur in a single fruit because of movement by one larva or infestation by several larvae."
+          "text": "More than one hole may occur in a single fruit because of movement by one larva or infestation by several larvae.",
+          "prepared_text": "[[prepared]]More than one hole may occur in a single fruit because of movement by one larva or infestation by several larvae."
         },
         {
           "type": "doc-heading",
@@ -731,7 +1036,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Fruits may be infested as soon as they form."
+          "text": "Fruits may be infested as soon as they form.",
+          "prepared_text": "[[prepared]]Fruits may be infested as soon as they form."
         },
         {
           "type": "doc-heading",
@@ -740,7 +1046,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Symptoms include:"
+          "text": "Symptoms include:",
+          "prepared_text": "[[prepared]]Symptoms include:"
         },
         {
           "type": "doc-list",
@@ -751,11 +1058,20 @@
             "Localized growth arrest.",
             "Deformation.",
             "Premature fruit drop in some cases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Minute holes.",
+            "[[prepared]]Brown spots.",
+            "[[prepared]]Subepidermal tunnels.",
+            "[[prepared]]Localized growth arrest.",
+            "[[prepared]]Deformation.",
+            "[[prepared]]Premature fruit drop in some cases."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The fruit may continue growing while the damaged area expands or becomes invaded by rots."
+          "text": "The fruit may continue growing while the damaged area expands or becomes invaded by rots.",
+          "prepared_text": "[[prepared]]The fruit may continue growing while the damaged area expands or becomes invaded by rots."
         },
         {
           "type": "doc-heading",
@@ -764,7 +1080,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "These are more prone to developing:"
+          "text": "These are more prone to developing:",
+          "prepared_text": "[[prepared]]These are more prone to developing:"
         },
         {
           "type": "doc-list",
@@ -775,11 +1092,20 @@
             "Abnormal odor.",
             "Tissue collapse.",
             "Loss of marketability and transportability."
+          ],
+          "prepared_items": [
+            "[[prepared]]Softness.",
+            "[[prepared]]Juice leakage.",
+            "[[prepared]]Rots.",
+            "[[prepared]]Abnormal odor.",
+            "[[prepared]]Tissue collapse.",
+            "[[prepared]]Loss of marketability and transportability."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Infested fruits are difficult to store even when external damage appears limited."
+          "text": "Infested fruits are difficult to store even when external damage appears limited.",
+          "prepared_text": "[[prepared]]Infested fruits are difficult to store even when external damage appears limited."
         },
         {
           "type": "doc-heading",
@@ -788,7 +1114,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Direct damage caused by larval feeding includes:"
+          "text": "Direct damage caused by larval feeding includes:",
+          "prepared_text": "[[prepared]]Direct damage caused by larval feeding includes:"
         },
         {
           "type": "doc-list",
@@ -801,11 +1128,22 @@
             "Reduced marketable yield.",
             "Weakening of the plant.",
             "Increased leaf and fruit drop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removal of leaf mesophyll.",
+            "[[prepared]]Death of growing points and buds.",
+            "[[prepared]]Boring into petioles and stems.",
+            "[[prepared]]Loss of some flowers.",
+            "[[prepared]]Fruit damage.",
+            "[[prepared]]Reduced marketable yield.",
+            "[[prepared]]Weakening of the plant.",
+            "[[prepared]]Increased leaf and fruit drop."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Direct fruit damage represents the largest component of loss because an infested fruit often cannot be sold as premium fresh produce."
+          "text": "Direct fruit damage represents the largest component of loss because an infested fruit often cannot be sold as premium fresh produce.",
+          "prepared_text": "[[prepared]]Direct fruit damage represents the largest component of loss because an infested fruit often cannot be sold as premium fresh produce."
         },
         {
           "type": "doc-heading",
@@ -814,11 +1152,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Indirect damage results from effects following larval boring."
+          "text": "Indirect damage results from effects following larval boring.",
+          "prepared_text": "[[prepared]]Indirect damage results from effects following larval boring."
         },
         {
           "type": "doc-paragraph",
-          "text": "It includes:"
+          "text": "It includes:",
+          "prepared_text": "[[prepared]]It includes:"
         },
         {
           "type": "doc-list",
@@ -834,11 +1174,25 @@
             "Greater risk of pesticide residues.",
             "Adverse effects on natural enemies due to repeated spraying.",
             "Possible rejection of the crop or shipment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Entry of rot pathogens.",
+            "[[prepared]]Increased bacterial and fungal infection.",
+            "[[prepared]]Accelerated fruit decomposition.",
+            "[[prepared]]Increased loss during transport.",
+            "[[prepared]]Reduced shelf life.",
+            "[[prepared]]Increased sorting costs.",
+            "[[prepared]]Increased labor requirements.",
+            "[[prepared]]Increased number of control treatments.",
+            "[[prepared]]Greater risk of pesticide residues.",
+            "[[prepared]]Adverse effects on [[term:biological-control]]natural enemies[[/term]] due to repeated spraying.",
+            "[[prepared]]Possible rejection of the crop or shipment."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The value of indirect damage may exceed the value of the tissue consumed directly by the larva."
+          "text": "The value of indirect damage may exceed the value of the tissue consumed directly by the larva.",
+          "prepared_text": "[[prepared]]The value of indirect damage may exceed the value of the tissue consumed directly by the larva."
         },
         {
           "type": "doc-heading",
@@ -847,11 +1201,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Entry and exit holes and tunnels act as entry points for pathogens."
+          "text": "Entry and exit holes and tunnels act as entry points for pathogens.",
+          "prepared_text": "[[prepared]]Entry and exit holes and tunnels act as entry points for pathogens."
         },
         {
           "type": "doc-paragraph",
-          "text": "Wounds may permit entry of:"
+          "text": "Wounds may permit entry of:",
+          "prepared_text": "[[prepared]]Wounds may permit entry of:"
         },
         {
           "type": "doc-list",
@@ -860,11 +1216,18 @@
             "Saprophytic fungi.",
             "Fruit-rot pathogens.",
             "Microorganisms present on the plant surface or in soil."
+          ],
+          "prepared_items": [
+            "[[prepared]]Soft-rot bacteria.",
+            "[[prepared]]Saprophytic fungi.",
+            "[[prepared]]Fruit-rot pathogens.",
+            "[[prepared]]Microorganisms present on the plant surface or in soil."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Secondary infections lead to:"
+          "text": "Secondary infections lead to:",
+          "prepared_text": "[[prepared]][[term:secondary-infection]]Secondary infections[[/term]] lead to:"
         },
         {
           "type": "doc-list",
@@ -875,11 +1238,20 @@
             "Offensive odor.",
             "Tissue collapse.",
             "Spread of rot to contacting fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Expansion of brown lesions.",
+            "[[prepared]]Fruit softening.",
+            "[[prepared]]Fluid leakage.",
+            "[[prepared]]Offensive odor.",
+            "[[prepared]]Tissue collapse.",
+            "[[prepared]]Spread of rot to contacting fruits."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Not all rotted tissue should be attributed to direct larval feeding. Damage may begin with a small opening and then multiply because of microbial activity."
+          "text": "Not all rotted tissue should be attributed to direct larval feeding. Damage may begin with a small opening and then multiply because of microbial activity.",
+          "prepared_text": "[[prepared]]Not all rotted tissue should be attributed to direct larval feeding. Damage may begin with a small opening and then multiply because of microbial activity."
         },
         {
           "type": "doc-heading",
@@ -888,7 +1260,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Under severe and repeated infestation, plant architecture changes because of:"
+          "text": "Under severe and repeated infestation, plant architecture changes because of:",
+          "prepared_text": "[[prepared]]Under severe and repeated infestation, plant architecture changes because of:"
         },
         {
           "type": "doc-list",
@@ -900,11 +1273,21 @@
             "Irregular cluster distribution.",
             "Exposure of fruits to sunlight.",
             "Reduced canopy cover."
+          ],
+          "prepared_items": [
+            "[[prepared]]Death of growing points.",
+            "[[prepared]]Leaf loss.",
+            "[[prepared]]Emergence of lateral shoots.",
+            "[[prepared]]Weakening of stems.",
+            "[[prepared]]Irregular cluster distribution.",
+            "[[prepared]]Exposure of fruits to sunlight.",
+            "[[prepared]]Reduced canopy cover."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Canopy collapse may lead to:"
+          "text": "Canopy collapse may lead to:",
+          "prepared_text": "[[prepared]]Canopy collapse may lead to:"
         },
         {
           "type": "doc-list",
@@ -914,11 +1297,19 @@
             "Irregular coloration.",
             "Increased cracking.",
             "Reduced protection of fruits from weather conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sunscald.",
+            "[[prepared]]Increased fruit temperature.",
+            "[[prepared]]Irregular coloration.",
+            "[[prepared]]Increased cracking.",
+            "[[prepared]]Reduced protection of fruits from weather conditions."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta can therefore cause additional losses even in fruits not directly entered by larvae."
+          "text": "Tuta can therefore cause additional losses even in fruits not directly entered by larvae.",
+          "prepared_text": "[[prepared]]Tuta can therefore cause additional losses even in fruits not directly entered by larvae."
         },
         {
           "type": "doc-heading",
@@ -927,7 +1318,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Loss varies according to the crop-growth stage."
+          "text": "Loss varies according to the crop-growth stage.",
+          "prepared_text": "[[prepared]]Loss varies according to the crop-growth stage."
         },
         {
           "type": "doc-heading",
@@ -936,7 +1328,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This causes:"
+          "text": "This causes:",
+          "prepared_text": "[[prepared]]This causes:"
         },
         {
           "type": "doc-list",
@@ -946,6 +1339,13 @@
             "Transport of the pest into the field.",
             "Establishment of early infestation.",
             "Increased cost of discarding seedlings."
+          ],
+          "prepared_items": [
+            "[[prepared]]Weak seedlings.",
+            "[[prepared]]Death of growing points.",
+            "[[prepared]]Transport of the pest into the field.",
+            "[[prepared]]Establishment of early infestation.",
+            "[[prepared]]Increased cost of discarding seedlings."
           ]
         },
         {
@@ -955,7 +1355,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The plant may compensate for part of the leaf damage, but growing-point infestation may delay growth and reduce early yield."
+          "text": "The plant may compensate for part of the leaf damage, but growing-point infestation may delay growth and reduce early yield.",
+          "prepared_text": "[[prepared]]The plant may compensate for part of the leaf damage, but growing-point infestation may delay growth and reduce early yield."
         },
         {
           "type": "doc-heading",
@@ -964,7 +1365,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This affects:"
+          "text": "This affects:",
+          "prepared_text": "[[prepared]]This affects:"
         },
         {
           "type": "doc-list",
@@ -973,6 +1375,12 @@
             "Flowers.",
             "Newly set fruits.",
             "Leaves responsible for supplying fruit clusters."
+          ],
+          "prepared_items": [
+            "[[prepared]]Buds.",
+            "[[prepared]]Flowers.",
+            "[[prepared]]Newly set fruits.",
+            "[[prepared]]Leaves responsible for supplying fruit clusters."
           ]
         },
         {
@@ -982,7 +1390,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This is a critical stage because leaf loss reduces carbohydrate supply to fruits, while larvae begin entering fruits."
+          "text": "This is a critical stage because leaf loss reduces carbohydrate supply to fruits, while larvae begin entering fruits.",
+          "prepared_text": "[[prepared]]This is a critical stage because leaf loss reduces carbohydrate supply to fruits, while larvae begin entering fruits."
         },
         {
           "type": "doc-heading",
@@ -991,7 +1400,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This may not greatly reduce the number of fruits formed, but it causes:"
+          "text": "This may not greatly reduce the number of fruits formed, but it causes:",
+          "prepared_text": "[[prepared]]This may not greatly reduce the number of fruits formed, but it causes:"
         },
         {
           "type": "doc-list",
@@ -1001,6 +1411,13 @@
             "Higher sorting losses.",
             "Quality deterioration.",
             "Spread of larvae within containers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruit rejection.",
+            "[[prepared]]Increased rots.",
+            "[[prepared]]Higher sorting losses.",
+            "[[prepared]]Quality deterioration.",
+            "[[prepared]]Spread of larvae within containers."
           ]
         },
         {
@@ -1010,11 +1427,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Fresh tomatoes are sold according to fruit appearance and surface integrity, so sensitivity to fruit infestation is extremely high."
+          "text": "Fresh tomatoes are sold according to fruit appearance and surface integrity, so sensitivity to fruit infestation is extremely high.",
+          "prepared_text": "[[prepared]]Fresh tomatoes are sold according to fruit appearance and surface integrity, so sensitivity to fruit infestation is extremely high."
         },
         {
           "type": "doc-paragraph",
-          "text": "A single hole may lead to:"
+          "text": "A single hole may lead to:",
+          "prepared_text": "[[prepared]]A single hole may lead to:"
         },
         {
           "type": "doc-list",
@@ -1024,11 +1443,19 @@
             "Downgrading.",
             "Complete rejection.",
             "Increased risk of decay during transport."
+          ],
+          "prepared_items": [
+            "[[prepared]]Exclusion of the fruit from premium grade.",
+            "[[prepared]]Price reduction.",
+            "[[prepared]]Downgrading.",
+            "[[prepared]]Complete rejection.",
+            "[[prepared]]Increased risk of decay during transport."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Losses include:"
+          "text": "Losses include:",
+          "prepared_text": "[[prepared]]Losses include:"
         },
         {
           "type": "doc-list",
@@ -1039,11 +1466,20 @@
             "Reduced storage life.",
             "Increased buyer complaints.",
             "Shipment rejection in high-quality markets."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced marketable yield.",
+            "[[prepared]]Increased manual sorting costs.",
+            "[[prepared]]Increased number of rejected packages.",
+            "[[prepared]]Reduced storage life.",
+            "[[prepared]]Increased buyer complaints.",
+            "[[prepared]]Shipment rejection in high-quality markets."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The economic threshold for fruit infestation is therefore relatively low, especially for export and premium markets."
+          "text": "The economic threshold for fruit infestation is therefore relatively low, especially for export and premium markets.",
+          "prepared_text": "[[prepared]]The [[term:economic-threshold]]economic threshold[[/term]] for fruit infestation is therefore relatively low, especially for export and premium markets."
         },
         {
           "type": "doc-heading",
@@ -1052,11 +1488,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Acceptance of processing tomatoes does not depend on external appearance alone as it does in the fresh market, but Tuta infestation remains highly important."
+          "text": "Acceptance of processing tomatoes does not depend on external appearance alone as it does in the fresh market, but Tuta infestation remains highly important.",
+          "prepared_text": "[[prepared]]Acceptance of processing tomatoes does not depend on external appearance alone as it does in the fresh market, but Tuta infestation remains highly important."
         },
         {
           "type": "doc-paragraph",
-          "text": "Fruit infestation causes:"
+          "text": "Fruit infestation causes:",
+          "prepared_text": "[[prepared]]Fruit infestation causes:"
         },
         {
           "type": "doc-list",
@@ -1068,11 +1506,21 @@
             "Greater need for sorting and washing.",
             "Reduced efficiency of harvesting and transport.",
             "Possible rejection of a load when the proportion of infested fruits is high."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced weight of sound fruits suitable for delivery.",
+            "[[prepared]]Increased rotted fruits.",
+            "[[prepared]]Increased proportion of rejected material.",
+            "[[prepared]]Increased impurities and decomposed tissues.",
+            "[[prepared]]Greater need for sorting and washing.",
+            "[[prepared]]Reduced efficiency of harvesting and transport.",
+            "[[prepared]]Possible rejection of a load when the proportion of infested fruits is high."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Two effects must be distinguished:"
+          "text": "Two effects must be distinguished:",
+          "prepared_text": "[[prepared]]Two effects must be distinguished:"
         },
         {
           "type": "doc-heading",
@@ -1081,7 +1529,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The plant may compensate for low or moderate leaf infestation, and the presence of some mines does not automatically mean a reduction in °Brix or yield."
+          "text": "The plant may compensate for low or moderate leaf infestation, and the presence of some mines does not automatically mean a reduction in °Brix or yield.",
+          "prepared_text": "[[prepared]]The plant may compensate for low or moderate leaf infestation, and the presence of some mines does not automatically mean a reduction in [[term:brix-tss]]°Brix[[/term]] or yield."
         },
         {
           "type": "doc-heading",
@@ -1090,7 +1539,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "These cause direct losses in processing yield through:"
+          "text": "These cause direct losses in processing yield through:",
+          "prepared_text": "[[prepared]]These cause direct losses in processing yield through:"
         },
         {
           "type": "doc-list",
@@ -1101,15 +1551,25 @@
             "Color deterioration.",
             "Fruit exposure to sunlight.",
             "Irregular ripening."
+          ],
+          "prepared_items": [
+            "[[prepared]]Rejection of infested fruits.",
+            "[[prepared]]Entry of rots.",
+            "[[prepared]]Weight loss.",
+            "[[prepared]]Color deterioration.",
+            "[[prepared]]Fruit exposure to sunlight.",
+            "[[prepared]]Irregular ripening."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "There is no universal fixed numerical relationship between the proportion of leaf mines and °Brix because °Brix is affected by many factors, including cultivar, irrigation, maturity, crop load, and temperature."
+          "text": "There is no universal fixed numerical relationship between the proportion of leaf mines and °Brix because °Brix is affected by many factors, including cultivar, irrigation, maturity, crop load, and temperature.",
+          "prepared_text": "[[prepared]]There is no universal fixed numerical relationship between the proportion of leaf mines and °Brix because °Brix is affected by many factors, including cultivar, irrigation, maturity, crop load, and temperature."
         },
         {
           "type": "doc-paragraph",
-          "text": "Assessment of Tuta in processing tomatoes therefore depends mainly on:"
+          "text": "Assessment of Tuta in processing tomatoes therefore depends mainly on:",
+          "prepared_text": "[[prepared]]Assessment of Tuta in processing tomatoes therefore depends mainly on:"
         },
         {
           "type": "doc-list",
@@ -1120,6 +1580,14 @@
             "Processable yield.",
             "Canopy condition.",
             "Timing of infestation relative to harvest."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage of infested fruits.",
+            "[[prepared]]Weight of rejected fruits.",
+            "[[prepared]]Rot percentage.",
+            "[[prepared]]Processable yield.",
+            "[[prepared]]Canopy condition.",
+            "[[prepared]]Timing of infestation relative to harvest."
           ]
         },
         {
@@ -1129,11 +1597,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Losses vary greatly among countries, seasons, and production systems."
+          "text": "Losses vary greatly among countries, seasons, and production systems.",
+          "prepared_text": "[[prepared]]Losses vary greatly among countries, seasons, and production systems."
         },
         {
           "type": "doc-paragraph",
-          "text": "Reviews and reports indicate that actual losses may range under many conditions between approximately:"
+          "text": "Reviews and reports indicate that actual losses may range under many conditions between approximately:",
+          "prepared_text": "[[prepared]]Reviews and reports indicate that actual losses may range under many conditions between approximately:"
         },
         {
           "type": "doc-heading",
@@ -1142,7 +1612,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "While in severe outbreaks without effective management they may reach:"
+          "text": "While in severe outbreaks without effective management they may reach:",
+          "prepared_text": "[[prepared]]While in severe outbreaks without effective management they may reach:"
         },
         {
           "type": "doc-heading",
@@ -1151,7 +1622,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A 100% loss does not mean that larvae consumed the entire crop biomass. It may mean that most fruits became:"
+          "text": "A 100% loss does not mean that larvae consumed the entire crop biomass. It may mean that most fruits became:",
+          "prepared_text": "[[prepared]]A 100% loss does not mean that larvae consumed the entire crop biomass. It may mean that most fruits became:"
         },
         {
           "type": "doc-list",
@@ -1161,11 +1633,19 @@
             "Unmarketable.",
             "Non-compliant with specifications.",
             "Uneconomic to harvest and sort."
+          ],
+          "prepared_items": [
+            "[[prepared]]Perforated.",
+            "[[prepared]]Rotted.",
+            "[[prepared]]Unmarketable.",
+            "[[prepared]]Non-compliant with specifications.",
+            "[[prepared]]Uneconomic to harvest and sort."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Loss is affected by:"
+          "text": "Loss is affected by:",
+          "prepared_text": "[[prepared]]Loss is affected by:"
         },
         {
           "type": "doc-list",
@@ -1180,6 +1660,18 @@
             "Presence of natural enemies.",
             "Proximity of infested fields.",
             "Market or factory acceptance standards."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larval density.",
+            "[[prepared]]Timing of pest entry.",
+            "[[prepared]]Season length.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Presence of fruit infestation.",
+            "[[prepared]]Control level.",
+            "[[prepared]]Climatic conditions.",
+            "[[prepared]]Presence of natural enemies.",
+            "[[prepared]]Proximity of infested fields.",
+            "[[prepared]]Market or factory acceptance standards."
           ]
         },
         {
@@ -1194,7 +1686,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "As the number of active larvae increases, so does the probability of:"
+          "text": "As the number of active larvae increases, so does the probability of:",
+          "prepared_text": "[[prepared]]As the number of active larvae increases, so does the probability of:"
         },
         {
           "type": "doc-list",
@@ -1203,6 +1696,12 @@
             "Growing-point infestation.",
             "Movement of larvae into fruits.",
             "Accumulation of damage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Coalescence of mines.",
+            "[[prepared]]Growing-point infestation.",
+            "[[prepared]]Movement of larvae into fruits.",
+            "[[prepared]]Accumulation of damage."
           ]
         },
         {
@@ -1212,7 +1711,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Third and fourth instars consume more tissue than young instars."
+          "text": "Third and fourth instars consume more tissue than young instars.",
+          "prepared_text": "[[prepared]]Third and fourth instars consume more tissue than young instars."
         },
         {
           "type": "doc-heading",
@@ -1221,7 +1721,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A low infestation persisting for several weeks may be more serious than a short temporary peak."
+          "text": "A low infestation persisting for several weeks may be more serious than a short temporary peak.",
+          "prepared_text": "[[prepared]]A low infestation persisting for several weeks may be more serious than a short temporary peak."
         },
         {
           "type": "doc-heading",
@@ -1230,7 +1731,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Plant compensatory capacity varies among growth stages."
+          "text": "Plant compensatory capacity varies among growth stages.",
+          "prepared_text": "[[prepared]]Plant compensatory capacity varies among growth stages."
         },
         {
           "type": "doc-heading",
@@ -1239,7 +1741,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Cultivars differ in:"
+          "text": "Cultivars differ in:",
+          "prepared_text": "[[prepared]]Cultivars differ in:"
         },
         {
           "type": "doc-list",
@@ -1250,6 +1753,14 @@
             "Fruit weight.",
             "Compensatory capacity.",
             "Market value."
+          ],
+          "prepared_items": [
+            "[[prepared]]Vegetative growth.",
+            "[[prepared]]Leaf resistance.",
+            "[[prepared]]Trichome density.",
+            "[[prepared]]Fruit weight.",
+            "[[prepared]]Compensatory capacity.",
+            "[[prepared]]Market value."
           ]
         },
         {
@@ -1259,7 +1770,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Loss is greater in crops intended for:"
+          "text": "Loss is greater in crops intended for:",
+          "prepared_text": "[[prepared]]Loss is greater in crops intended for:"
         },
         {
           "type": "doc-list",
@@ -1268,11 +1780,18 @@
             "Premium markets.",
             "Small packages.",
             "Sale by individual fruit."
+          ],
+          "prepared_items": [
+            "[[prepared]]Export.",
+            "[[prepared]]Premium markets.",
+            "[[prepared]]Small packages.",
+            "[[prepared]]Sale by individual fruit."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Some superficial defects may have less effect in processing, but holes and rots remain unacceptable."
+          "text": "Some superficial defects may have less effect in processing, but holes and rots remain unacceptable.",
+          "prepared_text": "[[prepared]]Some superficial defects may have less effect in processing, but holes and rots remain unacceptable."
         },
         {
           "type": "doc-heading",
@@ -1281,7 +1800,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Rots multiply the value of damage resulting from mining."
+          "text": "Rots multiply the value of damage resulting from mining.",
+          "prepared_text": "[[prepared]]Rots multiply the value of damage resulting from mining."
         },
         {
           "type": "doc-heading",
@@ -1290,7 +1810,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The presence of a mine does not mean that a larva is still alive."
+          "text": "The presence of a mine does not mean that a larva is still alive.",
+          "prepared_text": "[[prepared]]The presence of a mine does not mean that a larva is still alive."
         },
         {
           "type": "doc-heading",
@@ -1299,7 +1820,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It is characterized by:"
+          "text": "It is characterized by:",
+          "prepared_text": "[[prepared]]It is characterized by:"
         },
         {
           "type": "doc-list",
@@ -1310,6 +1832,14 @@
             "Soft margins.",
             "Continued expansion.",
             "Larval response when the mine is opened."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pale or silvery color.",
+            "[[prepared]]Presence of a live larva.",
+            "[[prepared]]Fresh frass.",
+            "[[prepared]]Soft margins.",
+            "[[prepared]]Continued expansion.",
+            "[[prepared]]Larval response when the mine is opened."
           ]
         },
         {
@@ -1319,7 +1849,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It is characterized by:"
+          "text": "It is characterized by:",
+          "prepared_text": "[[prepared]]It is characterized by:"
         },
         {
           "type": "doc-list",
@@ -1330,11 +1861,20 @@
             "Presence of cast skin or old frass.",
             "No further expansion.",
             "Torn tissue."
+          ],
+          "prepared_items": [
+            "[[prepared]]Brown color.",
+            "[[prepared]]Desiccation.",
+            "[[prepared]]Absence of the larva.",
+            "[[prepared]]Presence of cast skin or old frass.",
+            "[[prepared]]No further expansion.",
+            "[[prepared]]Torn tissue."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Control decisions should be based on larvae, eggs, and active infestation rather than on the combined number of old and new mines."
+          "text": "Control decisions should be based on larvae, eggs, and active infestation rather than on the combined number of old and new mines.",
+          "prepared_text": "[[prepared]]Control decisions should be based on larvae, eggs, and [[term:infestation-status]]active infestation[[/term]] rather than on the combined number of old and new mines."
         },
         {
           "type": "doc-heading",
@@ -1384,11 +1924,54 @@
               "On the plant or in soil",
               "Usually outside the mine or in soil, depending on species"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Characteristic",
+            "[[prepared]]Tuta absoluta",
+            "[[prepared]]Liriomyza"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Mine shape",
+              "[[prepared]]Usually broad, blotch-like, and irregular",
+              "[[prepared]]Usually winding or serpentine"
+            ],
+            [
+              "[[prepared]]Larva",
+              "[[prepared]]Distinct head and legs",
+              "[[prepared]]Maggot-like and without visible legs"
+            ],
+            [
+              "[[prepared]]Frass",
+              "[[prepared]]Dark aggregations within the mine",
+              "[[prepared]]Usually a fine, discontinuous line"
+            ],
+            [
+              "[[prepared]]Growing-point and stem infestation",
+              "[[prepared]]Common",
+              "[[prepared]]Rare"
+            ],
+            [
+              "[[prepared]]Fruit infestation",
+              "[[prepared]]Possible and important",
+              "[[prepared]]Not the usual symptom"
+            ],
+            [
+              "[[prepared]]Adult insect",
+              "[[prepared]]Small moth",
+              "[[prepared]]Small fly"
+            ],
+            [
+              "[[prepared]]Pupa",
+              "[[prepared]]On the plant or in soil",
+              "[[prepared]]Usually outside the mine or in soil, depending on species"
+            ]
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Mines may resemble one another when several infestations coalesce. Diagnosis must therefore depend on examination of the larva."
+          "text": "Mines may resemble one another when several infestations coalesce. Diagnosis must therefore depend on examination of the larva.",
+          "prepared_text": "[[prepared]]Mines may resemble one another when several infestations coalesce. Diagnosis must therefore depend on examination of the larva."
         },
         {
           "type": "doc-heading",
@@ -1433,6 +2016,43 @@
               "Blotch mine",
               "Holes and edge feeding"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Characteristic",
+            "[[prepared]]Tuta absoluta",
+            "[[prepared]]Tomato Fruitworm, Helicoverpa armigera"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Larval size",
+              "[[prepared]]Small, generally less than 10 mm",
+              "[[prepared]]Large and may exceed 30 mm"
+            ],
+            [
+              "[[prepared]]Leaf damage",
+              "[[prepared]]Internal mines",
+              "[[prepared]]Exposed feeding"
+            ],
+            [
+              "[[prepared]]Fruit opening",
+              "[[prepared]]Usually small and inconspicuous",
+              "[[prepared]]Large and obvious"
+            ],
+            [
+              "[[prepared]]Frass",
+              "[[prepared]]Inside the mine or around the opening",
+              "[[prepared]]Large masses outside the fruit"
+            ],
+            [
+              "[[prepared]]Feeding site",
+              "[[prepared]]Inside leaves and fruits",
+              "[[prepared]]Exposed or inside fruits"
+            ],
+            [
+              "[[prepared]]Leaf symptom",
+              "[[prepared]]Blotch mine",
+              "[[prepared]]Holes and edge feeding"
+            ]
           ]
         },
         {
@@ -1442,7 +2062,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Old mines may be confused with:"
+          "text": "Old mines may be confused with:",
+          "prepared_text": "[[prepared]]Old mines may be confused with:"
         },
         {
           "type": "doc-list",
@@ -1453,11 +2074,20 @@
             "Pesticide burns.",
             "Sunscald.",
             "Mechanical injury."
+          ],
+          "prepared_items": [
+            "[[prepared]]Early blight.",
+            "[[prepared]]Late blight.",
+            "[[prepared]]Bacterial spots.",
+            "[[prepared]]Pesticide burns.",
+            "[[prepared]]Sunscald.",
+            "[[prepared]]Mechanical injury."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "A Tuta mine is usually characterized by:"
+          "text": "A Tuta mine is usually characterized by:",
+          "prepared_text": "[[prepared]]A Tuta mine is usually characterized by:"
         },
         {
           "type": "doc-list",
@@ -1467,11 +2097,19 @@
             "A larva or cast skin.",
             "An entry or exit point.",
             "Irregular boundaries following feeding within the tissue."
+          ],
+          "prepared_items": [
+            "[[prepared]]A thin epidermis above the cavity.",
+            "[[prepared]]Internal frass.",
+            "[[prepared]]A larva or cast skin.",
+            "[[prepared]]An entry or exit point.",
+            "[[prepared]]Irregular boundaries following feeding within the tissue."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Disease lesions develop within the tissue without a larva or insect frass."
+          "text": "Disease lesions develop within the tissue without a larva or insect frass.",
+          "prepared_text": "[[prepared]]Disease lesions develop within the tissue without a larva or insect frass."
         },
         {
           "type": "doc-heading",
@@ -1480,7 +2118,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The percentage of infested plants is calculated as:"
+          "text": "The percentage of infested plants is calculated as:",
+          "prepared_text": "[[prepared]]The percentage of infested plants is calculated as:"
         },
         {
           "type": "doc-heading",
@@ -1489,11 +2128,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Example:"
+          "text": "Example:",
+          "prepared_text": "[[prepared]]Example:"
         },
         {
           "type": "doc-paragraph",
-          "text": "If 100 plants are examined and active infestation is found on 18 plants:"
+          "text": "If 100 plants are examined and active infestation is found on 18 plants:",
+          "prepared_text": "[[prepared]]If 100 plants are examined and active infestation is found on 18 plants:"
         },
         {
           "type": "doc-heading",
@@ -1502,7 +2143,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The definition of an infested plant must be specified, such as:"
+          "text": "The definition of an infested plant must be specified, such as:",
+          "prepared_text": "[[prepared]]The definition of an infested plant must be specified, such as:"
         },
         {
           "type": "doc-list",
@@ -1511,11 +2153,18 @@
             "Presence of an active mine.",
             "Presence of a live larva.",
             "Presence of an infested fruit."
+          ],
+          "prepared_items": [
+            "[[prepared]]Presence of eggs.",
+            "[[prepared]]Presence of an active mine.",
+            "[[prepared]]Presence of a live larva.",
+            "[[prepared]]Presence of an infested fruit."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Different indicators should not be combined into one number without a clear definition."
+          "text": "Different indicators should not be combined into one number without a clear definition.",
+          "prepared_text": "[[prepared]]Different indicators should not be combined into one number without a clear definition."
         },
         {
           "type": "doc-heading",
@@ -1524,7 +2173,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The following should be recorded for each plant:"
+          "text": "The following should be recorded for each plant:",
+          "prepared_text": "[[prepared]]The following should be recorded for each plant:"
         },
         {
           "type": "doc-list",
@@ -1534,11 +2184,19 @@
             "Number of active mines.",
             "Number of live larvae.",
             "Position of infestation on the plant."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of leaves examined.",
+            "[[prepared]]Number of leaves bearing active mines.",
+            "[[prepared]]Number of active mines.",
+            "[[prepared]]Number of live larvae.",
+            "[[prepared]]Position of infestation on the plant."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The percentage of infested leaves is calculated as:"
+          "text": "The percentage of infested leaves is calculated as:",
+          "prepared_text": "[[prepared]]The percentage of infested leaves is calculated as:"
         },
         {
           "type": "doc-heading",
@@ -1547,11 +2205,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This indicator alone does not describe the volume of damage. One leaf may carry a small mine while another carries several broad mines."
+          "text": "This indicator alone does not describe the volume of damage. One leaf may carry a small mine while another carries several broad mines.",
+          "prepared_text": "[[prepared]]This indicator alone does not describe the volume of damage. One leaf may carry a small mine while another carries several broad mines."
         },
         {
           "type": "doc-paragraph",
-          "text": "The following should therefore be recorded with it:"
+          "text": "The following should therefore be recorded with it:",
+          "prepared_text": "[[prepared]]The following should therefore be recorded with it:"
         },
         {
           "type": "doc-list",
@@ -1559,6 +2219,11 @@
             "Number of mines per leaf.",
             "Damaged area.",
             "Number of live larvae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of mines per leaf.",
+            "[[prepared]]Damaged area.",
+            "[[prepared]]Number of live larvae."
           ]
         },
         {
@@ -1568,7 +2233,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This is calculated as:"
+          "text": "This is calculated as:",
+          "prepared_text": "[[prepared]]This is calculated as:"
         },
         {
           "type": "doc-heading",
@@ -1577,7 +2243,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The type of infestation should be recorded:"
+          "text": "The type of infestation should be recorded:",
+          "prepared_text": "[[prepared]]The type of infestation should be recorded:"
         },
         {
           "type": "doc-list",
@@ -1586,11 +2253,18 @@
             "Old dry growing point.",
             "Dead growing point.",
             "Lateral growth resulting from death of the growing point."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active growing point containing a larva.",
+            "[[prepared]]Old dry growing point.",
+            "[[prepared]]Dead growing point.",
+            "[[prepared]]Lateral growth resulting from death of the growing point."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Growing-point infestation is more important in young plants than in large plants."
+          "text": "Growing-point infestation is more important in young plants than in large plants.",
+          "prepared_text": "[[prepared]]Growing-point infestation is more important in young plants than in large plants."
         },
         {
           "type": "doc-heading",
@@ -1599,11 +2273,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The percentage of infested fruits is one of the most important economic indicators."
+          "text": "The percentage of infested fruits is one of the most important economic indicators.",
+          "prepared_text": "[[prepared]]The percentage of infested fruits is one of the most important economic indicators."
         },
         {
           "type": "doc-paragraph",
-          "text": "It is calculated as:"
+          "text": "It is calculated as:",
+          "prepared_text": "[[prepared]]It is calculated as:"
         },
         {
           "type": "doc-heading",
@@ -1612,7 +2288,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Weight loss is also calculated as:"
+          "text": "Weight loss is also calculated as:",
+          "prepared_text": "[[prepared]]Weight loss is also calculated as:"
         },
         {
           "type": "doc-heading",
@@ -1621,7 +2298,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It is preferable to record separately:"
+          "text": "It is preferable to record separately:",
+          "prepared_text": "[[prepared]]It is preferable to record separately:"
         },
         {
           "type": "doc-list",
@@ -1632,11 +2310,20 @@
             "Fallen fruits.",
             "Fruits that can be sorted.",
             "Fruits permanently rejected."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruits bearing holes only.",
+            "[[prepared]]Fruits containing larvae.",
+            "[[prepared]]Rotted fruits.",
+            "[[prepared]]Fallen fruits.",
+            "[[prepared]]Fruits that can be sorted.",
+            "[[prepared]]Fruits permanently rejected."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The numerical percentage of infested fruits may differ from their percentage by weight."
+          "text": "The numerical percentage of infested fruits may differ from their percentage by weight.",
+          "prepared_text": "[[prepared]]The numerical percentage of infested fruits may differ from their percentage by weight."
         },
         {
           "type": "doc-heading",
@@ -1645,7 +2332,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Marketable yield is calculated as:"
+          "text": "Marketable yield is calculated as:",
+          "prepared_text": "[[prepared]]Marketable yield is calculated as:"
         },
         {
           "type": "doc-heading",
@@ -1654,7 +2342,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Fruits rejected because of Tuta include:"
+          "text": "Fruits rejected because of Tuta include:",
+          "prepared_text": "[[prepared]]Fruits rejected because of Tuta include:"
         },
         {
           "type": "doc-list",
@@ -1664,11 +2353,19 @@
             "Rotted fruits.",
             "Severely deformed fruits.",
             "Fruits not meeting buyer specifications."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruits containing tunnels.",
+            "[[prepared]]Fruits with open holes.",
+            "[[prepared]]Rotted fruits.",
+            "[[prepared]]Severely deformed fruits.",
+            "[[prepared]]Fruits not meeting buyer specifications."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The rejection rate differs according to market. A factory may accept a limited superficial defect that would be rejected by the fresh market, but it generally does not accept rotted fruits or fruits carrying live larvae."
+          "text": "The rejection rate differs according to market. A factory may accept a limited superficial defect that would be rejected by the fresh market, but it generally does not accept rotted fruits or fruits carrying live larvae.",
+          "prepared_text": "[[prepared]]The rejection rate differs according to market. A factory may accept a limited superficial defect that would be rejected by the fresh market, but it generally does not accept rotted fruits or fruits carrying live larvae."
         },
         {
           "type": "doc-heading",
@@ -1687,7 +2384,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This is the lowest pest density at which the value of crop loss equals the cost of control."
+          "text": "This is the lowest pest density at which the value of crop loss equals the cost of control.",
+          "prepared_text": "[[prepared]]This is the lowest pest density at which the value of crop loss equals the cost of control."
         },
         {
           "type": "doc-heading",
@@ -1701,11 +2399,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This is the pest density at which intervention begins before the population reaches the economic injury level."
+          "text": "This is the pest density at which intervention begins before the population reaches the economic injury level.",
+          "prepared_text": "[[prepared]]This is the pest density at which intervention begins before the population reaches the economic injury level."
         },
         {
           "type": "doc-paragraph",
-          "text": "The economic threshold is lower than the economic injury level because control requires time before its effect becomes apparent."
+          "text": "The economic threshold is lower than the economic injury level because control requires time before its effect becomes apparent.",
+          "prepared_text": "[[prepared]]The economic threshold is lower than the economic injury level because control requires time before its effect becomes apparent."
         },
         {
           "type": "doc-heading",
@@ -1714,22 +2414,29 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "There is no single universal threshold applicable to all environments."
+          "text": "There is no single universal threshold applicable to all environments.",
+          "prepared_text": "[[prepared]]There is no single universal threshold applicable to all environments."
         },
         {
           "type": "doc-paragraph",
-          "text": "A study conducted in tomato greenhouses in Ethiopia determined:"
+          "text": "A study conducted in tomato greenhouses in Ethiopia determined:",
+          "prepared_text": "[[prepared]]A study conducted in tomato greenhouses in Ethiopia determined:"
         },
         {
           "type": "doc-list",
           "items": [
             "Economic injury level: approximately 3 larvae per plant.",
             "Economic threshold: approximately 2.25 larvae per plant."
+          ],
+          "prepared_items": [
+            "[[prepared]]Economic injury level: approximately 3 larvae per plant.",
+            "[[prepared]]Economic threshold: approximately 2.25 larvae per plant."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Another field experiment estimated the economic threshold at approximately:"
+          "text": "Another field experiment estimated the economic threshold at approximately:",
+          "prepared_text": "[[prepared]]Another field experiment estimated the economic threshold at approximately:"
         },
         {
           "type": "doc-heading",
@@ -1738,7 +2445,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "And the economic injury level at approximately:"
+          "text": "And the economic injury level at approximately:",
+          "prepared_text": "[[prepared]]And the economic injury level at approximately:"
         },
         {
           "type": "doc-heading",
@@ -1747,7 +2455,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "An Iranian study estimated economic injury levels between:"
+          "text": "An Iranian study estimated economic injury levels between:",
+          "prepared_text": "[[prepared]]An Iranian study estimated economic injury levels between:"
         },
         {
           "type": "doc-heading",
@@ -1756,11 +2465,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Depending on the tomato cultivar."
+          "text": "Depending on the tomato cultivar.",
+          "prepared_text": "[[prepared]]Depending on the tomato cultivar."
         },
         {
           "type": "doc-paragraph",
-          "text": "These results demonstrate that the threshold varies according to:"
+          "text": "These results demonstrate that the threshold varies according to:",
+          "prepared_text": "[[prepared]]These results demonstrate that the threshold varies according to:"
         },
         {
           "type": "doc-list",
@@ -1774,11 +2485,23 @@
             "Target market.",
             "Percentage of fruit infestation.",
             "Climatic conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Crop value.",
+            "[[prepared]]Control cost.",
+            "[[prepared]]Efficacy of the control method.",
+            "[[prepared]]Production system.",
+            "[[prepared]]Plant growth stage.",
+            "[[prepared]]Target market.",
+            "[[prepared]]Percentage of fruit infestation.",
+            "[[prepared]]Climatic conditions."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Therefore, a value of 2.25 or 3 larvae per plant should not be used as a fixed rule for all Egyptian tomato fields."
+          "text": "Therefore, a value of 2.25 or 3 larvae per plant should not be used as a fixed rule for all Egyptian tomato fields.",
+          "prepared_text": "[[prepared]]Therefore, a value of 2.25 or 3 larvae per plant should not be used as a fixed rule for all Egyptian tomato fields."
         },
         {
           "type": "doc-heading",
@@ -1787,11 +2510,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Pheromone traps mainly attract males, whereas damage is caused by larvae originating from eggs laid by females."
+          "text": "Pheromone traps mainly attract males, whereas damage is caused by larvae originating from eggs laid by females.",
+          "prepared_text": "[[prepared]][[term:pheromone-trap]]Pheromone traps[[/term]] mainly attract males, whereas damage is caused by larvae originating from eggs laid by females."
         },
         {
           "type": "doc-paragraph",
-          "text": "Trap catches may be high without severe damage because of:"
+          "text": "Trap catches may be high without severe damage because of:",
+          "prepared_text": "[[prepared]]Trap catches may be high without severe damage because of:"
         },
         {
           "type": "doc-list",
@@ -1800,11 +2525,18 @@
             "Low female numbers.",
             "High efficacy of natural enemies.",
             "Failure of part of the eggs to hatch."
+          ],
+          "prepared_items": [
+            "[[prepared]]Immigration of males from a neighboring field.",
+            "[[prepared]]Low female numbers.",
+            "[[prepared]]High efficacy of natural enemies.",
+            "[[prepared]]Failure of part of the eggs to hatch."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Trap catches may be low while damage is high because of:"
+          "text": "Trap catches may be low while damage is high because of:",
+          "prepared_text": "[[prepared]]Trap catches may be low while damage is high because of:"
         },
         {
           "type": "doc-list",
@@ -1814,11 +2546,19 @@
             "Unsuitable trap location.",
             "Large numbers of larvae already inside plants.",
             "Changes in wind direction."
+          ],
+          "prepared_items": [
+            "[[prepared]]Presence of mated females.",
+            "[[prepared]]Reduced lure attractiveness.",
+            "[[prepared]]Unsuitable trap location.",
+            "[[prepared]]Large numbers of larvae already inside plants.",
+            "[[prepared]]Changes in wind direction."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Traps must therefore be interpreted together with:"
+          "text": "Traps must therefore be interpreted together with:",
+          "prepared_text": "[[prepared]]Traps must therefore be interpreted together with:"
         },
         {
           "type": "doc-list",
@@ -1828,6 +2568,13 @@
             "Active mines.",
             "Growing-point infestation.",
             "Fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg inspection.",
+            "[[prepared]]Live larvae.",
+            "[[prepared]]Active mines.",
+            "[[prepared]]Growing-point infestation.",
+            "[[prepared]]Fruit infestation."
           ]
         },
         {
@@ -1837,7 +2584,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A field decision depends on several indicators, most importantly:"
+          "text": "A field decision depends on several indicators, most importantly:",
+          "prepared_text": "[[prepared]]A field decision depends on several indicators, most importantly:"
         },
         {
           "type": "doc-list",
@@ -1852,11 +2600,24 @@
             "8. Activity of natural enemies.",
             "9. Proximity to harvest.",
             "10. Condition of neighboring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Number of males captured and the weekly trend in catches.",
+            "[[prepared]]2. Percentage of plants carrying eggs.",
+            "[[prepared]]3. Percentage of plants bearing active mines.",
+            "[[prepared]]4. Number of live larvae per plant.",
+            "[[prepared]]5. Percentage of infested growing points.",
+            "[[prepared]]6. Percentage of infested fruits.",
+            "[[prepared]]7. Presence of advanced larval instars.",
+            "[[prepared]]8. Activity of natural enemies.",
+            "[[prepared]]9. Proximity to harvest.",
+            "[[prepared]]10. Condition of neighboring fields."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "No single indicator provides a complete picture of risk."
+          "text": "No single indicator provides a complete picture of risk.",
+          "prepared_text": "[[prepared]]No single indicator provides a complete picture of risk."
         },
         {
           "type": "doc-heading",
@@ -1870,11 +2631,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The threshold for fruit infestation is low because cosmetic damage directly affects price and acceptance."
+          "text": "The threshold for fruit infestation is low because cosmetic damage directly affects price and acceptance.",
+          "prepared_text": "[[prepared]]The threshold for fruit infestation is low because cosmetic damage directly affects price and acceptance."
         },
         {
           "type": "doc-paragraph",
-          "text": "Intervention begins before larvae reach fruits, based on eggs and recent mines."
+          "text": "Intervention begins before larvae reach fruits, based on eggs and recent mines.",
+          "prepared_text": "[[prepared]]Intervention begins before larvae reach fruits, based on eggs and recent mines."
         },
         {
           "type": "doc-heading",
@@ -1883,11 +2646,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The crop may tolerate a limited level of leaf mining more than fresh-market tomatoes, but fruit infestation should remain as low as possible."
+          "text": "The crop may tolerate a limited level of leaf mining more than fresh-market tomatoes, but fruit infestation should remain as low as possible.",
+          "prepared_text": "[[prepared]]The crop may tolerate a limited level of leaf mining more than fresh-market tomatoes, but fruit infestation should remain as low as possible."
         },
         {
           "type": "doc-paragraph",
-          "text": "The decision depends on:"
+          "text": "The decision depends on:",
+          "prepared_text": "[[prepared]]The decision depends on:"
         },
         {
           "type": "doc-list",
@@ -1899,11 +2664,21 @@
             "Condition of the canopy.",
             "Economic feasibility of treatment.",
             "Preharvest interval of the insecticide."
+          ],
+          "prepared_items": [
+            "[[prepared]]Factory specifications.",
+            "[[prepared]]Percentage of rejected fruits.",
+            "[[prepared]]Proximity to harvest.",
+            "[[prepared]]Probability of larvae moving into fruits.",
+            "[[prepared]]Condition of the canopy.",
+            "[[prepared]]Economic feasibility of treatment.",
+            "[[prepared]]Preharvest interval of the insecticide."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Intervention should not be delayed until the percentage of infested fruits increases because damage occurring inside the fruit cannot be repaired."
+          "text": "Intervention should not be delayed until the percentage of infested fruits increases because damage occurring inside the fruit cannot be repaired.",
+          "prepared_text": "[[prepared]]Intervention should not be delayed until the percentage of infested fruits increases because damage occurring inside the fruit cannot be repaired."
         },
         {
           "type": "doc-heading",
@@ -1912,7 +2687,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Total loss consists of:"
+          "text": "Total loss consists of:",
+          "prepared_text": "[[prepared]]Total loss consists of:"
         },
         {
           "type": "doc-heading",
@@ -1927,6 +2703,13 @@
             "Rejected fruits.",
             "Rotted fruits.",
             "Fallen fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced fruit number.",
+            "[[prepared]]Reduced weight of sound fruits.",
+            "[[prepared]]Rejected fruits.",
+            "[[prepared]]Rotted fruits.",
+            "[[prepared]]Fallen fruits."
           ]
         },
         {
@@ -1943,6 +2726,14 @@
             "Traps.",
             "Biological-control agents.",
             "Inspection and monitoring."
+          ],
+          "prepared_items": [
+            "[[prepared]]Insecticides.",
+            "[[prepared]]Labor.",
+            "[[prepared]]Fuel and equipment.",
+            "[[prepared]]Traps.",
+            "[[prepared]]Biological-control agents.",
+            "[[prepared]]Inspection and monitoring."
           ]
         },
         {
@@ -1958,6 +2749,13 @@
             "Cleaning of containers.",
             "Reduced packing efficiency.",
             "Shipment rejection."
+          ],
+          "prepared_items": [
+            "[[prepared]]Additional sorting.",
+            "[[prepared]]Disposal of fruits.",
+            "[[prepared]]Cleaning of containers.",
+            "[[prepared]]Reduced packing efficiency.",
+            "[[prepared]]Shipment rejection."
           ]
         },
         {
@@ -1973,6 +2771,13 @@
             "Mortality of natural enemies.",
             "Reduced confidence in the supplier.",
             "Loss of a supply contract or market."
+          ],
+          "prepared_items": [
+            "[[prepared]][[term:resistance]]Insecticide resistance[[/term]].",
+            "[[prepared]]Pesticide residues.",
+            "[[prepared]]Mortality of natural enemies.",
+            "[[prepared]]Reduced confidence in the supplier.",
+            "[[prepared]]Loss of a supply contract or market."
           ]
         },
         {
@@ -1982,7 +2787,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "If total yield is:"
+          "text": "If total yield is:",
+          "prepared_text": "[[prepared]]If total yield is:"
         },
         {
           "type": "doc-heading",
@@ -1991,7 +2797,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "And the percentage of fruits rejected because of Tuta is:"
+          "text": "And the percentage of fruits rejected because of Tuta is:",
+          "prepared_text": "[[prepared]]And the percentage of fruits rejected because of Tuta is:"
         },
         {
           "type": "doc-heading",
@@ -2000,7 +2807,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Direct loss equals:"
+          "text": "Direct loss equals:",
+          "prepared_text": "[[prepared]]Direct loss equals:"
         },
         {
           "type": "doc-heading",
@@ -2009,7 +2817,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "If the price per metric ton is:"
+          "text": "If the price per metric ton is:",
+          "prepared_text": "[[prepared]]If the price per metric ton is:"
         },
         {
           "type": "doc-heading",
@@ -2018,7 +2827,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The value of direct loss is:"
+          "text": "The value of direct loss is:",
+          "prepared_text": "[[prepared]]The value of direct loss is:"
         },
         {
           "type": "doc-heading",
@@ -2027,7 +2837,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The following must then be added:"
+          "text": "The following must then be added:",
+          "prepared_text": "[[prepared]]The following must then be added:"
         },
         {
           "type": "doc-list",
@@ -2036,11 +2847,18 @@
             "Sorting costs.",
             "Rot losses.",
             "Any deductions applied by the buyer."
+          ],
+          "prepared_items": [
+            "[[prepared]]Control costs.",
+            "[[prepared]]Sorting costs.",
+            "[[prepared]]Rot losses.",
+            "[[prepared]]Any deductions applied by the buyer."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This example does not include the effect of reduced yield resulting from leaf or growing-point loss."
+          "text": "This example does not include the effect of reduced yield resulting from leaf or growing-point loss.",
+          "prepared_text": "[[prepared]]This example does not include the effect of reduced yield resulting from leaf or growing-point loss."
         },
         {
           "type": "doc-heading",
@@ -2049,11 +2867,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The difference between limited infestation and severe loss depends on the speed of intervention and program efficiency."
+          "text": "The difference between limited infestation and severe loss depends on the speed of intervention and program efficiency.",
+          "prepared_text": "[[prepared]]The difference between limited infestation and severe loss depends on the speed of intervention and program efficiency."
         },
         {
           "type": "doc-paragraph",
-          "text": "Loss prevention depends on:"
+          "text": "Loss prevention depends on:",
+          "prepared_text": "[[prepared]]Loss prevention depends on:"
         },
         {
           "type": "doc-list",
@@ -2068,6 +2888,18 @@
             "Optimizing coverage and timing.",
             "Monitoring fruits before harvest.",
             "Applying agricultural sanitation after the season ends."
+          ],
+          "prepared_items": [
+            "[[prepared]]Early detection of eggs.",
+            "[[prepared]]Targeting young larvae.",
+            "[[prepared]]Preventing L3 and L4 from reaching fruits.",
+            "[[prepared]]Removing heavily infested growing points and leaves when possible.",
+            "[[prepared]]Managing old fields and crop residues.",
+            "[[prepared]]Conserving natural enemies.",
+            "[[prepared]]Rotating insecticide groups.",
+            "[[prepared]]Optimizing coverage and timing.",
+            "[[prepared]]Monitoring fruits before harvest.",
+            "[[prepared]]Applying agricultural sanitation after the season ends."
           ]
         },
         {
@@ -2133,6 +2965,63 @@
               "Loss of leaves and growing points",
               "Reduced growth and yield"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Plant Part",
+            "[[prepared]]Main Symptom",
+            "[[prepared]]Potential Result"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Leaves",
+              "[[prepared]]Blotch mines and dark frass",
+              "[[prepared]]Reduced green leaf area"
+            ],
+            [
+              "[[prepared]]Growing point",
+              "[[prepared]]Wilting and death of the bud",
+              "[[prepared]]Deformed growth and delayed production"
+            ],
+            [
+              "[[prepared]]Flower bud",
+              "[[prepared]]Hole and desiccation",
+              "[[prepared]]Bud drop"
+            ],
+            [
+              "[[prepared]]Flower",
+              "[[prepared]]Feeding and frass",
+              "[[prepared]]Reduced fruit set"
+            ],
+            [
+              "[[prepared]]Leaf petiole",
+              "[[prepared]]Internal tunnel",
+              "[[prepared]]Leaf wilting"
+            ],
+            [
+              "[[prepared]]Stem",
+              "[[prepared]]Boring and frass",
+              "[[prepared]]Weakness or death of the upper part"
+            ],
+            [
+              "[[prepared]]Calyx",
+              "[[prepared]]Hidden larva and tunnels",
+              "[[prepared]]Initiation of fruit infestation"
+            ],
+            [
+              "[[prepared]]Green fruit",
+              "[[prepared]]Holes and tunnels",
+              "[[prepared]]Deformation and rot"
+            ],
+            [
+              "[[prepared]]Ripe fruit",
+              "[[prepared]]Softness, leakage, and rot",
+              "[[prepared]]Fresh-market or processing rejection"
+            ],
+            [
+              "[[prepared]]Whole plant",
+              "[[prepared]]Loss of leaves and growing points",
+              "[[prepared]]Reduced growth and yield"
+            ]
           ]
         },
         {
@@ -2142,43 +3031,53 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae of Tuta absoluta cause direct plant damage, whereas the adult moth performs the functions of reproduction and dispersal."
+          "text": "Larvae of Tuta absoluta cause direct plant damage, whereas the adult moth performs the functions of reproduction and dispersal.",
+          "prepared_text": "[[prepared]]Larvae of Tuta absoluta cause direct plant damage, whereas the adult moth performs the functions of reproduction and dispersal."
         },
         {
           "type": "doc-paragraph",
-          "text": "Infestation usually begins with small leaf mines that expand as larvae grow. At high pest density, mines coalesce, tissues dry, and leaves lose a large part of their photosynthetic capacity."
+          "text": "Infestation usually begins with small leaf mines that expand as larvae grow. At high pest density, mines coalesce, tissues dry, and leaves lose a large part of their photosynthetic capacity.",
+          "prepared_text": "[[prepared]]Infestation usually begins with small leaf mines that expand as larvae grow. At high pest density, mines coalesce, tissues dry, and leaves lose a large part of their photosynthetic capacity."
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae also attack growing points, buds, stems, flowers, and fruits. Growing-point infestation causes growth deformation, whereas fruit infestation represents the principal component of economic loss."
+          "text": "Larvae also attack growing points, buds, stems, flowers, and fruits. Growing-point infestation causes growth deformation, whereas fruit infestation represents the principal component of economic loss.",
+          "prepared_text": "[[prepared]]Larvae also attack growing points, buds, stems, flowers, and fruits. Growing-point infestation causes growth deformation, whereas fruit infestation represents the principal component of economic loss."
         },
         {
           "type": "doc-paragraph",
-          "text": "Holes and tunnels permit entry of rot pathogens, allowing a small opening to develop into a large area of decomposed tissue."
+          "text": "Holes and tunnels permit entry of rot pathogens, allowing a small opening to develop into a large area of decomposed tissue.",
+          "prepared_text": "[[prepared]]Holes and tunnels permit entry of rot pathogens, allowing a small opening to develop into a large area of decomposed tissue."
         },
         {
           "type": "doc-paragraph",
-          "text": "Losses vary according to infestation severity and timing, cultivar, market, and production system, and may range from low levels to 80–100% loss of marketable yield in severe unmanaged cases."
+          "text": "Losses vary according to infestation severity and timing, cultivar, market, and production system, and may range from low levels to 80–100% loss of marketable yield in severe unmanaged cases.",
+          "prepared_text": "[[prepared]]Losses vary according to infestation severity and timing, cultivar, market, and production system, and may range from low levels to 80–100% loss of marketable yield in severe unmanaged cases."
         },
         {
           "type": "doc-paragraph",
-          "text": "The presence of an old mine does not necessarily require treatment. Decisions should be based on eggs, active mines, live larvae, and growing-point and fruit infestation."
+          "text": "The presence of an old mine does not necessarily require treatment. Decisions should be based on eggs, active mines, live larvae, and growing-point and fruit infestation.",
+          "prepared_text": "[[prepared]]The presence of an old mine does not necessarily require treatment. Decisions should be based on eggs, active mines, live larvae, and growing-point and fruit infestation."
         },
         {
           "type": "doc-paragraph",
-          "text": "Some studies estimated the economic threshold at approximately 2.25–2.87 larvae per plant, while others estimated the economic injury level at approximately 3–5 larvae per plant depending on cultivar and environment."
+          "text": "Some studies estimated the economic threshold at approximately 2.25–2.87 larvae per plant, while others estimated the economic injury level at approximately 3–5 larvae per plant depending on cultivar and environment.",
+          "prepared_text": "[[prepared]]Some studies estimated the economic threshold at approximately 2.25–2.87 larvae per plant, while others estimated the economic injury level at approximately 3–5 larvae per plant depending on cultivar and environment."
         },
         {
           "type": "doc-paragraph",
-          "text": "These values are not fixed universal thresholds because the threshold changes with crop price, control cost and efficacy, and market type."
+          "text": "These values are not fixed universal thresholds because the threshold changes with crop price, control cost and efficacy, and market type.",
+          "prepared_text": "[[prepared]]These values are not fixed universal thresholds because the threshold changes with crop price, control cost and efficacy, and market type."
         },
         {
           "type": "doc-paragraph",
-          "text": "The percentage of infested fruits is the most important economic indicator, particularly in fresh-market and processing tomatoes intended for delivery."
+          "text": "The percentage of infested fruits is the most important economic indicator, particularly in fresh-market and processing tomatoes intended for delivery.",
+          "prepared_text": "[[prepared]]The percentage of infested fruits is the most important economic indicator, particularly in fresh-market and processing tomatoes intended for delivery."
         },
         {
           "type": "doc-paragraph",
-          "text": "Successful management depends on preventing infestation from moving from leaves into growing points, stems, and fruits and targeting eggs and young larvae before infestation becomes an irreversible loss."
+          "text": "Successful management depends on preventing infestation from moving from leaves into growing points, stems, and fruits and targeting eggs and young larvae before infestation becomes an irreversible loss.",
+          "prepared_text": "[[prepared]]Successful management depends on preventing infestation from moving from leaves into growing points, stems, and fruits and targeting eggs and young larvae before infestation becomes an irreversible loss."
         },
         {
           "type": "doc-heading",

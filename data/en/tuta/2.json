@@ -21,19 +21,23 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest Tuta absoluta is known by several scientific, international, Arabic, and local names. This multiplicity results from the transfer of the insect among several genera throughout its taxonomic history, its spread across different geographical and linguistic regions, and the diversity of plant parts attacked by its larvae."
+          "text": "The pest Tuta absoluta is known by several scientific, international, Arabic, and local names. This multiplicity results from the transfer of the insect among several genera throughout its taxonomic history, its spread across different geographical and linguistic regions, and the diversity of plant parts attacked by its larvae.",
+          "prepared_text": "[[prepared]]The pest Tuta absoluta is known by several scientific, international, Arabic, and local names. This multiplicity results from the transfer of the insect among several genera throughout its taxonomic history, its spread across different geographical and linguistic regions, and the diversity of plant parts attacked by its larvae."
         },
         {
           "type": "doc-paragraph",
-          "text": "Some names have focused on the mines formed by the larvae inside tomato leaves, whereas others have emphasized the insect’s ability to bore into stems, growing points, and fruits. Certain names have also been associated with the insect’s region of origin in South America."
+          "text": "Some names have focused on the mines formed by the larvae inside tomato leaves, whereas others have emphasized the insect’s ability to bore into stems, growing points, and fruits. Certain names have also been associated with the insect’s region of origin in South America.",
+          "prepared_text": "[[prepared]]Some names have focused on the [[term:mines]]mines[[/term]] formed by the larvae inside tomato leaves, whereas others have emphasized the insect’s ability to bore into stems, growing points, and fruits. Certain names have also been associated with the insect’s region of origin in South America."
         },
         {
           "type": "doc-paragraph",
-          "text": "In Egypt, the pest is primarily known as “Tuta,” while some growers refer to it as “the weevil” or “tomato weevil.” It is also sometimes confused with the pest commonly known in the field as “leaf miner,” although the latter name usually refers to leaf-mining flies belonging to the genus Liriomyza, not to Tuta absoluta."
+          "text": "In Egypt, the pest is primarily known as “Tuta,” while some growers refer to it as “the weevil” or “tomato weevil.” It is also sometimes confused with the pest commonly known in the field as “leaf miner,” although the latter name usually refers to leaf-mining flies belonging to the genus Liriomyza, not to Tuta absoluta.",
+          "prepared_text": "[[prepared]]In Egypt, the pest is primarily known as “Tuta,” while some growers refer to it as “the weevil” or “tomato weevil.” It is also sometimes confused with the pest commonly known in the field as “leaf miner,” although the latter name usually refers to leaf-mining flies belonging to the genus [[term:liriomyza]]Liriomyza[[/term]], not to Tuta absoluta."
         },
         {
           "type": "doc-paragraph",
-          "text": "Understanding the pest’s names is therefore directly related to correct diagnosis, because Tuta absoluta and leaf-mining flies differ in taxonomy, morphology, life cycle, damage sites, monitoring methods, and control programs."
+          "text": "Understanding the pest’s names is therefore directly related to correct diagnosis, because Tuta absoluta and leaf-mining flies differ in taxonomy, morphology, life cycle, damage sites, monitoring methods, and control programs.",
+          "prepared_text": "[[prepared]]Understanding the pest’s names is therefore directly related to correct diagnosis, because Tuta absoluta and leaf-mining flies differ in taxonomy, [[term:morphology]]morphology[[/term]], life cycle, damage sites, monitoring methods, and control programs."
         },
         {
           "type": "doc-heading",
@@ -42,7 +46,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The modern taxonomic scientific name of the insect is:"
+          "text": "The modern taxonomic scientific name of the insect is:",
+          "prepared_text": "[[prepared]]The modern taxonomic scientific name of the insect is:"
         },
         {
           "type": "doc-heading",
@@ -51,7 +56,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The name by which the pest has become widely known worldwide during recent decades is:"
+          "text": "The name by which the pest has become widely known worldwide during recent decades is:",
+          "prepared_text": "[[prepared]]The name by which the pest has become widely known worldwide during recent decades is:"
         },
         {
           "type": "doc-heading",
@@ -60,26 +66,34 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Both names refer to the same insect species, not to two different pests."
+          "text": "Both names refer to the same insect species, not to two different pests.",
+          "prepared_text": "[[prepared]]Both names refer to the same insect species, not to two different pests."
         },
         {
           "type": "doc-paragraph",
-          "text": "The name Tuta absoluta has been the most widely used in scientific research, extension publications, integrated pest management programs, pheromone traps, and biological control products. A recent taxonomic study subsequently reassigned the insect to the genus Phthorimaea, making its modern taxonomic name Phthorimaea absoluta. [1, 2]"
+          "text": "The name Tuta absoluta has been the most widely used in scientific research, extension publications, integrated pest management programs, pheromone traps, and biological control products. A recent taxonomic study subsequently reassigned the insect to the genus Phthorimaea, making its modern taxonomic name Phthorimaea absoluta. [1, 2]",
+          "prepared_text": "[[prepared]]The name Tuta absoluta has been the most widely used in scientific research, extension publications, [[term:ipm]]integrated pest management[[/term]] programs, [[term:pheromone-trap]]pheromone traps[[/term]], and biological control products. A recent taxonomic study subsequently reassigned the insect to the genus Phthorimaea, making its modern taxonomic name [[term:phthorimaea]]Phthorimaea absoluta[[/term]]. [1, 2]"
         },
         {
           "type": "doc-paragraph",
-          "text": "For this reason, the insect appears in references and databases under two forms:"
+          "text": "For this reason, the insect appears in references and databases under two forms:",
+          "prepared_text": "[[prepared]]For this reason, the insect appears in references and databases under two forms:"
         },
         {
           "type": "doc-list",
           "items": [
             "Phthorimaea absoluta.",
             "Tuta absoluta."
+          ],
+          "prepared_items": [
+            "[[prepared]]Phthorimaea absoluta.",
+            "[[prepared]]Tuta absoluta."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The name “Tuta absoluta” remains the best-known name among agricultural engineers, growers, and professionals involved in tomato production."
+          "text": "The name “Tuta absoluta” remains the best-known name among agricultural engineers, growers, and professionals involved in tomato production.",
+          "prepared_text": "[[prepared]]The name “Tuta absoluta” remains the best-known name among agricultural engineers, growers, and professionals involved in tomato production."
         },
         {
           "type": "doc-heading",
@@ -88,7 +102,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The scientific name consists of two parts:"
+          "text": "The scientific name consists of two parts:",
+          "prepared_text": "[[prepared]]The scientific name consists of two parts:"
         },
         {
           "type": "doc-heading",
@@ -102,7 +117,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It begins with a capital letter when written in Latin script."
+          "text": "It begins with a capital letter when written in Latin script.",
+          "prepared_text": "[[prepared]]It begins with a capital letter when written in Latin script."
         },
         {
           "type": "doc-heading",
@@ -116,11 +132,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It begins with a lowercase letter."
+          "text": "It begins with a lowercase letter.",
+          "prepared_text": "[[prepared]]It begins with a lowercase letter."
         },
         {
           "type": "doc-paragraph",
-          "text": "The genus and species names are written in italics:"
+          "text": "The genus and species names are written in italics:",
+          "prepared_text": "[[prepared]]The genus and species names are written in italics:"
         },
         {
           "type": "doc-heading",
@@ -129,7 +147,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The name of the scientist who described the species and the year of description are not italicized:"
+          "text": "The name of the scientist who described the species and the year of description are not italicized:",
+          "prepared_text": "[[prepared]]The name of the scientist who described the species and the year of description are not italicized:"
         },
         {
           "type": "doc-heading",
@@ -138,7 +157,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The author’s name appears in parentheses when the former name is written:"
+          "text": "The author’s name appears in parentheses when the former name is written:",
+          "prepared_text": "[[prepared]]The author’s name appears in parentheses when the former name is written:"
         },
         {
           "type": "doc-heading",
@@ -147,11 +167,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The parentheses indicate that the insect was not originally described within the genus Tuta, but was transferred to it after its original description."
+          "text": "The parentheses indicate that the insect was not originally described within the genus Tuta, but was transferred to it after its original description.",
+          "prepared_text": "[[prepared]]The parentheses indicate that the insect was not originally described within the genus Tuta, but was transferred to it after its original description."
         },
         {
           "type": "doc-paragraph",
-          "text": "After the full name has been written for the first time, it may be abbreviated as:"
+          "text": "After the full name has been written for the first time, it may be abbreviated as:",
+          "prepared_text": "[[prepared]]After the full name has been written for the first time, it may be abbreviated as:"
         },
         {
           "type": "doc-heading",
@@ -160,7 +182,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Or, in references using the widely recognized name:"
+          "text": "Or, in references using the widely recognized name:",
+          "prepared_text": "[[prepared]]Or, in references using the widely recognized name:"
         },
         {
           "type": "doc-heading",
@@ -174,11 +197,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The British entomologist Edward Meyrick described the insect in 1917 based on specimens collected from Peru in South America."
+          "text": "The British entomologist Edward Meyrick described the insect in 1917 based on specimens collected from Peru in South America.",
+          "prepared_text": "[[prepared]]The British entomologist Edward Meyrick described the insect in 1917 based on specimens collected from Peru in South America."
         },
         {
           "type": "doc-paragraph",
-          "text": "At the time of its original description, it was named:"
+          "text": "At the time of its original description, it was named:",
+          "prepared_text": "[[prepared]]At the time of its original description, it was named:"
         },
         {
           "type": "doc-heading",
@@ -187,11 +212,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It was subsequently reclassified several times as understanding of the relationships among genera in the tribe Gnorimoschemini within the family Gelechiidae changed."
+          "text": "It was subsequently reclassified several times as understanding of the relationships among genera in the tribe Gnorimoschemini within the family Gelechiidae changed.",
+          "prepared_text": "[[prepared]]It was subsequently reclassified several times as understanding of the relationships among genera in the tribe Gnorimoschemini within the family [[term:classification]]Gelechiidae[[/term]] changed."
         },
         {
           "type": "doc-paragraph",
-          "text": "Historically, the insect appeared under the following names:"
+          "text": "Historically, the insect appeared under the following names:",
+          "prepared_text": "[[prepared]]Historically, the insect appeared under the following names:"
         },
         {
           "type": "doc-list",
@@ -202,11 +229,20 @@
             "4. Scrobipalpuloides absoluta.",
             "5. Tuta absoluta.",
             "6. Phthorimaea absoluta once again."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Phthorimaea absoluta.",
+            "[[prepared]]2. Gnorimoschema absoluta.",
+            "[[prepared]]3. Scrobipalpula absoluta.",
+            "[[prepared]]4. Scrobipalpuloides absoluta.",
+            "[[prepared]]5. Tuta absoluta.",
+            "[[prepared]]6. Phthorimaea absoluta once again."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The name Tuta absoluta became widely used after the insect was reassigned to the genus Tuta in 1994. A morphological taxonomic analysis published in 2021 subsequently showed that the species belongs to a group that includes Phthorimaea operculella, the type species of the genus Phthorimaea. Accordingly, the insect was returned to its original genus. [1, 2]"
+          "text": "The name Tuta absoluta became widely used after the insect was reassigned to the genus Tuta in 1994. A morphological taxonomic analysis published in 2021 subsequently showed that the species belongs to a group that includes Phthorimaea operculella, the type species of the genus Phthorimaea. Accordingly, the insect was returned to its original genus. [1, 2]",
+          "prepared_text": "[[prepared]]The name Tuta absoluta became widely used after the insect was reassigned to the genus Tuta in 1994. A morphological taxonomic analysis published in 2021 subsequently showed that the species belongs to a group that includes Phthorimaea operculella, the type species of the genus Phthorimaea. Accordingly, the insect was returned to its original genus. [1, 2]"
         },
         {
           "type": "doc-heading",
@@ -215,7 +251,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "All the following names refer to the same pest:"
+          "text": "All the following names refer to the same pest:",
+          "prepared_text": "[[prepared]]All the following names refer to the same pest:"
         },
         {
           "type": "doc-table",
@@ -244,15 +281,43 @@
               "Scrobipalpuloides absoluta",
               "Former scientific name"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Scientific Name",
+            "[[prepared]]Taxonomic Status"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Phthorimaea absoluta Meyrick, 1917",
+              "[[prepared]]Modern taxonomic name"
+            ],
+            [
+              "[[prepared]]Tuta absoluta (Meyrick, 1917)",
+              "[[prepared]]Most widely recognized and commonly used name"
+            ],
+            [
+              "[[prepared]]Gnorimoschema absoluta",
+              "[[prepared]]Former scientific name"
+            ],
+            [
+              "[[prepared]]Scrobipalpula absoluta",
+              "[[prepared]]Former scientific name"
+            ],
+            [
+              "[[prepared]]Scrobipalpuloides absoluta",
+              "[[prepared]]Former scientific name"
+            ]
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "These names do not indicate the existence of different species; rather, they represent the successive stages through which the classification of the species has passed."
+          "text": "These names do not indicate the existence of different species; rather, they represent the successive stages through which the classification of the species has passed.",
+          "prepared_text": "[[prepared]]These names do not indicate the existence of different species; rather, they represent the successive stages through which the classification of the species has passed."
         },
         {
           "type": "doc-paragraph",
-          "text": "The former names are important when reviewing older studies, because some research on pest biology, distribution, and control was published before the name Tuta absoluta became widely adopted."
+          "text": "The former names are important when reviewing older studies, because some research on pest biology, distribution, and control was published before the name Tuta absoluta became widely adopted.",
+          "prepared_text": "[[prepared]]The former names are important when reviewing older studies, because some research on pest biology, distribution, and control was published before the name Tuta absoluta became widely adopted."
         },
         {
           "type": "doc-heading",
@@ -261,7 +326,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "In the database of the European and Mediterranean Plant Protection Organization, the insect is assigned the code:"
+          "text": "In the database of the European and Mediterranean Plant Protection Organization, the insect is assigned the code:",
+          "prepared_text": "[[prepared]]In the database of the European and Mediterranean Plant Protection Organization, the insect is assigned the code:"
         },
         {
           "type": "doc-heading",
@@ -270,7 +336,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The first part of this code is derived from the former name:"
+          "text": "The first part of this code is derived from the former name:",
+          "prepared_text": "[[prepared]]The first part of this code is derived from the former name:"
         },
         {
           "type": "doc-heading",
@@ -279,15 +346,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The code has remained unchanged despite the transfer of the insect among different genera."
+          "text": "The code has remained unchanged despite the transfer of the insect among different genera.",
+          "prepared_text": "[[prepared]]The code has remained unchanged despite the transfer of the insect among different genera."
         },
         {
           "type": "doc-paragraph",
-          "text": "This code makes it possible to link records of the same species within international databases regardless of changes in the scientific name."
+          "text": "This code makes it possible to link records of the same species within international databases regardless of changes in the scientific name.",
+          "prepared_text": "[[prepared]]This code makes it possible to link records of the same species within international databases regardless of changes in the scientific name."
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest appears in plant-protection databases under:"
+          "text": "The pest appears in plant-protection databases under:",
+          "prepared_text": "[[prepared]]The pest appears in plant-protection databases under:"
         },
         {
           "type": "doc-list",
@@ -295,6 +365,11 @@
             "Phthorimaea absoluta.",
             "Tuta absoluta.",
             "GNORAB. [1]"
+          ],
+          "prepared_items": [
+            "[[prepared]]Phthorimaea absoluta.",
+            "[[prepared]]Tuta absoluta.",
+            "[[prepared]][[term:eppo-code]]GNORAB[[/term]]. [1]"
           ]
         },
         {
@@ -309,7 +384,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The literal Arabic translation of this name is:"
+          "text": "The literal Arabic translation of this name is:",
+          "prepared_text": "[[prepared]]The literal Arabic translation of this name is:"
         },
         {
           "type": "doc-heading",
@@ -318,19 +394,23 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The name Tomato leafminer is used in many international references and publications concerning Tuta absoluta."
+          "text": "The name Tomato leafminer is used in many international references and publications concerning Tuta absoluta.",
+          "prepared_text": "[[prepared]]The name Tomato leafminer is used in many international references and publications concerning Tuta absoluta."
         },
         {
           "type": "doc-paragraph",
-          "text": "The name describes the ability of the larvae to enter between the two leaf layers and feed on internal tissues, resulting in the formation of mined blotches or tunnels."
+          "text": "The name describes the ability of the larvae to enter between the two leaf layers and feed on internal tissues, resulting in the formation of mined blotches or tunnels.",
+          "prepared_text": "[[prepared]]The name describes the ability of the larvae to enter between the two leaf layers and feed on internal tissues, resulting in the formation of mined blotches or tunnels."
         },
         {
           "type": "doc-paragraph",
-          "text": "However, the term Leafminer is not a taxonomic name specific to one species. It is a general description applied to any insect whose larvae feed within leaf tissues."
+          "text": "However, the term Leafminer is not a taxonomic name specific to one species. It is a general description applied to any insect whose larvae feed within leaf tissues.",
+          "prepared_text": "[[prepared]]However, the term Leafminer is not a taxonomic name specific to one species. It is a general description applied to any insect whose larvae feed within leaf tissues."
         },
         {
           "type": "doc-paragraph",
-          "text": "Different insect species may therefore carry the name Leafminer while belonging to widely separated orders and families."
+          "text": "Different insect species may therefore carry the name Leafminer while belonging to widely separated orders and families.",
+          "prepared_text": "[[prepared]]Different insect species may therefore carry the name Leafminer while belonging to widely separated orders and families."
         },
         {
           "type": "doc-heading",
@@ -339,7 +419,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This means:"
+          "text": "This means:",
+          "prepared_text": "[[prepared]]This means:"
         },
         {
           "type": "doc-heading",
@@ -348,7 +429,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Or:"
+          "text": "Or:",
+          "prepared_text": "[[prepared]]Or:"
         },
         {
           "type": "doc-heading",
@@ -357,18 +439,24 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The name links:"
+          "text": "The name links:",
+          "prepared_text": "[[prepared]]The name links:"
         },
         {
           "type": "doc-list",
           "items": [
             "The pest’s region of origin in South America.",
             "The larva’s mining behavior within tomato leaves."
+          ],
+          "prepared_items": [
+            "[[prepared]]The pest’s region of origin in South America.",
+            "[[prepared]]The larva’s mining behavior within tomato leaves."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The descriptor South American reduces confusion with other leaf-mining species."
+          "text": "The descriptor South American reduces confusion with other leaf-mining species.",
+          "prepared_text": "[[prepared]]The descriptor South American reduces confusion with other leaf-mining species."
         },
         {
           "type": "doc-heading",
@@ -377,7 +465,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This means:"
+          "text": "This means:",
+          "prepared_text": "[[prepared]]This means:"
         },
         {
           "type": "doc-heading",
@@ -386,11 +475,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The name combines the form of the adult insect with the nature of larval damage."
+          "text": "The name combines the form of the adult insect with the nature of larval damage.",
+          "prepared_text": "[[prepared]]The name combines the form of the adult insect with the nature of larval damage."
         },
         {
           "type": "doc-paragraph",
-          "text": "The adult insect is a small moth, whereas the larva is the stage that enters plant tissues and forms mines."
+          "text": "The adult insect is a small moth, whereas the larva is the stage that enters plant tissues and forms mines.",
+          "prepared_text": "[[prepared]]The adult insect is a small moth, whereas the larva is the stage that enters plant tissues and forms mines."
         },
         {
           "type": "doc-heading",
@@ -399,7 +490,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This means:"
+          "text": "This means:",
+          "prepared_text": "[[prepared]]This means:"
         },
         {
           "type": "doc-heading",
@@ -408,7 +500,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It indicates that the insect:"
+          "text": "It indicates that the insect:",
+          "prepared_text": "[[prepared]]It indicates that the insect:"
         },
         {
           "type": "doc-list",
@@ -416,11 +509,17 @@
             "Is a small moth belonging to the order Lepidoptera.",
             "Originated in South America.",
             "Is economically associated with tomato crops."
+          ],
+          "prepared_items": [
+            "[[prepared]]Is a small moth belonging to the order Lepidoptera.",
+            "[[prepared]]Originated in South America.",
+            "[[prepared]]Is economically associated with tomato crops."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This name is more accurate than the word “butterfly” when describing the adult insect, because the insect belongs to the group of small moths."
+          "text": "This name is more accurate than the word “butterfly” when describing the adult insect, because the insect belongs to the group of small moths.",
+          "prepared_text": "[[prepared]]This name is more accurate than the word “butterfly” when describing the adult insect, because the insect belongs to the group of small moths."
         },
         {
           "type": "doc-heading",
@@ -429,7 +528,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This means:"
+          "text": "This means:",
+          "prepared_text": "[[prepared]]This means:"
         },
         {
           "type": "doc-heading",
@@ -438,11 +538,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This name reflects the fact that the damage caused by Tuta absoluta is not restricted to leaves."
+          "text": "This name reflects the fact that the damage caused by Tuta absoluta is not restricted to leaves.",
+          "prepared_text": "[[prepared]]This name reflects the fact that the damage caused by Tuta absoluta is not restricted to leaves."
         },
         {
           "type": "doc-paragraph",
-          "text": "The larvae can attack:"
+          "text": "The larvae can attack:",
+          "prepared_text": "[[prepared]]The larvae can attack:"
         },
         {
           "type": "doc-list",
@@ -453,11 +555,20 @@
             "Stems.",
             "Calyces.",
             "Fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves.",
+            "[[prepared]]Leaf petioles.",
+            "[[prepared]]Growing points.",
+            "[[prepared]]Stems.",
+            "[[prepared]]Calyces.",
+            "[[prepared]]Fruits."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The name Tomato borer describes the boring behavior within the plant more broadly than the name Tomato leafminer."
+          "text": "The name Tomato borer describes the boring behavior within the plant more broadly than the name Tomato leafminer.",
+          "prepared_text": "[[prepared]]The name Tomato borer describes the boring behavior within the plant more broadly than the name Tomato leafminer."
         },
         {
           "type": "doc-heading",
@@ -466,7 +577,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The name Tomato pinworm appears in some references associated with Tuta absoluta, but this name is also used primarily for another pest:"
+          "text": "The name Tomato pinworm appears in some references associated with Tuta absoluta, but this name is also used primarily for another pest:",
+          "prepared_text": "[[prepared]]The name Tomato pinworm appears in some references associated with Tuta absoluta, but this name is also used primarily for another pest:"
         },
         {
           "type": "doc-heading",
@@ -475,11 +587,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Both pests belong to the family Gelechiidae, and the larvae of both can damage tomato leaves and fruits, but they are two different species. [4]"
+          "text": "Both pests belong to the family Gelechiidae, and the larvae of both can damage tomato leaves and fruits, but they are two different species. [4]",
+          "prepared_text": "[[prepared]]Both pests belong to the family Gelechiidae, and the larvae of both can damage tomato leaves and fruits, but they are two different species. [4]"
         },
         {
           "type": "doc-paragraph",
-          "text": "Therefore, the name Tomato pinworm alone does not establish the identity of the pest unless the scientific name is also stated."
+          "text": "Therefore, the name Tomato pinworm alone does not establish the identity of the pest unless the scientific name is also stated.",
+          "prepared_text": "[[prepared]]Therefore, the name Tomato pinworm alone does not establish the identity of the pest unless the scientific name is also stated."
         },
         {
           "type": "doc-heading",
@@ -488,7 +602,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This means:"
+          "text": "This means:",
+          "prepared_text": "[[prepared]]This means:"
         },
         {
           "type": "doc-heading",
@@ -497,22 +612,29 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The phrase South American is added to distinguish Tuta absoluta from other pests known as Tomato pinworm."
+          "text": "The phrase South American is added to distinguish Tuta absoluta from other pests known as Tomato pinworm.",
+          "prepared_text": "[[prepared]]The phrase South American is added to distinguish Tuta absoluta from other pests known as Tomato pinworm."
         },
         {
           "type": "doc-paragraph",
-          "text": "Nevertheless, the names:"
+          "text": "Nevertheless, the names:",
+          "prepared_text": "[[prepared]]Nevertheless, the names:"
         },
         {
           "type": "doc-list",
           "items": [
             "Tuta absoluta.",
             "South American tomato moth."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tuta absoluta.",
+            "[[prepared]]South American tomato moth."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Remain clearer when referring to this pest."
+          "text": "Remain clearer when referring to this pest.",
+          "prepared_text": "[[prepared]]Remain clearer when referring to this pest."
         },
         {
           "type": "doc-heading",
@@ -521,7 +643,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest has spread across large areas of the world and has acquired different local names."
+          "text": "The pest has spread across large areas of the world and has acquired different local names.",
+          "prepared_text": "[[prepared]]The pest has spread across large areas of the world and has acquired different local names."
         },
         {
           "type": "doc-table",
@@ -596,11 +719,84 @@
               "Domates güvesi",
               "Tomato moth"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Language",
+            "[[prepared]]Common Name",
+            "[[prepared]]Approximate Meaning"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]English",
+              "[[prepared]]Tomato leafminer",
+              "[[prepared]]Tomato leaf miner"
+            ],
+            [
+              "[[prepared]]English",
+              "[[prepared]]South American tomato moth",
+              "[[prepared]]South American tomato moth"
+            ],
+            [
+              "[[prepared]]English",
+              "[[prepared]]Tomato borer",
+              "[[prepared]]Tomato borer"
+            ],
+            [
+              "[[prepared]]French",
+              "[[prepared]]Mineuse de la tomate",
+              "[[prepared]]Tomato leaf miner"
+            ],
+            [
+              "[[prepared]]Spanish",
+              "[[prepared]]Polilla del tomate",
+              "[[prepared]]Tomato moth"
+            ],
+            [
+              "[[prepared]]Spanish",
+              "[[prepared]]Minador del tomate",
+              "[[prepared]]Tomato leaf miner"
+            ],
+            [
+              "[[prepared]]Spanish",
+              "[[prepared]]Gusano minador del tomate",
+              "[[prepared]]Tomato-mining larva"
+            ],
+            [
+              "[[prepared]]Spanish",
+              "[[prepared]]Cogollero del tomate",
+              "[[prepared]]Tomato growing-point borer"
+            ],
+            [
+              "[[prepared]]Italian",
+              "[[prepared]]Tignola del pomodoro",
+              "[[prepared]]Tomato moth"
+            ],
+            [
+              "[[prepared]]Portuguese",
+              "[[prepared]]Traça-do-tomateiro",
+              "[[prepared]]Tomato-plant moth"
+            ],
+            [
+              "[[prepared]]German",
+              "[[prepared]]Tomatenminiermotte",
+              "[[prepared]]Tomato-mining moth"
+            ],
+            [
+              "[[prepared]]Dutch",
+              "[[prepared]]Tomatenmineermot",
+              "[[prepared]]Tomato-mining moth"
+            ],
+            [
+              "[[prepared]]Turkish",
+              "[[prepared]]Domates güvesi",
+              "[[prepared]]Tomato moth"
+            ]
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "These names revolve around three principal elements:"
+          "text": "These names revolve around three principal elements:",
+          "prepared_text": "[[prepared]]These names revolve around three principal elements:"
         },
         {
           "type": "doc-list",
@@ -608,6 +804,11 @@
             "1. Tomato as the principal economic host.",
             "2. Mining or boring within tissues as the larval feeding behavior.",
             "3. The moth as the form of the adult insect."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Tomato as the [[term:host-plant]]principal economic host[[/term]].",
+            "[[prepared]]2. Mining or boring within tissues as the larval feeding behavior.",
+            "[[prepared]]3. The moth as the form of the adult insect."
           ]
         },
         {
@@ -617,7 +818,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest appears in Arabic references under several names, including:"
+          "text": "The pest appears in Arabic references under several names, including:",
+          "prepared_text": "[[prepared]]The pest appears in Arabic references under several names, including:"
         },
         {
           "type": "doc-list",
@@ -630,23 +832,37 @@
             "South American tomato moth.",
             "South American tomato butterfly.",
             "Tomato leaf miner."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tuta absoluta.",
+            "[[prepared]]Tomato leaf and fruit borer.",
+            "[[prepared]]Tomato leaf and fruit miner.",
+            "[[prepared]]Tomato miner.",
+            "[[prepared]]Tomato borer.",
+            "[[prepared]]South American tomato moth.",
+            "[[prepared]]South American tomato butterfly.",
+            "[[prepared]]Tomato leaf miner."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The name:"
+          "text": "The name:",
+          "prepared_text": "[[prepared]]The name:"
         },
         {
           "type": "doc-paragraph",
-          "text": "> Tuta absoluta — Tomato leaf and fruit borer"
+          "text": "> Tuta absoluta — Tomato leaf and fruit borer",
+          "prepared_text": "[[prepared]]> Tuta absoluta — Tomato leaf and fruit borer"
         },
         {
           "type": "doc-paragraph",
-          "text": "Is among the names that most clearly express both the identity of the pest and the nature of its damage."
+          "text": "Is among the names that most clearly express both the identity of the pest and the nature of its damage.",
+          "prepared_text": "[[prepared]]Is among the names that most clearly express both the identity of the pest and the nature of its damage."
         },
         {
           "type": "doc-paragraph",
-          "text": "The term “Tuta absoluta” identifies the insect species, while the description “Tomato leaf and fruit borer” clarifies that the damage is not restricted to leaves alone."
+          "text": "The term “Tuta absoluta” identifies the insect species, while the description “Tomato leaf and fruit borer” clarifies that the damage is not restricted to leaves alone.",
+          "prepared_text": "[[prepared]]The term “Tuta absoluta” identifies the insect species, while the description “Tomato leaf and fruit borer” clarifies that the damage is not restricted to leaves alone."
         },
         {
           "type": "doc-heading",
@@ -655,7 +871,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The name “Tuta absoluta” is the phonetic rendering of the widely recognized scientific name:"
+          "text": "The name “Tuta absoluta” is the phonetic rendering of the widely recognized scientific name:",
+          "prepared_text": "[[prepared]]The name “Tuta absoluta” is the phonetic rendering of the widely recognized scientific name:"
         },
         {
           "type": "doc-heading",
@@ -664,11 +881,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This name has the advantage of directly identifying the pest without confusing it with other mining insects."
+          "text": "This name has the advantage of directly identifying the pest without confusing it with other mining insects.",
+          "prepared_text": "[[prepared]]This name has the advantage of directly identifying the pest without confusing it with other mining insects."
         },
         {
           "type": "doc-paragraph",
-          "text": "It is widely used in:"
+          "text": "It is widely used in:",
+          "prepared_text": "[[prepared]]It is widely used in:"
         },
         {
           "type": "doc-list",
@@ -681,6 +900,16 @@
             "Pheromone traps.",
             "Biological control programs.",
             "Pesticide and seed companies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Scientific research.",
+            "[[prepared]]Agricultural extension publications.",
+            "[[prepared]]Field-visit reports.",
+            "[[prepared]]Control programs.",
+            "[[prepared]]Trap records.",
+            "[[prepared]]Pheromone traps.",
+            "[[prepared]]Biological control programs.",
+            "[[prepared]]Pesticide and seed companies."
           ]
         },
         {
@@ -690,11 +919,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This name describes the principal sites of damage caused by the larvae."
+          "text": "This name describes the principal sites of damage caused by the larvae.",
+          "prepared_text": "[[prepared]]This name describes the principal sites of damage caused by the larvae."
         },
         {
           "type": "doc-paragraph",
-          "text": "They often begin feeding inside leaves and may subsequently attack:"
+          "text": "They often begin feeding inside leaves and may subsequently attack:",
+          "prepared_text": "[[prepared]]They often begin feeding inside leaves and may subsequently attack:"
         },
         {
           "type": "doc-list",
@@ -705,11 +936,20 @@
             "Flowers.",
             "Calyces.",
             "Green and ripe fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Growing points.",
+            "[[prepared]]Leaf petioles.",
+            "[[prepared]]Stems.",
+            "[[prepared]]Flowers.",
+            "[[prepared]]Calyces.",
+            "[[prepared]]Green and ripe fruits."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This name reflects the economic severity of the pest because fruit infestation causes direct loss of marketable or processable yield."
+          "text": "This name reflects the economic severity of the pest because fruit infestation causes direct loss of marketable or processable yield.",
+          "prepared_text": "[[prepared]]This name reflects the economic severity of the pest because fruit infestation causes direct loss of marketable or processable yield."
         },
         {
           "type": "doc-heading",
@@ -718,7 +958,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This name is the literal translation of:"
+          "text": "This name is the literal translation of:",
+          "prepared_text": "[[prepared]]This name is the literal translation of:"
         },
         {
           "type": "doc-heading",
@@ -727,15 +968,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It describes the mines or mined blotches formed by the larvae within leaves."
+          "text": "It describes the mines or mined blotches formed by the larvae within leaves.",
+          "prepared_text": "[[prepared]]It describes the mines or mined blotches formed by the larvae within leaves."
         },
         {
           "type": "doc-paragraph",
-          "text": "However, this name may cause confusion in Egyptian field usage because the terms “leaf miner” or “leaf-miner” are commonly used to refer to leaf-mining flies of the genus Liriomyza."
+          "text": "However, this name may cause confusion in Egyptian field usage because the terms “leaf miner” or “leaf-miner” are commonly used to refer to leaf-mining flies of the genus Liriomyza.",
+          "prepared_text": "[[prepared]]However, this name may cause confusion in Egyptian field usage because the terms “leaf miner” or “leaf-miner” are commonly used to refer to leaf-mining flies of the genus Liriomyza."
         },
         {
           "type": "doc-paragraph",
-          "text": "Furthermore, describing Tuta absoluta only as a leaf miner does not include its damage to stems, growing points, and fruits."
+          "text": "Furthermore, describing Tuta absoluta only as a leaf miner does not include its damage to stems, growing points, and fruits.",
+          "prepared_text": "[[prepared]]Furthermore, describing Tuta absoluta only as a leaf miner does not include its damage to stems, growing points, and fruits."
         },
         {
           "type": "doc-heading",
@@ -744,11 +988,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This name describes the larva’s behavior within the tomato plant in general, but by itself it does not identify the pest species because tomatoes are attacked by several insects that may bore or mine inside leaves, stems, or fruits."
+          "text": "This name describes the larva’s behavior within the tomato plant in general, but by itself it does not identify the pest species because tomatoes are attacked by several insects that may bore or mine inside leaves, stems, or fruits.",
+          "prepared_text": "[[prepared]]This name describes the larva’s behavior within the tomato plant in general, but by itself it does not identify the pest species because tomatoes are attacked by several insects that may bore or mine inside leaves, stems, or fruits."
         },
         {
           "type": "doc-paragraph",
-          "text": "The specific name should therefore always be linked to Tuta absoluta:"
+          "text": "The specific name should therefore always be linked to Tuta absoluta:",
+          "prepared_text": "[[prepared]]The specific name should therefore always be linked to Tuta absoluta:"
         },
         {
           "type": "doc-heading",
@@ -762,11 +1008,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This name describes both the adult insect and its region of origin."
+          "text": "This name describes both the adult insect and its region of origin.",
+          "prepared_text": "[[prepared]]This name describes both the adult insect and its region of origin."
         },
         {
           "type": "doc-paragraph",
-          "text": "The adult is a small moth belonging to the family Gelechiidae, while South America is its native region before its spread into Europe, Africa, Asia, and the Middle East."
+          "text": "The adult is a small moth belonging to the family Gelechiidae, while South America is its native region before its spread into Europe, Africa, Asia, and the Middle East.",
+          "prepared_text": "[[prepared]]The adult is a small moth belonging to the family Gelechiidae, while South America is its native region before its spread into Europe, Africa, Asia, and the Middle East."
         },
         {
           "type": "doc-heading",
@@ -780,11 +1028,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "“Tuta” is the most widely used name among growers and agricultural engineers in Egypt."
+          "text": "“Tuta” is the most widely used name among growers and agricultural engineers in Egypt.",
+          "prepared_text": "[[prepared]]“Tuta” is the most widely used name among growers and agricultural engineers in Egypt."
         },
         {
           "type": "doc-paragraph",
-          "text": "It is an abbreviation of the name:"
+          "text": "It is an abbreviation of the name:",
+          "prepared_text": "[[prepared]]It is an abbreviation of the name:"
         },
         {
           "type": "doc-heading",
@@ -793,7 +1043,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Common field expressions include:"
+          "text": "Common field expressions include:",
+          "prepared_text": "[[prepared]]Common field expressions include:"
         },
         {
           "type": "doc-list",
@@ -806,11 +1057,22 @@
             "Tuta pheromone.",
             "Tuta count.",
             "Tuta control program."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tuta infestation.",
+            "[[prepared]]Tuta moth.",
+            "[[prepared]]Tuta larva.",
+            "[[prepared]]Tuta eggs.",
+            "[[prepared]]Tuta trap.",
+            "[[prepared]]Tuta pheromone.",
+            "[[prepared]]Tuta count.",
+            "[[prepared]]Tuta control program."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The name “Tuta” refers to the pest in all of its stages, although each stage has a different function:"
+          "text": "The name “Tuta” refers to the pest in all of its stages, although each stage has a different function:",
+          "prepared_text": "[[prepared]]The name “Tuta” refers to the pest in all of its stages, although each stage has a different function:"
         },
         {
           "type": "doc-list",
@@ -819,6 +1081,12 @@
             "The larva causes damage.",
             "The pupa is the transformation stage.",
             "The adult moth is responsible for mating, dispersal, and egg laying."
+          ],
+          "prepared_items": [
+            "[[prepared]]The egg represents the beginning of the generation.",
+            "[[prepared]]The larva causes damage.",
+            "[[prepared]]The [[term:pupation]]pupa[[/term]] is the transformation stage.",
+            "[[prepared]]The adult moth is responsible for mating, dispersal, and egg laying."
           ]
         },
         {
@@ -828,11 +1096,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The expression “Tuta butterfly” is used to refer to the winged adult insect."
+          "text": "The expression “Tuta butterfly” is used to refer to the winged adult insect.",
+          "prepared_text": "[[prepared]]The expression “Tuta butterfly” is used to refer to the winged adult insect."
         },
         {
           "type": "doc-paragraph",
-          "text": "The more accurate entomological term is:"
+          "text": "The more accurate entomological term is:",
+          "prepared_text": "[[prepared]]The more accurate entomological term is:"
         },
         {
           "type": "doc-heading",
@@ -841,11 +1111,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Because the adult insect is small and belongs to the moth group."
+          "text": "Because the adult insect is small and belongs to the moth group.",
+          "prepared_text": "[[prepared]]Because the adult insect is small and belongs to the moth group."
         },
         {
           "type": "doc-paragraph",
-          "text": "The adult moth does not mine into leaves or fruits; it mates and lays eggs. Direct damage begins after the eggs hatch and the larvae emerge."
+          "text": "The adult moth does not mine into leaves or fruits; it mates and lays eggs. Direct damage begins after the eggs hatch and the larvae emerge.",
+          "prepared_text": "[[prepared]]The adult moth does not mine into leaves or fruits; it mates and lays eggs. Direct damage begins after the eggs hatch and the larvae emerge."
         },
         {
           "type": "doc-heading",
@@ -854,11 +1126,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Growers use the expression “Tuta worm” for the stage found inside leaves or fruits."
+          "text": "Growers use the expression “Tuta worm” for the stage found inside leaves or fruits.",
+          "prepared_text": "[[prepared]]Growers use the expression “Tuta worm” for the stage found inside leaves or fruits."
         },
         {
           "type": "doc-paragraph",
-          "text": "The scientific name for this stage is:"
+          "text": "The scientific name for this stage is:",
+          "prepared_text": "[[prepared]]The scientific name for this stage is:"
         },
         {
           "type": "doc-heading",
@@ -867,7 +1141,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It is the stage responsible for:"
+          "text": "It is the stage responsible for:",
+          "prepared_text": "[[prepared]]It is the stage responsible for:"
         },
         {
           "type": "doc-list",
@@ -877,6 +1152,13 @@
             "Penetrating fruits.",
             "Producing holes and frass.",
             "Opening entry points for secondary rots."
+          ],
+          "prepared_items": [
+            "[[prepared]]Forming mines in leaves.",
+            "[[prepared]]Boring into growing points and stems.",
+            "[[prepared]]Penetrating fruits.",
+            "[[prepared]]Producing holes and [[term:frass]]frass[[/term]].",
+            "[[prepared]]Opening entry points for secondary rots."
           ]
         },
         {
@@ -886,11 +1168,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The name “tomato miner” is used in Egyptian extension and technical reports and describes the feeding behavior of larvae within plant tissues."
+          "text": "The name “tomato miner” is used in Egyptian extension and technical reports and describes the feeding behavior of larvae within plant tissues.",
+          "prepared_text": "[[prepared]]The name “tomato miner” is used in Egyptian extension and technical reports and describes the feeding behavior of larvae within plant tissues."
         },
         {
           "type": "doc-paragraph",
-          "text": "These larvae differ from larvae that feed openly on the leaf surface because they spend a large part of their feeding period protected within:"
+          "text": "These larvae differ from larvae that feed openly on the leaf surface because they spend a large part of their feeding period protected within:",
+          "prepared_text": "[[prepared]]These larvae differ from larvae that feed openly on the leaf surface because they spend a large part of their feeding period protected within:"
         },
         {
           "type": "doc-list",
@@ -899,6 +1183,12 @@
             "The stem.",
             "The growing point.",
             "The fruit."
+          ],
+          "prepared_items": [
+            "[[prepared]]The leaf.",
+            "[[prepared]]The stem.",
+            "[[prepared]]The growing point.",
+            "[[prepared]]The fruit."
           ]
         },
         {
@@ -908,7 +1198,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Some growers refer to Tuta absoluta as:"
+          "text": "Some growers refer to Tuta absoluta as:",
+          "prepared_text": "[[prepared]]Some growers refer to Tuta absoluta as:"
         },
         {
           "type": "doc-list",
@@ -916,19 +1207,27 @@
             "The weevil.",
             "Tomato weevil.",
             "Fruit weevil."
+          ],
+          "prepared_items": [
+            "[[prepared]]The weevil.",
+            "[[prepared]]Tomato weevil.",
+            "[[prepared]]Fruit weevil."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Particularly when they observe holes or larvae inside the fruits."
+          "text": "Particularly when they observe holes or larvae inside the fruits.",
+          "prepared_text": "[[prepared]]Particularly when they observe holes or larvae inside the fruits."
         },
         {
           "type": "doc-paragraph",
-          "text": "This is a popular name that does not reflect the true taxonomic classification of the pest."
+          "text": "This is a popular name that does not reflect the true taxonomic classification of the pest.",
+          "prepared_text": "[[prepared]]This is a popular name that does not reflect the true taxonomic classification of the pest."
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta belongs to:"
+          "text": "Tuta absoluta belongs to:",
+          "prepared_text": "[[prepared]]Tuta absoluta belongs to:"
         },
         {
           "type": "doc-heading",
@@ -937,11 +1236,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The order that includes moths and butterflies."
+          "text": "The order that includes moths and butterflies.",
+          "prepared_text": "[[prepared]]The order that includes moths and butterflies."
         },
         {
           "type": "doc-paragraph",
-          "text": "True weevils belong to:"
+          "text": "True weevils belong to:",
+          "prepared_text": "[[prepared]]True weevils belong to:"
         },
         {
           "type": "doc-heading",
@@ -950,7 +1251,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The order that includes beetles and weevils."
+          "text": "The order that includes beetles and weevils.",
+          "prepared_text": "[[prepared]]The order that includes beetles and weevils."
         },
         {
           "type": "doc-table",
@@ -985,11 +1287,44 @@
               "Tuta",
               "Weevil"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Characteristic",
+            "[[prepared]]Tuta absoluta",
+            "[[prepared]]True Weevils"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Order",
+              "[[prepared]]Lepidoptera",
+              "[[prepared]]Coleoptera"
+            ],
+            [
+              "[[prepared]]Adult insect",
+              "[[prepared]]Small moth",
+              "[[prepared]]Beetle"
+            ],
+            [
+              "[[prepared]]Damaging stage",
+              "[[prepared]]Lepidopteran larva",
+              "[[prepared]]Varies according to species"
+            ],
+            [
+              "[[prepared]]Forewings",
+              "[[prepared]]Membranous and covered with scales",
+              "[[prepared]]Usually hardened"
+            ],
+            [
+              "[[prepared]]Field name",
+              "[[prepared]]Tuta",
+              "[[prepared]]Weevil"
+            ]
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Accordingly, Tuta absoluta is not a true weevil, even if this name is used for it in some agricultural areas."
+          "text": "Accordingly, Tuta absoluta is not a true weevil, even if this name is used for it in some agricultural areas.",
+          "prepared_text": "[[prepared]]Accordingly, Tuta absoluta is not a true weevil, even if this name is used for it in some agricultural areas."
         },
         {
           "type": "doc-heading",
@@ -1003,7 +1338,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The term:"
+          "text": "The term:",
+          "prepared_text": "[[prepared]]The term:"
         },
         {
           "type": "doc-heading",
@@ -1012,19 +1348,23 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Literally means:"
+          "text": "Literally means:",
+          "prepared_text": "[[prepared]]Literally means:"
         },
         {
           "type": "doc-paragraph",
-          "text": "An insect that produces mines in leaves or a leaf-mining insect."
+          "text": "An insect that produces mines in leaves or a leaf-mining insect.",
+          "prepared_text": "[[prepared]]An insect that produces mines in leaves or a leaf-mining insect."
         },
         {
           "type": "doc-paragraph",
-          "text": "It is not the scientific name of a single insect species, but a description of the way in which a larva feeds inside leaf tissue."
+          "text": "It is not the scientific name of a single insect species, but a description of the way in which a larva feeds inside leaf tissue.",
+          "prepared_text": "[[prepared]]It is not the scientific name of a single insect species, but a description of the way in which a larva feeds inside leaf tissue."
         },
         {
           "type": "doc-paragraph",
-          "text": "The mining insect may be:"
+          "text": "The mining insect may be:",
+          "prepared_text": "[[prepared]]The mining insect may be:"
         },
         {
           "type": "doc-list",
@@ -1033,11 +1373,18 @@
             "A moth.",
             "A beetle.",
             "An insect belonging to another order."
+          ],
+          "prepared_items": [
+            "[[prepared]]A fly.",
+            "[[prepared]]A moth.",
+            "[[prepared]]A beetle.",
+            "[[prepared]]An insect belonging to another order."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Therefore, the presence of a mine within a leaf is not sufficient by itself to identify the insect species."
+          "text": "Therefore, the presence of a mine within a leaf is not sufficient by itself to identify the insect species.",
+          "prepared_text": "[[prepared]]Therefore, the presence of a mine within a leaf is not sufficient by itself to identify the insect species."
         },
         {
           "type": "doc-heading",
@@ -1046,7 +1393,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "When the name “leaf miner” is used in Egyptian tomato fields, it usually refers to:"
+          "text": "When the name “leaf miner” is used in Egyptian tomato fields, it usually refers to:",
+          "prepared_text": "[[prepared]]When the name “leaf miner” is used in Egyptian tomato fields, it usually refers to:"
         },
         {
           "type": "doc-heading",
@@ -1055,7 +1403,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Known species within this genus include:"
+          "text": "Known species within this genus include:",
+          "prepared_text": "[[prepared]]Known species within this genus include:"
         },
         {
           "type": "doc-list",
@@ -1063,26 +1412,38 @@
             "Liriomyza trifolii.",
             "Liriomyza sativae.",
             "Liriomyza bryoniae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Liriomyza trifolii.",
+            "[[prepared]]Liriomyza sativae.",
+            "[[prepared]]Liriomyza bryoniae."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "These insects belong to:"
+          "text": "These insects belong to:",
+          "prepared_text": "[[prepared]]These insects belong to:"
         },
         {
           "type": "doc-list",
           "items": [
             "Order Diptera.",
             "Family Agromyzidae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Order Diptera.",
+            "[[prepared]]Family Agromyzidae."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The adult is a small fly, usually black and yellow, while the larva lacks visible legs and resembles a small white or yellow maggot."
+          "text": "The adult is a small fly, usually black and yellow, while the larva lacks visible legs and resembles a small white or yellow maggot.",
+          "prepared_text": "[[prepared]]The adult is a small fly, usually black and yellow, while the larva lacks visible legs and resembles a small white or yellow maggot."
         },
         {
           "type": "doc-paragraph",
-          "text": "The larvae of Liriomyza form thin, winding, or serpentine mines within leaves. [3]"
+          "text": "The larvae of Liriomyza form thin, winding, or serpentine mines within leaves. [3]",
+          "prepared_text": "[[prepared]]The larvae of Liriomyza form thin, winding, or serpentine mines within leaves. [3]"
         },
         {
           "type": "doc-heading",
@@ -1091,22 +1452,29 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta belongs to:"
+          "text": "Tuta absoluta belongs to:",
+          "prepared_text": "[[prepared]]Tuta absoluta belongs to:"
         },
         {
           "type": "doc-list",
           "items": [
             "Order Lepidoptera.",
             "Family Gelechiidae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Order Lepidoptera.",
+            "[[prepared]]Family Gelechiidae."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The adult insect is a small moth, not a fly."
+          "text": "The adult insect is a small moth, not a fly.",
+          "prepared_text": "[[prepared]]The adult insect is a small moth, not a fly."
         },
         {
           "type": "doc-paragraph",
-          "text": "The larva is a lepidopteran larva with:"
+          "text": "The larva is a lepidopteran larva with:",
+          "prepared_text": "[[prepared]]The larva is a lepidopteran larva with:"
         },
         {
           "type": "doc-list",
@@ -1115,11 +1483,18 @@
             "Thoracic legs.",
             "Abdominal prolegs.",
             "A body whose color changes with age."
+          ],
+          "prepared_items": [
+            "[[prepared]]A distinct head.",
+            "[[prepared]]Thoracic legs.",
+            "[[prepared]]Abdominal prolegs.",
+            "[[prepared]]A body whose color changes with age."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The larvae usually form broad, blotch-like, and irregular mines within leaves, and dark frass may be present inside the mine. They can also move from leaves to stems, growing points, and fruits. [5]"
+          "text": "The larvae usually form broad, blotch-like, and irregular mines within leaves, and dark frass may be present inside the mine. They can also move from leaves to stems, growing points, and fruits. [5]",
+          "prepared_text": "[[prepared]]The larvae usually form broad, blotch-like, and irregular mines within leaves, and dark frass may be present inside the mine. They can also move from leaves to stems, growing points, and fruits. [5]"
         },
         {
           "type": "doc-heading",
@@ -1189,6 +1564,68 @@
               "Moth",
               "Fly"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Comparison",
+            "[[prepared]]Tuta absoluta",
+            "[[prepared]]Liriomyza Leaf Miner"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Scientific name",
+              "[[prepared]]Phthorimaea absoluta",
+              "[[prepared]]Liriomyza spp."
+            ],
+            [
+              "[[prepared]]Field name",
+              "[[prepared]]Tuta",
+              "[[prepared]]Leaf miner or leaf-mining flies"
+            ],
+            [
+              "[[prepared]]Order",
+              "[[prepared]]Lepidoptera",
+              "[[prepared]]Diptera"
+            ],
+            [
+              "[[prepared]]Adult insect",
+              "[[prepared]]Small moth",
+              "[[prepared]]Small fly"
+            ],
+            [
+              "[[prepared]]Larval form",
+              "[[prepared]]Lepidopteran larva with a head and legs",
+              "[[prepared]]Legless fly larva"
+            ],
+            [
+              "[[prepared]]Mine shape",
+              "[[prepared]]Usually blotch-like, broad, and irregular",
+              "[[prepared]]Usually narrow, winding, or serpentine"
+            ],
+            [
+              "[[prepared]]Frass",
+              "[[prepared]]Accumulates within parts of the mine",
+              "[[prepared]]Appears as a line or dots within the mine track"
+            ],
+            [
+              "[[prepared]]Infested parts",
+              "[[prepared]]Leaves, stems, growing points, and fruits",
+              "[[prepared]]Primarily leaves"
+            ],
+            [
+              "[[prepared]]Fruit infestation",
+              "[[prepared]]Common and economically important",
+              "[[prepared]]Not a typical form of damage"
+            ],
+            [
+              "[[prepared]]Pheromone trap",
+              "[[prepared]]Used for Tuta",
+              "[[prepared]]Tuta pheromone is not used"
+            ],
+            [
+              "[[prepared]]Adult form",
+              "[[prepared]]Moth",
+              "[[prepared]]Fly"
+            ]
           ]
         },
         {
@@ -1198,7 +1635,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta infestation may begin as a narrow mine and then expand as the larva grows, becoming:"
+          "text": "Tuta infestation may begin as a narrow mine and then expand as the larva grows, becoming:",
+          "prepared_text": "[[prepared]]Tuta infestation may begin as a narrow mine and then expand as the larva grows, becoming:"
         },
         {
           "type": "doc-list",
@@ -1208,15 +1646,24 @@
             "An irregular white or gray area.",
             "A blotch containing dark frass.",
             "Dry brown tissue in old infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]A translucent blotch.",
+            "[[prepared]]A broad mine.",
+            "[[prepared]]An irregular white or gray area.",
+            "[[prepared]]A blotch containing dark frass.",
+            "[[prepared]]Dry brown tissue in [[term:infestation-status]]old infestation[[/term]]."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Several mines may merge and damage a large portion of the leaflet."
+          "text": "Several mines may merge and damage a large portion of the leaflet.",
+          "prepared_text": "[[prepared]]Several mines may merge and damage a large portion of the leaflet."
         },
         {
           "type": "doc-paragraph",
-          "text": "The larva can leave one mine and move to another leaf, stem, or fruit. Empty mines may therefore be found alongside mines containing live larvae."
+          "text": "The larva can leave one mine and move to another leaf, stem, or fruit. Empty mines may therefore be found alongside mines containing live larvae.",
+          "prepared_text": "[[prepared]]The larva can leave one mine and move to another leaf, stem, or fruit. Empty mines may therefore be found alongside mines containing live larvae."
         },
         {
           "type": "doc-heading",
@@ -1225,11 +1672,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The mines formed by Liriomyza flies begin as thin lines and gradually widen as the larva grows."
+          "text": "The mines formed by Liriomyza flies begin as thin lines and gradually widen as the larva grows.",
+          "prepared_text": "[[prepared]]The mines formed by Liriomyza flies begin as thin lines and gradually widen as the larva grows."
         },
         {
           "type": "doc-paragraph",
-          "text": "They are commonly characterized as:"
+          "text": "They are commonly characterized as:",
+          "prepared_text": "[[prepared]]They are commonly characterized as:"
         },
         {
           "type": "doc-list",
@@ -1239,11 +1688,19 @@
             "Relatively long.",
             "Confined to the leaf.",
             "Containing a trail of frass within the mine."
+          ],
+          "prepared_items": [
+            "[[prepared]]Winding.",
+            "[[prepared]]Serpentine.",
+            "[[prepared]]Relatively long.",
+            "[[prepared]]Confined to the leaf.",
+            "[[prepared]]Containing a trail of frass within the mine."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Some mines may widen or overlap under severe infestation, but they usually retain the characteristic winding appearance. [3]"
+          "text": "Some mines may widen or overlap under severe infestation, but they usually retain the characteristic winding appearance. [3]",
+          "prepared_text": "[[prepared]]Some mines may widen or overlap under severe infestation, but they usually retain the characteristic winding appearance. [3]"
         },
         {
           "type": "doc-heading",
@@ -1257,7 +1714,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato fruitworm is commonly associated with the species:"
+          "text": "Tomato fruitworm is commonly associated with the species:",
+          "prepared_text": "[[prepared]]Tomato fruitworm is commonly associated with the species:"
         },
         {
           "type": "doc-heading",
@@ -1266,11 +1724,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Its larva is larger than the larva of Tuta absoluta, feeds more openly, and produces relatively large holes in fruits."
+          "text": "Its larva is larger than the larva of Tuta absoluta, feeds more openly, and produces relatively large holes in fruits.",
+          "prepared_text": "[[prepared]]Its larva is larger than the larva of Tuta absoluta, feeds more openly, and produces relatively large holes in fruits."
         },
         {
           "type": "doc-paragraph",
-          "text": "The Tuta larva is smaller, usually begins within leaves, and then enters the fruit through a small opening that may be located near the calyx or elsewhere on the fruit surface."
+          "text": "The Tuta larva is smaller, usually begins within leaves, and then enters the fruit through a small opening that may be located near the calyx or elsewhere on the fruit surface.",
+          "prepared_text": "[[prepared]]The Tuta larva is smaller, usually begins within leaves, and then enters the fruit through a small opening that may be located near the calyx or elsewhere on the fruit surface."
         },
         {
           "type": "doc-heading",
@@ -1279,7 +1739,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The potato tuber moth is:"
+          "text": "The potato tuber moth is:",
+          "prepared_text": "[[prepared]]The potato tuber moth is:"
         },
         {
           "type": "doc-heading",
@@ -1288,7 +1749,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Whereas Tuta absoluta is:"
+          "text": "Whereas Tuta absoluta is:",
+          "prepared_text": "[[prepared]]Whereas Tuta absoluta is:"
         },
         {
           "type": "doc-heading",
@@ -1297,15 +1759,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "They are two different species within the same genus."
+          "text": "They are two different species within the same genus.",
+          "prepared_text": "[[prepared]]They are two different species within the same genus."
         },
         {
           "type": "doc-paragraph",
-          "text": "The potato tuber moth is primarily associated with potatoes and potato tubers, whereas tomato is the principal economic host of Tuta absoluta."
+          "text": "The potato tuber moth is primarily associated with potatoes and potato tubers, whereas tomato is the principal economic host of Tuta absoluta.",
+          "prepared_text": "[[prepared]]The potato tuber moth is primarily associated with potatoes and potato tubers, whereas tomato is the principal economic host of Tuta absoluta."
         },
         {
           "type": "doc-paragraph",
-          "text": "There is some resemblance between the adults of the two species, so accurate identification requires examination of diagnostic characters or the use of species-specific pheromone traps."
+          "text": "There is some resemblance between the adults of the two species, so accurate identification requires examination of diagnostic characters or the use of species-specific pheromone traps.",
+          "prepared_text": "[[prepared]]There is some resemblance between the adults of the two species, so accurate identification requires examination of [[term:diagnostic-characters]]diagnostic characters[[/term]] or the use of species-specific pheromone traps."
         },
         {
           "type": "doc-heading",
@@ -1314,7 +1779,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The tomato pinworm of North America is known as:"
+          "text": "The tomato pinworm of North America is known as:",
+          "prepared_text": "[[prepared]]The tomato pinworm of North America is known as:"
         },
         {
           "type": "doc-heading",
@@ -1323,11 +1789,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Its larvae may form blotch mines in leaves and subsequently attack fruits."
+          "text": "Its larvae may form blotch mines in leaves and subsequently attack fruits.",
+          "prepared_text": "[[prepared]]Its larvae may form blotch mines in leaves and subsequently attack fruits."
         },
         {
           "type": "doc-paragraph",
-          "text": "This insect differs from Tuta absoluta, despite the fact that both belong to the family Gelechiidae and cause similar types of damage. [4]"
+          "text": "This insect differs from Tuta absoluta, despite the fact that both belong to the family Gelechiidae and cause similar types of damage. [4]",
+          "prepared_text": "[[prepared]]This insect differs from Tuta absoluta, despite the fact that both belong to the family Gelechiidae and cause similar types of damage. [4]"
         },
         {
           "type": "doc-heading",
@@ -1385,6 +1853,56 @@
               "Tuta trap",
               "A trap containing a pheromone specific to the pest"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Term",
+            "[[prepared]]Meaning"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Tuta",
+              "[[prepared]]Tuta absoluta in all of its life stages"
+            ],
+            [
+              "[[prepared]]Tuta moth",
+              "[[prepared]]Winged adult insect"
+            ],
+            [
+              "[[prepared]]Tuta larva",
+              "[[prepared]]The mining stage responsible for damage"
+            ],
+            [
+              "[[prepared]]Tuta eggs",
+              "[[prepared]]Eggs laid by females on the plant"
+            ],
+            [
+              "[[prepared]]Tuta pupa",
+              "[[prepared]]Transformation stage before adult emergence"
+            ],
+            [
+              "[[prepared]]Tuta mine",
+              "[[prepared]]A mined blotch or area within the leaf"
+            ],
+            [
+              "[[prepared]]Tuta fruit infestation",
+              "[[prepared]]Larval holes or tunnels inside fruits"
+            ],
+            [
+              "[[prepared]]Leaf miner",
+              "[[prepared]]Leaf-mining flies, Liriomyza spp."
+            ],
+            [
+              "[[prepared]]Weevil",
+              "[[prepared]]An inaccurate popular name for Tuta"
+            ],
+            [
+              "[[prepared]]Tuta pheromone",
+              "[[prepared]]Sex pheromone specifically attracting male Tuta moths"
+            ],
+            [
+              "[[prepared]]Tuta trap",
+              "[[prepared]]A trap containing a pheromone specific to the pest"
+            ]
           ]
         },
         {
@@ -1394,11 +1912,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Accurate naming is not merely a linguistic issue; it is directly linked to the integrated pest management program."
+          "text": "Accurate naming is not merely a linguistic issue; it is directly linked to the integrated pest management program.",
+          "prepared_text": "[[prepared]]Accurate naming is not merely a linguistic issue; it is directly linked to the integrated pest management program."
         },
         {
           "type": "doc-paragraph",
-          "text": "Confusing Tuta with leaf-mining flies may lead to:"
+          "text": "Confusing Tuta with leaf-mining flies may lead to:",
+          "prepared_text": "[[prepared]]Confusing Tuta with leaf-mining flies may lead to:"
         },
         {
           "type": "doc-list",
@@ -1411,11 +1931,22 @@
             "Recording inaccurate monitoring data.",
             "Applying a control program targeting a different insect.",
             "Incorrectly evaluating the effectiveness of natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Using a pheromone unrelated to the pest present.",
+            "[[prepared]]Incorrect interpretation of trap results.",
+            "[[prepared]]Selecting an unsuitable insecticide or application timing.",
+            "[[prepared]]Confusing a lepidopteran larva with a fly larva.",
+            "[[prepared]]Neglecting inspection of fruits and stems.",
+            "[[prepared]]Recording inaccurate monitoring data.",
+            "[[prepared]]Applying a control program targeting a different insect.",
+            "[[prepared]]Incorrectly evaluating the effectiveness of [[term:biological-control]]natural enemies[[/term]]."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "When mines are found in tomato leaves, diagnosis should include examination of:"
+          "text": "When mines are found in tomato leaves, diagnosis should include examination of:",
+          "prepared_text": "[[prepared]]When mines are found in tomato leaves, diagnosis should include examination of:"
         },
         {
           "type": "doc-list",
@@ -1427,11 +1958,21 @@
             "Presence of holes in fruits.",
             "Appearance of the adult insect.",
             "Results of pheromone traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mine shape.",
+            "[[prepared]]Presence of the larva inside the mine.",
+            "[[prepared]]Shape of the larval head and legs.",
+            "[[prepared]]Presence of infestation in growing points or stems.",
+            "[[prepared]]Presence of holes in fruits.",
+            "[[prepared]]Appearance of the adult insect.",
+            "[[prepared]]Results of pheromone traps."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Mine shape alone does not identify the pest in every case, particularly during the early stages of infestation or when several mines overlap."
+          "text": "Mine shape alone does not identify the pest in every case, particularly during the early stages of infestation or when several mines overlap.",
+          "prepared_text": "[[prepared]]Mine shape alone does not identify the pest in every case, particularly during the early stages of infestation or when several mines overlap."
         },
         {
           "type": "doc-heading",
@@ -1440,7 +1981,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The modern taxonomic scientific name of Tuta absoluta is:"
+          "text": "The modern taxonomic scientific name of Tuta absoluta is:",
+          "prepared_text": "[[prepared]]The modern taxonomic scientific name of Tuta absoluta is:"
         },
         {
           "type": "doc-heading",
@@ -1449,7 +1991,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The name most widely recognized worldwide and in the field is:"
+          "text": "The name most widely recognized worldwide and in the field is:",
+          "prepared_text": "[[prepared]]The name most widely recognized worldwide and in the field is:"
         },
         {
           "type": "doc-heading",
@@ -1458,7 +2001,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Its international common names include:"
+          "text": "Its international common names include:",
+          "prepared_text": "[[prepared]]Its international common names include:"
         },
         {
           "type": "doc-list",
@@ -1469,11 +2013,20 @@
             "Tomato leafminer moth.",
             "Tomato borer.",
             "South American tomato pinworm."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato leafminer.",
+            "[[prepared]]South American tomato leafminer.",
+            "[[prepared]]South American tomato moth.",
+            "[[prepared]]Tomato leafminer moth.",
+            "[[prepared]]Tomato borer.",
+            "[[prepared]]South American tomato pinworm."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Its Arabic names include:"
+          "text": "Its Arabic names include:",
+          "prepared_text": "[[prepared]]Its Arabic names include:"
         },
         {
           "type": "doc-list",
@@ -1483,11 +2036,19 @@
             "Tomato miner.",
             "South American tomato moth.",
             "Tomato leaf miner."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tuta absoluta.",
+            "[[prepared]]Tomato leaf and fruit borer.",
+            "[[prepared]]Tomato miner.",
+            "[[prepared]]South American tomato moth.",
+            "[[prepared]]Tomato leaf miner."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "In Egypt, it is mainly known as:"
+          "text": "In Egypt, it is mainly known as:",
+          "prepared_text": "[[prepared]]In Egypt, it is mainly known as:"
         },
         {
           "type": "doc-list",
@@ -1497,27 +2058,39 @@
             "Tuta worm or larva.",
             "Tomato miner.",
             "Weevil, which is a popular but taxonomically incorrect name."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tuta.",
+            "[[prepared]]Tuta moth.",
+            "[[prepared]]Tuta worm or larva.",
+            "[[prepared]]Tomato miner.",
+            "[[prepared]]Weevil, which is a popular but taxonomically incorrect name."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta does not represent “leaf miner” in the common Egyptian field sense. The term leaf miner usually refers to leaf-mining flies of the genus Liriomyza, which are small flies belonging to the order Diptera."
+          "text": "Tuta absoluta does not represent “leaf miner” in the common Egyptian field sense. The term leaf miner usually refers to leaf-mining flies of the genus Liriomyza, which are small flies belonging to the order Diptera.",
+          "prepared_text": "[[prepared]]Tuta absoluta does not represent “leaf miner” in the common Egyptian field sense. The term leaf miner usually refers to leaf-mining flies of the genus Liriomyza, which are small flies belonging to the order Diptera."
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta, in contrast, is a moth belonging to the order Lepidoptera. Its larvae form blotch mines in leaves and also bore into growing points, stems, and fruits."
+          "text": "Tuta absoluta, in contrast, is a moth belonging to the order Lepidoptera. Its larvae form blotch mines in leaves and also bore into growing points, stems, and fruits.",
+          "prepared_text": "[[prepared]]Tuta absoluta, in contrast, is a moth belonging to the order Lepidoptera. Its larvae form blotch mines in leaves and also bore into growing points, stems, and fruits."
         },
         {
           "type": "doc-paragraph",
-          "text": "The principal field distinction is therefore:"
+          "text": "The principal field distinction is therefore:",
+          "prepared_text": "[[prepared]]The principal field distinction is therefore:"
         },
         {
           "type": "doc-paragraph",
-          "text": "> Tuta: a moth whose larvae bore into leaves, growing points, stems, and fruits."
+          "text": "> Tuta: a moth whose larvae bore into leaves, growing points, stems, and fruits.",
+          "prepared_text": "[[prepared]]> Tuta: a moth whose larvae bore into leaves, growing points, stems, and fruits."
         },
         {
           "type": "doc-paragraph",
-          "text": "> Leaf miner: a fly whose larvae primarily form winding mines inside leaves."
+          "text": "> Leaf miner: a fly whose larvae primarily form winding mines inside leaves.",
+          "prepared_text": "[[prepared]]> Leaf miner: a fly whose larvae primarily form winding mines inside leaves."
         },
         {
           "type": "doc-heading",

@@ -26,15 +26,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta is closely associated with plants belonging to the family Solanaceae, particularly tomato. Nevertheless, the female can lay eggs, or the larvae can feed and develop, on a number of other cultivated and wild plants."
+          "text": "Tuta absoluta is closely associated with plants belonging to the family Solanaceae, particularly tomato. Nevertheless, the female can lay eggs, or the larvae can feed and develop, on a number of other cultivated and wild plants.",
+          "prepared_text": "[[prepared]]Tuta absoluta is closely associated with plants belonging to the family Solanaceae, particularly tomato. Nevertheless, the female can lay eggs, or the larvae can feed and develop, on a number of other cultivated and wild plants."
         },
         {
           "type": "doc-paragraph",
-          "text": "Not all plants on which the insect has been recorded have the same degree of importance. An adult moth may be found on a plant used only as a resting site; a female may lay an egg on a plant that cannot support larval development; or a larva may begin feeding but die before reaching the pupal stage."
+          "text": "Not all plants on which the insect has been recorded have the same degree of importance. An adult moth may be found on a plant used only as a resting site; a female may lay an egg on a plant that cannot support larval development; or a larva may begin feeding but die before reaching the pupal stage.",
+          "prepared_text": "[[prepared]]Not all plants on which the insect has been recorded have the same degree of importance. An adult moth may be found on a plant used only as a resting site; a female may lay an egg on a plant that cannot support larval development; or a larva may begin feeding but die before reaching the pupal stage."
         },
         {
           "type": "doc-paragraph",
-          "text": "Therefore, a plant should not be considered a true complete host merely because of finding:"
+          "text": "Therefore, a plant should not be considered a true complete host merely because of finding:",
+          "prepared_text": "[[prepared]]Therefore, a plant should not be considered a true complete host merely because of finding:"
         },
         {
           "type": "doc-list",
@@ -44,15 +47,24 @@
             "An unconfirmed leaf mine.",
             "A young larva that was not followed through pupation.",
             "Field damage for which the causative insect was not confirmed."
+          ],
+          "prepared_items": [
+            "[[prepared]]An adult moth on it.",
+            "[[prepared]]A single egg on its leaves.",
+            "[[prepared]]An unconfirmed leaf mine.",
+            "[[prepared]]A young larva that was not followed through [[term:pupation]]pupation[[/term]].",
+            "[[prepared]]Field damage for which the causative insect was not confirmed."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "A true host is confirmed when the insect can complete its life cycle on the plant from egg to adult, with the resulting individuals capable of survival and reproduction."
+          "text": "A true host is confirmed when the insect can complete its life cycle on the plant from egg to adult, with the resulting individuals capable of survival and reproduction.",
+          "prepared_text": "[[prepared]]A true host is confirmed when the insect can complete its life cycle on the plant from egg to adult, with the resulting individuals capable of survival and reproduction."
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta is classified as a relatively oligophagous insect:"
+          "text": "Tuta absoluta is classified as a relatively oligophagous insect:",
+          "prepared_text": "[[prepared]]Tuta absoluta is classified as a relatively oligophagous insect:"
         },
         {
           "type": "doc-heading",
@@ -61,7 +73,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Most of its true host range is concentrated within the family Solanaceae, especially the genus:"
+          "text": "Most of its true host range is concentrated within the family Solanaceae, especially the genus:",
+          "prepared_text": "[[prepared]]Most of its true host range is concentrated within the family Solanaceae, especially the genus:"
         },
         {
           "type": "doc-heading",
@@ -70,7 +83,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato remains the most preferred and suitable plant for reproduction and population increase."
+          "text": "Tomato remains the most preferred and suitable plant for reproduction and population increase.",
+          "prepared_text": "[[prepared]]Tomato remains the most preferred and suitable plant for reproduction and population increase."
         },
         {
           "type": "doc-heading",
@@ -79,7 +93,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Classification of a plant as a host of Tuta absoluta depends on a sequence of evidence."
+          "text": "Classification of a plant as a host of Tuta absoluta depends on a sequence of evidence.",
+          "prepared_text": "[[prepared]]Classification of a plant as a host of Tuta absoluta depends on a sequence of evidence."
         },
         {
           "type": "doc-heading",
@@ -88,7 +103,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This is measured through:"
+          "text": "This is measured through:",
+          "prepared_text": "[[prepared]]This is measured through:"
         },
         {
           "type": "doc-list",
@@ -97,11 +113,18 @@
             "Examination of the leaf surface.",
             "Oviposition.",
             "Preference when more than one choice is available."
+          ],
+          "prepared_items": [
+            "[[prepared]]Female landing on the plant.",
+            "[[prepared]]Examination of the leaf surface.",
+            "[[prepared]]Oviposition.",
+            "[[prepared]]Preference when more than one choice is available."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Oviposition alone is insufficient to prove that the plant is a complete host."
+          "text": "Oviposition alone is insufficient to prove that the plant is a complete host.",
+          "prepared_text": "[[prepared]]Oviposition alone is insufficient to prove that the plant is a complete host."
         },
         {
           "type": "doc-heading",
@@ -110,7 +133,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A female may accept a plant for oviposition, but the eggs may fail to hatch because of:"
+          "text": "A female may accept a plant for oviposition, but the eggs may fail to hatch because of:",
+          "prepared_text": "[[prepared]]A female may accept a plant for oviposition, but the eggs may fail to hatch because of:"
         },
         {
           "type": "doc-list",
@@ -119,6 +143,12 @@
             "Desiccation.",
             "Effects of plant chemicals.",
             "Poor adhesion of the egg."
+          ],
+          "prepared_items": [
+            "[[prepared]]Unsuitability of the plant surface.",
+            "[[prepared]]Desiccation.",
+            "[[prepared]]Effects of plant chemicals.",
+            "[[prepared]]Poor adhesion of the egg."
           ]
         },
         {
@@ -128,7 +158,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae must be able to:"
+          "text": "Larvae must be able to:",
+          "prepared_text": "[[prepared]]Larvae must be able to:"
         },
         {
           "type": "doc-list",
@@ -137,6 +168,12 @@
             "Form mines.",
             "Complete all four larval instars.",
             "Feed without total mortality."
+          ],
+          "prepared_items": [
+            "[[prepared]]Penetrate the tissue.",
+            "[[prepared]]Form [[term:mines]]mines[[/term]].",
+            "[[prepared]]Complete all four [[term:larval-instar]]larval instars[[/term]].",
+            "[[prepared]]Feed without total mortality."
           ]
         },
         {
@@ -146,7 +183,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "If a larva begins feeding but dies before pupation, the plant is not considered a complete host."
+          "text": "If a larva begins feeding but dies before pupation, the plant is not considered a complete host.",
+          "prepared_text": "[[prepared]]If a larva begins feeding but dies before pupation, the plant is not considered a complete host."
         },
         {
           "type": "doc-heading",
@@ -155,7 +193,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Emergence of a healthy adult moth provides strong evidence that the plant can support the life cycle."
+          "text": "Emergence of a healthy adult moth provides strong evidence that the plant can support the life cycle.",
+          "prepared_text": "[[prepared]]Emergence of a healthy adult moth provides strong evidence that the plant can support the life cycle."
         },
         {
           "type": "doc-heading",
@@ -164,7 +203,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A high-quality host produces:"
+          "text": "A high-quality host produces:",
+          "prepared_text": "[[prepared]]A high-quality host produces:"
         },
         {
           "type": "doc-list",
@@ -173,6 +213,12 @@
             "Fertile females.",
             "Fertilized eggs.",
             "Offspring capable of initiating a new generation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Healthy moths.",
+            "[[prepared]]Fertile females.",
+            "[[prepared]]Fertilized eggs.",
+            "[[prepared]]Offspring capable of initiating a new generation."
           ]
         },
         {
@@ -182,7 +228,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Evidence becomes stronger when infestation recurs:"
+          "text": "Evidence becomes stronger when infestation recurs:",
+          "prepared_text": "[[prepared]]Evidence becomes stronger when infestation recurs:"
         },
         {
           "type": "doc-list",
@@ -191,6 +238,12 @@
             "In more than one field.",
             "During more than one season.",
             "With several insect stages present."
+          ],
+          "prepared_items": [
+            "[[prepared]]On several plants.",
+            "[[prepared]]In more than one field.",
+            "[[prepared]]During more than one season.",
+            "[[prepared]]With several insect stages present."
           ]
         },
         {
@@ -200,7 +253,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Plants associated with Tuta absoluta in this chapter are divided into the following categories:"
+          "text": "Plants associated with Tuta absoluta in this chapter are divided into the following categories:",
+          "prepared_text": "[[prepared]]Plants associated with Tuta absoluta in this chapter are divided into the following categories:"
         },
         {
           "type": "doc-list",
@@ -212,11 +266,21 @@
             "5. Suspected hosts.",
             "6. Plants with incidental association.",
             "7. Weeds and wild hosts."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Principal host.",
+            "[[prepared]]2. Confirmed hosts.",
+            "[[prepared]]3. [[term:alternative-host]]Alternative hosts[[/term]].",
+            "[[prepared]]4. Experimental or poorly suitable hosts.",
+            "[[prepared]]5. Suspected hosts.",
+            "[[prepared]]6. Plants with incidental association.",
+            "[[prepared]]7. Weeds and wild hosts."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "A “confirmed host” describes the strength of scientific evidence, whereas an “alternative host” describes the ecological role played by the plant in sustaining the pest when tomato is absent. A plant may therefore be scientifically confirmed as a host and simultaneously function ecologically as an alternative host."
+          "text": "A “confirmed host” describes the strength of scientific evidence, whereas an “alternative host” describes the ecological role played by the plant in sustaining the pest when tomato is absent. A plant may therefore be scientifically confirmed as a host and simultaneously function ecologically as an alternative host.",
+          "prepared_text": "[[prepared]]A “confirmed host” describes the strength of scientific evidence, whereas an “alternative host” describes the ecological role played by the plant in sustaining the pest when tomato is absent. A plant may therefore be scientifically confirmed as a host and simultaneously function ecologically as an alternative host."
         },
         {
           "type": "doc-heading",
@@ -235,11 +299,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato is the principal and most preferred host of Tuta absoluta."
+          "text": "Tomato is the principal and most preferred host of Tuta absoluta.",
+          "prepared_text": "[[prepared]]Tomato is the principal and most preferred host of Tuta absoluta."
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect generally achieves on tomato:"
+          "text": "The insect generally achieves on tomato:",
+          "prepared_text": "[[prepared]]The insect generally achieves on tomato:"
         },
         {
           "type": "doc-list",
@@ -252,11 +318,22 @@
             "The greatest pupal weight.",
             "The highest female fecundity.",
             "The fastest rate of population increase."
+          ],
+          "prepared_items": [
+            "[[prepared]]The highest number of eggs laid.",
+            "[[prepared]]The highest larval survival.",
+            "[[prepared]]The fastest larval development.",
+            "[[prepared]]The highest pupation percentage.",
+            "[[prepared]]The highest adult-emergence percentage.",
+            "[[prepared]]The greatest pupal weight.",
+            "[[prepared]]The highest female fecundity.",
+            "[[prepared]]The fastest rate of population increase."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Comparative studies have shown that tomato clearly exceeds potato, eggplant, and black nightshade in oviposition preference and biological performance of the insect. [1, 2]"
+          "text": "Comparative studies have shown that tomato clearly exceeds potato, eggplant, and black nightshade in oviposition preference and biological performance of the insect. [1, 2]",
+          "prepared_text": "[[prepared]]Comparative studies have shown that tomato clearly exceeds potato, eggplant, and black nightshade in oviposition preference and biological performance of the insect. [1, 2]"
         },
         {
           "type": "doc-heading",
@@ -265,7 +342,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato preference is associated with factors including:"
+          "text": "Tomato preference is associated with factors including:",
+          "prepared_text": "[[prepared]]Tomato preference is associated with factors including:"
         },
         {
           "type": "doc-list",
@@ -277,11 +355,21 @@
             "Continuous formation of young growth.",
             "Water and nutrient content.",
             "Evolutionary adaptation of the insect to plants of the genus Solanum."
+          ],
+          "prepared_items": [
+            "[[prepared]]Volatile compounds released from the leaves.",
+            "[[prepared]]Chemical composition of the tissues.",
+            "[[prepared]]Suitability of [[term:mesophyll]]mesophyll[[/term]] tissue for larval feeding.",
+            "[[prepared]]Ease of penetrating the leaf epidermis.",
+            "[[prepared]]Continuous formation of young growth.",
+            "[[prepared]]Water and nutrient content.",
+            "[[prepared]]Evolutionary adaptation of the insect to plants of the genus Solanum."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The female uses its antennae and sensory receptors on the legs and palpi to recognize the plant before laying eggs."
+          "text": "The female uses its antennae and sensory receptors on the legs and palpi to recognize the plant before laying eggs.",
+          "prepared_text": "[[prepared]]The female uses its antennae and sensory receptors on the legs and palpi to recognize the plant before laying eggs."
         },
         {
           "type": "doc-heading",
@@ -290,7 +378,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae can attack most aerial parts, including:"
+          "text": "Larvae can attack most aerial parts, including:",
+          "prepared_text": "[[prepared]]Larvae can attack most aerial parts, including:"
         },
         {
           "type": "doc-list",
@@ -304,11 +393,23 @@
             "Sepals.",
             "Green fruits.",
             "Ripe fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves.",
+            "[[prepared]]Growing points.",
+            "[[prepared]]Buds.",
+            "[[prepared]]Leaf petioles.",
+            "[[prepared]]Tender stems.",
+            "[[prepared]]Flowers.",
+            "[[prepared]]Sepals.",
+            "[[prepared]]Green fruits.",
+            "[[prepared]]Ripe fruits."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Roots are not a feeding host for the larvae, although pupae may occur in soil surrounding the plant."
+          "text": "Roots are not a feeding host for the larvae, although pupae may occur in soil surrounding the plant.",
+          "prepared_text": "[[prepared]]Roots are not a feeding host for the larvae, although pupae may occur in soil surrounding the plant."
         },
         {
           "type": "doc-heading",
@@ -317,7 +418,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Volunteer tomato plants arise from:"
+          "text": "Volunteer tomato plants arise from:",
+          "prepared_text": "[[prepared]]Volunteer tomato plants arise from:"
         },
         {
           "type": "doc-list",
@@ -327,15 +429,24 @@
             "Sorting piles.",
             "Processing-plant wastes.",
             "Seeds remaining from the previous season."
+          ],
+          "prepared_items": [
+            "[[prepared]]Seeds of fallen fruits.",
+            "[[prepared]]Harvest residues.",
+            "[[prepared]]Sorting piles.",
+            "[[prepared]]Processing-plant wastes.",
+            "[[prepared]]Seeds remaining from the previous season."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Under field conditions, these plants behave as highly dangerous weeds because they provide the principal host outside the normal production season."
+          "text": "Under field conditions, these plants behave as highly dangerous weeds because they provide the principal host outside the normal production season.",
+          "prepared_text": "[[prepared]]Under field conditions, these plants behave as highly dangerous weeds because they provide the principal host outside the normal production season."
         },
         {
           "type": "doc-paragraph",
-          "text": "They may carry:"
+          "text": "They may carry:",
+          "prepared_text": "[[prepared]]They may carry:"
         },
         {
           "type": "doc-list",
@@ -344,11 +455,18 @@
             "Larvae.",
             "Pupae.",
             "Adult moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Pupae.",
+            "[[prepared]]Adult moths."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Volunteer tomatoes are among the most important components of the green bridge between cropping seasons."
+          "text": "Volunteer tomatoes are among the most important components of the green bridge between cropping seasons.",
+          "prepared_text": "[[prepared]]Volunteer tomatoes are among the most important components of the [[term:green-bridge]]green bridge[[/term]] between cropping seasons."
         },
         {
           "type": "doc-heading",
@@ -357,7 +475,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A confirmed host is a plant on which Tuta absoluta has been shown to complete its life cycle, either in the field or under controlled experiments."
+          "text": "A confirmed host is a plant on which Tuta absoluta has been shown to complete its life cycle, either in the field or under controlled experiments.",
+          "prepared_text": "[[prepared]]A confirmed host is a plant on which Tuta absoluta has been shown to complete its life cycle, either in the field or under controlled experiments."
         },
         {
           "type": "doc-heading",
@@ -371,11 +490,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Potato is a confirmed host, but it is less preferred and less suitable than tomato."
+          "text": "Potato is a confirmed host, but it is less preferred and less suitable than tomato.",
+          "prepared_text": "[[prepared]]Potato is a confirmed host, but it is less preferred and less suitable than tomato."
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae mainly infest:"
+          "text": "Larvae mainly infest:",
+          "prepared_text": "[[prepared]]Larvae mainly infest:"
         },
         {
           "type": "doc-list",
@@ -383,11 +504,17 @@
             "Leaves.",
             "Tender stems.",
             "Young growth."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves.",
+            "[[prepared]]Tender stems.",
+            "[[prepared]]Young growth."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta is not known as a principal pest of potato tubers in the same manner as the potato tuber moth:"
+          "text": "Tuta absoluta is not known as a principal pest of potato tubers in the same manner as the potato tuber moth:",
+          "prepared_text": "[[prepared]]Tuta absoluta is not known as a principal pest of potato tubers in the same manner as the potato tuber moth:"
         },
         {
           "type": "doc-heading",
@@ -396,33 +523,45 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The two species must therefore not be confused."
+          "text": "The two species must therefore not be confused.",
+          "prepared_text": "[[prepared]]The two species must therefore not be confused."
         },
         {
           "type": "doc-paragraph",
-          "text": "In one comparative experiment, mean developmental duration was:"
+          "text": "In one comparative experiment, mean developmental duration was:",
+          "prepared_text": "[[prepared]]In one comparative experiment, mean developmental duration was:"
         },
         {
           "type": "doc-list",
           "items": [
             "22.2 days on tomato.",
             "24.4 days on potato."
+          ],
+          "prepared_items": [
+            "[[prepared]]22.2 days on tomato.",
+            "[[prepared]]24.4 days on potato."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Survival was:"
+          "text": "Survival was:",
+          "prepared_text": "[[prepared]]Survival was:"
         },
         {
           "type": "doc-list",
           "items": [
             "84% on tomato.",
             "40% on potato. [3]"
+          ],
+          "prepared_items": [
+            "[[prepared]]84% on tomato.",
+            "[[prepared]]40% on potato. [3]"
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "These results show that potato can support the complete life cycle, but is a lower-quality host than tomato."
+          "text": "These results show that potato can support the complete life cycle, but is a lower-quality host than tomato.",
+          "prepared_text": "[[prepared]]These results show that potato can support the complete life cycle, but is a lower-quality host than tomato."
         },
         {
           "type": "doc-heading",
@@ -436,11 +575,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Eggplant is a confirmed host on which the insect can complete development."
+          "text": "Eggplant is a confirmed host on which the insect can complete development.",
+          "prepared_text": "[[prepared]]Eggplant is a confirmed host on which the insect can complete development."
         },
         {
           "type": "doc-paragraph",
-          "text": "However, performance is generally lower than on tomato and is characterized by:"
+          "text": "However, performance is generally lower than on tomato and is characterized by:",
+          "prepared_text": "[[prepared]]However, performance is generally lower than on tomato and is characterized by:"
         },
         {
           "type": "doc-list",
@@ -450,11 +591,19 @@
             "Reduced larval survival.",
             "Production of smaller pupae.",
             "Lower population-growth rate."
+          ],
+          "prepared_items": [
+            "[[prepared]]Lower oviposition.",
+            "[[prepared]]Longer developmental duration.",
+            "[[prepared]]Reduced larval survival.",
+            "[[prepared]]Production of smaller pupae.",
+            "[[prepared]]Lower population-growth rate."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "In one study, mean developmental duration on eggplant was approximately:"
+          "text": "In one study, mean developmental duration on eggplant was approximately:",
+          "prepared_text": "[[prepared]]In one study, mean developmental duration on eggplant was approximately:"
         },
         {
           "type": "doc-heading",
@@ -463,7 +612,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "And survival was approximately:"
+          "text": "And survival was approximately:",
+          "prepared_text": "[[prepared]]And survival was approximately:"
         },
         {
           "type": "doc-heading",
@@ -472,11 +622,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Compared with 84% on tomato. [3]"
+          "text": "Compared with 84% on tomato. [3]",
+          "prepared_text": "[[prepared]]Compared with 84% on tomato. [3]"
         },
         {
           "type": "doc-paragraph",
-          "text": "Low survival does not mean that eggplant is not a host; it means that it is a less suitable host."
+          "text": "Low survival does not mean that eggplant is not a host; it means that it is a less suitable host.",
+          "prepared_text": "[[prepared]]Low survival does not mean that eggplant is not a host; it means that it is a less suitable host."
         },
         {
           "type": "doc-heading",
@@ -490,22 +642,29 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta has been shown to complete its life cycle on African eggplant."
+          "text": "Tuta absoluta has been shown to complete its life cycle on African eggplant.",
+          "prepared_text": "[[prepared]]Tuta absoluta has been shown to complete its life cycle on African eggplant."
         },
         {
           "type": "doc-paragraph",
-          "text": "In a comparative experiment:"
+          "text": "In a comparative experiment:",
+          "prepared_text": "[[prepared]]In a comparative experiment:"
         },
         {
           "type": "doc-list",
           "items": [
             "Mean developmental duration was 24.3 days.",
             "Survival was 52%."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mean developmental duration was 24.3 days.",
+            "[[prepared]]Survival was 52%."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Performance was lower than on tomato but better than on some cultivars of common eggplant in the same experiment. [3]"
+          "text": "Performance was lower than on tomato but better than on some cultivars of common eggplant in the same experiment. [3]",
+          "prepared_text": "[[prepared]]Performance was lower than on tomato but better than on some cultivars of common eggplant in the same experiment. [3]"
         },
         {
           "type": "doc-heading",
@@ -519,7 +678,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Pepino is a confirmed experimental host on which the insect can:"
+          "text": "Pepino is a confirmed experimental host on which the insect can:",
+          "prepared_text": "[[prepared]]Pepino is a confirmed experimental host on which the insect can:"
         },
         {
           "type": "doc-list",
@@ -528,11 +688,18 @@
             "Complete the larval instars.",
             "Pupate.",
             "Produce adult moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Lay eggs.",
+            "[[prepared]]Complete the larval instars.",
+            "[[prepared]]Pupate.",
+            "[[prepared]]Produce adult moths."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Its field importance is greater in regions where it is cultivated near tomato or inside protected production systems. [4]"
+          "text": "Its field importance is greater in regions where it is cultivated near tomato or inside protected production systems. [4]",
+          "prepared_text": "[[prepared]]Its field importance is greater in regions where it is cultivated near tomato or inside protected production systems. [4]"
         },
         {
           "type": "doc-heading",
@@ -546,11 +713,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Black nightshade is one of the most important confirmed wild hosts."
+          "text": "Black nightshade is one of the most important confirmed wild hosts.",
+          "prepared_text": "[[prepared]]Black nightshade is one of the most important confirmed wild hosts."
         },
         {
           "type": "doc-paragraph",
-          "text": "On this plant, Tuta absoluta can:"
+          "text": "On this plant, Tuta absoluta can:",
+          "prepared_text": "[[prepared]]On this plant, Tuta absoluta can:"
         },
         {
           "type": "doc-list",
@@ -560,15 +729,24 @@
             "Transform into pupae.",
             "Produce adults.",
             "Form a new generation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Lay eggs.",
+            "[[prepared]]Complete the larval instars.",
+            "[[prepared]]Transform into pupae.",
+            "[[prepared]]Produce adults.",
+            "[[prepared]]Form a new generation."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Several experiments have demonstrated that the plant can support the complete life cycle, although oviposition preference and overall performance are generally higher on tomato. [1, 5]"
+          "text": "Several experiments have demonstrated that the plant can support the complete life cycle, although oviposition preference and overall performance are generally higher on tomato. [1, 5]",
+          "prepared_text": "[[prepared]]Several experiments have demonstrated that the plant can support the complete life cycle, although oviposition preference and overall performance are generally higher on tomato. [1, 5]"
         },
         {
           "type": "doc-paragraph",
-          "text": "Its importance is increased because it grows:"
+          "text": "Its importance is increased because it grows:",
+          "prepared_text": "[[prepared]]Its importance is increased because it grows:"
         },
         {
           "type": "doc-list",
@@ -578,6 +756,13 @@
             "Around drainage channels and irrigation canals.",
             "Near nurseries.",
             "Between cropping seasons."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inside tomato fields.",
+            "[[prepared]]Along field margins.",
+            "[[prepared]]Around drainage channels and irrigation canals.",
+            "[[prepared]]Near nurseries.",
+            "[[prepared]]Between cropping seasons."
           ]
         },
         {
@@ -592,11 +777,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect has been shown to complete its life cycle on this plant in experiments conducted on wild solanaceous species."
+          "text": "The insect has been shown to complete its life cycle on this plant in experiments conducted on wild solanaceous species.",
+          "prepared_text": "[[prepared]]The insect has been shown to complete its life cycle on this plant in experiments conducted on wild solanaceous species."
         },
         {
           "type": "doc-paragraph",
-          "text": "It is considered an experimentally confirmed host and may contribute to pest persistence in regions where it occurs naturally. [5]"
+          "text": "It is considered an experimentally confirmed host and may contribute to pest persistence in regions where it occurs naturally. [5]",
+          "prepared_text": "[[prepared]]It is considered an experimentally confirmed host and may contribute to pest persistence in regions where it occurs naturally. [5]"
         },
         {
           "type": "doc-heading",
@@ -610,11 +797,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This species has been recorded as a confirmed host in host-range studies, and the insect completed development on it."
+          "text": "This species has been recorded as a confirmed host in host-range studies, and the insect completed development on it.",
+          "prepared_text": "[[prepared]]This species has been recorded as a confirmed host in host-range studies, and the insect completed development on it."
         },
         {
           "type": "doc-paragraph",
-          "text": "Its field importance depends on:"
+          "text": "Its field importance depends on:",
+          "prepared_text": "[[prepared]]Its field importance depends on:"
         },
         {
           "type": "doc-list",
@@ -623,6 +812,12 @@
             "Proximity to tomato.",
             "Persistence between cropping seasons.",
             "Presence of several living pest stages on the plant. [1]"
+          ],
+          "prepared_items": [
+            "[[prepared]]Local distribution.",
+            "[[prepared]]Proximity to tomato.",
+            "[[prepared]]Persistence between cropping seasons.",
+            "[[prepared]]Presence of several living pest stages on the plant. [1]"
           ]
         },
         {
@@ -637,15 +832,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tree tobacco is a wild plant in the family Solanaceae."
+          "text": "Tree tobacco is a wild plant in the family Solanaceae.",
+          "prepared_text": "[[prepared]]Tree tobacco is a wild plant in the family Solanaceae."
         },
         {
           "type": "doc-paragraph",
-          "text": "Recent review of host records indicates that Tuta absoluta can complete its life cycle on it. [4]"
+          "text": "Recent review of host records indicates that Tuta absoluta can complete its life cycle on it. [4]",
+          "prepared_text": "[[prepared]]Recent review of host records indicates that Tuta absoluta can complete its life cycle on it. [4]"
         },
         {
           "type": "doc-paragraph",
-          "text": "It becomes important when growing:"
+          "text": "It becomes important when growing:",
+          "prepared_text": "[[prepared]]It becomes important when growing:"
         },
         {
           "type": "doc-list",
@@ -655,6 +853,13 @@
             "In neglected land.",
             "Beside tomato fields.",
             "During periods when the principal crop is absent."
+          ],
+          "prepared_items": [
+            "[[prepared]]Around greenhouses.",
+            "[[prepared]]Along roads and embankments.",
+            "[[prepared]]In neglected land.",
+            "[[prepared]]Beside tomato fields.",
+            "[[prepared]]During periods when the principal crop is absent."
           ]
         },
         {
@@ -669,11 +874,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A confirmed infestation of Tuta absoluta on Indian nightshade was reported in a study published in 2025."
+          "text": "A confirmed infestation of Tuta absoluta on Indian nightshade was reported in a study published in 2025.",
+          "prepared_text": "[[prepared]]A confirmed infestation of Tuta absoluta on Indian nightshade was reported in a study published in 2025."
         },
         {
           "type": "doc-paragraph",
-          "text": "This record represents a recent addition to the list of solanaceous plants associated with the pest, but its economic and geographical importance requires broader investigation beyond the initial confirmation of infestation. [6]"
+          "text": "This record represents a recent addition to the list of solanaceous plants associated with the pest, but its economic and geographical importance requires broader investigation beyond the initial confirmation of infestation. [6]",
+          "prepared_text": "[[prepared]]This record represents a recent addition to the list of solanaceous plants associated with the pest, but its economic and geographical importance requires broader investigation beyond the initial confirmation of infestation. [6]"
         },
         {
           "type": "doc-heading",
@@ -682,11 +889,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "An alternative host is a plant used by the insect when tomato is absent or less abundant and that helps the pest survive and move between cropping seasons."
+          "text": "An alternative host is a plant used by the insect when tomato is absent or less abundant and that helps the pest survive and move between cropping seasons.",
+          "prepared_text": "[[prepared]]An alternative host is a plant used by the insect when tomato is absent or less abundant and that helps the pest survive and move between cropping seasons."
         },
         {
           "type": "doc-paragraph",
-          "text": "An alternative host is usually biologically confirmed but performs an ecological function in sustaining the pest population."
+          "text": "An alternative host is usually biologically confirmed but performs an ecological function in sustaining the pest population.",
+          "prepared_text": "[[prepared]]An alternative host is usually biologically confirmed but performs an ecological function in sustaining the pest population."
         },
         {
           "type": "doc-heading",
@@ -705,7 +914,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "These are the most dangerous alternative hosts because they combine:"
+          "text": "These are the most dangerous alternative hosts because they combine:",
+          "prepared_text": "[[prepared]]These are the most dangerous alternative hosts because they combine:"
         },
         {
           "type": "doc-list",
@@ -714,6 +924,12 @@
             "Persistence outside the production season.",
             "Absence of a control program.",
             "Proximity to the following crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Highest suitability.",
+            "[[prepared]]Persistence outside the production season.",
+            "[[prepared]]Absence of a control program.",
+            "[[prepared]]Proximity to the following crop."
           ]
         },
         {
@@ -728,7 +944,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This is the most important alternative weed because it is a confirmed host and persists inside and around fields."
+          "text": "This is the most important alternative weed because it is a confirmed host and persists inside and around fields.",
+          "prepared_text": "[[prepared]]This is the most important alternative weed because it is a confirmed host and persists inside and around fields."
         },
         {
           "type": "doc-heading",
@@ -742,7 +959,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It acts as an alternative host when potato and tomato planting seasons overlap."
+          "text": "It acts as an alternative host when potato and tomato planting seasons overlap.",
+          "prepared_text": "[[prepared]]It acts as an alternative host when potato and tomato planting seasons overlap."
         },
         {
           "type": "doc-heading",
@@ -756,7 +974,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It functions as an alternative host in long-duration crops, particularly when tomato is absent."
+          "text": "It functions as an alternative host in long-duration crops, particularly when tomato is absent.",
+          "prepared_text": "[[prepared]]It functions as an alternative host in long-duration crops, particularly when tomato is absent."
         },
         {
           "type": "doc-heading",
@@ -770,7 +989,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It may maintain part of the pest population in regions where it is cultivated."
+          "text": "It may maintain part of the pest population in regions where it is cultivated.",
+          "prepared_text": "[[prepared]]It may maintain part of the pest population in regions where it is cultivated."
         },
         {
           "type": "doc-heading",
@@ -784,7 +1004,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It may act as an alternative host within greenhouses or mixed-production areas."
+          "text": "It may act as an alternative host within greenhouses or mixed-production areas.",
+          "prepared_text": "[[prepared]]It may act as an alternative host within greenhouses or mixed-production areas."
         },
         {
           "type": "doc-heading",
@@ -798,7 +1019,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It acts as a wild alternative host, particularly when it remains green during periods without tomato."
+          "text": "It acts as a wild alternative host, particularly when it remains green during periods without tomato.",
+          "prepared_text": "[[prepared]]It acts as a wild alternative host, particularly when it remains green during periods without tomato."
         },
         {
           "type": "doc-heading",
@@ -807,7 +1029,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Some wild species may function as local pest reservoirs depending on their suitability and distribution."
+          "text": "Some wild species may function as local pest reservoirs depending on their suitability and distribution.",
+          "prepared_text": "[[prepared]]Some wild species may function as local pest reservoirs depending on their suitability and distribution."
         },
         {
           "type": "doc-heading",
@@ -816,7 +1039,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "An experimental host is a plant tested in the laboratory or in cages on which oviposition, feeding, or partial development occurred, but whose ability to support a complete life cycle or a persistent field population is limited or inconsistent."
+          "text": "An experimental host is a plant tested in the laboratory or in cages on which oviposition, feeding, or partial development occurred, but whose ability to support a complete life cycle or a persistent field population is limited or inconsistent.",
+          "prepared_text": "[[prepared]]An experimental host is a plant tested in the laboratory or in cages on which oviposition, feeding, or partial development occurred, but whose ability to support a complete life cycle or a persistent field population is limited or inconsistent."
         },
         {
           "type": "doc-heading",
@@ -830,15 +1054,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Oviposition or infestation has been recorded on pepper in some regions, but experimental results have not been consistent."
+          "text": "Oviposition or infestation has been recorded on pepper in some regions, but experimental results have not been consistent.",
+          "prepared_text": "[[prepared]]Oviposition or infestation has been recorded on pepper in some regions, but experimental results have not been consistent."
         },
         {
           "type": "doc-paragraph",
-          "text": "In a study involving 27 crops, the insect was unable to complete its life cycle on the tested Capsicum species. [3]"
+          "text": "In a study involving 27 crops, the insect was unable to complete its life cycle on the tested Capsicum species. [3]",
+          "prepared_text": "[[prepared]]In a study involving 27 crops, the insect was unable to complete its life cycle on the tested Capsicum species. [3]"
         },
         {
           "type": "doc-paragraph",
-          "text": "In other experiments:"
+          "text": "In other experiments:",
+          "prepared_text": "[[prepared]]In other experiments:"
         },
         {
           "type": "doc-list",
@@ -847,11 +1074,18 @@
             "Pepper was less preferred than tomato.",
             "Larval survival declined.",
             "A large proportion of individuals failed to complete development."
+          ],
+          "prepared_items": [
+            "[[prepared]]A small number of eggs were laid.",
+            "[[prepared]]Pepper was less preferred than tomato.",
+            "[[prepared]]Larval survival declined.",
+            "[[prepared]]A large proportion of individuals failed to complete development."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Pepper is therefore classified as a weak or experimental host rather than a principal host."
+          "text": "Pepper is therefore classified as a weak or experimental host rather than a principal host.",
+          "prepared_text": "[[prepared]]Pepper is therefore classified as a weak or experimental host rather than a principal host."
         },
         {
           "type": "doc-heading",
@@ -865,15 +1099,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Females can lay some eggs on cultivated tobacco, but preference is low when tomato is available."
+          "text": "Females can lay some eggs on cultivated tobacco, but preference is low when tomato is available.",
+          "prepared_text": "[[prepared]]Females can lay some eggs on cultivated tobacco, but preference is low when tomato is available."
         },
         {
           "type": "doc-paragraph",
-          "text": "In one host-choice study, tobacco was excluded from advanced comparison stages because few eggs were laid on it. [2]"
+          "text": "In one host-choice study, tobacco was excluded from advanced comparison stages because few eggs were laid on it. [2]",
+          "prepared_text": "[[prepared]]In one host-choice study, tobacco was excluded from advanced comparison stages because few eggs were laid on it. [2]"
         },
         {
           "type": "doc-paragraph",
-          "text": "Its ability to support development varies according to:"
+          "text": "Its ability to support development varies according to:",
+          "prepared_text": "[[prepared]]Its ability to support development varies according to:"
         },
         {
           "type": "doc-list",
@@ -882,6 +1119,12 @@
             "Pest population.",
             "Geographical region.",
             "Testing method."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Pest population.",
+            "[[prepared]]Geographical region.",
+            "[[prepared]]Testing method."
           ]
         },
         {
@@ -896,7 +1139,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This species has been studied as a potential solanaceous host, but available evidence remains experimental and does not demonstrate broad field importance. [7]"
+          "text": "This species has been studied as a potential solanaceous host, but available evidence remains experimental and does not demonstrate broad field importance. [7]",
+          "prepared_text": "[[prepared]]This species has been studied as a potential solanaceous host, but available evidence remains experimental and does not demonstrate broad field importance. [7]"
         },
         {
           "type": "doc-heading",
@@ -910,15 +1154,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Jimsonweed appeared in older host lists as an alternative host."
+          "text": "Jimsonweed appeared in older host lists as an alternative host.",
+          "prepared_text": "[[prepared]]Jimsonweed appeared in older host lists as an alternative host."
         },
         {
           "type": "doc-paragraph",
-          "text": "However, recent experiments showed that the insect could not complete its life cycle on it, and some studies recorded either no oviposition or high larval mortality. [4, 8]"
+          "text": "However, recent experiments showed that the insect could not complete its life cycle on it, and some studies recorded either no oviposition or high larval mortality. [4, 8]",
+          "prepared_text": "[[prepared]]However, recent experiments showed that the insect could not complete its life cycle on it, and some studies recorded either no oviposition or high larval mortality. [4, 8]"
         },
         {
           "type": "doc-paragraph",
-          "text": "It is therefore classified as an incomplete experimental host rather than a confirmed host."
+          "text": "It is therefore classified as an incomplete experimental host rather than a confirmed host.",
+          "prepared_text": "[[prepared]]It is therefore classified as an incomplete experimental host rather than a confirmed host."
         },
         {
           "type": "doc-heading",
@@ -932,11 +1179,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A recent review reported no oviposition on this plant in the evaluated experiments."
+          "text": "A recent review reported no oviposition on this plant in the evaluated experiments.",
+          "prepared_text": "[[prepared]]A recent review reported no oviposition on this plant in the evaluated experiments."
         },
         {
           "type": "doc-paragraph",
-          "text": "There is therefore insufficient evidence to regard it as a true complete host. [4]"
+          "text": "There is therefore insufficient evidence to regard it as a true complete host. [4]",
+          "prepared_text": "[[prepared]]There is therefore insufficient evidence to regard it as a true complete host. [4]"
         },
         {
           "type": "doc-heading",
@@ -950,7 +1199,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This plant has been tested as an alternative solanaceous host, and varying degrees of development occurred on it, but its field importance remains lower than that of tomato, black nightshade, and potato. [7]"
+          "text": "This plant has been tested as an alternative solanaceous host, and varying degrees of development occurred on it, but its field importance remains lower than that of tomato, black nightshade, and potato. [7]",
+          "prepared_text": "[[prepared]]This plant has been tested as an alternative solanaceous host, and varying degrees of development occurred on it, but its field importance remains lower than that of tomato, black nightshade, and potato. [7]"
         },
         {
           "type": "doc-heading",
@@ -964,11 +1214,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This plant has been tested in some studies as a potential solanaceous host."
+          "text": "This plant has been tested in some studies as a potential solanaceous host.",
+          "prepared_text": "[[prepared]]This plant has been tested in some studies as a potential solanaceous host."
         },
         {
           "type": "doc-paragraph",
-          "text": "Evidence that it can support stable field generations remains limited, and it is therefore classified among experimental plants. [7]"
+          "text": "Evidence that it can support stable field generations remains limited, and it is therefore classified among experimental plants. [7]",
+          "prepared_text": "[[prepared]]Evidence that it can support stable field generations remains limited, and it is therefore classified among experimental plants. [7]"
         },
         {
           "type": "doc-heading",
@@ -982,11 +1234,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This species has been included among spontaneous plants tested for development of Tuta absoluta."
+          "text": "This species has been included among spontaneous plants tested for development of Tuta absoluta.",
+          "prepared_text": "[[prepared]]This species has been included among spontaneous plants tested for development of Tuta absoluta."
         },
         {
           "type": "doc-paragraph",
-          "text": "Its field importance remains limited and variable according to region, and it should not automatically be treated as a confirmed host equivalent to Solanum nigrum. [4]"
+          "text": "Its field importance remains limited and variable according to region, and it should not automatically be treated as a confirmed host equivalent to Solanum nigrum. [4]",
+          "prepared_text": "[[prepared]]Its field importance remains limited and variable according to region, and it should not automatically be treated as a confirmed host equivalent to Solanum nigrum. [4]"
         },
         {
           "type": "doc-heading",
@@ -1000,11 +1254,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Oviposition or partial development occurred on this plant in some studies, but results differ among pest populations."
+          "text": "Oviposition or partial development occurred on this plant in some studies, but results differ among pest populations.",
+          "prepared_text": "[[prepared]]Oviposition or partial development occurred on this plant in some studies, but results differ among pest populations."
         },
         {
           "type": "doc-paragraph",
-          "text": "In one host-choice study, it did not produce the expected oviposition response despite appearing in other reports. [2]"
+          "text": "In one host-choice study, it did not produce the expected oviposition response despite appearing in other reports. [2]",
+          "prepared_text": "[[prepared]]In one host-choice study, it did not produce the expected oviposition response despite appearing in other reports. [2]"
         },
         {
           "type": "doc-heading",
@@ -1018,15 +1274,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Bean has appeared in some host lists, and oviposition or development has been recorded in local studies."
+          "text": "Bean has appeared in some host lists, and oviposition or development has been recorded in local studies.",
+          "prepared_text": "[[prepared]]Bean has appeared in some host lists, and oviposition or development has been recorded in local studies."
         },
         {
           "type": "doc-paragraph",
-          "text": "Other experiments showed that the insect could not complete a stable life cycle on it as it does on plants of the genus Solanum."
+          "text": "Other experiments showed that the insect could not complete a stable life cycle on it as it does on plants of the genus Solanum.",
+          "prepared_text": "[[prepared]]Other experiments showed that the insect could not complete a stable life cycle on it as it does on plants of the genus Solanum."
         },
         {
           "type": "doc-paragraph",
-          "text": "It is therefore classified as a local or poorly suitable host rather than a general principal host. [1, 3]"
+          "text": "It is therefore classified as a local or poorly suitable host rather than a general principal host. [1, 3]",
+          "prepared_text": "[[prepared]]It is therefore classified as a local or poorly suitable host rather than a general principal host. [1, 3]"
         },
         {
           "type": "doc-heading",
@@ -1040,11 +1299,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "In a West African experiment, some larvae began developing on onion leaves but did not reach the pupal stage."
+          "text": "In a West African experiment, some larvae began developing on onion leaves but did not reach the pupal stage.",
+          "prepared_text": "[[prepared]]In a West African experiment, some larvae began developing on onion leaves but did not reach the pupal stage."
         },
         {
           "type": "doc-paragraph",
-          "text": "Onion therefore represents an example of a plant permitting partial feeding but not supporting the complete life cycle. [3]"
+          "text": "Onion therefore represents an example of a plant permitting partial feeding but not supporting the complete life cycle. [3]",
+          "prepared_text": "[[prepared]]Onion therefore represents an example of a plant permitting partial feeding but not supporting the complete life cycle. [3]"
         },
         {
           "type": "doc-heading",
@@ -1058,11 +1319,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This species has recently been tested among spontaneous plants, although it does not belong to the family Solanaceae."
+          "text": "This species has recently been tested among spontaneous plants, although it does not belong to the family Solanaceae.",
+          "prepared_text": "[[prepared]]This species has recently been tested among spontaneous plants, although it does not belong to the family Solanaceae."
         },
         {
           "type": "doc-paragraph",
-          "text": "Its importance remains experimental until the following are demonstrated:"
+          "text": "Its importance remains experimental until the following are demonstrated:",
+          "prepared_text": "[[prepared]]Its importance remains experimental until the following are demonstrated:"
         },
         {
           "type": "doc-list",
@@ -1071,6 +1334,12 @@
             "Pupation.",
             "Adult emergence.",
             "Production of a fertile generation. [4]"
+          ],
+          "prepared_items": [
+            "[[prepared]]Completion of the larval instars.",
+            "[[prepared]]Pupation.",
+            "[[prepared]]Adult emergence.",
+            "[[prepared]]Production of a fertile generation. [4]"
           ]
         },
         {
@@ -1080,7 +1349,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A suspected host is a plant whose name has appeared in a report or host list but for which sufficient information on completion of the insect’s life cycle is unavailable."
+          "text": "A suspected host is a plant whose name has appeared in a report or host list but for which sufficient information on completion of the insect’s life cycle is unavailable.",
+          "prepared_text": "[[prepared]]A suspected host is a plant whose name has appeared in a report or host list but for which sufficient information on completion of the insect’s life cycle is unavailable."
         },
         {
           "type": "doc-heading",
@@ -1089,7 +1359,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "These include:"
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
         },
         {
           "type": "doc-heading",
@@ -1103,7 +1374,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It has appeared in some lists without sufficient life-cycle data."
+          "text": "It has appeared in some lists without sufficient life-cycle data.",
+          "prepared_text": "[[prepared]]It has appeared in some lists without sufficient life-cycle data."
         },
         {
           "type": "doc-heading",
@@ -1117,7 +1389,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Oviposition was recorded in some experiments, but the insect did not complete its life cycle. [4]"
+          "text": "Oviposition was recorded in some experiments, but the insect did not complete its life cycle. [4]",
+          "prepared_text": "[[prepared]]Oviposition was recorded in some experiments, but the insect did not complete its life cycle. [4]"
         },
         {
           "type": "doc-heading",
@@ -1131,7 +1404,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "No oviposition was recorded in some tests, and it is therefore not a confirmed host. [4]"
+          "text": "No oviposition was recorded in some tests, and it is therefore not a confirmed host. [4]",
+          "prepared_text": "[[prepared]]No oviposition was recorded in some tests, and it is therefore not a confirmed host. [4]"
         },
         {
           "type": "doc-heading",
@@ -1145,7 +1419,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It appeared in older lists, but sufficient life-cycle data are unavailable."
+          "text": "It appeared in older lists, but sufficient life-cycle data are unavailable.",
+          "prepared_text": "[[prepared]]It appeared in older lists, but sufficient life-cycle data are unavailable."
         },
         {
           "type": "doc-heading",
@@ -1159,7 +1434,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "No information confirms completion of the life cycle on this plant."
+          "text": "No information confirms completion of the life cycle on this plant.",
+          "prepared_text": "[[prepared]]No information confirms completion of the life cycle on this plant."
         },
         {
           "type": "doc-heading",
@@ -1173,7 +1449,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Its name has appeared in host lists but without sufficient data on hatching, development, and pupation."
+          "text": "Its name has appeared in host lists but without sufficient data on hatching, development, and pupation.",
+          "prepared_text": "[[prepared]]Its name has appeared in host lists but without sufficient data on hatching, development, and pupation."
         },
         {
           "type": "doc-heading",
@@ -1187,7 +1464,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "There is insufficient information demonstrating support of a complete life cycle."
+          "text": "There is insufficient information demonstrating support of a complete life cycle.",
+          "prepared_text": "[[prepared]]There is insufficient information demonstrating support of a complete life cycle."
         },
         {
           "type": "doc-heading",
@@ -1201,7 +1479,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It has been reported in field records, but sufficient information on completion of the life cycle is unavailable."
+          "text": "It has been reported in field records, but sufficient information on completion of the life cycle is unavailable.",
+          "prepared_text": "[[prepared]]It has been reported in field records, but sufficient information on completion of the life cycle is unavailable."
         },
         {
           "type": "doc-heading",
@@ -1215,7 +1494,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It has been recorded as an associated wild plant, but complete developmental information is unavailable."
+          "text": "It has been recorded as an associated wild plant, but complete developmental information is unavailable.",
+          "prepared_text": "[[prepared]]It has been recorded as an associated wild plant, but complete developmental information is unavailable."
         },
         {
           "type": "doc-heading",
@@ -1229,7 +1509,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Records exist for some species, but evidence of complete life-cycle development differs among species."
+          "text": "Records exist for some species, but evidence of complete life-cycle development differs among species.",
+          "prepared_text": "[[prepared]]Records exist for some species, but evidence of complete life-cycle development differs among species."
         },
         {
           "type": "doc-heading",
@@ -1238,7 +1519,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta may occur on a plant without that plant being a true host."
+          "text": "Tuta absoluta may occur on a plant without that plant being a true host.",
+          "prepared_text": "[[prepared]]Tuta absoluta may occur on a plant without that plant being a true host."
         },
         {
           "type": "doc-heading",
@@ -1252,7 +1534,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "An adult moth may rest on:"
+          "text": "An adult moth may rest on:",
+          "prepared_text": "[[prepared]]An adult moth may rest on:"
         },
         {
           "type": "doc-list",
@@ -1262,11 +1545,19 @@
             "Weeds.",
             "Supports.",
             "Greenhouse fabrics."
+          ],
+          "prepared_items": [
+            "[[prepared]]Non-solanaceous plants.",
+            "[[prepared]]Trees.",
+            "[[prepared]]Weeds.",
+            "[[prepared]]Supports.",
+            "[[prepared]]Greenhouse fabrics."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The presence of an adult does not mean that larvae can feed on the plant."
+          "text": "The presence of an adult does not mean that larvae can feed on the plant.",
+          "prepared_text": "[[prepared]]The presence of an adult does not mean that larvae can feed on the plant."
         },
         {
           "type": "doc-heading",
@@ -1275,7 +1566,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A female may lay an egg on an unsuitable plant because of:"
+          "text": "A female may lay an egg on an unsuitable plant because of:",
+          "prepared_text": "[[prepared]]A female may lay an egg on an unsuitable plant because of:"
         },
         {
           "type": "doc-list",
@@ -1284,6 +1576,12 @@
             "High moth density.",
             "Confinement in a cage.",
             "Contact between plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Absence of tomato.",
+            "[[prepared]]High moth density.",
+            "[[prepared]]Confinement in a cage.",
+            "[[prepared]]Contact between plants."
           ]
         },
         {
@@ -1293,7 +1591,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A larva may leave its mine and move to a neighboring plant, then begin limited feeding without completing development."
+          "text": "A larva may leave its mine and move to a neighboring plant, then begin limited feeding without completing development.",
+          "prepared_text": "[[prepared]]A larva may leave its mine and move to a neighboring plant, then begin limited feeding without completing development."
         },
         {
           "type": "doc-heading",
@@ -1302,7 +1601,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "An infested tomato leaf may fall into another weed, making the larva appear to occur on that weed."
+          "text": "An infested tomato leaf may fall into another weed, making the larva appear to occur on that weed.",
+          "prepared_text": "[[prepared]]An infested tomato leaf may fall into another weed, making the larva appear to occur on that weed."
         },
         {
           "type": "doc-heading",
@@ -1311,7 +1611,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Mines may be caused by:"
+          "text": "Mines may be caused by:",
+          "prepared_text": "[[prepared]]Mines may be caused by:"
         },
         {
           "type": "doc-list",
@@ -1319,11 +1620,17 @@
             "Liriomyza flies.",
             "Larvae of other moths.",
             "Other mining insects."
+          ],
+          "prepared_items": [
+            "[[prepared]][[term:liriomyza]]Liriomyza[[/term]] flies.",
+            "[[prepared]]Larvae of other moths.",
+            "[[prepared]]Other mining insects."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "A host should therefore not be confirmed from mine appearance alone."
+          "text": "A host should therefore not be confirmed from mine appearance alone.",
+          "prepared_text": "[[prepared]]A host should therefore not be confirmed from mine appearance alone."
         },
         {
           "type": "doc-heading",
@@ -1337,11 +1644,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Some weeds are important in sustaining the pest between tomato crops."
+          "text": "Some weeds are important in sustaining the pest between tomato crops.",
+          "prepared_text": "[[prepared]]Some weeds are important in sustaining the pest between tomato crops."
         },
         {
           "type": "doc-paragraph",
-          "text": "Host weeds perform the following functions:"
+          "text": "Host weeds perform the following functions:",
+          "prepared_text": "[[prepared]]Host weeds perform the following functions:"
         },
         {
           "type": "doc-list",
@@ -1352,11 +1661,20 @@
             "Maintaining adult emergence.",
             "Forming a green bridge between seasons.",
             "Transferring infestation to newly planted fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Providing larval food.",
+            "[[prepared]]Providing oviposition sites.",
+            "[[prepared]]Protecting pupae.",
+            "[[prepared]]Maintaining adult emergence.",
+            "[[prepared]]Forming a green bridge between seasons.",
+            "[[prepared]]Transferring infestation to newly planted fields."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "However, not all weeds are Tuta hosts, and weeds should not be removed indiscriminately without identification because some non-host plants provide food and shelter for natural enemies."
+          "text": "However, not all weeds are Tuta hosts, and weeds should not be removed indiscriminately without identification because some non-host plants provide food and shelter for natural enemies.",
+          "prepared_text": "[[prepared]]However, not all weeds are Tuta hosts, and weeds should not be removed indiscriminately without identification because some non-host plants provide food and shelter for [[term:biological-control]]natural enemies[[/term]]."
         },
         {
           "type": "doc-heading",
@@ -1375,11 +1693,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The most important confirmed weed host of Tuta absoluta."
+          "text": "The most important confirmed weed host of Tuta absoluta.",
+          "prepared_text": "[[prepared]]The most important confirmed weed host of Tuta absoluta."
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect can complete its entire life cycle on it."
+          "text": "The insect can complete its entire life cycle on it.",
+          "prepared_text": "[[prepared]]The insect can complete its entire life cycle on it."
         },
         {
           "type": "doc-heading",
@@ -1393,7 +1713,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "An experimentally confirmed wild host."
+          "text": "An experimentally confirmed wild host.",
+          "prepared_text": "[[prepared]]An experimentally confirmed wild host."
         },
         {
           "type": "doc-heading",
@@ -1407,7 +1728,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Recorded as a confirmed host in host-range studies."
+          "text": "Recorded as a confirmed host in host-range studies.",
+          "prepared_text": "[[prepared]]Recorded as a confirmed host in host-range studies."
         },
         {
           "type": "doc-heading",
@@ -1421,7 +1743,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A confirmed wild host in recent reviews and capable of supporting the complete life cycle."
+          "text": "A confirmed wild host in recent reviews and capable of supporting the complete life cycle.",
+          "prepared_text": "[[prepared]]A confirmed wild host in recent reviews and capable of supporting the complete life cycle."
         },
         {
           "type": "doc-heading",
@@ -1435,7 +1758,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "These are not a separate wild species but are treated under field conditions as highly dangerous weeds."
+          "text": "These are not a separate wild species but are treated under field conditions as highly dangerous weeds.",
+          "prepared_text": "[[prepared]]These are not a separate wild species but are treated under field conditions as highly dangerous weeds."
         },
         {
           "type": "doc-heading",
@@ -1444,7 +1768,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "These include plants on which oviposition or partial development occurred, or that were tested without confirmation of broad field importance."
+          "text": "These include plants on which oviposition or partial development occurred, or that were tested without confirmation of broad field importance.",
+          "prepared_text": "[[prepared]]These include plants on which oviposition or partial development occurred, or that were tested without confirmation of broad field importance."
         },
         {
           "type": "doc-heading",
@@ -1458,7 +1783,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect does not complete its life cycle on this plant according to recent experiments."
+          "text": "The insect does not complete its life cycle on this plant according to recent experiments.",
+          "prepared_text": "[[prepared]]The insect does not complete its life cycle on this plant according to recent experiments."
         },
         {
           "type": "doc-heading",
@@ -1472,7 +1798,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "No oviposition was recorded in some tests."
+          "text": "No oviposition was recorded in some tests.",
+          "prepared_text": "[[prepared]]No oviposition was recorded in some tests."
         },
         {
           "type": "doc-heading",
@@ -1486,7 +1813,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Experimental results are variable."
+          "text": "Experimental results are variable.",
+          "prepared_text": "[[prepared]]Experimental results are variable."
         },
         {
           "type": "doc-heading",
@@ -1500,7 +1828,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Its acceptance for oviposition and biological performance are inconsistent among studies."
+          "text": "Its acceptance for oviposition and biological performance are inconsistent among studies.",
+          "prepared_text": "[[prepared]]Its acceptance for oviposition and biological performance are inconsistent among studies."
         },
         {
           "type": "doc-heading",
@@ -1514,7 +1843,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It has been tested as a potential host but is less important than confirmed hosts."
+          "text": "It has been tested as a potential host but is less important than confirmed hosts.",
+          "prepared_text": "[[prepared]]It has been tested as a potential host but is less important than confirmed hosts."
         },
         {
           "type": "doc-heading",
@@ -1528,7 +1858,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Its association is experimental and does not demonstrate general field importance."
+          "text": "Its association is experimental and does not demonstrate general field importance.",
+          "prepared_text": "[[prepared]]Its association is experimental and does not demonstrate general field importance."
         },
         {
           "type": "doc-heading",
@@ -1542,7 +1873,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Further field confirmation is required."
+          "text": "Further field confirmation is required.",
+          "prepared_text": "[[prepared]]Further field confirmation is required."
         },
         {
           "type": "doc-heading",
@@ -1556,7 +1888,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Evidence of association is recent and experimental."
+          "text": "Evidence of association is recent and experimental.",
+          "prepared_text": "[[prepared]]Evidence of association is recent and experimental."
         },
         {
           "type": "doc-heading",
@@ -1575,15 +1908,18 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It has been recorded in Egypt and Turkey as a plant bearing mines or larvae attributed to Tuta absoluta."
+          "text": "It has been recorded in Egypt and Turkey as a plant bearing mines or larvae attributed to Tuta absoluta.",
+          "prepared_text": "[[prepared]]It has been recorded in Egypt and Turkey as a plant bearing mines or larvae attributed to Tuta absoluta."
         },
         {
           "type": "doc-paragraph",
-          "text": "However, evidence is conflicting because other experiments indicated either absence of oviposition or unsuitability of plants in the family Convolvulaceae for pest development. [9, 10]"
+          "text": "However, evidence is conflicting because other experiments indicated either absence of oviposition or unsuitability of plants in the family Convolvulaceae for pest development. [9, 10]",
+          "prepared_text": "[[prepared]]However, evidence is conflicting because other experiments indicated either absence of oviposition or unsuitability of plants in the family Convolvulaceae for pest development. [9, 10]"
         },
         {
           "type": "doc-paragraph",
-          "text": "Field bindweed is therefore classified as:"
+          "text": "Field bindweed is therefore classified as:",
+          "prepared_text": "[[prepared]]Field bindweed is therefore classified as:"
         },
         {
           "type": "doc-heading",
@@ -1592,7 +1928,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It should not be treated as a confirmed host equivalent to black nightshade."
+          "text": "It should not be treated as a confirmed host equivalent to black nightshade.",
+          "prepared_text": "[[prepared]]It should not be treated as a confirmed host equivalent to black nightshade."
         },
         {
           "type": "doc-heading",
@@ -1606,11 +1943,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It has been recorded during some field surveys, but suitability experiments showed that it is unsuitable for completion of pest development."
+          "text": "It has been recorded during some field surveys, but suitability experiments showed that it is unsuitable for completion of pest development.",
+          "prepared_text": "[[prepared]]It has been recorded during some field surveys, but suitability experiments showed that it is unsuitable for completion of pest development."
         },
         {
           "type": "doc-paragraph",
-          "text": "Field records may result from:"
+          "text": "Field records may result from:",
+          "prepared_text": "[[prepared]]Field records may result from:"
         },
         {
           "type": "doc-list",
@@ -1619,6 +1958,12 @@
             "Initial feeding.",
             "Larval movement.",
             "Confusion with other leaf miners."
+          ],
+          "prepared_items": [
+            "[[prepared]]Forced oviposition.",
+            "[[prepared]]Initial feeding.",
+            "[[prepared]]Larval movement.",
+            "[[prepared]]Confusion with other leaf miners."
           ]
         },
         {
@@ -1633,7 +1978,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "This species belongs to the family Solanaceae and has appeared in weed lists associated with the pest, but evidence that it supports the complete life cycle remains weaker than that available for black nightshade."
+          "text": "This species belongs to the family Solanaceae and has appeared in weed lists associated with the pest, but evidence that it supports the complete life cycle remains weaker than that available for black nightshade.",
+          "prepared_text": "[[prepared]]This species belongs to the family Solanaceae and has appeared in weed lists associated with the pest, but evidence that it supports the complete life cycle remains weaker than that available for black nightshade."
         },
         {
           "type": "doc-heading",
@@ -1647,7 +1993,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It has been recorded as a wild plant, but complete life-cycle information is unavailable. [4]"
+          "text": "It has been recorded as a wild plant, but complete life-cycle information is unavailable. [4]",
+          "prepared_text": "[[prepared]]It has been recorded as a wild plant, but complete life-cycle information is unavailable. [4]"
         },
         {
           "type": "doc-heading",
@@ -1661,7 +2008,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It has appeared in weed lists without sufficient information on completion of the life cycle. [4]"
+          "text": "It has appeared in weed lists without sufficient information on completion of the life cycle. [4]",
+          "prepared_text": "[[prepared]]It has appeared in weed lists without sufficient information on completion of the life cycle. [4]"
         },
         {
           "type": "doc-heading",
@@ -1746,6 +2094,83 @@
               "Amaranthus spinosus",
               "Unproven"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Category",
+            "[[prepared]]Plant",
+            "[[prepared]]Risk Level"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Confirmed and highly important",
+              "[[prepared]]Volunteer tomato plants",
+              "[[prepared]]Very high"
+            ],
+            [
+              "[[prepared]]Confirmed and highly important",
+              "[[prepared]]Solanum nigrum",
+              "[[prepared]]Very high"
+            ],
+            [
+              "[[prepared]]Confirmed",
+              "[[prepared]]Solanum sarrachoides",
+              "[[prepared]]Locally high"
+            ],
+            [
+              "[[prepared]]Confirmed",
+              "[[prepared]]Solanum coagulans",
+              "[[prepared]]Locally high"
+            ],
+            [
+              "[[prepared]]Confirmed",
+              "[[prepared]]Nicotiana glauca",
+              "[[prepared]]High where widespread"
+            ],
+            [
+              "[[prepared]]Experimental",
+              "[[prepared]]Datura stramonium",
+              "[[prepared]]Low"
+            ],
+            [
+              "[[prepared]]Experimental",
+              "[[prepared]]Datura ferox",
+              "[[prepared]]Very low"
+            ],
+            [
+              "[[prepared]]Experimental",
+              "[[prepared]]Solanum americanum",
+              "[[prepared]]Variable"
+            ],
+            [
+              "[[prepared]]Experimental",
+              "[[prepared]]Solanum viarum",
+              "[[prepared]]Variable"
+            ],
+            [
+              "[[prepared]]Conflicting record",
+              "[[prepared]]Convolvulus arvensis",
+              "[[prepared]]Requires confirmation"
+            ],
+            [
+              "[[prepared]]Unsuitable in experiments",
+              "[[prepared]]Chenopodium album",
+              "[[prepared]]Unconfirmed"
+            ],
+            [
+              "[[prepared]]Record without complete cycle",
+              "[[prepared]]Solanum elaeagnifolium",
+              "[[prepared]]Requires study"
+            ],
+            [
+              "[[prepared]]Suspected",
+              "[[prepared]]Xanthium strumarium",
+              "[[prepared]]Unproven"
+            ],
+            [
+              "[[prepared]]Suspected",
+              "[[prepared]]Amaranthus spinosus",
+              "[[prepared]]Unproven"
+            ]
           ]
         },
         {
@@ -1755,7 +2180,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Priority field inspection in Egypt should focus on:"
+          "text": "Priority field inspection in Egypt should focus on:",
+          "prepared_text": "[[prepared]]Priority field inspection in Egypt should focus on:"
         },
         {
           "type": "doc-list",
@@ -1768,11 +2194,22 @@
             "6. Field bindweed, Convolvulus arvensis.",
             "7. Jimsonweed, Datura stramonium.",
             "8. Long-spined thorn apple, Datura ferox."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Volunteer tomato plants.",
+            "[[prepared]]2. Black nightshade, Solanum nigrum.",
+            "[[prepared]]3. Wild Solanum species.",
+            "[[prepared]]4. Silverleaf nightshade, Solanum elaeagnifolium.",
+            "[[prepared]]5. Tree tobacco, Nicotiana glauca, where present.",
+            "[[prepared]]6. Field bindweed, Convolvulus arvensis.",
+            "[[prepared]]7. Jimsonweed, Datura stramonium.",
+            "[[prepared]]8. Long-spined thorn apple, Datura ferox."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The highest priority is assigned to volunteer tomato and black nightshade because evidence that they support the complete life cycle is stronger than for most other weeds."
+          "text": "The highest priority is assigned to volunteer tomato and black nightshade because evidence that they support the complete life cycle is stronger than for most other weeds.",
+          "prepared_text": "[[prepared]]The highest priority is assigned to volunteer tomato and black nightshade because evidence that they support the complete life cycle is stronger than for most other weeds."
         },
         {
           "type": "doc-heading",
@@ -1781,11 +2218,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The green bridge refers to the continued presence of living plants that the pest can use between two cropping seasons."
+          "text": "The green bridge refers to the continued presence of living plants that the pest can use between two cropping seasons.",
+          "prepared_text": "[[prepared]]The green bridge refers to the continued presence of living plants that the pest can use between two cropping seasons."
         },
         {
           "type": "doc-paragraph",
-          "text": "The persistence chain develops as follows:"
+          "text": "The persistence chain develops as follows:",
+          "prepared_text": "[[prepared]]The persistence chain develops as follows:"
         },
         {
           "type": "doc-list",
@@ -1797,11 +2236,21 @@
             "5. Eggs and larvae persist.",
             "6. A new tomato crop is planted.",
             "7. Moths move into the newly planted crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Tomato harvest ends.",
+            "[[prepared]]2. Larvae and pupae remain in crop residues.",
+            "[[prepared]]3. Adult moths emerge.",
+            "[[prepared]]4. They move to volunteer tomato, black nightshade, or alternative hosts.",
+            "[[prepared]]5. Eggs and larvae persist.",
+            "[[prepared]]6. A new tomato crop is planted.",
+            "[[prepared]]7. Moths move into the newly planted crop."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The risk of a green bridge increases when:"
+          "text": "The risk of a green bridge increases when:",
+          "prepared_text": "[[prepared]]The risk of a green bridge increases when:"
         },
         {
           "type": "doc-list",
@@ -1811,6 +2260,13 @@
             "Volunteer plants are not removed.",
             "Solanaceous weeds grow around nurseries.",
             "Potato and eggplant are grown beside tomato."
+          ],
+          "prepared_items": [
+            "[[prepared]]Planting dates overlap.",
+            "[[prepared]]Old fields are left after the final harvest.",
+            "[[prepared]]Volunteer plants are not removed.",
+            "[[prepared]]Solanaceous weeds grow around nurseries.",
+            "[[prepared]]Potato and eggplant are grown beside tomato."
           ]
         },
         {
@@ -1820,7 +2276,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Plant species affects:"
+          "text": "Plant species affects:",
+          "prepared_text": "[[prepared]]Plant species affects:"
         },
         {
           "type": "doc-list",
@@ -1833,11 +2290,22 @@
             "Adult size.",
             "Female fecundity.",
             "Population-growth rate."
+          ],
+          "prepared_items": [
+            "[[prepared]]Oviposition preference.",
+            "[[prepared]]Larval duration.",
+            "[[prepared]]Survival percentage.",
+            "[[prepared]]Pupal weight.",
+            "[[prepared]]Generation duration.",
+            "[[prepared]]Adult size.",
+            "[[prepared]]Female fecundity.",
+            "[[prepared]]Population-growth rate."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "In one comparative study involving several crops:"
+          "text": "In one comparative study involving several crops:",
+          "prepared_text": "[[prepared]]In one comparative study involving several crops:"
         },
         {
           "type": "doc-table",
@@ -1867,11 +2335,39 @@
               "25.9 days",
               "24%"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Plant",
+            "[[prepared]]Developmental Duration",
+            "[[prepared]]Survival Percentage"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Tomato",
+              "[[prepared]]22.2 days",
+              "[[prepared]]84%"
+            ],
+            [
+              "[[prepared]]Potato",
+              "[[prepared]]24.4 days",
+              "[[prepared]]40%"
+            ],
+            [
+              "[[prepared]]African eggplant",
+              "[[prepared]]24.3 days",
+              "[[prepared]]52%"
+            ],
+            [
+              "[[prepared]]Eggplant",
+              "[[prepared]]25.9 days",
+              "[[prepared]]24%"
+            ]
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The results show that the ability to complete the life cycle does not mean that all plants are equal in quality."
+          "text": "The results show that the ability to complete the life cycle does not mean that all plants are equal in quality.",
+          "prepared_text": "[[prepared]]The results show that the ability to complete the life cycle does not mean that all plants are equal in quality."
         },
         {
           "type": "doc-heading",
@@ -1880,7 +2376,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The female passes through several stages before oviposition:"
+          "text": "The female passes through several stages before oviposition:",
+          "prepared_text": "[[prepared]]The female passes through several stages before oviposition:"
         },
         {
           "type": "doc-list",
@@ -1892,11 +2389,21 @@
             "5. Contacting trichomes and chemical compounds.",
             "6. Accepting or rejecting the plant.",
             "7. Laying eggs."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Detecting plant odors.",
+            "[[prepared]]2. Moving toward the odor source.",
+            "[[prepared]]3. Landing on the plant.",
+            "[[prepared]]4. Examining the leaf surface.",
+            "[[prepared]]5. Contacting trichomes and chemical compounds.",
+            "[[prepared]]6. Accepting or rejecting the plant.",
+            "[[prepared]]7. Laying eggs."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Choice studies showed the following general preference order:"
+          "text": "Choice studies showed the following general preference order:",
+          "prepared_text": "[[prepared]]Choice studies showed the following general preference order:"
         },
         {
           "type": "doc-heading",
@@ -1905,11 +2412,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Biological performance of the immature stages was largely consistent with female preference. [2]"
+          "text": "Biological performance of the immature stages was largely consistent with female preference. [2]",
+          "prepared_text": "[[prepared]]Biological performance of the immature stages was largely consistent with female preference. [2]"
         },
         {
           "type": "doc-paragraph",
-          "text": "However, preference order may vary among regions because of:"
+          "text": "However, preference order may vary among regions because of:",
+          "prepared_text": "[[prepared]]However, preference order may vary among regions because of:"
         },
         {
           "type": "doc-list",
@@ -1919,6 +2428,13 @@
             "Local cultivars.",
             "Climatic conditions.",
             "Previous insect experience."
+          ],
+          "prepared_items": [
+            "[[prepared]]Differences among pest populations.",
+            "[[prepared]]Host availability.",
+            "[[prepared]]Local cultivars.",
+            "[[prepared]]Climatic conditions.",
+            "[[prepared]]Previous insect experience."
           ]
         },
         {
@@ -1928,7 +2444,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Crop rotation does not successfully reduce Tuta absoluta if tomato is replaced directly by a suitable solanaceous crop such as:"
+          "text": "Crop rotation does not successfully reduce Tuta absoluta if tomato is replaced directly by a suitable solanaceous crop such as:",
+          "prepared_text": "[[prepared]]Crop rotation does not successfully reduce Tuta absoluta if tomato is replaced directly by a suitable solanaceous crop such as:"
         },
         {
           "type": "doc-list",
@@ -1936,11 +2453,17 @@
             "Potato.",
             "Eggplant.",
             "African eggplant."
+          ],
+          "prepared_items": [
+            "[[prepared]]Potato.",
+            "[[prepared]]Eggplant.",
+            "[[prepared]]African eggplant."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Rotation becomes more effective when it includes:"
+          "text": "Rotation becomes more effective when it includes:",
+          "prepared_text": "[[prepared]]Rotation becomes more effective when it includes:"
         },
         {
           "type": "doc-list",
@@ -1950,11 +2473,19 @@
             "Removal of infested solanaceous weeds.",
             "Disposal of crop residues.",
             "A host-free period."
+          ],
+          "prepared_items": [
+            "[[prepared]]Absence of plants belonging to the genus Solanum.",
+            "[[prepared]]Removal of volunteer tomato.",
+            "[[prepared]]Removal of infested solanaceous weeds.",
+            "[[prepared]]Disposal of crop residues.",
+            "[[prepared]]A host-free period."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "West African experiments showed that the insect could not complete its life cycle on most crops outside the genus Solanum, supporting the importance of a period during which this genus is absent from the production area. [3]"
+          "text": "West African experiments showed that the insect could not complete its life cycle on most crops outside the genus Solanum, supporting the importance of a period during which this genus is absent from the production area. [3]",
+          "prepared_text": "[[prepared]]West African experiments showed that the insect could not complete its life cycle on most crops outside the genus Solanum, supporting the importance of a period during which this genus is absent from the production area. [3]"
         },
         {
           "type": "doc-heading",
@@ -1963,7 +2494,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "When a new plant is suspected, the following steps should be followed:"
+          "text": "When a new plant is suspected, the following steps should be followed:",
+          "prepared_text": "[[prepared]]When a new plant is suspected, the following steps should be followed:"
         },
         {
           "type": "doc-list",
@@ -1981,11 +2513,27 @@
             "11. Confirm the identity of the moth.",
             "12. Repeat the observation on several plants.",
             "13. Evaluate the reproductive capacity of the resulting adult."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Determine the scientific name of the plant.",
+            "[[prepared]]2. Photograph the plant and its location.",
+            "[[prepared]]3. Examine for eggs.",
+            "[[prepared]]4. Search for recent mines.",
+            "[[prepared]]5. Open the mines.",
+            "[[prepared]]6. Confirm that the larva is lepidopteran and possesses a head and legs.",
+            "[[prepared]]7. Exclude Liriomyza larvae.",
+            "[[prepared]]8. Collect the infested plant part.",
+            "[[prepared]]9. Rear the larva until pupation.",
+            "[[prepared]]10. Monitor adult emergence.",
+            "[[prepared]]11. Confirm the identity of the moth.",
+            "[[prepared]]12. Repeat the observation on several plants.",
+            "[[prepared]]13. Evaluate the reproductive capacity of the resulting adult."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Emergence of an adult moth from a larva that fed on the plant provides stronger evidence than the presence of eggs or mines alone."
+          "text": "Emergence of an adult moth from a larva that fed on the plant provides stronger evidence than the presence of eggs or mines alone.",
+          "prepared_text": "[[prepared]]Emergence of an adult moth from a larva that fed on the plant provides stronger evidence than the presence of eggs or mines alone."
         },
         {
           "type": "doc-heading",
@@ -1999,7 +2547,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "They should be removed before they permit development of a new generation."
+          "text": "They should be removed before they permit development of a new generation.",
+          "prepared_text": "[[prepared]]They should be removed before they permit development of a new generation."
         },
         {
           "type": "doc-heading",
@@ -2008,7 +2557,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Plants should be inspected inside fields, along margins, and around drainage channels, and infested plants should be removed in a manner that prevents emergence of larvae and adults."
+          "text": "Plants should be inspected inside fields, along margins, and around drainage channels, and infested plants should be removed in a manner that prevents emergence of larvae and adults.",
+          "prepared_text": "[[prepared]]Plants should be inspected inside fields, along margins, and around drainage channels, and infested plants should be removed in a manner that prevents emergence of larvae and adults."
         },
         {
           "type": "doc-heading",
@@ -2017,7 +2567,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Residues should be shredded, buried, or disposed of away from the new crop."
+          "text": "Residues should be shredded, buried, or disposed of away from the new crop.",
+          "prepared_text": "[[prepared]]Residues should be shredded, buried, or disposed of away from the new crop."
         },
         {
           "type": "doc-heading",
@@ -2026,7 +2577,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Larvae may continue developing within removed plants, then pupate and produce adults."
+          "text": "Larvae may continue developing within removed plants, then pupate and produce adults.",
+          "prepared_text": "[[prepared]]Larvae may continue developing within removed plants, then pupate and produce adults."
         },
         {
           "type": "doc-heading",
@@ -2035,7 +2587,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Wild solanaceous hosts should be removed from the area surrounding the nursery."
+          "text": "Wild solanaceous hosts should be removed from the area surrounding the nursery.",
+          "prepared_text": "[[prepared]]Wild [[term:solanaceae]]solanaceous hosts[[/term]] should be removed from the area surrounding the nursery."
         },
         {
           "type": "doc-heading",
@@ -2044,7 +2597,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Not every weed should be removed merely because it is present. Some non-host plants may support:"
+          "text": "Not every weed should be removed merely because it is present. Some non-host plants may support:",
+          "prepared_text": "[[prepared]]Not every weed should be removed merely because it is present. Some non-host plants may support:"
         },
         {
           "type": "doc-list",
@@ -2053,11 +2607,18 @@
             "Parasitoids.",
             "Pollinators.",
             "Nectar sources."
+          ],
+          "prepared_items": [
+            "[[prepared]]Predators.",
+            "[[prepared]]Parasitoids.",
+            "[[prepared]]Pollinators.",
+            "[[prepared]]Nectar sources."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Beneficial non-host plants should be retained when they do not represent a pest source."
+          "text": "Beneficial non-host plants should be retained when they do not represent a pest source.",
+          "prepared_text": "[[prepared]]Beneficial non-host plants should be retained when they do not represent a pest source."
         },
         {
           "type": "doc-heading",
@@ -2066,11 +2627,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Adults emerging from an old host must be prevented from moving into the new crop."
+          "text": "Adults emerging from an old host must be prevented from moving into the new crop.",
+          "prepared_text": "[[prepared]]Adults emerging from an old host must be prevented from moving into the new crop."
         },
         {
           "type": "doc-paragraph",
-          "text": "Removal should be integrated with:"
+          "text": "Removal should be integrated with:",
+          "prepared_text": "[[prepared]]Removal should be integrated with:"
         },
         {
           "type": "doc-list",
@@ -2080,6 +2643,13 @@
             "Shredding of residues.",
             "Inspection of neighboring fields.",
             "Safe disposal of infested tissues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Traps.",
+            "[[prepared]]Monitoring.",
+            "[[prepared]]Shredding of residues.",
+            "[[prepared]]Inspection of neighboring fields.",
+            "[[prepared]]Safe disposal of infested tissues."
           ]
         },
         {
@@ -2094,7 +2664,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The mine may have been caused by another insect."
+          "text": "The mine may have been caused by another insect.",
+          "prepared_text": "[[prepared]]The mine may have been caused by another insect."
         },
         {
           "type": "doc-heading",
@@ -2103,7 +2674,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A female may lay eggs on a plant that does not permit completion of the life cycle."
+          "text": "A female may lay eggs on a plant that does not permit completion of the life cycle.",
+          "prepared_text": "[[prepared]]A female may lay eggs on a plant that does not permit completion of the life cycle."
         },
         {
           "type": "doc-heading",
@@ -2112,7 +2684,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato, potato, eggplant, pepper, and jimsonweed differ greatly in suitability."
+          "text": "Tomato, potato, eggplant, pepper, and jimsonweed differ greatly in suitability.",
+          "prepared_text": "[[prepared]]Tomato, potato, eggplant, pepper, and jimsonweed differ greatly in suitability."
         },
         {
           "type": "doc-heading",
@@ -2121,7 +2694,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Older lists included plants on which only an egg or mine had been recorded."
+          "text": "Older lists included plants on which only an egg or mine had been recorded.",
+          "prepared_text": "[[prepared]]Older lists included plants on which only an egg or mine had been recorded."
         },
         {
           "type": "doc-heading",
@@ -2130,7 +2704,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Local records exist, but study results are conflicting, and it should not be treated as a complete host without confirmation."
+          "text": "Local records exist, but study results are conflicting, and it should not be treated as a complete host without confirmation.",
+          "prepared_text": "[[prepared]]Local records exist, but study results are conflicting, and it should not be treated as a complete host without confirmation."
         },
         {
           "type": "doc-heading",
@@ -2139,7 +2714,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The pest may persist on volunteer tomato, black nightshade, potato, and eggplant."
+          "text": "The pest may persist on volunteer tomato, black nightshade, potato, and eggplant.",
+          "prepared_text": "[[prepared]]The pest may persist on volunteer tomato, black nightshade, potato, and eggplant."
         },
         {
           "type": "doc-heading",
@@ -2148,7 +2724,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Potato is a confirmed host, although tomato is more preferred."
+          "text": "Potato is a confirmed host, although tomato is more preferred.",
+          "prepared_text": "[[prepared]]Potato is a confirmed host, although tomato is more preferred."
         },
         {
           "type": "doc-heading",
@@ -2157,7 +2734,8 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Removal should focus on confirmed and infested hosts while preserving non-host plants that support natural enemies."
+          "text": "Removal should focus on confirmed and infested hosts while preserving non-host plants that support natural enemies.",
+          "prepared_text": "[[prepared]]Removal should focus on confirmed and infested hosts while preserving non-host plants that support natural enemies."
         },
         {
           "type": "doc-heading",
@@ -2335,6 +2913,176 @@
               "Xanthium strumarium",
               "Record without confirmation"
             ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Category",
+            "[[prepared]]Plant",
+            "[[prepared]]Scientific Name",
+            "[[prepared]]Assessment"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Principal host",
+              "[[prepared]]Tomato",
+              "[[prepared]]Solanum lycopersicum",
+              "[[prepared]]Most preferred and suitable"
+            ],
+            [
+              "[[prepared]]Principal field host",
+              "[[prepared]]Volunteer tomato",
+              "[[prepared]]Solanum lycopersicum",
+              "[[prepared]]Highly dangerous reservoir"
+            ],
+            [
+              "[[prepared]]Confirmed host",
+              "[[prepared]]Potato",
+              "[[prepared]]Solanum tuberosum",
+              "[[prepared]]Complete cycle, lower performance than tomato"
+            ],
+            [
+              "[[prepared]]Confirmed host",
+              "[[prepared]]Eggplant",
+              "[[prepared]]Solanum melongena",
+              "[[prepared]]Complete cycle, lower survival"
+            ],
+            [
+              "[[prepared]]Confirmed host",
+              "[[prepared]]African eggplant",
+              "[[prepared]]Solanum aethiopicum",
+              "[[prepared]]Complete cycle"
+            ],
+            [
+              "[[prepared]]Confirmed host",
+              "[[prepared]]Pepino",
+              "[[prepared]]Solanum muricatum",
+              "[[prepared]]Complete cycle experimentally"
+            ],
+            [
+              "[[prepared]]Confirmed wild host",
+              "[[prepared]]Black nightshade",
+              "[[prepared]]Solanum nigrum",
+              "[[prepared]]Most important host weed"
+            ],
+            [
+              "[[prepared]]Confirmed wild host",
+              "[[prepared]]Hairy nightshade",
+              "[[prepared]]Solanum sarrachoides",
+              "[[prepared]]Experimentally confirmed"
+            ],
+            [
+              "[[prepared]]Confirmed wild host",
+              "[[prepared]]Wild eggplant",
+              "[[prepared]]Solanum coagulans",
+              "[[prepared]]Locally confirmed"
+            ],
+            [
+              "[[prepared]]Confirmed wild host",
+              "[[prepared]]Tree tobacco",
+              "[[prepared]]Nicotiana glauca",
+              "[[prepared]]Complete cycle"
+            ],
+            [
+              "[[prepared]]Recent record",
+              "[[prepared]]Indian nightshade",
+              "[[prepared]]Solanum indicum",
+              "[[prepared]]Confirmed infestation; broader assessment needed"
+            ],
+            [
+              "[[prepared]]Experimental host",
+              "[[prepared]]Pepper",
+              "[[prepared]]Capsicum spp.",
+              "[[prepared]]Weak and inconsistent"
+            ],
+            [
+              "[[prepared]]Experimental host",
+              "[[prepared]]Cultivated tobacco",
+              "[[prepared]]Nicotiana tabacum",
+              "[[prepared]]Low preference"
+            ],
+            [
+              "[[prepared]]Experimental host",
+              "[[prepared]]Jimsonweed",
+              "[[prepared]]Datura stramonium",
+              "[[prepared]]Usually does not complete the cycle"
+            ],
+            [
+              "[[prepared]]Experimental host",
+              "[[prepared]]Long-spined thorn apple",
+              "[[prepared]]Datura ferox",
+              "[[prepared]]No oviposition recorded in tests"
+            ],
+            [
+              "[[prepared]]Experimental host",
+              "[[prepared]]Bittersweet nightshade",
+              "[[prepared]]Solanum dulcamara",
+              "[[prepared]]Limited"
+            ],
+            [
+              "[[prepared]]Experimental host",
+              "[[prepared]]Goji berry",
+              "[[prepared]]Lycium barbarum",
+              "[[prepared]]Not field-confirmed"
+            ],
+            [
+              "[[prepared]]Poorly suitable host",
+              "[[prepared]]Common bean",
+              "[[prepared]]Phaseolus vulgaris",
+              "[[prepared]]Variable results"
+            ],
+            [
+              "[[prepared]]Partial development",
+              "[[prepared]]Onion",
+              "[[prepared]]Allium cepa",
+              "[[prepared]]Feeding without pupation"
+            ],
+            [
+              "[[prepared]]Conflicting record",
+              "[[prepared]]Field bindweed",
+              "[[prepared]]Convolvulus arvensis",
+              "[[prepared]]Requires confirmation"
+            ],
+            [
+              "[[prepared]]Unsuitable",
+              "[[prepared]]Common lambsquarters",
+              "[[prepared]]Chenopodium album",
+              "[[prepared]]Does not complete development"
+            ],
+            [
+              "[[prepared]]Suspected",
+              "[[prepared]]Watermelon",
+              "[[prepared]]Citrullus lanatus",
+              "[[prepared]]No documented complete cycle"
+            ],
+            [
+              "[[prepared]]Suspected",
+              "[[prepared]]Squash and pumpkin",
+              "[[prepared]]Cucurbita pepo",
+              "[[prepared]]Oviposition without complete cycle"
+            ],
+            [
+              "[[prepared]]Suspected",
+              "[[prepared]]Beet",
+              "[[prepared]]Beta vulgaris",
+              "[[prepared]]No confirmed oviposition"
+            ],
+            [
+              "[[prepared]]Suspected",
+              "[[prepared]]Alfalfa",
+              "[[prepared]]Medicago sativa",
+              "[[prepared]]No complete life-cycle data"
+            ],
+            [
+              "[[prepared]]Suspected",
+              "[[prepared]]Spinach",
+              "[[prepared]]Spinacia oleracea",
+              "[[prepared]]No complete life-cycle data"
+            ],
+            [
+              "[[prepared]]Suspected",
+              "[[prepared]]Cocklebur",
+              "[[prepared]]Xanthium strumarium",
+              "[[prepared]]Record without confirmation"
+            ]
           ]
         },
         {
@@ -2344,11 +3092,13 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Tomato is the principal and most suitable host of Tuta absoluta, on which the insect achieves the highest oviposition preference, fastest development, highest survival, and greatest reproduction."
+          "text": "Tomato is the principal and most suitable host of Tuta absoluta, on which the insect achieves the highest oviposition preference, fastest development, highest survival, and greatest reproduction.",
+          "prepared_text": "[[prepared]]Tomato is the principal and most suitable host of Tuta absoluta, on which the insect achieves the highest oviposition preference, fastest development, highest survival, and greatest reproduction."
         },
         {
           "type": "doc-paragraph",
-          "text": "Confirmed hosts include:"
+          "text": "Confirmed hosts include:",
+          "prepared_text": "[[prepared]]Confirmed hosts include:"
         },
         {
           "type": "doc-list",
@@ -2361,31 +3111,47 @@
             "Hairy nightshade.",
             "Some wild eggplant species.",
             "Tree tobacco."
+          ],
+          "prepared_items": [
+            "[[prepared]]Potato.",
+            "[[prepared]]Eggplant.",
+            "[[prepared]]African eggplant.",
+            "[[prepared]]Pepino.",
+            "[[prepared]]Black nightshade.",
+            "[[prepared]]Hairy nightshade.",
+            "[[prepared]]Some wild eggplant species.",
+            "[[prepared]]Tree tobacco."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Volunteer tomato, black nightshade, potato, eggplant, and tree tobacco function as alternative hosts that help the pest persist between cropping seasons."
+          "text": "Volunteer tomato, black nightshade, potato, eggplant, and tree tobacco function as alternative hosts that help the pest persist between cropping seasons.",
+          "prepared_text": "[[prepared]]Volunteer tomato, black nightshade, potato, eggplant, and tree tobacco function as alternative hosts that help the pest persist between cropping seasons."
         },
         {
           "type": "doc-paragraph",
-          "text": "Pepper, cultivated tobacco, jimsonweed, bean, and several wild plants vary in suitability and should not be treated as confirmed hosts in every region."
+          "text": "Pepper, cultivated tobacco, jimsonweed, bean, and several wild plants vary in suitability and should not be treated as confirmed hosts in every region.",
+          "prepared_text": "[[prepared]]Pepper, cultivated tobacco, jimsonweed, bean, and several wild plants vary in suitability and should not be treated as confirmed hosts in every region."
         },
         {
           "type": "doc-paragraph",
-          "text": "Suspected hosts include several non-solanaceous plants that appeared in older lists without proof of complete life-cycle development."
+          "text": "Suspected hosts include several non-solanaceous plants that appeared in older lists without proof of complete life-cycle development.",
+          "prepared_text": "[[prepared]]Suspected hosts include several non-solanaceous plants that appeared in older lists without proof of complete life-cycle development."
         },
         {
           "type": "doc-paragraph",
-          "text": "Solanaceous weeds, especially black nightshade and volunteer tomato, are the most important sources of the green bridge between seasons."
+          "text": "Solanaceous weeds, especially black nightshade and volunteer tomato, are the most important sources of the green bridge between seasons.",
+          "prepared_text": "[[prepared]]Solanaceous weeds, especially black nightshade and volunteer tomato, are the most important sources of the green bridge between seasons."
         },
         {
           "type": "doc-paragraph",
-          "text": "Confirmation of a true host depends on completion of the insect’s life cycle, not merely on finding an egg, mine, or larva."
+          "text": "Confirmation of a true host depends on completion of the insect’s life cycle, not merely on finding an egg, mine, or larva.",
+          "prepared_text": "[[prepared]]Confirmation of a true host depends on completion of the insect’s life cycle, not merely on finding an egg, mine, or larva."
         },
         {
           "type": "doc-paragraph",
-          "text": "Host management depends on:"
+          "text": "Host management depends on:",
+          "prepared_text": "[[prepared]]Host management depends on:"
         },
         {
           "type": "doc-list",
@@ -2397,6 +3163,15 @@
             "Inspecting weeds around nurseries and fields.",
             "Maintaining a host-free period without plants of the genus Solanum.",
             "Avoiding indiscriminate removal of non-host weeds when they support natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removing volunteer tomato plants.",
+            "[[prepared]]Managing black nightshade and confirmed wild hosts.",
+            "[[prepared]]Disposing of crop residues.",
+            "[[prepared]]Preventing overlap among solanaceous crops.",
+            "[[prepared]]Inspecting weeds around nurseries and fields.",
+            "[[prepared]]Maintaining a host-free period without plants of the genus Solanum.",
+            "[[prepared]]Avoiding indiscriminate removal of non-host weeds when they support natural enemies."
           ]
         },
         {

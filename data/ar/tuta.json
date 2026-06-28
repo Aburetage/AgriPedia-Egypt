@@ -25,7 +25,38 @@
     },
     {
       "tab_title": "الوصف المورفولوجي",
-      "content_path": "tuta/5.json"
+      "parts": [
+        {
+          "part_title": "الجزء الأول: المدخل العام للوصف المورفولوجي",
+          "part_short_title": "المدخل العام للوصف المورفولوجي",
+          "part_subtitle": "",
+          "content_path": "tuta/5/0.json"
+        },
+        {
+          "part_title": "الجزء الثاني: البيضة",
+          "part_short_title": "البيضة",
+          "part_subtitle": "الصفات المورفولوجية والحضانة والفقس والأهمية التطبيقية",
+          "content_path": "tuta/5/1.json"
+        },
+        {
+          "part_title": "الجزء الثالث: اليرقة",
+          "part_short_title": "اليرقة",
+          "part_subtitle": "الأعمار اليرقية والصفات التشخيصية والسلوك والأهمية التطبيقية",
+          "content_path": "tuta/5/2.json"
+        },
+        {
+          "part_title": "الجزء الرابع: طور العذراء",
+          "part_short_title": "طور العذراء",
+          "part_subtitle": "الصفات المورفولوجية، أماكن التعذر، مدة التطور، الحساسية والأهمية التطبيقية",
+          "content_path": "tuta/5/3.json"
+        },
+        {
+          "part_title": "الجزء الخامس: الحشرة الكاملة «العثة»",
+          "part_short_title": "الحشرة الكاملة «العثة»",
+          "part_subtitle": "الصفات المورفولوجية، الفروق الجنسية، النشاط، التكاثر والأهمية التطبيقية",
+          "content_path": "tuta/5/4.json"
+        }
+      ]
     },
     {
       "tab_title": "دورة الحياة",

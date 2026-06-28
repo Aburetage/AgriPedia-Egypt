@@ -1,17 +1,15 @@
-const CACHE_NAME = 'agripedia-v31';
+const CACHE_NAME = 'agripedia-v32';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
-  './css/style.css?v=24',
-  './js/app.js?v=25',
+  './css/style.css?v=25',
+  './js/app.js?v=26',
   './manifest.json',
   './data/ar/index.json',
   './data/ar/glossary.json',
-  './data/ar/search-index.json',
   './data/ar/tuta.json',
   './data/en/index.json',
   './data/en/glossary.json',
-  './data/en/search-index.json',
   './data/en/tuta.json'
 ];
 

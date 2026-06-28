@@ -126,7 +126,18 @@
         { "text": "التسمية والأسماء الشائعة", "target": "tuta", "disabled": false },
         { "text": "التصنيف العلمي", "target": "tuta", "disabled": false },
         { "text": "الظهور والانتشار العالمي", "target": "tuta", "disabled": false },
-        { "text": "الوصف المورفولوجي", "target": "tuta", "disabled": false },
+        {
+          "text": "الوصف المورفولوجي",
+          "target": "tuta",
+          "disabled": false,
+          "children": [
+            { "text": "الجزء الأول: المدخل العام", "part_index": 0 },
+            { "text": "الجزء الثاني: البيضة", "part_index": 1 },
+            { "text": "الجزء الثالث: اليرقة", "part_index": 2 },
+            { "text": "الجزء الرابع: العذراء", "part_index": 3 },
+            { "text": "الجزء الخامس: الحشرة الكاملة", "part_index": 4 }
+          ]
+        },
         { "text": "دورة الحياة", "target": "tuta", "disabled": false },
         { "text": "العوائل النباتية", "target": "tuta", "disabled": false },
         { "text": "الأعراض والأضرار والخسائر الاقتصادية", "target": "tuta", "disabled": false }

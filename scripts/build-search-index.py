@@ -46,45 +46,57 @@ def build_language_index(lang: str) -> list[dict]:
     for chapter_id in chapter_ids:
         manifest = read_json(data_root / f"{chapter_id}.json")
         for tab_index, tab_manifest in enumerate(manifest["tabs"]):
-            tab_path = data_root / tab_manifest.get("content_path", f"{chapter_id}/{tab_index}.json")
-            tab = read_json(tab_path)
-            article = next((block for block in tab.get("content_blocks", []) if block.get("type") == "doc-article"), None)
-            if not article:
-                continue
-
-            section_index = 0
-            section_title = tab["tab_title"]
-            section_parts: list[str] = []
-
-            def flush_section() -> None:
-                if not section_index or not section_parts:
-                    return
-                text = re.sub(r"\s+", " ", " ".join(section_parts)).strip()
-                search_index.append({
-                    "chapterId": chapter_id,
-                    "chapterTitle": manifest["chapter_title"],
-                    "tabIndex": tab_index,
-                    "tabTitle": tab["tab_title"],
-                    "sectionIndex": section_index,
-                    "sectionTitle": section_title,
-                    "text": text,
-                })
-
-            for item in article.get("items", []):
-                if item.get("type") == "doc-heading" and int(item.get("level", 0)) == 2:
-                    flush_section()
-                    title = str(item.get("text", "")).strip()
-                    if title.casefold() in REFERENCE_TITLES:
-                        section_parts = []
-                        break
-                    section_index += 1
-                    section_title = title
-                    section_parts = []
-                    continue
-                if section_index and item.get("type") != "reference-list":
-                    section_parts.extend(item_text_parts(item))
+            sources: list[tuple[int | None, dict, dict]] = []
+            if isinstance(tab_manifest.get("parts"), list):
+                for part_index, part_manifest in enumerate(tab_manifest["parts"]):
+                    part_path = data_root / part_manifest["content_path"]
+                    sources.append((part_index, part_manifest, read_json(part_path)))
             else:
-                flush_section()
+                tab_path = data_root / tab_manifest.get("content_path", f"{chapter_id}/{tab_index}.json")
+                sources.append((None, {}, read_json(tab_path)))
+
+            for part_index, part_manifest, tab in sources:
+                article = next((block for block in tab.get("content_blocks", []) if block.get("type") == "doc-article"), None)
+                if not article:
+                    continue
+
+                section_index = 0
+                section_title = tab["tab_title"]
+                section_parts: list[str] = []
+
+                def flush_section() -> None:
+                    if not section_index or not section_parts:
+                        return
+                    text = re.sub(r"\s+", " ", " ".join(section_parts)).strip()
+                    entry = {
+                        "chapterId": chapter_id,
+                        "chapterTitle": manifest["chapter_title"],
+                        "tabIndex": tab_index,
+                        "tabTitle": tab["tab_title"],
+                        "sectionIndex": section_index,
+                        "sectionTitle": section_title,
+                        "text": text,
+                    }
+                    if part_index is not None:
+                        entry["partIndex"] = part_index
+                        entry["partTitle"] = part_manifest.get("part_short_title") or part_manifest.get("part_title", "")
+                    search_index.append(entry)
+
+                for item in article.get("items", []):
+                    if item.get("type") == "doc-heading" and int(item.get("level", 0)) == 2:
+                        flush_section()
+                        title = str(item.get("text", "")).strip()
+                        if title.casefold() in REFERENCE_TITLES:
+                            section_parts = []
+                            break
+                        section_index += 1
+                        section_title = title
+                        section_parts = []
+                        continue
+                    if section_index and item.get("type") != "reference-list":
+                        section_parts.extend(item_text_parts(item))
+                else:
+                    flush_section()
 
     return search_index
 

@@ -25,7 +25,38 @@
     },
     {
       "tab_title": "Morphological Description",
-      "content_path": "tuta/5.json"
+      "parts": [
+        {
+          "part_title": "Part One: General Introduction to Morphological Description",
+          "part_short_title": "General Introduction to Morphological Description",
+          "part_subtitle": "",
+          "content_path": "tuta/5/0.json"
+        },
+        {
+          "part_title": "Part Two: The Egg",
+          "part_short_title": "The Egg",
+          "part_subtitle": "Morphological Characteristics, Incubation, Hatching, and Applied Importance",
+          "content_path": "tuta/5/1.json"
+        },
+        {
+          "part_title": "Part Three: The Larva",
+          "part_short_title": "The Larva",
+          "part_subtitle": "Larval Instars, Diagnostic Characteristics, Behavior, and Applied Importance",
+          "content_path": "tuta/5/2.json"
+        },
+        {
+          "part_title": "Part Four: The Pupal Stage",
+          "part_short_title": "The Pupal Stage",
+          "part_subtitle": "Morphological Characteristics, Pupation Sites, Developmental Duration, Sensitivity, and Applied Importance",
+          "content_path": "tuta/5/3.json"
+        },
+        {
+          "part_title": "Part Five: The Adult Insect “Moth”",
+          "part_short_title": "The Adult Insect “Moth”",
+          "part_subtitle": "Morphological Characteristics, Sexual Differences, Activity, Reproduction, and Applied Importance",
+          "content_path": "tuta/5/4.json"
+        }
+      ]
     },
     {
       "tab_title": "Life Cycle",
