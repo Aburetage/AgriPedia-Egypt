@@ -1,0 +1,2290 @@
+{
+  "tab_title": "Symptoms, Damage, and Economic Losses",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Nine"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Symptoms, Damage, and Economic Losses Caused by Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Diagnostic Symptoms, Effects of Infestation on the Plant and Yield, and Assessment of Economic Damage"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is one of the most serious insect pests of tomato because its larvae can attack most aerial parts of the plant from the seedling stage until fruit maturity."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Damage is not caused by the adult insect or the pupa, but by larvae that mine within plant tissues, feeding between the two leaf epidermal layers or entering growing points, stems, flowers, and fruits."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation is particularly serious because larvae remain concealed within plant tissues, where the mines provide partial protection from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Sunlight.",
+            "Desiccation.",
+            "Rainfall.",
+            "Some predators.",
+            "Insecticides remaining on the external plant surface."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation causes losses through two principal pathways:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Direct losses resulting from tissue consumption and fruit damage.",
+            "2. Indirect losses resulting from pathogen entry, reduced plant efficiency, increased sorting and control costs, and crop rejection."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Losses may range from low levels that the plant can compensate for to near-total loss of marketable yield under severe infestation without effective management."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Difference Between Infestation, Damage, and Loss"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Three basic terms must be distinguished."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Infestation"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This means the presence of the pest or any of its stages on the plant, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Presence of eggs.",
+            "Presence of a live larva.",
+            "Presence of an active mine.",
+            "Presence of a pupa.",
+            "Presence of adult moths in traps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation does not necessarily mean that an economic loss has occurred."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Damage"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Damage is the visible or functional change caused by the insect in the plant, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaf mines.",
+            "Death of the growing point.",
+            "Stem boring.",
+            "Fruit holes.",
+            "Leaf desiccation.",
+            "Reduction in green leaf area."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Loss"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Loss"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Economic loss is the reduction in crop value resulting from infestation and includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced yield weight.",
+            "Increased rejected fruit.",
+            "Lower proportion of marketable yield.",
+            "Rejection of a shipment or factory delivery.",
+            "Increased sorting costs.",
+            "Increased control costs.",
+            "Reduced harvesting and packing efficiency.",
+            "Loss of part of the quality or shelf life."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Low leaf infestation may occur without a clear economic loss, whereas a single hole in a fresh-market tomato fruit may cause it to be rejected."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Stage Responsible for Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva is responsible for all direct damage."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Damage severity varies according to larval instar:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Larval Instar",
+            "Nature of Damage"
+          ],
+          "rows": [
+            [
+              "First instar, L1",
+              "Initiation of small, limited mines"
+            ],
+            [
+              "Second instar, L2",
+              "Enlargement of mines and increased tissue consumption"
+            ],
+            [
+              "Third instar, L3",
+              "Broad mines and movement into growing points, stems, and fruits"
+            ],
+            [
+              "Fourth instar, L4",
+              "Highest tissue consumption and most severe damage to fruits and stems"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not all larvae are equally important. A young larva may be present without producing extensive damage, whereas an advanced larva may spoil more than one leaf or fruit by leaving one mine and moving to another site."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Initial Appearance of Symptoms"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation may begin in the nursery or immediately after transplanting."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The first symptoms commonly appear as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Small eggs on young leaves.",
+            "A minute penetration point.",
+            "A small transparent mine.",
+            "A pale area between the two leaf epidermal layers.",
+            "Dark frass within the mine.",
+            "A small larva visible when the leaf is held against the light."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Early infestation may pass unnoticed, particularly when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval numbers are low.",
+            "Mines are small.",
+            "Inspection focuses on old leaves.",
+            "Symptoms are confused with Liriomyza infestation.",
+            "Mines are not opened to confirm the presence of larvae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Damage increases as larvae develop and generations accumulate."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Symptoms on Leaves"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Leaves are the plant parts most frequently used for oviposition and the initial feeding of larvae."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Recent Leaf Mine"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A mine begins as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A small, nearly transparent point.",
+            "A pale spot.",
+            "A short track.",
+            "A limited silvery area."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva feeds on mesophyll tissue between the two leaf epidermal layers, while the outer epidermis remains relatively intact during the early stage of infestation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Advanced Mine"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "As feeding continues, the mine expands and becomes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Irregular in shape.",
+            "Blotch-like.",
+            "White or silvery.",
+            "Gray or brown as it ages.",
+            "Containing black or brown frass."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Frass may accumulate on one side of the mine or appear as dark lines and dots."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Old Mine"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "After the larva leaves or dies, the mine becomes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dry.",
+            "Brown.",
+            "Brittle.",
+            "Empty.",
+            "Easily torn."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dead tissue may fall away, leaving irregular holes in the leaf."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Coalescence of Mines"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At high pest density, mines formed by several larvae may overlap, converting a large part of the leaf into tissue that is:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Transparent.",
+            "Silvery.",
+            "Brown.",
+            "Dead and dry."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Coalescence of mines causes loss of a large proportion of the effective green leaf area."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Leaf Curling and Desiccation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Severe damage may lead to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Curling of leaflets.",
+            "Drying of leaf margins.",
+            "Death of parts of the leaf.",
+            "Leaf fall.",
+            "Exposure of fruits to sunlight."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Curling does not always occur in a regular pattern and may overlap with symptoms of water stress, viruses, or mites."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Leaf Infestation on Photosynthesis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae feed on mesophyll cells, which contain a large proportion of the chloroplasts responsible for photosynthesis."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This results in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced green leaf area.",
+            "Reduced light interception.",
+            "Reduced sugar production.",
+            "Disturbance of gas exchange.",
+            "Reduced chlorophyll content.",
+            "Redirection of plant resources toward defensive responses.",
+            "Reduced root and shoot growth under severe infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The effect is not limited to the visible mine area. Physiological and defensive responses may also occur in surrounding tissues."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Physiological studies have shown that infestation can reduce:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Photosynthetic rate.",
+            "Stomatal conductance.",
+            "Water-use efficiency.",
+            "Vegetative growth.",
+            "Biomass."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The magnitude of the reduction varies according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation severity.",
+            "Plant age.",
+            "Cultivar.",
+            "Timing of infestation.",
+            "Nutrition and irrigation.",
+            "Ability of the plant to produce new leaves."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Ability of the Plant to Compensate for Leaf Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not every level of leaf infestation causes a loss equal to the proportion of affected leaf area."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The plant may compensate for part of the damage through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Production of new leaves.",
+            "Increased activity of healthy leaves.",
+            "Redistribution of carbohydrates.",
+            "Continued vegetative growth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compensatory capacity is greater when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation is early and low.",
+            "The plant is vigorous.",
+            "Nutrition and irrigation are balanced.",
+            "Fruits and growing points are not directly attacked.",
+            "Pest pressure declines rapidly."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compensatory capacity decreases when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation is severe and persistent.",
+            "Damage occurs during fruit filling.",
+            "Leaves close to fruit clusters are damaged.",
+            "Generations recur without reducing the population.",
+            "The plant is also affected by other pests or diseases.",
+            "The plant is exposed to water or salinity stress."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Symptoms on Growing Points"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae attack tender growing points and terminal and lateral buds."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Symptoms include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Wilting of the terminal bud.",
+            "Death of the growing point.",
+            "Presence of dark frass.",
+            "Presence of silken threads.",
+            "Young leaves stuck together.",
+            "Deformation of new growth.",
+            "Cessation of stem elongation.",
+            "Emergence of irregular lateral shoots."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Growing-point infestation is particularly serious in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nurseries.",
+            "Recently transplanted seedlings.",
+            "Young plants.",
+            "Determinate cultivars."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Death of the growing point in a young plant may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Delayed growth.",
+            "Irregular plant architecture.",
+            "Reduced number of clusters.",
+            "Delayed flowering and harvest.",
+            "Reduced early yield."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Symptoms on Buds and Flowers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae may infest:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Flower buds.",
+            "Flowers.",
+            "Flower pedicels.",
+            "Young clusters.",
+            "Sepals."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Symptoms appear as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Minute holes.",
+            "Dark frass.",
+            "Silken threads.",
+            "Bud desiccation.",
+            "Flower drop.",
+            "Poor fruit set.",
+            "Deformation of young fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Flowers are not the most common infestation site compared with leaves, but their infestation directly affects the number of fruits formed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Symptoms on Leaf Petioles and Stems"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae enter petioles and tender stems, particularly near:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nodes.",
+            "Leaf bases.",
+            "Buds.",
+            "Cluster–stem junctions.",
+            "Tender tissues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Signs include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A small entry hole.",
+            "Frass accumulating at the opening.",
+            "An internal tunnel.",
+            "Wilting of the leaf beyond the infestation point.",
+            "Weakening of the stem.",
+            "Drying of terminal growth.",
+            "Breakage of tender tissues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The external tunnel may not be obvious, while wilting or weakening of the affected part becomes visible."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In seedlings, infestation of the main stem may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Growth cessation.",
+            "Death of the upper part.",
+            "Weakening of the seedling.",
+            "Plant death in severe cases."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Symptoms on Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruit infestation represents the most important form of economic damage because infested fruits lose a large proportion of their fresh-market or processing value."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Larval Entry Sites"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva may enter through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The area beneath the calyx.",
+            "Near the pedicel.",
+            "Between the sepals.",
+            "The point where a leaf touches the fruit.",
+            "The side of the fruit.",
+            "Wounds or cracks.",
+            "The point of contact between two fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation is common near the calyx because this area provides the larva with protection and a suitable hiding site."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Appearance of the Entry Hole"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The entry hole is usually:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Small.",
+            "Circular or irregular.",
+            "Dark at the margins.",
+            "Surrounded by frass.",
+            "Less conspicuous than the internal damage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The hole may be only a few millimeters in diameter while the tunnel extends through a large part of the fruit."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Tunnels Inside the Fruit"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva feeds within:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The flesh.",
+            "The region close to the skin.",
+            "Tissues surrounding the calyx.",
+            "Internal locules in some cases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tunnels appear as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cavities.",
+            "Brown tissue.",
+            "Soft areas.",
+            "Black frass.",
+            "Internal decay."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Exit Hole"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "After completing feeding, the larva may leave the fruit, resulting in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An exit hole.",
+            "External frass.",
+            "An empty tunnel.",
+            "Initial decay around the opening."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "More than one hole may occur in a single fruit because of movement by one larva or infestation by several larvae."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Infestation of Green and Ripe Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruits may be infested as soon as they form."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Green Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Symptoms include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Minute holes.",
+            "Brown spots.",
+            "Subepidermal tunnels.",
+            "Localized growth arrest.",
+            "Deformation.",
+            "Premature fruit drop in some cases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The fruit may continue growing while the damaged area expands or becomes invaded by rots."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Colored and Ripe Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are more prone to developing:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Softness.",
+            "Juice leakage.",
+            "Rots.",
+            "Abnormal odor.",
+            "Tissue collapse.",
+            "Loss of marketability and transportability."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infested fruits are difficult to store even when external damage appears limited."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Direct Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Direct damage caused by larval feeding includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Removal of leaf mesophyll.",
+            "Death of growing points and buds.",
+            "Boring into petioles and stems.",
+            "Loss of some flowers.",
+            "Fruit damage.",
+            "Reduced marketable yield.",
+            "Weakening of the plant.",
+            "Increased leaf and fruit drop."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Direct fruit damage represents the largest component of loss because an infested fruit often cannot be sold as premium fresh produce."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indirect Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Indirect damage results from effects following larval boring."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Entry of rot pathogens.",
+            "Increased bacterial and fungal infection.",
+            "Accelerated fruit decomposition.",
+            "Increased loss during transport.",
+            "Reduced shelf life.",
+            "Increased sorting costs.",
+            "Increased labor requirements.",
+            "Increased number of control treatments.",
+            "Greater risk of pesticide residues.",
+            "Adverse effects on natural enemies due to repeated spraying.",
+            "Possible rejection of the crop or shipment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The value of indirect damage may exceed the value of the tissue consumed directly by the larva."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Rots and Secondary Infections"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Entry and exit holes and tunnels act as entry points for pathogens."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Wounds may permit entry of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Soft-rot bacteria.",
+            "Saprophytic fungi.",
+            "Fruit-rot pathogens.",
+            "Microorganisms present on the plant surface or in soil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Secondary infections lead to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Expansion of brown lesions.",
+            "Fruit softening.",
+            "Fluid leakage.",
+            "Offensive odor.",
+            "Tissue collapse.",
+            "Spread of rot to contacting fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not all rotted tissue should be attributed to direct larval feeding. Damage may begin with a small opening and then multiply because of microbial activity."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Infestation on Plant Architecture"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under severe and repeated infestation, plant architecture changes because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Death of growing points.",
+            "Leaf loss.",
+            "Emergence of lateral shoots.",
+            "Weakening of stems.",
+            "Irregular cluster distribution.",
+            "Exposure of fruits to sunlight.",
+            "Reduced canopy cover."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Canopy collapse may lead to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Sunscald.",
+            "Increased fruit temperature.",
+            "Irregular coloration.",
+            "Increased cracking.",
+            "Reduced protection of fruits from weather conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta can therefore cause additional losses even in fruits not directly entered by larvae."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Infestation Timing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Loss varies according to the crop-growth stage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Nursery Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This causes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Weak seedlings.",
+            "Death of growing points.",
+            "Transport of the pest into the field.",
+            "Establishment of early infestation.",
+            "Increased cost of discarding seedlings."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Infestation After Transplanting"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The plant may compensate for part of the leaf damage, but growing-point infestation may delay growth and reduce early yield."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Infestation During Flowering and Fruit Set"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This affects:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Buds.",
+            "Flowers.",
+            "Newly set fruits.",
+            "Leaves responsible for supplying fruit clusters."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Infestation During Fruit Filling"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is a critical stage because leaf loss reduces carbohydrate supply to fruits, while larvae begin entering fruits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Infestation Before Harvest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may not greatly reduce the number of fruits formed, but it causes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fruit rejection.",
+            "Increased rots.",
+            "Higher sorting losses.",
+            "Quality deterioration.",
+            "Spread of larvae within containers."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Losses in Fresh-Market Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fresh tomatoes are sold according to fruit appearance and surface integrity, so sensitivity to fruit infestation is extremely high."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A single hole may lead to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Exclusion of the fruit from premium grade.",
+            "Price reduction.",
+            "Downgrading.",
+            "Complete rejection.",
+            "Increased risk of decay during transport."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Losses include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced marketable yield.",
+            "Increased manual sorting costs.",
+            "Increased number of rejected packages.",
+            "Reduced storage life.",
+            "Increased buyer complaints.",
+            "Shipment rejection in high-quality markets."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The economic threshold for fruit infestation is therefore relatively low, especially for export and premium markets."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Losses in Processing Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Acceptance of processing tomatoes does not depend on external appearance alone as it does in the fresh market, but Tuta infestation remains highly important."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruit infestation causes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced weight of sound fruits suitable for delivery.",
+            "Increased rotted fruits.",
+            "Increased proportion of rejected material.",
+            "Increased impurities and decomposed tissues.",
+            "Greater need for sorting and washing.",
+            "Reduced efficiency of harvesting and transport.",
+            "Possible rejection of a load when the proportion of infested fruits is high."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Two effects must be distinguished:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Leaf Damage Alone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The plant may compensate for low or moderate leaf infestation, and the presence of some mines does not automatically mean a reduction in °Brix or yield."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fruit Infestation and Canopy Collapse"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These cause direct losses in processing yield through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Rejection of infested fruits.",
+            "Entry of rots.",
+            "Weight loss.",
+            "Color deterioration.",
+            "Fruit exposure to sunlight.",
+            "Irregular ripening."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no universal fixed numerical relationship between the proportion of leaf mines and °Brix because °Brix is affected by many factors, including cultivar, irrigation, maturity, crop load, and temperature."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Assessment of Tuta in processing tomatoes therefore depends mainly on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage of infested fruits.",
+            "Weight of rejected fruits.",
+            "Rot percentage.",
+            "Processable yield.",
+            "Canopy condition.",
+            "Timing of infestation relative to harvest."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Magnitude of Recorded Losses"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Losses vary greatly among countries, seasons, and production systems."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reviews and reports indicate that actual losses may range under many conditions between approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "11 and 43%"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "While in severe outbreaks without effective management they may reach:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "80–100% of marketable yield."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A 100% loss does not mean that larvae consumed the entire crop biomass. It may mean that most fruits became:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Perforated.",
+            "Rotted.",
+            "Unmarketable.",
+            "Non-compliant with specifications.",
+            "Uneconomic to harvest and sort."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Loss is affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval density.",
+            "Timing of pest entry.",
+            "Season length.",
+            "Cultivar.",
+            "Presence of fruit infestation.",
+            "Control level.",
+            "Climatic conditions.",
+            "Presence of natural enemies.",
+            "Proximity of infested fields.",
+            "Market or factory acceptance standards."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Factors Determining Loss Severity"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Infestation Density"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "As the number of active larvae increases, so does the probability of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Coalescence of mines.",
+            "Growing-point infestation.",
+            "Movement of larvae into fruits.",
+            "Accumulation of damage."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Larval Instar"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Third and fourth instars consume more tissue than young instars."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Duration of Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A low infestation persisting for several weeks may be more serious than a short temporary peak."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Crop Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plant compensatory capacity varies among growth stages."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Cultivar"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultivars differ in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Vegetative growth.",
+            "Leaf resistance.",
+            "Trichome density.",
+            "Fruit weight.",
+            "Compensatory capacity.",
+            "Market value."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Market Type"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Loss is greater in crops intended for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Export.",
+            "Premium markets.",
+            "Small packages.",
+            "Sale by individual fruit."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some superficial defects may have less effect in processing, but holes and rots remain unacceptable."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Presence of Secondary Diseases"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rots multiply the value of damage resulting from mining."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distinguishing Active from Old Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The presence of a mine does not mean that a larva is still alive."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Active Mine"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pale or silvery color.",
+            "Presence of a live larva.",
+            "Fresh frass.",
+            "Soft margins.",
+            "Continued expansion.",
+            "Larval response when the mine is opened."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Old Mine"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Brown color.",
+            "Desiccation.",
+            "Absence of the larva.",
+            "Presence of cast skin or old frass.",
+            "No further expansion.",
+            "Torn tissue."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Control decisions should be based on larvae, eggs, and active infestation rather than on the combined number of old and new mines."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distinguishing Tuta from Liriomyza Leaf Miners"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Characteristic",
+            "Tuta absoluta",
+            "Liriomyza"
+          ],
+          "rows": [
+            [
+              "Mine shape",
+              "Usually broad, blotch-like, and irregular",
+              "Usually winding or serpentine"
+            ],
+            [
+              "Larva",
+              "Distinct head and legs",
+              "Maggot-like and without visible legs"
+            ],
+            [
+              "Frass",
+              "Dark aggregations within the mine",
+              "Usually a fine, discontinuous line"
+            ],
+            [
+              "Growing-point and stem infestation",
+              "Common",
+              "Rare"
+            ],
+            [
+              "Fruit infestation",
+              "Possible and important",
+              "Not the usual symptom"
+            ],
+            [
+              "Adult insect",
+              "Small moth",
+              "Small fly"
+            ],
+            [
+              "Pupa",
+              "On the plant or in soil",
+              "Usually outside the mine or in soil, depending on species"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mines may resemble one another when several infestations coalesce. Diagnosis must therefore depend on examination of the larva."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distinguishing Tuta from Tomato Fruitworm"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Characteristic",
+            "Tuta absoluta",
+            "Tomato Fruitworm, Helicoverpa armigera"
+          ],
+          "rows": [
+            [
+              "Larval size",
+              "Small, generally less than 10 mm",
+              "Large and may exceed 30 mm"
+            ],
+            [
+              "Leaf damage",
+              "Internal mines",
+              "Exposed feeding"
+            ],
+            [
+              "Fruit opening",
+              "Usually small and inconspicuous",
+              "Large and obvious"
+            ],
+            [
+              "Frass",
+              "Inside the mine or around the opening",
+              "Large masses outside the fruit"
+            ],
+            [
+              "Feeding site",
+              "Inside leaves and fruits",
+              "Exposed or inside fruits"
+            ],
+            [
+              "Leaf symptom",
+              "Blotch mine",
+              "Holes and edge feeding"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distinguishing Tuta Damage from Leaf Diseases"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Old mines may be confused with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Early blight.",
+            "Late blight.",
+            "Bacterial spots.",
+            "Pesticide burns.",
+            "Sunscald.",
+            "Mechanical injury."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A Tuta mine is usually characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A thin epidermis above the cavity.",
+            "Internal frass.",
+            "A larva or cast skin.",
+            "An entry or exit point.",
+            "Irregular boundaries following feeding within the tissue."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Disease lesions develop within the tissue without a larva or insect frass."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Estimating Plant Infestation Percentage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The percentage of infested plants is calculated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Infested plants (%) = Number of plants carrying active infestation ÷ Total number of plants examined × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Example:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If 100 plants are examined and active infestation is found on 18 plants:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Infestation percentage = 18 ÷ 100 × 100 = 18%"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The definition of an infested plant must be specified, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Presence of eggs.",
+            "Presence of an active mine.",
+            "Presence of a live larva.",
+            "Presence of an infested fruit."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Different indicators should not be combined into one number without a clear definition."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Estimating Leaf Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be recorded for each plant:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of leaves examined.",
+            "Number of leaves bearing active mines.",
+            "Number of active mines.",
+            "Number of live larvae.",
+            "Position of infestation on the plant."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The percentage of infested leaves is calculated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Infested leaves (%) = Number of infested leaves ÷ Number of leaves examined × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This indicator alone does not describe the volume of damage. One leaf may carry a small mine while another carries several broad mines."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should therefore be recorded with it:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of mines per leaf.",
+            "Damaged area.",
+            "Number of live larvae."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Estimating Growing-Point Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is calculated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Infested growing points (%) = Number of plants with infested growing points ÷ Number of plants examined × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The type of infestation should be recorded:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active growing point containing a larva.",
+            "Old dry growing point.",
+            "Dead growing point.",
+            "Lateral growth resulting from death of the growing point."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Growing-point infestation is more important in young plants than in large plants."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Estimating Fruit Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The percentage of infested fruits is one of the most important economic indicators."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is calculated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Infested fruits (%) = Number of fruits carrying Tuta infestation ÷ Total number of fruits examined × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Weight loss is also calculated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Weight loss (%) = Weight of infested and rejected fruits ÷ Total sample weight × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is preferable to record separately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fruits bearing holes only.",
+            "Fruits containing larvae.",
+            "Rotted fruits.",
+            "Fallen fruits.",
+            "Fruits that can be sorted.",
+            "Fruits permanently rejected."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The numerical percentage of infested fruits may differ from their percentage by weight."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Estimating Marketable Yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Marketable yield is calculated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Marketable yield = Total yield − Weight of rejected fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruits rejected because of Tuta include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fruits containing tunnels.",
+            "Fruits with open holes.",
+            "Rotted fruits.",
+            "Severely deformed fruits.",
+            "Fruits not meeting buyer specifications."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The rejection rate differs according to market. A factory may accept a limited superficial defect that would be rejected by the fresh market, but it generally does not accept rotted fruits or fruits carrying live larvae."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Economic Injury Level and Economic Threshold"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Injury Level"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Injury Level"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is the lowest pest density at which the value of crop loss equals the cost of control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Threshold"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Threshold"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is the pest density at which intervention begins before the population reaches the economic injury level."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The economic threshold is lower than the economic injury level because control requires time before its effect becomes apparent."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Published Thresholds for Tuta absoluta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no single universal threshold applicable to all environments."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A study conducted in tomato greenhouses in Ethiopia determined:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Economic injury level: approximately 3 larvae per plant.",
+            "Economic threshold: approximately 2.25 larvae per plant."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Another field experiment estimated the economic threshold at approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "2.87 larvae per plant"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And the economic injury level at approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "3.82 larvae per plant."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An Iranian study estimated economic injury levels between:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "4.15 and 5.04 larvae per plant"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Depending on the tomato cultivar."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These results demonstrate that the threshold varies according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cultivar.",
+            "Crop value.",
+            "Control cost.",
+            "Efficacy of the control method.",
+            "Production system.",
+            "Plant growth stage.",
+            "Target market.",
+            "Percentage of fruit infestation.",
+            "Climatic conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Therefore, a value of 2.25 or 3 larvae per plant should not be used as a fixed rule for all Egyptian tomato fields."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Why Trap Counts Alone Are Insufficient to Determine Loss"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pheromone traps mainly attract males, whereas damage is caused by larvae originating from eggs laid by females."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Trap catches may be high without severe damage because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Immigration of males from a neighboring field.",
+            "Low female numbers.",
+            "High efficacy of natural enemies.",
+            "Failure of part of the eggs to hatch."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Trap catches may be low while damage is high because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Presence of mated females.",
+            "Reduced lure attractiveness.",
+            "Unsuitable trap location.",
+            "Large numbers of larvae already inside plants.",
+            "Changes in wind direction."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Traps must therefore be interpreted together with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg inspection.",
+            "Live larvae.",
+            "Active mines.",
+            "Growing-point infestation.",
+            "Fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Field Decision Indicators"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A field decision depends on several indicators, most importantly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Number of males captured and the weekly trend in catches.",
+            "2. Percentage of plants carrying eggs.",
+            "3. Percentage of plants bearing active mines.",
+            "4. Number of live larvae per plant.",
+            "5. Percentage of infested growing points.",
+            "6. Percentage of infested fruits.",
+            "7. Presence of advanced larval instars.",
+            "8. Activity of natural enemies.",
+            "9. Proximity to harvest.",
+            "10. Condition of neighboring fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single indicator provides a complete picture of risk."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Intervention Threshold in Fresh-Market and Processing Tomatoes"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fresh-Market Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The threshold for fruit infestation is low because cosmetic damage directly affects price and acceptance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Intervention begins before larvae reach fruits, based on eggs and recent mines."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Processing Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The crop may tolerate a limited level of leaf mining more than fresh-market tomatoes, but fruit infestation should remain as low as possible."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Factory specifications.",
+            "Percentage of rejected fruits.",
+            "Proximity to harvest.",
+            "Probability of larvae moving into fruits.",
+            "Condition of the canopy.",
+            "Economic feasibility of treatment.",
+            "Preharvest interval of the insecticide."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Intervention should not be delayed until the percentage of infested fruits increases because damage occurring inside the fruit cannot be repaired."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Assessment of Economic Loss"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Total loss consists of:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Direct Yield Loss"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced fruit number.",
+            "Reduced weight of sound fruits.",
+            "Rejected fruits.",
+            "Rotted fruits.",
+            "Fallen fruits."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Control Costs"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Insecticides.",
+            "Labor.",
+            "Fuel and equipment.",
+            "Traps.",
+            "Biological-control agents.",
+            "Inspection and monitoring."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Postharvest Costs"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Additional sorting.",
+            "Disposal of fruits.",
+            "Cleaning of containers.",
+            "Reduced packing efficiency.",
+            "Shipment rejection."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Indirect Losses"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Insecticide resistance.",
+            "Pesticide residues.",
+            "Mortality of natural enemies.",
+            "Reduced confidence in the supplier.",
+            "Loss of a supply contract or market."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Simplified Calculation Model"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If total yield is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "40 metric tons per feddan"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And the percentage of fruits rejected because of Tuta is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "8%"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Direct loss equals:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "40 × 0.08 = 3.2 metric tons per feddan"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If the price per metric ton is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "EGP 5,000"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The value of direct loss is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "3.2 × 5,000 = EGP 16,000 per feddan"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following must then be added:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Control costs.",
+            "Sorting costs.",
+            "Rot losses.",
+            "Any deductions applied by the buyer."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This example does not include the effect of reduced yield resulting from leaf or growing-point loss."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preventing Infestation from Becoming a Loss"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The difference between limited infestation and severe loss depends on the speed of intervention and program efficiency."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Loss prevention depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Early detection of eggs.",
+            "Targeting young larvae.",
+            "Preventing L3 and L4 from reaching fruits.",
+            "Removing heavily infested growing points and leaves when possible.",
+            "Managing old fields and crop residues.",
+            "Conserving natural enemies.",
+            "Rotating insecticide groups.",
+            "Optimizing coverage and timing.",
+            "Monitoring fruits before harvest.",
+            "Applying agricultural sanitation after the season ends."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Symptom-Diagnosis Table"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Plant Part",
+            "Main Symptom",
+            "Potential Result"
+          ],
+          "rows": [
+            [
+              "Leaves",
+              "Blotch mines and dark frass",
+              "Reduced green leaf area"
+            ],
+            [
+              "Growing point",
+              "Wilting and death of the bud",
+              "Deformed growth and delayed production"
+            ],
+            [
+              "Flower bud",
+              "Hole and desiccation",
+              "Bud drop"
+            ],
+            [
+              "Flower",
+              "Feeding and frass",
+              "Reduced fruit set"
+            ],
+            [
+              "Leaf petiole",
+              "Internal tunnel",
+              "Leaf wilting"
+            ],
+            [
+              "Stem",
+              "Boring and frass",
+              "Weakness or death of the upper part"
+            ],
+            [
+              "Calyx",
+              "Hidden larva and tunnels",
+              "Initiation of fruit infestation"
+            ],
+            [
+              "Green fruit",
+              "Holes and tunnels",
+              "Deformation and rot"
+            ],
+            [
+              "Ripe fruit",
+              "Softness, leakage, and rot",
+              "Fresh-market or processing rejection"
+            ],
+            [
+              "Whole plant",
+              "Loss of leaves and growing points",
+              "Reduced growth and yield"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Chapter Summary"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae of Tuta absoluta cause direct plant damage, whereas the adult moth performs the functions of reproduction and dispersal."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation usually begins with small leaf mines that expand as larvae grow. At high pest density, mines coalesce, tissues dry, and leaves lose a large part of their photosynthetic capacity."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae also attack growing points, buds, stems, flowers, and fruits. Growing-point infestation causes growth deformation, whereas fruit infestation represents the principal component of economic loss."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Holes and tunnels permit entry of rot pathogens, allowing a small opening to develop into a large area of decomposed tissue."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Losses vary according to infestation severity and timing, cultivar, market, and production system, and may range from low levels to 80–100% loss of marketable yield in severe unmanaged cases."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The presence of an old mine does not necessarily require treatment. Decisions should be based on eggs, active mines, live larvae, and growing-point and fruit infestation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some studies estimated the economic threshold at approximately 2.25–2.87 larvae per plant, while others estimated the economic injury level at approximately 3–5 larvae per plant depending on cultivar and environment."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These values are not fixed universal thresholds because the threshold changes with crop price, control cost and efficacy, and market type."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The percentage of infested fruits is the most important economic indicator, particularly in fresh-market and processing tomatoes intended for delivery."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Successful management depends on preventing infestation from moving from leaves into growing points, stems, and fruits and targeting eggs and young larvae before infestation becomes an irreversible loss."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-nine-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta: Express Pest Risk Analysis—Damage and Economic Impact.",
+              "url": "https://pra.eppo.int/getfile/f775e32f-780b-489c-bf33-4684e15ce513"
+            },
+            {
+              "number": 2,
+              "text": "European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta (GNORAB): Pest Risk Analysis.",
+              "url": "https://pra.eppo.int/pra/cccc6c57-2d7f-4a3f-82ae-bc6a15335042"
+            },
+            {
+              "number": 3,
+              "text": "Tropea Garzia, G., Siscaro, G., Biondi, A., & Zappalà, L. (2012). Tuta absoluta, a South American Pest of Tomato Now in the EPPO Region: Biology, Distribution and Damage. EPPO Bulletin, 42, 205–210.",
+              "url": "https://doi.org/10.1111/epp.2556"
+            },
+            {
+              "number": 4,
+              "text": "USDA–APHIS Cooperative Agricultural Pest Survey Program. (2025). Phthorimaea absoluta CAPS Datasheet: Damage, Symptoms and Identification.",
+              "url": "https://caps.ceris.purdue.edu/wp-content/uploads/2025/07/Phthorimaea-absoluta-CAPS-datasheet-20250328.pdf"
+            },
+            {
+              "number": 5,
+              "text": "Mujica, N., et al. (2022). Tomato Leafminer, Tuta absoluta. Pest Risk Atlas for Africa. International Potato Center.",
+              "url": "https://cipotato.org/riskatlasforafrica/wp-content/uploads/sites/4/2022/12/Tuta-absoluta_New-atlas-chapter.pdf"
+            },
+            {
+              "number": 6,
+              "text": "CABI. (2020). Phthorimaea absoluta (Tomato Leafminer): Symptoms, Damage and Economic Impact. CABI Compendium.",
+              "url": "https://doi.org/10.1079/cabicompendium.49260"
+            },
+            {
+              "number": 7,
+              "text": "Rwomushana, I., et al. (2019). Tomato Leafminer (Tuta absoluta): Impacts and Coping Strategies for Africa. CABI Evidence Note.",
+              "url": "https://www.invasive-species.org/wp-content/uploads/sites/2/2019/04/Tuta-Evidence-Note_FINAL.pdf"
+            },
+            {
+              "number": 8,
+              "text": "Mahlangu, L., et al. (2022). The Differential Effects of Tuta absoluta Infestations on the Physiological Processes and Growth of Tomato, Potato and Eggplant. Insects, 13, 795.",
+              "url": "https://doi.org/10.3390/insects13090795"
+            },
+            {
+              "number": 9,
+              "text": "D’Esposito, D., et al. (2021). Tomato Transcriptomic Response to Tuta absoluta Infestation. BMC Plant Biology, 21, 358.",
+              "url": "https://doi.org/10.1186/s12870-021-03129-9"
+            },
+            {
+              "number": 10,
+              "text": "Ghaderi, S., Fathipour, Y., Asgari, S., & Reddy, G. V. P. (2019). Economic Injury Level and Crop Loss Assessment for Tuta absoluta on Different Tomato Cultivars. Journal of Applied Entomology, 143, 493–507.",
+              "url": "https://doi.org/10.1111/jen.12628"
+            },
+            {
+              "number": 11,
+              "text": "Shiberu, T., & Getu, E. (2018). Determination of the Economic Threshold Level of Tomato Leaf Miner, Tuta absoluta, on Tomato Plant under Glasshouse Conditions. Journal of Horticulture and Forestry, 10(2), 9–16.",
+              "url": "https://doi.org/10.5897/JHF2018.0522"
+            },
+            {
+              "number": 12,
+              "text": "University of California Statewide Integrated Pest Management Program. South American Tomato Leafminer, Tuta absoluta: Identification and Damage.",
+              "url": "https://ipm.ucanr.edu/legacy_assets/pdf/pestalert/tuta-absoluta.pdf"
+            },
+            {
+              "number": 13,
+              "text": "Agriculture and Horticulture Development Board. Tomato Leafminers: Distinguishing between Tuta absoluta and Liriomyza spp.",
+              "url": "https://horticulture.ahdb.org.uk/knowledge-library/tomato-leafminers-distinguishing-between-tuta-absoluta-and-liriomyza-spp"
+            },
+            {
+              "number": 14,
+              "text": "National Bureau of Agricultural Insect Resources. Tuta absoluta: Identification, Damage Symptoms and Management.",
+              "url": "https://www.nbair.res.in/sites/default/files/2019-01/Tuta%20absoluta.pdf"
+            },
+            {
+              "number": 15,
+              "text": "Netherlands Food and Consumer Product Safety Authority. (2013). Pest Risk Analysis for Tuta absoluta.",
+              "url": "https://english.nvwa.nl/site/binaries/site-content/collections/documents/plant-health/pest-risk-analysis/documents/pest-risk-analysis-tuta-absoluta/PRA%2BTuta%2Babsoluta.pdf"
+            },
+            {
+              "number": 16,
+              "text": "Julius Kühn-Institut. Express Pest Risk Analysis: Tuta absoluta—Damage, Yield and Fruit Quality.",
+              "url": "https://pflanzengesundheit.julius-kuehn.de/dokumente/upload/6cbac_tuta-absoluta-express-pra-en.pdf"
+            },
+            {
+              "number": 17,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F.-H., & Desneux, N. (2018). Ecology, Worldwide Spread, and Management of the Invasive South American Tomato Pinworm, Tuta absoluta: Past, Present, and Future. Annual Review of Entomology, 63, 239–258.",
+              "url": "https://doi.org/10.1146/annurev-ento-031616-034933"
+            },
+            {
+              "number": 18,
+              "text": "Desneux, N., Wajnberg, E., Wyckhuys, K. A. G., et al. (2010). Biological Invasion of European Tomato Crops by Tuta absoluta: Ecology, Geographic Expansion and Prospects for Biological Control. Journal of Pest Science, 83, 197–215.",
+              "url": "https://doi.org/10.1007/s10340-010-0321-6"
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-28"
+      }
+    }
+  ]
+}
