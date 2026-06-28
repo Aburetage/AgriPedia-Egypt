@@ -1,0 +1,2468 @@
+{
+  "tab_title": "Morphological Description",
+  "part_index": 3,
+  "part_title": "Part Four: The Pupal Stage",
+  "part_short_title": "The Pupal Stage",
+  "part_subtitle": "Morphological Characteristics, Pupation Sites, Developmental Duration, Sensitivity, and Applied Importance",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Six"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Morphological Description of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa represents the transitional stage between the larva and the adult insect in the life cycle of Tuta absoluta. It is a non-feeding stage; the pupa does not mine leaves, stems, or fruits and causes no direct damage to the plant.",
+          "prepared_text": "[[prepared]]The [[term:pupation]]pupa[[/term]] represents the transitional stage between the larva and the adult insect in the life cycle of Tuta absoluta. It is a non-feeding stage; the pupa does not mine leaves, stems, or fruits and causes no direct damage to the plant."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the absence of feeding does not mean that this stage is economically unimportant. Every viable pupa is capable of producing an adult moth that emerges from the pupation site, mates, lays eggs, and initiates a new pest generation.",
+          "prepared_text": "[[prepared]]However, the absence of feeding does not mean that this stage is economically unimportant. Every viable pupa is capable of producing an adult moth that emerges from the pupation site, mates, lays eggs, and initiates a new pest generation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The importance of the pupal stage lies in the fact that it:",
+          "prepared_text": "[[prepared]]The importance of the pupal stage lies in the fact that it:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Represents the transition from the damaging stage to the reproductive and dispersal stage.",
+            "Is often located in protected sites that are not easily reached by foliar spray treatments.",
+            "Can survive in soil or crop residues after the crop has ended.",
+            "May be transported with crates, packages, and sorting residues.",
+            "Helps the pest persist between cropping seasons.",
+            "May contribute to pest survival during cold periods.",
+            "Represents a target for cultural practices directed at soil and crop residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Represents the transition from the damaging stage to the reproductive and dispersal stage.",
+            "[[prepared]]Is often located in protected sites that are not easily reached by foliar spray treatments.",
+            "[[prepared]]Can survive in soil or crop residues after the crop has ended.",
+            "[[prepared]]May be transported with crates, packages, and sorting residues.",
+            "[[prepared]]Helps the pest persist between cropping seasons.",
+            "[[prepared]]May contribute to pest survival during cold periods.",
+            "[[prepared]]Represents a target for cultural practices directed at soil and crop residues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Therefore, management of Tuta absoluta is not completed by controlling eggs and larvae alone, but must also include reducing pupal numbers and preventing adult moth emergence.",
+          "prepared_text": "[[prepared]]Therefore, management of Tuta absoluta is not completed by controlling eggs and larvae alone, but must also include reducing pupal numbers and preventing adult moth emergence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Prepupal Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A fully grown larva does not transform immediately into a pupa, but first passes through a short transitional stage known as the:",
+          "prepared_text": "[[prepared]]A fully grown larva does not transform immediately into a pupa, but first passes through a short transitional stage known as the:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Prepupal Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This stage begins at the end of the fourth larval instar.",
+          "prepared_text": "[[prepared]]This stage begins at the end of the fourth [[term:larval-instar]]larval instar[[/term]]."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "External Signs of the Prepupal Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "As the larva approaches pupation, several clear changes appear, including:",
+          "prepared_text": "[[prepared]]As the larva approaches pupation, several clear changes appear, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Feeding stops or declines sharply.",
+            "The larva leaves the mine or fruit in most cases.",
+            "The body becomes relatively shorter.",
+            "The body becomes more robust.",
+            "Color changes from green to light green or pink.",
+            "Frass production decreases.",
+            "Part of the digestive-tract contents is evacuated.",
+            "Movement increases while searching for a suitable site.",
+            "Silken threads are produced.",
+            "The larva hides in a folded leaf, crevice, or surface soil."
+          ],
+          "prepared_items": [
+            "[[prepared]]Feeding stops or declines sharply.",
+            "[[prepared]]The larva leaves the mine or fruit in most cases.",
+            "[[prepared]]The body becomes relatively shorter.",
+            "[[prepared]]The body becomes more robust.",
+            "[[prepared]]Color changes from green to light green or pink.",
+            "[[prepared]][[term:frass]]Frass[[/term]] production decreases.",
+            "[[prepared]]Part of the digestive-tract contents is evacuated.",
+            "[[prepared]]Movement increases while searching for a suitable site.",
+            "[[prepared]]Silken threads are produced.",
+            "[[prepared]]The larva hides in a folded leaf, crevice, or surface soil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At this stage, the larva is less closely associated with the feeding site, and it may therefore be found far from the mine it created.",
+          "prepared_text": "[[prepared]]At this stage, the larva is less closely associated with the feeding site, and it may therefore be found far from the mine it created."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Searching for a Pupation Site"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The fully grown larva leaves the feeding site and moves to a location that provides:",
+          "prepared_text": "[[prepared]]The fully grown larva leaves the feeding site and moves to a location that provides:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Protection from direct sunlight.",
+            "Moderate humidity.",
+            "Relative thermal stability.",
+            "Protection from predators.",
+            "A surface on which the cocoon can be secured.",
+            "Reduced risk of flooding or mechanical disturbance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Protection from direct sunlight.",
+            "[[prepared]]Moderate humidity.",
+            "[[prepared]]Relative thermal stability.",
+            "[[prepared]]Protection from predators.",
+            "[[prepared]]A surface on which the cocoon can be secured.",
+            "[[prepared]]Reduced risk of flooding or mechanical disturbance."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva may move across the plant or descend to the soil on a silken thread, then enter between soil particles or beneath surface residues.",
+          "prepared_text": "[[prepared]]The larva may move across the plant or descend to the soil on a silken thread, then enter between soil particles or beneath surface residues."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Difference Between the Pupa and the Cocoon"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The terms pupa and cocoon are commonly confused, although they do not have the same meaning.",
+          "prepared_text": "[[prepared]]The terms pupa and cocoon are commonly confused, although they do not have the same meaning."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Pupa"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa is the insect’s own body during transformation from larva to adult moth.",
+          "prepared_text": "[[prepared]]The pupa is the insect’s own body during transformation from larva to adult moth."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inside it, the following processes occur:",
+          "prepared_text": "[[prepared]]Inside it, the following processes occur:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Breakdown and reorganization of larval tissues.",
+            "Formation of the wings.",
+            "Formation of the antennae.",
+            "Formation of the adult legs.",
+            "Development of compound eyes.",
+            "Formation of the adult reproductive system.",
+            "Completion of the moth’s body form."
+          ],
+          "prepared_items": [
+            "[[prepared]]Breakdown and reorganization of larval tissues.",
+            "[[prepared]]Formation of the wings.",
+            "[[prepared]]Formation of the antennae.",
+            "[[prepared]]Formation of the adult legs.",
+            "[[prepared]]Development of compound eyes.",
+            "[[prepared]]Formation of the adult reproductive system.",
+            "[[prepared]]Completion of the moth’s body form."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Cocoon"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The cocoon is the external silken covering spun by the larva around itself before transforming into a pupa.",
+          "prepared_text": "[[prepared]]The cocoon is the external silken covering spun by the larva around itself before transforming into a pupa."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The cocoon may consist of:",
+          "prepared_text": "[[prepared]]The cocoon may consist of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "White silken threads.",
+            "Plant trichomes.",
+            "Dry leaf fragments.",
+            "Soil and sand particles.",
+            "Fine plant debris."
+          ],
+          "prepared_items": [
+            "[[prepared]]White silken threads.",
+            "[[prepared]]Plant trichomes.",
+            "[[prepared]]Dry leaf fragments.",
+            "[[prepared]]Soil and sand particles.",
+            "[[prepared]]Fine plant debris."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Therefore:",
+          "prepared_text": "[[prepared]]Therefore:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "> The pupa is the insect itself, whereas the cocoon is the covering surrounding it.",
+          "prepared_text": "[[prepared]]> The pupa is the insect itself, whereas the cocoon is the covering surrounding it."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa is not always enclosed within a dense, clearly visible cocoon; the silken covering may be thin or nearly transparent, particularly when pupation occurs on leaves.",
+          "prepared_text": "[[prepared]]The pupa is not always enclosed within a dense, clearly visible cocoon; the silken covering may be thin or nearly transparent, particularly when pupation occurs on leaves."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Appearance of the Pupa"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa of Tuta absoluta is of the type known as:",
+          "prepared_text": "[[prepared]]The pupa of Tuta absoluta is of the type known as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Obtect Pupa"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In this type, the developing adult appendages, such as the wings, legs, and antennae, are fixed close to the body surface and are not freely movable.",
+          "prepared_text": "[[prepared]]In this type, the developing adult appendages, such as the wings, legs, and antennae, are fixed close to the body surface and are not freely movable."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa is characterized by:",
+          "prepared_text": "[[prepared]]The pupa is characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An elongated body.",
+            "An oval or spindle-shaped form.",
+            "A relatively rounded anterior end.",
+            "A narrower and more tapered posterior end.",
+            "A slightly flattened ventral surface.",
+            "Visible abdominal segments.",
+            "Distinct wing cases on both sides of the thorax and abdomen.",
+            "Leg and antennal sheaths attached closely to the body.",
+            "A posterior structure that assists anchorage inside the cocoon."
+          ],
+          "prepared_items": [
+            "[[prepared]]An elongated body.",
+            "[[prepared]]An oval or spindle-shaped form.",
+            "[[prepared]]A relatively rounded anterior end.",
+            "[[prepared]]A narrower and more tapered posterior end.",
+            "[[prepared]]A slightly flattened ventral surface.",
+            "[[prepared]]Visible abdominal segments.",
+            "[[prepared]]Distinct wing cases on both sides of the thorax and abdomen.",
+            "[[prepared]]Leg and antennal sheaths attached closely to the body.",
+            "[[prepared]]A posterior structure that assists anchorage inside the cocoon."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa remains motionless most of the time, but it may move the abdominal segments when touched or disturbed, particularly during the early part of the pupal period.",
+          "prepared_text": "[[prepared]]The pupa remains motionless most of the time, but it may move the abdominal segments when touched or disturbed, particularly during the early part of the pupal period."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Parts of the Pupal Body"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Although the external boundaries are less distinct than in the larva or moth, the main body regions can still be recognized.",
+          "prepared_text": "[[prepared]]Although the external boundaries are less distinct than in the larva or moth, the main body regions can still be recognized."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Head Region"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The head is located at the anterior end, where the following can be observed:",
+          "prepared_text": "[[prepared]]The head is located at the anterior end, where the following can be observed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Positions of the developing compound eyes.",
+            "Antennal sheaths.",
+            "Developing mouthparts.",
+            "General outline of the head compressed against the thorax."
+          ],
+          "prepared_items": [
+            "[[prepared]]Positions of the developing compound eyes.",
+            "[[prepared]]Antennal sheaths.",
+            "[[prepared]]Developing mouthparts.",
+            "[[prepared]]General outline of the head compressed against the thorax."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Thorax"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The thorax carries structures that will develop into:",
+          "prepared_text": "[[prepared]]The thorax carries structures that will develop into:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Forewings.",
+            "Hindwings.",
+            "Three pairs of legs.",
+            "Muscles required for flight and movement."
+          ],
+          "prepared_items": [
+            "[[prepared]]Forewings.",
+            "[[prepared]]Hindwings.",
+            "[[prepared]]Three pairs of legs.",
+            "[[prepared]]Muscles required for flight and movement."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The wing cases appear as long, smooth areas extending from the thorax toward the abdomen.",
+          "prepared_text": "[[prepared]]The wing cases appear as long, smooth areas extending from the thorax toward the abdomen."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Abdomen"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The abdomen appears to consist of successive segments, with the posterior segments being more distinct and more mobile.",
+          "prepared_text": "[[prepared]]The abdomen appears to consist of successive segments, with the posterior segments being more distinct and more mobile."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Anchoring structures occur at the posterior end and help keep the pupa secured within the cocoon and prevent slipping as the moth moves during emergence.",
+          "prepared_text": "[[prepared]]Anchoring structures occur at the posterior end and help keep the pupa secured within the cocoon and prevent slipping as the moth moves during emergence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pupal Size"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The average length of a Tuta absoluta pupa is approximately:",
+          "prepared_text": "[[prepared]]The average length of a Tuta absoluta pupa is approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "4.3–4.7 mm"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In many field descriptions, the general length is close to:",
+          "prepared_text": "[[prepared]]In many field descriptions, the general length is close to:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Approximately 5 mm."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Female pupae are larger than male pupae on average.",
+          "prepared_text": "[[prepared]]Female pupae are larger than male pupae on average."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Measurements of Male Pupae"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mean length: approximately 4.27 mm.",
+            "Mean width: approximately 1.23 mm."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mean length: approximately 4.27 mm.",
+            "[[prepared]]Mean width: approximately 1.23 mm."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Measurements of Female Pupae"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mean length: approximately 4.67 mm.",
+            "Mean width: approximately 1.37 mm."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mean length: approximately 4.67 mm.",
+            "[[prepared]]Mean width: approximately 1.37 mm."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These measurements alone should not be used to determine sex because large males may overlap in size with small females.",
+          "prepared_text": "[[prepared]]These measurements alone should not be used to determine sex because large males may overlap in size with small females."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupal dimensions are affected by:",
+          "prepared_text": "[[prepared]]Pupal dimensions are affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Sex.",
+            "Plant cultivar.",
+            "Quality of larval nutrition.",
+            "Temperature.",
+            "Larval density.",
+            "Plant stress.",
+            "Larval age at pupation.",
+            "Laboratory or field conditions.",
+            "Larval exposure to insecticides or diseases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sex.",
+            "[[prepared]]Plant cultivar.",
+            "[[prepared]]Quality of larval nutrition.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Larval density.",
+            "[[prepared]]Plant stress.",
+            "[[prepared]]Larval age at pupation.",
+            "[[prepared]]Laboratory or field conditions.",
+            "[[prepared]]Larval exposure to insecticides or diseases."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pupal Weight and Its Significance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupal weight reflects the quantity of nutritional resources stored by the larva before pupation.",
+          "prepared_text": "[[prepared]]Pupal weight reflects the quantity of nutritional resources stored by the larva before pupation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupae produced from well-fed larvae are usually:",
+          "prepared_text": "[[prepared]]Pupae produced from well-fed larvae are usually:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larger.",
+            "More capable of producing healthy moths.",
+            "More likely to produce highly fecund females.",
+            "Less susceptible to deformities."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larger.",
+            "[[prepared]]More capable of producing healthy moths.",
+            "[[prepared]]More likely to produce highly fecund females.",
+            "[[prepared]]Less susceptible to deformities."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Small or low-weight pupae may result from:",
+          "prepared_text": "[[prepared]]Small or low-weight pupae may result from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Low-quality food.",
+            "A less suitable plant cultivar.",
+            "High competition among larvae.",
+            "Exposure to a sublethal insecticide dose.",
+            "Infection with a pathogen.",
+            "Unsuitable temperature.",
+            "Premature cessation of feeding."
+          ],
+          "prepared_items": [
+            "[[prepared]]Low-quality food.",
+            "[[prepared]]A less suitable plant cultivar.",
+            "[[prepared]]High competition among larvae.",
+            "[[prepared]]Exposure to a sublethal insecticide dose.",
+            "[[prepared]]Infection with a pathogen.",
+            "[[prepared]]Unsuitable temperature.",
+            "[[prepared]]Premature cessation of feeding."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Small pupal size does not necessarily mean mortality, but it may affect the characteristics, fecundity, and longevity of the resulting moth.",
+          "prepared_text": "[[prepared]]Small pupal size does not necessarily mean mortality, but it may affect the characteristics, fecundity, and longevity of the resulting moth."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Change in Pupal Color"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupal color changes clearly as internal development progresses.",
+          "prepared_text": "[[prepared]]Pupal color changes clearly as internal development progresses."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Newly Formed Pupa"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "During the first hours, the pupa is:",
+          "prepared_text": "[[prepared]]During the first hours, the pupa is:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Light green.",
+            "Yellowish green.",
+            "Greenish yellow.",
+            "Relatively soft.",
+            "Partly translucent."
+          ],
+          "prepared_items": [
+            "[[prepared]]Light green.",
+            "[[prepared]]Yellowish green.",
+            "[[prepared]]Greenish yellow.",
+            "[[prepared]]Relatively soft.",
+            "[[prepared]]Partly translucent."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At this stage, the outer covering has not yet hardened completely.",
+          "prepared_text": "[[prepared]]At this stage, the outer covering has not yet hardened completely."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Mid-Pupal Period"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The color gradually changes to:",
+          "prepared_text": "[[prepared]]The color gradually changes to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Light brown.",
+            "Olive brown.",
+            "Amber brown.",
+            "Greenish brown."
+          ],
+          "prepared_items": [
+            "[[prepared]]Light brown.",
+            "[[prepared]]Olive brown.",
+            "[[prepared]]Amber brown.",
+            "[[prepared]]Greenish brown."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The covering becomes more sclerotized, and details of the wings and segments become clearer.",
+          "prepared_text": "[[prepared]]The covering becomes more sclerotized, and details of the wings and segments become clearer."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Near Adult Emergence"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before adult emergence, the pupa becomes:",
+          "prepared_text": "[[prepared]]Before adult emergence, the pupa becomes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dark brown.",
+            "Blackish brown.",
+            "Nearly black in some areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dark brown.",
+            "[[prepared]]Blackish brown.",
+            "[[prepared]]Nearly black in some areas."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The dark eyes and wings of the developing moth become visible through the pupal covering.",
+          "prepared_text": "[[prepared]]The dark eyes and wings of the developing moth become visible through the pupal covering."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Gradual darkening before emergence is a normal change, but it differs from irregular blackening caused by death or fungal infection.",
+          "prepared_text": "[[prepared]]Gradual darkening before emergence is a normal change, but it differs from irregular blackening caused by death or fungal infection."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Live and Dead Pupae"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Indicators of a Live Pupa"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The body remains full and is not shrunken.",
+            "Abdominal segments respond to touch.",
+            "Color changes gradually with age.",
+            "No odor of decomposition is present.",
+            "No fungal growth is present.",
+            "A healthy moth emerges at the end of the developmental period."
+          ],
+          "prepared_items": [
+            "[[prepared]]The body remains full and is not shrunken.",
+            "[[prepared]]Abdominal segments respond to touch.",
+            "[[prepared]]Color changes gradually with age.",
+            "[[prepared]]No odor of decomposition is present.",
+            "[[prepared]]No fungal growth is present.",
+            "[[prepared]]A healthy moth emerges at the end of the developmental period."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Indicators of a Dead Pupa"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Obvious shrinkage.",
+            "Severe desiccation.",
+            "Abnormal softness and decomposition.",
+            "Fixed black coloration unrelated to moth development.",
+            "Abnormal odor.",
+            "White, green, or dark fungal growth.",
+            "No response to movement.",
+            "No moth emergence after the expected period has passed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Obvious shrinkage.",
+            "[[prepared]]Severe desiccation.",
+            "[[prepared]]Abnormal softness and decomposition.",
+            "[[prepared]]Fixed black coloration unrelated to moth development.",
+            "[[prepared]]Abnormal odor.",
+            "[[prepared]]White, green, or dark fungal growth.",
+            "[[prepared]]No response to movement.",
+            "[[prepared]]No moth emergence after the expected period has passed."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dark coloration alone is not sufficient to determine pupal death because a healthy pupa naturally becomes dark before adult emergence.",
+          "prepared_text": "[[prepared]]Dark coloration alone is not sufficient to determine pupal death because a healthy pupa naturally becomes dark before adult emergence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pupation Sites"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta can pupate in several locations. Selection of the pupation site depends on:",
+          "prepared_text": "[[prepared]]Tuta absoluta can pupate in several locations. Selection of the pupation site depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant age.",
+            "Production system.",
+            "Canopy density.",
+            "Soil moisture.",
+            "Availability of residues.",
+            "Infestation intensity.",
+            "Weather conditions.",
+            "Proximity of the larva to the soil.",
+            "Degree of disturbance to the plant."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant age.",
+            "[[prepared]]Production system.",
+            "[[prepared]]Canopy density.",
+            "[[prepared]]Soil moisture.",
+            "[[prepared]]Availability of residues.",
+            "[[prepared]]Infestation intensity.",
+            "[[prepared]]Weather conditions.",
+            "[[prepared]]Proximity of the larva to the soil.",
+            "[[prepared]]Degree of disturbance to the plant."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupation sites include:",
+          "prepared_text": "[[prepared]]Pupation sites include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Soil.",
+            "2. Leaf surfaces.",
+            "3. Folded leaves.",
+            "4. Between two contacting leaves.",
+            "5. Inside leaf mines.",
+            "6. On stems and petioles.",
+            "7. Within plant residues.",
+            "8. Near fruits or the calyx.",
+            "9. On greenhouse floors.",
+            "10. In packages, crates, and packing materials."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Soil.",
+            "[[prepared]]2. Leaf surfaces.",
+            "[[prepared]]3. Folded leaves.",
+            "[[prepared]]4. Between two contacting leaves.",
+            "[[prepared]]5. Inside leaf [[term:mines]]mines[[/term]].",
+            "[[prepared]]6. On stems and petioles.",
+            "[[prepared]]7. Within plant residues.",
+            "[[prepared]]8. Near fruits or the calyx.",
+            "[[prepared]]9. On greenhouse floors.",
+            "[[prepared]]10. In packages, crates, and packing materials."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pupation in Soil"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A proportion of fully grown larvae leave the plant and descend to the soil surface, then enter the upper soil layer.",
+          "prepared_text": "[[prepared]]A proportion of fully grown larvae leave the plant and descend to the soil surface, then enter the upper soil layer."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupae are usually found:",
+          "prepared_text": "[[prepared]]Pupae are usually found:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "At the soil surface.",
+            "Beneath fallen leaf residues.",
+            "Between cracks.",
+            "Within approximately the upper 1–2 cm of soil.",
+            "Among sand particles and loose soil."
+          ],
+          "prepared_items": [
+            "[[prepared]]At the soil surface.",
+            "[[prepared]]Beneath fallen leaf residues.",
+            "[[prepared]]Between cracks.",
+            "[[prepared]]Within approximately the upper 1–2 cm of soil.",
+            "[[prepared]]Among sand particles and loose soil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva spins a silken cocoon to which soil particles may adhere, making its color resemble the surrounding medium and rendering detection difficult.",
+          "prepared_text": "[[prepared]]The larva spins a silken cocoon to which soil particles may adhere, making its color resemble the surrounding medium and rendering detection difficult."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupation in soil increases when:",
+          "prepared_text": "[[prepared]]Pupation in soil increases when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plants have sparse foliage.",
+            "Infested leaves become dry.",
+            "The crop approaches the end of the season.",
+            "Soil is loose and moderately moist.",
+            "Plants are disturbed by movement or harvesting.",
+            "Larvae descend from the canopy on silken threads."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plants have sparse foliage.",
+            "[[prepared]]Infested leaves become dry.",
+            "[[prepared]]The crop approaches the end of the season.",
+            "[[prepared]]Soil is loose and moderately moist.",
+            "[[prepared]]Plants are disturbed by movement or harvesting.",
+            "[[prepared]]Larvae descend from the canopy on silken threads."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pupation on the Plant"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae can pupate on the canopy inside a thin silken cocoon.",
+          "prepared_text": "[[prepared]]Larvae can pupate on the canopy inside a thin silken cocoon."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Common sites include:",
+          "prepared_text": "[[prepared]]Common sites include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A fold along the leaf margin.",
+            "A rolled leaf.",
+            "Between two touching leaflets.",
+            "Inside a dry leaf mine.",
+            "Near the midrib.",
+            "At the leaf–stem junction.",
+            "Between crowded leaves.",
+            "Beneath sepals or in other protected sites."
+          ],
+          "prepared_items": [
+            "[[prepared]]A fold along the leaf margin.",
+            "[[prepared]]A rolled leaf.",
+            "[[prepared]]Between two touching leaflets.",
+            "[[prepared]]Inside a dry leaf mine.",
+            "[[prepared]]Near the midrib.",
+            "[[prepared]]At the leaf–stem junction.",
+            "[[prepared]]Between crowded leaves.",
+            "[[prepared]]Beneath sepals or in other protected sites."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva spins silken threads that close the space or secure the leaf margins around its body.",
+          "prepared_text": "[[prepared]]The larva spins silken threads that close the space or secure the leaf margins around its body."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The cocoon may be:",
+          "prepared_text": "[[prepared]]The cocoon may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Thin and white.",
+            "Nearly transparent.",
+            "Covered with leaf trichomes.",
+            "Mixed with frass or plant fragments.",
+            "Difficult to see without lifting the leaf or opening the fold."
+          ],
+          "prepared_items": [
+            "[[prepared]]Thin and white.",
+            "[[prepared]]Nearly transparent.",
+            "[[prepared]]Covered with leaf trichomes.",
+            "[[prepared]]Mixed with frass or plant fragments.",
+            "[[prepared]]Difficult to see without lifting the leaf or opening the fold."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pupation in Processing and Fresh-Market Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The distribution of pupation sites varies according to the production system.",
+          "prepared_text": "[[prepared]]The distribution of pupation sites varies according to the production system."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In some processing tomato fields, soil becomes more important as a pupation site because of:",
+          "prepared_text": "[[prepared]]In some processing tomato fields, soil becomes more important as a pupation site because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Branches being close to the soil surface.",
+            "Abundant residues.",
+            "Advanced plant age.",
+            "Gradual canopy drying.",
+            "Once-over or semi-concentrated harvesting."
+          ],
+          "prepared_items": [
+            "[[prepared]]Branches being close to the soil surface.",
+            "[[prepared]]Abundant residues.",
+            "[[prepared]]Advanced plant age.",
+            "[[prepared]]Gradual canopy drying.",
+            "[[prepared]]Once-over or semi-concentrated harvesting."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In some fresh-market and greenhouse crops, a greater proportion of pupae may be found:",
+          "prepared_text": "[[prepared]]In some fresh-market and greenhouse crops, a greater proportion of pupae may be found:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inside folded leaves.",
+            "On plants.",
+            "On greenhouse structures.",
+            "On fabrics and floors.",
+            "Inside containers and sorting areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inside folded leaves.",
+            "[[prepared]]On plants.",
+            "[[prepared]]On greenhouse structures.",
+            "[[prepared]]On fabrics and floors.",
+            "[[prepared]]Inside containers and sorting areas."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no single fixed pupation site for all production systems. Some field studies recorded higher numbers on leaves than in soil, whereas other observations showed a predominance of ground pupation.",
+          "prepared_text": "[[prepared]]There is no single fixed pupation site for all production systems. Some field studies recorded higher numbers on leaves than in soil, whereas other observations showed a predominance of ground pupation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pupation in Containers and Handling Areas"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupation is not restricted to the field. Larvae may leave fruits or accompanying leaves during:",
+          "prepared_text": "[[prepared]]Pupation is not restricted to the field. Larvae may leave fruits or accompanying leaves during:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Transport.",
+            "Sorting.",
+            "Packing.",
+            "Temporary storage.",
+            "Arrival of fruits at the market or processing plant."
+          ],
+          "prepared_items": [
+            "[[prepared]]Transport.",
+            "[[prepared]]Sorting.",
+            "[[prepared]]Packing.",
+            "[[prepared]]Temporary storage.",
+            "[[prepared]]Arrival of fruits at the market or processing plant."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may then pupate in:",
+          "prepared_text": "[[prepared]]They may then pupate in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Corners of crates.",
+            "Crevices in wooden packages.",
+            "Beneath cards and labels.",
+            "Between fruits and residues.",
+            "Vehicle floors.",
+            "Sorting residues.",
+            "Corners of packing stations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Corners of crates.",
+            "[[prepared]]Crevices in wooden packages.",
+            "[[prepared]]Beneath cards and labels.",
+            "[[prepared]]Between fruits and residues.",
+            "[[prepared]]Vehicle floors.",
+            "[[prepared]]Sorting residues.",
+            "[[prepared]]Corners of packing stations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This characteristic allows the pest to move into new locations because the adult moth may emerge after the package has reached an area far from the original field.",
+          "prepared_text": "[[prepared]]This characteristic allows the pest to move into new locations because the adult moth may emerge after the package has reached an area far from the original field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cocoon Formation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva produces silken threads from the silk glands, then moves its head and body to construct a covering around itself.",
+          "prepared_text": "[[prepared]]The larva produces silken threads from the silk glands, then moves its head and body to construct a covering around itself."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The process proceeds through the following stages:",
+          "prepared_text": "[[prepared]]The process proceeds through the following stages:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Selection of a protected site.",
+            "2. Attachment of initial threads to the substrate.",
+            "3. Formation of a silken network.",
+            "4. Incorporation of leaf fragments or soil particles.",
+            "5. Partial closure of the space.",
+            "6. Cessation of external larval movement.",
+            "7. Shedding of the larval skin.",
+            "8. Appearance of the pupa inside the cocoon."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Selection of a protected site.",
+            "[[prepared]]2. Attachment of initial threads to the substrate.",
+            "[[prepared]]3. Formation of a silken network.",
+            "[[prepared]]4. Incorporation of leaf fragments or soil particles.",
+            "[[prepared]]5. Partial closure of the space.",
+            "[[prepared]]6. Cessation of external larval movement.",
+            "[[prepared]]7. Shedding of the larval skin.",
+            "[[prepared]]8. Appearance of the pupa inside the cocoon."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The cocoon may be relatively strong when pupation occurs in soil, where silk becomes mixed with sand particles, whereas it is thinner when pupation occurs on leaves.",
+          "prepared_text": "[[prepared]]The cocoon may be relatively strong when pupation occurs in soil, where silk becomes mixed with sand particles, whereas it is thinner when pupation occurs on leaves."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Duration of the Pupal Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The duration of the pupal stage depends primarily on temperature.",
+          "prepared_text": "[[prepared]]The duration of the pupal stage depends primarily on temperature."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under moderate and warm conditions, the pupal stage generally lasts approximately:",
+          "prepared_text": "[[prepared]]Under moderate and warm conditions, the pupal stage generally lasts approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "6–10 days."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, it may extend for several weeks under cold conditions.",
+          "prepared_text": "[[prepared]]However, it may extend for several weeks under cold conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies conducted under constant temperatures recorded the following values:",
+          "prepared_text": "[[prepared]]Studies conducted under constant temperatures recorded the following values:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Temperature",
+            "Mean Duration of the Pupal Stage"
+          ],
+          "rows": [
+            [
+              "10°C",
+              "36.8 days"
+            ],
+            [
+              "15°C",
+              "18.4 days"
+            ],
+            [
+              "20°C",
+              "10.2 days"
+            ],
+            [
+              "25°C",
+              "8.4 days"
+            ],
+            [
+              "30°C",
+              "5.4 days"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Temperature",
+            "[[prepared]]Mean Duration of the Pupal Stage"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]10°C",
+              "[[prepared]]36.8 days"
+            ],
+            [
+              "[[prepared]]15°C",
+              "[[prepared]]18.4 days"
+            ],
+            [
+              "[[prepared]]20°C",
+              "[[prepared]]10.2 days"
+            ],
+            [
+              "[[prepared]]25°C",
+              "[[prepared]]8.4 days"
+            ],
+            [
+              "[[prepared]]30°C",
+              "[[prepared]]5.4 days"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These values demonstrate a clear inverse relationship between temperature and pupal duration:",
+          "prepared_text": "[[prepared]]These values demonstrate a clear inverse relationship between temperature and pupal duration:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "> The higher the temperature within the suitable range, the shorter the period required for transformation into the adult moth.",
+          "prepared_text": "[[prepared]]> The higher the temperature within the suitable range, the shorter the period required for transformation into the adult moth."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, a shorter duration does not always mean that the highest temperature is optimal, because extreme heat may reduce survival or the quality of emerging moths.",
+          "prepared_text": "[[prepared]]However, a shorter duration does not always mean that the highest temperature is optimal, because extreme heat may reduce survival or the quality of emerging moths."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Thermal Requirements of the Pupal Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The lower developmental threshold for pupae has been estimated at approximately:",
+          "prepared_text": "[[prepared]]The lower developmental threshold for pupae has been estimated at approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "7.3°C"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The thermal constant required to complete this stage has been estimated at approximately:",
+          "prepared_text": "[[prepared]]The thermal constant required to complete this stage has been estimated at approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "131.6 accumulated heat units — Degree-Days"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The upper thermal threshold for pupal development has been estimated at approximately:",
+          "prepared_text": "[[prepared]]The upper thermal threshold for pupal development has been estimated at approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "36°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These values mean that the pupa must accumulate a certain quantity of heat above the lower threshold in order to complete transformation into the adult insect.",
+          "prepared_text": "[[prepared]]These values mean that the pupa must accumulate a certain quantity of heat above the lower threshold in order to complete transformation into the adult insect."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Practical Example"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At a mean daily temperature of 25°C:",
+          "prepared_text": "[[prepared]]At a mean daily temperature of 25°C:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Daily heat units:",
+          "prepared_text": "[[prepared]]Daily heat units:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "25 − 7.3 = 17.7 degree-days"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The theoretical duration required:",
+          "prepared_text": "[[prepared]]The theoretical duration required:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "131.6 ÷ 17.7 = approximately 7.4 days"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This value is close to the actual duration recorded at 25°C, which was approximately 8.4 days.",
+          "prepared_text": "[[prepared]]This value is close to the actual duration recorded at 25°C, which was approximately 8.4 days."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The calculation remains approximate because soil or cocoon temperature may differ from air temperature.",
+          "prepared_text": "[[prepared]]The calculation remains approximate because soil or cocoon temperature may differ from air temperature."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Most Suitable Temperatures for Pupal Development"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The thermal range suitable for pupal development and successful adult emergence is generally around:",
+          "prepared_text": "[[prepared]]The thermal range suitable for pupal development and successful adult emergence is generally around:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "20–25°C"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This range provides a balance among:",
+          "prepared_text": "[[prepared]]This range provides a balance among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Developmental rate.",
+            "High survival.",
+            "Reduced deformities.",
+            "Production of normal moths.",
+            "Continuity of the life cycle."
+          ],
+          "prepared_items": [
+            "[[prepared]]Developmental rate.",
+            "[[prepared]]High survival.",
+            "[[prepared]]Reduced deformities.",
+            "[[prepared]]Production of normal moths.",
+            "[[prepared]]Continuity of the life cycle."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One study recorded pupal survival of approximately:",
+          "prepared_text": "[[prepared]]One study recorded pupal survival of approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "83.5% at 25°C"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compared with approximately:",
+          "prepared_text": "[[prepared]]Compared with approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "52.5% at 10°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The effect of temperature on pupal survival was less severe than its effect on eggs, indicating that pupae are relatively more tolerant of some thermal conditions.",
+          "prepared_text": "[[prepared]]The effect of temperature on pupal survival was less severe than its effect on eggs, indicating that pupae are relatively more tolerant of some thermal conditions."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cold Tolerance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa is one of the important stages for pest survival during cold periods, particularly when protected within soil, crop residues, or greenhouses.",
+          "prepared_text": "[[prepared]]The pupa is one of the important stages for pest survival during cold periods, particularly when protected within soil, crop residues, or greenhouses."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A study of continuous cold exposure showed that pupae were able to survive at:",
+          "prepared_text": "[[prepared]]A study of continuous cold exposure showed that pupae were able to survive at:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "5°C for 30 or 60 days"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And subsequently produced moths after being returned to suitable conditions, although emergence declined as exposure duration increased.",
+          "prepared_text": "[[prepared]]And subsequently produced moths after being returned to suitable conditions, although emergence declined as exposure duration increased."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "After continuous exposure for 90 days, some pupae appeared to remain alive, but no complete adult moths emerged.",
+          "prepared_text": "[[prepared]]After continuous exposure for 90 days, some pupae appeared to remain alive, but no complete adult moths emerged."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under a gradual cooling program:",
+          "prepared_text": "[[prepared]]Under a gradual cooling program:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Approximately 47% of moths emerged after a period at 11°C.",
+            "Emergence declined to approximately 12% during the following period at 10°C.",
+            "No emergence occurred when temperature was subsequently lowered to 8°C."
+          ],
+          "prepared_items": [
+            "[[prepared]]Approximately 47% of moths emerged after a period at 11°C.",
+            "[[prepared]]Emergence declined to approximately 12% during the following period at 10°C.",
+            "[[prepared]]No emergence occurred when temperature was subsequently lowered to 8°C."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These results show that pupae can tolerate extended cold exposure, but not indefinitely, and their ability to complete development declines as the duration and intensity of cold increase.",
+          "prepared_text": "[[prepared]]These results show that pupae can tolerate extended cold exposure, but not indefinitely, and their ability to complete development declines as the duration and intensity of cold increase."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Soil Moisture"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupae require moderate moisture to prevent desiccation, but they are damaged by excessive water saturation.",
+          "prepared_text": "[[prepared]]Pupae require moderate moisture to prevent desiccation, but they are damaged by excessive water saturation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Soil moisture affects:",
+          "prepared_text": "[[prepared]]Soil moisture affects:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval entry into the soil.",
+            "Cocoon formation.",
+            "Cohesion of soil particles.",
+            "Gas exchange.",
+            "Water loss from the pupa.",
+            "Fungal growth.",
+            "Adult emergence to the soil surface."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larval entry into the soil.",
+            "[[prepared]]Cocoon formation.",
+            "[[prepared]]Cohesion of soil particles.",
+            "[[prepared]]Gas exchange.",
+            "[[prepared]]Water loss from the pupa.",
+            "[[prepared]]Fungal growth.",
+            "[[prepared]]Adult emergence to the soil surface."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In a recent laboratory experiment using different soil-moisture levels, pupal survival was approximately:",
+          "prepared_text": "[[prepared]]In a recent laboratory experiment using different soil-moisture levels, pupal survival was approximately:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Experimental Soil Moisture",
+            "Final Survival Percentage"
+          ],
+          "rows": [
+            [
+              "Dry soil",
+              "24%"
+            ],
+            [
+              "20% moisture",
+              "80%"
+            ],
+            [
+              "40% moisture",
+              "70%"
+            ],
+            [
+              "60% moisture",
+              "53%"
+            ],
+            [
+              "80% moisture",
+              "22%"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Experimental Soil Moisture",
+            "[[prepared]]Final Survival Percentage"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Dry soil",
+              "[[prepared]]24%"
+            ],
+            [
+              "[[prepared]]20% moisture",
+              "[[prepared]]80%"
+            ],
+            [
+              "[[prepared]]40% moisture",
+              "[[prepared]]70%"
+            ],
+            [
+              "[[prepared]]60% moisture",
+              "[[prepared]]53%"
+            ],
+            [
+              "[[prepared]]80% moisture",
+              "[[prepared]]22%"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The results indicate that:",
+          "prepared_text": "[[prepared]]The results indicate that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Severe dryness reduces survival.",
+            "Moderate moisture provides the highest survival.",
+            "Saturation or high moisture reduces survival and emergence.",
+            "Moderately moist soil provides the best balance for pupae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Severe dryness reduces survival.",
+            "[[prepared]]Moderate moisture provides the highest survival.",
+            "[[prepared]]Saturation or high moisture reduces survival and emergence.",
+            "[[prepared]]Moderately moist soil provides the best balance for pupae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These percentages are not fixed for all soil types; results vary according to soil texture, temperature, aeration, salinity, and pupal depth.",
+          "prepared_text": "[[prepared]]These percentages are not fixed for all soil types; results vary according to soil texture, temperature, aeration, salinity, and pupal depth."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Waterlogging"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa requires oxygen through its spiracles. Therefore, continuous waterlogging or soil saturation leads to:",
+          "prepared_text": "[[prepared]]The pupa requires oxygen through its spiracles. Therefore, continuous waterlogging or soil saturation leads to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced aeration.",
+            "Disrupted respiration.",
+            "Increased microbial growth.",
+            "Pupal decomposition.",
+            "Delayed emergence.",
+            "Increased adult deformity.",
+            "Reduced survival."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced aeration.",
+            "[[prepared]]Disrupted respiration.",
+            "[[prepared]]Increased microbial growth.",
+            "[[prepared]]Pupal decomposition.",
+            "[[prepared]]Delayed emergence.",
+            "[[prepared]]Increased adult deformity.",
+            "[[prepared]]Reduced survival."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, a single heavy irrigation does not guarantee elimination of all pupae, particularly in well-drained sandy soils where water passes rapidly and some air spaces remain.",
+          "prepared_text": "[[prepared]]However, a single heavy irrigation does not guarantee elimination of all pupae, particularly in well-drained sandy soils where water passes rapidly and some air spaces remain."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Desiccation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Severe desiccation causes water loss from the pupa, particularly when it occurs:",
+          "prepared_text": "[[prepared]]Severe desiccation causes water loss from the pupa, particularly when it occurs:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "At the soil surface.",
+            "Inside a thin cocoon.",
+            "On dry leaves.",
+            "In packages exposed to air and heat."
+          ],
+          "prepared_items": [
+            "[[prepared]]At the soil surface.",
+            "[[prepared]]Inside a thin cocoon.",
+            "[[prepared]]On dry leaves.",
+            "[[prepared]]In packages exposed to air and heat."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A pupa damaged by desiccation may appear as:",
+          "prepared_text": "[[prepared]]A pupa damaged by desiccation may appear as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A shrunken body.",
+            "Reduced weight.",
+            "A hard, dry covering.",
+            "Failure of adult emergence.",
+            "Emergence of a deformed or weak moth."
+          ],
+          "prepared_items": [
+            "[[prepared]]A shrunken body.",
+            "[[prepared]]Reduced weight.",
+            "[[prepared]]A hard, dry covering.",
+            "[[prepared]]Failure of adult emergence.",
+            "[[prepared]]Emergence of a deformed or weak moth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The cocoon and surface soil provide partial protection from desiccation, but they do not completely prevent water loss.",
+          "prepared_text": "[[prepared]]The cocoon and surface soil provide partial protection from desiccation, but they do not completely prevent water loss."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of High Temperature"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupal duration becomes shorter as temperature rises to 30°C within the tolerable range, but prolonged high temperature or temperatures above the upper threshold cause:",
+          "prepared_text": "[[prepared]]Pupal duration becomes shorter as temperature rises to 30°C within the tolerable range, but prolonged high temperature or temperatures above the upper threshold cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased mortality.",
+            "Disruption of wing formation.",
+            "Failure of transformation into the adult.",
+            "Emergence of deformed insects.",
+            "Reduced subsequent fecundity.",
+            "Desiccation of surface pupae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increased mortality.",
+            "[[prepared]]Disruption of wing formation.",
+            "[[prepared]]Failure of transformation into the adult.",
+            "[[prepared]]Emergence of deformed insects.",
+            "[[prepared]]Reduced subsequent fecundity.",
+            "[[prepared]]Desiccation of surface pupae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupae inside soil are less exposed to temperature fluctuations than pupae located on leaves or exposed containers.",
+          "prepared_text": "[[prepared]]Pupae inside soil are less exposed to temperature fluctuations than pupae located on leaves or exposed containers."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Adult Emergence"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When adult development inside the pupa is completed:",
+          "prepared_text": "[[prepared]]When adult development inside the pupa is completed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. The pupal covering becomes dark.",
+            "2. Body parts separate from the inner surface of the covering.",
+            "3. The adult presses against the anterior end.",
+            "4. The pupal shell splits.",
+            "5. The moth emerges with soft, folded wings.",
+            "6. Fluids are pumped into the wing veins.",
+            "7. The wings expand.",
+            "8. The scales dry and the body hardens.",
+            "9. The moth begins moving and flying."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. The pupal covering becomes dark.",
+            "[[prepared]]2. Body parts separate from the inner surface of the covering.",
+            "[[prepared]]3. The adult presses against the anterior end.",
+            "[[prepared]]4. The pupal shell splits.",
+            "[[prepared]]5. The moth emerges with soft, folded wings.",
+            "[[prepared]]6. Fluids are pumped into the wing veins.",
+            "[[prepared]]7. The wings expand.",
+            "[[prepared]]8. The scales dry and the body hardens.",
+            "[[prepared]]9. The moth begins moving and flying."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A newly emerged moth is weak and is not immediately capable of full flight.",
+          "prepared_text": "[[prepared]]A newly emerged moth is weak and is not immediately capable of full flight."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It requires a period of time for:",
+          "prepared_text": "[[prepared]]It requires a period of time for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Wing expansion.",
+            "Drying of the body.",
+            "Hardening of the legs.",
+            "Completion of scale coloration.",
+            "Initiation of normal activity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Wing expansion.",
+            "[[prepared]]Drying of the body.",
+            "[[prepared]]Hardening of the legs.",
+            "[[prepared]]Completion of scale coloration.",
+            "[[prepared]]Initiation of normal activity."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Empty Pupal Case After Emergence"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The empty pupal case remains at the pupation site after adult emergence.",
+          "prepared_text": "[[prepared]]The empty pupal case remains at the pupation site after adult emergence."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is characterized by being:",
+          "prepared_text": "[[prepared]]It is characterized by being:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Light in weight.",
+            "Brown or relatively transparent.",
+            "Open at the anterior end.",
+            "Empty of contents.",
+            "Sometimes fixed within the cocoon.",
+            "Easily collapsed under pressure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Light in weight.",
+            "[[prepared]]Brown or relatively transparent.",
+            "[[prepared]]Open at the anterior end.",
+            "[[prepared]]Empty of contents.",
+            "[[prepared]]Sometimes fixed within the cocoon.",
+            "[[prepared]]Easily collapsed under pressure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Finding an empty pupal case indicates that an adult moth has already emerged and does not indicate the presence of a live pupa that can still be controlled.",
+          "prepared_text": "[[prepared]]Finding an empty pupal case indicates that an adult moth has already emerged and does not indicate the presence of a live pupa that can still be controlled."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distinguishing Male and Female Pupae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupal sex can be determined by examining the ventral surface under a stereomicroscope.",
+          "prepared_text": "[[prepared]]Pupal sex can be determined by examining the ventral surface under a stereomicroscope."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Female Pupa"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is characterized by:",
+          "prepared_text": "[[prepared]]It is characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A longitudinal genital opening or slit.",
+            "Located in the middle of the eighth abdominal segment.",
+            "Positioned between two small projections.",
+            "Larger size and weight on average."
+          ],
+          "prepared_items": [
+            "[[prepared]]A longitudinal genital opening or slit.",
+            "[[prepared]]Located in the middle of the eighth abdominal segment.",
+            "[[prepared]]Positioned between two small projections.",
+            "[[prepared]]Larger size and weight on average."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Male Pupa"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is characterized by:",
+          "prepared_text": "[[prepared]]It is characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The genital opening being located on the ninth abdominal segment.",
+            "Absence of the female slit on the eighth segment.",
+            "Relatively smaller size.",
+            "A more slender body on average."
+          ],
+          "prepared_items": [
+            "[[prepared]]The genital opening being located on the ninth abdominal segment.",
+            "[[prepared]]Absence of the female slit on the eighth segment.",
+            "[[prepared]]Relatively smaller size.",
+            "[[prepared]]A more slender body on average."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sex determination is used in:",
+          "prepared_text": "[[prepared]]Sex determination is used in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Laboratory rearing experiments.",
+            "Calculation of sex ratio.",
+            "Formation of selected mating pairs.",
+            "Behavioral studies.",
+            "Sterile-insect programs.",
+            "Evaluation of insecticide effects on each sex."
+          ],
+          "prepared_items": [
+            "[[prepared]]Laboratory rearing experiments.",
+            "[[prepared]]Calculation of sex ratio.",
+            "[[prepared]]Formation of selected mating pairs.",
+            "[[prepared]]Behavioral studies.",
+            "[[prepared]]Sterile-insect programs.",
+            "[[prepared]]Evaluation of insecticide effects on each sex."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In routine field inspection, determining the sex of every pupa is not necessary.",
+          "prepared_text": "[[prepared]]In routine field inspection, determining the sex of every pupa is not necessary."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pupal Sensitivity to Insecticides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa is a non-feeding stage and therefore is not affected by insecticides that require ingestion in the same manner as larvae.",
+          "prepared_text": "[[prepared]]The pupa is a non-feeding stage and therefore is not affected by insecticides that require ingestion in the same manner as larvae."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The efficacy of many foliar sprays against pupae is also reduced because pupae:",
+          "prepared_text": "[[prepared]]The efficacy of many foliar sprays against pupae is also reduced because pupae:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Occur inside cocoons.",
+            "Hide in folded leaves.",
+            "Occur inside soil.",
+            "Do not feed on treated tissue.",
+            "Possess a hardened external covering.",
+            "May occur beneath residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Occur inside cocoons.",
+            "[[prepared]]Hide in folded leaves.",
+            "[[prepared]]Occur inside soil.",
+            "[[prepared]]Do not feed on treated tissue.",
+            "[[prepared]]Possess a hardened external covering.",
+            "[[prepared]]May occur beneath residues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some materials may act through contact, fumigation, or penetration, but success depends on direct delivery of the material to the pupa.",
+          "prepared_text": "[[prepared]]Some materials may act through contact, fumigation, or penetration, but success depends on direct delivery of the material to the pupa."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A spray that is effective against larvae should not automatically be considered effective against pupae present in the soil.",
+          "prepared_text": "[[prepared]]A spray that is effective against larvae should not automatically be considered effective against pupae present in the soil."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Natural Enemies of the Pupal Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupae are exposed to varying degrees to:",
+          "prepared_text": "[[prepared]]Pupae are exposed to varying degrees to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Soil predators.",
+            "Ants.",
+            "Spiders and ground-dwelling arthropods.",
+            "Entomopathogenic fungi.",
+            "Entomopathogenic nematodes.",
+            "Some specialized or general parasitoids."
+          ],
+          "prepared_items": [
+            "[[prepared]]Soil predators.",
+            "[[prepared]]Ants.",
+            "[[prepared]]Spiders and ground-dwelling arthropods.",
+            "[[prepared]]Entomopathogenic fungi.",
+            "[[prepared]]Entomopathogenic nematodes.",
+            "[[prepared]]Some specialized or general parasitoids."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, a pupa enclosed within a cocoon and located inside soil is relatively protected.",
+          "prepared_text": "[[prepared]]However, a pupa enclosed within a cocoon and located inside soil is relatively protected."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The efficacy of biological agents is affected by:",
+          "prepared_text": "[[prepared]]The efficacy of biological agents is affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Soil moisture.",
+            "Temperature.",
+            "Pupal depth.",
+            "Soil type.",
+            "Pupal age.",
+            "Type of biological organism.",
+            "Presence of pesticide residues.",
+            "Duration of contact."
+          ],
+          "prepared_items": [
+            "[[prepared]]Soil moisture.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Pupal depth.",
+            "[[prepared]]Soil type.",
+            "[[prepared]]Pupal age.",
+            "[[prepared]]Type of biological organism.",
+            "[[prepared]]Presence of pesticide residues.",
+            "[[prepared]]Duration of contact."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some experiments have shown that infection of Tuta pupae by entomopathogenic nematodes is possible, but mortality rates may be lower than those against larvae. Therefore, a management program should not rely on this method alone.",
+          "prepared_text": "[[prepared]]Some experiments have shown that infection of Tuta pupae by entomopathogenic nematodes is possible, but mortality rates may be lower than those against larvae. Therefore, a management program should not rely on this method alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Importance of the Pupal Stage in Infestation Persistence"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupae may remain present after:",
+          "prepared_text": "[[prepared]]Pupae may remain present after:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Harvest has ended.",
+            "The spray program has stopped.",
+            "Part of the crop has been removed.",
+            "The canopy has dried.",
+            "Produce has been transported from the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Harvest has ended.",
+            "[[prepared]]The spray program has stopped.",
+            "[[prepared]]Part of the crop has been removed.",
+            "[[prepared]]The canopy has dried.",
+            "[[prepared]]Produce has been transported from the field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Adult moths may then emerge and move to:",
+          "prepared_text": "[[prepared]]Adult moths may then emerge and move to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Recently planted fields.",
+            "Nurseries.",
+            "Other solanaceous plants.",
+            "Nearby greenhouses.",
+            "Subsequent planting seasons."
+          ],
+          "prepared_items": [
+            "[[prepared]]Recently planted fields.",
+            "[[prepared]]Nurseries.",
+            "[[prepared]]Other solanaceous plants.",
+            "[[prepared]]Nearby greenhouses.",
+            "[[prepared]]Subsequent planting seasons."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This explains the continued appearance of moths after fruits have been removed or after visible larval numbers on plants have declined.",
+          "prepared_text": "[[prepared]]This explains the continued appearance of moths after fruits have been removed or after visible larval numbers on plants have declined."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Importance of the Pupal Stage in Integrated Pest Management"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Disposal of Crop Residues"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crop residues may contain:",
+          "prepared_text": "[[prepared]]Crop residues may contain:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Late-instar larvae.",
+            "Pupae on leaves.",
+            "Cocoons between stems.",
+            "Pupae near the soil surface."
+          ],
+          "prepared_items": [
+            "[[prepared]]Late-instar larvae.",
+            "[[prepared]]Pupae on leaves.",
+            "[[prepared]]Cocoons between stems.",
+            "[[prepared]]Pupae near the soil surface."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Leaving these residues allows a new generation of moths to emerge.",
+          "prepared_text": "[[prepared]]Leaving these residues allows a new generation of moths to emerge."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Agricultural sanitation therefore includes:",
+          "prepared_text": "[[prepared]]Agricultural sanitation therefore includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Shredding plants immediately after harvest ends.",
+            "Collecting dense residues.",
+            "Avoiding the accumulation of plant piles near the field.",
+            "Disposing of infested rejected fruits.",
+            "Cleaning field margins."
+          ],
+          "prepared_items": [
+            "[[prepared]]Shredding plants immediately after harvest ends.",
+            "[[prepared]]Collecting dense residues.",
+            "[[prepared]]Avoiding the accumulation of plant piles near the field.",
+            "[[prepared]]Disposing of infested rejected fruits.",
+            "[[prepared]]Cleaning field margins."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Tillage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tillage after crop removal contributes to:",
+          "prepared_text": "[[prepared]]Tillage after crop removal contributes to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Exposing some pupae to sunlight and desiccation.",
+            "Moving pupae to depths that impede moth emergence.",
+            "Exposing them to birds and predators.",
+            "Breaking cocoons.",
+            "Interrupting continuity between cropping seasons."
+          ],
+          "prepared_items": [
+            "[[prepared]]Exposing some pupae to sunlight and desiccation.",
+            "[[prepared]]Moving pupae to depths that impede moth emergence.",
+            "[[prepared]]Exposing them to birds and predators.",
+            "[[prepared]]Breaking cocoons.",
+            "[[prepared]]Interrupting continuity between cropping seasons."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, tillage efficacy varies with depth, soil type, and moisture, and shallow tillage alone does not guarantee complete pupal control.",
+          "prepared_text": "[[prepared]]However, tillage efficacy varies with depth, soil type, and moisture, and shallow tillage alone does not guarantee complete pupal control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Soil Solarization"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Soil solarization during suitable seasons helps raise the temperature of the upper soil layer, affecting pupae and other stages beneath the cover.",
+          "prepared_text": "[[prepared]]Soil solarization during suitable seasons helps raise the temperature of the upper soil layer, affecting pupae and other stages beneath the cover."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its efficacy depends on:",
+          "prepared_text": "[[prepared]]Its efficacy depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Intensity of solar radiation.",
+            "Duration of covering.",
+            "Soil moisture.",
+            "Proper sealing of the plastic.",
+            "Pupal depth.",
+            "Season of the year."
+          ],
+          "prepared_items": [
+            "[[prepared]]Intensity of solar radiation.",
+            "[[prepared]]Duration of covering.",
+            "[[prepared]]Soil moisture.",
+            "[[prepared]]Proper sealing of the plastic.",
+            "[[prepared]]Pupal depth.",
+            "[[prepared]]Season of the year."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Cleaning Containers and Sorting Stations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cleaning containers and handling areas prevents movement of:",
+          "prepared_text": "[[prepared]]Cleaning containers and handling areas prevents movement of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larvae emerging from fruits.",
+            "Pupae inside corners.",
+            "Moths emerging later."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larvae emerging from fruits.",
+            "[[prepared]]Pupae inside corners.",
+            "[[prepared]]Moths emerging later."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Leaf, calyx, and damaged-fruit residues should be removed daily, and contaminated crates should not be returned to farms without cleaning.",
+          "prepared_text": "[[prepared]]Leaf, calyx, and damaged-fruit residues should be removed daily, and contaminated crates should not be returned to farms without cleaning."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Soil-Moisture Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Irrigation should not be increased indiscriminately in an attempt to kill pupae because this may damage roots, increase diseases, and waste water.",
+          "prepared_text": "[[prepared]]Irrigation should not be increased indiscriminately in an attempt to kill pupae because this may damage roots, increase diseases, and waste water."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, understanding pupal sensitivity to severe desiccation and saturation helps explain changes in pupal numbers under different irrigation systems and soil textures.",
+          "prepared_text": "[[prepared]]However, understanding pupal sensitivity to severe desiccation and saturation helps explain changes in pupal numbers under different irrigation systems and soil textures."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Collection and Examination of Pupae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupae are collected from:",
+          "prepared_text": "[[prepared]]Pupae are collected from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Folded leaves.",
+            "Dry mines.",
+            "Stems and crop residues.",
+            "Soil surface.",
+            "The upper soil layer.",
+            "Crates and containers.",
+            "Greenhouse floors."
+          ],
+          "prepared_items": [
+            "[[prepared]]Folded leaves.",
+            "[[prepared]]Dry mines.",
+            "[[prepared]]Stems and crop residues.",
+            "[[prepared]]Soil surface.",
+            "[[prepared]]The upper soil layer.",
+            "[[prepared]]Crates and containers.",
+            "[[prepared]]Greenhouse floors."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following steps are used:",
+          "prepared_text": "[[prepared]]The following steps are used:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Lift dry leaves carefully.",
+            "2. Examine silken threads.",
+            "3. Sieve the upper soil layer.",
+            "4. Collect the complete cocoon.",
+            "5. Avoid pressing the pupa.",
+            "6. Record the collection site.",
+            "7. Separate live pupae from empty cases.",
+            "8. Preserve them in a ventilated container.",
+            "9. Monitor adult emergence.",
+            "10. Examine any fungal growth or parasitism."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Lift dry leaves carefully.",
+            "[[prepared]]2. Examine silken threads.",
+            "[[prepared]]3. Sieve the upper soil layer.",
+            "[[prepared]]4. Collect the complete cocoon.",
+            "[[prepared]]5. Avoid pressing the pupa.",
+            "[[prepared]]6. Record the collection site.",
+            "[[prepared]]7. Separate live pupae from empty cases.",
+            "[[prepared]]8. Preserve them in a ventilated container.",
+            "[[prepared]]9. Monitor adult emergence.",
+            "[[prepared]]10. Examine any fungal growth or [[term:biological-control]]parasitism[[/term]]."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Reference Table for the Pupal Stage"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Characteristic",
+            "Description"
+          ],
+          "rows": [
+            [
+              "Pupal type",
+              "Obtect pupa"
+            ],
+            [
+              "Shape",
+              "Oval or spindle-shaped and elongated"
+            ],
+            [
+              "Newly formed color",
+              "Green or greenish yellow"
+            ],
+            [
+              "Intermediate color",
+              "Light brown or olive"
+            ],
+            [
+              "Before adult emergence",
+              "Dark brown to blackish"
+            ],
+            [
+              "Male length",
+              "Approximately 4.27 mm"
+            ],
+            [
+              "Male width",
+              "Approximately 1.23 mm"
+            ],
+            [
+              "Female length",
+              "Approximately 4.67 mm"
+            ],
+            [
+              "Female width",
+              "Approximately 1.37 mm"
+            ],
+            [
+              "General field length",
+              "Approximately 5 mm"
+            ],
+            [
+              "Pupation site",
+              "Soil, leaves, mines, or crop residues"
+            ],
+            [
+              "Usual soil depth",
+              "Surface layer, commonly 1–2 cm"
+            ],
+            [
+              "Pupal duration at 20°C",
+              "Approximately 10.2 days"
+            ],
+            [
+              "Pupal duration at 25°C",
+              "Approximately 8.4 days"
+            ],
+            [
+              "Pupal duration at 30°C",
+              "Approximately 5.4 days"
+            ],
+            [
+              "Lower thermal threshold",
+              "Approximately 7.3°C"
+            ],
+            [
+              "Thermal constant",
+              "Approximately 131.6 degree-days"
+            ],
+            [
+              "Upper thermal threshold",
+              "Approximately 36°C"
+            ],
+            [
+              "Female sex",
+              "Opening on the eighth abdominal segment"
+            ],
+            [
+              "Male sex",
+              "Opening on the ninth abdominal segment"
+            ],
+            [
+              "Feeding stage?",
+              "No"
+            ],
+            [
+              "Direct damage",
+              "None"
+            ],
+            [
+              "Importance",
+              "Production of the moth and initiation of the next generation"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Characteristic",
+            "[[prepared]]Description"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Pupal type",
+              "[[prepared]]Obtect pupa"
+            ],
+            [
+              "[[prepared]]Shape",
+              "[[prepared]]Oval or spindle-shaped and elongated"
+            ],
+            [
+              "[[prepared]]Newly formed color",
+              "[[prepared]]Green or greenish yellow"
+            ],
+            [
+              "[[prepared]]Intermediate color",
+              "[[prepared]]Light brown or olive"
+            ],
+            [
+              "[[prepared]]Before adult emergence",
+              "[[prepared]]Dark brown to blackish"
+            ],
+            [
+              "[[prepared]]Male length",
+              "[[prepared]]Approximately 4.27 mm"
+            ],
+            [
+              "[[prepared]]Male width",
+              "[[prepared]]Approximately 1.23 mm"
+            ],
+            [
+              "[[prepared]]Female length",
+              "[[prepared]]Approximately 4.67 mm"
+            ],
+            [
+              "[[prepared]]Female width",
+              "[[prepared]]Approximately 1.37 mm"
+            ],
+            [
+              "[[prepared]]General field length",
+              "[[prepared]]Approximately 5 mm"
+            ],
+            [
+              "[[prepared]]Pupation site",
+              "[[prepared]]Soil, leaves, mines, or crop residues"
+            ],
+            [
+              "[[prepared]]Usual soil depth",
+              "[[prepared]]Surface layer, commonly 1–2 cm"
+            ],
+            [
+              "[[prepared]]Pupal duration at 20°C",
+              "[[prepared]]Approximately 10.2 days"
+            ],
+            [
+              "[[prepared]]Pupal duration at 25°C",
+              "[[prepared]]Approximately 8.4 days"
+            ],
+            [
+              "[[prepared]]Pupal duration at 30°C",
+              "[[prepared]]Approximately 5.4 days"
+            ],
+            [
+              "[[prepared]]Lower thermal threshold",
+              "[[prepared]]Approximately 7.3°C"
+            ],
+            [
+              "[[prepared]]Thermal constant",
+              "[[prepared]]Approximately 131.6 degree-days"
+            ],
+            [
+              "[[prepared]]Upper thermal threshold",
+              "[[prepared]]Approximately 36°C"
+            ],
+            [
+              "[[prepared]]Female sex",
+              "[[prepared]]Opening on the eighth abdominal segment"
+            ],
+            [
+              "[[prepared]]Male sex",
+              "[[prepared]]Opening on the ninth abdominal segment"
+            ],
+            [
+              "[[prepared]]Feeding stage?",
+              "[[prepared]]No"
+            ],
+            [
+              "[[prepared]]Direct damage",
+              "[[prepared]]None"
+            ],
+            [
+              "[[prepared]]Importance",
+              "[[prepared]]Production of the moth and initiation of the next generation"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Summary of the Pupal Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupa is the non-feeding stage within which the larva of Tuta absoluta transforms into an adult moth. It is elongated or spindle-shaped and measures approximately 4.3–4.7 mm in length, with female pupae being larger than male pupae on average.",
+          "prepared_text": "[[prepared]]The pupa is the non-feeding stage within which the larva of Tuta absoluta transforms into an adult moth. It is elongated or spindle-shaped and measures approximately 4.3–4.7 mm in length, with female pupae being larger than male pupae on average."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A newly formed pupa is green or yellowish green, then turns brown and becomes dark before adult emergence.",
+          "prepared_text": "[[prepared]]A newly formed pupa is green or yellowish green, then turns brown and becomes dark before adult emergence."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The insect pupates in soil, on leaves, inside folded leaves, within mines and crop residues, and in containers. Soil pupae are commonly located in the upper soil layer inside a silken cocoon to which sand particles adhere.",
+          "prepared_text": "[[prepared]]The insect pupates in soil, on leaves, inside folded leaves, within mines and crop residues, and in containers. Soil pupae are commonly located in the upper soil layer inside a silken cocoon to which sand particles adhere."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupal duration is affected by temperature. It is approximately 36.8 days at 10°C, declines to 10.2 days at 20°C, 8.4 days at 25°C, and 5.4 days at 30°C.",
+          "prepared_text": "[[prepared]]Pupal duration is affected by temperature. It is approximately 36.8 days at 10°C, declines to 10.2 days at 20°C, 8.4 days at 25°C, and 5.4 days at 30°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A range of 20–25°C provides suitable conditions for pupal development and adult emergence, while pupae can tolerate extended cold periods, especially in protected sites.",
+          "prepared_text": "[[prepared]]A range of 20–25°C provides suitable conditions for pupal development and adult emergence, while pupae can tolerate extended cold periods, especially in protected sites."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pupae require moderate moisture. Both severe desiccation and water saturation reduce survival and emergence.",
+          "prepared_text": "[[prepared]]Pupae require moderate moisture. Both severe desiccation and water saturation reduce survival and emergence."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Most foliar spray treatments do not reach pupae located inside soil or cocoons. Their management therefore depends mainly on:",
+          "prepared_text": "[[prepared]]Most foliar spray treatments do not reach pupae located inside soil or cocoons. Their management therefore depends mainly on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Removal of crop residues.",
+            "Shredding and tilling fields after harvest.",
+            "Cleaning containers and sorting areas.",
+            "Preventing neglected fields from persisting.",
+            "Soil management and agricultural sanitation.",
+            "Use of appropriate biological agents within an integrated program."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removal of crop residues.",
+            "[[prepared]]Shredding and tilling fields after harvest.",
+            "[[prepared]]Cleaning containers and sorting areas.",
+            "[[prepared]]Preventing neglected fields from persisting.",
+            "[[prepared]]Soil management and agricultural sanitation.",
+            "[[prepared]]Use of appropriate biological agents within an integrated program."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pupal stage causes no direct damage, but neglecting it allows new adult moths to emerge and initiate a new infestation cycle in the same field or in neighboring crops.",
+          "prepared_text": "[[prepared]]The pupal stage causes no direct damage, but neglecting it allows new adult moths to emerge and initiate a new infestation cycle in the same field or in neighboring crops."
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-23",
+        "part_index": 3,
+        "part_title": "Part Four: The Pupal Stage",
+        "part_subtitle": "Morphological Characteristics, Pupation Sites, Developmental Duration, Sensitivity, and Applied Importance"
+      }
+    }
+  ]
+}
