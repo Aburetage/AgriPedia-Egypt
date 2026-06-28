@@ -17,11 +17,6 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "Generation Duration, Number of Generations, and Optimal Reproductive Conditions"
-        },
-        {
-          "type": "doc-heading",
-          "level": 2,
           "text": "Introduction"
         },
         {
@@ -2465,7 +2460,8 @@
         }
       ],
       "meta": {
-        "updated_at": "2026-06-28"
+        "updated_at": "2026-06-28",
+        "subtitle": "Generation Duration, Number of Generations, and Optimal Reproductive Conditions"
       }
     }
   ]
