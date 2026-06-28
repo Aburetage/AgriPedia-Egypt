@@ -1,5 +1,7 @@
 const appContainer = document.getElementById('app-container');
 const sidebarContainer = document.getElementById('sidebar-menu-container');
+const DATA_VERSION = '31';
+const versionedDataUrl = path => `${path}${path.includes('?') ? '&' : '?'}v=${DATA_VERSION}`;
 // 🌟 ضبط الوضع الداكن واللغة العربية كافتراضي 🌟
 let currentLang = localStorage.getItem('lang') || 'ar';
 let currentTheme = localStorage.getItem('theme') || 'dark'; 
@@ -202,7 +204,7 @@ function closeSearch() {
 
 async function ensureSearchIndex(lang) {
     if (searchIndexCache[lang]) return searchIndexCache[lang];
-    const response = await fetch(`data/${lang}/search-index.json`);
+    const response = await fetch(versionedDataUrl(`data/${lang}/search-index.json`));
     if (!response.ok) throw new Error(`Search index failed for ${lang}`);
     const index = (await response.json()).map(entry => ({
         ...entry,
@@ -214,7 +216,7 @@ async function ensureSearchIndex(lang) {
 
 async function ensureGlossary(lang) {
     if (glossaryCache[lang]) return glossaryCache[lang];
-    const response = await fetch(`data/${lang}/glossary.json`);
+    const response = await fetch(versionedDataUrl(`data/${lang}/glossary.json`));
     if (!response.ok) throw new Error(`Glossary failed for ${lang}`);
     const glossary = await response.json();
     glossaryCache[lang] = glossary;
@@ -224,7 +226,7 @@ async function ensureGlossary(lang) {
 async function fetchChapterManifest(lang, chapterId) {
     chapterManifestCache[lang] ||= {};
     if (chapterManifestCache[lang][chapterId]) return chapterManifestCache[lang][chapterId];
-    const response = await fetch(`data/${lang}/${chapterId}.json`);
+    const response = await fetch(versionedDataUrl(`data/${lang}/${chapterId}.json`));
     if (!response.ok) throw new Error(`Chapter manifest failed for ${chapterId}`);
     const manifest = await response.json();
     chapterManifestCache[lang][chapterId] = manifest;
@@ -234,7 +236,7 @@ async function fetchChapterManifest(lang, chapterId) {
 async function fetchChapterTab(lang, chapterId, tab, tabIndex) {
     if (Array.isArray(tab.content_blocks)) return tab;
     const contentPath = tab.content_path || `${chapterId}/${tabIndex}.json`;
-    const response = await fetch(`data/${lang}/${contentPath}`);
+    const response = await fetch(versionedDataUrl(`data/${lang}/${contentPath}`));
     if (!response.ok) throw new Error(`Chapter tab failed for ${chapterId}-${tabIndex}`);
     return response.json();
 }
@@ -246,7 +248,7 @@ function prefetchAdjacentTab(lang, chapterId, chapterData, tabIndex) {
     if (slowConnection) return;
     const run = () => {
         const contentPath = nextTab.content_path || `${chapterId}/${tabIndex + 1}.json`;
-        fetch(`data/${lang}/${contentPath}`).catch(() => {});
+        fetch(versionedDataUrl(`data/${lang}/${contentPath}`)).catch(() => {});
     };
     if ('requestIdleCallback' in window) window.requestIdleCallback(run, { timeout: 1800 });
     else window.setTimeout(run, 700);
@@ -557,12 +559,20 @@ function handleArticleAnchor(event) {
         return;
     }
 
+    const selectedPart = event.target.closest('[data-doc-part-select]');
+    if (selectedPart) {
+        const partArticle = selectedPart.closest('.doc-article');
+        if (partArticle) activateDocPart(partArticle, Number(selectedPart.dataset.docPartSelect));
+    }
+
     const link = event.target.closest('[data-scroll-target]');
     if (!link) return;
     event.preventDefault();
     const article = link.closest('.doc-article');
     const target = article?.querySelector(`#${link.dataset.scrollTarget}`) || document.getElementById(link.dataset.scrollTarget);
     if (!target) return;
+    const targetPart = target.closest('[data-doc-part-index]');
+    if (article && targetPart?.hidden) activateDocPart(article, Number(targetPart.dataset.docPartIndex));
     const collapsedParent = target.closest('details:not([open])');
     if (collapsedParent) collapsedParent.open = true;
     const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -897,7 +907,7 @@ async function loadIndex() {
     if (!appDataIndex) showSkeletonLoader();
     const requestedLang = currentLang;
     try {
-        const response = await fetch(`data/${requestedLang}/index.json`);
+        const response = await fetch(versionedDataUrl(`data/${requestedLang}/index.json`));
         if (!response.ok) throw new Error('Network error');
         const loadedIndex = await response.json();
         if (requestedLang !== currentLang) return;
@@ -1196,6 +1206,8 @@ function renderChapter(data, initialTab, activeTabData) {
         requestAnimationFrame(() => requestAnimationFrame(() => {
             const activeArticle = document.querySelector('.tab-content.active .doc-article');
             const target = activeArticle?.querySelector(`#${targetId}`);
+            const targetPart = target?.closest('[data-doc-part-index]');
+            if (activeArticle && targetPart?.hidden) activateDocPart(activeArticle, Number(targetPart.dataset.docPartIndex));
             highlightArticleSearch(pendingResult.query, target);
             target?.scrollIntoView({ behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
             updateArticleReadingState();
@@ -1321,6 +1333,14 @@ function buildDocArticle(items, meta = {}) {
         const sectionIndex = sectionHeadings.indexOf(part.targetHeading);
         return { ...part, sectionIndex };
     }).filter(part => part.sectionIndex >= 0);
+    const sectionPartIndexes = sectionHeadings.map((_, sectionIndex) => {
+        if (!docParts.length) return -1;
+        let partIndex = 0;
+        docParts.forEach((part, index) => {
+            if (part.sectionIndex <= sectionIndex) partIndex = index;
+        });
+        return partIndex;
+    });
     const textForReadingTime = items.flatMap(item => {
         if (item.type === 'reference-list') return [];
         if (item.type === 'doc-list') return item.items;
@@ -1358,7 +1378,7 @@ function buildDocArticle(items, meta = {}) {
     const encodedShareUrl = encodeURIComponent(shareUrl);
     const encodedShareText = encodeURIComponent(articleTitle);
 
-    let html = `<article class="doc-article" data-font-scale="${storedFontScale}" style="--article-text-size: ${(storedFontScale * 0.0096).toFixed(4)}rem;">
+    let html = `<article class="doc-article"${docParts.length ? ' data-active-part-index="0"' : ''} data-font-scale="${storedFontScale}" style="--article-text-size: ${(storedFontScale * 0.0096).toFixed(4)}rem;">
         <header class="doc-article-hero">
             <p class="doc-chapter-label">${formatDocText(chapterHeadings[0]?.text || '')}</p>
             <h3 class="doc-article-title">${formatDocText(articleTitle)}</h3>
@@ -1390,14 +1410,14 @@ function buildDocArticle(items, meta = {}) {
             ${docParts.length ? `<div class="doc-parts-shell">
                 <span class="doc-parts-label"><i class="fas fa-layer-group" aria-hidden="true"></i>${labels.parts}</span>
                 <nav class="doc-parts-nav" aria-label="${labels.parts}">
-                    ${docParts.map((part, index) => `<a href="#tuta-0" class="doc-part-link" data-scroll-target="doc-section-${part.sectionIndex + 1}" data-section-index="${part.sectionIndex}">
+                    ${docParts.map((part, index) => `<a href="#tuta-0" class="doc-part-link" data-doc-part-select="${index}" data-scroll-target="doc-section-${part.sectionIndex + 1}" data-section-index="${part.sectionIndex}"${index === 0 ? ' aria-current="true"' : ''}>
                         <span class="doc-part-index">${String(index + 1).padStart(2, '0')}</span>
                         <span class="doc-part-copy"><strong>${formatDocText(part.title)}</strong>${part.description ? `<small>${formatDocText(part.description)}</small>` : ''}</span>
                     </a>`).join('')}
                 </nav>
             </div>` : ''}
             <nav class="doc-toc" aria-label="${labels.toc}">
-                ${sectionHeadings.map((heading, index) => `<a href="#tuta-0" data-scroll-target="doc-section-${index + 1}">${formatDocText(heading.text)}</a>`).join('')}
+                ${sectionHeadings.map((heading, index) => `<a href="#tuta-0" data-scroll-target="doc-section-${index + 1}"${docParts.length ? ` data-doc-part-index="${sectionPartIndexes[index]}"${sectionPartIndexes[index] === 0 ? '' : ' hidden'}` : ''}>${formatDocText(heading.text)}</a>`).join('')}
             </nav>
         </div>`;
     let openPanel = false;
@@ -1435,8 +1455,9 @@ function buildDocArticle(items, meta = {}) {
             const currentSectionIndex = sectionIndex;
             const theme = sectionThemes[currentSectionIndex % sectionThemes.length];
             const icon = sectionIcons[currentSectionIndex % sectionIcons.length];
+            const partIndex = sectionPartIndexes[currentSectionIndex] ?? -1;
             sectionIndex++;
-            html += `<section class="doc-section-card theme-${theme}" id="doc-section-${sectionIndex}">
+            html += `<section class="doc-section-card theme-${theme}" id="doc-section-${sectionIndex}"${docParts.length ? ` data-doc-part-index="${partIndex}"${partIndex === 0 ? '' : ' hidden'}` : ''}>
                 <header class="doc-section-header">
                     <span class="doc-section-icon"><i class="fas ${icon}" aria-hidden="true"></i></span>
                     <h4 class="doc-section-title">${formatDocText(item.text)}</h4>
@@ -1450,7 +1471,8 @@ function buildDocArticle(items, meta = {}) {
         if (item.type === 'doc-heading' && item.id) {
             closePanel();
             const referenceCount = items.find(entry => entry.type === 'reference-list')?.items.length || 0;
-            html += `<details class="doc-references-panel">
+            const referencePartIndex = docParts.length ? docParts.length - 1 : -1;
+            html += `<details class="doc-references-panel"${docParts.length ? ` data-doc-part-index="${referencePartIndex}"${referencePartIndex === 0 ? '' : ' hidden'}` : ''}>
                 <summary id="${escapeHtml(item.id)}" class="doc-references-title"><span>${formatDocText(item.text)}</span><span class="doc-reference-count">${referenceCount}</span></summary>
                 <div class="doc-references-content">`;
             openPanel = true;
@@ -1546,7 +1568,7 @@ function buildTaxonomyLadder(value, usedGlossaryTerms = null) {
 function updateArticleReadingState() {
     const article = document.querySelector('.tab-content.active .doc-article') || document.querySelector('.doc-article');
     if (!article) return;
-    const sections = [...article.querySelectorAll('.doc-section-card[id]')];
+    const sections = [...article.querySelectorAll('.doc-section-card[id]:not([hidden])')];
     if (!sections.length) return;
     const navigationBottom = article.querySelector('.doc-navigation-shell')?.getBoundingClientRect().bottom || 0;
     const markerOffset = Math.max(window.innerHeight * 0.35, navigationBottom + 120);
@@ -1557,7 +1579,7 @@ function updateArticleReadingState() {
         if (sectionTop <= marker) activeIndex = index;
     });
 
-    const tocLinks = [...article.querySelectorAll('.doc-toc a')];
+    const tocLinks = [...article.querySelectorAll('.doc-toc a:not([hidden])')];
     tocLinks.forEach((link, index) => {
         if (index === activeIndex) link.setAttribute('aria-current', 'true');
         else link.removeAttribute('aria-current');
@@ -1567,24 +1589,6 @@ function updateArticleReadingState() {
         const toc = article.querySelector('.doc-toc');
         const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
         centerScrollableItem(toc, tocLinks[activeIndex], behavior);
-    }
-
-    const partLinks = [...article.querySelectorAll('.doc-parts-nav .doc-part-link')];
-    if (partLinks.length) {
-        let activePartIndex = 0;
-        partLinks.forEach((link, index) => {
-            if (Number(link.dataset.sectionIndex) <= activeIndex) activePartIndex = index;
-        });
-        partLinks.forEach((link, index) => {
-            if (index === activePartIndex) link.setAttribute('aria-current', 'true');
-            else link.removeAttribute('aria-current');
-        });
-        if (article.dataset.activePartIndex !== String(activePartIndex)) {
-            article.dataset.activePartIndex = String(activePartIndex);
-            const partNav = article.querySelector('.doc-parts-nav');
-            const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
-            centerScrollableItem(partNav, partLinks[activePartIndex], behavior);
-        }
     }
 
     const nextButton = article.querySelector('.doc-next-section');
@@ -1597,6 +1601,30 @@ function updateArticleReadingState() {
         const nextTitle = sections[activeIndex + 1].querySelector('.doc-section-title')?.textContent || '';
         nextButton.querySelector('strong').textContent = nextTitle;
     }
+}
+
+function activateDocPart(article, partIndex) {
+    if (!article || !Number.isInteger(partIndex) || partIndex < 0) return;
+    article.dataset.activePartIndex = String(partIndex);
+    article.querySelectorAll('.doc-section-card[data-doc-part-index], .doc-references-panel[data-doc-part-index]').forEach(panel => {
+        panel.hidden = Number(panel.dataset.docPartIndex) !== partIndex;
+    });
+    article.querySelectorAll('.doc-toc a[data-doc-part-index]').forEach(link => {
+        link.hidden = Number(link.dataset.docPartIndex) !== partIndex;
+        link.removeAttribute('aria-current');
+    });
+    const visibleTocLinks = [...article.querySelectorAll('.doc-toc a:not([hidden])')];
+    visibleTocLinks[0]?.setAttribute('aria-current', 'true');
+
+    const partLinks = [...article.querySelectorAll('.doc-parts-nav .doc-part-link')];
+    partLinks.forEach((link, index) => {
+        if (index === partIndex) link.setAttribute('aria-current', 'true');
+        else link.removeAttribute('aria-current');
+    });
+    const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+    centerScrollableItem(article.querySelector('.doc-parts-nav'), partLinks[partIndex], behavior);
+    article.dataset.activeSectionIndex = '';
+    updateArticleReadingState();
 }
 
 function updateArticleFontControls(article) {

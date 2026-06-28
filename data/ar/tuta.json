@@ -26,6 +26,18 @@
     {
       "tab_title": "الوصف المورفولوجي",
       "content_path": "tuta/5.json"
+    },
+    {
+      "tab_title": "دورة الحياة",
+      "content_path": "tuta/6.json"
+    },
+    {
+      "tab_title": "العوائل النباتية",
+      "content_path": "tuta/7.json"
+    },
+    {
+      "tab_title": "الأعراض والأضرار والخسائر الاقتصادية",
+      "content_path": "tuta/8.json"
     }
   ]
 }

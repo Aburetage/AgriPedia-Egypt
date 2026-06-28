@@ -126,7 +126,10 @@
         { "text": "التسمية والأسماء الشائعة", "target": "tuta", "disabled": false },
         { "text": "التصنيف العلمي", "target": "tuta", "disabled": false },
         { "text": "الظهور والانتشار العالمي", "target": "tuta", "disabled": false },
-        { "text": "الوصف المورفولوجي", "target": "tuta", "disabled": false }
+        { "text": "الوصف المورفولوجي", "target": "tuta", "disabled": false },
+        { "text": "دورة الحياة", "target": "tuta", "disabled": false },
+        { "text": "العوائل النباتية", "target": "tuta", "disabled": false },
+        { "text": "الأعراض والأضرار والخسائر الاقتصادية", "target": "tuta", "disabled": false }
       ]
     },
     {

@@ -26,6 +26,18 @@
     {
       "tab_title": "Morphological Description",
       "content_path": "tuta/5.json"
+    },
+    {
+      "tab_title": "Life Cycle",
+      "content_path": "tuta/6.json"
+    },
+    {
+      "tab_title": "Host Plants",
+      "content_path": "tuta/7.json"
+    },
+    {
+      "tab_title": "Symptoms, Damage, and Economic Losses",
+      "content_path": "tuta/8.json"
     }
   ]
 }
