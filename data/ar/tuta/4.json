@@ -17,7 +17,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.1 مقدمة"
+          "text": "مقدمة"
         },
         {
           "type": "doc-paragraph",
@@ -52,19 +52,20 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.2 أمريكا الجنوبية: الموطن الأصلي"
+          "text": "أمريكا الجنوبية: الموطن الأصلي"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.2.1 الأصل الجغرافي"
+          "text": "الأصل الجغرافي"
         },
         {
           "type": "doc-paragraph",
           "text": "توتا أبسولوتا آفة ذات أصل نيوتروبي، وموطنها الأصلي يقع في أمريكا الجنوبية، خاصة الجزء الغربي من الإقليم المداري الجديد أو ما يعرف باسم:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Western Neotropics"
         },
         {
@@ -97,7 +98,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.2.2 الوصف العلمي الأول في بيرو"
+          "text": "الوصف العلمي الأول في بيرو"
         },
         {
           "type": "doc-paragraph",
@@ -108,7 +109,8 @@
           "text": "وحملت عند وصفها الأول الاسم:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Phthorimaea absoluta Meyrick, 1917"
         },
         {
@@ -116,7 +118,8 @@
           "text": "ثم تغير موقعها التصنيفي عدة مرات، حتى اشتهرت عالميًا باسم:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "Tuta absoluta"
         },
         {
@@ -130,7 +133,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.2.3 انتشارها داخل أمريكا الجنوبية"
+          "text": "انتشارها داخل أمريكا الجنوبية"
         },
         {
           "type": "doc-paragraph",
@@ -159,7 +162,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.2.4 التوازن البيئي في الموطن الأصلي"
+          "text": "التوازن البيئي في الموطن الأصلي"
         },
         {
           "type": "doc-paragraph",
@@ -200,12 +203,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.3 الانتقال من أمريكا الجنوبية إلى أوروبا"
+          "text": "الانتقال من أمريكا الجنوبية إلى أوروبا"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.3.1 كيف خرجت الحشرة من موطنها الأصلي؟"
+          "text": "كيف خرجت الحشرة من موطنها الأصلي؟"
         },
         {
           "type": "doc-paragraph",
@@ -237,7 +240,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.3.2 أول تسجيل في أوروبا: إسبانيا عام 2006"
+          "text": "أول تسجيل في أوروبا: إسبانيا عام 2006"
         },
         {
           "type": "doc-paragraph",
@@ -267,7 +270,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.3.3 الانتشار السريع داخل إسبانيا"
+          "text": "الانتشار السريع داخل إسبانيا"
         },
         {
           "type": "doc-paragraph",
@@ -296,12 +299,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.4 انتشار توتا أبسولوتا في أوروبا"
+          "text": "انتشار توتا أبسولوتا في أوروبا"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.4.1 الانتشار في غرب وجنوب أوروبا"
+          "text": "الانتشار في غرب وجنوب أوروبا"
         },
         {
           "type": "doc-paragraph",
@@ -333,7 +336,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.4.2 أكثر من مسار واحد للانتشار"
+          "text": "أكثر من مسار واحد للانتشار"
         },
         {
           "type": "doc-paragraph",
@@ -349,7 +352,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "الانتشار الطبيعي"
         },
         {
@@ -358,7 +361,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "الانتشار المدعوم بالنشاط البشري"
         },
         {
@@ -383,7 +386,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.4.3 أوروبا الجنوبية وأوروبا الشمالية"
+          "text": "أوروبا الجنوبية وأوروبا الشمالية"
         },
         {
           "type": "doc-paragraph",
@@ -421,12 +424,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.5 دخول الحشرة إلى أفريقيا"
+          "text": "دخول الحشرة إلى أفريقيا"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.5.1 شمال أفريقيا عام 2008"
+          "text": "شمال أفريقيا عام 2008"
         },
         {
           "type": "doc-paragraph",
@@ -459,12 +462,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.6 دخول توتا أبسولوتا إلى مصر عام 2009"
+          "text": "دخول توتا أبسولوتا إلى مصر عام 2009"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.6.1 أول تسجيل في مصر"
+          "text": "أول تسجيل في مصر"
         },
         {
           "type": "doc-paragraph",
@@ -493,7 +496,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.6.2 هل دخلت الحشرة إلى مصر من ليبيا؟"
+          "text": "هل دخلت الحشرة إلى مصر من ليبيا؟"
         },
         {
           "type": "doc-paragraph",
@@ -537,7 +540,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.6.3 أسباب سرعة انتشارها داخل مصر"
+          "text": "أسباب سرعة انتشارها داخل مصر"
         },
         {
           "type": "doc-paragraph",
@@ -545,7 +548,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "تعدد عروات الطماطم"
         },
         {
@@ -554,7 +557,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "انتقال المحصول بين المحافظات"
         },
         {
@@ -563,7 +566,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "تداخل أعمار الحقول"
         },
         {
@@ -586,7 +589,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "الظروف المناخية"
         },
         {
@@ -595,7 +598,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "العوائل البديلة"
         },
         {
@@ -604,7 +607,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "ضعف النظافة الزراعية"
         },
         {
@@ -613,7 +616,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "الاعتماد المبكر على المبيدات"
         },
         {
@@ -623,7 +626,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.6.4 أثر دخول الآفة في إنتاج الطماطم المصري"
+          "text": "أثر دخول الآفة في إنتاج الطماطم المصري"
         },
         {
           "type": "doc-paragraph",
@@ -654,12 +657,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.7 الانتشار من شمال أفريقيا إلى أفريقيا جنوب الصحراء"
+          "text": "الانتشار من شمال أفريقيا إلى أفريقيا جنوب الصحراء"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.7.1 الاتجاه شرقًا وجنوبًا"
+          "text": "الاتجاه شرقًا وجنوبًا"
         },
         {
           "type": "doc-paragraph",
@@ -682,7 +685,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.7.2 شرق أفريقيا"
+          "text": "شرق أفريقيا"
         },
         {
           "type": "doc-paragraph",
@@ -715,7 +718,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.7.3 غرب أفريقيا"
+          "text": "غرب أفريقيا"
         },
         {
           "type": "doc-paragraph",
@@ -741,7 +744,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.7.4 وسط وجنوب أفريقيا"
+          "text": "وسط وجنوب أفريقيا"
         },
         {
           "type": "doc-paragraph",
@@ -776,12 +779,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.8 الانتشار في الشرق الأوسط"
+          "text": "الانتشار في الشرق الأوسط"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.8.1 تركيا بوابة الانتشار الآسيوي"
+          "text": "تركيا بوابة الانتشار الآسيوي"
         },
         {
           "type": "doc-paragraph",
@@ -806,7 +809,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.8.2 بلاد الشام"
+          "text": "بلاد الشام"
         },
         {
           "type": "doc-paragraph",
@@ -833,7 +836,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.8.3 العراق"
+          "text": "العراق"
         },
         {
           "type": "doc-paragraph",
@@ -850,7 +853,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.8.4 إيران"
+          "text": "إيران"
         },
         {
           "type": "doc-paragraph",
@@ -875,7 +878,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.8.5 شبه الجزيرة العربية"
+          "text": "شبه الجزيرة العربية"
         },
         {
           "type": "doc-paragraph",
@@ -916,12 +919,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.9 الانتشار في آسيا"
+          "text": "الانتشار في آسيا"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.9.1 من تركيا إلى آسيا الوسطى والجنوبية"
+          "text": "من تركيا إلى آسيا الوسطى والجنوبية"
         },
         {
           "type": "doc-paragraph",
@@ -930,12 +933,12 @@
         {
           "type": "doc-list",
           "items": [
-            "تركيا وبلاد الشام والعراق وإيران.",
-            "إيران وآسيا الوسطى.",
-            "شبه الجزيرة العربية.",
-            "باكستان والهند.",
-            "نيبال وبنغلاديش.",
-            "مناطق غرب الصين."
+            "1. تركيا وبلاد الشام والعراق وإيران.",
+            "2. إيران وآسيا الوسطى.",
+            "3. شبه الجزيرة العربية.",
+            "4. باكستان والهند.",
+            "5. نيبال وبنغلاديش.",
+            "6. مناطق غرب الصين."
           ]
         },
         {
@@ -945,7 +948,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.9.2 الهند"
+          "text": "الهند"
         },
         {
           "type": "doc-paragraph",
@@ -975,7 +978,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.9.3 نيبال"
+          "text": "نيبال"
         },
         {
           "type": "doc-paragraph",
@@ -1000,7 +1003,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.9.4 باكستان وبنغلاديش وآسيا الوسطى"
+          "text": "باكستان وبنغلاديش وآسيا الوسطى"
         },
         {
           "type": "doc-paragraph",
@@ -1028,7 +1031,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.9.5 الصين"
+          "text": "الصين"
         },
         {
           "type": "doc-paragraph",
@@ -1059,7 +1062,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.10 الخط الزمني المختصر للانتشار العالمي"
+          "text": "الخط الزمني المختصر للانتشار العالمي"
         },
         {
           "type": "doc-table",
@@ -1129,12 +1132,12 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.11 أسباب الانتشار العالمي السريع"
+          "text": "أسباب الانتشار العالمي السريع"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.1 التجارة الدولية في ثمار الطماطم"
+          "text": "التجارة الدولية في ثمار الطماطم"
         },
         {
           "type": "doc-paragraph",
@@ -1160,7 +1163,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.2 حركة الشتلات والنباتات"
+          "text": "حركة الشتلات والنباتات"
         },
         {
           "type": "doc-paragraph",
@@ -1182,7 +1185,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.3 العبوات وصناديق النقل"
+          "text": "العبوات وصناديق النقل"
         },
         {
           "type": "doc-paragraph",
@@ -1206,7 +1209,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.4 الانتشار الطبيعي للفراشات"
+          "text": "الانتشار الطبيعي للفراشات"
         },
         {
           "type": "doc-paragraph",
@@ -1230,7 +1233,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.5 تداخل مواسم زراعة الطماطم"
+          "text": "تداخل مواسم زراعة الطماطم"
         },
         {
           "type": "doc-paragraph",
@@ -1241,7 +1244,8 @@
           "text": "ويُعرف استمرار النباتات العائلة بين المواسم باسم:"
         },
         {
-          "type": "doc-paragraph",
+          "type": "doc-heading",
+          "level": 4,
           "text": "الجسر الأخضر — Green Bridge"
         },
         {
@@ -1263,7 +1267,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.6 القدرة التناسلية وتعدد الأجيال"
+          "text": "القدرة التناسلية وتعدد الأجيال"
         },
         {
           "type": "doc-paragraph",
@@ -1290,7 +1294,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.7 غياب السكون الإجباري"
+          "text": "غياب السكون الإجباري"
         },
         {
           "type": "doc-paragraph",
@@ -1316,7 +1320,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.8 اختباء الأطوار الحية"
+          "text": "اختباء الأطوار الحية"
         },
         {
           "type": "doc-paragraph",
@@ -1340,7 +1344,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.9 التشابه مع إصابات أخرى"
+          "text": "التشابه مع إصابات أخرى"
         },
         {
           "type": "doc-paragraph",
@@ -1363,7 +1367,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.10 ملاءمة المناخ"
+          "text": "ملاءمة المناخ"
         },
         {
           "type": "doc-paragraph",
@@ -1387,7 +1391,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.11 اتساع نطاق العوائل"
+          "text": "اتساع نطاق العوائل"
         },
         {
           "type": "doc-paragraph",
@@ -1416,7 +1420,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.12 تأخر إجراءات الحجر والرصد"
+          "text": "تأخر إجراءات الحجر والرصد"
         },
         {
           "type": "doc-paragraph",
@@ -1444,7 +1448,7 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "5.11.13 مقاومة المبيدات"
+          "text": "مقاومة المبيدات"
         },
         {
           "type": "doc-paragraph",
@@ -1474,7 +1478,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.12 الانتشار الطبيعي والانتشار البشري"
+          "text": "الانتشار الطبيعي والانتشار البشري"
         },
         {
           "type": "doc-paragraph",
@@ -1526,7 +1530,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.13 لماذا يصعب استئصالها بعد الاستقرار؟"
+          "text": "لماذا يصعب استئصالها بعد الاستقرار؟"
         },
         {
           "type": "doc-paragraph",
@@ -1569,7 +1573,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.14 الدروس المستفادة من الانتشار العالمي"
+          "text": "الدروس المستفادة من الانتشار العالمي"
         },
         {
           "type": "doc-heading",
@@ -1628,7 +1632,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "5.15 خلاصة الفصل"
+          "text": "خلاصة الفصل"
         },
         {
           "type": "doc-paragraph",
@@ -1674,76 +1678,59 @@
           "text": "وتوضح هذه الرحلة أن إدارة توتا أبسولوتا لا تبدأ عند رش الحقل المصاب، بل تبدأ من منع انتقالها، وفحص الشتلات والثمار، وتركيب المصائد مبكرًا، وإزالة مخلفات المحصول، وتنسيق المكافحة بين الحقول والمناطق."
         },
         {
-          "type": "doc-paragraph",
-          "text": "المراجع"
+          "type": "doc-heading",
+          "level": 3,
+          "text": "المراجع",
+          "id": "chapter-five-references"
         },
         {
-          "type": "doc-paragraph",
-          "text": "1. Biondi, A., Guedes, R. N. C., Wan, F.-H., & Desneux, N. (2018). Ecology, Worldwide Spread, and Management of the Invasive South American Tomato Pinworm, Tuta absoluta: Past, Present, and Future. Annual Review of Entomology, 63, 239–258."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://doi.org/10.1146/annurev-ento-031616-034933"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "2. Desneux, N., Wajnberg, E., Wyckhuys, K. A. G., et al. (2010). Biological invasion of European tomato crops by Tuta absoluta: Ecology, geographic expansion and prospects for biological control. Journal of Pest Science, 83, 197–215."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://doi.org/10.1007/s10340-010-0321-6"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "3. Desneux, N., Luna, M. G., Guillemaud, T., & Urbaneja, A. (2011). The invasive South American tomato pinworm, Tuta absoluta, continues to spread in Afro-Eurasia and beyond: The new threat to tomato world production. Journal of Pest Science, 84, 403–408."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://doi.org/10.1007/s10340-011-0398-6"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "4. Mansour, R., Brévault, T., Chailleux, A., Cherif, A., Grissa-Lebdi, K., Haddi, K., Mohamed, S. A., Nofemela, R. S., Oke, A., Sylla, S., Tonnang, H. E. Z., Zappalà, L., Kenis, M., Desneux, N., & Biondi, A. (2018). Occurrence, biology, natural enemies and management of Tuta absoluta in Africa. Entomologia Generalis, 38(2), 83–112."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://doi.org/10.1127/entomologia/2018/0749"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "5. Han, P., Bayram, Y., Shaltiel-Harpaz, L., Sohrabi, F., Saji, A., Esenali, U. T., Jalilov, A., Ali, A., Shashank, P. R., Ismoilov, K., et al. (2019). Tuta absoluta continues to disperse in Asia: Damage, ongoing management and future challenges. Journal of Pest Science, 92, 1317–1327."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://doi.org/10.1007/s10340-018-1062-1"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "6. Salama, H. S., Shehata, I. E. S., Ebada, I. M., Fouda, M., & Ismail, I. A. E.-K. (2019). Prediction of annual generations of the tomato leaf miner Tuta absoluta on tomato cultivations in Egypt. Bulletin of the National Research Centre, 43, 93."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://doi.org/10.1186/s42269-019-0123-9"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "7. European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta: Distribution in Egypt."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://gd.eppo.int/taxon/GNORAB/distribution/EG"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "8. European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta: Global distribution map and country records."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://gd.eppo.int/taxon/GNORAB/distribution"
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F.-H., & Desneux, N. (2018). Ecology, Worldwide Spread, and Management of the Invasive South American Tomato Pinworm, Tuta absoluta: Past, Present, and Future. Annual Review of Entomology, 63, 239–258.",
+              "url": "https://doi.org/10.1146/annurev-ento-031616-034933"
+            },
+            {
+              "number": 2,
+              "text": "Desneux, N., Wajnberg, E., Wyckhuys, K. A. G., et al. (2010). Biological invasion of European tomato crops by Tuta absoluta: Ecology, geographic expansion and prospects for biological control. Journal of Pest Science, 83, 197–215.",
+              "url": "https://doi.org/10.1007/s10340-010-0321-6"
+            },
+            {
+              "number": 3,
+              "text": "Desneux, N., Luna, M. G., Guillemaud, T., & Urbaneja, A. (2011). The invasive South American tomato pinworm, Tuta absoluta, continues to spread in Afro-Eurasia and beyond: The new threat to tomato world production. Journal of Pest Science, 84, 403–408.",
+              "url": "https://doi.org/10.1007/s10340-011-0398-6"
+            },
+            {
+              "number": 4,
+              "text": "Mansour, R., Brévault, T., Chailleux, A., Cherif, A., Grissa-Lebdi, K., Haddi, K., Mohamed, S. A., Nofemela, R. S., Oke, A., Sylla, S., Tonnang, H. E. Z., Zappalà, L., Kenis, M., Desneux, N., & Biondi, A. (2018). Occurrence, biology, natural enemies and management of Tuta absoluta in Africa. Entomologia Generalis, 38(2), 83–112.",
+              "url": "https://doi.org/10.1127/entomologia/2018/0749"
+            },
+            {
+              "number": 5,
+              "text": "Han, P., Bayram, Y., Shaltiel-Harpaz, L., Sohrabi, F., Saji, A., Esenali, U. T., Jalilov, A., Ali, A., Shashank, P. R., Ismoilov, K., et al. (2019). Tuta absoluta continues to disperse in Asia: Damage, ongoing management and future challenges. Journal of Pest Science, 92, 1317–1327.",
+              "url": "https://doi.org/10.1007/s10340-018-1062-1"
+            },
+            {
+              "number": 6,
+              "text": "Salama, H. S., Shehata, I. E. S., Ebada, I. M., Fouda, M., & Ismail, I. A. E.-K. (2019). Prediction of annual generations of the tomato leaf miner Tuta absoluta on tomato cultivations in Egypt. Bulletin of the National Research Centre, 43, 93.",
+              "url": "https://doi.org/10.1186/s42269-019-0123-9"
+            },
+            {
+              "number": 7,
+              "text": "EPPO. Phthorimaea absoluta distribution in Egypt.",
+              "url": "https://gd.eppo.int/taxon/GNORAB/distribution/EG"
+            },
+            {
+              "number": 8,
+              "text": "EPPO. First detection and spread reports for Phthorimaea absoluta.",
+              "url": "https://gd.eppo.int/taxon/GNORAB/reporting"
+            }
+          ]
         }
       ],
       "meta": {
-        "updated_at": "2026-06-20"
+        "updated_at": "2026-06-23"
       }
     }
   ]

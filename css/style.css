@@ -427,6 +427,21 @@ body.light-mode .home-hero-title { background-image: linear-gradient(var(--grad-
 
 /* 🌟 شريط التمرير والتنقل الاحترافي (TOC) 🌟 */
 .doc-navigation-shell { background: color-mix(in srgb, var(--header-bg) 88%, transparent); backdrop-filter: blur(18px); border: 1px solid var(--border); border-radius: 13px; max-width: 100%; min-width: 0; overflow: hidden; padding: 0.55rem; position: sticky; top: 68px; width: 100%; z-index: 20; }
+.doc-parts-shell { align-items: center; border-bottom: 1px solid var(--border); display: grid; gap: 0.65rem; grid-template-columns: auto minmax(0, 1fr); margin-bottom: 0.45rem; min-width: 0; padding: 0.1rem 0.15rem 0.55rem; }
+.doc-parts-label { align-items: center; color: var(--text); display: inline-flex; font-size: 0.72rem; font-weight: 800; gap: 0.4rem; padding-inline: 0.45rem; white-space: nowrap; }
+.doc-parts-label i { color: var(--cyan); }
+.doc-parts-nav { display: flex; gap: 0.55rem; max-width: 100%; min-width: 0; overflow-x: auto; overscroll-behavior-inline: contain; padding: 0.1rem 1.5% 0.4rem; scroll-behavior: smooth; scroll-snap-type: inline proximity; scrollbar-color: var(--cyan) rgba(128,128,128,0.1); scrollbar-width: thin; touch-action: pan-x; -webkit-overflow-scrolling: touch; }
+.doc-parts-nav::-webkit-scrollbar { height: 5px; }
+.doc-parts-nav::-webkit-scrollbar-track { background: rgba(128,128,128,0.05); border-radius: 10px; }
+.doc-parts-nav::-webkit-scrollbar-thumb { background: var(--cyan); border-radius: 10px; }
+.doc-part-link { align-items: center; background: rgba(128,128,128,0.045); border: 1px solid var(--border); border-radius: 13px; color: var(--text-p); display: grid; flex: 0 0 auto; gap: 0.55rem; grid-template-columns: auto minmax(0, 1fr); max-width: 300px; min-height: 52px; min-width: 210px; padding: 0.48rem 0.65rem; scroll-snap-align: center; text-decoration: none; transition: background 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, color 0.25s ease, transform 0.25s ease; }
+.doc-part-link:hover { border-color: rgba(0,212,255,0.28); color: var(--text); transform: translateY(-1px); }
+.doc-part-link[aria-current="true"] { background: linear-gradient(135deg, rgba(0,212,255,0.16), rgba(59,130,246,0.08)); border-color: rgba(0,212,255,0.42); box-shadow: 0 8px 22px rgba(0,212,255,0.1); color: var(--text); }
+.doc-part-index { align-items: center; background: rgba(0,212,255,0.1); border: 1px solid rgba(0,212,255,0.22); border-radius: 9px; color: var(--cyan); display: inline-flex; font-family: 'Readex Pro', sans-serif; font-size: 0.67rem; font-weight: 900; height: 32px; justify-content: center; width: 32px; }
+.doc-part-copy { display: grid; min-width: 0; text-align: start; }
+.doc-part-copy strong { font-size: 0.72rem; line-height: 1.45; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.doc-part-copy small { color: var(--muted); font-size: 0.61rem; line-height: 1.4; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.doc-section-card[id], .doc-references-title[id] { scroll-margin-top: 195px; }
 .doc-toc { 
     display: flex; gap: 0.6rem; max-width: 100%; min-width: 0; overflow-x: auto; 
     padding: 0.2rem 2% 0.8rem; scrollbar-width: thin; scrollbar-color: var(--cyan) rgba(128,128,128,0.1); 
@@ -795,6 +810,12 @@ body.light-mode .smart-tooltip { background: rgba(255,255,255,0.98); box-shadow:
     .taxonomy-arrow { grid-column: 1 / -1; justify-self: center; margin-block: -0.15rem -0.05rem; }
     .references-list { grid-template-columns: 1fr; }
     .doc-navigation-shell { top: 60px; }
+    .doc-parts-shell { display: block; }
+    .doc-parts-label { display: none; }
+    .doc-part-link { max-width: min(82vw, 300px); min-width: min(74vw, 250px); }
+    .doc-part-copy strong { font-size: 0.7rem; }
+    .doc-part-copy small { font-size: 0.59rem; }
+    .doc-section-card[id], .doc-references-title[id] { scroll-margin-top: 205px; }
     .doc-table-hint { display: flex; }
     .doc-table-wrap { margin-top: 0; scrollbar-color: var(--cyan) rgba(128,128,128,0.1); scrollbar-width: thin; }
     .doc-next-section { bottom: calc(88px + env(safe-area-inset-bottom)); max-width: min(330px, calc(100vw - 5rem)); }

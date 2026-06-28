@@ -17,7 +17,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.1 مقدمة"
+          "text": "مقدمة"
         },
         {
           "type": "doc-paragraph",
@@ -54,7 +54,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.2 التصنيف العلمي الكامل"
+          "text": "التصنيف العلمي الكامل"
         },
         {
           "type": "doc-table",
@@ -126,22 +126,113 @@
           "text": "ويمكن تمثيل السلم التصنيفي بصورة مختصرة كما يأتي:"
         },
         {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Animalia"
+        },
+        {
           "type": "doc-paragraph",
-          "text": "Animalia↓Arthropoda↓Hexapoda↓Insecta↓Lepidoptera↓Gelechioidea↓Gelechiidae↓Gelechiinae↓Gnorimoschemini↓Phthorimaea↓Phthorimaea absoluta"
-        },
-        {
-          "type": "doc-heading",
-          "level": 2,
-          "text": "4.3 شرح مبسط لمستويات التصنيف"
-        },
-        {
-          "type": "doc-heading",
-          "level": 3,
-          "text": "4.3.1 المملكة الحيوانية"
+          "text": "↓"
         },
         {
           "type": "doc-heading",
           "level": 4,
+          "text": "Arthropoda"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Hexapoda"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Insecta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Lepidoptera"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Gelechioidea"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Gelechiidae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Gelechiinae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Gnorimoschemini"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Phthorimaea"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Phthorimaea absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "شرح مبسط لمستويات التصنيف"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "المملكة الحيوانية"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
           "text": "Kingdom: Animalia"
         },
         {
@@ -174,11 +265,11 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.3.2 شعبة مفصليات الأرجل"
+          "text": "شعبة مفصليات الأرجل"
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Phylum: Arthropoda"
         },
         {
@@ -202,7 +293,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "الهيكل الخارجي"
         },
         {
@@ -225,7 +316,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "الأطراف المفصلية"
         },
         {
@@ -253,11 +344,11 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.3.3 تحت شعبة سداسيات الأرجل"
+          "text": "تحت شعبة سداسيات الأرجل"
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Subphylum: Hexapoda"
         },
         {
@@ -275,9 +366,9 @@
         {
           "type": "doc-list",
           "items": [
-            "الرأس.",
-            "الصدر.",
-            "البطن."
+            "1. الرأس.",
+            "2. الصدر.",
+            "3. البطن."
           ]
         },
         {
@@ -298,11 +389,11 @@
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.3.4 طائفة الحشرات"
+          "text": "طائفة الحشرات"
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Class: Insecta"
         },
         {
@@ -337,10 +428,10 @@
         {
           "type": "doc-list",
           "items": [
-            "البيضة.",
-            "اليرقة.",
-            "العذراء.",
-            "الحشرة الكاملة."
+            "1. البيضة.",
+            "2. اليرقة.",
+            "3. العذراء.",
+            "4. الحشرة الكاملة."
           ]
         },
         {
@@ -350,11 +441,11 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.4 رتبة حرشفية الأجنحة"
+          "text": "رتبة حرشفية الأجنحة"
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Order: Lepidoptera"
         },
         {
@@ -433,7 +524,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.5 فوق فصيلة Gelechioidea"
+          "text": "فوق فصيلة Gelechioidea"
         },
         {
           "type": "doc-paragraph",
@@ -473,7 +564,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.6 فصيلة Gelechiidae"
+          "text": "فصيلة Gelechiidae"
         },
         {
           "type": "doc-paragraph",
@@ -556,7 +647,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.7 تحت فصيلة Gelechiinae"
+          "text": "تحت فصيلة Gelechiinae"
         },
         {
           "type": "doc-paragraph",
@@ -588,7 +679,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.8 قبيلة Gnorimoschemini"
+          "text": "قبيلة Gnorimoschemini"
         },
         {
           "type": "doc-paragraph",
@@ -643,7 +734,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.9 جنس Phthorimaea"
+          "text": "جنس Phthorimaea"
         },
         {
           "type": "doc-paragraph",
@@ -667,7 +758,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Phthorimaea absoluta"
         },
         {
@@ -676,7 +767,7 @@
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Phthorimaea operculella"
         },
         {
@@ -730,7 +821,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.10 النوع Phthorimaea absoluta"
+          "text": "النوع Phthorimaea absoluta"
         },
         {
           "type": "doc-paragraph",
@@ -789,7 +880,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.11 لماذا تغير الجنس من Tuta إلى Phthorimaea؟"
+          "text": "لماذا تغير الجنس من Tuta إلى Phthorimaea؟"
         },
         {
           "type": "doc-paragraph",
@@ -838,7 +929,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.12 شرح مبسط لفكرة التصنيف"
+          "text": "شرح مبسط لفكرة التصنيف"
         },
         {
           "type": "doc-paragraph",
@@ -888,7 +979,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.13 الفرق التصنيفي بين التوتا والليف ماينر"
+          "text": "الفرق التصنيفي بين التوتا والليف ماينر"
         },
         {
           "type": "doc-paragraph",
@@ -955,7 +1046,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.14 الفرق التصنيفي بين التوتا والسوس الحقيقي"
+          "text": "الفرق التصنيفي بين التوتا والسوس الحقيقي"
         },
         {
           "type": "doc-paragraph",
@@ -1008,7 +1099,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.15 أهمية التصنيف في الإدارة المتكاملة"
+          "text": "أهمية التصنيف في الإدارة المتكاملة"
         },
         {
           "type": "doc-heading",
@@ -1104,7 +1195,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.16 التصنيف والتشخيص الحقلي"
+          "text": "التصنيف والتشخيص الحقلي"
         },
         {
           "type": "doc-paragraph",
@@ -1151,7 +1242,7 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.17 خلاصة الفصل"
+          "text": "خلاصة الفصل"
         },
         {
           "type": "doc-paragraph",
@@ -1213,52 +1304,55 @@
         {
           "type": "doc-heading",
           "level": 3,
+          "text": "المراجع الأساسية"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "EPPO Global Database. Phthorimaea absoluta (GNORAB): Taxonomy and Distribution.",
+            "Chang, P. E. C. & Metz, M. A. (2021). Classification Review of Phthorimaea absoluta and Related Gnorimoschemini.",
+            "GBIF Backbone Taxonomy. Phthorimaea absoluta Meyrick, 1917."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
           "text": "المراجع",
-          "id": "chapter-04-references"
+          "id": "chapter-four-references"
         },
         {
-          "type": "doc-paragraph",
-          "text": "1. European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta (GNORAB): Taxonomic classification."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://gd.eppo.int/taxon/GNORAB"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "2. Chang, P. E. C., & Metz, M. A. (2021). Classification of Tuta absoluta (Meyrick, 1917) (Lepidoptera: Gelechiidae: Gelechiinae: Gnorimoschemini) based on cladistic analysis of morphology. Proceedings of the Entomological Society of Washington, 123(1), 41–54."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://doi.org/10.4289/0013-8797.123.1.41"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "3. GBIF Secretariat. Phthorimaea absoluta Meyrick, 1917: Species record and taxonomic classification."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://www.gbif.org/species/4528100"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "4. USDA–APHIS IDtools. Tuta absoluta: Microlepidoptera on Solanaceae—Identification Key."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://idtools.org/tools/1035/index.cfm?entityID=2869&packageID=1101"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "5. USDA–APHIS Cooperative Agricultural Pest Survey Program. Phthorimaea absoluta CAPS Datasheet."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://caps.ceris.purdue.edu/wp-content/uploads/2025/07/Phthorimaea-absoluta-CAPS-datasheet-20250328.pdf"
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "EPPO. Phthorimaea absoluta (GNORAB): Taxonomic classification.",
+              "url": "https://gd.eppo.int/taxon/GNORAB"
+            },
+            {
+              "number": 2,
+              "text": "Chang, P. E. C., & Metz, M. A. (2021). Classification of Tuta absoluta based on cladistic analysis of morphology. Proceedings of the Entomological Society of Washington, 123(1), 41–54.",
+              "url": "https://doi.org/10.4289/0013-8797.123.1.41"
+            },
+            {
+              "number": 3,
+              "text": "GBIF Secretariat. Phthorimaea absoluta Meyrick, 1917: Species record and classification.",
+              "url": "https://www.gbif.org/species/4528100"
+            },
+            {
+              "number": 4,
+              "text": "USDA–APHIS IDtools. Tuta absoluta: Microlepidoptera on Solanaceae—Identification key.",
+              "url": "https://idtools.org/tools/1035/index.cfm?entityID=2869&packageID=1101"
+            },
+            {
+              "number": 5,
+              "text": "USDA–APHIS CAPS. Phthorimaea absoluta CAPS Datasheet.",
+              "url": "https://caps.ceris.purdue.edu/wp-content/uploads/2025/07/Phthorimaea-absoluta-CAPS-datasheet-20250328.pdf"
+            }
+          ]
         }
       ],
       "meta": {
-        "updated_at": "2026-06-20"
+        "updated_at": "2026-06-23"
       }
     }
   ]

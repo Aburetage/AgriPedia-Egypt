@@ -12,24 +12,24 @@
         {
           "type": "doc-heading",
           "level": 1,
-          "text": "Scientific classification of Tuta absoluta (Taxonomy)."
+          "text": "Scientific Classification of Tuta absoluta (Taxonomy)"
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.1 Introduction"
+          "text": "Introduction"
         },
         {
           "type": "doc-paragraph",
-          "text": "Scientific classification is the system that biologists use to arrange organisms into hierarchical groups, starting with broad groups that include large numbers of organisms, then gradually narrowing down to genus and species."
+          "text": "Scientific classification is the system used by biologists to arrange living organisms into hierarchical groups, beginning with broad groups that include large numbers of organisms and gradually narrowing down to the genus and species levels."
         },
         {
           "type": "doc-paragraph",
-          "text": "Classification is not limited to giving a name to the insect, but rather clarifies its location among living organisms and its degree of relationship to other species. It also helps to understand their anatomical characteristics, life cycle, feeding behavior, and methods of diagnosing and combating them."
+          "text": "Classification is not limited to assigning a name to an insect; it also clarifies its position among living organisms and the degree of its relationship to other species. It also helps in understanding its anatomical characteristics, life cycle, feeding behavior, diagnostic features, and control methods."
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta belongs to the arthropods, then to the insects, then to the order Lepidoptera, which includes moths and butterflies. It is placed within the family Gelechiidae, a group that includes small moths, many of whose larvae feed inside plant tissue."
+          "text": "Tuta absoluta belongs to the phylum Arthropoda, then to the class Insecta, and subsequently to the order Lepidoptera, which includes moths and butterflies. It is placed within the family Gelechiidae, a group that includes small moths whose larvae commonly feed inside plant tissues."
         },
         {
           "type": "doc-paragraph",
@@ -41,7 +41,7 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "While the previous name remains:"
+          "text": "While the former name:"
         },
         {
           "type": "doc-paragraph",
@@ -49,136 +49,227 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It is the most famous name in the agricultural field and applied research."
+          "text": "Remains the most widely recognized name in agriculture and applied research."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.2 Complete scientific classification"
+          "text": "Complete Scientific Classification"
         },
         {
           "type": "doc-table",
           "headers": [
-            "Taxonomic rank",
-            "Scientific name",
-            "Arabic name"
+            "Taxonomic Rank",
+            "Scientific Name",
+            "Arabic Name"
           ],
           "rows": [
             [
-              "Kingdom Kingdom",
+              "Kingdom",
               "Animalia",
               "Animal kingdom"
             ],
             [
-              "Division Phylum",
+              "Phylum",
               "Arthropoda",
               "Arthropods"
             ],
             [
-              "Under Division Subphylum",
+              "Subphylum",
               "Hexapoda",
               "Hexapods"
             ],
             [
-              "Sect Class",
+              "Class",
               "Insecta",
               "Insects"
             ],
             [
-              "Rank Order",
+              "Order",
               "Lepidoptera",
-              "Lepidoptera"
+              "Moths and butterflies"
             ],
             [
-              "Superfamily Superfamily",
+              "Superfamily",
               "Gelechioidea",
-              "Geliquidia"
+              "Gelechioidea"
             ],
             [
-              "Platoon Family",
+              "Family",
               "Gelechiidae",
-              "The gelikidi"
+              "Gelechiidae"
             ],
             [
-              "Subfamily Subfamily",
+              "Subfamily",
               "Gelechiinae",
-              "Jellykini"
+              "Gelechiinae"
             ],
             [
-              "Tribe Tribe",
+              "Tribe",
               "Gnorimoschemini",
-              "gnoremoshimini"
+              "Gnorimoschemini"
             ],
             [
-              "Sex Genus",
+              "Genus",
               "Phthorimaea",
-              "Phthurimaya"
+              "Phthorimaea"
             ],
             [
-              "Type Species",
+              "Species",
               "Phthorimaea absoluta",
-              "Tuta absoluta, or tomato leaf and fruit miner"
+              "Tuta absoluta or tomato leaf and fruit borer"
             ]
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The classification scale can be represented briefly as follows:"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "Animalia↓Arthropoda↓Hexapoda↓Insecta↓Lepidoptera↓Gelechioidea↓Gelechiidae↓Gelechiinae↓Gnorimoschemini↓Phthorimaea↓Phthorimaea absoluta"
-        },
-        {
-          "type": "doc-heading",
-          "level": 2,
-          "text": "4.3 A simplified explanation of the classification levels"
-        },
-        {
-          "type": "doc-heading",
-          "level": 3,
-          "text": "4.3.1 Animal Kingdom"
+          "text": "The taxonomic hierarchy can be represented briefly as follows:"
         },
         {
           "type": "doc-heading",
           "level": 4,
+          "text": "Animalia"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Arthropoda"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Hexapoda"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Insecta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Lepidoptera"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Gelechioidea"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Gelechiidae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Gelechiinae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Gnorimoschemini"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Phthorimaea"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "↓"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Phthorimaea absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Simplified Explanation of the Taxonomic Levels"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Kingdom Animalia"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
           "text": "Kingdom: Animalia"
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta belongs to the animal kingdom because it is a multicellular organism and is not autotrophic, that is, it cannot manufacture its own food as plants do."
+          "text": "Tuta absoluta belongs to the kingdom Animalia because it is a multicellular, heterotrophic organism, meaning that it cannot produce its own food as plants do."
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect gets its food from other organisms. In the larval stage, it feeds on plant tissues, especially tomato tissues, while its body does not carry out photosynthesis or produce organic materials from water and carbon dioxide."
+          "text": "The insect obtains its food from other organisms. During the larval stage, it feeds on plant tissues, especially tomato tissues, whereas its body does not perform photosynthesis or produce organic matter from water and carbon dioxide."
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta shares general characteristics with other animals, including:"
+          "text": "Tuta absoluta shares several general characteristics with other animals, including:"
         },
         {
           "type": "doc-list",
           "items": [
-            "Reliance on organic food.",
-            "The presence of specialized cells.",
-            "The ability to move at one or more stages of the life cycle.",
-            "Responding to environmental influences.",
-            "The presence of sensory and nervous systems.",
+            "Dependence on organic food.",
+            "Presence of specialized cells.",
+            "Ability to move during one or more stages of the life cycle.",
+            "Response to environmental stimuli.",
+            "Presence of sensory and nervous systems.",
             "Sexual reproduction."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The animal kingdom includes very diverse groups, such as mammals, birds, fish, molluscs, worms, and insects."
+          "text": "The animal kingdom includes highly diverse groups such as mammals, birds, fish, mollusks, worms, and insects."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.3.2 Phylum Arthropoda"
+          "text": "Phylum Arthropoda"
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Phylum: Arthropoda"
         },
         {
@@ -187,50 +278,50 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Arthropods are characterized by several basic characteristics:"
+          "text": "Arthropods are characterized by several fundamental features:"
         },
         {
           "type": "doc-list",
           "items": [
-            "The presence of an external structure.",
-            "A body made up of rings or parts.",
-            "Articulated limbs.",
-            "Body growth through moulting.",
-            "Having lateral symmetry.",
+            "Presence of an exoskeleton.",
+            "A body composed of segments or sections.",
+            "Jointed appendages.",
+            "Body growth through molting.",
+            "Bilateral symmetry.",
             "Development of specialized sensory and nervous systems."
           ]
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Exoskeleton"
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect's body is covered by an exoskeleton that mainly contains chitin. This cover provides:"
+          "text": "The insect’s body is covered by an exoskeleton composed mainly of chitin. This covering provides:"
         },
         {
           "type": "doc-list",
           "items": [
             "Mechanical protection.",
-            "Support for the body.",
-            "Muscle fulcrums.",
-            "Reducing water loss.",
+            "Structural support.",
+            "Attachment points for muscles.",
+            "Reduced water loss.",
             "Partial protection from environmental factors."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "But the exoskeleton does not expand constantly, so the larva needs to molt several times in order to increase its body size."
+          "text": "However, the exoskeleton does not expand continuously, so the larva must molt several times in order to increase its body size."
         },
         {
           "type": "doc-heading",
-          "level": 4,
-          "text": "Articulated limbs"
+          "level": 3,
+          "text": "Jointed Appendages"
         },
         {
           "type": "doc-paragraph",
-          "text": "Arthropods are named because they have legs and appendages made up of parts connected by joints, allowing precise movement."
+          "text": "The name Arthropoda refers to the presence of legs and appendages made of sections connected by joints, allowing precise movement."
         },
         {
           "type": "doc-paragraph",
@@ -241,73 +332,73 @@
           "items": [
             "Insects.",
             "Spiders.",
-            "mites.",
+            "Mites.",
             "Crustaceans.",
-            "Polypods."
+            "Myriapods."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Although all of these groups are arthropods, Tuta absoluta is an insect, not an arachnid, arachnid, or crustacean."
+          "text": "Although all of these groups are arthropods, Tuta absoluta is an insect and not a mite, spider, or crustacean."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.3.3 Under the phylum Hexapoda"
+          "text": "Subphylum Hexapoda"
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Subphylum: Hexapoda"
         },
         {
           "type": "doc-paragraph",
-          "text": "Hexapoda refers to animals that have three pairs of true legs, meaning six legs."
+          "text": "The term Hexapoda refers to animals that possess three pairs of true legs, that is, six legs."
         },
         {
           "type": "doc-paragraph",
-          "text": "This characteristic appears clearly in the adult insect, where the six legs are located on the chest area."
+          "text": "This characteristic is clearly evident in the adult insect, in which all six legs are attached to the thorax."
         },
         {
           "type": "doc-paragraph",
-          "text": "The entire body of an insect consists of three main regions:"
+          "text": "The body of the adult insect consists of three main regions:"
         },
         {
           "type": "doc-list",
           "items": [
-            "Head.",
-            "Chest.",
-            "Belly."
+            "1. Head.",
+            "2. Thorax.",
+            "3. Abdomen."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The chest holds:"
+          "text": "The thorax bears:"
         },
         {
           "type": "doc-list",
           "items": [
             "Three pairs of legs.",
-            "Two pairs of wings in an adult insect."
+            "Two pairs of wings in the adult insect."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "As for the larvae, it has three pairs of true thoracic legs, in addition to fleshy abdominal legs that help it move. The ventral legs are not true articulated legs like the thoracic legs."
+          "text": "The larva has three pairs of true thoracic legs in addition to fleshy abdominal prolegs that assist in movement. The abdominal prolegs are not true jointed legs like the thoracic legs."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "4.3.4 Insect class"
+          "text": "Class Insecta"
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Class: Insecta"
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta belongs to the insect class."
+          "text": "Tuta absoluta belongs to the class Insecta."
         },
         {
           "type": "doc-paragraph",
@@ -316,132 +407,132 @@
         {
           "type": "doc-list",
           "items": [
-            "Clear head.",
-            "A chest made of three rings.",
-            "An abdomen made up of several rings.",
+            "A distinct head.",
+            "A thorax composed of three segments.",
+            "An abdomen composed of several segments.",
             "Three pairs of legs.",
-            "A pair of antennae.",
+            "One pair of antennae.",
             "Compound eyes.",
-            "Specialized mouth parts.",
+            "Specialized mouthparts.",
             "One or two pairs of wings in most adult species."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Insects differ from arachnids and spiders in the number of legs and body division. Adult insects have six legs, while adult mites and spiders usually have eight legs."
+          "text": "Insects differ from mites and spiders in the number of legs and body segmentation. Adult insects have six legs, whereas adult mites and spiders usually have eight legs."
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta undergoes complete transformation during its life cycle, and goes through four distinct phases:"
+          "text": "Tuta absoluta undergoes complete metamorphosis during its life cycle and passes through four distinct stages:"
         },
         {
           "type": "doc-list",
           "items": [
-            "The egg.",
-            "Caterpillar.",
-            "Virgo.",
-            "The whole insect."
+            "1. Egg.",
+            "2. Larva.",
+            "3. Pupa.",
+            "4. Adult insect."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The form, behavior and function of the larva differ significantly from that of the adult insect. The larvae is the feeding and damage phase, while the adult insect represents the mating, propagation, and egg-laying phase."
+          "text": "The form, behavior, and function of the larva differ greatly from those of the adult insect. The larva is the feeding and damaging stage, whereas the adult is the mating, dispersal, and egg-laying stage."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.4 Order Lepidoptera"
+          "text": "Order Lepidoptera"
         },
         {
           "type": "doc-heading",
-          "level": 4,
+          "level": 3,
           "text": "Order: Lepidoptera"
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta belongs to the order Lepidoptera, the order that includes moths and butterflies."
+          "text": "Tuta absoluta belongs to the order Lepidoptera, which includes moths and butterflies."
         },
         {
           "type": "doc-paragraph",
-          "text": "The name Lepidoptera consists of two Greek roots that stand for:"
+          "text": "The name Lepidoptera is derived from two Greek roots referring to:"
         },
         {
           "type": "doc-list",
           "items": [
             "Scales.",
-            "wings."
+            "Wings."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This is due to the insect's entire wings being covered with fine microscopic scales."
+          "text": "This is because the wings of the adult insect are covered with minute microscopic scales."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "General characteristics of Lepidoptera"
+          "text": "General Characteristics of Lepidoptera"
         },
         {
           "type": "doc-paragraph",
-          "text": "Insects belonging to this order are characterized by several characteristics, including:"
+          "text": "Insects belonging to this order are characterized by several features, including:"
         },
         {
           "type": "doc-list",
           "items": [
-            "The presence of two pairs of wings in adult insects.",
-            "Cover the wings and body with fine scales.",
-            "Having a complete transformation.",
-            "The presence of a worm-like larval stage.",
-            "The presence of a clear head in the larva.",
-            "The larvae have three pairs of thoracic legs.",
-            "Most larvae have ventral legs.",
-            "Transforming into a pupa before the adult insect emerges."
+            "Presence of two pairs of wings in the adult.",
+            "Wings and body covered with fine scales.",
+            "Complete metamorphosis.",
+            "A worm-like larval stage.",
+            "A distinct head in the larva.",
+            "Three pairs of thoracic legs in the larva.",
+            "Presence of abdominal prolegs in most larvae.",
+            "Transformation into a pupa before adult emergence."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta belongs to the group of small moths, and is not a fly. This point clearly distinguishes them from tunneling flies of the genus Liriomyza, which belong to the order Diptera Diptera."
+          "text": "Tuta absoluta belongs to the group of small moths and is not a fly. This clearly distinguishes it from leaf-mining flies of the genus Liriomyza, which belong to the order Diptera."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "Why is it a moth and not a diurnal butterfly?"
+          "text": "Why Is It Considered a Moth Rather Than a Diurnal Butterfly?"
         },
         {
           "type": "doc-paragraph",
-          "text": "There are general differences between diurnal moths and butterflies, although both belong to the order Lepidoptera."
+          "text": "There are general differences between moths and daytime butterflies, although both belong to the order Lepidoptera."
         },
         {
           "type": "doc-paragraph",
-          "text": "The Tuta absoluta moth is characterized by:"
+          "text": "The moth of Tuta absoluta is characterized by:"
         },
         {
           "type": "doc-list",
           "items": [
-            "Small in size.",
-            "Not bright gray or brown colours.",
-            "They are more active in darkness or low light.",
-            "Their wings are relatively narrow.",
-            "It has wings with long bristles.",
-            "It hides during the day among the leaves of plants."
+            "Small body size.",
+            "Dull gray or brown coloration.",
+            "Greater activity in darkness or low light.",
+            "Relatively narrow wings.",
+            "Wing margins provided with long fringes.",
+            "Hiding among plant leaves during daylight hours."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Therefore, the expression “Tuta moth” is more accurately entomological than the expression “Tuta moth,” even though the two expressions are understandable in field use."
+          "text": "Therefore, the term “Tuta moth” is more entomologically accurate than “Tuta butterfly,” although both expressions are understood in field usage."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.5 above Gelechioidea type"
+          "text": "Superfamily Gelechioidea"
         },
         {
           "type": "doc-paragraph",
-          "text": "The family Tuta absoluta is located within the superfamily Gelechioidea."
+          "text": "The family to which Tuta absoluta belongs is placed within the superfamily Gelechioidea."
         },
         {
           "type": "doc-paragraph",
-          "text": "This group includes a large number of small moths, many of which are referred to as the group of micromoths or:"
+          "text": "This group includes a large number of small moths, many of which are referred to as micro-moths or:"
         },
         {
           "type": "doc-paragraph",
@@ -449,31 +540,31 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Calling them microscopic moths does not mean that they are microscopic organisms, but rather that adult insects are small compared to larger butterflies and moths."
+          "text": "Describing them as micro-moths does not mean that they are microscopic organisms; it means that the adults are small compared with larger moths and butterflies."
         },
         {
           "type": "doc-paragraph",
-          "text": "Many species within this group are characterized by the following:"
+          "text": "Many species within this group are characterized by:"
         },
         {
           "type": "doc-list",
           "items": [
-            "Small size of adult insect.",
+            "Small adult size.",
             "Narrow wings.",
-            "The presence of hairs on the edges of the wings.",
-            "Accurate diagnosis depends on microscopic characteristics.",
-            "Larvae feed inside plant tissues or protected parts.",
-            "Relative specialization in some plant families."
+            "Fringes along the wing margins.",
+            "Reliance on microscopic characters for accurate identification.",
+            "Larval feeding inside plant tissues or protected plant parts.",
+            "Relative specialization on certain plant hosts."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "These characteristics explain why Tuta absoluta is difficult to identify based on size and color alone because several small moths may look similar in appearance."
+          "text": "These characteristics explain why it is difficult to identify Tuta absoluta based on size and color alone, because several small moths may appear externally similar."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.6 Gelechiidae family"
+          "text": "Family Gelechiidae"
         },
         {
           "type": "doc-paragraph",
@@ -481,7 +572,7 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It is a large family of small moths, and its members are sometimes called:"
+          "text": "This is a large family of small moths, whose members are sometimes called:"
         },
         {
           "type": "doc-paragraph",
@@ -489,110 +580,110 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The family includes multiple species associated with plants and agricultural crops."
+          "text": "The family includes many species associated with plants and agricultural crops."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "General characteristics of the species"
+          "text": "General Characteristics of the Family"
         },
         {
           "type": "doc-paragraph",
-          "text": "Adult insects in this family are often characterized by the following:"
+          "text": "Adults in this family are commonly characterized by:"
         },
         {
           "type": "doc-list",
           "items": [
             "Small size.",
-            "Thin body.",
-            "Relatively narrow front wings.",
-            "Hind wings with long hairy edges.",
+            "Slender body.",
+            "Relatively narrow forewings.",
+            "Hindwings with long fringed margins.",
             "Relatively long antennae.",
-            "Gray or brown colors help with camouflage.",
-            "Nocturnal activity or activity in low-light periods."
+            "Gray or brown colors that aid camouflage.",
+            "Nocturnal activity or activity during periods of low light."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "As for the larvae, in many species they feed in protected places, such as:"
+          "text": "The larvae of many species are characterized by feeding in protected sites, such as:"
         },
         {
           "type": "doc-list",
           "items": [
-            "inside the leaves.",
-            "Inside the stems.",
-            "Inside the buds.",
-            "inside the fruits.",
-            "Inside the tubers.",
-            "Between leaves wrapped or tied with silk threads."
+            "Inside leaves.",
+            "Inside stems.",
+            "Inside buds.",
+            "Inside fruits.",
+            "Inside tubers.",
+            "Between leaves that are rolled or tied with silk."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This pattern is clearly visible in Tuta absoluta; The larvae burrow into tomato leaves, and also attack the tops, stems, and fruits."
+          "text": "This feeding pattern is clearly expressed in Tuta absoluta, whose larvae mine inside tomato leaves and also attack growing points, stems, and fruits."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "The agricultural importance of the species"
+          "text": "Agricultural Importance of the Family"
         },
         {
           "type": "doc-paragraph",
-          "text": "The Gelechiidae species includes a number of important agricultural pests, such as:"
+          "text": "The family Gelechiidae includes several important agricultural pests, such as:"
         },
         {
           "type": "doc-list",
           "items": [
-            "Tuta absoluta, or tomato leaf and fruit miner.",
-            "Potato tuber moth Phthorimaea operculella.",
-            "Tomato pinworm Keiferia lycopersicella.",
-            "Other species infect grains, leaves, seeds and fruits."
+            "Tuta absoluta, the tomato leaf and fruit borer.",
+            "Potato tuber moth, Phthorimaea operculella.",
+            "Tomato pinworm, Keiferia lycopersicella.",
+            "Other species attacking grains, leaves, seeds, and fruits."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The presence of Tuta absoluta and the potato tuber moth within the same family explains some of the similarities between them, but it does not mean that they are the same species."
+          "text": "The presence of Tuta absoluta and potato tuber moth within the same family explains some similarities between them, but it does not mean that they are the same species."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.7 under Gelechiinae subfamily"
+          "text": "Subfamily Gelechiinae"
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta falls within the subfamily Gelechiinae, one of the inbred groups of the subfamily Gelechiidae."
+          "text": "Tuta absoluta is placed within the subfamily Gelechiinae, one of the internal groups of the family Gelechiidae."
         },
         {
           "type": "doc-paragraph",
-          "text": "The subfamily level is used to divide large families into smaller groups, comprising genera and species that share a more specific set of anatomical and evolutionary characters."
+          "text": "The subfamily level is used to divide large families into smaller groups containing genera and species that share a more specific set of anatomical and evolutionary characteristics."
         },
         {
           "type": "doc-paragraph",
-          "text": "Differences between subspecies are not easily apparent in field examination, but often depend on:"
+          "text": "Differences among subfamilies are not easily observed during field inspection, but are generally based on:"
         },
         {
           "type": "doc-list",
           "items": [
-            "Installing and veining the wings.",
-            "Shape of mouth parts.",
-            "Characteristics of the head and antennae.",
-            "Characteristics of the reproductive organs.",
-            "Larval traits.",
+            "Wing structure and venation.",
+            "Structure of mouthparts.",
+            "Features of the head and antennae.",
+            "Characteristics of the genitalia.",
+            "Larval characters.",
             "Evolutionary and molecular analyses."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Therefore, identifying the infestation in the field may reach the genus or species level through symptoms, larvae, and traps, while accurate taxonomic confirmation requires a specialist or laboratory examination."
+          "text": "Field diagnosis may therefore reach the genus or species level through symptoms, larvae, and traps, whereas precise taxonomic confirmation requires a specialist or laboratory examination."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.8 Tribe Gnorimoschemini"
+          "text": "Tribe Gnorimoschemini"
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect belongs within the subfamily Gelechiinae to the tribe:"
+          "text": "Within the subfamily Gelechiinae, the insect belongs to the tribe:"
         },
         {
           "type": "doc-paragraph",
@@ -600,15 +691,15 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "A tribe is a taxonomic order located between subfamily and genus."
+          "text": "The tribe is a taxonomic rank located between the subfamily and genus."
         },
         {
           "type": "doc-paragraph",
-          "text": "This tribe includes a group of small moths whose larvae are associated with a number of plants, especially some species of the Solanaceae family and other herbaceous plants."
+          "text": "This tribe includes a group of small moths whose larvae are associated with several plants, particularly some species of the family Solanaceae and other herbaceous plants."
         },
         {
           "type": "doc-paragraph",
-          "text": "Within this tribe there are closely related races, including:"
+          "text": "Closely related genera within this tribe include:"
         },
         {
           "type": "doc-list",
@@ -624,7 +715,7 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The convergence between these genera led to the classification of Tuta absoluta changing several times, as it was historically transferred between:"
+          "text": "The close relationship among these genera led to repeated changes in the classification of Tuta absoluta, which was historically transferred among:"
         },
         {
           "type": "doc-list",
@@ -638,20 +729,20 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The taxonomic revision published in 2021 returned the species to the genus Phthorimaea, after morphological analysis showed its presence in an evolutionary group that includes Phthorimaea operculella."
+          "text": "The taxonomic revision published in 2021 returned the species to the genus Phthorimaea after morphological analysis showed that it belongs to an evolutionary group that includes Phthorimaea operculella."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.9 Gender Phthorimaea"
+          "text": "Genus Phthorimaea"
         },
         {
           "type": "doc-paragraph",
-          "text": "A genus is a group of closely related species, sharing more specific anatomical and evolutionary traits than they do at the species or tribe level."
+          "text": "A genus is a group of closely related species that share more specific anatomical and evolutionary characteristics than those shared at the family or tribe levels."
         },
         {
           "type": "doc-paragraph",
-          "text": "The insect currently belongs to the genus:"
+          "text": "The insect is currently placed in the genus:"
         },
         {
           "type": "doc-paragraph",
@@ -659,39 +750,39 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It is a genus that includes small moths, a number of which are related to plants of the Solanaceae family."
+          "text": "This genus includes small moths, several of which are associated with plants of the family Solanaceae."
         },
         {
           "type": "doc-paragraph",
-          "text": "The most famous agricultural species within this genus are:"
-        },
-        {
-          "type": "doc-heading",
-          "level": 4,
-          "text": "Phthorimaea absoluta"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "Tomato leaf and fruit miner, known as Tuta absoluta."
-        },
-        {
-          "type": "doc-heading",
-          "level": 4,
-          "text": "Phthorimaea operculella"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "Potato tuber moth, which is an important pest that infects potato leaves and tubers in the field and warehouse."
+          "text": "Among the best-known agricultural species within this genus are:"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "The relationship between the two types"
+          "text": "Phthorimaea absoluta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The tomato leaf and fruit borer, known as Tuta absoluta."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Phthorimaea operculella"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The potato tuber moth, an important pest that attacks potato leaves and tubers in the field and in storage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Relationship Between the Two Species"
         },
         {
           "type": "doc-table",
           "headers": [
-            "Adjective",
+            "Characteristic",
             "Phthorimaea absoluta",
             "Phthorimaea operculella"
           ],
@@ -702,22 +793,22 @@
               "Potato tuber moth"
             ],
             [
-              "The main economic breadwinner",
-              "Tomatoes",
-              "Potatoes"
+              "Principal economic host",
+              "Tomato",
+              "Potato"
             ],
             [
-              "The most important damage",
-              "Leaves, tops, stems and fruits",
-              "Leaves, stems and tubers"
+              "Most important damage",
+              "Leaves, growing points, stems, and fruits",
+              "Leaves, stems, and tubers"
             ],
             [
               "Pheromone trap",
               "Tuta-specific pheromone",
-              "A pheromone specific to the tuber moth"
+              "Potato tuber moth-specific pheromone"
             ],
             [
-              "Type",
+              "Species",
               "absoluta",
               "operculella"
             ]
@@ -725,20 +816,20 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "Both pests may be found in the same agricultural area, especially when there are tomatoes and potatoes, so it is not enough to rely on seeing a small moth to determine the type."
+          "text": "Both pests may occur in the same agricultural area, particularly where tomato and potato are grown. Therefore, observing a small moth alone is not sufficient to identify the species."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.10 Type Phthorimaea absoluta"
+          "text": "Species Phthorimaea absoluta"
         },
         {
           "type": "doc-paragraph",
-          "text": "Species is the most precise major level of scientific classification used to identify an organism."
+          "text": "The species is the most precise principal level in scientific classification used to identify an organism."
         },
         {
           "type": "doc-paragraph",
-          "text": "The full name of the species is:"
+          "text": "The complete species name is:"
         },
         {
           "type": "doc-paragraph",
@@ -746,7 +837,7 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The first part refers to gender:"
+          "text": "The first part refers to the genus:"
         },
         {
           "type": "doc-paragraph",
@@ -754,7 +845,7 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "While the second part refers to the qualitative characteristic:"
+          "text": "While the second part refers to the specific epithet:"
         },
         {
           "type": "doc-paragraph",
@@ -762,38 +853,38 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "absoluta is not written alone as a full scientific name because the correct name consists of the genus name and the specific character together."
+          "text": "The word absoluta alone is not written as a complete scientific name because the correct name consists of both the genus name and the specific epithet."
         },
         {
           "type": "doc-paragraph",
-          "text": "This type is characterized by a comprehensive set of characteristics, including:"
+          "text": "This species is distinguished by an integrated set of characteristics, including:"
         },
         {
           "type": "doc-list",
           "items": [
-            "The external appearance of the egg, larva, pupa and moth.",
-            "Installing and veining the wings.",
-            "Shape of body scales and wings.",
-            "Characteristics of male and female reproductive organs.",
-            "Molecular characteristics and genetic material.",
-            "Sex pheromone synthesis.",
-            "Biobehaviour.",
-            "Strong association with tomato and Solanaceae families.",
-            "Nature of tunnels and damage."
+            "External morphology of the egg, larva, pupa, and moth.",
+            "Wing structure and venation.",
+            "Shape of body and wing scales.",
+            "Characteristics of male and female genitalia.",
+            "Molecular traits and genetic material.",
+            "Composition of the sex pheromone.",
+            "Biological behavior.",
+            "Strong association with tomato and solanaceous hosts.",
+            "Nature of mines and damage."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Scientific identification of the species does not depend on only one symptom, such as the presence of a tunnel in a leaf. Because several insects can form similar tunnels."
+          "text": "Scientific identification of the species is not based on a single symptom, such as the presence of a leaf mine, because several insects can form similar mines."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.11 Why did the gender change from Tuta to Phthorimaea?"
+          "text": "Why Was the Genus Changed from Tuta to Phthorimaea?"
         },
         {
           "type": "doc-paragraph",
-          "text": "The type was known for many years as:"
+          "text": "For many years, the species was known as:"
         },
         {
           "type": "doc-paragraph",
@@ -801,15 +892,15 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "However, its position within tribe Gnorimoschemini has remained a subject of taxonomic debate due to the similarity between several genera within this group."
+          "text": "However, its position within the tribe Gnorimoschemini remained taxonomically debated because of the similarity among several genera within this group."
         },
         {
           "type": "doc-paragraph",
-          "text": "Modern taxonomic revision has relied on the analysis of a set of comparable morphological characters between closely related genera."
+          "text": "The modern taxonomic revision relied on analysis of a set of morphological characters that could be compared among closely related genera."
         },
         {
           "type": "doc-paragraph",
-          "text": "The analysis showed that the species known as Tuta absoluta is in a monophyletic group that includes:"
+          "text": "The analysis showed that the species known as Tuta absoluta falls within a monophyletic group that includes:"
         },
         {
           "type": "doc-paragraph",
@@ -817,7 +908,7 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It is the typical species of the genus Phthorimaea."
+          "text": "Which is the type species of the genus Phthorimaea."
         },
         {
           "type": "doc-paragraph",
@@ -829,39 +920,39 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "As for the genus Tuta, it remains a taxonomically valid genus, but it does not include this species according to the recent review."
+          "text": "The genus Tuta remained taxonomically valid, but according to the modern revision, it no longer includes this species."
         },
         {
           "type": "doc-paragraph",
-          "text": "The difference in the two names does not indicate a change in the insect or the nature of its damage, but rather a modification of its position within the classification system."
+          "text": "The difference between the two names does not indicate any change in the insect or the nature of its damage, but rather a revision of its position within the taxonomic system."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.12 A simplified explanation of the idea of classification"
+          "text": "Simplified Concept of Classification"
         },
         {
           "type": "doc-paragraph",
-          "text": "Scientific classification can be likened to a graduated title that precisely identifies the location of an insect."
+          "text": "Scientific classification can be compared to a hierarchical address that precisely identifies the location of the insect."
         },
         {
           "type": "doc-paragraph",
-          "text": "If a species represents an identifiable individual, the higher levels are something like:"
+          "text": "If the species represents a specifically identified individual, the higher levels resemble:"
         },
         {
           "type": "doc-list",
           "items": [
-            "State.",
+            "Country.",
             "Governorate.",
-            "Center.",
-            "The village.",
+            "District.",
+            "Village.",
             "Street.",
-            "Home."
+            "House."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The lower we go the definition becomes more specific."
+          "text": "The lower the level, the more precise the identification becomes."
         },
         {
           "type": "doc-paragraph",
@@ -870,36 +961,36 @@
         {
           "type": "doc-list",
           "items": [
-            "Animalia: tells us it's an animal.",
-            "Arthropoda: tells us it is an arthropod with an exoskeleton.",
-            "Hexapoda: tells us it is a hexapod.",
-            "Insecta: tells us it's an insect.",
-            "Lepidoptera: tells us it is a moth or butterfly with scaly wings.",
-            "Gelechiidae: places it among the small moths of this family.",
-            "Gnorimoschemini: links it to a finer group of closely related moths.",
-            "Phthorimaea: specifies its gender.",
-            "Phthorimaea absoluta: specifies the same type individually."
+            "Animalia: indicates that it is an animal.",
+            "Arthropoda: indicates that it is an arthropod with an exoskeleton.",
+            "Hexapoda: indicates that it belongs to the six-legged animals.",
+            "Insecta: indicates that it is an insect.",
+            "Lepidoptera: indicates that it is a moth or butterfly with scale-covered wings.",
+            "Gelechiidae: places it among the small moths belonging to this family.",
+            "Gnorimoschemini: associates it with a more specific group of closely related moths.",
+            "Phthorimaea: identifies its genus.",
+            "Phthorimaea absoluta: identifies the species itself individually."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Thus, classification does not mean merely memorizing Latin names, but rather gradually clarifies the identity of the insect and its relationship to other organisms."
+          "text": "Classification therefore does not merely involve memorizing Latin names; it progressively clarifies the identity of the insect and its relationship to other organisms."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.13 Taxonomic difference between Tuta and Leafminer"
+          "text": "Taxonomic Difference Between Tuta and Leaf Miner"
         },
         {
           "type": "doc-paragraph",
-          "text": "The classification helps clarify that Tuta absoluta is radically different from the tunneling flies known in the field as leaf miners."
+          "text": "Taxonomy helps clarify that Tuta absoluta differs fundamentally from leaf-mining flies commonly known in the field as leaf miners."
         },
         {
           "type": "doc-table",
           "headers": [
             "Rank",
             "Tuta absoluta",
-            "Leafminer flies"
+            "Leaf-Mining Flies"
           ],
           "rows": [
             [
@@ -908,94 +999,94 @@
               "Animalia"
             ],
             [
-              "Division",
+              "Phylum",
               "Arthropoda",
               "Arthropoda"
             ],
             [
-              "Sect",
+              "Class",
               "Insecta",
               "Insecta"
             ],
             [
-              "Rank",
+              "Order",
               "Lepidoptera",
               "Diptera"
             ],
             [
-              "Platoon",
+              "Family",
               "Gelechiidae",
               "Agromyzidae"
             ],
             [
-              "Sex",
+              "Genus",
               "Phthorimaea",
-              "Liriomyza Mostly"
+              "Usually Liriomyza"
             ],
             [
-              "The whole insect",
+              "Adult insect",
               "Moth",
               "Fly"
             ],
             [
-              "Harmful phase",
-              "Butterfly larva",
-              "Fly larva"
+              "Damaging stage",
+              "Lepidopteran larva",
+              "Dipteran larva"
             ]
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The two species are similar in their ability to form tunnels inside leaves, but similarity in damage does not mean direct taxonomic affinity."
+          "text": "Both groups are capable of forming mines inside leaves, but similarity in damage does not indicate close taxonomic relationship."
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta is taxonomically closer to the potato tuber moth than to the Liriomyza fly, although both may infest tomato leaves."
+          "text": "Tuta absoluta is taxonomically closer to the potato tuber moth than to Liriomyza flies, even though both may infest tomato leaves."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.14 The taxonomic difference between the Tuta and the true weevil"
+          "text": "Taxonomic Difference Between Tuta and True Weevils"
         },
         {
           "type": "doc-paragraph",
-          "text": "Some farmers give the name “weevil” to Tuta, but the classification shows that this name is scientifically incorrect."
+          "text": "Some growers refer to Tuta as “the weevil,” but taxonomy demonstrates that this name is scientifically incorrect."
         },
         {
           "type": "doc-table",
           "headers": [
             "Rank",
             "Tuta absoluta",
-            "Real weevils"
+            "True Weevils"
           ],
           "rows": [
             [
-              "Sect",
+              "Class",
               "Insecta",
               "Insecta"
             ],
             [
-              "Rank",
+              "Order",
               "Lepidoptera",
               "Coleoptera"
             ],
             [
-              "The whole insect",
+              "Adult insect",
               "Moth",
               "Beetle"
             ],
             [
-              "wings",
+              "Wings",
               "Covered with scales",
-              "Often stiff front"
+              "Forewings usually hardened"
             ],
             [
-              "Caterpillar",
-              "Butterfly larva",
+              "Larva",
+              "Lepidopteran larva",
               "Beetle larva"
             ],
             [
-              "Transformation",
+              "Metamorphosis",
               "Complete",
               "Complete"
             ]
@@ -1008,90 +1099,90 @@
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.15 The importance of classification in integrated management"
+          "text": "Importance of Taxonomy in Integrated Pest Management"
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "Pheromone identification"
+          "text": "Identification of the Pheromone"
         },
         {
           "type": "doc-paragraph",
-          "text": "Each species has a special pheromone composition, and the Tuta absoluta pheromone is not suitable for detecting all moths or leafminers."
+          "text": "Each species has a specific pheromone composition, and the pheromone of Tuta absoluta is not suitable for monitoring all moths or leaf-mining insects."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "Diagnosis of larvae"
+          "text": "Larval Diagnosis"
         },
         {
           "type": "doc-paragraph",
-          "text": "The Lepidopteran butterfly larvae differ from the Diptera fly larvae in:"
+          "text": "A lepidopteran larva differs from a dipteran larva in:"
         },
         {
           "type": "doc-list",
           "items": [
             "Head shape.",
-            "Having legs.",
-            "Caterpillar movement.",
-            "Shape of mouth parts.",
-            "Feeding behaviour."
+            "Presence of legs.",
+            "Larval movement.",
+            "Structure of mouthparts.",
+            "Feeding behavior."
           ]
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "Choose vital enemies"
+          "text": "Selection of Natural Enemies"
         },
         {
           "type": "doc-paragraph",
-          "text": "Some parasites and predators are associated with specific groups or stages, so species identification influences the selection of the biological control organism."
+          "text": "Some parasitoids and predators are associated with specific groups or life stages. Therefore, correct species identification affects the selection of biological control agents."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "Pesticide resistance management"
+          "text": "Insecticide Resistance Management"
         },
         {
           "type": "doc-paragraph",
-          "text": "Sites of action and effective groups vary depending on the type of pest. Resistance registers and IRAC group rotation programs are also based on selecting the correct type."
+          "text": "Sites of action and effective insecticide groups differ according to pest species. Resistance records and IRAC rotation programs are also based on correct identification of the pest species."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "Prevent confusion between traps"
+          "text": "Preventing Confusion Among Traps"
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta, potato tuber moth and other types of small moths may be found in the agricultural area."
+          "text": "Tuta absoluta, potato tuber moth, and other small moth species may occur in the same agricultural area."
         },
         {
           "type": "doc-paragraph",
-          "text": "Taxonomic identification prevents all moths in a trap from being interpreted as a single species."
+          "text": "Taxonomic diagnosis prevents all moths found in a trap from being interpreted as a single species."
         },
         {
           "type": "doc-heading",
           "level": 3,
-          "text": "Agricultural quarantine"
+          "text": "Plant Quarantine"
         },
         {
           "type": "doc-paragraph",
-          "text": "The competent authorities use the scientific name and international symbol to identify the pest in:"
+          "text": "Competent authorities use the scientific name and international code to identify the pest in:"
         },
         {
           "type": "doc-list",
           "items": [
             "Phytosanitary certificates.",
             "Survey reports.",
-            "Propagation records.",
+            "Distribution records.",
             "Quarantine procedures.",
             "International notifications.",
-            "Examination of seedlings and fruits."
+            "Inspection of transplants and fruits."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta Absoluta has the code EPPO:"
+          "text": "Tuta absoluta carries the EPPO code:"
         },
         {
           "type": "doc-paragraph",
@@ -1099,63 +1190,63 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "It is a fixed code that allows the pest to be tracked even when its scientific name changes."
+          "text": "This is a stable code that permits tracking of the pest even when its scientific name changes."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.16 Classification and field diagnosis"
+          "text": "Taxonomy and Field Diagnosis"
         },
         {
           "type": "doc-paragraph",
-          "text": "Daily field inspection does not require memorization of all taxonomic ranks, but depends on understanding the group to which the pest belongs."
+          "text": "Routine field inspection does not require memorizing all taxonomic ranks, but it does depend on understanding the group to which the pest belongs."
         },
         {
           "type": "doc-paragraph",
-          "text": "When diagnosing Tuta absoluta in the field, a set of indicators are examined:"
+          "text": "When diagnosing Tuta absoluta in the field, several indicators are examined:"
         },
         {
           "type": "doc-list",
           "items": [
-            "Form of paper tunnels.",
-            "The presence of waste inside the tunnels.",
-            "The shape of the caterpillar and its head.",
-            "The presence of thoracic and abdominal legs.",
-            "Infestation of tops and stems.",
-            "The presence of holes in the fruits.",
-            "Complete moth form.",
+            "Shape of leaf mines.",
+            "Presence of frass inside mines.",
+            "Form of the larva and its head.",
+            "Presence of thoracic legs and abdominal prolegs.",
+            "Infestation of growing points and stems.",
+            "Presence of holes in fruits.",
+            "Appearance of the adult moth.",
             "Results of the pheromone trap.",
-            "Nature of the plant host.",
-            "Laboratory diagnosis when in doubt."
+            "Nature of the host plant.",
+            "Laboratory diagnosis when uncertainty exists."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The specialized taxonomic diagnosis may depend on:"
+          "text": "Specialized taxonomic diagnosis may rely on:"
         },
         {
           "type": "doc-list",
           "items": [
-            "Characteristics of the reproductive organs.",
-            "Microscopic characteristics of adult insects.",
+            "Characteristics of the genitalia.",
+            "Microscopic features of the adult insect.",
             "Fine larval characteristics.",
             "Molecular fingerprinting.",
-            "Sequencing parts of DNA.",
-            "Mitochondrial genome structure."
+            "Sequencing of DNA regions.",
+            "Structure of the mitochondrial genome."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "Laboratory examination becomes necessary when the pest is discovered in a new area or when there are apparently similar species."
+          "text": "Laboratory examination becomes necessary when the pest is detected in a new region or when morphologically similar species are present."
         },
         {
           "type": "doc-heading",
           "level": 2,
-          "text": "4.17 Chapter summary"
+          "text": "Chapter Summary"
         },
         {
           "type": "doc-paragraph",
-          "text": "Tuta absoluta belongs to the kingdom Animalia, phylum Arthropoda, and class Insecta. It is a moth of the order Lepidoptera, not a fly or a mite."
+          "text": "Tuta absoluta belongs to the kingdom Animalia, phylum Arthropoda, and class Insecta. It is a moth in the order Lepidoptera and is not a fly or a weevil."
         },
         {
           "type": "doc-paragraph",
@@ -1165,21 +1256,21 @@
           "type": "doc-list",
           "items": [
             "Kingdom: Animalia.",
-            "Division: Arthropoda.",
-            "Under Division: Hexapoda.",
-            "Sect: Insecta.",
-            "Rank: Lepidoptera.",
-            "Supratype: Gelechioidea.",
-            "Species: Gelechiidae.",
+            "Phylum: Arthropoda.",
+            "Subphylum: Hexapoda.",
+            "Class: Insecta.",
+            "Order: Lepidoptera.",
+            "Superfamily: Gelechioidea.",
+            "Family: Gelechiidae.",
             "Subfamily: Gelechiinae.",
             "Tribe: Gnorimoschemini.",
-            "Gender: Phthorimaea.",
-            "Type: Phthorimaea absoluta."
+            "Genus: Phthorimaea.",
+            "Species: Phthorimaea absoluta."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "The full modern scientific name is:"
+          "text": "The complete modern scientific name is:"
         },
         {
           "type": "doc-paragraph",
@@ -1187,7 +1278,7 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The name widely known in the agricultural field is:"
+          "text": "The name widely recognized in agriculture is:"
         },
         {
           "type": "doc-paragraph",
@@ -1195,70 +1286,73 @@
         },
         {
           "type": "doc-paragraph",
-          "text": "The classification proves that:"
+          "text": "Taxonomy confirms that:"
         },
         {
           "type": "doc-list",
           "items": [
-            "Tuta is a Lepidopteran moth.",
-            "Leafminer Liriomyza Diptera fly.",
-            "A true weevil is a beetle of the order Coleoptera.",
-            "The potato tuber moth is a closely related species of Tuta within the genus Phthorimaea, but it is not the same species."
+            "Tuta is a moth belonging to Lepidoptera.",
+            "Liriomyza leaf miners are flies belonging to Diptera.",
+            "True weevils are beetles belonging to Coleoptera.",
+            "Potato tuber moth is a species closely related to Tuta within the genus Phthorimaea, but it is not the same species."
           ]
         },
         {
           "type": "doc-paragraph",
-          "text": "This classification allows precise identification of the pest, preventing confusion with other insects, and linking field diagnosis with appropriate means of monitoring, control, and agricultural quarantine."
+          "text": "This classification enables precise identification of the pest, prevents confusion with other insects, and links field diagnosis to the appropriate monitoring, control, and plant-quarantine measures."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Key References"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "EPPO Global Database. Phthorimaea absoluta (GNORAB): Taxonomy and Distribution.",
+            "Chang, P. E. C. & Metz, M. A. (2021). Classification Review of Phthorimaea absoluta and Related Gnorimoschemini.",
+            "GBIF Backbone Taxonomy. Phthorimaea absoluta Meyrick, 1917."
+          ]
         },
         {
           "type": "doc-heading",
           "level": 3,
           "text": "References",
-          "id": "chapter-04-references"
+          "id": "chapter-four-references"
         },
         {
-          "type": "doc-paragraph",
-          "text": "1.European and Mediterranean Plant Protection Organization (EPPO). Phthorimaea absoluta (GNORAB): Taxonomic classification."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://gd.eppo.int/taxon/GNORAB"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "2. Chang, P. E. C., & Metz, M. A. (2021). Classification of Tuta absoluta (Meyrick, 1917) (Lepidoptera: Gelechiidae: Gelechiinae: Gnorimoschemini) based on cladistic analysis of morphology. Proceedings of the Entomological Society of Washington, 123(1), 41–54."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://doi.org/10.4289/0013-8797.123.1.41"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "3.GBIF Secretariat. Phthorimaea absoluta Meyrick, 1917: Species record and taxonomic classification."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://www.gbif.org/species/4528100"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "4. USDA–APHIS IDtools. Tuta absoluta: Microlepidoptera on Solanaceae—Identification Key."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://idtools.org/tools/1035/index.cfm?entityID=2869&packageID=1101"
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "5. USDA–APHIS Cooperative Agricultural Pest Survey Program. Phthorimaea absoluta CAPS Datasheet."
-        },
-        {
-          "type": "doc-paragraph",
-          "text": "https://caps.ceris.purdue.edu/wp-content/uploads/2025/07/Phthorimaea-absoluta-CAPS-datasheet-20250328.pdf"
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "EPPO. Phthorimaea absoluta (GNORAB): Taxonomic classification.",
+              "url": "https://gd.eppo.int/taxon/GNORAB"
+            },
+            {
+              "number": 2,
+              "text": "Chang, P. E. C., & Metz, M. A. (2021). Classification of Tuta absoluta based on cladistic analysis of morphology. Proceedings of the Entomological Society of Washington, 123(1), 41–54.",
+              "url": "https://doi.org/10.4289/0013-8797.123.1.41"
+            },
+            {
+              "number": 3,
+              "text": "GBIF Secretariat. Phthorimaea absoluta Meyrick, 1917: Species record and classification.",
+              "url": "https://www.gbif.org/species/4528100"
+            },
+            {
+              "number": 4,
+              "text": "USDA–APHIS IDtools. Tuta absoluta: Microlepidoptera on Solanaceae—Identification key.",
+              "url": "https://idtools.org/tools/1035/index.cfm?entityID=2869&packageID=1101"
+            },
+            {
+              "number": 5,
+              "text": "USDA–APHIS CAPS. Phthorimaea absoluta CAPS Datasheet.",
+              "url": "https://caps.ceris.purdue.edu/wp-content/uploads/2025/07/Phthorimaea-absoluta-CAPS-datasheet-20250328.pdf"
+            }
+          ]
         }
       ],
       "meta": {
-        "updated_at": "2026-06-20"
+        "updated_at": "2026-06-23"
       }
     }
   ]

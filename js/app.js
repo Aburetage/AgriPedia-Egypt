@@ -1262,10 +1262,65 @@ function normalizeDocReferences(items) {
     ];
 }
 
+function prepareDocPartNavigation(items) {
+    const isPartHeading = item => item.type === 'doc-heading'
+        && [2, 3].includes(Number(item.level))
+        && /^(?:الجزء\s+(?:الأول|الثاني|الثالث|الرابع|الخامس)|Part\s+(?:One|Two|Three|Four|Five))\s*:/i.test(String(item.text || '').trim());
+    const partIndexes = items.reduce((indexes, item, index) => {
+        if (isPartHeading(item)) indexes.push(index);
+        return indexes;
+    }, []);
+    if (partIndexes.length < 2) return { items, parts: [] };
+
+    const hiddenIndexes = new Set(partIndexes);
+    const isIntroduction = text => /^(?:مقدمة|Introduction)$/i.test(String(text || '').trim());
+    const parts = partIndexes.map((partIndex, index) => {
+        const boundary = partIndexes[index + 1] ?? items.length;
+        const headingIndexes = [];
+        const sectionIndexes = [];
+        for (let cursor = partIndex + 1; cursor < boundary; cursor++) {
+            if (items[cursor].type !== 'doc-heading') continue;
+            headingIndexes.push(cursor);
+            if (Number(items[cursor].level) === 2) sectionIndexes.push(cursor);
+        }
+
+        let description = '';
+        let targetIndex = sectionIndexes[0];
+        const firstHeadingIndex = headingIndexes[0];
+        if (firstHeadingIndex !== undefined && firstHeadingIndex !== targetIndex) {
+            description = items[firstHeadingIndex].text || '';
+            hiddenIndexes.add(firstHeadingIndex);
+        } else if (sectionIndexes.length > 1
+            && !isIntroduction(items[sectionIndexes[0]]?.text)
+            && isIntroduction(items[sectionIndexes[1]]?.text)) {
+            description = items[sectionIndexes[0]].text || '';
+            hiddenIndexes.add(sectionIndexes[0]);
+            targetIndex = sectionIndexes[1];
+        }
+
+        return {
+            title: items[partIndex].text || '',
+            description,
+            targetHeading: items[targetIndex]
+        };
+    }).filter(part => part.targetHeading);
+
+    return {
+        items: items.filter((_, index) => !hiddenIndexes.has(index)),
+        parts
+    };
+}
+
 function buildDocArticle(items, meta = {}) {
     items = normalizeDocReferences(items);
+    const preparedParts = prepareDocPartNavigation(items);
+    items = preparedParts.items;
     const chapterHeadings = items.filter(item => item.type === 'doc-heading' && Number(item.level) === 1 && !item.id);
     const sectionHeadings = items.filter(item => item.type === 'doc-heading' && Number(item.level) === 2);
+    const docParts = preparedParts.parts.map(part => {
+        const sectionIndex = sectionHeadings.indexOf(part.targetHeading);
+        return { ...part, sectionIndex };
+    }).filter(part => part.sectionIndex >= 0);
     const textForReadingTime = items.flatMap(item => {
         if (item.type === 'reference-list') return [];
         if (item.type === 'doc-list') return item.items;
@@ -1285,12 +1340,14 @@ function buildDocArticle(items, meta = {}) {
         : [100, 112, 124][legacyFontLevel];
     const labels = currentLang === 'ar' ? {
         reading: 'دقيقة قراءة', axes: 'محاور', updated: 'آخر تحديث', toc: 'محتويات الفصل',
+        parts: 'أجزاء الفصل',
         more: 'عرض المزيد', less: 'عرض أقل', next: 'المحور التالي', tableHint: 'اسحب الجدول أفقيًا لعرض باقي البيانات',
         fontIncrease: 'تكبير الخط', fontDecrease: 'تصغير الخط', focus: 'وضع القراءة', print: 'طباعة الفصل', share: 'مشاركة الفصل',
         whatsapp: 'واتساب', facebook: 'فيسبوك', x: 'X', linkedin: 'لينكدإن', copy: 'نسخ الرابط',
         openReference: 'فتح المصدر', copyReference: 'نسخ المرجع'
     } : {
         reading: 'min read', axes: 'sections', updated: 'Last updated', toc: 'Chapter contents',
+        parts: 'Chapter parts',
         more: 'Show more', less: 'Show less', next: 'Next section', tableHint: 'Swipe horizontally to view the rest of the table',
         fontIncrease: 'Increase font', fontDecrease: 'Decrease font', focus: 'Reading mode', print: 'Print chapter', share: 'Share chapter',
         whatsapp: 'WhatsApp', facebook: 'Facebook', x: 'X', linkedin: 'LinkedIn', copy: 'Copy link',
@@ -1330,6 +1387,15 @@ function buildDocArticle(items, meta = {}) {
             </div>
         </header>
         <div class="doc-navigation-shell">
+            ${docParts.length ? `<div class="doc-parts-shell">
+                <span class="doc-parts-label"><i class="fas fa-layer-group" aria-hidden="true"></i>${labels.parts}</span>
+                <nav class="doc-parts-nav" aria-label="${labels.parts}">
+                    ${docParts.map((part, index) => `<a href="#tuta-0" class="doc-part-link" data-scroll-target="doc-section-${part.sectionIndex + 1}" data-section-index="${part.sectionIndex}">
+                        <span class="doc-part-index">${String(index + 1).padStart(2, '0')}</span>
+                        <span class="doc-part-copy"><strong>${formatDocText(part.title)}</strong>${part.description ? `<small>${formatDocText(part.description)}</small>` : ''}</span>
+                    </a>`).join('')}
+                </nav>
+            </div>` : ''}
             <nav class="doc-toc" aria-label="${labels.toc}">
                 ${sectionHeadings.map((heading, index) => `<a href="#tuta-0" data-scroll-target="doc-section-${index + 1}">${formatDocText(heading.text)}</a>`).join('')}
             </nav>
@@ -1482,7 +1548,9 @@ function updateArticleReadingState() {
     if (!article) return;
     const sections = [...article.querySelectorAll('.doc-section-card[id]')];
     if (!sections.length) return;
-    const marker = window.scrollY + (window.innerHeight * 0.35);
+    const navigationBottom = article.querySelector('.doc-navigation-shell')?.getBoundingClientRect().bottom || 0;
+    const markerOffset = Math.max(window.innerHeight * 0.35, navigationBottom + 120);
+    const marker = window.scrollY + markerOffset;
     const sectionTops = sections.map(section => section.getBoundingClientRect().top + window.scrollY);
     let activeIndex = 0;
     sectionTops.forEach((sectionTop, index) => {
@@ -1499,6 +1567,24 @@ function updateArticleReadingState() {
         const toc = article.querySelector('.doc-toc');
         const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
         centerScrollableItem(toc, tocLinks[activeIndex], behavior);
+    }
+
+    const partLinks = [...article.querySelectorAll('.doc-parts-nav .doc-part-link')];
+    if (partLinks.length) {
+        let activePartIndex = 0;
+        partLinks.forEach((link, index) => {
+            if (Number(link.dataset.sectionIndex) <= activeIndex) activePartIndex = index;
+        });
+        partLinks.forEach((link, index) => {
+            if (index === activePartIndex) link.setAttribute('aria-current', 'true');
+            else link.removeAttribute('aria-current');
+        });
+        if (article.dataset.activePartIndex !== String(activePartIndex)) {
+            article.dataset.activePartIndex = String(activePartIndex);
+            const partNav = article.querySelector('.doc-parts-nav');
+            const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+            centerScrollableItem(partNav, partLinks[activePartIndex], behavior);
+        }
     }
 
     const nextButton = article.querySelector('.doc-next-section');
