@@ -1,6 +1,6 @@
 const appContainer = document.getElementById('app-container');
 const sidebarContainer = document.getElementById('sidebar-menu-container');
-const DATA_VERSION = '32';
+const DATA_VERSION = '33';
 const versionedDataUrl = path => `${path}${path.includes('?') ? '&' : '?'}v=${DATA_VERSION}`;
 // 🌟 ضبط الوضع الداكن واللغة العربية كافتراضي 🌟
 let currentLang = localStorage.getItem('lang') || 'ar';
@@ -1473,6 +1473,7 @@ function buildDocArticle(items, meta = {}) {
         <header class="doc-article-hero">
             <p class="doc-chapter-label">${formatDocText(chapterHeadings[0]?.text || '')}</p>
             <h3 class="doc-article-title">${formatDocText(articleTitle)}</h3>
+            ${meta.subtitle ? `<p class="doc-article-subtitle">${formatDocText(meta.subtitle)}</p>` : ''}
             <div class="doc-meta-row">
                 <span><i class="far fa-clock" aria-hidden="true"></i>${readingMinutes} ${labels.reading}</span>
                 <span><i class="fas fa-layer-group" aria-hidden="true"></i>${sectionHeadings.length} ${labels.axes}</span>
