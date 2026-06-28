@@ -1,0 +1,1706 @@
+{
+  "tab_title": "Life Cycle",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Seven"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Life Cycle of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Generation Duration, Number of Generations, and Optimal Reproductive Conditions"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta undergoes complete metamorphosis, and its life cycle therefore consists of four principal successive stages:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Egg.",
+            "2. Larva, comprising four larval instars.",
+            "3. Pupa.",
+            "4. Adult insect or moth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The cycle begins when the mated female lays eggs on the tomato plant. The eggs then hatch, and the larvae enter plant tissues and feed within leaves, growing points, stems, and fruits. After completing the fourth larval instar, the larva stops feeding and transforms into a pupa, from which an adult moth emerges that is capable of mating and producing a new generation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The life cycle of Tuta absoluta is characterized by three principal features:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Short generation duration under suitable warm conditions.",
+            "Ability to produce numerous overlapping generations during the year.",
+            "Continued reproduction without obligatory diapause as long as food and suitable temperatures are available."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "For this reason, the same field may simultaneously contain:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Newly laid eggs.",
+            "Eggs approaching hatching.",
+            "Larvae of all four instars.",
+            "Pupae.",
+            "Adult moths."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This overlap makes a single control treatment insufficient because each stage differs in its location and susceptibility to control measures."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Beginning of the Life Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The life cycle begins after adult moths emerge from pupae."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A newly emerged moth requires a short period to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Expand its wings.",
+            "Harden its body.",
+            "Complete maturation of its reproductive organs.",
+            "Begin locomotor activity.",
+            "Search for a mating partner."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Moths are mainly active during the evening and night, while they hide during the day within the canopy, beneath leaves, and in shaded locations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The female releases a sex pheromone that attracts males. After mating, the female begins laying eggs following a pre-oviposition period that averages approximately two days under suitable warm conditions and may extend beyond one week under cold conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The female lays eggs singly or in small groups on the aerial parts of the plant, particularly on young leaves."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The commonly reported maximum fecundity is approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "260 eggs per female"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And under some studies and favorable conditions may reach:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "250–300 eggs per female."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the actual mean is lower than the maximum and varies according to temperature, host plant, female size, nutrition, and mating history."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Definition of Developmental Duration and Generation Time"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The terms developmental cycle and generation time are sometimes confused, although they differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Development from Egg to Adult"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is the period beginning with oviposition and ending with adult moth emergence from the pupa."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg incubation.",
+            "Four larval instars.",
+            "Pupal stage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is referred to as the:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Egg-to-adult developmental period"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Biological Generation Time"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is the period from the laying of an egg in one generation until the resulting female begins laying eggs of the next generation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg duration.",
+            "Larval duration.",
+            "Pupal duration.",
+            "Pre-oviposition period."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Generation time is therefore slightly longer than the period from egg to adult emergence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Adult Longevity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The entire adult lifespan is not included in calculating the beginning of the next generation because the female begins laying eggs long before it dies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The female may continue laying eggs for several days after the next generation has begun. Generations therefore overlap rather than one complete cohort ending before the next begins."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Sequence of the Life Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under suitable warm conditions, the cycle can be summarized as follows:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Stage",
+            "Usual Approximate Duration"
+          ],
+          "rows": [
+            [
+              "Egg",
+              "4–6 days"
+            ],
+            [
+              "Larva, including four instars",
+              "10–15 days"
+            ],
+            [
+              "Pupa",
+              "6–10 days"
+            ],
+            [
+              "Pre-oviposition period",
+              "1–3 days"
+            ],
+            [
+              "Complete generation from egg to egg",
+              "Approximately 24–35 days"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These durations are not fixed. The generation may be shortened to approximately 20 days under particular thermal conditions, while it may extend beyond 60 days during winter and cold periods."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Duration of Development at Different Temperatures"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Temperature largely controls the rate of development of all stages of Tuta absoluta."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A study conducted under constant temperatures recorded the following durations:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Temperature",
+            "Egg",
+            "Larva",
+            "Pupa",
+            "Egg to Adult Emergence"
+          ],
+          "rows": [
+            [
+              "----------:",
+              "--:",
+              "----:",
+              "---:",
+              "---------------------:"
+            ],
+            [
+              "10°C",
+              "24.4 days",
+              "56.4 days",
+              "36.8 days",
+              "115.4 days"
+            ],
+            [
+              "15°C",
+              "11.9 days",
+              "34.1 days",
+              "18.4 days",
+              "63.9 days"
+            ],
+            [
+              "20°C",
+              "6.9 days",
+              "17.8 days",
+              "10.2 days",
+              "34.8 days"
+            ],
+            [
+              "25°C",
+              "4.5 days",
+              "11.0 days",
+              "8.4 days",
+              "23.5 days"
+            ],
+            [
+              "30°C",
+              "2.5 days",
+              "10.4 days",
+              "5.4 days",
+              "18.3 days"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These results show that increasing temperature within the range tolerated by the insect greatly accelerates development."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Development declined from:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "115.4 days at 10°C"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "To:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "23.5 days at 25°C"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And then to:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "18.3 days at 30°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, developmental speed alone does not determine temperature suitability. Development may be completed rapidly at high temperature while survival, fecundity, and hatching success decline."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Actual Generation Time at Different Temperatures"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When the pre-oviposition period is added to the developmental period from egg to adult, approximate generation time becomes:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Temperature",
+            "Egg to Adult",
+            "Pre-Oviposition Period",
+            "Approximate Generation Time"
+          ],
+          "rows": [
+            [
+              "10°C",
+              "115.4 days",
+              "9.5 days",
+              "124.9 days"
+            ],
+            [
+              "15°C",
+              "63.9 days",
+              "3.3 days",
+              "67.2 days"
+            ],
+            [
+              "20°C",
+              "34.8 days",
+              "2.0 days",
+              "36.8 days"
+            ],
+            [
+              "25°C",
+              "23.5 days",
+              "2.3 days",
+              "25.8 days"
+            ],
+            [
+              "30°C",
+              "18.3 days",
+              "1.9 days",
+              "20.2 days"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These values show that the generation can be completed from egg to egg in approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "26 days at 25°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At 10°C, it may require more than four months."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nevertheless, in the same study, 30°C was not the most favorable temperature for reproduction despite producing the shortest generation time because female fecundity and egg viability declined sharply."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Fastest Temperature Is Not Always the Optimum"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A distinction must be made between:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The temperature producing the fastest growth.",
+            "The temperature producing the highest survival.",
+            "The temperature producing the highest fecundity.",
+            "The temperature producing the fastest population increase."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In one study, the insect completed development from egg to adult in 18.3 days at 30°C compared with 23.5 days at 25°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, at 30°C the study recorded:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A major reduction in female fecundity.",
+            "A severe decline in egg-hatching percentage.",
+            "Shorter adult longevity.",
+            "A negative effect on overall survival."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At 20–25°C, the following occurred together:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Suitable developmental rate.",
+            "High survival of eggs, larvae, and pupae.",
+            "High fecundity.",
+            "High proportion of fertilized eggs capable of hatching.",
+            "Better continuity of the next generation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Therefore, 30°C is not an absolute optimum even if developmental duration is shorter at that temperature."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Optimal Thermal Conditions for Reproduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The most suitable and stable thermal range for development and reproduction of Tuta absoluta is approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "20–25°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Recent demographic models estimated the optimum range for survival of immature stages and female fecundity at approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "21–23°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A temperature of 25°C is highly suitable for generation development. One study recorded at this temperature:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg incubation: 4.5 days.",
+            "Larval duration: 11 days.",
+            "Pupal duration: 8.4 days.",
+            "Egg-to-adult development: 23.5 days.",
+            "Pre-oviposition period: 2.3 days.",
+            "Mean fecundity: approximately 149 eggs per female.",
+            "Egg-hatching percentage: approximately 81%.",
+            "Larval survival: approximately 81%.",
+            "Pupal survival: approximately 84%."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Values vary among populations, strains, and cultivars, but most studies indicate that moderately warm temperatures provide the best balance among development, survival, and reproduction."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Low Temperatures"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cold conditions slow all growth and reproductive processes."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "As temperature decreases:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg incubation becomes longer.",
+            "Larval instars become longer.",
+            "Pupal duration increases.",
+            "Adult mating is delayed.",
+            "The pre-oviposition period becomes longer.",
+            "Daily egg-laying rate decreases.",
+            "Moth movement declines.",
+            "The number of annual generations decreases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced activity does not mean disappearance of the pest. Some stages can survive during winter, particularly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pupae in soil and crop residues.",
+            "Eggs on plants.",
+            "Moths in protected cultivation.",
+            "Larvae inside mines and fruits.",
+            "Stages occurring on persistent solanaceous plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The life cycle may extend in winter to:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "More than 60 days"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And may exceed 90 days during very cold periods."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of High Temperatures"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "High temperature accelerates development up to a certain point, after which heat-stress effects begin to appear."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Continuous extreme heat may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced egg hatching.",
+            "Increased mortality of newly hatched larvae.",
+            "Failure of some molts.",
+            "Pupal mortality.",
+            "Emergence of deformed moths.",
+            "Shorter adult lifespan.",
+            "Reduced fecundity.",
+            "Reduced sperm efficiency.",
+            "Lower survival of the next generation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Air temperature alone does not represent the temperature experienced by the pest. A larva inside a mine occupies a different microclimate, and dense foliage, irrigation, and greenhouses provide milder conditions than the surrounding atmosphere."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation may therefore continue during periods of high temperature, especially within:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dense canopy.",
+            "Leaf mines.",
+            "Fruits.",
+            "Surface soil layer.",
+            "Greenhouses and shaded locations."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Thermal Requirements of the Generation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insect development depends not only on the number of days, but also on the amount of heat accumulated above the lower developmental threshold."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The lower thermal threshold for the egg-to-adult cycle has been estimated at approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "8°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The heat required to complete development from egg to adult has been estimated at approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "416.7 accumulated heat units — Degree-Days."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The upper thermal threshold for development has been estimated at approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "37.3°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Daily heat accumulation can be calculated in a simplified form as follows:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Daily degree-days = Mean daily temperature − 8"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When the mean temperature is above 8°C."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Example at a Mean Temperature of 25°C"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Daily heat units:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "25 − 8 = 17 degree-days."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Theoretical duration required to complete development:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "416.7 ÷ 17 = approximately 24.5 days."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This result is close to the experimentally recorded egg-to-adult duration at 25°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The complete pre-oviposition period is not included in the egg-to-adult thermal constant, so generation time from egg to egg is slightly longer."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Absence of Obligatory Diapause"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta larvae do not enter obligatory diapause as long as food is available and conditions permit development."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This means that the insect does not require a complete seasonal cessation of growth at a fixed time."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When the following are available:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Living tomato plants.",
+            "Suitable solanaceous hosts.",
+            "Temperatures permitting development.",
+            "Protected sites."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The stages can continue developing and reproducing during long periods of the year."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is particularly important in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Heated greenhouses.",
+            "Warm regions.",
+            "Overlapping planting seasons.",
+            "Nurseries.",
+            "Volunteer plants.",
+            "Fields in which residues have not been removed.",
+            "Regions where tomato is cultivated year-round."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Overlapping Generations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not all Tuta absoluta individuals in a field develop at the same time."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some females may enter the field earlier than others, egg laying continues for several days, and developmental rate varies according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Position on the plant.",
+            "Local temperature.",
+            "Time of oviposition.",
+            "Food quality.",
+            "Tomato cultivar.",
+            "Exposure to insecticides.",
+            "Parasitism and predation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Generations therefore overlap, making it difficult to distinguish first, second, and third generations through field inspection alone."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A single plant may simultaneously carry:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A newly laid egg.",
+            "A first-instar larva.",
+            "A third-instar larva.",
+            "A pupa inside a folded leaf.",
+            "An adult moth hidden among leaves."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This overlap is one of the reasons a continuous management program is required rather than a treatment directed at a single day."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Number of Generations per Year"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is a multivoltine insect:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Multivoltine insect"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Meaning that it can produce several generations during the year."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under suitable conditions with continuous availability of the host, it may produce:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "10–12 generations annually."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some references estimate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "9–10 generations in field tomatoes.",
+            "Up to 12 generations in greenhouses and continuous production systems.",
+            "Fewer generations in cold regions or areas with short growing seasons."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Recording 12 generations does not mean that every generation lasts a fixed 30.4 days. Summer generations are short, winter generations are longer, and generations overlap."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Number of Generations in Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The expected number of generations in Egypt varies according to region, temperature, planting season, and calculation method."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One study based on temperatures recorded during 2012 estimated generation numbers as follows:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Governorate",
+            "Mean Annual Temperature",
+            "Mean Generation Duration",
+            "Annual Number of Generations"
+          ],
+          "rows": [
+            [
+              "Marsa Matruh",
+              "20.53°C",
+              "59.6 days",
+              "Approximately 7 generations"
+            ],
+            [
+              "Giza",
+              "22.8°C",
+              "52.44 days",
+              "Approximately 8.05 generations"
+            ],
+            [
+              "Qena",
+              "26.04°C",
+              "43.74 days",
+              "Approximately 9.52 generations"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These values show that warmer regions can produce more generations during the year."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Other models using different degree-day values predicted:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "11–13 generations under some Egyptian field conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These estimates do not necessarily conflict directly because they differ in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Definition of generation beginning and end.",
+            "Thermal threshold used.",
+            "Thermal constant.",
+            "Type of climatic data.",
+            "Region and year.",
+            "Use of monthly means or daily temperatures.",
+            "Inclusion or exclusion of the adult stage.",
+            "Year-round host availability."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is therefore no single fixed number applicable to every Egyptian governorate and every year."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Number of Generations Within One Tomato Crop"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The number of generations occurring within a single crop depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Duration of the crop.",
+            "Time of pest entry.",
+            "Temperature.",
+            "Presence of nearby infested fields.",
+            "Success of control measures.",
+            "Persistence of the field after final harvest."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In a tomato crop lasting 120 days, with a mean generation time of 25–30 days, it is theoretically possible for:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Four to five generations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "To occur."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, infestation may not begin on transplanting day, and moths may enter midway through the season. The actual number may therefore be lower or more strongly overlapping."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "During winter, a generation may require 50–80 days, so only one or two complete generations may occur within the crop. Nevertheless, prolonged crop duration allows larvae and different stages to accumulate."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Optimal Humidity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta succeeds across a wide humidity range, but survival and reproduction are favorable under moderate relative humidity."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The practical suitable range in many studies and laboratory-rearing systems is approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "50–70% relative humidity."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Moderate humidity helps:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduce egg desiccation.",
+            "Improve survival of newly hatched larvae.",
+            "Protect pupae from water loss.",
+            "Increase adult longevity.",
+            "Maintain tender plant tissues.",
+            "Improve activity of some stages."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A study conducted at 20.5°C and 55% relative humidity recorded:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High egg hatching.",
+            "Good larval survival.",
+            "High adult emergence.",
+            "Greater fecundity than under conditions of 32°C and 40% relative humidity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Humidity alone does not determine performance because it interacts with temperature."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced survival at low humidity may also result from high temperature rather than desiccation alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of High and Low Humidity"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Low Humidity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg desiccation.",
+            "Reduced hatching.",
+            "Mortality of exposed newly hatched larvae.",
+            "Desiccation of surface pupae.",
+            "Shorter adult lifespan.",
+            "Shorter oviposition period."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Very High Humidity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased fungal growth.",
+            "Damage to some eggs and pupae.",
+            "Increased rots within infested tissues.",
+            "Changes in activity of entomopathogens.",
+            "Reduced soil aeration when combined with water saturation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Moderate humidity with good ventilation remains more suitable than severe dryness or continuous wetness."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of the Host Plant on Generation Duration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tomato is the most suitable host for the development and reproduction of Tuta absoluta, but developmental rate varies among tomato cultivars."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Generation performance is affected by plant characteristics including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaf thickness.",
+            "Epidermal toughness.",
+            "Trichome density.",
+            "Glandular trichomes.",
+            "Nitrogen content.",
+            "Defensive compounds.",
+            "Leaf age.",
+            "Plant water status.",
+            "Balance between vegetative and reproductive growth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egg-to-adult developmental time may vary by several days among cultivars."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Host quality also affects:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pupal weight.",
+            "Female size.",
+            "Fecundity.",
+            "Survival percentage.",
+            "Number of eggs.",
+            "Population growth rate."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A short developmental period alone is not sufficient to identify the most suitable host. Generation duration must be studied together with survival and fecundity."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Availability of Young Growth"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Females prefer to lay eggs on young leaves and plant parts, and larvae begin feeding in tender tissues that are easier to penetrate."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plants with continuous vegetative growth therefore help:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increase oviposition sites.",
+            "Improve survival of newly hatched larvae.",
+            "Maintain movement of larvae among leaves and growing points.",
+            "Provide renewable food.",
+            "Support successive generations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Excessive nitrogen fertilization may produce tender and dense growth, increasing plant suitability for the pest and providing shaded sites where moths can hide."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not mean that reducing nitrogen alone controls Tuta, but that balanced fertilization forms part of reducing environmental suitability for infestation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Overlapping Planting Seasons"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Overlapping planting seasons are among the most important causes of life-cycle continuity."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A single region may simultaneously contain:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "New nurseries.",
+            "Recently transplanted fields.",
+            "Vegetatively growing fields.",
+            "Fruiting fields.",
+            "Fields in which harvest has ended.",
+            "Crop residues that have not been removed."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When an old field completes harvest, moths emerge from it and move to younger fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This situation forms a continuous green bridge that allows the pest to complete generations without interruption."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Risk increases when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spraying stops in the old field.",
+            "Plants remain alive after the final harvest.",
+            "Residues are not shredded.",
+            "Young fields are located nearby.",
+            "Wind movement is directed toward the new field."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Optimal Conditions for Reproduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The highest reproductive and population-growth capacity occurs when the following conditions are combined:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Factor",
+            "Suitable Condition"
+          ],
+          "rows": [
+            [
+              "Temperature",
+              "Approximately 20–25°C"
+            ],
+            [
+              "Estimated optimum range",
+              "Approximately 21–23°C"
+            ],
+            [
+              "Relative humidity",
+              "Moderate, generally 50–70%"
+            ],
+            [
+              "Host",
+              "Actively growing tomato plants"
+            ],
+            [
+              "Larval food",
+              "Young leaves and tender tissues"
+            ],
+            [
+              "Crop continuity",
+              "Overlapping planting seasons throughout the year"
+            ],
+            [
+              "Canopy",
+              "Dense, providing shade and a favorable microclimate"
+            ],
+            [
+              "Pupation sites",
+              "Loose soil, residues, and folded leaves"
+            ],
+            [
+              "Moth activity",
+              "Evening and night periods"
+            ],
+            [
+              "Mating",
+              "Sufficient numbers of males and females"
+            ],
+            [
+              "Natural mortality factors",
+              "Low"
+            ],
+            [
+              "Insecticides",
+              "Absence or weakness of an effective program"
+            ],
+            [
+              "Resistance",
+              "Presence of resistance to the groups used"
+            ],
+            [
+              "Agricultural sanitation",
+              "Poor, with infested residues present"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single factor alone produces a population explosion. High density results from the combination of suitable temperature, continuous host availability, high fecundity, and weak mortality factors."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Capacity for Population Increase"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A single female can lay up to 260 eggs, and some females may reach 300 eggs."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not all eggs develop into adults because losses occur due to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Lack of fertilization.",
+            "Embryonic mortality.",
+            "Predation.",
+            "Parasitism.",
+            "Insecticides.",
+            "Larval mortality.",
+            "Pupal mortality.",
+            "Temperature and desiccation.",
+            "Plant resistance."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Even when only a limited proportion of offspring survives, the pest can increase rapidly because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High fecundity.",
+            "Short generation time.",
+            "Overlapping generations.",
+            "Multiple annual generations.",
+            "Continuous host availability."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If a female lays 260 eggs and only 10% reach the adult stage, this can produce 26 adults from one female. If approximately half are females, a new group of females begins the cycle again."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Life Cycle in Summer and Winter"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Summer Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is usually characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Short egg incubation.",
+            "Rapid larval instars.",
+            "Short pupal duration.",
+            "Rapid adult emergence.",
+            "Short intervals between generations.",
+            "Increased generation overlap.",
+            "Rapidly increasing risk of fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The generation may be completed in approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "20–30 days"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When temperatures are warm but not severely stressful."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Winter Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Slow embryonic growth.",
+            "Longer larval stage.",
+            "Longer pupal stage.",
+            "Reduced moth movement.",
+            "Delayed mating and oviposition.",
+            "Fewer generations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The generation may extend to:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "60–90 days or more"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Depending on severity of cold, greenhouse conditions, and the local microclimate within plants."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Slow winter development does not mean absence of risk because larvae may remain inside plants for longer periods, and stages may persist until weather improves."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Life Cycle in Open Fields and Greenhouses"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Open Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The cycle is directly affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Daily temperature fluctuations.",
+            "Rainfall.",
+            "Wind.",
+            "Solar radiation.",
+            "Nighttime cold.",
+            "Soil desiccation.",
+            "Presence of neighboring fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The number of generations may decline in regions with cold winters or periods without a tomato crop."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Greenhouses"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Greenhouses generally provide:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "More stable temperature.",
+            "Continuous host plants.",
+            "Protection from rain and wind.",
+            "Moderate humidity.",
+            "Numerous hiding and pupation sites."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest can therefore complete more generations and may reach approximately 12 generations annually in structures where tomato production continues during most of the year."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Applied Importance of Understanding the Life Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Understanding the life cycle allows control measures to be timed rather than applied randomly."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Targeting Eggs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This prevents larval emergence and produces the best result when using:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg parasitoids.",
+            "Predators.",
+            "Products with ovicidal activity.",
+            "Early monitoring."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Targeting Newly Hatched Larvae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "L1 and L2 are more susceptible than larger larvae, especially before entering fruits and stems."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Targeting Pupae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Most foliar sprays do not reach pupae, so they are managed through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Residue removal.",
+            "Tillage.",
+            "Greenhouse sanitation.",
+            "Cleaning of packages.",
+            "Prevention of neglected-field persistence."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Targeting Moths"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Moths are monitored with pheromone traps and reduced through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mass trapping.",
+            "Mating disruption.",
+            "Prevention of migration from old fields.",
+            "Removal of moth-emergence sources."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Use of Traps to Monitor Generations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pheromone traps detect activity of male moths."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An increase in trap catches may indicate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Emergence of a new cohort of adults from pupae.",
+            "Immigration of moths from a neighboring field.",
+            "Increased mating activity.",
+            "Expected increase in oviposition."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the trap alone cannot determine the generation number because generations overlap and moths continue emerging over extended periods."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Trap interpretation should be linked with inspection of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Recent mines.",
+            "Larval instars.",
+            "Pupae.",
+            "Fruit infestation.",
+            "Condition of neighboring fields.",
+            "Accumulated degree-days."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Comprehensive Life-Cycle Table"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Element",
+            "Value or Description"
+          ],
+          "rows": [
+            [
+              "Type of metamorphosis",
+              "Complete metamorphosis"
+            ],
+            [
+              "Number of principal stages",
+              "Four"
+            ],
+            [
+              "Number of larval instars",
+              "Four"
+            ],
+            [
+              "Suitable egg incubation",
+              "4–6 days"
+            ],
+            [
+              "Suitable larval period",
+              "10–15 days"
+            ],
+            [
+              "Suitable pupal period",
+              "6–10 days"
+            ],
+            [
+              "Pre-oviposition period",
+              "Approximately 1–3 days under warm conditions"
+            ],
+            [
+              "Suitable generation duration",
+              "Approximately 24–35 days"
+            ],
+            [
+              "Generation at 25°C",
+              "Approximately 25.8 days from egg to egg"
+            ],
+            [
+              "Egg to adult at 25°C",
+              "23.5 days"
+            ],
+            [
+              "Egg to adult at 20°C",
+              "34.8 days"
+            ],
+            [
+              "Egg to adult at 15°C",
+              "63.9 days"
+            ],
+            [
+              "Egg to adult at 10°C",
+              "115.4 days"
+            ],
+            [
+              "General optimum temperature",
+              "20–25°C"
+            ],
+            [
+              "Estimated optimum range",
+              "21–23°C"
+            ],
+            [
+              "Suitable relative humidity",
+              "Approximately 50–70%"
+            ],
+            [
+              "Lower thermal threshold for the cycle",
+              "Approximately 8°C"
+            ],
+            [
+              "Thermal constant",
+              "Approximately 416.7 degree-days"
+            ],
+            [
+              "Estimated upper thermal threshold",
+              "Approximately 37.3°C"
+            ],
+            [
+              "Suitable annual generations",
+              "10–12 generations"
+            ],
+            [
+              "Generations in open fields",
+              "Generally 7–10 depending on climate"
+            ],
+            [
+              "Generations in greenhouses",
+              "May reach 12"
+            ],
+            [
+              "Maximum fecundity",
+              "Approximately 260 and may reach 300 eggs"
+            ],
+            [
+              "Obligatory diapause",
+              "Absent while food and suitable temperature are available"
+            ],
+            [
+              "Nature of generations",
+              "Overlapping"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Chapter Summary"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta passes through four stages: egg, larva, pupa, and adult. The larval stage comprises four successive instars and is responsible for damage."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Development from egg to adult requires approximately 23.5 days at 25°C, while generation time from egg until the beginning of oviposition by the next generation is approximately 25.8 days."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Generation duration increases sharply as temperature declines. Egg-to-adult development may require 63.9 days at 15°C and more than 115 days at 10°C."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increasing temperature to 30°C shortens developmental duration but does not guarantee optimal reproduction because extreme temperatures may reduce survival, fecundity, and egg-hatching percentage."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The most suitable and stable range for pest development and reproduction is 20–25°C. Optimum conditions for immature-stage survival and female fecundity are estimated at approximately 21–23°C, with moderate relative humidity generally between 50 and 70%."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under suitable conditions, the pest produces approximately 10–12 generations annually. The number in Egypt may range from approximately seven generations in mild coastal regions to more than nine generations in warm regions, while some models predict higher values when host plants and suitable temperatures remain continuously available."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae do not enter obligatory diapause as long as food is available. The cycle therefore continues in greenhouses, overlapping crops, and field residues."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest’s severity results from the combination of high fecundity, which may reach 260–300 eggs per female, short generation time, overlapping stages, and multiple annual generations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Successful integrated management therefore depends on breaking the life cycle at several points, beginning with eggs and young larvae, continuing through pupae in soil and residues, and ending with monitoring adult moths and preventing their movement among fields."
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-28"
+      }
+    }
+  ]
+}
