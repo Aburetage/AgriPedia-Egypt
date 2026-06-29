@@ -1,0 +1,4622 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 16,
+  "part_title": "Section Sixteen: Biological Belts and Plants Supporting Natural Enemies",
+  "part_short_title": "Biological Belts and Plants Supporting Natural Enemies",
+  "part_subtitle": "Biological Belts, Insectary Plants and Conservation Biological Control",
+  "content_path": "tuta/9/16.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sustainable management of Tuta absoluta depends on the capacity of the agricultural system to support and conserve natural enemies, not merely on releasing them or detecting them within the field.",
+          "prepared_text": "[[prepared]]Sustainable management of Tuta absoluta depends on the capacity of the agricultural system to support and conserve [[term:biological-control]]natural enemies[[/term]], not merely on releasing them or detecting them within the field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Highly uniform crop fields may provide the pest with an abundant host plant, but they do not necessarily provide parasitoids and predators with their requirements for:",
+          "prepared_text": "[[prepared]]Highly uniform crop fields may provide the pest with an abundant [[term:host-plant]]host plant[[/term]], but they do not necessarily provide parasitoids and predators with their requirements for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nectar.",
+            "Pollen.",
+            "Alternative prey.",
+            "Shelter.",
+            "Suitable humidity.",
+            "Reproductive sites.",
+            "Plants that help them survive between pest outbreaks."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nectar.",
+            "[[prepared]]Pollen.",
+            "[[prepared]]Alternative prey.",
+            "[[prepared]]Shelter.",
+            "[[prepared]]Suitable humidity.",
+            "[[prepared]]Reproductive sites.",
+            "[[prepared]]Plants that help them survive between pest outbreaks."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is the basis of the biological belt concept: a planned vegetation structure established along field margins or within the field to improve the functional environment of natural enemies and increase their ability to reach and establish within the tomato crop.",
+          "prepared_text": "[[prepared]]This is the basis of the biological belt concept: a planned vegetation structure established along field margins or within the field to improve the functional environment of natural enemies and increase their ability to reach and establish within the tomato crop."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A biological belt does not function as a direct insecticide against Tuta absoluta, nor does it alone guarantee reduced infestation. Rather, it is one component of:",
+          "prepared_text": "[[prepared]]A biological belt does not function as a direct insecticide against Tuta absoluta, nor does it alone guarantee reduced infestation. Rather, it is one component of:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Conservation Biological Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its principle is to protect naturally occurring natural enemies and provide the resources that allow them to survive, reproduce, and perform their function within the agroecosystem.",
+          "prepared_text": "[[prepared]]Its principle is to protect naturally occurring natural enemies and provide the resources that allow them to survive, reproduce, and perform their function within the agroecosystem."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The biological belt must be scientifically designed because unsuitable plant selection may:",
+          "prepared_text": "[[prepared]]The biological belt must be scientifically designed because unsuitable plant selection may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Support certain pests.",
+            "Host plant pathogens.",
+            "Compete with the tomato crop.",
+            "Obstruct spraying and harvesting.",
+            "Attract natural enemies to the belt without encouraging movement into the crop.",
+            "Increase production costs without reducing fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Support certain pests.",
+            "[[prepared]]Host plant pathogens.",
+            "[[prepared]]Compete with the tomato crop.",
+            "[[prepared]]Obstruct spraying and harvesting.",
+            "[[prepared]]Attract natural enemies to the belt without encouraging movement into the crop.",
+            "[[prepared]]Increase production costs without reducing fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt should therefore not be evaluated by the abundance of flowers or insects observed on it, but by its capacity to improve biological-control indicators within the tomato crop.",
+          "prepared_text": "[[prepared]]The belt should therefore not be evaluated by the abundance of flowers or insects observed on it, but by its capacity to improve biological-control indicators within the tomato crop."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Definition of a Biological Belt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A biological belt is a planned vegetation area consisting of one plant species or a mixture of species, positioned around the field or in strips within it to support beneficial organisms and improve ecological functions associated with biological control.",
+          "prepared_text": "[[prepared]]A biological belt is a planned vegetation area consisting of one plant species or a mixture of species, positioned around the field or in strips within it to support beneficial organisms and improve ecological functions associated with biological control."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may consist of:",
+          "prepared_text": "[[prepared]]It may consist of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Flowering plants around the field perimeter.",
+            "Vegetation strips between tomato sectors.",
+            "Small vegetation islands.",
+            "Perennial plants along field edges.",
+            "A mixture of annual plants with staggered flowering.",
+            "Plants providing nectar, pollen, or alternative prey."
+          ],
+          "prepared_items": [
+            "[[prepared]]Flowering plants around the field perimeter.",
+            "[[prepared]]Vegetation strips between tomato sectors.",
+            "[[prepared]]Small vegetation islands.",
+            "[[prepared]]Perennial plants along field edges.",
+            "[[prepared]]A mixture of annual plants with staggered flowering.",
+            "[[prepared]]Plants providing nectar, pollen, or alternative prey."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A biological belt differs from leaving random weeds because the belt:",
+          "prepared_text": "[[prepared]]A biological belt differs from leaving random weeds because the belt:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Is deliberately selected.",
+            "Has a defined location and area.",
+            "Is planted at a specified time.",
+            "Receives irrigation and maintenance.",
+            "Is monitored for pests and diseases.",
+            "Is evaluated using defined performance indicators."
+          ],
+          "prepared_items": [
+            "[[prepared]]Is deliberately selected.",
+            "[[prepared]]Has a defined location and area.",
+            "[[prepared]]Is planted at a specified time.",
+            "[[prepared]]Receives irrigation and maintenance.",
+            "[[prepared]]Is monitored for pests and diseases.",
+            "[[prepared]]Is evaluated using defined performance indicators."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Random plants may support some natural enemies, but they may also serve as hosts for the pest or diseases or obstruct field operations.",
+          "prepared_text": "[[prepared]]Random plants may support some natural enemies, but they may also serve as hosts for the pest or diseases or obstruct field operations."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distinction Among Terms Associated with Biological Belts"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Biological Belt"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Biological Belt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A continuous or semi-continuous vegetation area around a field or one of its sectors, intended to support beneficial biodiversity.",
+          "prepared_text": "[[prepared]]A continuous or semi-continuous vegetation area around a field or one of its sectors, intended to support beneficial biodiversity."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Flower Strip"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Flower Strip"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A strip planted primarily with flowering plants to provide nectar and pollen.",
+          "prepared_text": "[[prepared]]A strip planted primarily with flowering plants to provide nectar and pollen."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Insectary Plants"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Insectary Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plants selected for their capacity to provide food, shelter, or suitable conditions for parasitoids and predators.",
+          "prepared_text": "[[prepared]]Plants selected for their capacity to provide food, shelter, or suitable conditions for parasitoids and predators."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Banker Plants"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Banker Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plants carrying an alternative prey or host that does not damage the crop, used to maintain and multiply a natural enemy within the production system.",
+          "prepared_text": "[[prepared]]Plants carrying an alternative prey or host that does not damage the crop, used to maintain and multiply a natural enemy within the production system."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Trap Crop"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Trap Crop"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A plant more attractive to the pest than the main crop, planted to draw the pest away and then managed before it becomes a source of spread.",
+          "prepared_text": "[[prepared]]A plant more attractive to the pest than the main crop, planted to draw the pest away and then managed before it becomes a source of spread."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Companion Plant"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Companion Plant"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A plant grown with the crop for multiple purposes, such as:",
+          "prepared_text": "[[prepared]]A plant grown with the crop for multiple purposes, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Influencing pest behaviour.",
+            "Supporting beneficial organisms.",
+            "Increasing plant diversity.",
+            "Producing an additional crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Influencing pest behaviour.",
+            "[[prepared]]Supporting beneficial organisms.",
+            "[[prepared]]Increasing plant diversity.",
+            "[[prepared]]Producing an additional crop."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Vegetative Barrier"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Vegetative Barrier"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A vegetation strip used to reduce wind, spray drift, or movement of some insects, without necessarily having the primary purpose of providing food resources to beneficial organisms.",
+          "prepared_text": "[[prepared]]A vegetation strip used to reduce wind, spray drift, or movement of some insects, without necessarily having the primary purpose of providing food resources to beneficial organisms."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These terms should not be treated as synonyms because each system has a different mechanism, risk profile, and management requirement.",
+          "prepared_text": "[[prepared]]These terms should not be treated as synonyms because each system has a different mechanism, risk profile, and management requirement."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Basis of Biological Belts"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A biological belt functions by modifying the agricultural environment in favour of natural enemies.",
+          "prepared_text": "[[prepared]]A biological belt functions by modifying the agricultural environment in favour of natural enemies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its principal mechanisms include:",
+          "prepared_text": "[[prepared]]Its principal mechanisms include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Providing carbohydrates to adult parasitoids.",
+            "2. Providing pollen to some predators.",
+            "3. Providing alternative prey when Tuta absoluta density is low.",
+            "4. Providing shelter from heat, desiccation, and wind.",
+            "5. Increasing opportunities for survival and reproduction.",
+            "6. Providing vegetative connectivity that facilitates movement between habitats and the crop.",
+            "7. Accelerating recolonization of the field after disturbance.",
+            "8. Increasing parasitoid and predator diversity.",
+            "9. Extending the period during which natural enemies remain present.",
+            "10. Improving system resilience when pest density increases."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Providing carbohydrates to adult parasitoids.",
+            "[[prepared]]2. Providing pollen to some predators.",
+            "[[prepared]]3. Providing alternative prey when Tuta absoluta density is low.",
+            "[[prepared]]4. Providing shelter from heat, desiccation, and wind.",
+            "[[prepared]]5. Increasing opportunities for survival and reproduction.",
+            "[[prepared]]6. Providing vegetative connectivity that facilitates movement between habitats and the crop.",
+            "[[prepared]]7. Accelerating recolonization of the field after disturbance.",
+            "[[prepared]]8. Increasing parasitoid and predator diversity.",
+            "[[prepared]]9. Extending the period during which natural enemies remain present.",
+            "[[prepared]]10. Improving system resilience when pest density increases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not all plants operate through the same mechanisms. A plant may be suitable for feeding a minute parasitoid but unsuitable for a predator requiring pollen or alternative prey.",
+          "prepared_text": "[[prepared]]Not all plants operate through the same mechanisms. A plant may be suitable for feeding a minute parasitoid but unsuitable for a predator requiring pollen or alternative prey."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nectar as an Energy Source"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Many adult parasitoids require carbohydrate sources for flight, searching, and survival.",
+          "prepared_text": "[[prepared]]Many adult parasitoids require carbohydrate sources for flight, searching, and survival."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These may be obtained from:",
+          "prepared_text": "[[prepared]]These may be obtained from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Floral nectar.",
+            "Extrafloral nectar.",
+            "Honeydew.",
+            "Plant exudates.",
+            "Fruits or plant sap."
+          ],
+          "prepared_items": [
+            "[[prepared]]Floral nectar.",
+            "[[prepared]]Extrafloral nectar.",
+            "[[prepared]]Honeydew.",
+            "[[prepared]]Plant exudates.",
+            "[[prepared]]Fruits or plant sap."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Availability of sugar resources influences:",
+          "prepared_text": "[[prepared]]Availability of sugar resources influences:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Longevity.",
+            "Time available for searching.",
+            "Distance the parasitoid can travel.",
+            "Number of hosts it can locate.",
+            "Oviposition capacity.",
+            "Survival during periods of low pest density."
+          ],
+          "prepared_items": [
+            "[[prepared]]Longevity.",
+            "[[prepared]]Time available for searching.",
+            "[[prepared]]Distance the parasitoid can travel.",
+            "[[prepared]]Number of hosts it can locate.",
+            "[[prepared]]Oviposition capacity.",
+            "[[prepared]]Survival during periods of low pest density."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The presence of nectar does not necessarily mean it can be used. The natural enemy must be able to reach it according to mouthpart length and flower structure.",
+          "prepared_text": "[[prepared]]The presence of nectar does not necessarily mean it can be used. The natural enemy must be able to reach it according to mouthpart length and flower structure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pollen and Alternative Prey"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some omnivorous predators benefit from:",
+          "prepared_text": "[[prepared]]Some omnivorous predators benefit from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pollen.",
+            "Small insects occurring on the plant.",
+            "Non-damaging mites.",
+            "Alternative insect eggs.",
+            "Plant exudates."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pollen.",
+            "[[prepared]]Small insects occurring on the plant.",
+            "[[prepared]]Non-damaging mites.",
+            "[[prepared]]Alternative insect eggs.",
+            "[[prepared]]Plant exudates."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This can help predators persist when Tuta absoluta density is low.",
+          "prepared_text": "[[prepared]]This can help predators persist when Tuta absoluta density is low."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, supporting alternative prey requires monitoring because some may be:",
+          "prepared_text": "[[prepared]]However, supporting alternative prey requires monitoring because some may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Economic pests.",
+            "Virus vectors.",
+            "Sources of whitefly or thrips outbreaks."
+          ],
+          "prepared_items": [
+            "[[prepared]]Economic pests.",
+            "[[prepared]]Virus vectors.",
+            "[[prepared]]Sources of whitefly or thrips outbreaks."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The objective is not to multiply an alternative pest, but to maintain a limited population of harmless resources or to use suitable food plants.",
+          "prepared_text": "[[prepared]]The objective is not to multiply an alternative pest, but to maintain a limited population of harmless resources or to use suitable food plants."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Shelter and Microclimate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt may provide:",
+          "prepared_text": "[[prepared]]The belt may provide:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Partial shade.",
+            "Slightly higher relative humidity.",
+            "Protection from wind.",
+            "Sites for hiding and reproduction.",
+            "Stability between agricultural operations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Partial shade.",
+            "[[prepared]]Slightly higher relative humidity.",
+            "[[prepared]]Protection from wind.",
+            "[[prepared]]Sites for hiding and reproduction.",
+            "[[prepared]]Stability between agricultural operations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These functions are especially important in open fields exposed to:",
+          "prepared_text": "[[prepared]]These functions are especially important in open fields exposed to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Heat.",
+            "Desiccation.",
+            "Dust.",
+            "Wind.",
+            "Disturbance from spraying and mechanized operations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Heat.",
+            "[[prepared]]Desiccation.",
+            "[[prepared]]Dust.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Disturbance from spraying and mechanized operations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An excessively dense belt may, however, increase humidity or obstruct ventilation and movement. A balance is therefore required between providing shelter and avoiding excessive density.",
+          "prepared_text": "[[prepared]]An excessively dense belt may, however, increase humidity or obstruct ventilation and movement. A balance is therefore required between providing shelter and avoiding excessive density."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Target Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt may be designed to support groups including:",
+          "prepared_text": "[[prepared]]The belt may be designed to support groups including:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Egg Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Such as:",
+          "prepared_text": "[[prepared]]Such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trichogramma spp."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trichogramma spp."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may benefit from sugar resources, but their small body size makes nectar accessibility a critical factor.",
+          "prepared_text": "[[prepared]]They may benefit from sugar resources, but their small body size makes nectar accessibility a critical factor."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Larval Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Such as:",
+          "prepared_text": "[[prepared]]Such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Necremnus tutae.",
+            "Bracon nigricans.",
+            "Dolichogenidea gelechiidivoris.",
+            "Other local parasitoids."
+          ],
+          "prepared_items": [
+            "[[prepared]]Necremnus tutae.",
+            "[[prepared]]Bracon nigricans.",
+            "[[prepared]]Dolichogenidea gelechiidivoris.",
+            "[[prepared]]Other local parasitoids."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some of these species require carbohydrates to maintain activity, while obtaining protein through host feeding.",
+          "prepared_text": "[[prepared]]Some of these species require carbohydrates to maintain activity, while obtaining protein through host feeding."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Mirid Predators"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Such as:",
+          "prepared_text": "[[prepared]]Such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nesidiocoris tenuis.",
+            "Macrolophus pygmaeus.",
+            "Dicyphus errans."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nesidiocoris tenuis.",
+            "[[prepared]]Macrolophus pygmaeus.",
+            "[[prepared]]Dicyphus errans."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may benefit from pollen, alternative prey, and plants that support persistence.",
+          "prepared_text": "[[prepared]]They may benefit from pollen, alternative prey, and plants that support persistence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Other Predators"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Such as:",
+          "prepared_text": "[[prepared]]Such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Orius spp.",
+            "Chrysoperla carnea.",
+            "Predatory beetles.",
+            "Spiders.",
+            "Hoverflies.",
+            "Some predatory wasps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Orius spp.",
+            "[[prepared]]Chrysoperla carnea.",
+            "[[prepared]]Predatory beetles.",
+            "[[prepared]]Spiders.",
+            "[[prepared]]Hoverflies.",
+            "[[prepared]]Some predatory wasps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single plant supports all of these groups equally.",
+          "prepared_text": "[[prepared]]No single plant supports all of these groups equally."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Biological Belts Do Not Kill Tuta absoluta Directly"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A distinction must be made between:",
+          "prepared_text": "[[prepared]]A distinction must be made between:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increasing natural enemies within the belt.",
+            "Increasing control within the tomato crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increasing natural enemies within the belt.",
+            "[[prepared]]Increasing control within the tomato crop."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A belt may attract many beneficial insects without causing sufficient movement into the crop.",
+          "prepared_text": "[[prepared]]A belt may attract many beneficial insects without causing sufficient movement into the crop."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Parasitoid abundance may increase at the field edge without a clear decline in:",
+          "prepared_text": "[[prepared]]Parasitoid abundance may increase at the field edge without a clear decline in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Mines.",
+            "Larvae.",
+            "Fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]][[term:mines]]Mines[[/term]].",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt should therefore not be declared successful merely because insect diversity increases. Its effect must be demonstrated within the tomato crop.",
+          "prepared_text": "[[prepared]]The belt should therefore not be declared successful merely because insect diversity increases. Its effect must be demonstrated within the tomato crop."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field studies have shown that flower strips increased parasitoid abundance and some beneficial insects, while pest incidence within the crop did not decline significantly in all cases.",
+          "prepared_text": "[[prepared]]Field studies have shown that flower strips increased parasitoid abundance and some beneficial insects, while pest incidence within the crop did not decline significantly in all cases."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This confirms that the belt is:",
+          "prepared_text": "[[prepared]]This confirms that the belt is:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A supporting tool.",
+            "Not a substitute for monitoring.",
+            "Not a substitute for management of source fields.",
+            "Not a substitute for early intervention."
+          ],
+          "prepared_items": [
+            "[[prepared]]A supporting tool.",
+            "[[prepared]]Not a substitute for monitoring.",
+            "[[prepared]]Not a substitute for management of source fields.",
+            "[[prepared]]Not a substitute for early intervention."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Criteria for Selecting Belt Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plant selection should be based on an integrated set of criteria.",
+          "prepared_text": "[[prepared]]Plant selection should be based on an integrated set of criteria."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Biological Criteria"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Provision of food for the target natural enemy.",
+            "Ease of nectar access.",
+            "No substantial increase in survival or fecundity of Tuta absoluta.",
+            "Unsuitability as a host for the pest.",
+            "No hosting of dangerous pests.",
+            "Support for more than one beneficial group where possible."
+          ],
+          "prepared_items": [
+            "[[prepared]]Provision of food for the target natural enemy.",
+            "[[prepared]]Ease of nectar access.",
+            "[[prepared]]No substantial increase in survival or fecundity of Tuta absoluta.",
+            "[[prepared]]Unsuitability as a host for the pest.",
+            "[[prepared]]No hosting of dangerous pests.",
+            "[[prepared]]Support for more than one beneficial group where possible."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Agronomic Criteria"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Climatic suitability.",
+            "Tolerance of soil and water conditions.",
+            "Ease of germination.",
+            "Seed availability.",
+            "Capacity to flower during the tomato season.",
+            "Ease of cutting and regrowth.",
+            "Low risk of becoming a difficult weed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Climatic suitability.",
+            "[[prepared]]Tolerance of soil and water conditions.",
+            "[[prepared]]Ease of germination.",
+            "[[prepared]]Seed availability.",
+            "[[prepared]]Capacity to flower during the tomato season.",
+            "[[prepared]]Ease of cutting and regrowth.",
+            "[[prepared]]Low risk of becoming a difficult weed."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Operational Criteria"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "No obstruction of spraying.",
+            "No obstruction of harvesting.",
+            "No obstruction of machinery.",
+            "No blocking of visibility.",
+            "Ability to provide a separate irrigation line.",
+            "Ease of removal when necessary."
+          ],
+          "prepared_items": [
+            "[[prepared]]No obstruction of spraying.",
+            "[[prepared]]No obstruction of harvesting.",
+            "[[prepared]]No obstruction of machinery.",
+            "[[prepared]]No blocking of visibility.",
+            "[[prepared]]Ability to provide a separate irrigation line.",
+            "[[prepared]]Ease of removal when necessary."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Criteria"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Seed cost.",
+            "Planting cost.",
+            "Irrigation and maintenance cost.",
+            "Potential for commercial harvest.",
+            "Area occupied.",
+            "Value of ecological services provided."
+          ],
+          "prepared_items": [
+            "[[prepared]]Seed cost.",
+            "[[prepared]]Planting cost.",
+            "[[prepared]]Irrigation and maintenance cost.",
+            "[[prepared]]Potential for commercial harvest.",
+            "[[prepared]]Area occupied.",
+            "[[prepared]]Value of ecological services provided."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Flower Structure and Nectar Accessibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Many insect parasitoids have short mouthparts. Shallow flowers or exposed inflorescences are therefore more usable than deep flowers.",
+          "prepared_text": "[[prepared]]Many insect parasitoids have short mouthparts. Shallow flowers or exposed inflorescences are therefore more usable than deep flowers."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some plants in the family Apiaceae have open inflorescences bearing many small flowers, including:",
+          "prepared_text": "[[prepared]]Some plants in the family Apiaceae have open inflorescences bearing many small flowers, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dill.",
+            "Coriander.",
+            "Fennel.",
+            "Wild carrot.",
+            "Similar species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dill.",
+            "[[prepared]]Coriander.",
+            "[[prepared]]Fennel.",
+            "[[prepared]]Wild carrot.",
+            "[[prepared]]Similar species."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plants with small clustered inflorescences may also provide nectar suitable for several parasitoids.",
+          "prepared_text": "[[prepared]]Plants with small clustered inflorescences may also provide nectar suitable for several parasitoids."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Total nectar quantity alone is insufficient. A plant may produce abundant nectar in a location inaccessible to minute insects.",
+          "prepared_text": "[[prepared]]Total nectar quantity alone is insufficient. A plant may produce abundant nectar in a location inaccessible to minute insects."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Selectivity in Favour of the Natural Enemy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The plant should benefit the natural enemy more than the pest.",
+          "prepared_text": "[[prepared]]The plant should benefit the natural enemy more than the pest."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some adult moths may also benefit from sugars and nectar, which may:",
+          "prepared_text": "[[prepared]]Some adult moths may also benefit from sugars and nectar, which may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Extend lifespan.",
+            "Increase mating opportunities.",
+            "Increase egg production."
+          ],
+          "prepared_items": [
+            "[[prepared]]Extend lifespan.",
+            "[[prepared]]Increase mating opportunities.",
+            "[[prepared]]Increase egg production."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The plant should therefore be tested for effects on:",
+          "prepared_text": "[[prepared]]The plant should therefore be tested for effects on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Parasitoid survival.",
+            "Parasitoid fecundity.",
+            "Survival of female Tuta.",
+            "Oviposition.",
+            "Pest movement within the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Parasitoid survival.",
+            "[[prepared]]Parasitoid fecundity.",
+            "[[prepared]]Survival of female Tuta.",
+            "[[prepared]]Oviposition.",
+            "[[prepared]]Pest movement within the field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tests on several flowering plants showed that some flowers benefited larval parasitoids of Tuta more than they benefited adult pests, but results differed among plant species.",
+          "prepared_text": "[[prepared]]Tests on several flowering plants showed that some flowers benefited larval parasitoids of Tuta more than they benefited adult pests, but results differed among plant species."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selectivity cannot be assumed without testing.",
+          "prepared_text": "[[prepared]]Selectivity cannot be assumed without testing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Temporal Succession of Flowering"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt fails when all plants flower briefly and finish before the main risk period.",
+          "prepared_text": "[[prepared]]The belt fails when all plants flower briefly and finish before the main risk period."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The design should aim for:",
+          "prepared_text": "[[prepared]]The design should aim for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Early initiation of flowering.",
+            "Continued resources during vegetative growth and fruiting.",
+            "Inclusion of fast and longer-lived species.",
+            "Staggered sowing.",
+            "Cutting parts of the belt without removing it all."
+          ],
+          "prepared_items": [
+            "[[prepared]]Early initiation of flowering.",
+            "[[prepared]]Continued resources during vegetative growth and fruiting.",
+            "[[prepared]]Inclusion of fast and longer-lived species.",
+            "[[prepared]]Staggered sowing.",
+            "[[prepared]]Cutting parts of the belt without removing it all."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The flowering plan should be based on:",
+          "prepared_text": "[[prepared]]The flowering plan should be based on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tomato transplanting date.",
+            "Temperature.",
+            "Development time of support plants.",
+            "Peak periods of Tuta activity.",
+            "Parasitoid and predator generations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato transplanting date.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Development time of support plants.",
+            "[[prepared]]Peak periods of Tuta activity.",
+            "[[prepared]]Parasitoid and predator generations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Continuous flowering is not necessarily required after the crop ends if the belt would become a pest source or obstruct field termination.",
+          "prepared_text": "[[prepared]]Continuous flowering is not necessarily required after the crop ends if the belt would become a pest source or obstruct field termination."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Exclusion of Hazardous Host Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plants capable of supporting Tuta absoluta or major tomato pests should be avoided unless a clear management plan exists.",
+          "prepared_text": "[[prepared]]Plants capable of supporting Tuta absoluta or major tomato pests should be avoided unless a clear management plan exists."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Particularly avoid solanaceous plants that may act as hosts, such as:",
+          "prepared_text": "[[prepared]]Particularly avoid solanaceous plants that may act as hosts, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tomato.",
+            "Black nightshade species.",
+            "Eggplant under some conditions.",
+            "Potato.",
+            "Wild or volunteer solanaceous plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato.",
+            "[[prepared]]Black nightshade species.",
+            "[[prepared]]Eggplant under some conditions.",
+            "[[prepared]]Potato.",
+            "[[prepared]]Wild or volunteer solanaceous plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The plant should also be assessed for potential hosting of:",
+          "prepared_text": "[[prepared]]The plant should also be assessed for potential hosting of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Whiteflies.",
+            "Thrips.",
+            "Aphids.",
+            "Mites.",
+            "Viruses.",
+            "Bacterial or fungal diseases.",
+            "Nematodes."
+          ],
+          "prepared_items": [
+            "[[prepared]]Whiteflies.",
+            "[[prepared]]Thrips.",
+            "[[prepared]]Aphids.",
+            "[[prepared]]Mites.",
+            "[[prepared]]Viruses.",
+            "[[prepared]]Bacterial or fungal diseases.",
+            "[[prepared]]Nematodes."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A solanaceous trap crop should not be used without a strict protocol for eliminating the pest within it.",
+          "prepared_text": "[[prepared]]A solanaceous trap crop should not be used without a strict protocol for eliminating the pest within it."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Dill"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Anethum graveolens"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dill is a candidate biological-belt plant because of:",
+          "prepared_text": "[[prepared]]Dill is a candidate biological-belt plant because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Open umbel inflorescences.",
+            "Numerous small flowers.",
+            "Potential access of parasitoids and minute insects to nectar.",
+            "Relative suitability for winter and spring cultivation in Egypt.",
+            "Seed availability.",
+            "Potential for harvest or sale."
+          ],
+          "prepared_items": [
+            "[[prepared]]Open umbel inflorescences.",
+            "[[prepared]]Numerous small flowers.",
+            "[[prepared]]Potential access of parasitoids and minute insects to nectar.",
+            "[[prepared]]Relative suitability for winter and spring cultivation in Egypt.",
+            "[[prepared]]Seed availability.",
+            "[[prepared]]Potential for harvest or sale."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its success is influenced by:",
+          "prepared_text": "[[prepared]]Its success is influenced by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Planting date.",
+            "Temperature.",
+            "Speed of flowering.",
+            "Irrigation.",
+            "Nitrogen fertilization.",
+            "Duration of persistence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Planting date.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Speed of flowering.",
+            "[[prepared]]Irrigation.",
+            "[[prepared]]Nitrogen fertilization.",
+            "[[prepared]]Duration of persistence."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under unsuitable timing or conditions, it may remain vegetative for a prolonged period without flowering.",
+          "prepared_text": "[[prepared]]Under unsuitable timing or conditions, it may remain vegetative for a prolonged period without flowering."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should be monitored for:",
+          "prepared_text": "[[prepared]]It should be monitored for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Aphids.",
+            "Apiaceae-associated insects.",
+            "Diseases.",
+            "Ant aggregations associated with honeydew."
+          ],
+          "prepared_items": [
+            "[[prepared]]Aphids.",
+            "[[prepared]]Apiaceae-associated insects.",
+            "[[prepared]]Diseases.",
+            "[[prepared]]Ant aggregations associated with honeydew."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Coriander"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Coriandrum sativum"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Coriander is a strong candidate because of:",
+          "prepared_text": "[[prepared]]Coriander is a strong candidate because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Exposed inflorescences.",
+            "Availability of nectar and pollen.",
+            "Ease of cultivation.",
+            "Potential as an additional marketable crop.",
+            "Inclusion in floral mixtures that attracted parasitoids and beneficial insects in tomato fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Exposed inflorescences.",
+            "[[prepared]]Availability of nectar and pollen.",
+            "[[prepared]]Ease of cultivation.",
+            "[[prepared]]Potential as an additional marketable crop.",
+            "[[prepared]]Inclusion in floral mixtures that attracted parasitoids and beneficial insects in tomato fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some studies also associated coriander intercropping with reduced infestation or increased predators in particular systems.",
+          "prepared_text": "[[prepared]]Some studies also associated coriander intercropping with reduced infestation or increased predators in particular systems."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These findings do not demonstrate that coriander suppresses Tuta absoluta under all conditions.",
+          "prepared_text": "[[prepared]]These findings do not demonstrate that coriander suppresses Tuta absoluta under all conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be evaluated:",
+          "prepared_text": "[[prepared]]The following should be evaluated:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Flowering time.",
+            "Capacity to persist under heat.",
+            "Hosting of aphids or other insects.",
+            "Competition with tomato.",
+            "Movement of beneficial organisms into the crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Flowering time.",
+            "[[prepared]]Capacity to persist under heat.",
+            "[[prepared]]Hosting of aphids or other insects.",
+            "[[prepared]]Competition with tomato.",
+            "[[prepared]]Movement of beneficial organisms into the crop."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fennel"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Foeniculum vulgare"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fennel has open umbel inflorescences and can provide food resources over a relatively extended period.",
+          "prepared_text": "[[prepared]]Fennel has open umbel inflorescences and can provide food resources over a relatively extended period."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may have:",
+          "prepared_text": "[[prepared]]It may have:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Long flowering duration.",
+            "Relative tolerance of certain conditions.",
+            "High biomass production.",
+            "Potential use on permanent field edges."
+          ],
+          "prepared_items": [
+            "[[prepared]]Long flowering duration.",
+            "[[prepared]]Relative tolerance of certain conditions.",
+            "[[prepared]]High biomass production.",
+            "[[prepared]]Potential use on permanent field edges."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its large size may:",
+          "prepared_text": "[[prepared]]Its large size may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Obstruct movement.",
+            "Compete with tomato for water.",
+            "Shade field edges.",
+            "Obstruct spraying.",
+            "Require greater space."
+          ],
+          "prepared_items": [
+            "[[prepared]]Obstruct movement.",
+            "[[prepared]]Compete with tomato for water.",
+            "[[prepared]]Shade field edges.",
+            "[[prepared]]Obstruct spraying.",
+            "[[prepared]]Require greater space."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is therefore more suitable for some external belts than for narrow internal strips.",
+          "prepared_text": "[[prepared]]It is therefore more suitable for some external belts than for narrow internal strips."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Basil"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Ocimum basilicum"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Basil is a potentially multifunctional plant because it may provide:",
+          "prepared_text": "[[prepared]]Basil is a potentially multifunctional plant because it may provide:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Flowers for beneficial insects.",
+            "Plant odours influencing the behaviour of some insects.",
+            "An additional marketable crop.",
+            "Extended flowering under appropriate cutting and management."
+          ],
+          "prepared_items": [
+            "[[prepared]]Flowers for beneficial insects.",
+            "[[prepared]]Plant odours influencing the behaviour of some insects.",
+            "[[prepared]]An additional marketable crop.",
+            "[[prepared]]Extended flowering under appropriate cutting and management."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Behavioural experiments have shown that plants of the genus Ocimum or their volatiles may reduce attraction or oviposition by female Tuta absoluta under experimental conditions.",
+          "prepared_text": "[[prepared]]Behavioural experiments have shown that plants of the genus Ocimum or their volatiles may reduce attraction or oviposition by female Tuta absoluta under experimental conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, laboratory results, cage or greenhouse tests, and actual effects in a large open field should be clearly distinguished.",
+          "prepared_text": "[[prepared]]However, laboratory results, cage or greenhouse tests, and actual effects in a large open field should be clearly distinguished."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Volatiles may dissipate in the field and are affected by wind, heat, and plant density.",
+          "prepared_text": "[[prepared]]Volatiles may dissipate in the field and are affected by wind, heat, and plant density."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Basil should also be monitored for possible hosting of:",
+          "prepared_text": "[[prepared]]Basil should also be monitored for possible hosting of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Whiteflies.",
+            "Thrips.",
+            "Spider mites.",
+            "Foliar diseases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Whiteflies.",
+            "[[prepared]]Thrips.",
+            "[[prepared]]Spider mites.",
+            "[[prepared]]Foliar diseases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Basil should not be treated as a guaranteed Tuta repellent, but as an experimental multifunctional component.",
+          "prepared_text": "[[prepared]]Basil should not be treated as a guaranteed Tuta repellent, but as an experimental multifunctional component."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Buckwheat"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fagopyrum esculentum"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies have shown that buckwheat can benefit some parasitoids of Tuta absoluta.",
+          "prepared_text": "[[prepared]]Studies have shown that buckwheat can benefit some parasitoids of Tuta absoluta."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its flowers have increased:",
+          "prepared_text": "[[prepared]]Its flowers have increased:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Survival of female Necremnus tutae.",
+            "Survival of some Bracon parasitoids.",
+            "Egg load of some parasitoids."
+          ],
+          "prepared_items": [
+            "[[prepared]]Survival of female Necremnus tutae.",
+            "[[prepared]]Survival of some Bracon parasitoids.",
+            "[[prepared]]Egg load of some parasitoids."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is associated with nectar accessibility and inflorescence characteristics.",
+          "prepared_text": "[[prepared]]This is associated with nectar accessibility and inflorescence characteristics."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application in Egypt requires evaluation of:",
+          "prepared_text": "[[prepared]]Application in Egypt requires evaluation of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Heat tolerance.",
+            "Planting time.",
+            "Seed availability.",
+            "Flowering duration.",
+            "Irrigation requirements.",
+            "Competitive capacity.",
+            "Economic feasibility."
+          ],
+          "prepared_items": [
+            "[[prepared]]Heat tolerance.",
+            "[[prepared]]Planting time.",
+            "[[prepared]]Seed availability.",
+            "[[prepared]]Flowering duration.",
+            "[[prepared]]Irrigation requirements.",
+            "[[prepared]]Competitive capacity.",
+            "[[prepared]]Economic feasibility."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Locally adapted plants should not be replaced with buckwheat before comparative field testing.",
+          "prepared_text": "[[prepared]]Locally adapted plants should not be replaced with buckwheat before comparative field testing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sweet Alyssum"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Lobularia maritima"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sweet alyssum flowers have shown benefits for some larval parasitoids of Tuta, especially:",
+          "prepared_text": "[[prepared]]Sweet alyssum flowers have shown benefits for some larval parasitoids of Tuta, especially:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased survival of N. tutae.",
+            "Support of egg load in some parasitoids."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increased survival of N. tutae.",
+            "[[prepared]]Support of egg load in some parasitoids."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its flowers are small and nectar is relatively accessible.",
+          "prepared_text": "[[prepared]]Its flowers are small and nectar is relatively accessible."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may be useful in Mediterranean environments, but the following require evaluation:",
+          "prepared_text": "[[prepared]]It may be useful in Mediterranean environments, but the following require evaluation:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Performance under Egyptian temperatures.",
+            "Seed availability.",
+            "Flowering across different production cycles.",
+            "Hosting of other pests.",
+            "Ability to persist in open fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Performance under Egyptian temperatures.",
+            "[[prepared]]Seed availability.",
+            "[[prepared]]Flowering across different production cycles.",
+            "[[prepared]]Hosting of other pests.",
+            "[[prepared]]Ability to persist in open fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Marigold"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Tagetes spp."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Marigolds may perform several functions, including:",
+          "prepared_text": "[[prepared]]Marigolds may perform several functions, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Providing flowers.",
+            "Supporting some beneficial insects.",
+            "Producing root or volatile compounds with ecological effects.",
+            "Serving as a border plant."
+          ],
+          "prepared_items": [
+            "[[prepared]]Providing flowers.",
+            "[[prepared]]Supporting some beneficial insects.",
+            "[[prepared]]Producing root or volatile compounds with ecological effects.",
+            "[[prepared]]Serving as a border plant."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies have shown that Tagetes patula improved egg load in some Tuta parasitoids, but it was not the best plant for all parasitoid species.",
+          "prepared_text": "[[prepared]]Studies have shown that Tagetes patula improved egg load in some Tuta parasitoids, but it was not the best plant for all parasitoid species."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Marigold species and cultivars differ in:",
+          "prepared_text": "[[prepared]]Marigold species and cultivars differ in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Flower size.",
+            "Nectar accessibility.",
+            "Flowering duration.",
+            "Plant height.",
+            "Effects on pests."
+          ],
+          "prepared_items": [
+            "[[prepared]]Flower size.",
+            "[[prepared]]Nectar accessibility.",
+            "[[prepared]]Flowering duration.",
+            "[[prepared]]Plant height.",
+            "[[prepared]]Effects on pests."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "All Tagetes species should not be assumed to be equivalent.",
+          "prepared_text": "[[prepared]]All Tagetes species should not be assumed to be equivalent."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Calendula"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Calendula officinalis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calendula is sometimes used to support or conserve certain predators around tomato systems.",
+          "prepared_text": "[[prepared]]Calendula is sometimes used to support or conserve certain predators around tomato systems."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, feeding trials with some larval parasitoids of Tuta did not show that it was the best plant for increasing survival or egg load.",
+          "prepared_text": "[[prepared]]However, feeding trials with some larval parasitoids of Tuta did not show that it was the best plant for increasing survival or egg load."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This illustrates that a plant may benefit one natural-enemy group while providing little benefit to another.",
+          "prepared_text": "[[prepared]]This illustrates that a plant may benefit one natural-enemy group while providing little benefit to another."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The target group should therefore be defined before the plant is selected.",
+          "prepared_text": "[[prepared]]The target group should therefore be defined before the plant is selected."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mustard and Rocket"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Sinapis alba and Eruca vesicaria"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Flowering crucifers can provide:",
+          "prepared_text": "[[prepared]]Flowering crucifers can provide:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nectar.",
+            "Pollen.",
+            "Rapid ground cover.",
+            "Relatively early flowering."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nectar.",
+            "[[prepared]]Pollen.",
+            "[[prepared]]Rapid ground cover.",
+            "[[prepared]]Relatively early flowering."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some studies showed that white mustard supported egg load in certain Tuta parasitoids.",
+          "prepared_text": "[[prepared]]Some studies showed that white mustard supported egg load in certain Tuta parasitoids."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rocket also appeared in flowering mixtures tested along processing-tomato field margins.",
+          "prepared_text": "[[prepared]]Rocket also appeared in flowering mixtures tested along processing-tomato field margins."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crucifers may, however, host:",
+          "prepared_text": "[[prepared]]Crucifers may, however, host:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Aphids.",
+            "Leaf-feeding caterpillars.",
+            "Flea beetles.",
+            "Other pests."
+          ],
+          "prepared_items": [
+            "[[prepared]]Aphids.",
+            "[[prepared]]Leaf-feeding caterpillars.",
+            "[[prepared]]Flea beetles.",
+            "[[prepared]]Other pests."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should not become a source of a new crop-protection problem.",
+          "prepared_text": "[[prepared]]They should not become a source of a new crop-protection problem."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Phacelia and Other Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Candidate plants may include:",
+          "prepared_text": "[[prepared]]Candidate plants may include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Phacelia tanacetifolia.",
+            "Achillea millefolium.",
+            "Ammi majus.",
+            "Local species with exposed flowers.",
+            "Suitable aromatic or forage species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Phacelia tanacetifolia.",
+            "[[prepared]]Achillea millefolium.",
+            "[[prepared]]Ammi majus.",
+            "[[prepared]]Local species with exposed flowers.",
+            "[[prepared]]Suitable aromatic or forage species."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Any species should undergo local evaluation for:",
+          "prepared_text": "[[prepared]]Any species should undergo local evaluation for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Germination.",
+            "Flowering.",
+            "Pest hosting.",
+            "Beneficial groups supported.",
+            "Water use.",
+            "Ease of management.",
+            "Compatibility with agricultural operations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Germination.",
+            "[[prepared]]Flowering.",
+            "[[prepared]]Pest hosting.",
+            "[[prepared]]Beneficial groups supported.",
+            "[[prepared]]Water use.",
+            "[[prepared]]Ease of management.",
+            "[[prepared]]Compatibility with agricultural operations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Species should not be added merely to increase numerical diversity. One unsuitable plant may be sufficient to undermine belt function.",
+          "prepared_text": "[[prepared]]Species should not be added merely to increase numerical diversity. One unsuitable plant may be sufficient to undermine belt function."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Why Is a Plant Mixture Preferred?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Different parasitoid species may benefit from different flowers.",
+          "prepared_text": "[[prepared]]Different parasitoid species may benefit from different flowers."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In tests on larval parasitoids of Tuta:",
+          "prepared_text": "[[prepared]]In tests on larval parasitoids of Tuta:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "N. tutae benefited from certain species.",
+            "A Bracon species benefited from others.",
+            "Other parasitoids responded to different plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]N. tutae benefited from certain species.",
+            "[[prepared]]A Bracon species benefited from others.",
+            "[[prepared]]Other parasitoids responded to different plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A mixture may therefore provide:",
+          "prepared_text": "[[prepared]]A mixture may therefore provide:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A longer flowering period.",
+            "Diversity in flower structure.",
+            "Food resources for different groups.",
+            "Greater resilience if one species fails.",
+            "Support for predators and pollinators together."
+          ],
+          "prepared_items": [
+            "[[prepared]]A longer flowering period.",
+            "[[prepared]]Diversity in flower structure.",
+            "[[prepared]]Food resources for different groups.",
+            "[[prepared]]Greater resilience if one species fails.",
+            "[[prepared]]Support for predators and pollinators together."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increasing the number of species is not an objective in itself. Each species should be:",
+          "prepared_text": "[[prepared]]Increasing the number of species is not an objective in itself. Each species should be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Suitable.",
+            "Not a hazardous host.",
+            "Manageable.",
+            "Assigned a clear function."
+          ],
+          "prepared_items": [
+            "[[prepared]]Suitable.",
+            "[[prepared]]Not a hazardous host.",
+            "[[prepared]]Manageable.",
+            "[[prepared]]Assigned a clear function."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Proposed Egyptian Model: 50% Dill – 30% Coriander – 20% Basil"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following model can be tested in open-field tomatoes:",
+          "prepared_text": "[[prepared]]The following model can be tested in open-field tomatoes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "50% dill.",
+            "30% coriander.",
+            "20% basil."
+          ],
+          "prepared_items": [
+            "[[prepared]]50% dill.",
+            "[[prepared]]30% coriander.",
+            "[[prepared]]20% basil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This model is:",
+          "prepared_text": "[[prepared]]This model is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "A proposed experimental field design, not a universal scientifically fixed ratio."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The functional reasoning behind the proportions is as follows.",
+          "prepared_text": "[[prepared]]The functional reasoning behind the proportions is as follows."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Dill — 50%"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Open umbel inflorescences.",
+            "Numerous small flowers.",
+            "Targeting parasitoids and minute beneficial insects.",
+            "Easy seed availability.",
+            "Potential for staggered planting."
+          ],
+          "prepared_items": [
+            "[[prepared]]Open umbel inflorescences.",
+            "[[prepared]]Numerous small flowers.",
+            "[[prepared]]Targeting parasitoids and minute beneficial insects.",
+            "[[prepared]]Easy seed availability.",
+            "[[prepared]]Potential for staggered planting."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Coriander — 30%"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Adds floral diversity.",
+            "May attract several parasitoid and predator groups.",
+            "Potential market value.",
+            "Flowering time may differ from dill when sowing dates differ."
+          ],
+          "prepared_items": [
+            "[[prepared]]Adds floral diversity.",
+            "[[prepared]]May attract several parasitoid and predator groups.",
+            "[[prepared]]Potential market value.",
+            "[[prepared]]Flowering time may differ from dill when sowing dates differ."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Basil — 20%"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Relatively longer persistence.",
+            "Extended flowering under proper management.",
+            "Potential behavioural effects on some pests.",
+            "Provides a different vegetation structure and shelter."
+          ],
+          "prepared_items": [
+            "[[prepared]]Relatively longer persistence.",
+            "[[prepared]]Extended flowering under proper management.",
+            "[[prepared]]Potential behavioural effects on some pests.",
+            "[[prepared]]Provides a different vegetation structure and shelter."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The proportions should be modified when monitoring shows that one species:",
+          "prepared_text": "[[prepared]]The proportions should be modified when monitoring shows that one species:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Does not flower at the required time.",
+            "Hosts a dangerous pest.",
+            "Uses excessive water.",
+            "Does not attract the target natural enemies.",
+            "Obstructs field operations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Does not flower at the required time.",
+            "[[prepared]]Hosts a dangerous pest.",
+            "[[prepared]]Uses excessive water.",
+            "[[prepared]]Does not attract the target natural enemies.",
+            "[[prepared]]Obstructs field operations."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Defining Proportions by Area or Length"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The 50:30:20 ratio should not be calculated by seed weight because species differ in:",
+          "prepared_text": "[[prepared]]The 50:30:20 ratio should not be calculated by seed weight because species differ in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Seed size.",
+            "Seed weight.",
+            "Germination percentage.",
+            "Planting density.",
+            "Plant spacing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Seed size.",
+            "[[prepared]]Seed weight.",
+            "[[prepared]]Germination percentage.",
+            "[[prepared]]Planting density.",
+            "[[prepared]]Plant spacing."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "More accurately, proportions should be calculated according to:",
+          "prepared_text": "[[prepared]]More accurately, proportions should be calculated according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Area allocated to each species.",
+            "Length of strip allocated to each species.",
+            "Number of planned vegetation units."
+          ],
+          "prepared_items": [
+            "[[prepared]]Area allocated to each species.",
+            "[[prepared]]Length of strip allocated to each species.",
+            "[[prepared]]Number of planned vegetation units."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Example:",
+          "prepared_text": "[[prepared]]Example:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If the belt area is 100 square metres:",
+          "prepared_text": "[[prepared]]If the belt area is 100 square metres:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "50 m² dill.",
+            "30 m² coriander.",
+            "20 m² basil."
+          ],
+          "prepared_items": [
+            "[[prepared]]50 m² dill.",
+            "[[prepared]]30 m² coriander.",
+            "[[prepared]]20 m² basil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The seed quantity for each species is then calculated according to its recommended sowing rate and germination percentage.",
+          "prepared_text": "[[prepared]]The seed quantity for each species is then calculated according to its recommended sowing rate and germination percentage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Calculating Seed Quantity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Seed quantity is calculated as:",
+          "prepared_text": "[[prepared]]Seed quantity is calculated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Required seed quantity = Area allocated to the species × Recommended seed rate per unit area"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Where correction for purity and germination is required:",
+          "prepared_text": "[[prepared]]Where correction for purity and germination is required:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Required commercial seed = Required pure live seed ÷ (Decimal purity × Decimal germination)",
+          "prepared_text": "[[prepared]]Required commercial seed = Required pure live seed ÷ (Decimal purity × Decimal germination)"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Example:",
+          "prepared_text": "[[prepared]]Example:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If purity is 95% and germination is 80%:",
+          "prepared_text": "[[prepared]]If purity is 95% and germination is 80%:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Pure-live-seed factor = 0.95 × 0.80 = 0.76"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The quantity should therefore be adjusted according to this factor.",
+          "prepared_text": "[[prepared]]The quantity should therefore be adjusted according to this factor."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A final seed quantity should not be specified before knowing:",
+          "prepared_text": "[[prepared]]A final seed quantity should not be specified before knowing:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cultivar.",
+            "Seed size.",
+            "Sowing method.",
+            "Germination percentage.",
+            "Required plant density."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Seed size.",
+            "[[prepared]]Sowing method.",
+            "[[prepared]]Germination percentage.",
+            "[[prepared]]Required plant density."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Biological-Belt Design Forms"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Four principal designs may be used.",
+          "prepared_text": "[[prepared]]Four principal designs may be used."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Complete External Belt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This extends around all field sides.",
+          "prepared_text": "[[prepared]]This extends around all field sides."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Advantages:",
+          "prepared_text": "[[prepared]]Advantages:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Continuous vegetation connection.",
+            "Ease of identification and maintenance.",
+            "Protection of edges.",
+            "Reception of natural enemies from the surrounding environment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Continuous vegetation connection.",
+            "[[prepared]]Ease of identification and maintenance.",
+            "[[prepared]]Protection of edges.",
+            "[[prepared]]Reception of natural enemies from the surrounding environment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Limitations:",
+          "prepared_text": "[[prepared]]Limitations:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Requires area and water.",
+            "May be exposed to drift.",
+            "May receive pests from outside.",
+            "May obstruct movement around the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Requires area and water.",
+            "[[prepared]]May be exposed to drift.",
+            "[[prepared]]May receive pests from outside.",
+            "[[prepared]]May obstruct movement around the field."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Belt on Selected Sides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is placed along:",
+          "prepared_text": "[[prepared]]This is placed along:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The side adjacent to natural habitats.",
+            "The side least conflicting with machinery.",
+            "Areas that can be protected from spray."
+          ],
+          "prepared_items": [
+            "[[prepared]]The side adjacent to natural habitats.",
+            "[[prepared]]The side least conflicting with machinery.",
+            "[[prepared]]Areas that can be protected from spray."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is less costly but provides less connectivity.",
+          "prepared_text": "[[prepared]]It is less costly but provides less connectivity."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Internal Strips"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are established between field sectors.",
+          "prepared_text": "[[prepared]]These are established between field sectors."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Advantages:",
+          "prepared_text": "[[prepared]]Advantages:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduce the distance between resources and the crop.",
+            "Improve movement of beneficial organisms into the field interior.",
+            "Suit large areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduce the distance between resources and the crop.",
+            "[[prepared]]Improve movement of beneficial organisms into the field interior.",
+            "[[prepared]]Suit large areas."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Limitations:",
+          "prepared_text": "[[prepared]]Limitations:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Remove land from the crop.",
+            "May obstruct mechanization.",
+            "Increase irrigation and spraying complexity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Remove land from the crop.",
+            "[[prepared]]May obstruct mechanization.",
+            "[[prepared]]Increase irrigation and spraying complexity."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Vegetation Islands"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are small patches distributed within the field or at road intersections.",
+          "prepared_text": "[[prepared]]These are small patches distributed within the field or at road intersections."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Advantages:",
+          "prepared_text": "[[prepared]]Advantages:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Flexible distribution.",
+            "No need for a long strip.",
+            "Can be positioned near risk zones."
+          ],
+          "prepared_items": [
+            "[[prepared]]Flexible distribution.",
+            "[[prepared]]No need for a long strip.",
+            "[[prepared]]Can be positioned near risk zones."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, they may provide less connectivity than continuous strips.",
+          "prepared_text": "[[prepared]]However, they may provide less connectivity than continuous strips."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Position of the Belt Relative to the Infestation Source"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A belt should not automatically be placed beside a heavily infested field with the intention of stopping moths, because it is not a guaranteed barrier.",
+          "prepared_text": "[[prepared]]A belt should not automatically be placed beside a heavily infested field with the intention of stopping moths, because it is not a guaranteed barrier."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Placement near an infestation source may:",
+          "prepared_text": "[[prepared]]Placement near an infestation source may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Expose the belt to large numbers of moths.",
+            "Allow direct pest movement into tomato.",
+            "Increase difficulty of protecting the belt from insecticides.",
+            "Turn it into a mixed zone of pests and beneficial organisms."
+          ],
+          "prepared_items": [
+            "[[prepared]]Expose the belt to large numbers of moths.",
+            "[[prepared]]Allow direct pest movement into tomato.",
+            "[[prepared]]Increase difficulty of protecting the belt from insecticides.",
+            "[[prepared]]Turn it into a mixed zone of pests and beneficial organisms."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The supporting-belt concept should be separated from the concept of a barrier against migration.",
+          "prepared_text": "[[prepared]]The supporting-belt concept should be separated from the concept of a barrier against migration."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Location should be selected according to:",
+          "prepared_text": "[[prepared]]Location should be selected according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Source of natural enemies.",
+            "Machinery routes.",
+            "Direction of spray drift.",
+            "Irrigation feasibility.",
+            "Neighbouring fields.",
+            "Plant species used."
+          ],
+          "prepared_items": [
+            "[[prepared]]Source of natural enemies.",
+            "[[prepared]]Machinery routes.",
+            "[[prepared]]Direction of spray drift.",
+            "[[prepared]]Irrigation feasibility.",
+            "[[prepared]]Neighbouring fields.",
+            "[[prepared]]Plant species used."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Belt Width"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no universal belt width suitable for all fields.",
+          "prepared_text": "[[prepared]]There is no universal belt width suitable for all fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Width should be determined according to:",
+          "prepared_text": "[[prepared]]Width should be determined according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Field area.",
+            "Field shape.",
+            "Plant species.",
+            "Planting method.",
+            "Equipment.",
+            "Water resources.",
+            "Belt objective."
+          ],
+          "prepared_items": [
+            "[[prepared]]Field area.",
+            "[[prepared]]Field shape.",
+            "[[prepared]]Plant species.",
+            "[[prepared]]Planting method.",
+            "[[prepared]]Equipment.",
+            "[[prepared]]Water resources.",
+            "[[prepared]]Belt objective."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Relatively narrow strips may be tested in initial field trials and expanded after benefit is demonstrated.",
+          "prepared_text": "[[prepared]]Relatively narrow strips may be tested in initial field trials and expanded after benefit is demonstrated."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "More important than width alone are:",
+          "prepared_text": "[[prepared]]More important than width alone are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Quality of flowering.",
+            "Continuity.",
+            "Protection from pesticides.",
+            "Movement of beneficial organisms into tomato."
+          ],
+          "prepared_items": [
+            "[[prepared]]Quality of flowering.",
+            "[[prepared]]Continuity.",
+            "[[prepared]]Protection from pesticides.",
+            "[[prepared]]Movement of beneficial organisms into tomato."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Calculating Belt Area"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Belt area = Belt length × Mean width"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And calculate its percentage of the field:",
+          "prepared_text": "[[prepared]]And calculate its percentage of the field:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Belt-area percentage (%) = Belt area ÷ Field area × 100",
+          "prepared_text": "[[prepared]]Belt-area percentage (%) = Belt area ÷ Field area × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Where several strips are present:",
+          "prepared_text": "[[prepared]]Where several strips are present:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Total area = Sum of strip lengths × Width of each strip"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should be stated whether the belt area is:",
+          "prepared_text": "[[prepared]]It should be stated whether the belt area is:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Outside the tomato-planted area.",
+            "Or deducted from within it."
+          ],
+          "prepared_items": [
+            "[[prepared]]Outside the tomato-planted area.",
+            "[[prepared]]Or deducted from within it."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This affects the economic calculation.",
+          "prepared_text": "[[prepared]]This affects the economic calculation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "One-Feddan Design Example"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The area of one Egyptian feddan is:",
+          "prepared_text": "[[prepared]]The area of one Egyptian feddan is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "4,200 m²"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Assume a rectangular field measuring:",
+          "prepared_text": "[[prepared]]Assume a rectangular field measuring:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "60 × 70 metres"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its perimeter is:",
+          "prepared_text": "[[prepared]]Its perimeter is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "260 metres"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If a belt with a width of:",
+          "prepared_text": "[[prepared]]If a belt with a width of:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "0.5 metre"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Is established, belt area is:",
+          "prepared_text": "[[prepared]]Is established, belt area is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "260 × 0.5 = 130 m²"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Representing approximately:",
+          "prepared_text": "[[prepared]]Representing approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "3.1% of the feddan area"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under the 50:30:20 model, approximate areas are:",
+          "prepared_text": "[[prepared]]Under the 50:30:20 model, approximate areas are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dill: 65 m².",
+            "Coriander: 39 m².",
+            "Basil: 26 m²."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dill: 65 m².",
+            "[[prepared]]Coriander: 39 m².",
+            "[[prepared]]Basil: 26 m²."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is only a calculation example. Actual field dimensions may differ, and the belt may be planted outside the tomato area.",
+          "prepared_text": "[[prepared]]This is only a calculation example. Actual field dimensions may differ, and the belt may be planted outside the tomato area."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Ten-Contiguous-Feddan Design Example"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The area of ten feddans is:",
+          "prepared_text": "[[prepared]]The area of ten feddans is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "42,000 m²"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Assume an approximately rectangular production block measuring:",
+          "prepared_text": "[[prepared]]Assume an approximately rectangular production block measuring:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "200 × 210 metres"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its perimeter is:",
+          "prepared_text": "[[prepared]]Its perimeter is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "820 metres"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If an external belt 0.75 metre wide is established:",
+          "prepared_text": "[[prepared]]If an external belt 0.75 metre wide is established:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "820 × 0.75 = 615 m²"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If two internal strips are added, each 200 metres long and 0.75 metre wide:",
+          "prepared_text": "[[prepared]]If two internal strips are added, each 200 metres long and 0.75 metre wide:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "2 × 200 × 0.75 = 300 m²"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The total belt area becomes:",
+          "prepared_text": "[[prepared]]The total belt area becomes:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "915 m²"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Equivalent to approximately:",
+          "prepared_text": "[[prepared]]Equivalent to approximately:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "2.18% of the ten-feddan area"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under the 50:30:20 model:",
+          "prepared_text": "[[prepared]]Under the 50:30:20 model:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dill: approximately 457.5 m².",
+            "Coriander: approximately 274.5 m².",
+            "Basil: approximately 183 m²."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dill: approximately 457.5 m².",
+            "[[prepared]]Coriander: approximately 274.5 m².",
+            "[[prepared]]Basil: approximately 183 m²."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The design should be adjusted according to:",
+          "prepared_text": "[[prepared]]The design should be adjusted according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Harvest routes.",
+            "Row direction.",
+            "Irrigation network.",
+            "Field subdivision.",
+            "Service areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Harvest routes.",
+            "[[prepared]]Row direction.",
+            "[[prepared]]Irrigation network.",
+            "[[prepared]]Field subdivision.",
+            "[[prepared]]Service areas."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Phased Implementation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A biological belt should not be introduced over a large area for the first time without testing.",
+          "prepared_text": "[[prepared]]A biological belt should not be introduced over a large area for the first time without testing."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The preferred sequence is:",
+          "prepared_text": "[[prepared]]The preferred sequence is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "First Year or Initial Trial"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A small sector.",
+            "One belt or strip.",
+            "Comparison with a sector without a belt.",
+            "Detailed monitoring."
+          ],
+          "prepared_items": [
+            "[[prepared]]A small sector.",
+            "[[prepared]]One belt or strip.",
+            "[[prepared]]Comparison with a sector without a belt.",
+            "[[prepared]]Detailed monitoring."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Second Stage"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Expansion after benefit is demonstrated.",
+            "Adjustment of proportions.",
+            "Removal of unsuitable species.",
+            "Addition of promising species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Expansion after benefit is demonstrated.",
+            "[[prepared]]Adjustment of proportions.",
+            "[[prepared]]Removal of unsuitable species.",
+            "[[prepared]]Addition of promising species."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Third Stage"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Integration of the belt into permanent farm design.",
+            "Linkage with the pesticide programme.",
+            "Full economic analysis."
+          ],
+          "prepared_items": [
+            "[[prepared]]Integration of the belt into permanent farm design.",
+            "[[prepared]]Linkage with the pesticide programme.",
+            "[[prepared]]Full economic analysis."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Timing of Belt Establishment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Part of the belt should reach flowering near the beginning of natural-enemy and pest activity.",
+          "prepared_text": "[[prepared]]Part of the belt should reach flowering near the beginning of natural-enemy and pest activity."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt may therefore be planted:",
+          "prepared_text": "[[prepared]]The belt may therefore be planted:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Before tomato transplanting.",
+            "During land preparation.",
+            "In successive batches after transplanting.",
+            "At different times for each species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Before tomato transplanting.",
+            "[[prepared]]During land preparation.",
+            "[[prepared]]In successive batches after transplanting.",
+            "[[prepared]]At different times for each species."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A fixed number of days should not be used for all species and production cycles because flowering speed is affected by:",
+          "prepared_text": "[[prepared]]A fixed number of days should not be used for all species and production cycles because flowering speed is affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Temperature.",
+            "Day length.",
+            "Cultivar.",
+            "Irrigation.",
+            "Fertilization.",
+            "Plant density."
+          ],
+          "prepared_items": [
+            "[[prepared]]Temperature.",
+            "[[prepared]]Day length.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Irrigation.",
+            "[[prepared]]Fertilization.",
+            "[[prepared]]Plant density."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Timing should preferably be based on local germination and flowering trials.",
+          "prepared_text": "[[prepared]]Timing should preferably be based on local germination and flowering trials."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Staggered Planting"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "To avoid simultaneous termination of flowering, the dill and coriander areas may be divided into two or three sowing batches.",
+          "prepared_text": "[[prepared]]To avoid simultaneous termination of flowering, the dill and coriander areas may be divided into two or three sowing batches."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Operational example:",
+          "prepared_text": "[[prepared]]Operational example:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The first batch before or near tomato transplanting.",
+            "The second after tomato growth begins.",
+            "The third before flowering of the first batch ends."
+          ],
+          "prepared_items": [
+            "[[prepared]]The first batch before or near tomato transplanting.",
+            "[[prepared]]The second after tomato growth begins.",
+            "[[prepared]]The third before flowering of the first batch ends."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The interval should be adjusted according to plant-development rate in the production cycle.",
+          "prepared_text": "[[prepared]]The interval should be adjusted according to plant-development rate in the production cycle."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Basil may persist longer when:",
+          "prepared_text": "[[prepared]]Basil may persist longer when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Partial cutting is used.",
+            "Old inflorescences are removed.",
+            "New growth is maintained.",
+            "Plants are not stressed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Partial cutting is used.",
+            "[[prepared]]Old inflorescences are removed.",
+            "[[prepared]]New growth is maintained.",
+            "[[prepared]]Plants are not stressed."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "All plants should not be cut on the same day.",
+          "prepared_text": "[[prepared]]All plants should not be cut on the same day."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Irrigation Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt should preferably have:",
+          "prepared_text": "[[prepared]]The belt should preferably have:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A separate irrigation line.",
+            "Or controllable emitters.",
+            "Or an independent irrigation sector."
+          ],
+          "prepared_items": [
+            "[[prepared]]A separate irrigation line.",
+            "[[prepared]]Or controllable emitters.",
+            "[[prepared]]Or an independent irrigation sector."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This aims to:",
+          "prepared_text": "[[prepared]]This aims to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Prevent competition with tomato.",
+            "Avoid excessive humidity at the crop edge.",
+            "Adjust water supply for each plant species.",
+            "Allow irrigation of the belt to be stopped without affecting tomato."
+          ],
+          "prepared_items": [
+            "[[prepared]]Prevent competition with tomato.",
+            "[[prepared]]Avoid excessive humidity at the crop edge.",
+            "[[prepared]]Adjust water supply for each plant species.",
+            "[[prepared]]Allow irrigation of the belt to be stopped without affecting tomato."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Excessive irrigation should not be used to increase flowering because it may:",
+          "prepared_text": "[[prepared]]Excessive irrigation should not be used to increase flowering because it may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increase vegetative growth.",
+            "Delay flowering.",
+            "Encourage diseases.",
+            "Increase weeds.",
+            "Raise costs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increase vegetative growth.",
+            "[[prepared]]Delay flowering.",
+            "[[prepared]]Encourage diseases.",
+            "[[prepared]]Increase weeds.",
+            "[[prepared]]Raise costs."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fertilization Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt does not require an intensive fertilization programme comparable to tomato.",
+          "prepared_text": "[[prepared]]The belt does not require an intensive fertilization programme comparable to tomato."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Excess nitrogen causes:",
+          "prepared_text": "[[prepared]]Excess nitrogen causes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Excessive vegetative growth.",
+            "Delayed flowering.",
+            "Increased susceptibility to aphids and sucking insects.",
+            "Higher water use."
+          ],
+          "prepared_items": [
+            "[[prepared]]Excessive vegetative growth.",
+            "[[prepared]]Delayed flowering.",
+            "[[prepared]]Increased susceptibility to aphids and sucking insects.",
+            "[[prepared]]Higher water use."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme sufficient to maintain the following is appropriate:",
+          "prepared_text": "[[prepared]]A programme sufficient to maintain the following is appropriate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Moderate growth.",
+            "Continuous flowering.",
+            "No severe nutrient deficiency.",
+            "Limited competition with the crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Moderate growth.",
+            "[[prepared]]Continuous flowering.",
+            "[[prepared]]No severe nutrient deficiency.",
+            "[[prepared]]Limited competition with the crop."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cutting and Maintenance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cutting may be used to:",
+          "prepared_text": "[[prepared]]Cutting may be used to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Renew growth.",
+            "Extend flowering.",
+            "Prevent excessive seed production.",
+            "Prevent plant spread.",
+            "Remove infested parts."
+          ],
+          "prepared_items": [
+            "[[prepared]]Renew growth.",
+            "[[prepared]]Extend flowering.",
+            "[[prepared]]Prevent excessive seed production.",
+            "[[prepared]]Prevent plant spread.",
+            "[[prepared]]Remove infested parts."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Complete simultaneous cutting causes sudden loss of resources.",
+          "prepared_text": "[[prepared]]Complete simultaneous cutting causes sudden loss of resources."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is preferable to:",
+          "prepared_text": "[[prepared]]It is preferable to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cut one belt section.",
+            "Leave another section flowering.",
+            "Alternate sectors.",
+            "Remove severely infested plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cut one belt section.",
+            "[[prepared]]Leave another section flowering.",
+            "[[prepared]]Alternate sectors.",
+            "[[prepared]]Remove severely infested plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Residues should be collected when they carry pests or diseases.",
+          "prepared_text": "[[prepared]]Residues should be collected when they carry pests or diseases."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Monitoring the Belt Itself"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt should be inspected weekly or according to risk level to record:",
+          "prepared_text": "[[prepared]]The belt should be inspected weekly or according to risk level to record:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Flowering percentage.",
+            "Beneficial species.",
+            "Aphids.",
+            "Whiteflies.",
+            "Thrips.",
+            "Mites.",
+            "Caterpillars.",
+            "Diseases.",
+            "Ants.",
+            "Weeds."
+          ],
+          "prepared_items": [
+            "[[prepared]]Flowering percentage.",
+            "[[prepared]]Beneficial species.",
+            "[[prepared]]Aphids.",
+            "[[prepared]]Whiteflies.",
+            "[[prepared]]Thrips.",
+            "[[prepared]]Mites.",
+            "[[prepared]]Caterpillars.",
+            "[[prepared]]Diseases.",
+            "[[prepared]]Ants.",
+            "[[prepared]]Weeds."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt should not be allowed to become a pest source in the name of biodiversity conservation.",
+          "prepared_text": "[[prepared]]The belt should not be allowed to become a pest source in the name of biodiversity conservation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility with Pesticides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt loses its value when repeatedly exposed to broad-spectrum pesticides.",
+          "prepared_text": "[[prepared]]The belt loses its value when repeatedly exposed to broad-spectrum pesticides."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should:",
+          "prepared_text": "[[prepared]]The programme should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoid direct spraying.",
+            "Reduce drift.",
+            "Use directed nozzles.",
+            "Apply under low-wind conditions.",
+            "Consider floral activity.",
+            "Avoid spraying flowering plants with materials hazardous to beneficial insects.",
+            "Use localized treatment when required.",
+            "Record every material reaching the belt."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoid direct spraying.",
+            "[[prepared]]Reduce drift.",
+            "[[prepared]]Use directed nozzles.",
+            "[[prepared]]Apply under low-wind conditions.",
+            "[[prepared]]Consider floral activity.",
+            "[[prepared]]Avoid spraying flowering plants with materials hazardous to beneficial insects.",
+            "[[prepared]]Use localized treatment when required.",
+            "[[prepared]]Record every material reaching the belt."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When belt plants become infested, the selected action should:",
+          "prepared_text": "[[prepared]]When belt plants become infested, the selected action should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoid eliminating natural enemies.",
+            "Avoid contaminating flowers.",
+            "Prevent pest movement into tomato."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoid eliminating natural enemies.",
+            "[[prepared]]Avoid contaminating flowers.",
+            "[[prepared]]Prevent pest movement into tomato."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Removing the infested section may be more suitable than spraying it with a broad-spectrum product.",
+          "prepared_text": "[[prepared]]Removing the infested section may be more suitable than spraying it with a broad-spectrum product."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pollinator Protection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Flowering plants may attract:",
+          "prepared_text": "[[prepared]]Flowering plants may attract:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Honey bees.",
+            "Wild bees.",
+            "Hoverflies.",
+            "Other pollinators."
+          ],
+          "prepared_items": [
+            "[[prepared]]Honey bees.",
+            "[[prepared]]Wild bees.",
+            "[[prepared]]Hoverflies.",
+            "[[prepared]]Other pollinators."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should therefore:",
+          "prepared_text": "[[prepared]]The programme should therefore:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoid spraying during pollinator activity.",
+            "Follow product-label instructions.",
+            "Prevent pesticide drift onto flowers.",
+            "Avoid non-selective traps near the belt.",
+            "Prevent contamination of drinking water or surrounding soil."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoid spraying during pollinator activity.",
+            "[[prepared]]Follow product-label instructions.",
+            "[[prepared]]Prevent pesticide drift onto flowers.",
+            "[[prepared]]Avoid non-selective traps near the belt.",
+            "[[prepared]]Prevent contamination of drinking water or surrounding soil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Belt management becomes part of:",
+          "prepared_text": "[[prepared]]Belt management becomes part of:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Integrated Pest and Pollinator Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not only Tuta management.",
+          "prepared_text": "[[prepared]]Not only Tuta management."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Belt and Trichogramma Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Flowering plants may provide sugar sources for egg parasitoids, but success depends on:",
+          "prepared_text": "[[prepared]]Flowering plants may provide sugar sources for egg parasitoids, but success depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Flower size and depth.",
+            "Nectar accessibility.",
+            "Distance between flowers and Tuta eggs.",
+            "Belt exposure to pesticides.",
+            "Parasitoid movement within the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Flower size and depth.",
+            "[[prepared]]Nectar accessibility.",
+            "[[prepared]]Distance between flowers and Tuta eggs.",
+            "[[prepared]]Belt exposure to pesticides.",
+            "[[prepared]]Parasitoid movement within the field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt does not compensate for poor distribution of Trichogramma cards or delayed release.",
+          "prepared_text": "[[prepared]]The belt does not compensate for poor distribution of Trichogramma cards or delayed release."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be compared:",
+          "prepared_text": "[[prepared]]The following should be compared:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Parasitoid emergence from cards.",
+            "Adult survival.",
+            "Egg-parasitism percentage near and far from the belt.",
+            "Number of unparasitized eggs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Parasitoid emergence from cards.",
+            "[[prepared]]Adult survival.",
+            "[[prepared]]Egg-parasitism percentage near and far from the belt.",
+            "[[prepared]]Number of unparasitized eggs."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Belt and Necremnus tutae and Bracon nigricans"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larval parasitoids require carbohydrate resources to support survival and activity, while some species require host feeding to obtain protein needed for egg production.",
+          "prepared_text": "[[prepared]]Larval parasitoids require carbohydrate resources to support survival and activity, while some species require host feeding to obtain protein needed for egg production."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tests have shown that:",
+          "prepared_text": "[[prepared]]Tests have shown that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Buckwheat.",
+            "Sweet alyssum.",
+            "Certain other plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Buckwheat.",
+            "[[prepared]]Sweet alyssum.",
+            "[[prepared]]Certain other plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "May increase survival or egg load in larval parasitoids of Tuta, with responses differing among species.",
+          "prepared_text": "[[prepared]]May increase survival or egg load in larval parasitoids of Tuta, with responses differing among species."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This supports use of a plant mixture rather than dependence on one species.",
+          "prepared_text": "[[prepared]]This supports use of a plant mixture rather than dependence on one species."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Parasitoids must nevertheless move from the belt to:",
+          "prepared_text": "[[prepared]]Parasitoids must nevertheless move from the belt to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mines.",
+            "Larvae.",
+            "Tomato sectors."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mines.",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Tomato sectors."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their persistence on flowers alone is insufficient.",
+          "prepared_text": "[[prepared]]Their persistence on flowers alone is insufficient."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Belt and Mirid Predators"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mirids may benefit from:",
+          "prepared_text": "[[prepared]]Mirids may benefit from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pollen.",
+            "Alternative prey.",
+            "Shelter.",
+            "Plants that allow oviposition."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pollen.",
+            "[[prepared]]Alternative prey.",
+            "[[prepared]]Shelter.",
+            "[[prepared]]Plants that allow oviposition."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Certain plants may help maintain Macrolophus or Nesidiocoris between crop cycles or when tomato prey is scarce.",
+          "prepared_text": "[[prepared]]Certain plants may help maintain Macrolophus or Nesidiocoris between crop cycles or when tomato prey is scarce."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However:",
+          "prepared_text": "[[prepared]]However:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "N. tenuis may cause plant injury.",
+            "High predator abundance is not an absolute objective.",
+            "Alternative prey may be pests.",
+            "Some plants may attract predators more strongly than tomato."
+          ],
+          "prepared_items": [
+            "[[prepared]]N. tenuis may cause plant injury.",
+            "[[prepared]]High predator abundance is not an absolute objective.",
+            "[[prepared]]Alternative prey may be pests.",
+            "[[prepared]]Some plants may attract predators more strongly than tomato."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Movement of adults and nymphs into the crop should be measured.",
+          "prepared_text": "[[prepared]]Movement of adults and nymphs into the crop should be measured."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Belt and Orius and Chrysoperla"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Orius may benefit from:",
+          "prepared_text": "[[prepared]]Orius may benefit from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pollen.",
+            "Thrips and other small prey.",
+            "Flowering plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pollen.",
+            "[[prepared]]Thrips and other small prey.",
+            "[[prepared]]Flowering plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Adult lacewings benefit from:",
+          "prepared_text": "[[prepared]]Adult lacewings benefit from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nectar.",
+            "Pollen.",
+            "Honeydew."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nectar.",
+            "[[prepared]]Pollen.",
+            "[[prepared]]Honeydew."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Supporting these predators may contribute to suppression of:",
+          "prepared_text": "[[prepared]]Supporting these predators may contribute to suppression of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tuta eggs.",
+            "Exposed newly hatched larvae.",
+            "Aphids.",
+            "Thrips.",
+            "Whiteflies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tuta eggs.",
+            "[[prepared]]Exposed newly hatched larvae.",
+            "[[prepared]]Aphids.",
+            "[[prepared]]Thrips.",
+            "[[prepared]]Whiteflies."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their efficacy against larvae deep within mines remains limited.",
+          "prepared_text": "[[prepared]]Their efficacy against larvae deep within mines remains limited."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Ecological Connectivity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Natural enemies need to move among:",
+          "prepared_text": "[[prepared]]Natural enemies need to move among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The belt.",
+            "Tomato plants.",
+            "Natural field margins.",
+            "Neighbouring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]The belt.",
+            "[[prepared]]Tomato plants.",
+            "[[prepared]]Natural field margins.",
+            "[[prepared]]Neighbouring fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A belt isolated from other habitats may be less useful than an interconnected vegetation network.",
+          "prepared_text": "[[prepared]]A belt isolated from other habitats may be less useful than an interconnected vegetation network."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Spatial studies indicate that:",
+          "prepared_text": "[[prepared]]Spatial studies indicate that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The pest.",
+            "Parasitoids.",
+            "Predators."
+          ],
+          "prepared_items": [
+            "[[prepared]]The pest.",
+            "[[prepared]]Parasitoids.",
+            "[[prepared]]Predators."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "May respond to the agricultural landscape at different spatial scales.",
+          "prepared_text": "[[prepared]]May respond to the agricultural landscape at different spatial scales."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A small belt alone therefore cannot solve the problems of a highly homogeneous regional landscape or heavily infested source fields.",
+          "prepared_text": "[[prepared]]A small belt alone therefore cannot solve the problems of a highly homogeneous regional landscape or heavily infested source fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt should be integrated with area-wide management.",
+          "prepared_text": "[[prepared]]The belt should be integrated with area-wide management."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Belt Is Not a Trap Crop for Tuta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dill, coriander, or basil should not be assumed to attract Tuta absoluta away from tomato as trap crops.",
+          "prepared_text": "[[prepared]]Dill, coriander, or basil should not be assumed to attract Tuta absoluta away from tomato as trap crops."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their principal purpose is to:",
+          "prepared_text": "[[prepared]]Their principal purpose is to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Support natural enemies.",
+            "Potentially modify some behavioural signals."
+          ],
+          "prepared_items": [
+            "[[prepared]]Support natural enemies.",
+            "[[prepared]]Potentially modify some behavioural signals."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A trap crop must be more attractive to the pest, which may allow the pest to reproduce within it unless it is destroyed at the correct time.",
+          "prepared_text": "[[prepared]]A trap crop must be more attractive to the pest, which may allow the pest to reproduce within it unless it is destroyed at the correct time."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt should therefore not be described as “pulling Tuta away” without evidence.",
+          "prepared_text": "[[prepared]]The belt should therefore not be described as “pulling Tuta away” without evidence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Risks of Solanaceous Trap Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some solanaceous plants may be proposed to attract Tuta, but their use carries high risk because they may:",
+          "prepared_text": "[[prepared]]Some solanaceous plants may be proposed to attract Tuta, but their use carries high risk because they may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Receive eggs.",
+            "Allow larval development.",
+            "Produce adult moths.",
+            "Become permanent sources.",
+            "Increase pressure on tomato."
+          ],
+          "prepared_items": [
+            "[[prepared]]Receive eggs.",
+            "[[prepared]]Allow larval development.",
+            "[[prepared]]Produce adult moths.",
+            "[[prepared]]Become permanent sources.",
+            "[[prepared]]Increase pressure on tomato."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Such a system should only be used in a structured experiment with:",
+          "prepared_text": "[[prepared]]Such a system should only be used in a structured experiment with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Intensive monitoring.",
+            "A clearly defined destruction time.",
+            "Prevention of generation completion.",
+            "Scientific comparison."
+          ],
+          "prepared_items": [
+            "[[prepared]]Intensive monitoring.",
+            "[[prepared]]A clearly defined destruction time.",
+            "[[prepared]]Prevention of generation completion.",
+            "[[prepared]]Scientific comparison."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Banker Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A banker plant differs from a flower strip because it carries an alternative host or prey that permits natural-enemy multiplication.",
+          "prepared_text": "[[prepared]]A banker plant differs from a flower strip because it carries an [[term:alternative-host]]alternative host[[/term]] or prey that permits natural-enemy multiplication."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may be more suitable in greenhouses than in open fields.",
+          "prepared_text": "[[prepared]]It may be more suitable in greenhouses than in open fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The alternative prey should:",
+          "prepared_text": "[[prepared]]The alternative prey should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Not attack tomato.",
+            "Not transmit diseases.",
+            "Not spread outside the system.",
+            "Support the target natural enemy."
+          ],
+          "prepared_items": [
+            "[[prepared]]Not attack tomato.",
+            "[[prepared]]Not transmit diseases.",
+            "[[prepared]]Not spread outside the system.",
+            "[[prepared]]Support the target natural enemy."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is currently no standardized banker-plant system for Tuta absoluta in Egyptian open fields.",
+          "prepared_text": "[[prepared]]There is currently no standardized banker-plant system for Tuta absoluta in Egyptian open fields."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Basil and the Push–Pull Strategy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Basil may represent a potential component of the “push” element if it is shown to reduce oviposition or female attraction.",
+          "prepared_text": "[[prepared]]Basil may represent a potential component of the “push” element if it is shown to reduce oviposition or female attraction."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A complete push–pull strategy requires:",
+          "prepared_text": "[[prepared]]A complete push–pull strategy requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A repellent or deterrent plant within or near the crop.",
+            "An attractive plant or trap at another location.",
+            "Management of the attractive component.",
+            "Demonstration of pest movement.",
+            "Demonstration of reduced infestation and fruit damage."
+          ],
+          "prepared_items": [
+            "[[prepared]]A repellent or deterrent plant within or near the crop.",
+            "[[prepared]]An attractive plant or trap at another location.",
+            "[[prepared]]Management of the attractive component.",
+            "[[prepared]]Demonstration of pest movement.",
+            "[[prepared]]Demonstration of reduced infestation and fruit damage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A repellent effect in the laboratory alone is insufficient to claim an effective field push–pull system.",
+          "prepared_text": "[[prepared]]A repellent effect in the laboratory alone is insufficient to claim an effective field push–pull system."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Potential Risks of Biological Belts"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Hosting new pests.",
+            "2. Hosting virus vectors.",
+            "3. Increasing diseases.",
+            "4. Competing with tomato for water and nutrients.",
+            "5. Obstructing mechanization.",
+            "6. Increasing labour cost.",
+            "7. Exposure to pesticide drift.",
+            "8. Attracting beneficial organisms away from tomato.",
+            "9. Failure of flowering to coincide with pest activity.",
+            "10. Plants becoming weeds.",
+            "11. Seed production and unwanted spread.",
+            "12. Increased ants and honeydew.",
+            "13. Increased fire risk from dry vegetation.",
+            "14. Difficulty terminating the field.",
+            "15. Creating a false sense of security and reducing monitoring."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Hosting new pests.",
+            "[[prepared]]2. Hosting virus vectors.",
+            "[[prepared]]3. Increasing diseases.",
+            "[[prepared]]4. Competing with tomato for water and nutrients.",
+            "[[prepared]]5. Obstructing mechanization.",
+            "[[prepared]]6. Increasing labour cost.",
+            "[[prepared]]7. Exposure to pesticide drift.",
+            "[[prepared]]8. Attracting beneficial organisms away from tomato.",
+            "[[prepared]]9. Failure of flowering to coincide with pest activity.",
+            "[[prepared]]10. Plants becoming weeds.",
+            "[[prepared]]11. Seed production and unwanted spread.",
+            "[[prepared]]12. Increased ants and honeydew.",
+            "[[prepared]]13. Increased fire risk from dry vegetation.",
+            "[[prepared]]14. Difficulty terminating the field.",
+            "[[prepared]]15. Creating a false sense of security and reducing monitoring."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These risks should be included in biological and economic evaluation.",
+          "prepared_text": "[[prepared]]These risks should be included in biological and economic evaluation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Designing a Belt-Evaluation Experiment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be compared:",
+          "prepared_text": "[[prepared]]The following should be compared:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A sector containing the belt.",
+            "A similar reference sector without a belt.",
+            "Or several comparable fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]A sector containing the belt.",
+            "[[prepared]]A similar reference sector without a belt.",
+            "[[prepared]]Or several comparable fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be similar:",
+          "prepared_text": "[[prepared]]The following should be similar:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cultivar.",
+            "Transplanting date.",
+            "Irrigation and fertilization.",
+            "Migration sources.",
+            "Pesticide programme.",
+            "Area.",
+            "Soil."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Transplanting date.",
+            "[[prepared]]Irrigation and fertilization.",
+            "[[prepared]]Migration sources.",
+            "[[prepared]]Pesticide programme.",
+            "[[prepared]]Area.",
+            "[[prepared]]Soil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Samples should be collected at different distances from the belt, such as near, intermediate, and interior zones, to determine how far the effect extends.",
+          "prepared_text": "[[prepared]]Samples should be collected at different distances from the belt, such as near, intermediate, and interior zones, to determine how far the effect extends."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These distances do not represent a fixed biological range, but an experimental design that should be adjusted according to field area.",
+          "prepared_text": "[[prepared]]These distances do not represent a fixed biological range, but an experimental design that should be adjusted according to field area."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators for Evaluating the Belt"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Plant Indicators"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Germination percentage.",
+            "Ground-cover percentage.",
+            "Date of flowering onset.",
+            "Flowering duration.",
+            "Number of flowering species.",
+            "Water requirement.",
+            "Diseases and pests."
+          ],
+          "prepared_items": [
+            "[[prepared]]Germination percentage.",
+            "[[prepared]]Ground-cover percentage.",
+            "[[prepared]]Date of flowering onset.",
+            "[[prepared]]Flowering duration.",
+            "[[prepared]]Number of flowering species.",
+            "[[prepared]]Water requirement.",
+            "[[prepared]]Diseases and pests."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Natural-Enemy Indicators"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of parasitoids.",
+            "Number of predators.",
+            "Number of species.",
+            "Nymphs and eggs.",
+            "Percentage moving into tomato.",
+            "Parasitism percentage.",
+            "Predation rate."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of parasitoids.",
+            "[[prepared]]Number of predators.",
+            "[[prepared]]Number of species.",
+            "[[prepared]]Nymphs and eggs.",
+            "[[prepared]]Percentage moving into tomato.",
+            "[[prepared]]Parasitism percentage.",
+            "[[prepared]]Predation rate."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Tuta absoluta Indicators"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs/plant.",
+            "Active mines.",
+            "Live larvae.",
+            "Growing-point infestation.",
+            "Fruit infestation.",
+            "Trap catch."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs/plant.",
+            "[[prepared]]Active mines.",
+            "[[prepared]]Live larvae.",
+            "[[prepared]]Growing-point infestation.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Trap catch."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Operational Indicators"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Planting cost.",
+            "Irrigation cost.",
+            "Labour.",
+            "Area removed from tomato.",
+            "Ease of spraying and harvesting.",
+            "Number of maintenance operations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Planting cost.",
+            "[[prepared]]Irrigation cost.",
+            "[[prepared]]Labour.",
+            "[[prepared]]Area removed from tomato.",
+            "[[prepared]]Ease of spraying and harvesting.",
+            "[[prepared]]Number of maintenance operations."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Indicators"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of sprays avoided.",
+            "Accepted yield.",
+            "Reduction in loss.",
+            "Value of support plants if marketed.",
+            "Benefit–cost ratio."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of sprays avoided.",
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Reduction in loss.",
+            "[[prepared]]Value of support plants if marketed.",
+            "[[prepared]]Benefit–cost ratio."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Final Indicator of Success"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt is successful when it produces one or more of the following outcomes without unacceptable cost or damage:",
+          "prepared_text": "[[prepared]]The belt is successful when it produces one or more of the following outcomes without unacceptable cost or damage:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased parasitism within tomato.",
+            "Increased predators within the crop.",
+            "Reduced eggs or larvae.",
+            "Delayed increase in Tuta.",
+            "Reduced fruit infestation.",
+            "Reduced number of sprays.",
+            "Increased accepted yield.",
+            "Improved stability of the biological programme.",
+            "Positive economic return."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increased parasitism within tomato.",
+            "[[prepared]]Increased predators within the crop.",
+            "[[prepared]]Reduced eggs or larvae.",
+            "[[prepared]]Delayed increase in Tuta.",
+            "[[prepared]]Reduced fruit infestation.",
+            "[[prepared]]Reduced number of sprays.",
+            "[[prepared]]Increased accepted yield.",
+            "[[prepared]]Improved stability of the biological programme.",
+            "[[prepared]]Positive economic return."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following alone are insufficient:",
+          "prepared_text": "[[prepared]]The following alone are insufficient:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "More insects on flowers.",
+            "Greater biodiversity.",
+            "Improved visual appearance of the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]More insects on flowers.",
+            "[[prepared]]Greater biodiversity.",
+            "[[prepared]]Improved visual appearance of the field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When no functional or economic effect is demonstrated.",
+          "prepared_text": "[[prepared]]When no functional or economic effect is demonstrated."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Economic Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Belt costs include:",
+          "prepared_text": "[[prepared]]Belt costs include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Seeds.",
+            "Land preparation.",
+            "Planting.",
+            "Irrigation.",
+            "Fertilization.",
+            "Cutting.",
+            "Inspection.",
+            "Area removed from tomato.",
+            "Management of pests occurring within the belt.",
+            "Removal after the season."
+          ],
+          "prepared_items": [
+            "[[prepared]]Seeds.",
+            "[[prepared]]Land preparation.",
+            "[[prepared]]Planting.",
+            "[[prepared]]Irrigation.",
+            "[[prepared]]Fertilization.",
+            "[[prepared]]Cutting.",
+            "[[prepared]]Inspection.",
+            "[[prepared]]Area removed from tomato.",
+            "[[prepared]]Management of pests occurring within the belt.",
+            "[[prepared]]Removal after the season."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Benefits include:",
+          "prepared_text": "[[prepared]]Benefits include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced insecticide use.",
+            "Increased natural enemies.",
+            "Reduced fruit infestation.",
+            "Production of dill, coriander, or basil.",
+            "Increased biodiversity.",
+            "Support for pollinators.",
+            "Delayed resistance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced insecticide use.",
+            "[[prepared]]Increased natural enemies.",
+            "[[prepared]]Reduced fruit infestation.",
+            "[[prepared]]Production of dill, coriander, or basil.",
+            "[[prepared]]Increased biodiversity.",
+            "[[prepared]]Support for pollinators.",
+            "[[prepared]]Delayed resistance."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Net benefit of the belt = Value of additional crop + Value of sprays avoided + Value of marketed belt plants − Total belt cost − Value of tomato yield lost because of occupied area",
+          "prepared_text": "[[prepared]]Net benefit of the belt = Value of additional crop + Value of sprays avoided + Value of marketed belt plants − Total belt cost − Value of tomato yield lost because of occupied area"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Proposed Experimental Programme for One Feddan"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Before Planting"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Define the belt location.",
+            "Calculate its area.",
+            "Analyze risks.",
+            "Select the seed source.",
+            "Establish a separate irrigation line.",
+            "Record surrounding plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Define the belt location.",
+            "[[prepared]]Calculate its area.",
+            "[[prepared]]Analyze risks.",
+            "[[prepared]]Select the seed source.",
+            "[[prepared]]Establish a separate irrigation line.",
+            "[[prepared]]Record surrounding plants."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Planting"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Apply the 50:30:20 model by area.",
+            "Divide dill and coriander into staggered batches.",
+            "Do not mix seeds randomly when sowing depth and density differ.",
+            "Place labels identifying each sector."
+          ],
+          "prepared_items": [
+            "[[prepared]]Apply the 50:30:20 model by area.",
+            "[[prepared]]Divide dill and coriander into staggered batches.",
+            "[[prepared]]Do not mix seeds randomly when sowing depth and density differ.",
+            "[[prepared]]Place labels identifying each sector."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Monitoring"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Record flowering onset.",
+            "Count beneficial organisms.",
+            "Inspect pests weekly.",
+            "Compare field edge and interior.",
+            "Protect the belt from pesticide spray."
+          ],
+          "prepared_items": [
+            "[[prepared]]Record flowering onset.",
+            "[[prepared]]Count beneficial organisms.",
+            "[[prepared]]Inspect pests weekly.",
+            "[[prepared]]Compare field edge and interior.",
+            "[[prepared]]Protect the belt from pesticide spray."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Evaluation"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Compare parasitism percentage.",
+            "Compare active mines.",
+            "Compare fruit infestation.",
+            "Calculate costs and returns."
+          ],
+          "prepared_items": [
+            "[[prepared]]Compare parasitism percentage.",
+            "[[prepared]]Compare active mines.",
+            "[[prepared]]Compare fruit infestation.",
+            "[[prepared]]Calculate costs and returns."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Proposed Experimental Programme for Ten Feddans"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The design may include:",
+          "prepared_text": "[[prepared]]The design may include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An external belt.",
+            "Two internal strips.",
+            "Vegetation points near road intersections.",
+            "A reference sector without an internal strip."
+          ],
+          "prepared_items": [
+            "[[prepared]]An external belt.",
+            "[[prepared]]Two internal strips.",
+            "[[prepared]]Vegetation points near road intersections.",
+            "[[prepared]]A reference sector without an internal strip."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Implementation may be divided as follows.",
+          "prepared_text": "[[prepared]]Implementation may be divided as follows."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Sector One"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The complete 50:30:20 model.",
+          "prepared_text": "[[prepared]]The complete 50:30:20 model."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Sector Two"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dill and coriander only.",
+          "prepared_text": "[[prepared]]Dill and coriander only."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Sector Three"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An external belt without internal strips.",
+          "prepared_text": "[[prepared]]An external belt without internal strips."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Reference Sector"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conventional management without a planted belt, while maintaining the other IPM components.",
+          "prepared_text": "[[prepared]]Conventional management without a planted belt, while maintaining the other [[term:ipm]]IPM[[/term]] components."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This design allows evaluation of:",
+          "prepared_text": "[[prepared]]This design allows evaluation of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Basil effect.",
+            "Effect of internal strips.",
+            "Effect of distance from the belt.",
+            "Actual cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Basil effect.",
+            "[[prepared]]Effect of internal strips.",
+            "[[prepared]]Effect of distance from the belt.",
+            "[[prepared]]Actual cost."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pesticide programmes should not differ among sectors unless necessary, so that results remain interpretable.",
+          "prepared_text": "[[prepared]]Pesticide programmes should not differ among sectors unless necessary, so that results remain interpretable."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Belt-Management Decision Matrix"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Condition",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Good flowering and increased beneficial organisms within tomato",
+              "Continue management"
+            ],
+            [
+              "Good flowering but beneficial organisms remain confined to the belt",
+              "Modify the design or add internal connectivity"
+            ],
+            [
+              "Increased aphids without sufficient natural enemies",
+              "Remove or apply selective localized treatment"
+            ],
+            [
+              "Appearance of whiteflies or virus vectors",
+              "Immediate assessment and source reduction"
+            ],
+            [
+              "Flowering ends too early",
+              "Establish a new batch or use staggered cutting"
+            ],
+            [
+              "Clear competition with tomato",
+              "Reduce belt width or separate irrigation"
+            ],
+            [
+              "Obstruction of spraying or harvesting",
+              "Modify location or design"
+            ],
+            [
+              "Repeated pesticide exposure of the belt",
+              "Establish a protection zone or change the application route"
+            ],
+            [
+              "No reduction in Tuta despite increased beneficial organisms",
+              "Continue IPM and do not rely on the belt alone"
+            ],
+            [
+              "High cost without measurable benefit",
+              "Redesign or discontinue the uneconomic component"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Condition",
+            "[[prepared]]Decision"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Good flowering and increased beneficial organisms within tomato",
+              "[[prepared]]Continue management"
+            ],
+            [
+              "[[prepared]]Good flowering but beneficial organisms remain confined to the belt",
+              "[[prepared]]Modify the design or add internal connectivity"
+            ],
+            [
+              "[[prepared]]Increased aphids without sufficient natural enemies",
+              "[[prepared]]Remove or apply selective localized treatment"
+            ],
+            [
+              "[[prepared]]Appearance of whiteflies or virus vectors",
+              "[[prepared]]Immediate assessment and source reduction"
+            ],
+            [
+              "[[prepared]]Flowering ends too early",
+              "[[prepared]]Establish a new batch or use staggered cutting"
+            ],
+            [
+              "[[prepared]]Clear competition with tomato",
+              "[[prepared]]Reduce belt width or separate irrigation"
+            ],
+            [
+              "[[prepared]]Obstruction of spraying or harvesting",
+              "[[prepared]]Modify location or design"
+            ],
+            [
+              "[[prepared]]Repeated pesticide exposure of the belt",
+              "[[prepared]]Establish a protection zone or change the application route"
+            ],
+            [
+              "[[prepared]]No reduction in Tuta despite increased beneficial organisms",
+              "[[prepared]]Continue IPM and do not rely on the belt alone"
+            ],
+            [
+              "[[prepared]]High cost without measurable benefit",
+              "[[prepared]]Redesign or discontinue the uneconomic component"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Treating the Belt as a Direct Insecticide"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its role is to support the biological system.",
+          "prepared_text": "[[prepared]]Its role is to support the biological system."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Planting Any Flowering Species"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Host status, associated pests, and nectar accessibility must be evaluated.",
+          "prepared_text": "[[prepared]]Host status, associated pests, and nectar accessibility must be evaluated."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Treating the 50:30:20 Ratio as a Fixed Scientific Fact"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is an experimental model requiring validation.",
+          "prepared_text": "[[prepared]]It is an experimental model requiring validation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Calculating Proportions by Seed Weight"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should be calculated by area or strip length.",
+          "prepared_text": "[[prepared]]They should be calculated by area or strip length."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Establishing the Belt After Infestation Has Increased"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt requires early establishment and flowering.",
+          "prepared_text": "[[prepared]]The belt requires early establishment and flowering."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Allowing All Plants to Finish Flowering at the Same Time"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Staggered planting should be used.",
+          "prepared_text": "[[prepared]]Staggered planting should be used."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Spraying the Belt with Broad-Spectrum Pesticides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This destroys its principal function.",
+          "prepared_text": "[[prepared]]This destroys its principal function."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Leaving the Belt Unmonitored"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may become a pest source.",
+          "prepared_text": "[[prepared]]It may become a pest source."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Using Solanaceous Plants That Host Tuta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may increase the pest instead of suppressing it.",
+          "prepared_text": "[[prepared]]They may increase the pest instead of suppressing it."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Measuring Insects on Flowers Only"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Movement into tomato should also be measured.",
+          "prepared_text": "[[prepared]]Movement into tomato should also be measured."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Ignoring Lost Crop Area"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This should be included in economic evaluation.",
+          "prepared_text": "[[prepared]]This should be included in economic evaluation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Overfertilizing the Belt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This delays flowering and increases sucking pests.",
+          "prepared_text": "[[prepared]]This delays flowering and increases sucking pests."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Thirteen: Cutting the Entire Belt at Once"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This abruptly removes resources.",
+          "prepared_text": "[[prepared]]This abruptly removes resources."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fourteen: Describing Basil as a Guaranteed Repellent"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field evidence requires local validation.",
+          "prepared_text": "[[prepared]]Field evidence requires local validation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fifteen: Discontinuing Other IPM Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt is a supporting component, not a stand-alone programme.",
+          "prepared_text": "[[prepared]]The belt is a supporting component, not a stand-alone programme."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Research and Practical Priorities in Egypt"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Test dill, coriander, and basil individually and in mixtures.",
+            "2. Measure the accessibility of their flowers to Tuta parasitoids.",
+            "3. Determine flowering schedules across different production cycles.",
+            "4. Study hosting of whiteflies, thrips, and aphids.",
+            "5. Measure movement of natural enemies from the belt into tomato.",
+            "6. Evaluate Trichogramma near and far from the belt.",
+            "7. Evaluate Necremnus tutae and local parasitoids.",
+            "8. Study mirid predators.",
+            "9. Compare external belts with internal strips.",
+            "10. Determine the minimum area providing economic benefit.",
+            "11. Evaluate water use.",
+            "12. Measure effects of pesticide drift.",
+            "13. Test buckwheat, sweet alyssum, and local plants.",
+            "14. Study belts in processing tomatoes.",
+            "15. Study belts in fresh-market tomatoes.",
+            "16. Calculate costs for one and ten feddans.",
+            "17. Evaluate the potential to market belt plants.",
+            "18. Measure effects over more than one season.",
+            "19. Study the surrounding agricultural landscape.",
+            "20. Develop locally data-based recommendations rather than assumed ratios."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Test dill, coriander, and basil individually and in mixtures.",
+            "[[prepared]]2. Measure the accessibility of their flowers to Tuta parasitoids.",
+            "[[prepared]]3. Determine flowering schedules across different production cycles.",
+            "[[prepared]]4. Study hosting of whiteflies, thrips, and aphids.",
+            "[[prepared]]5. Measure movement of natural enemies from the belt into tomato.",
+            "[[prepared]]6. Evaluate Trichogramma near and far from the belt.",
+            "[[prepared]]7. Evaluate Necremnus tutae and local parasitoids.",
+            "[[prepared]]8. Study mirid predators.",
+            "[[prepared]]9. Compare external belts with internal strips.",
+            "[[prepared]]10. Determine the minimum area providing economic benefit.",
+            "[[prepared]]11. Evaluate water use.",
+            "[[prepared]]12. Measure effects of pesticide drift.",
+            "[[prepared]]13. Test buckwheat, sweet alyssum, and local plants.",
+            "[[prepared]]14. Study belts in processing tomatoes.",
+            "[[prepared]]15. Study belts in fresh-market tomatoes.",
+            "[[prepared]]16. Calculate costs for one and ten feddans.",
+            "[[prepared]]17. Evaluate the potential to market belt plants.",
+            "[[prepared]]18. Measure effects over more than one season.",
+            "[[prepared]]19. Study the surrounding agricultural landscape.",
+            "[[prepared]]20. Develop locally data-based recommendations rather than assumed ratios."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Summary of Section Sixteen"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A biological belt is a planned vegetation structure intended to support and conserve natural enemies within the agroecosystem.",
+          "prepared_text": "[[prepared]]A biological belt is a planned vegetation structure intended to support and conserve natural enemies within the agroecosystem."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It operates through:",
+          "prepared_text": "[[prepared]]It operates through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Provision of nectar.",
+            "Provision of pollen.",
+            "Provision of alternative prey.",
+            "Provision of shelter.",
+            "Improvement of ecological connectivity.",
+            "Increased survival of parasitoids and predators."
+          ],
+          "prepared_items": [
+            "[[prepared]]Provision of nectar.",
+            "[[prepared]]Provision of pollen.",
+            "[[prepared]]Provision of alternative prey.",
+            "[[prepared]]Provision of shelter.",
+            "[[prepared]]Improvement of ecological connectivity.",
+            "[[prepared]]Increased survival of parasitoids and predators."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A biological belt is not a direct method for killing Tuta absoluta and does not alone guarantee reduced infestation or fruit protection.",
+          "prepared_text": "[[prepared]]A biological belt is not a direct method for killing Tuta absoluta and does not alone guarantee reduced infestation or fruit protection."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The natural enemy should benefit from the plant more than the pest does, nectar should be accessible, and flowering should coincide with periods of beneficial-organism activity.",
+          "prepared_text": "[[prepared]]The natural enemy should benefit from the plant more than the pest does, nectar should be accessible, and flowering should coincide with periods of beneficial-organism activity."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies have shown that buckwheat and sweet alyssum were among the most beneficial plants for some larval parasitoids of Tuta, particularly Necremnus tutae and Bracon nigricans, although parasitoid responses differed among species.",
+          "prepared_text": "[[prepared]]Studies have shown that buckwheat and sweet alyssum were among the most beneficial plants for some larval parasitoids of Tuta, particularly Necremnus tutae and Bracon nigricans, although parasitoid responses differed among species."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field studies also showed that flowering mixtures may increase parasitoid and beneficial-insect abundance along processing-tomato field margins, but increased beneficial abundance does not always result in a direct decline in pest incidence.",
+          "prepared_text": "[[prepared]]Field studies also showed that flowering mixtures may increase parasitoid and beneficial-insect abundance along processing-tomato field margins, but increased beneficial abundance does not always result in a direct decline in pest incidence."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A mixture of:",
+          "prepared_text": "[[prepared]]A mixture of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "50% dill.",
+            "30% coriander.",
+            "20% basil."
+          ],
+          "prepared_items": [
+            "[[prepared]]50% dill.",
+            "[[prepared]]30% coriander.",
+            "[[prepared]]20% basil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Is proposed for testing as an experimental Egyptian model, with proportions calculated by area or strip length rather than seed weight.",
+          "prepared_text": "[[prepared]]Is proposed for testing as an experimental Egyptian model, with proportions calculated by area or strip length rather than seed weight."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Belt design should include:",
+          "prepared_text": "[[prepared]]Belt design should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Staggered planting.",
+            "Continuous flowering.",
+            "A separate irrigation line.",
+            "Protection from pesticides.",
+            "Pest monitoring.",
+            "Evaluation of movement into tomato.",
+            "Cost-and-return analysis."
+          ],
+          "prepared_items": [
+            "[[prepared]]Staggered planting.",
+            "[[prepared]]Continuous flowering.",
+            "[[prepared]]A separate irrigation line.",
+            "[[prepared]]Protection from pesticides.",
+            "[[prepared]]Pest monitoring.",
+            "[[prepared]]Evaluation of movement into tomato.",
+            "[[prepared]]Cost-and-return analysis."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The belt should not be considered successful merely because flowers or beneficial insects are present. Success requires demonstrated improvement in:",
+          "prepared_text": "[[prepared]]The belt should not be considered successful merely because flowers or beneficial insects are present. Success requires demonstrated improvement in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Parasitism.",
+            "Predation.",
+            "Tuta abundance.",
+            "Fruit infestation.",
+            "Number of sprays.",
+            "Accepted yield.",
+            "Economic viability."
+          ],
+          "prepared_items": [
+            "[[prepared]]Parasitism.",
+            "[[prepared]]Predation.",
+            "[[prepared]]Tuta abundance.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Number of sprays.",
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Economic viability."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The biological belt is not field decoration. It is a functional component requiring scientific design, management, and measurement.",
+          "prepared_text": "[[prepared]]The biological belt is not field decoration. It is a functional component requiring scientific design, management, and measurement."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-16-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Arnó, J., Oveja, M. F., & Gabarra, R. (2018). Selection of flowering plants to enhance the biological control of Tuta absoluta using parasitoids. Biological Control, 122, 41–50. DOI: 10.1016/j.biocontrol.2018.03.016.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "Balzan, M. V., & Wäckers, F. L. (2013). Flowers to selectively enhance the fitness of a host-feeding parasitoid: Adult feeding by Tuta absoluta and its parasitoid Necremnus artynes. Biological Control, 67, 21–31.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Kati, V., Karamaouna, F., Economou, L., Mylona, P. V., Samara, M., Mitroiu, M.-D., Barda, M., Edwards, M., & Liberopoulou, S. (2021). Sown wildflowers enhance habitats of pollinators and beneficial arthropods in a tomato field margin. Plants, 10, 1003. DOI: 10.3390/plants10051003.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Kati, V., Stathakis, T., Economou, L., Mylonas, P., Barda, M., Angelioudakis, T., Parlapani, A. B., Tsamis, I., & Karamaouna, F. (2025). Processing tomato crop benefits from flowering plants in field margins that support pollinators and natural enemies. Agronomy, 15, 1558. DOI: 10.3390/agronomy15071558.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "Yarou, B. B., Bawin, T., Boullis, A., Heukin, S., Lognay, G., Verheggen, F. J., & Francis, F. (2018). Oviposition deterrent activity of basil plants and their essential oils against Tuta absoluta. Environmental Science and Pollution Research, 25, 29880–29888. DOI: 10.1007/s11356-017-9795-6.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "Landis, D. A., Wratten, S. D., & Gurr, G. M. (2000). Habitat management to conserve natural enemies of arthropod pests in agriculture. Annual Review of Entomology, 45, 175–201. DOI: 10.1146/annurev.ento.45.1.175.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Lu, Z. X., Zhu, P. Y., Gurr, G. M., Zheng, X. S., Chen, G. H., & Heong, K. L. (2014). Mechanisms for flowering plants to benefit arthropod natural enemies of insect pests: Prospects for enhanced use in agriculture. Insect Science, 21, 1–12.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Gurr, G. M., Wratten, S. D., Landis, D. A., & You, M. (2017). Habitat management to suppress pest populations: Progress and prospects. Annual Review of Entomology, 62, 91–109.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Benelli, G., Giunti, G., Tena, A., Desneux, N., Caselli, A., & Canale, A. (2017). The impact of adult diet on parasitoid reproductive performance. Journal of Pest Science, 90, 807–823.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Ferracini, C., Bueno, V. H. P., Dindo, M. L., Ingegno, B. L., Luna, M. G., Salas Gervassio, N. G., Sánchez, N. E., Siscaro, G., van Lenteren, J. C., Zappalà, L., & Tavella, L. (2019). Natural enemies of Tuta absoluta in the Mediterranean basin, Europe and South America. Biocontrol Science and Technology, 29, 578–609. DOI: 10.1080/09583157.2019.1572711.",
+              "url": ""
+            },
+            {
+              "number": 11,
+              "text": "Desneux, N., Han, P., Mansour, R., et al. (2022). Integrated pest management of Tuta absoluta: Practical implementations across different world regions. Journal of Pest Science, 95, 17–39. DOI: 10.1007/s10340-021-01442-8.",
+              "url": ""
+            },
+            {
+              "number": 12,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F. H., & Desneux, N. (2018). Ecology, worldwide spread, and management of the invasive South American tomato pinworm, Tuta absoluta. Annual Review of Entomology, 63, 239–258.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Novaes, D. R., Baraldini, J. G. N., & Togni, P. H. B. (2026). Spatial scale mismatches between pest and natural enemies challenge conservation biological control in tropical organic agroecosystems. Journal of Pest Science, 99, Article 79.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "Colazza, S., Peri, E., & Cusumano, A. (2023). Chemical ecology of floral resources in conservation biological control. Annual Review of Entomology, 68, 13–29.",
+              "url": ""
+            },
+            {
+              "number": 15,
+              "text": "Messelink, G. J., et al. (2021). Biodiversity in and around greenhouses: Benefits and potential risks for pest management. Insects, 12, 933.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 16,
+        "part_title": "Section Sixteen: Biological Belts and Plants Supporting Natural Enemies",
+        "part_subtitle": "Biological Belts, Insectary Plants and Conservation Biological Control"
+      }
+    }
+  ]
+}
