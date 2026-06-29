@@ -1,0 +1,3985 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 5,
+  "part_title": "Section Five: Cultural Control",
+  "part_short_title": "Cultural Control",
+  "part_subtitle": "Cultural Control of Tuta absoluta",
+  "content_path": "tuta/9/5.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural control is one of the principal pillars of integrated management of Tuta absoluta because it targets the environment in which the pest lives and the sources that sustain it, rather than relying solely on killing individuals present on plants at the time of treatment.",
+          "prepared_text": "[[prepared]]Cultural control is one of the principal pillars of integrated management of Tuta absoluta because it targets the environment in which the pest lives and the sources that sustain it, rather than relying solely on killing individuals present on plants at the time of treatment."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural control includes all practices related to field selection, crop rotation, planting dates, sanitation, management of alternative hosts, irrigation, fertilization, plant density, harvesting, and disposal of crop residues.",
+          "prepared_text": "[[prepared]]Cultural control includes all practices related to field selection, crop rotation, planting dates, sanitation, management of [[term:alternative-host]]alternative hosts[[/term]], irrigation, fertilization, plant density, harvesting, and disposal of crop residues."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These practices generally do not function as rapid eradication methods. Instead, they act to:",
+          "prepared_text": "[[prepared]]These practices generally do not function as rapid [[term:eradication]]eradication[[/term]] methods. Instead, they act to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduce the pest’s initial population.",
+            "Delay establishment within the field.",
+            "Reduce the number of generations the pest can complete.",
+            "Remove eggs, larvae, and pupae.",
+            "Prevent persistence of the green bridge.",
+            "Reduce immigration from old fields.",
+            "Improve the plant’s ability to tolerate injury.",
+            "Facilitate monitoring and penetration of control measures.",
+            "Conserve natural enemies.",
+            "Reduce the need for chemical sprays."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduce the pest’s initial population.",
+            "[[prepared]]Delay establishment within the field.",
+            "[[prepared]]Reduce the number of generations the pest can complete.",
+            "[[prepared]]Remove eggs, larvae, and [[term:pupation]]pupae[[/term]].",
+            "[[prepared]]Prevent persistence of the [[term:green-bridge]]green bridge[[/term]].",
+            "[[prepared]]Reduce immigration from old fields.",
+            "[[prepared]]Improve the plant’s ability to tolerate injury.",
+            "[[prepared]]Facilitate monitoring and penetration of control measures.",
+            "[[prepared]]Conserve [[term:biological-control]]natural enemies[[/term]].",
+            "[[prepared]]Reduce the need for chemical sprays."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural control affects more than one pest stage, and most of its components can be implemented before infestation reaches a high level.",
+          "prepared_text": "[[prepared]]Cultural control affects more than one pest stage, and most of its components can be implemented before infestation reaches a high level."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, it usually does not provide complete control when used alone, especially in areas with overlapping planting seasons and continuous immigration sources. It must therefore be integrated with monitoring and biological, behavioral, and rational chemical control.",
+          "prepared_text": "[[prepared]]However, it usually does not provide complete control when used alone, especially in areas with overlapping planting seasons and continuous immigration sources. It must therefore be integrated with monitoring and biological, behavioral, and rational chemical control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Objectives of Cultural Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural control aims to:",
+          "prepared_text": "[[prepared]]Cultural control aims to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Interrupt host continuity between seasons.",
+            "2. Reduce sources of eggs, larvae, and pupae.",
+            "3. Prevent old fields from producing moths that migrate into new crops.",
+            "4. Remove volunteer tomato plants and important alternative hosts.",
+            "5. Reduce overlap among solanaceous crops.",
+            "6. Reduce field suitability for pest reproduction.",
+            "7. Produce a balanced plant capable of tolerating limited infestation.",
+            "8. Avoid excessive vegetative growth that hinders inspection and coverage.",
+            "9. Facilitate early detection of infestation foci.",
+            "10. Maintain canopy cover that protects fruits from sunlight.",
+            "11. Prevent accumulation of infested fruits and crop residues.",
+            "12. Reduce pest pressure at the production-area level."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Interrupt host continuity between seasons.",
+            "[[prepared]]2. Reduce sources of eggs, larvae, and pupae.",
+            "[[prepared]]3. Prevent old fields from producing moths that migrate into new crops.",
+            "[[prepared]]4. Remove volunteer tomato plants and important alternative hosts.",
+            "[[prepared]]5. Reduce overlap among solanaceous crops.",
+            "[[prepared]]6. Reduce field suitability for pest reproduction.",
+            "[[prepared]]7. Produce a balanced plant capable of tolerating limited infestation.",
+            "[[prepared]]8. Avoid excessive vegetative growth that hinders inspection and coverage.",
+            "[[prepared]]9. Facilitate early detection of infestation foci.",
+            "[[prepared]]10. Maintain canopy cover that protects fruits from sunlight.",
+            "[[prepared]]11. Prevent accumulation of infested fruits and crop residues.",
+            "[[prepared]]12. Reduce pest pressure at the production-area level."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Position of Cultural Control Within the IPM Program"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural control begins before planting and continues until after harvest ends.",
+          "prepared_text": "[[prepared]]Cultural control begins before planting and continues until after harvest ends."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It can be divided chronologically into:",
+          "prepared_text": "[[prepared]]It can be divided chronologically into:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Before Planting"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Site selection.",
+            "Assessment of the previous crop.",
+            "Implementation of crop rotation.",
+            "Disposal of residues from the previous crop.",
+            "Removal of volunteer plants.",
+            "Management of host weeds.",
+            "Coordination of planting date.",
+            "Establishment of a host-free period."
+          ],
+          "prepared_items": [
+            "[[prepared]]Site selection.",
+            "[[prepared]]Assessment of the previous crop.",
+            "[[prepared]]Implementation of crop rotation.",
+            "[[prepared]]Disposal of residues from the previous crop.",
+            "[[prepared]]Removal of volunteer plants.",
+            "[[prepared]]Management of host weeds.",
+            "[[prepared]]Coordination of planting date.",
+            "[[prepared]]Establishment of a host-free period."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "During the Season"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Removal of infestation foci and infested plant parts when appropriate.",
+            "Irrigation and fertilization management.",
+            "Maintenance of suitable plant density.",
+            "Prevention of accumulation of infested fruits.",
+            "Field-edge management.",
+            "Monitoring of alternative hosts and neighboring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removal of infestation foci and infested plant parts when appropriate.",
+            "[[prepared]]Irrigation and fertilization management.",
+            "[[prepared]]Maintenance of suitable plant density.",
+            "[[prepared]]Prevention of accumulation of infested fruits.",
+            "[[prepared]]Field-edge management.",
+            "[[prepared]]Monitoring of alternative hosts and neighboring fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "After Harvest"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Termination of the crop at the appropriate time.",
+            "Collection of fruits left in the field.",
+            "Shredding or removal of plants.",
+            "Appropriate soil cultivation.",
+            "Removal of regrowth.",
+            "Prevention of a new generation after production has stopped."
+          ],
+          "prepared_items": [
+            "[[prepared]]Termination of the crop at the appropriate time.",
+            "[[prepared]]Collection of fruits left in the field.",
+            "[[prepared]]Shredding or removal of plants.",
+            "[[prepared]]Appropriate soil cultivation.",
+            "[[prepared]]Removal of regrowth.",
+            "[[prepared]]Prevention of a new generation after production has stopped."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Crop Rotation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crop rotation means avoiding continuous planting of tomato or suitable hosts of Tuta absoluta in the same field.",
+          "prepared_text": "[[prepared]]Crop rotation means avoiding continuous planting of tomato or suitable hosts of Tuta absoluta in the same field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rotation is more effective when tomato is followed by a non-solanaceous crop on which the pest cannot complete its life cycle.",
+          "prepared_text": "[[prepared]]Rotation is more effective when tomato is followed by a non-solanaceous crop on which the pest cannot complete its life cycle."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Examples of crops that may be included in the rotation, according to region and production system, include:",
+          "prepared_text": "[[prepared]]Examples of crops that may be included in the rotation, according to region and production system, include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Wheat and barley.",
+            "Maize.",
+            "Brassica crops.",
+            "Onion and garlic.",
+            "Some legumes.",
+            "Other crops locally confirmed not to be complete hosts of the pest."
+          ],
+          "prepared_items": [
+            "[[prepared]]Wheat and barley.",
+            "[[prepared]]Maize.",
+            "[[prepared]]Brassica crops.",
+            "[[prepared]]Onion and garlic.",
+            "[[prepared]]Some legumes.",
+            "[[prepared]]Other crops locally confirmed not to be complete hosts of the pest."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Changing only the cultivar or shifting from processing tomatoes to fresh-market tomatoes is insufficient because both belong to the same plant species and support the pest life cycle.",
+          "prepared_text": "[[prepared]]Changing only the cultivar or shifting from processing tomatoes to fresh-market tomatoes is insufficient because both belong to the same plant species and support the pest life cycle."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Crops That Do Not Adequately Break the Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Planting the following solanaceous crops immediately after tomato does not fully break the pest cycle:",
+          "prepared_text": "[[prepared]]Planting the following solanaceous crops immediately after tomato does not fully break the pest cycle:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Potato.",
+            "Eggplant.",
+            "African eggplant.",
+            "Pepino.",
+            "Some cultivated or wild Solanum species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Potato.",
+            "[[prepared]]Eggplant.",
+            "[[prepared]]African eggplant.",
+            "[[prepared]]Pepino.",
+            "[[prepared]]Some cultivated or wild Solanum species."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest can complete its life cycle on several of these plants, although they may be less suitable than tomato.",
+          "prepared_text": "[[prepared]]The pest can complete its life cycle on several of these plants, although they may be less suitable than tomato."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pepper is generally far less suitable and results are inconsistent among studies. Nevertheless, it should not be relied upon alone as a guaranteed barrier in a heavily infested area without field monitoring.",
+          "prepared_text": "[[prepared]]Pepper is generally far less suitable and results are inconsistent among studies. Nevertheless, it should not be relied upon alone as a guaranteed barrier in a heavily infested area without field monitoring."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Conditions Required for Successful Crop Rotation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crop rotation fails to reduce the pest when:",
+          "prepared_text": "[[prepared]]Crop rotation fails to reduce the pest when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tomato residues remain in the field.",
+            "Volunteer tomato plants emerge.",
+            "Black nightshade persists along field edges.",
+            "Old tomato fields remain immediately adjacent.",
+            "Infested greenhouses or nurseries persist in the area.",
+            "Infested transplants are moved into the next crop.",
+            "A suitable solanaceous crop is planted directly afterward."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato residues remain in the field.",
+            "[[prepared]]Volunteer tomato plants emerge.",
+            "[[prepared]]Black nightshade persists along field edges.",
+            "[[prepared]]Old tomato fields remain immediately adjacent.",
+            "[[prepared]]Infested greenhouses or nurseries persist in the area.",
+            "[[prepared]]Infested transplants are moved into the next crop.",
+            "[[prepared]]A suitable solanaceous crop is planted directly afterward."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An effective rotation therefore consists of three interrelated elements:",
+          "prepared_text": "[[prepared]]An effective rotation therefore consists of three interrelated elements:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Removal of the previous host.",
+            "2. Absence of confirmed alternative hosts.",
+            "3. A period during which the pest cannot reproduce successfully."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Removal of the previous host.",
+            "[[prepared]]2. Absence of confirmed alternative hosts.",
+            "[[prepared]]3. A period during which the pest cannot reproduce successfully."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Host-Free Period"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A host-free period is one of the strongest cultural measures at the area-wide level.",
+          "prepared_text": "[[prepared]]A host-free period is one of the strongest cultural measures at the area-wide level."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It means the absence of plants capable of supporting the pest life cycle, including:",
+          "prepared_text": "[[prepared]]It means the absence of plants capable of supporting the pest life cycle, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Commercial tomato crops.",
+            "Volunteer tomato plants.",
+            "Infested potato.",
+            "Infested eggplant.",
+            "Black nightshade.",
+            "Confirmed wild solanaceous hosts."
+          ],
+          "prepared_items": [
+            "[[prepared]]Commercial tomato crops.",
+            "[[prepared]]Volunteer tomato plants.",
+            "[[prepared]]Infested potato.",
+            "[[prepared]]Infested eggplant.",
+            "[[prepared]]Black nightshade.",
+            "[[prepared]]Confirmed wild [[term:solanaceae]]solanaceous hosts[[/term]]."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A host-free period helps to:",
+          "prepared_text": "[[prepared]]A host-free period helps to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Prevent oviposition.",
+            "Deprive larvae of food.",
+            "Prevent production of successive generations.",
+            "Reduce moth numbers before the next crop.",
+            "Break the green bridge between planting seasons."
+          ],
+          "prepared_items": [
+            "[[prepared]]Prevent oviposition.",
+            "[[prepared]]Deprive larvae of food.",
+            "[[prepared]]Prevent production of successive generations.",
+            "[[prepared]]Reduce moth numbers before the next crop.",
+            "[[prepared]]Break the green bridge between planting seasons."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single fixed duration is suitable for every region because success is affected by temperature, pupal survival, wild hosts, and overlapping greenhouses and nurseries.",
+          "prepared_text": "[[prepared]]No single fixed duration is suitable for every region because success is affected by temperature, pupal survival, wild hosts, and overlapping greenhouses and nurseries."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The period loses its value when commercial tomato is absent but volunteer tomato plants or host weeds remain.",
+          "prepared_text": "[[prepared]]The period loses its value when commercial tomato is absent but volunteer tomato plants or host weeds remain."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Organization of Crop Succession"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crop succession should be considered at the production-area level rather than only at the individual-field level.",
+          "prepared_text": "[[prepared]]Crop succession should be considered at the production-area level rather than only at the individual-field level."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A tomato crop may end in one field while neighboring fields contain:",
+          "prepared_text": "[[prepared]]A tomato crop may end in one field while neighboring fields contain:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Transplants for a new planting season.",
+            "Tomato in the vegetative stage.",
+            "A potato crop.",
+            "Long-duration eggplant.",
+            "An old field still bearing a limited number of fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Transplants for a new planting season.",
+            "[[prepared]]Tomato in the vegetative stage.",
+            "[[prepared]]A potato crop.",
+            "[[prepared]]Long-duration eggplant.",
+            "[[prepared]]An old field still bearing a limited number of fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This overlap permits continuous movement of the pest from one host to another.",
+          "prepared_text": "[[prepared]]This overlap permits continuous movement of the pest from one host to another."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should preferably be coordinated:",
+          "prepared_text": "[[prepared]]The following should preferably be coordinated:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dates on which old crops end.",
+            "Timing of crop-residue removal.",
+            "Transplant-production dates.",
+            "Transplanting date for the next crop.",
+            "Intervals between solanaceous crops."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dates on which old crops end.",
+            "[[prepared]]Timing of crop-residue removal.",
+            "[[prepared]]Transplant-production dates.",
+            "[[prepared]]Transplanting date for the next crop.",
+            "[[prepared]]Intervals between solanaceous crops."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Planting Dates"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Planting date can affect crop exposure to Tuta absoluta through:",
+          "prepared_text": "[[prepared]]Planting date can affect crop exposure to Tuta absoluta through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Synchronization with flight peaks.",
+            "Number of generations possible during the season.",
+            "Presence of neighboring old fields.",
+            "Temperature during sensitive crop stages.",
+            "Length of time the crop remains in the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Synchronization with flight peaks.",
+            "[[prepared]]Number of generations possible during the season.",
+            "[[prepared]]Presence of neighboring old fields.",
+            "[[prepared]]Temperature during sensitive crop stages.",
+            "[[prepared]]Length of time the crop remains in the field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no universal planting date that prevents infestation because pest abundance and climate differ among regions.",
+          "prepared_text": "[[prepared]]There is no universal planting date that prevents infestation because pest abundance and climate differ among regions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The best date should be determined locally using:",
+          "prepared_text": "[[prepared]]The best date should be determined locally using:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap records from several seasons.",
+            "Historical timing of pest arrival in the area.",
+            "Dates of removal of old crops.",
+            "Expected temperatures.",
+            "Supply or marketing schedules.",
+            "Cultivar duration."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap records from several seasons.",
+            "[[prepared]]Historical timing of pest arrival in the area.",
+            "[[prepared]]Dates of removal of old crops.",
+            "[[prepared]]Expected temperatures.",
+            "[[prepared]]Supply or marketing schedules.",
+            "[[prepared]]Cultivar duration."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Early or Late Planting"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Early planting may provide an advantage in an area where pest numbers rise late, allowing plants to reach advanced stages before infestation peaks.",
+          "prepared_text": "[[prepared]]Early planting may provide an advantage in an area where pest numbers rise late, allowing plants to reach advanced stages before infestation peaks."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, early planting may be more hazardous when:",
+          "prepared_text": "[[prepared]]However, early planting may be more hazardous when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "It coincides with heavily infested old fields.",
+            "Infested transplants are introduced.",
+            "Moth activity begins early.",
+            "A long growing season allows more generations to develop."
+          ],
+          "prepared_items": [
+            "[[prepared]]It coincides with heavily infested old fields.",
+            "[[prepared]]Infested transplants are introduced.",
+            "[[prepared]]Moth activity begins early.",
+            "[[prepared]]A long growing season allows more generations to develop."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Late planting may be exposed to heavy immigration from previous fields where control has stopped.",
+          "prepared_text": "[[prepared]]Late planting may be exposed to heavy immigration from previous fields where control has stopped."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision to plant early or late should therefore be based on temporal analysis of trap data and surrounding planting seasons, rather than a general rule.",
+          "prepared_text": "[[prepared]]The decision to plant early or late should therefore be based on temporal analysis of trap data and surrounding planting seasons, rather than a general rule."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cultivar Cycle Length"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The longer a cultivar remains in the field, the longer it is exposed to:",
+          "prepared_text": "[[prepared]]The longer a cultivar remains in the field, the longer it is exposed to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Oviposition.",
+            "Successive generations.",
+            "Moth immigration.",
+            "Accumulation of mines.",
+            "Fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Oviposition.",
+            "[[prepared]]Successive generations.",
+            "[[prepared]]Moth immigration.",
+            "[[prepared]]Accumulation of [[term:mines]]mines[[/term]].",
+            "[[prepared]]Fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Short-cycle cultivars may be exposed to fewer generations under some conditions, but cultivar selection does not depend on Tuta alone. It also depends on:",
+          "prepared_text": "[[prepared]]Short-cycle cultivars may be exposed to fewer generations under some conditions, but cultivar selection does not depend on Tuta alone. It also depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Yield.",
+            "Quality.",
+            "Climatic adaptation.",
+            "Processing or fresh-market use.",
+            "Disease resistance.",
+            "Factory or market schedules."
+          ],
+          "prepared_items": [
+            "[[prepared]]Yield.",
+            "[[prepared]]Quality.",
+            "[[prepared]]Climatic adaptation.",
+            "[[prepared]]Processing or fresh-market use.",
+            "[[prepared]]Disease resistance.",
+            "[[prepared]]Factory or market schedules."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No commercial cultivar is completely immune to the pest.",
+          "prepared_text": "[[prepared]]No commercial cultivar is completely immune to the pest."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Field-Site Selection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When alternatives are available, new tomato fields should preferably not be established beside:",
+          "prepared_text": "[[prepared]]When alternatives are available, new tomato fields should preferably not be established beside:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A heavily infested old tomato field.",
+            "A field in which spraying has stopped.",
+            "Unmanaged crop residues.",
+            "An infested nursery.",
+            "A sorting station discarding damaged fruits.",
+            "Piles of tomato-processing waste.",
+            "Large areas of volunteer tomato plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]A heavily infested old tomato field.",
+            "[[prepared]]A field in which spraying has stopped.",
+            "[[prepared]]Unmanaged crop residues.",
+            "[[prepared]]An infested nursery.",
+            "[[prepared]]A sorting station discarding damaged fruits.",
+            "[[prepared]]Piles of tomato-processing waste.",
+            "[[prepared]]Large areas of volunteer tomato plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A map of risk sources should be used to identify the most exposed field edges, distribute traps, and intensify inspection.",
+          "prepared_text": "[[prepared]]A map of risk sources should be used to identify the most exposed field edges, distribute traps, and intensify inspection."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Distance alone does not prevent immigration, but it may reduce pressure when integrated with source management.",
+          "prepared_text": "[[prepared]]Distance alone does not prevent immigration, but it may reduce pressure when integrated with source management."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Agricultural Sanitation During the Season"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Agricultural sanitation means removing tissues and sources containing living pest stages, not merely making the field appear visually clean.",
+          "prepared_text": "[[prepared]]Agricultural sanitation means removing tissues and sources containing living pest stages, not merely making the field appear visually clean."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It includes:",
+          "prepared_text": "[[prepared]]It includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Removal of severely infested transplants.",
+            "Collection of severely infested growing points.",
+            "Removal of infested and fallen fruits.",
+            "Prevention of accumulation of infested tomato leaves.",
+            "Removal of volunteer plants.",
+            "Management of host weeds.",
+            "Cleaning sorting areas.",
+            "Preventing rejected fruits from being discarded between rows."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removal of severely infested transplants.",
+            "[[prepared]]Collection of severely infested growing points.",
+            "[[prepared]]Removal of infested and fallen fruits.",
+            "[[prepared]]Prevention of accumulation of infested tomato leaves.",
+            "[[prepared]]Removal of volunteer plants.",
+            "[[prepared]]Management of host weeds.",
+            "[[prepared]]Cleaning sorting areas.",
+            "[[prepared]]Preventing rejected fruits from being discarded between rows."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sanitation must be implemented in a manner that does not transfer infestation elsewhere.",
+          "prepared_text": "[[prepared]]Sanitation must be implemented in a manner that does not transfer infestation elsewhere."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Removal of Infested Leaves"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A limited number of heavily infested leaves may be removed when:",
+          "prepared_text": "[[prepared]]A limited number of heavily infested leaves may be removed when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation is localized.",
+            "Leaves can be collected without scattering them.",
+            "Field size permits the operation.",
+            "Removal will not eliminate a large leaf area.",
+            "Leaves are collected in a closed container."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation is localized.",
+            "[[prepared]]Leaves can be collected without scattering them.",
+            "[[prepared]]Field size permits the operation.",
+            "[[prepared]]Removal will not eliminate a large leaf area.",
+            "[[prepared]]Leaves are collected in a closed container."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Removing every leaf bearing a small mine is not recommended because it may cause:",
+          "prepared_text": "[[prepared]]Removing every leaf bearing a small mine is not recommended because it may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Loss of photosynthetic area.",
+            "Fruit exposure to sunlight.",
+            "Increased sunscald.",
+            "Higher labor costs.",
+            "Plant weakening.",
+            "Spread of larvae during handling."
+          ],
+          "prepared_items": [
+            "[[prepared]]Loss of photosynthetic area.",
+            "[[prepared]]Fruit exposure to sunlight.",
+            "[[prepared]]Increased sunscald.",
+            "[[prepared]]Higher labor costs.",
+            "[[prepared]]Plant weakening.",
+            "[[prepared]]Spread of larvae during handling."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Removal is more rational at the beginning of a focus and less practical after infestation spreads throughout the field.",
+          "prepared_text": "[[prepared]]Removal is more rational at the beginning of a focus and less practical after infestation spreads throughout the field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Removal of Infested Growing Points and Buds"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An infested growing point may be removed when:",
+          "prepared_text": "[[prepared]]An infested growing point may be removed when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "It contains a larva or obvious frass.",
+            "Infestation is limited.",
+            "Alternative shoots can continue growth.",
+            "The plant-training system allows removal."
+          ],
+          "prepared_items": [
+            "[[prepared]]It contains a larva or obvious [[term:frass]]frass[[/term]].",
+            "[[prepared]]Infestation is limited.",
+            "[[prepared]]Alternative shoots can continue growth.",
+            "[[prepared]]The plant-training system allows removal."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, growing-point removal is not suitable for every determinate processing-tomato system because it may affect cluster number and plant architecture.",
+          "prepared_text": "[[prepared]]However, growing-point removal is not suitable for every determinate processing-tomato system because it may affect cluster number and plant architecture."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The operation should not become indiscriminate broad pruning.",
+          "prepared_text": "[[prepared]]The operation should not become indiscriminate broad pruning."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Collection of Infested Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruits should be collected when they have:",
+          "prepared_text": "[[prepared]]Fruits should be collected when they have:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Entry or exit holes.",
+            "Live larvae.",
+            "Obvious tunnels.",
+            "Secondary rots.",
+            "Fallen because of infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Entry or exit holes.",
+            "[[prepared]]Live larvae.",
+            "[[prepared]]Obvious tunnels.",
+            "[[prepared]]Secondary rots.",
+            "[[prepared]]Fallen because of infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Collection is important because an infested fruit may contain a larva capable of:",
+          "prepared_text": "[[prepared]]Collection is important because an infested fruit may contain a larva capable of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Completing feeding.",
+            "Exiting and pupating.",
+            "Moving into another fruit."
+          ],
+          "prepared_items": [
+            "[[prepared]]Completing feeding.",
+            "[[prepared]]Exiting and pupating.",
+            "[[prepared]]Moving into another fruit."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rejected fruits should not be left in:",
+          "prepared_text": "[[prepared]]Rejected fruits should not be left in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Walkways.",
+            "Field edges.",
+            "Loading areas.",
+            "Near irrigation sources.",
+            "Open piles."
+          ],
+          "prepared_items": [
+            "[[prepared]]Walkways.",
+            "[[prepared]]Field edges.",
+            "[[prepared]]Loading areas.",
+            "[[prepared]]Near irrigation sources.",
+            "[[prepared]]Open piles."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Handling Removed Plant Material"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cutting an infested plant part and dropping it on the soil is insufficient.",
+          "prepared_text": "[[prepared]]Cutting an infested plant part and dropping it on the soil is insufficient."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Possible disposal methods include:",
+          "prepared_text": "[[prepared]]Possible disposal methods include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collection in sealed bags or containers.",
+            "Fine shredding followed by a treatment that prevents survival of pest stages.",
+            "Burial at a suitable depth where regulations and soil conditions permit.",
+            "Thermophilic composting that reaches temperatures sufficient to kill the pest.",
+            "Tight covering and exposure to high temperatures until decomposition occurs.",
+            "Transport to a treatment site away from tomato fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collection in sealed bags or containers.",
+            "[[prepared]]Fine shredding followed by a treatment that prevents survival of pest stages.",
+            "[[prepared]]Burial at a suitable depth where regulations and soil conditions permit.",
+            "[[prepared]]Thermophilic composting that reaches temperatures sufficient to kill the pest.",
+            "[[prepared]]Tight covering and exposure to high temperatures until decomposition occurs.",
+            "[[prepared]]Transport to a treatment site away from tomato fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Open burning is not recommended as a general practice because of pollution and fire risk. It should be used only where officially permitted and under safety controls.",
+          "prepared_text": "[[prepared]]Open burning is not recommended as a general practice because of pollution and fire risk. It should be used only where officially permitted and under safety controls."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Volunteer Tomato Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Volunteer tomatoes are among the most dangerous components of the green bridge because they are the principal host itself.",
+          "prepared_text": "[[prepared]]Volunteer tomatoes are among the most dangerous components of the green bridge because they are the principal host itself."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They originate from:",
+          "prepared_text": "[[prepared]]They originate from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fallen fruits.",
+            "Seeds from the previous season.",
+            "Sorting piles.",
+            "Incompletely decomposed manure or compost.",
+            "Processing residues.",
+            "Fruit-washing areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fallen fruits.",
+            "[[prepared]]Seeds from the previous season.",
+            "[[prepared]]Sorting piles.",
+            "[[prepared]]Incompletely decomposed manure or compost.",
+            "[[prepared]]Processing residues.",
+            "[[prepared]]Fruit-washing areas."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should be removed from:",
+          "prepared_text": "[[prepared]]They should be removed from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fields.",
+            "Drains.",
+            "Field edges.",
+            "Service roads.",
+            "Areas surrounding sorting stations.",
+            "Waste-collection areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fields.",
+            "[[prepared]]Drains.",
+            "[[prepared]]Field edges.",
+            "[[prepared]]Service roads.",
+            "[[prepared]]Areas surrounding sorting stations.",
+            "[[prepared]]Waste-collection areas."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should preferably be removed before producing sufficient vegetative growth to support completion of the pest life cycle.",
+          "prepared_text": "[[prepared]]They should preferably be removed before producing sufficient vegetative growth to support completion of the pest life cycle."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Host Weeds"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Management should focus on species demonstrated to support the complete pest life cycle, particularly:",
+          "prepared_text": "[[prepared]]Management should focus on species demonstrated to support the complete pest life cycle, particularly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Solanum nigrum.",
+            "Solanum sarrachoides where it occurs.",
+            "Solanum coagulans and related species where present.",
+            "Nicotiana glauca.",
+            "Wild solanaceous species actually carrying infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Solanum nigrum.",
+            "[[prepared]]Solanum sarrachoides where it occurs.",
+            "[[prepared]]Solanum coagulans and related species where present.",
+            "[[prepared]]Nicotiana glauca.",
+            "[[prepared]]Wild solanaceous species actually carrying infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "All weeds should not be treated as equally suitable hosts.",
+          "prepared_text": "[[prepared]]All weeds should not be treated as equally suitable hosts."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A distinction should be made among:",
+          "prepared_text": "[[prepared]]A distinction should be made among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A confirmed host.",
+            "A plant supporting only limited experimental infestation.",
+            "A plant on which only a moth was recorded.",
+            "A non-host plant that benefits natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]A confirmed host.",
+            "[[prepared]]A plant supporting only limited experimental infestation.",
+            "[[prepared]]A plant on which only a moth was recorded.",
+            "[[prepared]]A non-[[term:host-plant]]host plant[[/term]] that benefits natural enemies."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Timing of Weed Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Large, infested solanaceous host populations should be prevented from developing near the crop.",
+          "prepared_text": "[[prepared]]Large, infested solanaceous host populations should be prevented from developing near the crop."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, sudden removal of a large infested plant mass may drive adult moths toward recently planted tomato.",
+          "prepared_text": "[[prepared]]However, sudden removal of a large infested plant mass may drive adult moths toward recently planted tomato."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When removing a major source:",
+          "prepared_text": "[[prepared]]When removing a major source:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plants should be collected or shredded immediately.",
+            "They should not be left wilting along the edge.",
+            "Traps and inspections should be intensified in the new field.",
+            "Wind direction should be monitored.",
+            "Timing should be coordinated with neighboring growers.",
+            "Plants should be removed before infestation reaches high density whenever possible."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plants should be collected or shredded immediately.",
+            "[[prepared]]They should not be left wilting along the edge.",
+            "[[prepared]]Traps and inspections should be intensified in the new field.",
+            "[[prepared]]Wind direction should be monitored.",
+            "[[prepared]]Timing should be coordinated with neighboring growers.",
+            "[[prepared]]Plants should be removed before infestation reaches high density whenever possible."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Conservation of Beneficial Non-Host Weeds"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural control does not mean converting the production system into land completely devoid of plants other than tomato.",
+          "prepared_text": "[[prepared]]Cultural control does not mean converting the production system into land completely devoid of plants other than tomato."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some non-host plants may provide:",
+          "prepared_text": "[[prepared]]Some non-host plants may provide:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nectar for parasitoids.",
+            "Pollen for predators.",
+            "Shelter for beneficial insects.",
+            "Ecological diversity that improves natural control."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nectar for parasitoids.",
+            "[[prepared]]Pollen for predators.",
+            "[[prepared]]Shelter for beneficial insects.",
+            "[[prepared]]Ecological diversity that improves natural control."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, they should be confirmed to:",
+          "prepared_text": "[[prepared]]However, they should be confirmed to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Not be a proven Tuta host.",
+            "Not hinder ventilation and inspection.",
+            "Not compete severely with the crop.",
+            "Not harbor other serious pests or diseases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Not be a proven Tuta host.",
+            "[[prepared]]Not hinder ventilation and inspection.",
+            "[[prepared]]Not compete severely with the crop.",
+            "[[prepared]]Not harbor other serious pests or diseases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision should be based on plant identity and function, rather than the general label “weed.”",
+          "prepared_text": "[[prepared]]The decision should be based on plant identity and function, rather than the general label “weed.”"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Old Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An old field retained after economic returns have declined represents a major risk, particularly when:",
+          "prepared_text": "[[prepared]]An old field retained after economic returns have declined represents a major risk, particularly when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spraying stops.",
+            "Green leaves and fruits remain.",
+            "Irrigation continues.",
+            "Infestation increases.",
+            "A new planting is nearby."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spraying stops.",
+            "[[prepared]]Green leaves and fruits remain.",
+            "[[prepared]]Irrigation continues.",
+            "[[prepared]]Infestation increases.",
+            "[[prepared]]A new planting is nearby."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Such fields produce increasing numbers of:",
+          "prepared_text": "[[prepared]]Such fields produce increasing numbers of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Migrating moths.",
+            "Larvae inside fruits.",
+            "Pupae in soil and residues.",
+            "Infestation along neighboring field edges."
+          ],
+          "prepared_items": [
+            "[[prepared]]Migrating moths.",
+            "[[prepared]]Larvae inside fruits.",
+            "[[prepared]]Pupae in soil and residues.",
+            "[[prepared]]Infestation along neighboring field edges."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A clear decision is required:",
+          "prepared_text": "[[prepared]]A clear decision is required:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Either continue managing the crop during the economically productive harvest period.",
+            "Or terminate the crop and remove plants rapidly."
+          ],
+          "prepared_items": [
+            "[[prepared]]Either continue managing the crop during the economically productive harvest period.",
+            "[[prepared]]Or terminate the crop and remove plants rapidly."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Leaving a live field without economically worthwhile harvest or control is one of the most serious area-wide errors.",
+          "prepared_text": "[[prepared]]Leaving a live field without economically worthwhile harvest or control is one of the most serious area-wide errors."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Final Harvest Pickings"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Growers may attempt to retain a field for a limited number of additional harvests, while the value of these pickings becomes lower than the damage caused by the field to the surrounding area.",
+          "prepared_text": "[[prepared]]Growers may attempt to retain a field for a limited number of additional harvests, while the value of these pickings becomes lower than the damage caused by the field to the surrounding area."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision should be evaluated according to:",
+          "prepared_text": "[[prepared]]The decision should be evaluated according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Quantity of remaining fruit.",
+            "Infestation percentage.",
+            "Crop price.",
+            "Harvesting and control costs.",
+            "Proximity of new plantings.",
+            "Ability of the field to produce new moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Quantity of remaining fruit.",
+            "[[prepared]]Infestation percentage.",
+            "[[prepared]]Crop price.",
+            "[[prepared]]Harvesting and control costs.",
+            "[[prepared]]Proximity of new plantings.",
+            "[[prepared]]Ability of the field to produce new moths."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In contracted projects or clustered production areas, the impact of the field on neighboring growers should be included in the decision, not only the profit of the individual field.",
+          "prepared_text": "[[prepared]]In contracted projects or clustered production areas, the impact of the field on neighboring growers should be included in the decision, not only the profit of the individual field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Removal of Crop Residues After Harvest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crop residues may contain:",
+          "prepared_text": "[[prepared]]Crop residues may contain:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Larvae inside leaves.",
+            "Larvae inside growing points and stems.",
+            "Larvae inside fruits.",
+            "Pupae between leaves or on the soil surface."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Larvae inside leaves.",
+            "[[prepared]]Larvae inside growing points and stems.",
+            "[[prepared]]Larvae inside fruits.",
+            "[[prepared]]Pupae between leaves or on the soil surface."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Residues should therefore be removed or destroyed immediately after harvest ends.",
+          "prepared_text": "[[prepared]]Residues should therefore be removed or destroyed immediately after harvest ends."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The process includes:",
+          "prepared_text": "[[prepared]]The process includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Stopping unnecessary continued growth.",
+            "2. Collecting fruits left in the field.",
+            "3. Cutting plants.",
+            "4. Shredding the canopy.",
+            "5. Treating or transporting residues.",
+            "6. Applying suitable soil cultivation.",
+            "7. Monitoring any regrowth."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Stopping unnecessary continued growth.",
+            "[[prepared]]2. Collecting fruits left in the field.",
+            "[[prepared]]3. Cutting plants.",
+            "[[prepared]]4. Shredding the canopy.",
+            "[[prepared]]5. Treating or transporting residues.",
+            "[[prepared]]6. Applying suitable soil cultivation.",
+            "[[prepared]]7. Monitoring any regrowth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The field should not remain for weeks after the last economically worthwhile harvest.",
+          "prepared_text": "[[prepared]]The field should not remain for weeks after the last economically worthwhile harvest."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Field Evidence for the Importance of Residue Removal"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A field study at two sites in Türkiye compared fields where tomato residues and weeds were removed and the soil cultivated with fields where residues remained without cleaning or cultivation.",
+          "prepared_text": "[[prepared]]A field study at two sites in Türkiye compared fields where tomato residues and weeds were removed and the soil cultivated with fields where residues remained without cleaning or cultivation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Adult moth density was higher in the uncleaned fields by approximately:",
+          "prepared_text": "[[prepared]]Adult moth density was higher in the uncleaned fields by approximately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "47.77% at one site.",
+            "73.97% at the other site."
+          ],
+          "prepared_items": [
+            "[[prepared]]47.77% at one site.",
+            "[[prepared]]73.97% at the other site."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The results support combining crop-residue removal with postharvest soil cultivation.",
+          "prepared_text": "[[prepared]]The results support combining crop-residue removal with postharvest soil cultivation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the study compared a combined package of:",
+          "prepared_text": "[[prepared]]However, the study compared a combined package of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cleaning.",
+            "Weed removal.",
+            "Tillage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cleaning.",
+            "[[prepared]]Weed removal.",
+            "[[prepared]]Tillage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The relative effect of each measure cannot therefore be separated from these results alone.",
+          "prepared_text": "[[prepared]]The relative effect of each measure cannot therefore be separated from these results alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Shredding Crop Residues"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fine shredding helps to:",
+          "prepared_text": "[[prepared]]Fine shredding helps to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mechanically destroy some larvae and pupae.",
+            "Dry tissues rapidly.",
+            "Accelerate decomposition.",
+            "Facilitate incorporation into soil or transport.",
+            "Prevent intact plants from continuing as hosts."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mechanically destroy some larvae and pupae.",
+            "[[prepared]]Dry tissues rapidly.",
+            "[[prepared]]Accelerate decomposition.",
+            "[[prepared]]Facilitate incorporation into soil or transport.",
+            "[[prepared]]Prevent intact plants from continuing as hosts."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Shredding alone may not kill all pest stages and should therefore be followed by:",
+          "prepared_text": "[[prepared]]Shredding alone may not kill all pest stages and should therefore be followed by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collection.",
+            "Burial.",
+            "Tight covering.",
+            "Thermophilic composting.",
+            "Soil cultivation.",
+            "Continued monitoring with traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collection.",
+            "[[prepared]]Burial.",
+            "[[prepared]]Tight covering.",
+            "[[prepared]]Thermophilic composting.",
+            "[[prepared]]Soil cultivation.",
+            "[[prepared]]Continued monitoring with traps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Shredding equipment should not be moved from a heavily infested field into a new field without cleaning.",
+          "prepared_text": "[[prepared]]Shredding equipment should not be moved from a heavily infested field into a new field without cleaning."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Tillage and Soil Cultivation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta may pupate:",
+          "prepared_text": "[[prepared]]Tuta absoluta may pupate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "In or on the soil.",
+            "Inside mines.",
+            "Between leaves and residues.",
+            "Within a silken cocoon."
+          ],
+          "prepared_items": [
+            "[[prepared]]In or on the soil.",
+            "[[prepared]]Inside mines.",
+            "[[prepared]]Between leaves and residues.",
+            "[[prepared]]Within a silken cocoon."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Soil cultivation after crop removal may contribute to:",
+          "prepared_text": "[[prepared]]Soil cultivation after crop removal may contribute to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Burying some pupae.",
+            "Exposing others to desiccation or predation.",
+            "Mechanically destroying cocoons.",
+            "Breaking down crop residues.",
+            "Preventing regrowth of tomato stems."
+          ],
+          "prepared_items": [
+            "[[prepared]]Burying some pupae.",
+            "[[prepared]]Exposing others to desiccation or predation.",
+            "[[prepared]]Mechanically destroying cocoons.",
+            "[[prepared]]Breaking down crop residues.",
+            "[[prepared]]Preventing regrowth of tomato stems."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The effect of tillage varies according to:",
+          "prepared_text": "[[prepared]]The effect of tillage varies according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cultivation depth.",
+            "Soil moisture.",
+            "Soil type.",
+            "Presence of residues.",
+            "Timing.",
+            "Ability of moths to emerge from depth."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cultivation depth.",
+            "[[prepared]]Soil moisture.",
+            "[[prepared]]Soil type.",
+            "[[prepared]]Presence of residues.",
+            "[[prepared]]Timing.",
+            "[[prepared]]Ability of moths to emerge from depth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tillage should not be used alone while infested plants and fruits remain on the soil surface.",
+          "prepared_text": "[[prepared]]Tillage should not be used alone while infested plants and fruits remain on the soil surface."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Selection of Tillage Depth"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single depth is appropriate for all soils and production systems.",
+          "prepared_text": "[[prepared]]No single depth is appropriate for all soils and production systems."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Depth should be selected according to:",
+          "prepared_text": "[[prepared]]Depth should be selected according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The following crop.",
+            "Soil type.",
+            "Irrigation system.",
+            "Erosion risk.",
+            "Need to maintain soil structure.",
+            "Location of pupae.",
+            "Equipment availability."
+          ],
+          "prepared_items": [
+            "[[prepared]]The following crop.",
+            "[[prepared]]Soil type.",
+            "[[prepared]]Irrigation system.",
+            "[[prepared]]Erosion risk.",
+            "[[prepared]]Need to maintain soil structure.",
+            "[[prepared]]Location of pupae.",
+            "[[prepared]]Equipment availability."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some guidance recommends deep burial of infested material, but this does not imply repeated deep tillage every season because it has costs and effects on soil structure.",
+          "prepared_text": "[[prepared]]Some guidance recommends deep burial of infested material, but this does not imply repeated deep tillage every season because it has costs and effects on soil structure."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The selected system should terminate host residues while maintaining soil sustainability.",
+          "prepared_text": "[[prepared]]The selected system should terminate host residues while maintaining soil sustainability."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Minimum Tillage and Conservation Agriculture"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In conservation-agriculture systems, tillage may be reduced to protect soil structure.",
+          "prepared_text": "[[prepared]]In conservation-agriculture systems, tillage may be reduced to protect soil structure."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In this case, the absence of deep tillage should be compensated for by:",
+          "prepared_text": "[[prepared]]In this case, the absence of deep tillage should be compensated for by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Removing infested residues from the soil surface.",
+            "Shredding and treating residues.",
+            "Preventing volunteer tomato emergence.",
+            "Managing pupae with biological methods where available.",
+            "Continuing pheromone trapping after harvest.",
+            "Preventing immediate planting of a new host."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removing infested residues from the soil surface.",
+            "[[prepared]]Shredding and treating residues.",
+            "[[prepared]]Preventing volunteer tomato emergence.",
+            "[[prepared]]Managing pupae with biological methods where available.",
+            "[[prepared]]Continuing pheromone trapping after harvest.",
+            "[[prepared]]Preventing immediate planting of a new host."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dense infested residues should not be left on the soil surface without a management plan under the justification of conserving soil.",
+          "prepared_text": "[[prepared]]Dense infested residues should not be left on the soil surface without a management plan under the justification of conserving soil."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Solarization and Heat Treatment of Residues"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Heat can be used to kill pest stages in crop residues by:",
+          "prepared_text": "[[prepared]]Heat can be used to kill pest stages in crop residues by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Placing residues in sealed bags or containers.",
+            "Covering them with transparent plastic.",
+            "Exposing them to sunlight for a sufficient period.",
+            "Forming a small pile that permits temperature rise."
+          ],
+          "prepared_items": [
+            "[[prepared]]Placing residues in sealed bags or containers.",
+            "[[prepared]]Covering them with transparent plastic.",
+            "[[prepared]]Exposing them to sunlight for a sufficient period.",
+            "[[prepared]]Forming a small pile that permits temperature rise."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy depends on:",
+          "prepared_text": "[[prepared]]Efficacy depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Air temperature.",
+            "Pile thickness.",
+            "Tightness of the cover.",
+            "Duration of exposure.",
+            "Moisture content of the residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Air temperature.",
+            "[[prepared]]Pile thickness.",
+            "[[prepared]]Tightness of the cover.",
+            "[[prepared]]Duration of exposure.",
+            "[[prepared]]Moisture content of the residues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Covering an entire open field for solarization is not a standard economical Tuta-control measure under all conditions, but heat treatment may be suitable for residues or limited areas.",
+          "prepared_text": "[[prepared]]Covering an entire open field for solarization is not a standard economical Tuta-control measure under all conditions, but heat treatment may be suitable for residues or limited areas."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Composting Crop Residues"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crop residues can be converted into organic compost when decomposition is:",
+          "prepared_text": "[[prepared]]Crop residues can be converted into organic compost when decomposition is:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Thermophilic.",
+            "Controlled.",
+            "Able to reach temperatures lethal to insect stages.",
+            "Accompanied by pile turning.",
+            "Managed to prevent moth emergence before temperature rises."
+          ],
+          "prepared_items": [
+            "[[prepared]]Thermophilic.",
+            "[[prepared]]Controlled.",
+            "[[prepared]]Able to reach temperatures lethal to insect stages.",
+            "[[prepared]]Accompanied by pile turning.",
+            "[[prepared]]Managed to prevent moth emergence before temperature rises."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An unmanaged cold residue pile may become:",
+          "prepared_text": "[[prepared]]An unmanaged cold residue pile may become:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Shelter for larvae.",
+            "A pupation site.",
+            "A source of emerging moths.",
+            "A future source of volunteer tomato plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Shelter for larvae.",
+            "[[prepared]]A pupation site.",
+            "[[prepared]]A source of emerging moths.",
+            "[[prepared]]A future source of volunteer tomato plants."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Harvest Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Regular harvesting helps to:",
+          "prepared_text": "[[prepared]]Regular harvesting helps to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduce persistence of ripe fruits susceptible to decay.",
+            "Detect infested fruits.",
+            "Prevent accumulation of fallen fruits.",
+            "Reduce the time available for larvae inside fruits.",
+            "Improve sorting."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduce persistence of ripe fruits susceptible to decay.",
+            "[[prepared]]Detect infested fruits.",
+            "[[prepared]]Prevent accumulation of fallen fruits.",
+            "[[prepared]]Reduce the time available for larvae inside fruits.",
+            "[[prepared]]Improve sorting."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "During harvest:",
+          "prepared_text": "[[prepared]]During harvest:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infested fruits should be separated.",
+            "They should not be discarded between rows.",
+            "Crates should be cleaned.",
+            "The area beneath the calyx should be inspected.",
+            "Contaminated crates should not be moved into new fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infested fruits should be separated.",
+            "[[prepared]]They should not be discarded between rows.",
+            "[[prepared]]Crates should be cleaned.",
+            "[[prepared]]The area beneath the calyx should be inspected.",
+            "[[prepared]]Contaminated crates should not be moved into new fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mechanical Harvesting in Processing Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In processing tomatoes intended for once-over harvesting, the field should not reach harvest with:",
+          "prepared_text": "[[prepared]]In processing tomatoes intended for once-over harvesting, the field should not reach harvest with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A high density of rotted fruits.",
+            "Large numbers of live larvae.",
+            "Severe canopy collapse.",
+            "A high percentage of fallen fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]A high density of rotted fruits.",
+            "[[prepared]]Large numbers of live larvae.",
+            "[[prepared]]Severe canopy collapse.",
+            "[[prepared]]A high percentage of fallen fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Harvest timing depends on:",
+          "prepared_text": "[[prepared]]Harvest timing depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage of ripe fruits.",
+            "Factory specifications.",
+            "Fruit condition.",
+            "Expected infestation wave.",
+            "Weather conditions.",
+            "Preharvest interval after the final treatment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage of ripe fruits.",
+            "[[prepared]]Factory specifications.",
+            "[[prepared]]Fruit condition.",
+            "[[prepared]]Expected infestation wave.",
+            "[[prepared]]Weather conditions.",
+            "[[prepared]]Preharvest interval after the final treatment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Advancing harvest by a limited period may be economically preferable to leaving the crop until fruit infestation doubles, provided maturity percentage and factory specifications permit.",
+          "prepared_text": "[[prepared]]Advancing harvest by a limited period may be economically preferable to leaving the crop until fruit infestation doubles, provided maturity percentage and factory specifications permit."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Irrigation Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The irrigation system does not directly kill Tuta absoluta, but it affects:",
+          "prepared_text": "[[prepared]]The irrigation system does not directly kill Tuta absoluta, but it affects:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant growth.",
+            "Leaf quality.",
+            "Canopy density.",
+            "Plant defensive responses.",
+            "Natural enemies.",
+            "Moisture and temperature of soil surrounding pupae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant growth.",
+            "[[prepared]]Leaf quality.",
+            "[[prepared]]Canopy density.",
+            "[[prepared]]Plant defensive responses.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Moisture and temperature of soil surrounding pupae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Balanced irrigation aims to:",
+          "prepared_text": "[[prepared]]Balanced irrigation aims to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Prevent repeated wilting.",
+            "Maintain uniform growth.",
+            "Avoid excessive vegetative growth.",
+            "Support the plant’s ability to compensate for limited injury.",
+            "Prevent fruit cracking and rots."
+          ],
+          "prepared_items": [
+            "[[prepared]]Prevent repeated wilting.",
+            "[[prepared]]Maintain uniform growth.",
+            "[[prepared]]Avoid excessive vegetative growth.",
+            "[[prepared]]Support the plant’s ability to compensate for limited injury.",
+            "[[prepared]]Prevent fruit cracking and rots."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Deliberately imposing drought should not be used as a control method because severe stress reduces yield and affects both plant tolerance and natural enemies.",
+          "prepared_text": "[[prepared]]Deliberately imposing drought should not be used as a control method because severe stress reduces yield and affects both plant tolerance and natural enemies."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Water Deficit"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies have shown that restricted water availability can affect Tuta absoluta performance through changes in plant quality and chemical composition.",
+          "prepared_text": "[[prepared]]Studies have shown that restricted water availability can affect Tuta absoluta performance through changes in plant quality and chemical composition."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, these effects are complex and may also affect:",
+          "prepared_text": "[[prepared]]However, these effects are complex and may also affect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tomato yield.",
+            "Fruit size.",
+            "Photosynthesis.",
+            "Zoophytophagous predators.",
+            "Plant compensatory capacity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato yield.",
+            "[[prepared]]Fruit size.",
+            "[[prepared]]Photosynthesis.",
+            "[[prepared]]Zoophytophagous predators.",
+            "[[prepared]]Plant compensatory capacity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Laboratory results should therefore not be translated into a recommendation to impose water stress on the crop.",
+          "prepared_text": "[[prepared]]Laboratory results should therefore not be translated into a recommendation to impose water stress on the crop."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The field objective remains:",
+          "prepared_text": "[[prepared]]The field objective remains:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Meeting the crop’s economic water requirement without excess or chronic stress."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Excess Irrigation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Excess irrigation may lead to:",
+          "prepared_text": "[[prepared]]Excess irrigation may lead to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Excessive vegetative growth.",
+            "Heavy shading.",
+            "Difficulty achieving coverage with biological or chemical sprays.",
+            "Difficult plant inspection.",
+            "Increased incidence of some diseases.",
+            "Nutrient loss through leaching."
+          ],
+          "prepared_items": [
+            "[[prepared]]Excessive vegetative growth.",
+            "[[prepared]]Heavy shading.",
+            "[[prepared]]Difficulty achieving coverage with biological or chemical sprays.",
+            "[[prepared]]Difficult plant inspection.",
+            "[[prepared]]Increased incidence of some diseases.",
+            "[[prepared]]Nutrient loss through leaching."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no scientific rule that increased water always increases Tuta infestation, but unbalanced growth may reduce management efficiency.",
+          "prepared_text": "[[prepared]]There is no scientific rule that increased water always increases Tuta infestation, but unbalanced growth may reduce management efficiency."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Irrigation-Water Salinity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An experimental study showed that increased salinity of irrigation water applied to tomato plants accelerated development of Tuta absoluta through plant-mediated effects.",
+          "prepared_text": "[[prepared]]An experimental study showed that increased salinity of irrigation water applied to tomato plants accelerated development of Tuta absoluta through plant-mediated effects."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not mean salinity will increase pest populations to the same extent in every field, but it demonstrates that salinity is not a pest-reduction method.",
+          "prepared_text": "[[prepared]]This does not mean salinity will increase pest populations to the same extent in every field, but it demonstrates that salinity is not a pest-reduction method."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Salinity also causes:",
+          "prepared_text": "[[prepared]]Salinity also causes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant weakening.",
+            "Yield reduction.",
+            "Disturbed nutrient uptake.",
+            "Reduced ability of the plant to compensate for injury."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant weakening.",
+            "[[prepared]]Yield reduction.",
+            "[[prepared]]Disturbed nutrient uptake.",
+            "[[prepared]]Reduced ability of the plant to compensate for injury."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Salinity should therefore be managed according to crop requirements, with recognition that it may alter the plant–pest relationship.",
+          "prepared_text": "[[prepared]]Salinity should therefore be managed according to crop requirements, with recognition that it may alter the plant–pest relationship."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fertilization Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fertilization indirectly affects Tuta absoluta through changes in:",
+          "prepared_text": "[[prepared]]Fertilization indirectly affects Tuta absoluta through changes in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaf nutritional value.",
+            "Nitrogen content.",
+            "Chemical defenses.",
+            "Vegetative growth.",
+            "Quality of prey for predators and parasitoids."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaf nutritional value.",
+            "[[prepared]]Nitrogen content.",
+            "[[prepared]]Chemical defenses.",
+            "[[prepared]]Vegetative growth.",
+            "[[prepared]]Quality of prey for predators and parasitoids."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no single fertilizer program for controlling Tuta, and nutrients should not be reduced to levels that cause crop deficiency.",
+          "prepared_text": "[[prepared]]There is no single fertilizer program for controlling Tuta, and nutrients should not be reduced to levels that cause crop deficiency."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The objective is:",
+          "prepared_text": "[[prepared]]The objective is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Balanced nutrition that achieves the required yield without excessive vegetative growth or severe nutritional deficiency."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nitrogen"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nitrogen is associated with:",
+          "prepared_text": "[[prepared]]Nitrogen is associated with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Formation of proteins and amino acids.",
+            "Growth rate.",
+            "Leaf area.",
+            "Composition of defensive compounds."
+          ],
+          "prepared_items": [
+            "[[prepared]]Formation of proteins and amino acids.",
+            "[[prepared]]Growth rate.",
+            "[[prepared]]Leaf area.",
+            "[[prepared]]Composition of defensive compounds."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Experiments have shown that nitrogen level changes larval performance, food consumption, and plant response.",
+          "prepared_text": "[[prepared]]Experiments have shown that nitrogen level changes larval performance, food consumption, and plant response."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the relationship is not a simple linear rule of:",
+          "prepared_text": "[[prepared]]However, the relationship is not a simple linear rule of:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "The higher the nitrogen, the greater the Tuta infestation in every case."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is influenced by cultivar, water availability, plant defenses, and natural enemies.",
+          "prepared_text": "[[prepared]]It is influenced by cultivar, water availability, plant defenses, and natural enemies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field management should therefore:",
+          "prepared_text": "[[prepared]]Field management should therefore:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoid exceeding crop requirements.",
+            "Split nitrogen applications among growth stages.",
+            "Rely on soil and plant analysis.",
+            "Avoid large late applications.",
+            "Balance nitrogen with potassium, calcium, and other nutrients.",
+            "Assess canopy density."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoid exceeding crop requirements.",
+            "[[prepared]]Split nitrogen applications among growth stages.",
+            "[[prepared]]Rely on soil and plant analysis.",
+            "[[prepared]]Avoid large late applications.",
+            "[[prepared]]Balance nitrogen with potassium, calcium, and other nutrients.",
+            "[[prepared]]Assess canopy density."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Excess Nitrogen"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Excessive nitrogen may lead to:",
+          "prepared_text": "[[prepared]]Excessive nitrogen may lead to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dense succulent growth.",
+            "Delayed maturity.",
+            "Internal canopy shading.",
+            "More difficult inspection.",
+            "Poor spray coverage.",
+            "Increased susceptibility to some pests and diseases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dense succulent growth.",
+            "[[prepared]]Delayed maturity.",
+            "[[prepared]]Internal canopy shading.",
+            "[[prepared]]More difficult inspection.",
+            "[[prepared]]Poor spray coverage.",
+            "[[prepared]]Increased susceptibility to some pests and diseases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may also prolong the period during which the crop remains green, extending host availability.",
+          "prepared_text": "[[prepared]]It may also prolong the period during which the crop remains green, extending host availability."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not mean that reducing nitrogen below the economic requirement will profitably reduce infestation; crop yield may decline before any entomological benefit is achieved.",
+          "prepared_text": "[[prepared]]This does not mean that reducing nitrogen below the economic requirement will profitably reduce infestation; crop yield may decline before any entomological benefit is achieved."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nitrogen Deficiency"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nitrogen deficiency may reduce food quality for larvae under some conditions, but it also causes:",
+          "prepared_text": "[[prepared]]Nitrogen deficiency may reduce food quality for larvae under some conditions, but it also causes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant weakness.",
+            "Smaller leaves.",
+            "Reduced yield.",
+            "Reduced compensatory capacity.",
+            "Negative effects on zoophytophagous predators."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant weakness.",
+            "[[prepared]]Smaller leaves.",
+            "[[prepared]]Reduced yield.",
+            "[[prepared]]Reduced compensatory capacity.",
+            "[[prepared]]Negative effects on zoophytophagous predators."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nutritional deficiency should therefore not be used as a control measure.",
+          "prepared_text": "[[prepared]]Nutritional deficiency should therefore not be used as a control measure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Potassium, Calcium, and Other Nutrients"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Balanced nutrition contributes to:",
+          "prepared_text": "[[prepared]]Balanced nutrition contributes to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tissue strength.",
+            "Uniform growth.",
+            "Fruit quality.",
+            "Stress tolerance.",
+            "Reduced cracking and rots."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tissue strength.",
+            "[[prepared]]Uniform growth.",
+            "[[prepared]]Fruit quality.",
+            "[[prepared]]Stress tolerance.",
+            "[[prepared]]Reduced cracking and rots."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, no potassium or calcium rate can be regarded as an insecticide against Tuta.",
+          "prepared_text": "[[prepared]]However, no potassium or calcium rate can be regarded as an insecticide against Tuta."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Claims that any nutrient directly eliminates larvae should be avoided unless supported by experimental evidence.",
+          "prepared_text": "[[prepared]]Claims that any nutrient directly eliminates larvae should be avoided unless supported by experimental evidence."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nutrients should be managed according to:",
+          "prepared_text": "[[prepared]]Nutrients should be managed according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Soil analysis.",
+            "Water analysis.",
+            "Leaf analysis.",
+            "Crop stage.",
+            "Target yield."
+          ],
+          "prepared_items": [
+            "[[prepared]]Soil analysis.",
+            "[[prepared]]Water analysis.",
+            "[[prepared]]Leaf analysis.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Target yield."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Organic Matter and Soil Amendments"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Organic matter, compost, and vermicompost may affect:",
+          "prepared_text": "[[prepared]]Organic matter, compost, and vermicompost may affect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant growth.",
+            "Microbial communities.",
+            "Nutrient availability.",
+            "Plant defenses.",
+            "Plant tolerance of injury."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant growth.",
+            "[[prepared]]Microbial communities.",
+            "[[prepared]]Nutrient availability.",
+            "[[prepared]]Plant defenses.",
+            "[[prepared]]Plant tolerance of injury."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some studies have recorded changes in pest performance on plants grown in media containing particular levels of humates or vermicompost.",
+          "prepared_text": "[[prepared]]Some studies have recorded changes in pest performance on plants grown in media containing particular levels of humates or vermicompost."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Results vary according to:",
+          "prepared_text": "[[prepared]]Results vary according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Type of amendment.",
+            "Application rate.",
+            "Compost maturity.",
+            "Cultivar.",
+            "Production system."
+          ],
+          "prepared_items": [
+            "[[prepared]]Type of amendment.",
+            "[[prepared]]Application rate.",
+            "[[prepared]]Compost maturity.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Production system."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Soil amendments should not be relied upon as substitutes for monitoring and direct control measures.",
+          "prepared_text": "[[prepared]]Soil amendments should not be relied upon as substitutes for monitoring and direct control measures."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Plant Density"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plant density affects:",
+          "prepared_text": "[[prepared]]Plant density affects:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Air movement.",
+            "Ease of inspection.",
+            "Spray penetration.",
+            "Humidity within the canopy.",
+            "Movement of larvae between touching plants.",
+            "Ability of workers to remove infestation foci."
+          ],
+          "prepared_items": [
+            "[[prepared]]Air movement.",
+            "[[prepared]]Ease of inspection.",
+            "[[prepared]]Spray penetration.",
+            "[[prepared]]Humidity within the canopy.",
+            "[[prepared]]Movement of larvae between touching plants.",
+            "[[prepared]]Ability of workers to remove infestation foci."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Excessive density may produce an entangled canopy that is difficult to inspect and cover.",
+          "prepared_text": "[[prepared]]Excessive density may produce an entangled canopy that is difficult to inspect and cover."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reducing density without calculation may lead to:",
+          "prepared_text": "[[prepared]]Reducing density without calculation may lead to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced yield.",
+            "Greater fruit exposure to sunlight.",
+            "Changes in the microclimate."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced yield.",
+            "[[prepared]]Greater fruit exposure to sunlight.",
+            "[[prepared]]Changes in the microclimate."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Density should therefore be determined according to cultivar, training system, and mechanization, while avoiding unjustified crowding.",
+          "prepared_text": "[[prepared]]Density should therefore be determined according to cultivar, training system, and mechanization, while avoiding unjustified crowding."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spacing Between Rows and Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Spacing should permit:",
+          "prepared_text": "[[prepared]]Spacing should permit:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Worker movement.",
+            "Trap reading.",
+            "Inspection of leaves and fruits.",
+            "Entry of spray equipment.",
+            "Penetration of spray droplets into the canopy.",
+            "Harvesting without breaking plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Worker movement.",
+            "[[prepared]]Trap reading.",
+            "[[prepared]]Inspection of leaves and fruits.",
+            "[[prepared]]Entry of spray equipment.",
+            "[[prepared]]Penetration of spray droplets into the canopy.",
+            "[[prepared]]Harvesting without breaking plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no spacing specific only to Tuta, but any system that prevents access to the plant interior weakens management.",
+          "prepared_text": "[[prepared]]There is no spacing specific only to Tuta, but any system that prevents access to the plant interior weakens management."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pruning and Leaf Removal"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In indeterminate tomatoes, pruning may be used to improve ventilation and facilitate inspection.",
+          "prepared_text": "[[prepared]]In indeterminate tomatoes, pruning may be used to improve ventilation and facilitate inspection."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In determinate processing tomatoes grown in open fields, extensive pruning is not usually practiced because canopy cover is necessary for fruit protection and production.",
+          "prepared_text": "[[prepared]]In determinate processing tomatoes grown in open fields, extensive pruning is not usually practiced because canopy cover is necessary for fruit protection and production."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Only the following should be removed:",
+          "prepared_text": "[[prepared]]Only the following should be removed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Severely infested plant parts.",
+            "Dead leaves obstructing inspection.",
+            "Limited infestation foci when economically justified."
+          ],
+          "prepared_items": [
+            "[[prepared]]Severely infested plant parts.",
+            "[[prepared]]Dead leaves obstructing inspection.",
+            "[[prepared]]Limited infestation foci when economically justified."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Leaves close to fruit clusters should not be removed excessively in a way that exposes fruits to sunlight.",
+          "prepared_text": "[[prepared]]Leaves close to fruit clusters should not be removed excessively in a way that exposes fruits to sunlight."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Canopy Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The desired canopy is:",
+          "prepared_text": "[[prepared]]The desired canopy is:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Vigorous.",
+            "Balanced.",
+            "Not excessive.",
+            "Adequately ventilated.",
+            "Protective of fruits.",
+            "Accessible for inspection and spray coverage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Vigorous.",
+            "[[prepared]]Balanced.",
+            "[[prepared]]Not excessive.",
+            "[[prepared]]Adequately ventilated.",
+            "[[prepared]]Protective of fruits.",
+            "[[prepared]]Accessible for inspection and spray coverage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is achieved through:",
+          "prepared_text": "[[prepared]]This is achieved through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Suitable plant density.",
+            "Balanced nitrogen.",
+            "Regular irrigation.",
+            "Avoidance of excessively delayed vegetative growth.",
+            "Management of diseases that cause defoliation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Suitable plant density.",
+            "[[prepared]]Balanced nitrogen.",
+            "[[prepared]]Regular irrigation.",
+            "[[prepared]]Avoidance of excessively delayed vegetative growth.",
+            "[[prepared]]Management of diseases that cause defoliation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Canopy collapse caused by Tuta or diseases may expose fruits and increase sunscald and other losses.",
+          "prepared_text": "[[prepared]]Canopy collapse caused by Tuta or diseases may expose fruits and increase sunscald and other losses."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistant or Less-Suitable Cultivars"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tomato cultivars differ in:",
+          "prepared_text": "[[prepared]]Tomato cultivars differ in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Female oviposition preference.",
+            "Larval survival.",
+            "Trichome density.",
+            "Defensive compounds.",
+            "Plant compensatory capacity.",
+            "Crop duration."
+          ],
+          "prepared_items": [
+            "[[prepared]]Female oviposition preference.",
+            "[[prepared]]Larval survival.",
+            "[[prepared]]Trichome density.",
+            "[[prepared]]Defensive compounds.",
+            "[[prepared]]Plant compensatory capacity.",
+            "[[prepared]]Crop duration."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some resistance sources in wild species are associated with glandular trichomes and chemical compounds, but commercial cultivars with complete high resistance are not broadly available for stand-alone reliance.",
+          "prepared_text": "[[prepared]]Some resistance sources in wild species are associated with glandular trichomes and chemical compounds, but commercial cultivars with complete high resistance are not broadly available for stand-alone reliance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultivar selection should be based on:",
+          "prepared_text": "[[prepared]]Cultivar selection should be based on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Local performance.",
+            "Yield and quality.",
+            "Crop duration.",
+            "Canopy vigor.",
+            "Infestation results from comparative trials."
+          ],
+          "prepared_items": [
+            "[[prepared]]Local performance.",
+            "[[prepared]]Yield and quality.",
+            "[[prepared]]Crop duration.",
+            "[[prepared]]Canopy vigor.",
+            "[[prepared]]Infestation results from comparative trials."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A commercial cultivar should not be described as “Tuta-resistant” without documented comparative testing.",
+          "prepared_text": "[[prepared]]A commercial cultivar should not be described as “Tuta-resistant” without documented comparative testing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Intercropping"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Intercropping means growing tomato with another plant in an organized pattern.",
+          "prepared_text": "[[prepared]]Intercropping means growing tomato with another plant in an organized pattern."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may act through:",
+          "prepared_text": "[[prepared]]It may act through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Disrupting host location.",
+            "Increasing diversity.",
+            "Attracting natural enemies.",
+            "Altering volatile compounds.",
+            "Providing nectar and pollen."
+          ],
+          "prepared_items": [
+            "[[prepared]]Disrupting host location.",
+            "[[prepared]]Increasing diversity.",
+            "[[prepared]]Attracting natural enemies.",
+            "[[prepared]]Altering volatile compounds.",
+            "[[prepared]]Providing nectar and pollen."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A field study in Iran showed that intercropping tomato with sainfoin:",
+          "prepared_text": "[[prepared]]A field study in Iran showed that intercropping tomato with sainfoin:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Onobrychis viciifolia"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced eggs, larvae, and mines and increased predator diversity compared with tomato monoculture.",
+          "prepared_text": "[[prepared]]Reduced eggs, larvae, and mines and increased predator diversity compared with tomato monoculture."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, success depends on:",
+          "prepared_text": "[[prepared]]However, success depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Companion species.",
+            "Pattern and spacing.",
+            "Climate.",
+            "Local natural enemies.",
+            "Mechanization.",
+            "Competition for water and nutrients.",
+            "Economic feasibility."
+          ],
+          "prepared_items": [
+            "[[prepared]]Companion species.",
+            "[[prepared]]Pattern and spacing.",
+            "[[prepared]]Climate.",
+            "[[prepared]]Local natural enemies.",
+            "[[prepared]]Mechanization.",
+            "[[prepared]]Competition for water and nutrients.",
+            "[[prepared]]Economic feasibility."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The system should not be transferred directly to Egyptian open-field processing tomatoes without local field trials.",
+          "prepared_text": "[[prepared]]The system should not be transferred directly to Egyptian open-field processing tomatoes without local field trials."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Companion and Aromatic Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plants such as the following are being studied:",
+          "prepared_text": "[[prepared]]Plants such as the following are being studied:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dill.",
+            "Coriander.",
+            "Basil.",
+            "Garlic.",
+            "Onion.",
+            "Nectar-producing plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dill.",
+            "[[prepared]]Coriander.",
+            "[[prepared]]Basil.",
+            "[[prepared]]Garlic.",
+            "[[prepared]]Onion.",
+            "[[prepared]]Nectar-producing plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Potential objectives include:",
+          "prepared_text": "[[prepared]]Potential objectives include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Supporting natural enemies.",
+            "Providing nectar.",
+            "Increasing field diversity.",
+            "Influencing pest behavior."
+          ],
+          "prepared_items": [
+            "[[prepared]]Supporting natural enemies.",
+            "[[prepared]]Providing nectar.",
+            "[[prepared]]Increasing field diversity.",
+            "[[prepared]]Influencing pest behavior."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A distinction must be made among:",
+          "prepared_text": "[[prepared]]A distinction must be made among:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Plants Supporting Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These provide food or shelter for parasitoids and predators.",
+          "prepared_text": "[[prepared]]These provide food or shelter for parasitoids and predators."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Repellent Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are intended to drive moths away from tomato.",
+          "prepared_text": "[[prepared]]These are intended to drive moths away from tomato."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Trap Crops"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These attract the pest away from the principal crop.",
+          "prepared_text": "[[prepared]]These attract the pest away from the principal crop."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These functions are not demonstrated merely because a plant is aromatic. They require experiments on species, distribution, and density.",
+          "prepared_text": "[[prepared]]These functions are not demonstrated merely because a plant is aromatic. They require experiments on species, distribution, and density."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Risks of Companion Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Companion planting may fail or cause undesirable effects when it:",
+          "prepared_text": "[[prepared]]Companion planting may fail or cause undesirable effects when it:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Competes with tomato for water and nutrients.",
+            "Obstructs mechanical harvesting.",
+            "Harbors other pests.",
+            "Increases humidity.",
+            "Is incompatible with pesticides.",
+            "Becomes a weed in subsequent seasons.",
+            "Attracts moths without eliminating them."
+          ],
+          "prepared_items": [
+            "[[prepared]]Competes with tomato for water and nutrients.",
+            "[[prepared]]Obstructs mechanical harvesting.",
+            "[[prepared]]Harbors other pests.",
+            "[[prepared]]Increases humidity.",
+            "[[prepared]]Is incompatible with pesticides.",
+            "[[prepared]]Becomes a weed in subsequent seasons.",
+            "[[prepared]]Attracts moths without eliminating them."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A limited trial should therefore precede commercial expansion.",
+          "prepared_text": "[[prepared]]A limited trial should therefore precede commercial expansion."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nectar Plants and Biodiversity Strips"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plant strips or belts may be established to support:",
+          "prepared_text": "[[prepared]]Plant strips or belts may be established to support:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg parasitoids.",
+            "Larval parasitoids.",
+            "Predators.",
+            "Pollinators."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Larval parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Pollinators."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The selected plants should be:",
+          "prepared_text": "[[prepared]]The selected plants should be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Not confirmed hosts of Tuta.",
+            "Suitable for the region.",
+            "Staggered in flowering.",
+            "Noncompetitive with the crop.",
+            "Manageable.",
+            "Not carriers of major diseases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Not confirmed hosts of Tuta.",
+            "[[prepared]]Suitable for the region.",
+            "[[prepared]]Staggered in flowering.",
+            "[[prepared]]Noncompetitive with the crop.",
+            "[[prepared]]Manageable.",
+            "[[prepared]]Not carriers of major diseases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should be planted where they do not obstruct:",
+          "prepared_text": "[[prepared]]They should be planted where they do not obstruct:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spraying.",
+            "Harvesting.",
+            "Equipment movement.",
+            "Monitoring of field edges."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spraying.",
+            "[[prepared]]Harvesting.",
+            "[[prepared]]Equipment movement.",
+            "[[prepared]]Monitoring of field edges."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Design of plants supporting natural enemies will be discussed in the section on conservation of natural enemies.",
+          "prepared_text": "[[prepared]]Design of plants supporting natural enemies will be discussed in the section on conservation of natural enemies."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Border Crops"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A solanaceous border such as potato or eggplant should not be used to attract Tuta without a management program because it may become:",
+          "prepared_text": "[[prepared]]A solanaceous border such as potato or eggplant should not be used to attract Tuta without a management program because it may become:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A reproductive host.",
+            "A source of eggs and larvae.",
+            "A focus from which moths move into tomato."
+          ],
+          "prepared_items": [
+            "[[prepared]]A reproductive host.",
+            "[[prepared]]A source of eggs and larvae.",
+            "[[prepared]]A focus from which moths move into tomato."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "For a trap crop to succeed, it must:",
+          "prepared_text": "[[prepared]]For a trap crop to succeed, it must:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Be more attractive than the principal crop.",
+            "Be planted at the correct time and location.",
+            "Have pest populations removed or be destroyed before redistribution occurs.",
+            "Have locally demonstrated feasibility."
+          ],
+          "prepared_items": [
+            "[[prepared]]Be more attractive than the principal crop.",
+            "[[prepared]]Be planted at the correct time and location.",
+            "[[prepared]]Have pest populations removed or be destroyed before redistribution occurs.",
+            "[[prepared]]Have locally demonstrated feasibility."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no globally standardized border crop approved for Tuta absoluta in open-field tomato.",
+          "prepared_text": "[[prepared]]There is no globally standardized border crop approved for Tuta absoluta in open-field tomato."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Field Edges and Drains"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field edges and drains should be inspected for:",
+          "prepared_text": "[[prepared]]Field edges and drains should be inspected for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Volunteer tomato plants.",
+            "Black nightshade.",
+            "Discarded fruits.",
+            "Crop residues.",
+            "Infestation foci.",
+            "Abandoned harvest containers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Volunteer tomato plants.",
+            "[[prepared]]Black nightshade.",
+            "[[prepared]]Discarded fruits.",
+            "[[prepared]]Crop residues.",
+            "[[prepared]]Infestation foci.",
+            "[[prepared]]Abandoned harvest containers."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field edges should not become unmanaged areas while control is implemented only within crop rows.",
+          "prepared_text": "[[prepared]]Field edges should not become unmanaged areas while control is implemented only within crop rows."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At the same time, non-host plants supporting natural enemies may be retained after evaluation.",
+          "prepared_text": "[[prepared]]At the same time, non-host plants supporting natural enemies may be retained after evaluation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sanitation of Equipment and Containers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural control includes cleaning:",
+          "prepared_text": "[[prepared]]Cultural control includes cleaning:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crates.",
+            "Trailers.",
+            "Harvesting machines.",
+            "Shredders.",
+            "Pruning tools.",
+            "Transport vehicles.",
+            "Reception areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crates.",
+            "[[prepared]]Trailers.",
+            "[[prepared]]Harvesting machines.",
+            "[[prepared]]Shredders.",
+            "[[prepared]]Pruning tools.",
+            "[[prepared]]Transport vehicles.",
+            "[[prepared]]Reception areas."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be removed:",
+          "prepared_text": "[[prepared]]The following should be removed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaves.",
+            "Small fruits.",
+            "Larvae.",
+            "Cocoons.",
+            "Soil and residues that may contain pupae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves.",
+            "[[prepared]]Small fruits.",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Cocoons.",
+            "[[prepared]]Soil and residues that may contain pupae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Equipment arriving from an old field should be cleaned before entering a new field.",
+          "prepared_text": "[[prepared]]Equipment arriving from an old field should be cleaned before entering a new field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Waste Management at Sorting Stations and Processing Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sorting stations and tomato-processing plants may become centers for accumulation of:",
+          "prepared_text": "[[prepared]]Sorting stations and tomato-processing plants may become centers for accumulation of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infested fruits.",
+            "Leaves.",
+            "Calyces.",
+            "Seeds.",
+            "Wash water containing seeds.",
+            "Contaminated containers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infested fruits.",
+            "[[prepared]]Leaves.",
+            "[[prepared]]Calyces.",
+            "[[prepared]]Seeds.",
+            "[[prepared]]Wash water containing seeds.",
+            "[[prepared]]Contaminated containers."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Management requires:",
+          "prepared_text": "[[prepared]]Management requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Daily collection of waste.",
+            "Transport to a treatment site.",
+            "Prevention of disposal near fields.",
+            "Thermal or industrial treatment of piles.",
+            "Prevention of volunteer tomato emergence.",
+            "Monitoring the site with traps when fields are nearby."
+          ],
+          "prepared_items": [
+            "[[prepared]]Daily collection of waste.",
+            "[[prepared]]Transport to a treatment site.",
+            "[[prepared]]Prevention of disposal near fields.",
+            "[[prepared]]Thermal or industrial treatment of piles.",
+            "[[prepared]]Prevention of volunteer tomato emergence.",
+            "[[prepared]]Monitoring the site with traps when fields are nearby."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Coordination of Irrigation, Fertilization, and Biological Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plant condition affects omnivorous predators that feed on both the plant and the pest.",
+          "prepared_text": "[[prepared]]Plant condition affects omnivorous predators that feed on both the plant and the pest."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Severe water or nitrogen deficiency may negatively affect:",
+          "prepared_text": "[[prepared]]Severe water or nitrogen deficiency may negatively affect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Predator survival.",
+            "Searching behavior.",
+            "Reproductive capacity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Predator survival.",
+            "[[prepared]]Searching behavior.",
+            "[[prepared]]Reproductive capacity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Irrigation or fertilization should therefore not be reduced sharply in an attempt to weaken Tuta because this may also weaken the plant and natural enemies.",
+          "prepared_text": "[[prepared]]Irrigation or fertilization should therefore not be reduced sharply in an attempt to weaken Tuta because this may also weaken the plant and natural enemies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The three-way system should be evaluated as:",
+          "prepared_text": "[[prepared]]The three-way system should be evaluated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Plant — Pest — Natural Enemy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rather than focusing on the pest alone.",
+          "prepared_text": "[[prepared]]Rather than focusing on the pest alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cultural Control at the Area-Wide Level"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural measures are more effective when neighboring fields implement them at approximately the same time.",
+          "prepared_text": "[[prepared]]Cultural measures are more effective when neighboring fields implement them at approximately the same time."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Collective management includes:",
+          "prepared_text": "[[prepared]]Collective management includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Coordinated removal of old crops.",
+            "Establishment of a host-free period.",
+            "Control of volunteer tomatoes.",
+            "Prevention of crop-residue piles.",
+            "Organization of crate movement.",
+            "Monitoring of sorting stations.",
+            "Sharing trap data.",
+            "Identification of immigration sources.",
+            "Notification of neighboring fields before removing an infested crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Coordinated removal of old crops.",
+            "[[prepared]]Establishment of a host-free period.",
+            "[[prepared]]Control of volunteer tomatoes.",
+            "[[prepared]]Prevention of crop-residue piles.",
+            "[[prepared]]Organization of crate movement.",
+            "[[prepared]]Monitoring of sorting stations.",
+            "[[prepared]]Sharing trap data.",
+            "[[prepared]]Identification of immigration sources.",
+            "[[prepared]]Notification of neighboring fields before removing an infested crop."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A single field cannot prevent continuous immigration from an unmanaged production area.",
+          "prepared_text": "[[prepared]]A single field cannot prevent continuous immigration from an unmanaged production area."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preplant Cultural Program"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Before Selecting the Land"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Review infestation history.",
+            "Identify old fields.",
+            "Identify alternative hosts.",
+            "Evaluate planting-season schedules."
+          ],
+          "prepared_items": [
+            "[[prepared]]Review infestation history.",
+            "[[prepared]]Identify old fields.",
+            "[[prepared]]Identify alternative hosts.",
+            "[[prepared]]Evaluate planting-season schedules."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "After Selecting the Land"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Remove crop residues.",
+            "Remove volunteer plants.",
+            "Manage solanaceous weeds.",
+            "Implement crop rotation.",
+            "Clean containers and equipment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Remove crop residues.",
+            "[[prepared]]Remove volunteer plants.",
+            "[[prepared]]Manage solanaceous weeds.",
+            "[[prepared]]Implement crop rotation.",
+            "[[prepared]]Clean containers and equipment."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Before Transplanting"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confirm transplant health.",
+            "Install traps.",
+            "Prepare a field-edge map.",
+            "Adjust plant density and spacing.",
+            "Develop a balanced irrigation and fertilization program."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confirm transplant health.",
+            "[[prepared]]Install traps.",
+            "[[prepared]]Prepare a field-edge map.",
+            "[[prepared]]Adjust plant density and spacing.",
+            "[[prepared]]Develop a balanced irrigation and fertilization program."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Program During Vegetative Growth"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inspect infestation foci.",
+            "Remove severely infested plants or plant parts when economically justified.",
+            "Avoid excessive nitrogen.",
+            "Regulate irrigation.",
+            "Maintain canopy ventilation.",
+            "Manage hosts along field edges.",
+            "Do not leave crop residues between rows.",
+            "Monitor natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inspect infestation foci.",
+            "[[prepared]]Remove severely infested plants or plant parts when economically justified.",
+            "[[prepared]]Avoid excessive nitrogen.",
+            "[[prepared]]Regulate irrigation.",
+            "[[prepared]]Maintain canopy ventilation.",
+            "[[prepared]]Manage hosts along field edges.",
+            "[[prepared]]Do not leave crop residues between rows.",
+            "[[prepared]]Monitor natural enemies."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Program During Flowering and Fruit Set"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increase inspection of growing points and clusters.",
+            "Preserve leaves close to clusters.",
+            "Avoid excessive leaf removal.",
+            "Regulate irrigation to prevent cracking.",
+            "Collect infested small fruits.",
+            "Review surrounding old fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increase inspection of growing points and clusters.",
+            "[[prepared]]Preserve leaves close to clusters.",
+            "[[prepared]]Avoid excessive leaf removal.",
+            "[[prepared]]Regulate irrigation to prevent cracking.",
+            "[[prepared]]Collect infested small fruits.",
+            "[[prepared]]Review surrounding old fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Program During Fruit Filling"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inspect beneath the calyx.",
+            "Collect infested fruits.",
+            "Prevent accumulation of fallen fruits.",
+            "Avoid excessive late nitrogen.",
+            "Maintain canopy cover.",
+            "Determine the economically appropriate time to terminate the crop.",
+            "Clean containers continuously."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inspect beneath the calyx.",
+            "[[prepared]]Collect infested fruits.",
+            "[[prepared]]Prevent accumulation of fallen fruits.",
+            "[[prepared]]Avoid excessive late nitrogen.",
+            "[[prepared]]Maintain canopy cover.",
+            "[[prepared]]Determine the economically appropriate time to terminate the crop.",
+            "[[prepared]]Clean containers continuously."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Program After the Final Harvest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Within the shortest possible period:",
+          "prepared_text": "[[prepared]]Within the shortest possible period:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Collect remaining fruits.",
+            "2. Cut or uproot plants.",
+            "3. Shred the canopy.",
+            "4. Remove or treat residues.",
+            "5. Cultivate the soil according to the production system.",
+            "6. Remove solanaceous hosts.",
+            "7. Continue monitoring traps.",
+            "8. Remove regrowth.",
+            "9. Clean harvesting equipment.",
+            "10. Notify neighboring fields of the removal date."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Collect remaining fruits.",
+            "[[prepared]]2. Cut or uproot plants.",
+            "[[prepared]]3. Shred the canopy.",
+            "[[prepared]]4. Remove or treat residues.",
+            "[[prepared]]5. Cultivate the soil according to the production system.",
+            "[[prepared]]6. Remove solanaceous hosts.",
+            "[[prepared]]7. Continue monitoring traps.",
+            "[[prepared]]8. Remove regrowth.",
+            "[[prepared]]9. Clean harvesting equipment.",
+            "[[prepared]]10. Notify neighboring fields of the removal date."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Successful Cultural Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Indicators include:",
+          "prepared_text": "[[prepared]]Indicators include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Delayed first appearance of infestation.",
+            "Lower initial-season population.",
+            "Reduced edge infestation.",
+            "Absence of volunteer tomatoes.",
+            "Decline in moth numbers after crop removal.",
+            "Fewer required sprays.",
+            "Absence of neglected old fields.",
+            "Lower percentage of infested fruits.",
+            "Easier inspection and spray coverage.",
+            "Conservation of natural enemies.",
+            "Reduced transfer of the pest into the next planting season."
+          ],
+          "prepared_items": [
+            "[[prepared]]Delayed first appearance of infestation.",
+            "[[prepared]]Lower initial-season population.",
+            "[[prepared]]Reduced edge infestation.",
+            "[[prepared]]Absence of volunteer tomatoes.",
+            "[[prepared]]Decline in moth numbers after crop removal.",
+            "[[prepared]]Fewer required sprays.",
+            "[[prepared]]Absence of neglected old fields.",
+            "[[prepared]]Lower percentage of infested fruits.",
+            "[[prepared]]Easier inspection and spray coverage.",
+            "[[prepared]]Conservation of natural enemies.",
+            "[[prepared]]Reduced transfer of the pest into the next planting season."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cultural Field-Evaluation Model"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Component",
+            "Good",
+            "Moderate",
+            "Poor"
+          ],
+          "rows": [
+            [
+              "Crop rotation",
+              "Non-host crop and a break period",
+              "Limited overlap",
+              "Solanaceous crop after tomato"
+            ],
+            [
+              "Crop residues",
+              "Removed immediately",
+              "Delayed removal",
+              "Left in the field"
+            ],
+            [
+              "Volunteer tomato plants",
+              "Absent",
+              "Limited",
+              "Widespread"
+            ],
+            [
+              "Host weeds",
+              "Monitored",
+              "Present without clear infestation",
+              "Infested and widespread"
+            ],
+            [
+              "Neighboring fields",
+              "Managed",
+              "Mixed conditions",
+              "Old and neglected"
+            ],
+            [
+              "Irrigation",
+              "Balanced",
+              "Limited fluctuation",
+              "Excess or stress"
+            ],
+            [
+              "Nitrogen",
+              "Based on analysis",
+              "Relatively high",
+              "Excessive vegetative growth"
+            ],
+            [
+              "Plant density",
+              "Allows inspection",
+              "Limited crowding",
+              "Very dense"
+            ],
+            [
+              "Infested fruits",
+              "Collected",
+              "Collected intermittently",
+              "Left in the field"
+            ],
+            [
+              "Postharvest sanitation",
+              "Immediate",
+              "Delayed",
+              "Not implemented"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Component",
+            "[[prepared]]Good",
+            "[[prepared]]Moderate",
+            "[[prepared]]Poor"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Crop rotation",
+              "[[prepared]]Non-host crop and a break period",
+              "[[prepared]]Limited overlap",
+              "[[prepared]]Solanaceous crop after tomato"
+            ],
+            [
+              "[[prepared]]Crop residues",
+              "[[prepared]]Removed immediately",
+              "[[prepared]]Delayed removal",
+              "[[prepared]]Left in the field"
+            ],
+            [
+              "[[prepared]]Volunteer tomato plants",
+              "[[prepared]]Absent",
+              "[[prepared]]Limited",
+              "[[prepared]]Widespread"
+            ],
+            [
+              "[[prepared]]Host weeds",
+              "[[prepared]]Monitored",
+              "[[prepared]]Present without clear infestation",
+              "[[prepared]]Infested and widespread"
+            ],
+            [
+              "[[prepared]]Neighboring fields",
+              "[[prepared]]Managed",
+              "[[prepared]]Mixed conditions",
+              "[[prepared]]Old and neglected"
+            ],
+            [
+              "[[prepared]]Irrigation",
+              "[[prepared]]Balanced",
+              "[[prepared]]Limited fluctuation",
+              "[[prepared]]Excess or stress"
+            ],
+            [
+              "[[prepared]]Nitrogen",
+              "[[prepared]]Based on analysis",
+              "[[prepared]]Relatively high",
+              "[[prepared]]Excessive vegetative growth"
+            ],
+            [
+              "[[prepared]]Plant density",
+              "[[prepared]]Allows inspection",
+              "[[prepared]]Limited crowding",
+              "[[prepared]]Very dense"
+            ],
+            [
+              "[[prepared]]Infested fruits",
+              "[[prepared]]Collected",
+              "[[prepared]]Collected intermittently",
+              "[[prepared]]Left in the field"
+            ],
+            [
+              "[[prepared]]Postharvest sanitation",
+              "[[prepared]]Immediate",
+              "[[prepared]]Delayed",
+              "[[prepared]]Not implemented"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors in Cultural Control"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Considering Crop Rotation to Mean Only Changing the Tomato Cultivar"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The plant host must be changed, not merely the cultivar name.",
+          "prepared_text": "[[prepared]]The plant host must be changed, not merely the cultivar name."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Planting Potato After Tomato and Considering the Cycle Broken"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Potato is a confirmed host of the pest.",
+          "prepared_text": "[[prepared]]Potato is a confirmed host of the pest."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Removing Plants but Leaving Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae may continue developing inside fruits.",
+          "prepared_text": "[[prepared]]Larvae may continue developing inside fruits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Shredding Residues and Leaving Them Untreated"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some pest stages may survive.",
+          "prepared_text": "[[prepared]]Some pest stages may survive."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Leaving an Old Field After Spraying Stops"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It becomes an immigration source for the new crop.",
+          "prepared_text": "[[prepared]]It becomes an immigration source for the new crop."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Removing Black Nightshade and Leaving It Along the Field Edge"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae may continue developing inside it.",
+          "prepared_text": "[[prepared]]Larvae may continue developing inside it."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Excessive Nitrogen Fertilization"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It produces dense growth that is difficult to inspect and cover.",
+          "prepared_text": "[[prepared]]It produces dense growth that is difficult to inspect and cover."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Imposing Water Stress to Control Tuta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It damages the crop and natural enemies and is not a reliable control measure.",
+          "prepared_text": "[[prepared]]It damages the crop and natural enemies and is not a reliable control measure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Relying on Salinity to Weaken the Pest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Salinity may accelerate pest development and weaken the crop.",
+          "prepared_text": "[[prepared]]Salinity may accelerate pest development and weaken the crop."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Removing Too Many Leaves"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This exposes fruits to sunlight and reduces photosynthesis.",
+          "prepared_text": "[[prepared]]This exposes fruits to sunlight and reduces photosynthesis."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Planting an Aromatic Species and Assuming It Is a Proven Repellent"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Companion plants require local scientific testing.",
+          "prepared_text": "[[prepared]]Companion plants require local scientific testing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Applying Sanitation in Only One Field"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Immigration may continue from neighboring fields.",
+          "prepared_text": "[[prepared]]Immigration may continue from neighboring fields."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Thirteen: Discarding Sorting Rejects Near Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They become sources of larvae and volunteer tomato plants.",
+          "prepared_text": "[[prepared]]They become sources of larvae and volunteer tomato plants."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fourteen: Randomly Burning Residues"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This causes pollution and hazards and should be used only in accordance with regulations.",
+          "prepared_text": "[[prepared]]This causes pollution and hazards and should be used only in accordance with regulations."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Practical Priorities for Open-Field Tomatoes in Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal priorities are:",
+          "prepared_text": "[[prepared]]The principal priorities are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Remove old fields immediately after harvesting ceases to be economically worthwhile.",
+            "2. Do not stop control while leaving a live field beside a new planting.",
+            "3. Remove volunteer tomato plants around fields and processing facilities.",
+            "4. Monitor black nightshade and solanaceous hosts.",
+            "5. Prevent continuous succession of tomato, potato, and eggplant without a break.",
+            "6. Collect infested fruits and do not discard them between rows.",
+            "7. Shred and treat tomato residues immediately after harvest.",
+            "8. Use traps to monitor moth emergence from old fields.",
+            "9. Regulate nitrogen and irrigation according to actual crop requirements.",
+            "10. Preserve canopy cover in processing tomatoes.",
+            "11. Clean harvest crates and equipment.",
+            "12. Manage waste from tomato-processing plants and sorting stations.",
+            "13. Coordinate measures among growers within the same production area.",
+            "14. Test supportive plants or intercropping on a limited scale before expansion.",
+            "15. Evaluate measures according to reductions in fruit infestation and spray number, not merely the visual cleanliness of the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Remove old fields immediately after harvesting ceases to be economically worthwhile.",
+            "[[prepared]]2. Do not stop control while leaving a live field beside a new planting.",
+            "[[prepared]]3. Remove volunteer tomato plants around fields and processing facilities.",
+            "[[prepared]]4. Monitor black nightshade and solanaceous hosts.",
+            "[[prepared]]5. Prevent continuous succession of tomato, potato, and eggplant without a break.",
+            "[[prepared]]6. Collect infested fruits and do not discard them between rows.",
+            "[[prepared]]7. Shred and treat tomato residues immediately after harvest.",
+            "[[prepared]]8. Use traps to monitor moth emergence from old fields.",
+            "[[prepared]]9. Regulate nitrogen and irrigation according to actual crop requirements.",
+            "[[prepared]]10. Preserve canopy cover in processing tomatoes.",
+            "[[prepared]]11. Clean harvest crates and equipment.",
+            "[[prepared]]12. Manage waste from tomato-processing plants and sorting stations.",
+            "[[prepared]]13. Coordinate measures among growers within the same production area.",
+            "[[prepared]]14. Test supportive plants or intercropping on a limited scale before expansion.",
+            "[[prepared]]15. Evaluate measures according to reductions in fruit infestation and spray number, not merely the visual cleanliness of the field."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Table of Cultural-Control Components"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Measure",
+            "Target Stage or System",
+            "Timing",
+            "Expected Effect"
+          ],
+          "rows": [
+            [
+              "Crop rotation",
+              "All stages through host interruption",
+              "Between seasons",
+              "Reduce pest persistence"
+            ],
+            [
+              "Host-free period",
+              "Eggs, larvae, and moths",
+              "Between planting seasons",
+              "Break the green bridge"
+            ],
+            [
+              "Removal of volunteer tomatoes",
+              "Eggs and larvae",
+              "Throughout the year",
+              "Remove an important reservoir"
+            ],
+            [
+              "Management of black nightshade",
+              "Eggs and larvae",
+              "Before and during the season",
+              "Reduce an alternative host"
+            ],
+            [
+              "Collection of infested fruits",
+              "Larvae",
+              "During the season and harvest",
+              "Prevent pupation and movement"
+            ],
+            [
+              "Removal of infestation foci",
+              "Eggs and larvae",
+              "At the beginning of infestation",
+              "Contain spread"
+            ],
+            [
+              "Crop-residue removal",
+              "Eggs, larvae, and pupae",
+              "After harvest",
+              "Reduce the next generation"
+            ],
+            [
+              "Residue shredding",
+              "Larvae and pupae",
+              "After harvest",
+              "Destroy and dry tissues"
+            ],
+            [
+              "Soil cultivation",
+              "Pupae and residues",
+              "After crop removal",
+              "Reduce survival"
+            ],
+            [
+              "Balanced irrigation",
+              "Plant and tritrophic system",
+              "Throughout the season",
+              "Improve tolerance and management"
+            ],
+            [
+              "Balanced fertilization",
+              "Plant, pest, and natural enemies",
+              "Throughout the season",
+              "Prevent excessive growth"
+            ],
+            [
+              "Suitable plant density",
+              "Field environment",
+              "At planting",
+              "Improve inspection and coverage"
+            ],
+            [
+              "Intercropping",
+              "Moths and natural enemies",
+              "According to the system",
+              "Potential effect requiring calibration"
+            ],
+            [
+              "Regular harvesting",
+              "Larvae in fruits",
+              "During maturity",
+              "Reduce infested fruits"
+            ],
+            [
+              "Container cleaning",
+              "Larvae and pupae",
+              "Throughout the season",
+              "Prevent transfer"
+            ],
+            [
+              "Collective management",
+              "All stages",
+              "Throughout the year",
+              "Reduce regional immigration"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Measure",
+            "[[prepared]]Target Stage or System",
+            "[[prepared]]Timing",
+            "[[prepared]]Expected Effect"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Crop rotation",
+              "[[prepared]]All stages through host interruption",
+              "[[prepared]]Between seasons",
+              "[[prepared]]Reduce pest persistence"
+            ],
+            [
+              "[[prepared]]Host-free period",
+              "[[prepared]]Eggs, larvae, and moths",
+              "[[prepared]]Between planting seasons",
+              "[[prepared]]Break the green bridge"
+            ],
+            [
+              "[[prepared]]Removal of volunteer tomatoes",
+              "[[prepared]]Eggs and larvae",
+              "[[prepared]]Throughout the year",
+              "[[prepared]]Remove an important reservoir"
+            ],
+            [
+              "[[prepared]]Management of black nightshade",
+              "[[prepared]]Eggs and larvae",
+              "[[prepared]]Before and during the season",
+              "[[prepared]]Reduce an alternative host"
+            ],
+            [
+              "[[prepared]]Collection of infested fruits",
+              "[[prepared]]Larvae",
+              "[[prepared]]During the season and harvest",
+              "[[prepared]]Prevent pupation and movement"
+            ],
+            [
+              "[[prepared]]Removal of infestation foci",
+              "[[prepared]]Eggs and larvae",
+              "[[prepared]]At the beginning of infestation",
+              "[[prepared]]Contain spread"
+            ],
+            [
+              "[[prepared]]Crop-residue removal",
+              "[[prepared]]Eggs, larvae, and pupae",
+              "[[prepared]]After harvest",
+              "[[prepared]]Reduce the next generation"
+            ],
+            [
+              "[[prepared]]Residue shredding",
+              "[[prepared]]Larvae and pupae",
+              "[[prepared]]After harvest",
+              "[[prepared]]Destroy and dry tissues"
+            ],
+            [
+              "[[prepared]]Soil cultivation",
+              "[[prepared]]Pupae and residues",
+              "[[prepared]]After crop removal",
+              "[[prepared]]Reduce survival"
+            ],
+            [
+              "[[prepared]]Balanced irrigation",
+              "[[prepared]]Plant and tritrophic system",
+              "[[prepared]]Throughout the season",
+              "[[prepared]]Improve tolerance and management"
+            ],
+            [
+              "[[prepared]]Balanced fertilization",
+              "[[prepared]]Plant, pest, and natural enemies",
+              "[[prepared]]Throughout the season",
+              "[[prepared]]Prevent excessive growth"
+            ],
+            [
+              "[[prepared]]Suitable plant density",
+              "[[prepared]]Field environment",
+              "[[prepared]]At planting",
+              "[[prepared]]Improve inspection and coverage"
+            ],
+            [
+              "[[prepared]]Intercropping",
+              "[[prepared]]Moths and natural enemies",
+              "[[prepared]]According to the system",
+              "[[prepared]]Potential effect requiring calibration"
+            ],
+            [
+              "[[prepared]]Regular harvesting",
+              "[[prepared]]Larvae in fruits",
+              "[[prepared]]During maturity",
+              "[[prepared]]Reduce infested fruits"
+            ],
+            [
+              "[[prepared]]Container cleaning",
+              "[[prepared]]Larvae and pupae",
+              "[[prepared]]Throughout the season",
+              "[[prepared]]Prevent transfer"
+            ],
+            [
+              "[[prepared]]Collective management",
+              "[[prepared]]All stages",
+              "[[prepared]]Throughout the year",
+              "[[prepared]]Reduce regional immigration"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Summary of Section Five"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural control reduces the ability of Tuta absoluta to reach suitable hosts, complete its life cycle, and move among planting seasons.",
+          "prepared_text": "[[prepared]]Cultural control reduces the ability of Tuta absoluta to reach suitable hosts, complete its life cycle, and move among planting seasons."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its principal foundations include:",
+          "prepared_text": "[[prepared]]Its principal foundations include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crop rotation with non-solanaceous crops.",
+            "A host-free period.",
+            "Organization of planting dates.",
+            "Removal of volunteer tomato plants.",
+            "Management of black nightshade and alternative hosts.",
+            "Removal of infested plant parts and fruits when economically justified.",
+            "Rapid termination of old fields.",
+            "Removal and treatment of crop residues.",
+            "Appropriate soil cultivation.",
+            "Balanced irrigation and fertilization.",
+            "Maintenance of suitable plant density and canopy cover.",
+            "Cleaning containers and equipment.",
+            "Area-wide management."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crop rotation with non-solanaceous crops.",
+            "[[prepared]]A host-free period.",
+            "[[prepared]]Organization of planting dates.",
+            "[[prepared]]Removal of volunteer tomato plants.",
+            "[[prepared]]Management of black nightshade and alternative hosts.",
+            "[[prepared]]Removal of infested plant parts and fruits when economically justified.",
+            "[[prepared]]Rapid termination of old fields.",
+            "[[prepared]]Removal and treatment of crop residues.",
+            "[[prepared]]Appropriate soil cultivation.",
+            "[[prepared]]Balanced irrigation and fertilization.",
+            "[[prepared]]Maintenance of suitable plant density and canopy cover.",
+            "[[prepared]]Cleaning containers and equipment.",
+            "[[prepared]]Area-wide management."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crop-residue removal is among the most important measures. A field study recorded moth populations approximately 47.77% and 73.97% higher in fields that were not cleaned or cultivated after harvest than in cleaned and cultivated fields.",
+          "prepared_text": "[[prepared]]Crop-residue removal is among the most important measures. A field study recorded moth populations approximately 47.77% and 73.97% higher in fields that were not cleaned or cultivated after harvest than in cleaned and cultivated fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The effect of tillage cannot be separated from residue removal in that study, so the two measures should be viewed as a combined package.",
+          "prepared_text": "[[prepared]]The effect of tillage cannot be separated from residue removal in that study, so the two measures should be viewed as a combined package."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Irrigation and fertilization affect interactions among the plant, pest, and natural enemies, but water stress or nutrient deficiency should not be used as direct control methods.",
+          "prepared_text": "[[prepared]]Irrigation and fertilization affect interactions among the plant, pest, and natural enemies, but water stress or nutrient deficiency should not be used as direct control methods."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Intercropping and supportive plants may contribute to reducing pest pressure and increasing natural enemies, but they require local calibration before adoption in open-field processing-tomato systems.",
+          "prepared_text": "[[prepared]]Intercropping and supportive plants may contribute to reducing pest pressure and increasing natural enemies, but they require local calibration before adoption in open-field processing-tomato systems."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural control cannot be completely successful in one field when surrounding old fields, crop residues, and alternative hosts remain continuous immigration sources.",
+          "prepared_text": "[[prepared]]Cultural control cannot be completely successful in one field when surrounding old fields, crop residues, and alternative hosts remain continuous immigration sources."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-5-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Desneux, N., Han, P., Mansour, R., Arnó, J., Brévault, T., Campos, M. R., Chailleux, A., Guedes, R. N. C., Karimi, J., Konan, K. A. J., Lavoir, A. V., Luna, M. G., Nnoffo Budia, F., Pilot, S., Roditakis, E., Sylla, S., Verheggen, F. J., Urbaneja, A., & Biondi, A. (2022). Integrated Pest Management of Tuta absoluta: Practical Implementations across Different World Regions. Journal of Pest Science, 95, 17–39.",
+              "url": "https://doi.org/10.1007/s10340-021-01442-8"
+            },
+            {
+              "number": 2,
+              "text": "Han, P., Desneux, N., Becker, C., Larbat, R., Le Bot, J., Adamowicz, S., Zhang, J., & Lavoir, A. V. (2019). Bottom-Up Effects of Irrigation, Fertilization and Plant Resistance on Tuta absoluta: Implications for Integrated Pest Management. Journal of Pest Science, 92, 1359–1370.",
+              "url": "https://doi.org/10.1007/s10340-018-1066-x"
+            },
+            {
+              "number": 3,
+              "text": "Han, P., Lavoir, A. V., Le Bot, J., Amiens-Desneux, E., & Desneux, N. (2014). Nitrogen and Water Availability to Tomato Plants Triggers Bottom-Up Effects on the Leafminer Tuta absoluta. Scientific Reports, 4, 4455.",
+              "url": "https://doi.org/10.1038/srep04455"
+            },
+            {
+              "number": 4,
+              "text": "Larbat, R., Adamowicz, S., Robin, C., Han, P., Desneux, N., & Le Bot, J. (2016). Interrelated Responses of Tomato Plants and the Leaf Miner Tuta absoluta to Nitrogen Supply. Plant Biology, 18(3), 495–504.",
+              "url": "https://doi.org/10.1111/plb.12425"
+            },
+            {
+              "number": 5,
+              "text": "Han, P., Wang, Z. J., Lavoir, A. V., Michel, T., Seassau, A., Zheng, W. Y., Niu, C. Y., & Desneux, N. (2016). Increased Water Salinity Applied to Tomato Plants Accelerates the Development of the Leaf Miner Tuta absoluta through Bottom-Up Effects. Scientific Reports, 6, 32403.",
+              "url": "https://doi.org/10.1038/srep32403"
+            },
+            {
+              "number": 6,
+              "text": "Türkmen, Y. M., & Kazak, C. (2024). The Impact of Post-Harvest Removal of Vegetative Residues on the Adult Population Density of the Tomato Leaf Miner, Tuta absoluta, in Tomato-Growing Areas of Muğla. Çukurova Journal of Agricultural and Food Sciences, 39(2), 470–478.",
+              "url": "https://doi.org/10.36846/CJAFS.2024.166"
+            },
+            {
+              "number": 7,
+              "text": "Zarei, E., Fathi, S. A. A., Hassanpour, M., & Golizadeh, A. (2019). Assessment of Intercropping Tomato and Sainfoin for the Control of Tuta absoluta. Crop Protection, 120, 125–133.",
+              "url": "https://doi.org/10.1016/j.cropro.2019.02.024"
+            },
+            {
+              "number": 8,
+              "text": "Colmenárez, Y. C., Corniani, N., Jahnke, S. M., Sampaio, M. V., & Vásquez, G. M. (2022). Sustainable Management of the Invasive Tuta absoluta. Journal of Integrated Pest Management, 13(1), 15.",
+              "url": "https://doi.org/10.1093/jipm/pmac012"
+            },
+            {
+              "number": 9,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F. H., & Desneux, N. (2018). Ecology, Worldwide Spread, and Management of the Invasive South American Tomato Pinworm, Tuta absoluta: Past, Present, and Future. Annual Review of Entomology, 63, 239–258.",
+              "url": "https://doi.org/10.1146/annurev-ento-031616-034933"
+            },
+            {
+              "number": 10,
+              "text": "Kansiime, K. M., Karanja, P., Rware, H., Muthaura, C., Macharia, C., Makale, F., Rwomushana, I., Ongoya, G., Klapwijk, J., Vos, J., & Karanja, D. (2020). Integrated Management of Tomato Leaf Miner and Other Tomato Pests in Kenya: A Training Manual for Extension Workers. CABI and Koppert Biological Systems.",
+              "url": "https://www.cabi.org/wp-content/uploads/TUTA-Extension-Worker-Manual-FINAL.pdf"
+            },
+            {
+              "number": 11,
+              "text": "Food and Agriculture Organization of the United Nations. Developing an Integrated Pest Management and Biorational Program for Control and Containment of the Invasive Pest of Tomato, Tuta absoluta, in Nigeria. FAO.",
+              "url": "https://openknowledge.fao.org/items/f382f3be-f387-46ae-9dbf-009e82b0c402"
+            },
+            {
+              "number": 12,
+              "text": "European and Mediterranean Plant Protection Organization. Phthorimaea absoluta. EPPO Global Database.",
+              "url": "https://gd.eppo.int/taxon/GNORAB"
+            },
+            {
+              "number": 13,
+              "text": "Sawadogo, W. M., Ahissou, B. R., Somda, I., Nacro, S., Legrève, A., & Verheggen, F. (2022). Identification of Alternative Hosts of the Tomato Leafminer Tuta absoluta in West Africa. African Entomology, 30.",
+              "url": "https://doi.org/10.17159/2254-8854/2022/a12056"
+            },
+            {
+              "number": 14,
+              "text": "Idriss, G. E. A., du Plessis, H., Khamis, F. M., Ekesi, S., Tanga, C. M., & Mohamed, S. A. (2020). Host Range and Effects of Plant Species on Preference and Fitness of Tuta absoluta. Journal of Economic Entomology, 113(3), 1279–1289.",
+              "url": "https://doi.org/10.1093/jee/toaa002"
+            },
+            {
+              "number": 15,
+              "text": "Mohamadi, P., Razmjou, J., Naseri, B., & Hassanpour, M. (2017). Population Growth Parameters of Tuta absoluta on Tomato Plants Grown on Different Soil Fertilizations. Journal of Insect Science, 17(5).",
+              "url": "https://doi.org/10.1093/jisesa/iex073"
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 5,
+        "part_title": "Section Five: Cultural Control",
+        "part_subtitle": "Cultural Control of Tuta absoluta"
+      }
+    }
+  ]
+}
