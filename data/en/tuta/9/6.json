@@ -1,0 +1,2516 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 6,
+  "part_title": "Section Six: Mechanical and Physical Control",
+  "part_short_title": "Mechanical and Physical Control",
+  "part_subtitle": "Mechanical and Physical Control of Tuta absoluta",
+  "content_path": "tuta/9/6.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mechanical and physical control comprise a group of interventions based on exclusion, isolation, organized removal of infested stages and their sources, or prevention of pest transfer among production units, without relying on the toxic action of insecticides.",
+          "prepared_text": "[[prepared]]Mechanical and physical control comprise a group of interventions based on exclusion, isolation, organized removal of infested stages and their sources, or prevention of pest transfer among production units, without relying on the toxic action of insecticides."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This concept does not include every incidental manual practice or any procedure that cannot be measured and repeated. For a method to be included within mechanical or physical control, it should have:",
+          "prepared_text": "[[prepared]]This concept does not include every incidental manual practice or any procedure that cannot be measured and repeated. For a method to be included within mechanical or physical control, it should have:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A clearly defined mode of action.",
+            "A known target stage.",
+            "A standardized application method.",
+            "Measurable efficacy.",
+            "Practical suitability for the production system.",
+            "Experimental evidence or reliable extension support.",
+            "No crop damage exceeding its benefit."
+          ],
+          "prepared_items": [
+            "[[prepared]]A clearly defined [[term:mode-of-action]]mode of action[[/term]].",
+            "[[prepared]]A known target stage.",
+            "[[prepared]]A standardized application method.",
+            "[[prepared]]Measurable efficacy.",
+            "[[prepared]]Practical suitability for the production system.",
+            "[[prepared]]Experimental evidence or reliable extension support.",
+            "[[prepared]]No crop damage exceeding its benefit."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The methods with practical value against Tuta absoluta are concentrated in four principal areas:",
+          "prepared_text": "[[prepared]]The methods with practical value against Tuta absoluta are concentrated in four principal areas:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Physical exclusion of moths using insect barriers.",
+            "2. Sanitary isolation of plants and suspected batches.",
+            "3. Selective removal of infested tissues and fruits.",
+            "4. Containment and safe disposal of plant residues and pest-transfer sources."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Physical exclusion of moths using insect barriers.",
+            "[[prepared]]2. Sanitary isolation of plants and suspected batches.",
+            "[[prepared]]3. Selective removal of infested tissues and fruits.",
+            "[[prepared]]4. Containment and safe disposal of plant residues and pest-transfer sources."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When used alone, these methods cannot provide complete pest management in most open fields. However, they play an important role in reducing initial populations, containing early infestation foci, protecting nurseries and greenhouses, and preventing residues and containers from becoming sources of the next generation.",
+          "prepared_text": "[[prepared]]When used alone, these methods cannot provide complete pest management in most open fields. However, they play an important role in reducing initial populations, containing early infestation foci, protecting nurseries and greenhouses, and preventing residues and containers from becoming sources of the next generation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Definition of Mechanical Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mechanical control is a direct intervention that removes living pest stages or plant parts carrying them from the production system through organized operations such as:",
+          "prepared_text": "[[prepared]]Mechanical control is a direct intervention that removes living pest stages or plant parts carrying them from the production system through organized operations such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Rejecting infested transplants.",
+            "Removing plants from early infestation foci.",
+            "Removing severely infested plant parts.",
+            "Collecting infested fruits.",
+            "Shredding crop residues after crop termination.",
+            "Cleaning equipment and containers of plant material.",
+            "Transporting residues in containers that prevent spillage or pest escape."
+          ],
+          "prepared_items": [
+            "[[prepared]]Rejecting infested transplants.",
+            "[[prepared]]Removing plants from early infestation foci.",
+            "[[prepared]]Removing severely infested plant parts.",
+            "[[prepared]]Collecting infested fruits.",
+            "[[prepared]]Shredding crop residues after crop termination.",
+            "[[prepared]]Cleaning equipment and containers of plant material.",
+            "[[prepared]]Transporting residues in containers that prevent spillage or pest escape."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its efficacy does not depend merely on separating the infested part from the plant, but on removing it from the pest life cycle and preventing eggs, larvae, or pupae within it from completing development.",
+          "prepared_text": "[[prepared]]Its efficacy does not depend merely on separating the infested part from the plant, but on removing it from the pest life cycle and preventing eggs, larvae, or [[term:pupation]]pupae[[/term]] within it from completing development."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Definition of Physical Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Physical control is the use of a material barrier or isolation system that prevents moths from reaching plants or limits their movement among production areas.",
+          "prepared_text": "[[prepared]]Physical control is the use of a material barrier or isolation system that prevents moths from reaching plants or limits their movement among production areas."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its most established applications include:",
+          "prepared_text": "[[prepared]]Its most established applications include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Insect-proof screens.",
+            "Sealing greenhouse and nursery openings.",
+            "Double-door systems and protected entry areas.",
+            "Isolation of new or suspected transplant batches.",
+            "Containment of residues and infested fruits during collection and transport.",
+            "Prevention of pest transfer with containers and equipment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Insect-proof screens.",
+            "[[prepared]]Sealing greenhouse and nursery openings.",
+            "[[prepared]]Double-door systems and protected entry areas.",
+            "[[prepared]]Isolation of new or suspected transplant batches.",
+            "[[prepared]]Containment of residues and infested fruits during collection and transport.",
+            "[[prepared]]Prevention of pest transfer with containers and equipment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal effect of these methods is to reduce adult entry and oviposition opportunities, not to kill larvae already present inside mines.",
+          "prepared_text": "[[prepared]]The principal effect of these methods is to reduce adult entry and oviposition opportunities, not to kill larvae already present inside [[term:mines]]mines[[/term]]."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Position of Mechanical and Physical Control Within IPM"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These methods perform different functions according to crop stage.",
+          "prepared_text": "[[prepared]]These methods perform different functions according to crop stage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Before Planting"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Protect the nursery from moth entry.",
+            "Isolate transplant batches.",
+            "Prevent entry of contaminated containers or equipment.",
+            "Remove residues from the previous crop.",
+            "Repair screens and doors."
+          ],
+          "prepared_items": [
+            "[[prepared]]Protect the nursery from moth entry.",
+            "[[prepared]]Isolate transplant batches.",
+            "[[prepared]]Prevent entry of contaminated containers or equipment.",
+            "[[prepared]]Remove residues from the previous crop.",
+            "[[prepared]]Repair screens and doors."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "During Early Crop Stages"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reject severely infested transplants or plants.",
+            "Contain limited infestation foci.",
+            "Remove plant parts containing confirmed infestation when economically justified."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reject severely infested transplants or plants.",
+            "[[prepared]]Contain limited infestation foci.",
+            "[[prepared]]Remove plant parts containing confirmed infestation when economically justified."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "During Fruiting"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collect infested fruits.",
+            "Prevent accumulation of fallen and rotting fruits.",
+            "Separate rejected fruits from sound produce."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collect infested fruits.",
+            "[[prepared]]Prevent accumulation of fallen and rotting fruits.",
+            "[[prepared]]Separate rejected fruits from sound produce."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "After Harvest"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Terminate remaining plants.",
+            "Collect unharvested fruits.",
+            "Shred the canopy.",
+            "Contain residues and move them to a safe treatment system.",
+            "Clean harvesting machinery, crates, and transport vehicles."
+          ],
+          "prepared_items": [
+            "[[prepared]]Terminate remaining plants.",
+            "[[prepared]]Collect unharvested fruits.",
+            "[[prepared]]Shred the canopy.",
+            "[[prepared]]Contain residues and move them to a safe treatment system.",
+            "[[prepared]]Clean harvesting machinery, crates, and transport vehicles."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Physical Exclusion of Moths"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Concept of Exclusion"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Exclusion means preventing adult insects from entering a protected production area and is the clearest application of physical control.",
+          "prepared_text": "[[prepared]]Exclusion means preventing adult insects from entering a protected production area and is the clearest application of physical control."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It primarily targets:",
+          "prepared_text": "[[prepared]]It primarily targets:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fertilized females searching for plants on which to lay eggs.",
+            "Males entering from surrounding fields.",
+            "Immigration waves resulting from removal of old fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fertilized females searching for plants on which to lay eggs.",
+            "[[prepared]]Males entering from surrounding fields.",
+            "[[prepared]]Immigration waves resulting from removal of old fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Exclusion is most suitable in:",
+          "prepared_text": "[[prepared]]Exclusion is most suitable in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nurseries.",
+            "Transplant-production greenhouses.",
+            "Commercial greenhouses.",
+            "Protected tunnels.",
+            "Temporary transplant-isolation units."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nurseries.",
+            "[[prepared]]Transplant-production greenhouses.",
+            "[[prepared]]Commercial greenhouses.",
+            "[[prepared]]Protected tunnels.",
+            "[[prepared]]Temporary transplant-isolation units."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In large open fields, complete area isolation is usually economically impractical. Exclusion therefore focuses mainly on nurseries and on routes through which transplants and equipment enter.",
+          "prepared_text": "[[prepared]]In large open fields, complete area isolation is usually economically impractical. Exclusion therefore focuses mainly on nurseries and on routes through which transplants and equipment enter."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Insect-Proof Screens"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Screens act as barriers separating the internal production environment from insect populations outside.",
+          "prepared_text": "[[prepared]]Screens act as barriers separating the internal production environment from insect populations outside."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their efficacy depends on several characteristics, particularly:",
+          "prepared_text": "[[prepared]]Their efficacy depends on several characteristics, particularly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Actual screen-opening dimensions.",
+            "Thread diameter.",
+            "Weaving pattern.",
+            "Percentage of open area.",
+            "Tightness of installation.",
+            "Integrity of joints.",
+            "Duration of door opening.",
+            "Air movement within the structure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Actual screen-opening dimensions.",
+            "[[prepared]]Thread diameter.",
+            "[[prepared]]Weaving pattern.",
+            "[[prepared]]Percentage of open area.",
+            "[[prepared]]Tightness of installation.",
+            "[[prepared]]Integrity of joints.",
+            "[[prepared]]Duration of door opening.",
+            "[[prepared]]Air movement within the structure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Describing a screen only by the number of openings or threads per inch is insufficient because two screens with the same count may differ in actual opening size owing to differences in thread thickness and manufacturing method.",
+          "prepared_text": "[[prepared]]Describing a screen only by the number of openings or threads per inch is insufficient because two screens with the same count may differ in actual opening size owing to differences in thread thickness and manufacturing method."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Screen specifications should document:",
+          "prepared_text": "[[prepared]]Screen specifications should document:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Opening width.",
+            "Opening length.",
+            "Thread diameter.",
+            "Percentage of open area.",
+            "Airflow rate.",
+            "Resistance to ultraviolet radiation and tearing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Opening width.",
+            "[[prepared]]Opening length.",
+            "[[prepared]]Thread diameter.",
+            "[[prepared]]Percentage of open area.",
+            "[[prepared]]Airflow rate.",
+            "[[prepared]]Resistance to ultraviolet radiation and tearing."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Conditions Required for Successful Insect Screening"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A screen provides effective exclusion only when the following conditions are met:",
+          "prepared_text": "[[prepared]]A screen provides effective exclusion only when the following conditions are met:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. All ventilation openings are covered.",
+            "2. No gaps occur between the screen and the structure.",
+            "3. Lower edges are sealed.",
+            "4. Openings around hoses and cables are closed.",
+            "5. Holes and tears are repaired immediately.",
+            "6. Door opening is controlled.",
+            "7. Transplants are inspected before entry.",
+            "8. Residual infestation from the previous crop is eliminated.",
+            "9. Residues are removed in closed containers.",
+            "10. Internal traps are used to detect any barrier breach."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. All ventilation openings are covered.",
+            "[[prepared]]2. No gaps occur between the screen and the structure.",
+            "[[prepared]]3. Lower edges are sealed.",
+            "[[prepared]]4. Openings around hoses and cables are closed.",
+            "[[prepared]]5. Holes and tears are repaired immediately.",
+            "[[prepared]]6. Door opening is controlled.",
+            "[[prepared]]7. Transplants are inspected before entry.",
+            "[[prepared]]8. Residual infestation from the previous crop is eliminated.",
+            "[[prepared]]9. Residues are removed in closed containers.",
+            "[[prepared]]10. Internal traps are used to detect any barrier breach."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The mere presence of a screen does not prove that the structure is isolated. The pest may enter with transplants, trays, or residues, or through a door left open.",
+          "prepared_text": "[[prepared]]The mere presence of a screen does not prove that the structure is isolated. The pest may enter with transplants, trays, or residues, or through a door left open."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Screens on the Internal Climate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reducing screen-opening dimensions usually decreases air-exchange rate.",
+          "prepared_text": "[[prepared]]Reducing screen-opening dimensions usually decreases air-exchange rate."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Depending on structure design and climate, this may lead to:",
+          "prepared_text": "[[prepared]]Depending on structure design and climate, this may lead to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Higher temperature.",
+            "Higher relative humidity.",
+            "Reduced air movement.",
+            "Increased risk of some diseases.",
+            "Effects on fruit set.",
+            "Changes in sugar accumulation and fruit quality.",
+            "Greater ventilation or cooling requirements."
+          ],
+          "prepared_items": [
+            "[[prepared]]Higher temperature.",
+            "[[prepared]]Higher relative humidity.",
+            "[[prepared]]Reduced air movement.",
+            "[[prepared]]Increased risk of some diseases.",
+            "[[prepared]]Effects on fruit set.",
+            "[[prepared]]Changes in sugar accumulation and fruit quality.",
+            "[[prepared]]Greater ventilation or cooling requirements."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Screens should therefore not be selected only for maximum exclusion, but through a balance between:",
+          "prepared_text": "[[prepared]]Screens should therefore not be selected only for maximum exclusion, but through a balance between:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Preventing moth entry + maintaining a crop-suitable climate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The screen should be evaluated within the actual production system because the same screen may perform well in a well-ventilated structure and poorly in a low or poorly ventilated structure.",
+          "prepared_text": "[[prepared]]The screen should be evaluated within the actual production system because the same screen may perform well in a well-ventilated structure and poorly in a low or poorly ventilated structure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Partial and Complete Screening"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Partial Screening"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This includes fitting screens to:",
+          "prepared_text": "[[prepared]]This includes fitting screens to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Side openings.",
+            "Roof openings.",
+            "Doors.",
+            "Ventilation inlets."
+          ],
+          "prepared_items": [
+            "[[prepared]]Side openings.",
+            "[[prepared]]Roof openings.",
+            "[[prepared]]Doors.",
+            "[[prepared]]Ventilation inlets."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It can provide adequate protection when the remaining structure is properly sealed.",
+          "prepared_text": "[[prepared]]It can provide adequate protection when the remaining structure is properly sealed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Complete Screening"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This means enclosing all openings and faces with screens while using a controlled entry system.",
+          "prepared_text": "[[prepared]]This means enclosing all openings and faces with screens while using a controlled entry system."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may provide greater protection from external insects but may also have greater effects on:",
+          "prepared_text": "[[prepared]]It may provide greater protection from external insects but may also have greater effects on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Ventilation.",
+            "Temperature.",
+            "Humidity.",
+            "Fruit quality."
+          ],
+          "prepared_items": [
+            "[[prepared]]Ventilation.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Humidity.",
+            "[[prepared]]Fruit quality."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increasing the screened area should not be assumed to produce a proportional reduction in infestation because results are also affected by transplant entry, door management, internal infestation, and barrier condition.",
+          "prepared_text": "[[prepared]]Increasing the screened area should not be assumed to produce a proportional reduction in infestation because results are also affected by transplant entry, door management, internal infestation, and barrier condition."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Double Doors and Protected Entry Areas"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The entrance is a major weak point in protected structures.",
+          "prepared_text": "[[prepared]]The entrance is a major weak point in protected structures."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A double-entry system consists of:",
+          "prepared_text": "[[prepared]]A double-entry system consists of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. An external door.",
+            "2. An intermediate chamber or space.",
+            "3. An internal door."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. An external door.",
+            "[[prepared]]2. An intermediate chamber or space.",
+            "[[prepared]]3. An internal door."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The two doors should not be opened simultaneously.",
+          "prepared_text": "[[prepared]]The two doors should not be opened simultaneously."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The protected entry area performs functions including:",
+          "prepared_text": "[[prepared]]The protected entry area performs functions including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reducing moth entry with air currents.",
+            "Inspecting workers and tools.",
+            "Temporarily receiving trays.",
+            "Removing attached plant material.",
+            "Holding a trap to detect incoming moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reducing moth entry with air currents.",
+            "[[prepared]]Inspecting workers and tools.",
+            "[[prepared]]Temporarily receiving trays.",
+            "[[prepared]]Removing attached plant material.",
+            "[[prepared]]Holding a trap to detect incoming moths."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Doors should be:",
+          "prepared_text": "[[prepared]]Doors should be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Self-closing where possible.",
+            "Free from gaps beneath them.",
+            "Suitable for the size of carts and trays.",
+            "Not obstructed by crates or equipment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Self-closing where possible.",
+            "[[prepared]]Free from gaps beneath them.",
+            "[[prepared]]Suitable for the size of carts and trays.",
+            "[[prepared]]Not obstructed by crates or equipment."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Service Openings"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Moths may enter through small gaps around:",
+          "prepared_text": "[[prepared]]Moths may enter through small gaps around:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Irrigation lines.",
+            "Cables.",
+            "Heating pipes.",
+            "Ventilation fans.",
+            "Drainage outlets.",
+            "Points where the structure meets the soil."
+          ],
+          "prepared_items": [
+            "[[prepared]]Irrigation lines.",
+            "[[prepared]]Cables.",
+            "[[prepared]]Heating pipes.",
+            "[[prepared]]Ventilation fans.",
+            "[[prepared]]Drainage outlets.",
+            "[[prepared]]Points where the structure meets the soil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These points should be included in the barrier-inspection program rather than limiting inspection to visible screens and doors.",
+          "prepared_text": "[[prepared]]These points should be included in the barrier-inspection program rather than limiting inspection to visible screens and doors."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every defect or repair should be recorded with its location and date, and the nearest trap should then be checked to determine whether moth entry occurred.",
+          "prepared_text": "[[prepared]]Every defect or repair should be recorded with its location and date, and the nearest trap should then be checked to determine whether moth entry occurred."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Internal and External Trap Monitoring"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Placing traps both inside and outside a structure helps assess exclusion efficacy.",
+          "prepared_text": "[[prepared]]Placing traps both inside and outside a structure helps assess exclusion efficacy."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Possible results indicate the following:",
+          "prepared_text": "[[prepared]]Possible results indicate the following:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "High Catch Outside and Low Catch Inside"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This indicates external pest pressure while the barrier remains relatively effective.",
+          "prepared_text": "[[prepared]]This indicates external pest pressure while the barrier remains relatively effective."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "High Catch Inside the Structure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may indicate:",
+          "prepared_text": "[[prepared]]This may indicate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An opening.",
+            "Poor door management.",
+            "Introduction of infested transplants.",
+            "Persistence of an internal generation.",
+            "Presence of infested residues inside the structure."
+          ],
+          "prepared_items": [
+            "[[prepared]]An opening.",
+            "[[prepared]]Poor door management.",
+            "[[prepared]]Introduction of infested transplants.",
+            "[[prepared]]Persistence of an internal generation.",
+            "[[prepared]]Presence of infested residues inside the structure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Internal catch should not be interpreted as screen failure alone before all entry pathways are reviewed.",
+          "prepared_text": "[[prepared]]Internal catch should not be interpreted as screen failure alone before all entry pathways are reviewed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Isolation of Transplant Batches"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Isolation is one of the most important physical interventions in the nursery.",
+          "prepared_text": "[[prepared]]Isolation is one of the most important physical interventions in the nursery."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "New batches or batches received from external sources should be placed in a separate area before integration with existing production.",
+          "prepared_text": "[[prepared]]New batches or batches received from external sources should be placed in a separate area before integration with existing production."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Isolation includes:",
+          "prepared_text": "[[prepared]]Isolation includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Clear spatial separation.",
+            "A dedicated trap.",
+            "Inspection of leaves and growing points.",
+            "Opening suspected mines.",
+            "Recording the batch source.",
+            "Preventing tray exchange among batches.",
+            "Reinspection before transfer."
+          ],
+          "prepared_items": [
+            "[[prepared]]Clear spatial separation.",
+            "[[prepared]]A dedicated trap.",
+            "[[prepared]]Inspection of leaves and growing points.",
+            "[[prepared]]Opening suspected mines.",
+            "[[prepared]]Recording the batch source.",
+            "[[prepared]]Preventing tray exchange among batches.",
+            "[[prepared]]Reinspection before transfer."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Isolation aims to prevent a single infested batch from distributing the pest throughout the nursery or among several fields.",
+          "prepared_text": "[[prepared]]Isolation aims to prevent a single infested batch from distributing the pest throughout the nursery or among several fields."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Rejection of Infested Transplants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A transplant should be rejected when it contains:",
+          "prepared_text": "[[prepared]]A transplant should be rejected when it contains:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confirmed eggs.",
+            "An active mine.",
+            "A live larva.",
+            "Growing-point infestation.",
+            "Stem boring.",
+            "Damage reducing its capacity for normal growth."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confirmed eggs.",
+            "[[prepared]]An active mine.",
+            "[[prepared]]A live larva.",
+            "[[prepared]]Growing-point infestation.",
+            "[[prepared]]Stem boring.",
+            "[[prepared]]Damage reducing its capacity for normal growth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Removing one infested leaf and automatically accepting the transplant is insufficient because other undetected eggs or larvae may be present.",
+          "prepared_text": "[[prepared]]Removing one infested leaf and automatically accepting the transplant is insufficient because other undetected eggs or larvae may be present."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When infestation occurs in more than one tray or several larval instars are found, the entire batch should be assessed, not only visibly infested plants.",
+          "prepared_text": "[[prepared]]When infestation occurs in more than one tray or several [[term:larval-instar]]larval instars[[/term]] are found, the entire batch should be assessed, not only visibly infested plants."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Removal of Infested Focus Plants in the Field"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A whole plant may be removed when it represents a limited early-season focus and contains:",
+          "prepared_text": "[[prepared]]A whole plant may be removed when it represents a limited early-season focus and contains:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Severe growing-point infestation.",
+            "Several active mines.",
+            "Larvae in the stem.",
+            "Weakness making recovery uneconomic."
+          ],
+          "prepared_items": [
+            "[[prepared]]Severe growing-point infestation.",
+            "[[prepared]]Several active mines.",
+            "[[prepared]]Larvae in the stem.",
+            "[[prepared]]Weakness making recovery uneconomic."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Whole-plant removal is most useful when:",
+          "prepared_text": "[[prepared]]Whole-plant removal is most useful when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The number of infested plants is limited.",
+            "Plants are still small.",
+            "Focus boundaries can be identified.",
+            "Healthy replacement transplants are available.",
+            "Removed plants are collected immediately."
+          ],
+          "prepared_items": [
+            "[[prepared]]The number of infested plants is limited.",
+            "[[prepared]]Plants are still small.",
+            "[[prepared]]Focus boundaries can be identified.",
+            "[[prepared]]Healthy replacement transplants are available.",
+            "[[prepared]]Removed plants are collected immediately."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This method is unsuitable once infestation has spread through a large proportion of the field.",
+          "prepared_text": "[[prepared]]This method is unsuitable once infestation has spread through a large proportion of the field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Selective Removal of Infested Plant Parts"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selective removal is used to remove eggs or larvae from the production system before they complete development.",
+          "prepared_text": "[[prepared]]Selective removal is used to remove eggs or larvae from the production system before they complete development."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may include:",
+          "prepared_text": "[[prepared]]It may include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An infested leaflet.",
+            "A heavily infested leaf.",
+            "An infested growing point.",
+            "A bud or tender stem section.",
+            "A severely damaged cluster."
+          ],
+          "prepared_items": [
+            "[[prepared]]An infested leaflet.",
+            "[[prepared]]A heavily infested leaf.",
+            "[[prepared]]An infested growing point.",
+            "[[prepared]]A bud or tender stem section.",
+            "[[prepared]]A severely damaged cluster."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The operation is scientifically valid when it is based on:",
+          "prepared_text": "[[prepared]]The operation is scientifically valid when it is based on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confirmation of active infestation.",
+            "Estimation of the number of parts removed.",
+            "Measurement of leaf area lost.",
+            "Collection of removed parts in a container.",
+            "Reinspection of the focus.",
+            "Comparison of removal cost with the value of crop protected."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confirmation of [[term:infestation-status]]active infestation[[/term]].",
+            "[[prepared]]Estimation of the number of parts removed.",
+            "[[prepared]]Measurement of leaf area lost.",
+            "[[prepared]]Collection of removed parts in a container.",
+            "[[prepared]]Reinspection of the focus.",
+            "[[prepared]]Comparison of removal cost with the value of crop protected."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Random removal of every leaf carrying an old mine is neither scientific nor economical.",
+          "prepared_text": "[[prepared]]Random removal of every leaf carrying an old mine is neither scientific nor economical."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Limits of Leaf Removal"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selective removal should not become extensive defoliation.",
+          "prepared_text": "[[prepared]]Selective removal should not become extensive defoliation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Suitability depends on:",
+          "prepared_text": "[[prepared]]Suitability depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crop stage.",
+            "Cultivar.",
+            "Leaf area affected.",
+            "Proximity of leaves to fruit clusters.",
+            "Percentage of fruits exposed.",
+            "Plant compensatory capacity.",
+            "Labor cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Leaf area affected.",
+            "[[prepared]]Proximity of leaves to fruit clusters.",
+            "[[prepared]]Percentage of fruits exposed.",
+            "[[prepared]]Plant compensatory capacity.",
+            "[[prepared]]Labor cost."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Risks of leaf removal are greater in determinate processing tomatoes because the canopy contributes to:",
+          "prepared_text": "[[prepared]]Risks of leaf removal are greater in determinate processing tomatoes because the canopy contributes to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Protection of fruits from direct radiation.",
+            "Regulation of fruit temperature.",
+            "Carbohydrate production.",
+            "Fruit filling.",
+            "Uniform ripening."
+          ],
+          "prepared_items": [
+            "[[prepared]]Protection of fruits from direct radiation.",
+            "[[prepared]]Regulation of fruit temperature.",
+            "[[prepared]]Carbohydrate production.",
+            "[[prepared]]Fruit filling.",
+            "[[prepared]]Uniform ripening."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Removal should therefore be limited to severely infested parts within early infestation foci.",
+          "prepared_text": "[[prepared]]Removal should therefore be limited to severely infested parts within early infestation foci."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Handling Parasitized Eggs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An infested leaf may carry eggs parasitized by egg parasitoids.",
+          "prepared_text": "[[prepared]]An infested leaf may carry eggs [[term:biological-control]]parasitized[[/term]] by egg parasitoids."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before removing the leaf, the following should be distinguished:",
+          "prepared_text": "[[prepared]]Before removing the leaf, the following should be distinguished:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Viable eggs.",
+            "Hatched eggs.",
+            "Parasitized eggs.",
+            "Active mines.",
+            "Old mines."
+          ],
+          "prepared_items": [
+            "[[prepared]]Viable eggs.",
+            "[[prepared]]Hatched eggs.",
+            "[[prepared]]Parasitized eggs.",
+            "[[prepared]]Active mines.",
+            "[[prepared]]Old mines."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Disposal of leaves carrying parasitized eggs may eliminate beneficial parasitoid individuals.",
+          "prepared_text": "[[prepared]]Disposal of leaves carrying parasitized eggs may eliminate beneficial parasitoid individuals."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When an egg-parasitoid release program is in place, mechanical removal should be coordinated with the release program so that a large proportion of parasitoids is not removed before emergence.",
+          "prepared_text": "[[prepared]]When an egg-parasitoid release program is in place, mechanical removal should be coordinated with the release program so that a large proportion of parasitoids is not removed before emergence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Collection of Infested Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Collection of infested fruits is one of the most important mechanical interventions after fruiting begins.",
+          "prepared_text": "[[prepared]]Collection of infested fruits is one of the most important mechanical interventions after fruiting begins."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruits should be collected when they bear:",
+          "prepared_text": "[[prepared]]Fruits should be collected when they bear:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An entry or exit hole.",
+            "Frass around the calyx.",
+            "An internal tunnel.",
+            "A live larva.",
+            "Rot associated with infestation.",
+            "Fallen fruit resulting from boring."
+          ],
+          "prepared_items": [
+            "[[prepared]]An entry or exit hole.",
+            "[[prepared]][[term:frass]]Frass[[/term]] around the calyx.",
+            "[[prepared]]An internal tunnel.",
+            "[[prepared]]A live larva.",
+            "[[prepared]]Rot associated with infestation.",
+            "[[prepared]]Fallen fruit resulting from boring."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Collection achieves two objectives:",
+          "prepared_text": "[[prepared]]Collection achieves two objectives:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Reducing the proportion of rotted and rejected fruits within the field.",
+            "2. Preventing larvae inside fruits from completing development or exiting to pupate."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Reducing the proportion of rotted and rejected fruits within the field.",
+            "[[prepared]]2. Preventing larvae inside fruits from completing development or exiting to pupate."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rejected fruits should not be left between rows or at loading points.",
+          "prepared_text": "[[prepared]]Rejected fruits should not be left between rows or at loading points."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Collection of Infested Processing-Tomato Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In processing tomatoes, selective collection should be implemented when:",
+          "prepared_text": "[[prepared]]In processing tomatoes, selective collection should be implemented when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation is still containable.",
+            "Labor cost is lower than the expected loss.",
+            "Sufficient time remains before harvest.",
+            "Infested fruits represent a source of rots or larvae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation is still containable.",
+            "[[prepared]]Labor cost is lower than the expected loss.",
+            "[[prepared]]Sufficient time remains before harvest.",
+            "[[prepared]]Infested fruits represent a source of rots or larvae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be recorded:",
+          "prepared_text": "[[prepared]]The following should be recorded:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of infested fruits.",
+            "Their weight.",
+            "Percentage loss in the sample.",
+            "Location of infestation.",
+            "Presence of live larvae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of infested fruits.",
+            "[[prepared]]Their weight.",
+            "[[prepared]]Percentage loss in the sample.",
+            "[[prepared]]Location of infestation.",
+            "[[prepared]]Presence of live larvae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Weight loss is calculated as:",
+          "prepared_text": "[[prepared]]Weight loss is calculated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Weight loss (%) = Weight of infested and rejected fruits ÷ Total sample weight × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This indicator is used to evaluate whether manual collection remains economically justified or whether another intervention is required.",
+          "prepared_text": "[[prepared]]This indicator is used to evaluate whether manual collection remains economically justified or whether another intervention is required."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Containers for Collecting Infested Material"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Containers used to collect infested leaves and fruits should be:",
+          "prepared_text": "[[prepared]]Containers used to collect infested leaves and fruits should be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Closed or closable.",
+            "Structurally intact.",
+            "Not used for sound fruits.",
+            "Clearly marked by color or label.",
+            "Easy to clean.",
+            "Designed to prevent loss of contents."
+          ],
+          "prepared_items": [
+            "[[prepared]]Closed or closable.",
+            "[[prepared]]Structurally intact.",
+            "[[prepared]]Not used for sound fruits.",
+            "[[prepared]]Clearly marked by color or label.",
+            "[[prepared]]Easy to clean.",
+            "[[prepared]]Designed to prevent loss of contents."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Open piles should not be used as temporary collection points because larvae may leave the tissues, while pupae or moths may continue development.",
+          "prepared_text": "[[prepared]]Open piles should not be used as temporary collection points because larvae may leave the tissues, while pupae or moths may continue development."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Crop-Residue Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tomato residues after harvest are a source of eggs, larvae, and pupae.",
+          "prepared_text": "[[prepared]]Tomato residues after harvest are a source of eggs, larvae, and pupae."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Residues include:",
+          "prepared_text": "[[prepared]]Residues include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaves.",
+            "Stems.",
+            "Growing points.",
+            "Unharvested fruits.",
+            "Fallen fruits.",
+            "Plants regrowing after cutting.",
+            "Sorting waste discarded in the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves.",
+            "[[prepared]]Stems.",
+            "[[prepared]]Growing points.",
+            "[[prepared]]Unharvested fruits.",
+            "[[prepared]]Fallen fruits.",
+            "[[prepared]]Plants regrowing after cutting.",
+            "[[prepared]]Sorting waste discarded in the field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The crop should be terminated within a short period after economic harvesting stops because continued green growth allows the pest to reproduce and produce moths that move into the next planting season.",
+          "prepared_text": "[[prepared]]The crop should be terminated within a short period after economic harvesting stops because continued green growth allows the pest to reproduce and produce moths that move into the next planting season."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Postharvest Residue Removal"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Scientific residue removal consists of an integrated sequence:",
+          "prepared_text": "[[prepared]]Scientific residue removal consists of an integrated sequence:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Collect remaining fruits.",
+            "2. Terminate living plants.",
+            "3. Cut or shred the canopy.",
+            "4. Collect or contain shredded material.",
+            "5. Move it to a safe treatment system or manage it on-site in a manner that prevents pest survival.",
+            "6. Clean equipment.",
+            "7. Continue monitoring the field with traps.",
+            "8. Remove any regrowth."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Collect remaining fruits.",
+            "[[prepared]]2. Terminate living plants.",
+            "[[prepared]]3. Cut or shred the canopy.",
+            "[[prepared]]4. Collect or contain shredded material.",
+            "[[prepared]]5. Move it to a safe treatment system or manage it on-site in a manner that prevents pest survival.",
+            "[[prepared]]6. Clean equipment.",
+            "[[prepared]]7. Continue monitoring the field with traps.",
+            "[[prepared]]8. Remove any regrowth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Implementing only one step while leaving the rest of the residues unmanaged is insufficient.",
+          "prepared_text": "[[prepared]]Implementing only one step while leaving the rest of the residues unmanaged is insufficient."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Shredding as a Preparatory Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Shredding:",
+          "prepared_text": "[[prepared]]Shredding:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tears mines.",
+            "Reduces plant-material volume.",
+            "Accelerates tissue drying.",
+            "Facilitates transport or decomposition.",
+            "Stops the intact plant from continuing as a host."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tears mines.",
+            "[[prepared]]Reduces plant-material volume.",
+            "[[prepared]]Accelerates tissue drying.",
+            "[[prepared]]Facilitates transport or decomposition.",
+            "[[prepared]]Stops the intact plant from continuing as a host."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, shredding should not be regarded as a stand-alone guarantee that all stages are killed because:",
+          "prepared_text": "[[prepared]]However, shredding should not be regarded as a stand-alone guarantee that all stages are killed because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larvae may remain inside fruits that were not collected.",
+            "Pupae may occur in the soil.",
+            "Large plant pieces may remain uncut.",
+            "Individuals may have already left the plant material."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larvae may remain inside fruits that were not collected.",
+            "[[prepared]]Pupae may occur in the soil.",
+            "[[prepared]]Large plant pieces may remain uncut.",
+            "[[prepared]]Individuals may have already left the plant material."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Shredding should therefore be used as a preparatory stage preceding containment, treatment, or soil cultivation, rather than as the final step.",
+          "prepared_text": "[[prepared]]Shredding should therefore be used as a preparatory stage preceding containment, treatment, or soil cultivation, rather than as the final step."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Evidence Supporting Residue Removal"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A recent field study showed that fields in which tomato residues and weeds were left after harvest retained higher moth densities than fields that were cleaned and subjected to soil cultivation.",
+          "prepared_text": "[[prepared]]A recent field study showed that fields in which tomato residues and weeds were left after harvest retained higher moth densities than fields that were cleaned and subjected to soil cultivation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This result supports the need to terminate old fields and prevent residues and green hosts from persisting between seasons.",
+          "prepared_text": "[[prepared]]This result supports the need to terminate old fields and prevent residues and green hosts from persisting between seasons."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the study should be interpreted as an evaluation of a package of measures including:",
+          "prepared_text": "[[prepared]]However, the study should be interpreted as an evaluation of a package of measures including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Residue removal.",
+            "Weed management.",
+            "Soil cultivation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Residue removal.",
+            "[[prepared]]Weed management.",
+            "[[prepared]]Soil cultivation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The independent effect of each measure cannot therefore be separated from the available results.",
+          "prepared_text": "[[prepared]]The independent effect of each measure cannot therefore be separated from the available results."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sanitary Disposal of Residues"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sanitary disposal means using a pathway that prevents living pest stages in the residues from returning to the field.",
+          "prepared_text": "[[prepared]]Sanitary disposal means using a pathway that prevents living pest stages in the residues from returning to the field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Acceptable pathways, depending on available resources and regulations, include:",
+          "prepared_text": "[[prepared]]Acceptable pathways, depending on available resources and regulations, include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Transport to a closed treatment facility.",
+            "Controlled thermophilic composting.",
+            "Industrial treatment of residues.",
+            "Containment within a closed system until tissues decompose.",
+            "Burial or treatment according to local guidance and requirements.",
+            "Anaerobic digestion in designated facilities."
+          ],
+          "prepared_items": [
+            "[[prepared]]Transport to a closed treatment facility.",
+            "[[prepared]]Controlled thermophilic composting.",
+            "[[prepared]]Industrial treatment of residues.",
+            "[[prepared]]Containment within a closed system until tissues decompose.",
+            "[[prepared]]Burial or treatment according to local guidance and requirements.",
+            "[[prepared]]Anaerobic digestion in designated facilities."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Discarding residues in an open pile, watercourse, or neighboring area is not sanitary disposal.",
+          "prepared_text": "[[prepared]]Discarding residues in an open pile, watercourse, or neighboring area is not sanitary disposal."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Controlled Thermophilic Composting"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tomato residues may be included in an organic-composting system when the system can:",
+          "prepared_text": "[[prepared]]Tomato residues may be included in an organic-composting system when the system can:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Generate uniform heat throughout the pile.",
+            "Permit turning of materials.",
+            "Prevent cold zones.",
+            "Prevent insect escape before treatment is completed.",
+            "Decompose plant tissues.",
+            "Prevent subsequent germination of tomato seeds."
+          ],
+          "prepared_items": [
+            "[[prepared]]Generate uniform heat throughout the pile.",
+            "[[prepared]]Permit turning of materials.",
+            "[[prepared]]Prevent cold zones.",
+            "[[prepared]]Prevent insect escape before treatment is completed.",
+            "[[prepared]]Decompose plant tissues.",
+            "[[prepared]]Prevent subsequent germination of tomato seeds."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not every compost pile can be assumed to kill Tuta stages. A cold or uneven pile may allow larvae or pupae to survive or moths to emerge.",
+          "prepared_text": "[[prepared]]Not every compost pile can be assumed to kill Tuta stages. A cold or uneven pile may allow larvae or pupae to survive or moths to emerge."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The process should be treated as a treatment system, not merely a residue-collection site.",
+          "prepared_text": "[[prepared]]The process should be treated as a treatment system, not merely a residue-collection site."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Residues from Sorting Stations and Processing Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sorting stations and tomato-processing plants become risk points when the following accumulate:",
+          "prepared_text": "[[prepared]]Sorting stations and tomato-processing plants become risk points when the following accumulate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infested fruits.",
+            "Calyces and leaves.",
+            "Solid sorting residues.",
+            "Contaminated crates.",
+            "Wash water and residues.",
+            "Seeds capable of producing volunteer plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infested fruits.",
+            "[[prepared]]Calyces and leaves.",
+            "[[prepared]]Solid sorting residues.",
+            "[[prepared]]Contaminated crates.",
+            "[[prepared]]Wash water and residues.",
+            "[[prepared]]Seeds capable of producing volunteer plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The management plan should include:",
+          "prepared_text": "[[prepared]]The management plan should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collection of residues in a designated area.",
+            "Prevention of exposed accumulation near fields.",
+            "Transport to a treatment system.",
+            "Prevention of volunteer tomato emergence.",
+            "Cleaning of vehicles and crates.",
+            "Monitoring the site with traps when cultivated fields are nearby."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collection of residues in a designated area.",
+            "[[prepared]]Prevention of exposed accumulation near fields.",
+            "[[prepared]]Transport to a treatment system.",
+            "[[prepared]]Prevention of volunteer tomato emergence.",
+            "[[prepared]]Cleaning of vehicles and crates.",
+            "[[prepared]]Monitoring the site with traps when cultivated fields are nearby."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cleaning Crates and Containers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Containers can transfer the pest when they contain:",
+          "prepared_text": "[[prepared]]Containers can transfer the pest when they contain:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infested leaves.",
+            "Small fruits.",
+            "Hidden larvae.",
+            "Pupae in corners or cracks.",
+            "Soil and plant residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infested leaves.",
+            "[[prepared]]Small fruits.",
+            "[[prepared]]Hidden larvae.",
+            "[[prepared]]Pupae in corners or cracks.",
+            "[[prepared]]Soil and plant residues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cleaning consists of:",
+          "prepared_text": "[[prepared]]Cleaning consists of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Removing all plant material.",
+            "2. Cleaning corners and cracks.",
+            "3. Washing washable containers when necessary.",
+            "4. Drying them.",
+            "5. Collecting cleaning waste.",
+            "6. Storing containers away from residue piles.",
+            "7. Preventing their use for transplant transport before cleaning."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Removing all plant material.",
+            "[[prepared]]2. Cleaning corners and cracks.",
+            "[[prepared]]3. Washing washable containers when necessary.",
+            "[[prepared]]4. Drying them.",
+            "[[prepared]]5. Collecting cleaning waste.",
+            "[[prepared]]6. Storing containers away from residue piles.",
+            "[[prepared]]7. Preventing their use for transplant transport before cleaning."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Containers should not be moved directly from a heavily infested old field into a nursery or new crop.",
+          "prepared_text": "[[prepared]]Containers should not be moved directly from a heavily infested old field into a nursery or new crop."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cleaning Machinery and Transport Vehicles"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cleaning should include:",
+          "prepared_text": "[[prepared]]Cleaning should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Harvesting machines.",
+            "Plant shredders.",
+            "Trailers.",
+            "Transplant vehicles.",
+            "Fruit-transport vehicles.",
+            "Conveyors and loading-area floors."
+          ],
+          "prepared_items": [
+            "[[prepared]]Harvesting machines.",
+            "[[prepared]]Plant shredders.",
+            "[[prepared]]Trailers.",
+            "[[prepared]]Transplant vehicles.",
+            "[[prepared]]Fruit-transport vehicles.",
+            "[[prepared]]Conveyors and loading-area floors."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Particular attention should be given to sites where the following accumulate:",
+          "prepared_text": "[[prepared]]Particular attention should be given to sites where the following accumulate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaves.",
+            "Small fruits.",
+            "Soil.",
+            "Stems.",
+            "Moist organic matter."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves.",
+            "[[prepared]]Small fruits.",
+            "[[prepared]]Soil.",
+            "[[prepared]]Stems.",
+            "[[prepared]]Moist organic matter."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cleaning waste should be collected and treated as infested residue rather than discarded in the next field.",
+          "prepared_text": "[[prepared]]Cleaning waste should be collected and treated as infested residue rather than discarded in the next field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Containment of Residues During Transport"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Residues should be transported in:",
+          "prepared_text": "[[prepared]]Residues should be transported in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Closed vehicles.",
+            "Containers with intact sides.",
+            "Covered transport units.",
+            "Sealed bags for small quantities."
+          ],
+          "prepared_items": [
+            "[[prepared]]Closed vehicles.",
+            "[[prepared]]Containers with intact sides.",
+            "[[prepared]]Covered transport units.",
+            "[[prepared]]Sealed bags for small quantities."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Containment aims to prevent:",
+          "prepared_text": "[[prepared]]Containment aims to prevent:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fruit spillage.",
+            "Leaf dispersal.",
+            "Larval escape.",
+            "Moth dispersal.",
+            "Establishment of volunteer tomato plants along roads and unloading areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruit spillage.",
+            "[[prepared]]Leaf dispersal.",
+            "[[prepared]]Larval escape.",
+            "[[prepared]]Moth dispersal.",
+            "[[prepared]]Establishment of volunteer tomato plants along roads and unloading areas."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mechanical Control in the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mechanical methods are more applicable in nurseries because of:",
+          "prepared_text": "[[prepared]]Mechanical methods are more applicable in nurseries because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Small area.",
+            "High value of each transplant.",
+            "Ease of batch traceability.",
+            "Possibility of tray isolation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Small area.",
+            "[[prepared]]High value of each transplant.",
+            "[[prepared]]Ease of batch traceability.",
+            "[[prepared]]Possibility of tray isolation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Basic measures include:",
+          "prepared_text": "[[prepared]]Basic measures include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Rejecting infested transplants.",
+            "Isolating neighboring trays.",
+            "Removing residues daily.",
+            "Cleaning benches and walkways.",
+            "Preventing leaf accumulation beneath trays.",
+            "Using closed containers.",
+            "Preventing surplus transplants from remaining after the gap-filling period."
+          ],
+          "prepared_items": [
+            "[[prepared]]Rejecting infested transplants.",
+            "[[prepared]]Isolating neighboring trays.",
+            "[[prepared]]Removing residues daily.",
+            "[[prepared]]Cleaning benches and walkways.",
+            "[[prepared]]Preventing leaf accumulation beneath trays.",
+            "[[prepared]]Using closed containers.",
+            "[[prepared]]Preventing surplus transplants from remaining after the gap-filling period."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The nursery objective is to produce pest-free transplants, not merely to reduce pest abundance.",
+          "prepared_text": "[[prepared]]The nursery objective is to produce pest-free transplants, not merely to reduce pest abundance."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mechanical Control in Greenhouses"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This includes:",
+          "prepared_text": "[[prepared]]This includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Removal of limited infestation foci.",
+            "Removal of infested leaves and fruits in closed containers.",
+            "Maintenance of screen integrity.",
+            "Controlled door management.",
+            "Cleaning floors and walkways.",
+            "Terminating plants after harvest.",
+            "Removing residues between crop cycles.",
+            "Inspecting transplants before entry."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removal of limited infestation foci.",
+            "[[prepared]]Removal of infested leaves and fruits in closed containers.",
+            "[[prepared]]Maintenance of screen integrity.",
+            "[[prepared]]Controlled door management.",
+            "[[prepared]]Cleaning floors and walkways.",
+            "[[prepared]]Terminating plants after harvest.",
+            "[[prepared]]Removing residues between crop cycles.",
+            "[[prepared]]Inspecting transplants before entry."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These methods are generally more effective in greenhouses than in open fields because the structure has defined boundaries that can be isolated and monitored.",
+          "prepared_text": "[[prepared]]These methods are generally more effective in greenhouses than in open fields because the structure has defined boundaries that can be isolated and monitored."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mechanical Control in Open Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Economically useful measures in open fields focus on:",
+          "prepared_text": "[[prepared]]Economically useful measures in open fields focus on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Containing the first infestation foci.",
+            "Rejecting severely infested young plants.",
+            "Collecting infested fruits.",
+            "Removing postharvest residues.",
+            "Cleaning equipment and crates.",
+            "Managing sorting waste.",
+            "Preventing pest transfer with transplants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Containing the first infestation foci.",
+            "[[prepared]]Rejecting severely infested young plants.",
+            "[[prepared]]Collecting infested fruits.",
+            "[[prepared]]Removing postharvest residues.",
+            "[[prepared]]Cleaning equipment and crates.",
+            "[[prepared]]Managing sorting waste.",
+            "[[prepared]]Preventing pest transfer with transplants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Large-scale removal of infested leaves or attempts to create barriers over extensive processing-tomato fields are generally of limited economic and practical value.",
+          "prepared_text": "[[prepared]]Large-scale removal of infested leaves or attempts to create barriers over extensive processing-tomato fields are generally of limited economic and practical value."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility with Biological Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Barriers and organized removal have little direct toxic effect on natural enemies, but they may reduce their numbers indirectly when:",
+          "prepared_text": "[[prepared]]Barriers and organized removal have little direct toxic effect on natural enemies, but they may reduce their numbers indirectly when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaves carrying parasitized eggs are removed.",
+            "Plant parts bearing predators are discarded.",
+            "Screens prevent natural enemies from entering the structure.",
+            "Temperature and humidity change inside the greenhouse."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves carrying parasitized eggs are removed.",
+            "[[prepared]]Plant parts bearing predators are discarded.",
+            "[[prepared]]Screens prevent natural enemies from entering the structure.",
+            "[[prepared]]Temperature and humidity change inside the greenhouse."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should therefore be integrated with biological-control programs by:",
+          "prepared_text": "[[prepared]]They should therefore be integrated with biological-control programs by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inspecting eggs before leaf removal.",
+            "Retaining plant parts containing successful parasitoids when crop condition permits.",
+            "Releasing natural enemies inside isolated structures.",
+            "Monitoring the internal climate."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inspecting eggs before leaf removal.",
+            "[[prepared]]Retaining plant parts containing successful parasitoids when crop condition permits.",
+            "[[prepared]]Releasing natural enemies inside isolated structures.",
+            "[[prepared]]Monitoring the internal climate."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Evaluation of Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy of mechanical and physical control should not be measured by the number of plant parts removed, but by its effect on pest populations and the crop.",
+          "prepared_text": "[[prepared]]Efficacy of mechanical and physical control should not be measured by the number of plant parts removed, but by its effect on pest populations and the crop."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Evaluation indicators include:",
+          "prepared_text": "[[prepared]]Evaluation indicators include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduction in newly appearing mines.",
+            "Reduction in live larvae.",
+            "Reduction in growing-point infestation.",
+            "Reduction in the percentage of infested fruits.",
+            "Reduction in trap catches inside protected structures.",
+            "Delayed onset of infestation.",
+            "Reduced transfer of the pest into the next crop.",
+            "Avoidance of excessive leaf-area loss.",
+            "Absence of serious deterioration in ventilation or fruit quality.",
+            "Reduced need for rescue sprays."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduction in newly appearing mines.",
+            "[[prepared]]Reduction in live larvae.",
+            "[[prepared]]Reduction in growing-point infestation.",
+            "[[prepared]]Reduction in the percentage of infested fruits.",
+            "[[prepared]]Reduction in trap catches inside protected structures.",
+            "[[prepared]]Delayed onset of infestation.",
+            "[[prepared]]Reduced transfer of the pest into the next crop.",
+            "[[prepared]]Avoidance of excessive leaf-area loss.",
+            "[[prepared]]Absence of serious deterioration in ventilation or fruit quality.",
+            "[[prepared]]Reduced need for rescue sprays."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Evaluation of Screens and Barriers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Barriers should be evaluated using a combination of indicators including:",
+          "prepared_text": "[[prepared]]Barriers should be evaluated using a combination of indicators including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Moth numbers outside and inside the structure.",
+            "Percentage of openings remaining intact.",
+            "Frequency of door opening.",
+            "Eggs and larvae within the crop.",
+            "Temperature and humidity.",
+            "Air movement.",
+            "Fruit-set percentage.",
+            "Fruit quality.",
+            "°Brix.",
+            "Occurrence of diseases associated with high humidity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Moth numbers outside and inside the structure.",
+            "[[prepared]]Percentage of openings remaining intact.",
+            "[[prepared]]Frequency of door opening.",
+            "[[prepared]]Eggs and larvae within the crop.",
+            "[[prepared]]Temperature and humidity.",
+            "[[prepared]]Air movement.",
+            "[[prepared]]Fruit-set percentage.",
+            "[[prepared]]Fruit quality.",
+            "[[prepared]][[term:brix-tss]]°Brix[[/term]].",
+            "[[prepared]]Occurrence of diseases associated with high humidity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A barrier should not be considered successful when it reduces Tuta entry but causes substantial losses in fruit set or quality because of poor ventilation.",
+          "prepared_text": "[[prepared]]A barrier should not be considered successful when it reduces Tuta entry but causes substantial losses in fruit set or quality because of poor ventilation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Successful Focus Removal"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Focus removal is considered successful when:",
+          "prepared_text": "[[prepared]]Focus removal is considered successful when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "No new mines appear on neighboring plants.",
+            "Live-larva numbers decline.",
+            "The infested area does not expand.",
+            "Growing-point or fruit infestation does not appear.",
+            "The focus does not require repeated uneconomic removal.",
+            "Major canopy loss does not occur."
+          ],
+          "prepared_items": [
+            "[[prepared]]No new mines appear on neighboring plants.",
+            "[[prepared]]Live-larva numbers decline.",
+            "[[prepared]]The infested area does not expand.",
+            "[[prepared]]Growing-point or fruit infestation does not appear.",
+            "[[prepared]]The focus does not require repeated uneconomic removal.",
+            "[[prepared]]Major canopy loss does not occur."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If infestation continues after removal, this may indicate:",
+          "prepared_text": "[[prepared]]If infestation continues after removal, this may indicate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Undetected eggs.",
+            "Larval movement.",
+            "An immigration wave.",
+            "Infestation extending beyond the identified focus.",
+            "Need for an additional intervention."
+          ],
+          "prepared_items": [
+            "[[prepared]]Undetected eggs.",
+            "[[prepared]]Larval movement.",
+            "[[prepared]]An immigration wave.",
+            "[[prepared]]Infestation extending beyond the identified focus.",
+            "[[prepared]]Need for an additional intervention."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Levels of Use According to Production System"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Method",
+            "Nursery",
+            "Greenhouse",
+            "Open Field"
+          ],
+          "rows": [
+            [
+              "Insect-proof screens",
+              "Essential",
+              "Essential",
+              "Limited"
+            ],
+            [
+              "Double-entry system",
+              "Highly important",
+              "Highly important",
+              "Not applicable"
+            ],
+            [
+              "Batch isolation",
+              "Essential",
+              "Important",
+              "At transplant receipt"
+            ],
+            [
+              "Rejection of infested plants",
+              "Essential",
+              "Useful for foci",
+              "Useful at the beginning"
+            ],
+            [
+              "Removal of infested leaves",
+              "Practical",
+              "Practical under limited infestation",
+              "Economically limited"
+            ],
+            [
+              "Collection of infested fruits",
+              "Limited before fruiting",
+              "Important",
+              "Important"
+            ],
+            [
+              "Crop-residue removal",
+              "Essential",
+              "Essential",
+              "Essential"
+            ],
+            [
+              "Container cleaning",
+              "Essential",
+              "Important",
+              "Essential"
+            ],
+            [
+              "Equipment cleaning",
+              "Important",
+              "Important",
+              "Essential"
+            ],
+            [
+              "Residue containment",
+              "Essential",
+              "Essential",
+              "Essential"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Method",
+            "[[prepared]]Nursery",
+            "[[prepared]]Greenhouse",
+            "[[prepared]]Open Field"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Insect-proof screens",
+              "[[prepared]]Essential",
+              "[[prepared]]Essential",
+              "[[prepared]]Limited"
+            ],
+            [
+              "[[prepared]]Double-entry system",
+              "[[prepared]]Highly important",
+              "[[prepared]]Highly important",
+              "[[prepared]]Not applicable"
+            ],
+            [
+              "[[prepared]]Batch isolation",
+              "[[prepared]]Essential",
+              "[[prepared]]Important",
+              "[[prepared]]At transplant receipt"
+            ],
+            [
+              "[[prepared]]Rejection of infested plants",
+              "[[prepared]]Essential",
+              "[[prepared]]Useful for foci",
+              "[[prepared]]Useful at the beginning"
+            ],
+            [
+              "[[prepared]]Removal of infested leaves",
+              "[[prepared]]Practical",
+              "[[prepared]]Practical under limited infestation",
+              "[[prepared]]Economically limited"
+            ],
+            [
+              "[[prepared]]Collection of infested fruits",
+              "[[prepared]]Limited before fruiting",
+              "[[prepared]]Important",
+              "[[prepared]]Important"
+            ],
+            [
+              "[[prepared]]Crop-residue removal",
+              "[[prepared]]Essential",
+              "[[prepared]]Essential",
+              "[[prepared]]Essential"
+            ],
+            [
+              "[[prepared]]Container cleaning",
+              "[[prepared]]Essential",
+              "[[prepared]]Important",
+              "[[prepared]]Essential"
+            ],
+            [
+              "[[prepared]]Equipment cleaning",
+              "[[prepared]]Important",
+              "[[prepared]]Important",
+              "[[prepared]]Essential"
+            ],
+            [
+              "[[prepared]]Residue containment",
+              "[[prepared]]Essential",
+              "[[prepared]]Essential",
+              "[[prepared]]Essential"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Classifying Any Manual Practice as Mechanical Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The method should be measurable and have a clear objective.",
+          "prepared_text": "[[prepared]]The method should be measurable and have a clear objective."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Removing an Infested Leaf and Leaving It in the Field"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest cycle is not interrupted if the larva can continue developing.",
+          "prepared_text": "[[prepared]]The pest cycle is not interrupted if the larva can continue developing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Removing All Leaves Carrying Mines"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Old mines do not necessarily represent active infestation, and excessive removal damages the crop.",
+          "prepared_text": "[[prepared]]Old mines do not necessarily represent active infestation, and excessive removal damages the crop."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Relying on Screens Without Inspecting Transplants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest may enter the structure with plants.",
+          "prepared_text": "[[prepared]]The pest may enter the structure with plants."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Relying on Thread Count Instead of Actual Opening Size"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Screen specifications and air permeability should be evaluated.",
+          "prepared_text": "[[prepared]]Screen specifications and air permeability should be evaluated."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Tightening Screening While Neglecting Ventilation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Physiological or disease-related losses may occur.",
+          "prepared_text": "[[prepared]]Physiological or disease-related losses may occur."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Leaving Doors Open"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This weakens the physical barrier regardless of screen quality.",
+          "prepared_text": "[[prepared]]This weakens the physical barrier regardless of screen quality."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Treating Shredding as the Final Residue Treatment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Shredding is a preparatory stage and should be followed by appropriate containment or treatment.",
+          "prepared_text": "[[prepared]]Shredding is a preparatory stage and should be followed by appropriate containment or treatment."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Transporting Residues in Open Vehicles"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This causes fruits and leaves to fall and spreads the pest.",
+          "prepared_text": "[[prepared]]This causes fruits and leaves to fall and spreads the pest."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Moving Harvest Crates into the Nursery Without Cleaning"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crates may carry plant material and living pest stages.",
+          "prepared_text": "[[prepared]]Crates may carry plant material and living pest stages."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Disposing of Residues in an Open Pile"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pile may become a source of pupae, moths, and volunteer plants.",
+          "prepared_text": "[[prepared]]The pile may become a source of pupae, moths, and volunteer plants."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Applying Manual Removal After Infestation Has Spread"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Economic feasibility declines rapidly as field area and pest density increase.",
+          "prepared_text": "[[prepared]]Economic feasibility declines rapidly as field area and pest density increase."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Practical Priorities for Open-Field Tomatoes in Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The practical priorities are:",
+          "prepared_text": "[[prepared]]The practical priorities are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Inspect transplants and isolate batches before transplanting.",
+            "2. Reject severely infested young plants.",
+            "3. Contain the first infestation foci before they spread.",
+            "4. Avoid removing a large leaf area from processing tomatoes.",
+            "5. Collect infested fruits and do not leave them between rows.",
+            "6. Allocate dedicated containers for infested material.",
+            "7. Terminate the field as soon as harvest is no longer economically viable.",
+            "8. Collect remaining fruits before shredding plants.",
+            "9. Use shredding as one stage within a disposal system, not as a stand-alone measure.",
+            "10. Transport residues in covered vehicles.",
+            "11. Clean harvesting machinery and crates before moving them into another field.",
+            "12. Manage sorting-station and processing-plant residues within a closed system.",
+            "13. Use screens and controlled doors in nurseries.",
+            "14. Compare trap catches inside and outside the nursery.",
+            "15. Evaluate the effect of screens on ventilation and transplant quality before adoption."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Inspect transplants and isolate batches before transplanting.",
+            "[[prepared]]2. Reject severely infested young plants.",
+            "[[prepared]]3. Contain the first infestation foci before they spread.",
+            "[[prepared]]4. Avoid removing a large leaf area from processing tomatoes.",
+            "[[prepared]]5. Collect infested fruits and do not leave them between rows.",
+            "[[prepared]]6. Allocate dedicated containers for infested material.",
+            "[[prepared]]7. Terminate the field as soon as harvest is no longer economically viable.",
+            "[[prepared]]8. Collect remaining fruits before shredding plants.",
+            "[[prepared]]9. Use shredding as one stage within a disposal system, not as a stand-alone measure.",
+            "[[prepared]]10. Transport residues in covered vehicles.",
+            "[[prepared]]11. Clean harvesting machinery and crates before moving them into another field.",
+            "[[prepared]]12. Manage sorting-station and processing-plant residues within a closed system.",
+            "[[prepared]]13. Use screens and controlled doors in nurseries.",
+            "[[prepared]]14. Compare trap catches inside and outside the nursery.",
+            "[[prepared]]15. Evaluate the effect of screens on ventilation and transplant quality before adoption."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Table of Scientifically Supported Methods"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Method",
+            "Mode of Action",
+            "Target Stage",
+            "Scope of Use"
+          ],
+          "rows": [
+            [
+              "Insect-proof screens",
+              "Prevent entry and oviposition",
+              "Adult moths",
+              "Nurseries and greenhouses"
+            ],
+            [
+              "Double doors",
+              "Reduce entry with air movement",
+              "Adult moths",
+              "Protected structures"
+            ],
+            [
+              "Isolation of transplant batches",
+              "Prevent spread of infestation",
+              "Eggs, larvae, and moths",
+              "Nurseries"
+            ],
+            [
+              "Rejection of infested transplants",
+              "Remove the infestation source",
+              "Eggs and larvae",
+              "Nurseries and newly planted fields"
+            ],
+            [
+              "Removal of infested plant foci",
+              "Contain early infestation",
+              "Eggs and larvae",
+              "Greenhouses and fields"
+            ],
+            [
+              "Collection of infested fruits",
+              "Prevent completion of development and pupation",
+              "Larvae",
+              "All production systems"
+            ],
+            [
+              "Crop-residue removal",
+              "Remove sources of subsequent generations",
+              "Eggs, larvae, and pupae",
+              "All production systems"
+            ],
+            [
+              "Residue shredding",
+              "Reduce volume and tear tissues",
+              "Larvae and pupae, partially",
+              "After harvest"
+            ],
+            [
+              "Containment and treatment",
+              "Prevent emergence and dispersal",
+              "Larvae, pupae, and moths",
+              "Residue management"
+            ],
+            [
+              "Cleaning containers and equipment",
+              "Prevent mechanical transfer",
+              "Larvae and pupae",
+              "All systems"
+            ],
+            [
+              "Covering residues during transport",
+              "Prevent spillage and escape",
+              "Larvae and pupae",
+              "All systems"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Method",
+            "[[prepared]]Mode of Action",
+            "[[prepared]]Target Stage",
+            "[[prepared]]Scope of Use"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Insect-proof screens",
+              "[[prepared]]Prevent entry and oviposition",
+              "[[prepared]]Adult moths",
+              "[[prepared]]Nurseries and greenhouses"
+            ],
+            [
+              "[[prepared]]Double doors",
+              "[[prepared]]Reduce entry with air movement",
+              "[[prepared]]Adult moths",
+              "[[prepared]]Protected structures"
+            ],
+            [
+              "[[prepared]]Isolation of transplant batches",
+              "[[prepared]]Prevent spread of infestation",
+              "[[prepared]]Eggs, larvae, and moths",
+              "[[prepared]]Nurseries"
+            ],
+            [
+              "[[prepared]]Rejection of infested transplants",
+              "[[prepared]]Remove the infestation source",
+              "[[prepared]]Eggs and larvae",
+              "[[prepared]]Nurseries and newly planted fields"
+            ],
+            [
+              "[[prepared]]Removal of infested plant foci",
+              "[[prepared]]Contain early infestation",
+              "[[prepared]]Eggs and larvae",
+              "[[prepared]]Greenhouses and fields"
+            ],
+            [
+              "[[prepared]]Collection of infested fruits",
+              "[[prepared]]Prevent completion of development and pupation",
+              "[[prepared]]Larvae",
+              "[[prepared]]All production systems"
+            ],
+            [
+              "[[prepared]]Crop-residue removal",
+              "[[prepared]]Remove sources of subsequent generations",
+              "[[prepared]]Eggs, larvae, and pupae",
+              "[[prepared]]All production systems"
+            ],
+            [
+              "[[prepared]]Residue shredding",
+              "[[prepared]]Reduce volume and tear tissues",
+              "[[prepared]]Larvae and pupae, partially",
+              "[[prepared]]After harvest"
+            ],
+            [
+              "[[prepared]]Containment and treatment",
+              "[[prepared]]Prevent emergence and dispersal",
+              "[[prepared]]Larvae, pupae, and moths",
+              "[[prepared]]Residue management"
+            ],
+            [
+              "[[prepared]]Cleaning containers and equipment",
+              "[[prepared]]Prevent mechanical transfer",
+              "[[prepared]]Larvae and pupae",
+              "[[prepared]]All systems"
+            ],
+            [
+              "[[prepared]]Covering residues during transport",
+              "[[prepared]]Prevent spillage and escape",
+              "[[prepared]]Larvae and pupae",
+              "[[prepared]]All systems"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Summary of Section Six"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Scientifically based mechanical and physical control of Tuta absoluta depends on exclusion, isolation, organized removal, and sanitary containment of crop residues.",
+          "prepared_text": "[[prepared]]Scientifically based mechanical and physical control of Tuta absoluta depends on exclusion, isolation, organized removal, and sanitary containment of crop residues."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insect-proof screens and properly sealed entrances are among the most important exclusion tools in nurseries and greenhouses, but their efficacy depends on installation quality, door management, transplant inspection, and maintenance of adequate ventilation.",
+          "prepared_text": "[[prepared]]Insect-proof screens and properly sealed entrances are among the most important exclusion tools in nurseries and greenhouses, but their efficacy depends on installation quality, door management, transplant inspection, and maintenance of adequate ventilation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Leaf removal should not be applied generally or randomly. It should be restricted to limited foci with active infestation while considering canopy cover, fruit protection, and natural enemies.",
+          "prepared_text": "[[prepared]]Leaf removal should not be applied generally or randomly. It should be restricted to limited foci with active infestation while considering canopy cover, fruit protection, and natural enemies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Collection of infested fruits is an important measure for preventing larvae from completing development and for reducing rots and market or processing losses.",
+          "prepared_text": "[[prepared]]Collection of infested fruits is an important measure for preventing larvae from completing development and for reducing rots and market or processing losses."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Postharvest crop-residue removal is also a major intervention and should be implemented through a system that includes fruit collection, crop termination, shredding, containment or treatment, equipment cleaning, and continued field monitoring.",
+          "prepared_text": "[[prepared]]Postharvest crop-residue removal is also a major intervention and should be implemented through a system that includes fruit collection, crop termination, shredding, containment or treatment, equipment cleaning, and continued field monitoring."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Shredding alone does not guarantee elimination of all pest stages; it is one stage within a sanitary-disposal system.",
+          "prepared_text": "[[prepared]]Shredding alone does not guarantee elimination of all pest stages; it is one stage within a sanitary-disposal system."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The relative importance of these methods varies with production system. Screens and isolation are essential in nurseries and greenhouses, whereas priorities in open fields are focus containment, collection of infested fruits, residue removal, and cleaning of equipment and containers.",
+          "prepared_text": "[[prepared]]The relative importance of these methods varies with production system. Screens and isolation are essential in nurseries and greenhouses, whereas priorities in open fields are focus containment, collection of infested fruits, residue removal, and cleaning of equipment and containers."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-6-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Harbi, A., Abbes, K., Dridi-Almohandes, B., & Chermiti, B. (2015). Efficacy of insect-proof nets used in Tunisian tomato greenhouses against Tuta absoluta (Meyrick) (Lepidoptera: Gelechiidae) and potential impact on plant growth and fruit quality. Journal of Entomological and Acarological Research, 47(3), 109–116. DOI: 10.4081/jear.2015.5256.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "Desneux, N., Han, P., Mansour, R., Arnó, J., Brévault, T., Campos, M. R., Chailleux, A., Guedes, R. N. C., Karimi, J., Konan, K. A. J., Lavoir, A. V., Luna, M. G., Nnoffo Budia, F., Pilot, S., Roditakis, E., Sylla, S., Verheggen, F. J., Urbaneja, A., & Biondi, A. (2022). Integrated pest management of Tuta absoluta: Practical implementations across different world regions. Journal of Pest Science, 95, 17–39. DOI: 10.1007/s10340-021-01442-8.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F. H., & Desneux, N. (2018). Ecology, worldwide spread, and management of the invasive South American tomato pinworm, Tuta absoluta: Past, present, and future. Annual Review of Entomology, 63, 239–258. DOI: 10.1146/annurev-ento-031616-034933.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Türkmen, Y. M., & Kazak, C. (2024). The impact of post-harvest removal of vegetative residues on the adult population density of the tomato leaf miner, Tuta absoluta, in tomato-growing areas of Muğla. Çukurova Journal of Agricultural and Food Sciences, 39(2), 470–478. DOI: 10.36846/CJAFS.2024.166.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "European and Mediterranean Plant Protection Organization. Pest Risk Analysis for Tuta absoluta. EPPO.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "Netherlands Food and Consumer Product Safety Authority. (2013). Pest Risk Analysis for Tuta absoluta. Ministry of Economic Affairs, The Netherlands.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Kansiime, K. M., Karanja, P., Rware, H., Muthaura, C., Macharia, C., Makale, F., Rwomushana, I., Ongoya, G., Klapwijk, J., Vos, J., & Karanja, D. (2020). Integrated Management of Tomato Leaf Miner, Tuta absoluta, and Other Tomato Pests: A Training Manual for Extension Workers. CABI and Koppert Biological Systems.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Potting, R. P. J., van der Gaag, D. J., Loomans, A., van der Straten, M., Anderson, H., MacLeod, A., Castrillón, J. M. G., & Cambra, G. V. (2009). Tuta absoluta: Pest Risk Analysis. Plant Protection Service of the Netherlands.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Colmenárez, Y. C., Corniani, N., Jahnke, S. M., Sampaio, M. V., & Vásquez, G. M. (2022). Sustainable management of the invasive Tuta absoluta. Journal of Integrated Pest Management, 13(1), 15. DOI: 10.1093/jipm/pmac012.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Mansour, R., Brévault, T., Chailleux, A., Cherif, A., Grissa-Lebdi, K., Haddi, K., Mohamed, S. A., Nofemela, R. S., Oke, A., Sylla, S., Tonnang, H. E. Z., Zappalà, L., Kenis, M., & Desneux, N. (2018). Occurrence, biology, natural enemies and management of Tuta absoluta in Africa. Entomologia Generalis, 38(2), 83–112. DOI: 10.1127/entomologia/2018/0749.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 6,
+        "part_title": "Section Six: Mechanical and Physical Control",
+        "part_subtitle": "Mechanical and Physical Control of Tuta absoluta"
+      }
+    }
+  ]
+}
