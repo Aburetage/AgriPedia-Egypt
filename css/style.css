@@ -402,6 +402,13 @@ body.light-mode .home-hero-title { background-image: linear-gradient(var(--grad-
 .tab-btn:focus-visible { outline: 3px solid rgba(0, 212, 255, 0.24); outline-offset: 2px; }
 .tab-content { display: none; opacity: 0; }  
 .tab-content.active { display: block; opacity: 1; }
+.interactive-tool-shell { background: linear-gradient(145deg, rgba(0, 212, 255, 0.035), rgba(167, 139, 250, 0.025)); border: 1px solid var(--border); border-radius: 22px; box-shadow: var(--shadow); overflow: hidden; padding: 0.75rem; }
+.interactive-tool-frame { background: transparent; border: 0; display: block; height: 900px; max-width: 100%; width: 100%; }
+body.light-mode .interactive-tool-shell { background: linear-gradient(145deg, rgba(14, 165, 233, 0.045), rgba(99, 102, 241, 0.025)); }
+@media (max-width: 768px) {
+    .interactive-tool-shell { border-radius: 16px; margin-inline: -0.35rem; padding: 0.35rem; }
+    .interactive-tool-frame { min-height: 780px; }
+}
 
 .pagination-controls { display: flex; justify-content: space-between; align-items: stretch; gap: 0.75rem; margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }  
 .nav-btn { background: var(--card); border: 1px solid var(--border-hi); color: var(--text); padding: 0.8rem 1.5rem; border-radius: 12px; display: flex; align-items: center; gap: 0.8rem; transition: all 0.3s; font-size: 0.95rem; font-family: 'Readex Pro', sans-serif; font-weight: 700; min-height: 54px; max-width: 48%; text-align: start; text-decoration: none;}  
