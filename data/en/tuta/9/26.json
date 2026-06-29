@@ -1,0 +1,3038 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 26,
+  "part_title": "Section Twenty-Six: Extended General Conclusion",
+  "part_short_title": "Extended General Conclusion",
+  "part_subtitle": "",
+  "content_path": "tuta/9/26.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Tuta absoluta: A Difficult Pest to Manage, but Not an Impossible One"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction to the Conclusion"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta has become one of the most complex tomato pests worldwide, not because it possesses one characteristic that makes it impossible to control, but because it combines several biological, behavioural, and environmental traits that give it a high capacity to survive, spread, and rebuild its population after incomplete interventions.",
+          "prepared_text": "[[prepared]]Tuta absoluta has become one of the most complex tomato pests worldwide, not because it possesses one characteristic that makes it impossible to control, but because it combines several biological, behavioural, and environmental traits that give it a high capacity to survive, spread, and rebuild its population after incomplete interventions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest is:",
+          "prepared_text": "[[prepared]]The pest is:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Relatively small.",
+            "Highly reproductive.",
+            "Multivoltine.",
+            "Concealed within plant tissues during most of its larval stage.",
+            "Capable of attacking leaves, growing points, stems, and fruits.",
+            "Able to move among fields and production cycles.",
+            "Favoured by the continuous presence of solanaceous hosts.",
+            "Able to develop insecticide resistance rapidly when products are misused.",
+            "Difficult to estimate from trap catches alone.",
+            "Capable of causing major marketing losses from limited fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Relatively small.",
+            "[[prepared]]Highly reproductive.",
+            "[[prepared]]Multivoltine.",
+            "[[prepared]]Concealed within plant tissues during most of its [[term:larval-instar]]larval stage[[/term]].",
+            "[[prepared]]Capable of attacking leaves, growing points, stems, and fruits.",
+            "[[prepared]]Able to move among fields and production cycles.",
+            "[[prepared]]Favoured by the continuous presence of [[term:solanaceae]]solanaceous hosts[[/term]].",
+            "[[prepared]]Able to develop [[term:resistance]]insecticide resistance[[/term]] rapidly when products are misused.",
+            "[[prepared]]Difficult to estimate from trap catches alone.",
+            "[[prepared]]Capable of causing major marketing losses from limited fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These characteristics explain the difficulty faced by growers and engineers in managing it.",
+          "prepared_text": "[[prepared]]These characteristics explain the difficulty faced by growers and engineers in managing it."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Difficulty, however, does not mean impossibility.",
+          "prepared_text": "[[prepared]]Difficulty, however, does not mean impossibility."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta does not possess unlimited survival capacity, cannot withstand every control measure, does not reproduce at the same rate under all conditions, and not every individual succeeds in reaching fruit or producing a new generation.",
+          "prepared_text": "[[prepared]]Tuta absoluta does not possess unlimited survival capacity, cannot withstand every control measure, does not reproduce at the same rate under all conditions, and not every individual succeeds in reaching fruit or producing a new generation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its populations can be reduced and economic losses prevented when weak points in its life cycle are targeted through an integrated programme that begins before planting and ends only after field removal.",
+          "prepared_text": "[[prepared]]Its populations can be reduced and economic losses prevented when weak points in its life cycle are targeted through an integrated programme that begins before planting and ends only after field removal."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Why Does the Pest Appear Impossible in Some Fields?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta appears impossible to control when the team first detects it only after:",
+          "prepared_text": "[[prepared]]Tuta absoluta appears impossible to control when the team first detects it only after:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mines have become widespread.",
+            "Larvae have reached L3 and L4.",
+            "Growing points are infested.",
+            "Larvae have entered fruits.",
+            "Several generations overlap.",
+            "Natural enemies have collapsed.",
+            "Several insecticide groups have already been repeated."
+          ],
+          "prepared_items": [
+            "[[prepared]][[term:mines]]Mines[[/term]] have become widespread.",
+            "[[prepared]]Larvae have reached L3 and L4.",
+            "[[prepared]]Growing points are infested.",
+            "[[prepared]]Larvae have entered fruits.",
+            "[[prepared]]Several generations overlap.",
+            "[[prepared]][[term:biological-control]]Natural enemies[[/term]] have collapsed.",
+            "[[prepared]]Several insecticide groups have already been repeated."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At this stage, much of the preventive opportunity has already been lost, and interventions become:",
+          "prepared_text": "[[prepared]]At this stage, much of the preventive opportunity has already been lost, and interventions become:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "More expensive.",
+            "Less selective.",
+            "More intense in their resistance pressure.",
+            "Less capable of restoring damaged yield."
+          ],
+          "prepared_items": [
+            "[[prepared]]More expensive.",
+            "[[prepared]]Less selective.",
+            "[[prepared]]More intense in their resistance pressure.",
+            "[[prepared]]Less capable of restoring damaged yield."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is not evidence that the pest is impossible to control; it is evidence that the programme began too late.",
+          "prepared_text": "[[prepared]]This is not evidence that the pest is impossible to control; it is evidence that the programme began too late."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The difference between a field in which Tuta is managed and one in which management fails does not always lie in insecticide strength, but often in:",
+          "prepared_text": "[[prepared]]The difference between a field in which Tuta is managed and one in which management fails does not always lie in insecticide strength, but often in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Timing of detection.",
+            "Monitoring quality.",
+            "Speed of decision-making.",
+            "Insect stage targeted.",
+            "Level of coordination.",
+            "Management of old fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Timing of detection.",
+            "[[prepared]]Monitoring quality.",
+            "[[prepared]]Speed of decision-making.",
+            "[[prepared]]Insect stage targeted.",
+            "[[prepared]]Level of coordination.",
+            "[[prepared]]Management of old fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Problem Does Not Lie in Pest Strength Alone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Analysis of outbreaks shows that infestation severity results not only from pest traits, but from interaction among:",
+          "prepared_text": "[[prepared]]Analysis of outbreaks shows that infestation severity results not only from pest traits, but from interaction among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The pest.",
+            "The crop.",
+            "Climate.",
+            "Agronomic practices.",
+            "Insecticides.",
+            "Natural enemies.",
+            "Neighbouring fields.",
+            "Residue management.",
+            "Transplant quality.",
+            "Human decisions."
+          ],
+          "prepared_items": [
+            "[[prepared]]The pest.",
+            "[[prepared]]The crop.",
+            "[[prepared]]Climate.",
+            "[[prepared]]Agronomic practices.",
+            "[[prepared]]Insecticides.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Neighbouring fields.",
+            "[[prepared]]Residue management.",
+            "[[prepared]]Transplant quality.",
+            "[[prepared]]Human decisions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest may be the same, yet the outcome may differ radically between two adjacent fields because management differs.",
+          "prepared_text": "[[prepared]]The pest may be the same, yet the outcome may differ radically between two adjacent fields because management differs."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A field with:",
+          "prepared_text": "[[prepared]]A field with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Healthy transplants.",
+            "Early monitoring.",
+            "Natural enemies.",
+            "Rational insecticide rotation.",
+            "Rapid disposal of residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Healthy transplants.",
+            "[[prepared]]Early monitoring.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Rational insecticide rotation.",
+            "[[prepared]]Rapid disposal of residues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Does not face the same risk as a field that:",
+          "prepared_text": "[[prepared]]Does not face the same risk as a field that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Began with infested transplants.",
+            "Has no traps.",
+            "Depends on repeated spraying.",
+            "Leaves fruits and residues behind.",
+            "Is surrounded by old fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Began with infested transplants.",
+            "[[prepared]]Has no traps.",
+            "[[prepared]]Depends on repeated spraying.",
+            "[[prepared]]Leaves fruits and residues behind.",
+            "[[prepared]]Is surrounded by old fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Pest Penalises Delay"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Time is a decisive factor in managing Tuta absoluta.",
+          "prepared_text": "[[prepared]]Time is a decisive factor in managing Tuta absoluta."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Eggs and newly hatched larvae represent a window during which it is possible to:",
+          "prepared_text": "[[prepared]]Eggs and newly hatched larvae represent a window during which it is possible to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Use egg parasitoids.",
+            "Target hatching.",
+            "Use Bt.",
+            "Support predators.",
+            "Contain hotspots.",
+            "Prevent infestation from reaching fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Use egg parasitoids.",
+            "[[prepared]]Target hatching.",
+            "[[prepared]]Use Bt.",
+            "[[prepared]]Support predators.",
+            "[[prepared]]Contain hotspots.",
+            "[[prepared]]Prevent infestation from reaching fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This window narrows as larvae advance in age.",
+          "prepared_text": "[[prepared]]This window narrows as larvae advance in age."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Once a larva enters:",
+          "prepared_text": "[[prepared]]Once a larva enters:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A deep mine.",
+            "A stem.",
+            "A calyx.",
+            "A fruit."
+          ],
+          "prepared_items": [
+            "[[prepared]]A deep mine.",
+            "[[prepared]]A stem.",
+            "[[prepared]]A calyx.",
+            "[[prepared]]A fruit."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The probability of control agents reaching it declines.",
+          "prepared_text": "[[prepared]]The probability of control agents reaching it declines."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One of the most important principles of Tuta management can therefore be summarised as:",
+          "prepared_text": "[[prepared]]One of the most important principles of Tuta management can therefore be summarised as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Late intervention requires greater effort and delivers less protection."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Pest Penalises Reliance on One Method"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An effective insecticide may initially produce a major reduction, creating the belief that it is the final solution.",
+          "prepared_text": "[[prepared]]An effective insecticide may initially produce a major reduction, creating the belief that it is the final solution."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Repeated dependence on it, however, leads to:",
+          "prepared_text": "[[prepared]]Repeated dependence on it, however, leads to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased survival of less susceptible individuals.",
+            "Selection for resistance.",
+            "Decline of natural enemies.",
+            "A greater need for additional sprays.",
+            "Reduced efficacy over time."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increased survival of less susceptible individuals.",
+            "[[prepared]]Selection for resistance.",
+            "[[prepared]]Decline of natural enemies.",
+            "[[prepared]]A greater need for additional sprays.",
+            "[[prepared]]Reduced efficacy over time."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egg parasitoids alone also cannot prevent damage when:",
+          "prepared_text": "[[prepared]]Egg parasitoids alone also cannot prevent damage when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Releases begin late.",
+            "Immigration continues.",
+            "The proportion of unparasitised eggs is high.",
+            "Parasitoids are exposed to a harmful pesticide."
+          ],
+          "prepared_items": [
+            "[[prepared]]Releases begin late.",
+            "[[prepared]]Immigration continues.",
+            "[[prepared]]The proportion of unparasitised eggs is high.",
+            "[[prepared]]Parasitoids are exposed to a harmful pesticide."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A biological belt alone cannot protect fruits, traps alone cannot stop mating, and crop sanitation alone cannot manage an established generation inside plants.",
+          "prepared_text": "[[prepared]]A biological belt alone cannot protect fruits, traps alone cannot stop mating, and crop sanitation alone cannot manage an established generation inside plants."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "True strength comes from integration of methods, not from the power of one method.",
+          "prepared_text": "[[prepared]]True strength comes from integration of methods, not from the power of one method."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Integrated Pest Management Is Not a Random Collection of Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated pest management does not mean using:",
+          "prepared_text": "[[prepared]][[term:ipm]]Integrated pest management[[/term]] does not mean using:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A trap.",
+            "A parasitoid.",
+            "A fungus.",
+            "Several insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]A trap.",
+            "[[prepared]]A parasitoid.",
+            "[[prepared]]A fungus.",
+            "[[prepared]]Several insecticides."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "All at the same time without order.",
+          "prepared_text": "[[prepared]]All at the same time without order."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It means selecting the appropriate method according to:",
+          "prepared_text": "[[prepared]]It means selecting the appropriate method according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Target stage.",
+            "Infestation level.",
+            "Seasonal timing.",
+            "Natural-enemy status.",
+            "Crop stage.",
+            "Insecticide record.",
+            "Harvest date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Target stage.",
+            "[[prepared]]Infestation level.",
+            "[[prepared]]Seasonal timing.",
+            "[[prepared]]Natural-enemy status.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Insecticide record.",
+            "[[prepared]]Harvest date."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Multiple methods may conflict when used without planning.",
+          "prepared_text": "[[prepared]]Multiple methods may conflict when used without planning."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Applying a broad-spectrum insecticide immediately after parasitoid release may cancel the benefit of the release, while using an incompatible fungicide may reduce the efficacy of an entomopathogenic fungus.",
+          "prepared_text": "[[prepared]]Applying a broad-spectrum insecticide immediately after parasitoid release may cancel the benefit of the release, while using an incompatible fungicide may reduce the efficacy of an entomopathogenic fungus."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "True integration means:",
+          "prepared_text": "[[prepared]]True integration means:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Assigning complementary roles to methods, not merely combining them."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The First Battle Begins in the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Many control programmes treat the field as the starting point, although the pest may already have entered with transplants.",
+          "prepared_text": "[[prepared]]Many control programmes treat the field as the starting point, although the pest may already have entered with transplants."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An infested transplant may carry:",
+          "prepared_text": "[[prepared]]An infested transplant may carry:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An egg.",
+            "A small larva.",
+            "A hidden mine.",
+            "An advanced larva."
+          ],
+          "prepared_items": [
+            "[[prepared]]An egg.",
+            "[[prepared]]A small larva.",
+            "[[prepared]]A hidden mine.",
+            "[[prepared]]An advanced larva."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When one batch is distributed over several areas, one infestation becomes many hotspots.",
+          "prepared_text": "[[prepared]]When one batch is distributed over several areas, one infestation becomes many hotspots."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The nursery should therefore be regarded as:",
+          "prepared_text": "[[prepared]]The nursery should therefore be regarded as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The first monitoring point.",
+            "The first exclusion point.",
+            "The first insecticide record.",
+            "The first traceability unit."
+          ],
+          "prepared_items": [
+            "[[prepared]]The first monitoring point.",
+            "[[prepared]]The first exclusion point.",
+            "[[prepared]]The first insecticide record.",
+            "[[prepared]]The first traceability unit."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every pound spent on transplant inspection may save many times that amount in later corrective interventions.",
+          "prepared_text": "[[prepared]]Every pound spent on transplant inspection may save many times that amount in later corrective interventions."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "A Newly Planted Field Does Not Exist in Isolation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation in a new field cannot be understood without considering:",
+          "prepared_text": "[[prepared]]Infestation in a new field cannot be understood without considering:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Old fields.",
+            "Harvest dates.",
+            "Potato and eggplant.",
+            "Volunteer plants.",
+            "Grading stations.",
+            "Piles of rejected fruit.",
+            "Wind direction.",
+            "Equipment movement."
+          ],
+          "prepared_items": [
+            "[[prepared]]Old fields.",
+            "[[prepared]]Harvest dates.",
+            "[[prepared]]Potato and eggplant.",
+            "[[prepared]]Volunteer plants.",
+            "[[prepared]]Grading stations.",
+            "[[prepared]]Piles of rejected fruit.",
+            "[[prepared]]Wind direction.",
+            "[[prepared]]Equipment movement."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The internal programme may be excellent, yet continuous immigration waves may make it appear weak.",
+          "prepared_text": "[[prepared]]The internal programme may be excellent, yet continuous immigration waves may make it appear weak."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Old fields become dangerous sources when:",
+          "prepared_text": "[[prepared]]Old fields become dangerous sources when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spraying stops.",
+            "Irrigation stops.",
+            "Plants remain alive.",
+            "Infested fruits accumulate.",
+            "Shredding begins."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spraying stops.",
+            "[[prepared]]Irrigation stops.",
+            "[[prepared]]Plants remain alive.",
+            "[[prepared]]Infested fruits accumulate.",
+            "[[prepared]]Shredding begins."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At that point, moths may move into the more recent crop rather than die inside the old field.",
+          "prepared_text": "[[prepared]]At that point, moths may move into the more recent crop rather than die inside the old field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "True Control Begins by Preventing the Source"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is a mistake to address immigration by spraying the recipient field alone.",
+          "prepared_text": "[[prepared]]It is a mistake to address immigration by spraying the recipient field alone."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If the source field continues producing moths, there will be:",
+          "prepared_text": "[[prepared]]If the source field continues producing moths, there will be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "New egg waves.",
+            "Renewed infestation after each intervention.",
+            "Higher costs.",
+            "Confusion between immigration and insecticide failure.",
+            "Continuous pressure on natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]New egg waves.",
+            "[[prepared]]Renewed infestation after each intervention.",
+            "[[prepared]]Higher costs.",
+            "[[prepared]]Confusion between immigration and insecticide failure.",
+            "[[prepared]]Continuous pressure on natural enemies."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The more efficient solution is to:",
+          "prepared_text": "[[prepared]]The more efficient solution is to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Terminate the source field.",
+            "Collect fruits.",
+            "Destroy the canopy.",
+            "Clean equipment.",
+            "Notify neighbouring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Terminate the source field.",
+            "[[prepared]]Collect fruits.",
+            "[[prepared]]Destroy the canopy.",
+            "[[prepared]]Clean equipment.",
+            "[[prepared]]Notify neighbouring fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Preventing one thousand moths from leaving the source is better than trying to kill their offspring after they disperse across several fields.",
+          "prepared_text": "[[prepared]]Preventing one thousand moths from leaving the source is better than trying to kill their offspring after they disperse across several fields."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Trap Is a Warning Tool, Not a Final Verdict"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pheromone traps play an important role in detecting male activity, but they are often misused when catch numbers are converted directly into spray decisions.",
+          "prepared_text": "[[prepared]][[term:pheromone-trap]]Pheromone traps[[/term]] play an important role in detecting male activity, but they are often misused when catch numbers are converted directly into spray decisions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A high count may reflect:",
+          "prepared_text": "[[prepared]]A high count may reflect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An immigration wave.",
+            "A source field.",
+            "A newly installed, stronger lure.",
+            "Male activity without actual oviposition."
+          ],
+          "prepared_items": [
+            "[[prepared]]An immigration wave.",
+            "[[prepared]]A source field.",
+            "[[prepared]]A newly installed, stronger lure.",
+            "[[prepared]]Male activity without actual oviposition."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A low count also does not guarantee field safety when:",
+          "prepared_text": "[[prepared]]A low count also does not guarantee field safety when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mated females enter.",
+            "The lure is weak.",
+            "An internal generation is present.",
+            "A hotspot occurs far from the trap."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mated females enter.",
+            "[[prepared]]The lure is weak.",
+            "[[prepared]]An internal generation is present.",
+            "[[prepared]]A hotspot occurs far from the trap."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Traps should therefore operate alongside:",
+          "prepared_text": "[[prepared]]Traps should therefore operate alongside:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg inspection.",
+            "Active mines.",
+            "Larval instars.",
+            "Fruit infestation.",
+            "Natural-enemy monitoring."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg inspection.",
+            "[[prepared]]Active mines.",
+            "[[prepared]]Larval instars.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Natural-enemy monitoring."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Eggs Represent the Beginning of Opportunity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Eggs are the most important point at which damage can be anticipated.",
+          "prepared_text": "[[prepared]]Eggs are the most important point at which damage can be anticipated."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their presence makes it possible to:",
+          "prepared_text": "[[prepared]]Their presence makes it possible to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Estimate the beginning of a generation.",
+            "Identify the risk location.",
+            "Evaluate parasitism.",
+            "Time parasitoid releases.",
+            "Forecast hatching.",
+            "Prepare intervention against early instars."
+          ],
+          "prepared_items": [
+            "[[prepared]]Estimate the beginning of a generation.",
+            "[[prepared]]Identify the risk location.",
+            "[[prepared]]Evaluate parasitism.",
+            "[[prepared]]Time parasitoid releases.",
+            "[[prepared]]Forecast hatching.",
+            "[[prepared]]Prepare intervention against early instars."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Eggs should not, however, be recorded as one undifferentiated number.",
+          "prepared_text": "[[prepared]]Eggs should not, however, be recorded as one undifferentiated number."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should be separated into:",
+          "prepared_text": "[[prepared]]They should be separated into:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Newly laid eggs.",
+            "Eggs close to hatching.",
+            "Parasitised eggs.",
+            "Hatched eggs.",
+            "Dead eggs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Newly laid eggs.",
+            "[[prepared]]Eggs close to hatching.",
+            "[[prepared]]Parasitised eggs.",
+            "[[prepared]]Hatched eggs.",
+            "[[prepared]]Dead eggs."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Because the decision depends on live, unparasitised eggs, not on raw total egg count.",
+          "prepared_text": "[[prepared]]Because the decision depends on live, unparasitised eggs, not on raw total egg count."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Newly Hatched Larvae Are the Decisive Window"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The first and second instars provide the best opportunity for achieving the greatest reduction with the least relative disruption.",
+          "prepared_text": "[[prepared]]The first and second instars provide the best opportunity for achieving the greatest reduction with the least relative disruption."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At this stage:",
+          "prepared_text": "[[prepared]]At this stage:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The larva is small.",
+            "Damage is still limited.",
+            "The probability of reaching fruits is lower.",
+            "Some microbial agents are more effective.",
+            "Predators can reach exposed or newly hatched larvae."
+          ],
+          "prepared_items": [
+            "[[prepared]]The larva is small.",
+            "[[prepared]]Damage is still limited.",
+            "[[prepared]]The probability of reaching fruits is lower.",
+            "[[prepared]]Some microbial agents are more effective.",
+            "[[prepared]]Predators can reach exposed or newly hatched larvae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Once infestation reaches L3 and L4, the objective often becomes:",
+          "prepared_text": "[[prepared]]Once infestation reaches L3 and L4, the objective often becomes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Protecting sound tissues.",
+            "Preventing a new generation.",
+            "Reducing larval movement into fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Protecting sound tissues.",
+            "[[prepared]]Preventing a new generation.",
+            "[[prepared]]Reducing larval movement into fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A damaged leaf or fruit cannot be restored.",
+          "prepared_text": "[[prepared]]A damaged leaf or fruit cannot be restored."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Not All Mines Are Equal"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One of the greatest management errors is to treat every mine as evidence of a live larva.",
+          "prepared_text": "[[prepared]]One of the greatest management errors is to treat every mine as evidence of a live larva."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mines may be:",
+          "prepared_text": "[[prepared]]Mines may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Old.",
+            "Empty.",
+            "No longer expanding.",
+            "Produced by a larva that died.",
+            "Produced by a larva attacked by a natural enemy."
+          ],
+          "prepared_items": [
+            "[[prepared]]Old.",
+            "[[prepared]]Empty.",
+            "[[prepared]]No longer expanding.",
+            "[[prepared]]Produced by a larva that died.",
+            "[[prepared]]Produced by a larva attacked by a natural enemy."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When total mine count is used to evaluate control, a treatment may appear to have failed despite larval mortality.",
+          "prepared_text": "[[prepared]]When total mine count is used to evaluate control, a treatment may appear to have failed despite larval mortality."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Focus should therefore be placed on:",
+          "prepared_text": "[[prepared]]Focus should therefore be placed on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "New mines.",
+            "Live larvae.",
+            "Fresh frass.",
+            "Mine expansion.",
+            "New fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]New mines.",
+            "[[prepared]]Live larvae.",
+            "[[prepared]]Fresh [[term:frass]]frass[[/term]].",
+            "[[prepared]]Mine expansion.",
+            "[[prepared]]New fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fruit Is the Final Economic Criterion"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A tomato plant may tolerate a certain amount of leaf damage, but an infested fruit may lose all market value.",
+          "prepared_text": "[[prepared]]A tomato plant may tolerate a certain amount of leaf damage, but an infested fruit may lose all market value."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Minor injury may lead to:",
+          "prepared_text": "[[prepared]]Minor injury may lead to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A visible hole.",
+            "Presence of a larva.",
+            "Entry of rotting organisms.",
+            "Market rejection.",
+            "Processing rejection.",
+            "Quarantine or export restrictions."
+          ],
+          "prepared_items": [
+            "[[prepared]]A visible hole.",
+            "[[prepared]]Presence of a larva.",
+            "[[prepared]]Entry of rotting organisms.",
+            "[[prepared]]Market rejection.",
+            "[[prepared]]Processing rejection.",
+            "[[prepared]]Quarantine or export restrictions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is therefore insufficient to measure:",
+          "prepared_text": "[[prepared]]It is therefore insufficient to measure:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larvae.",
+            "Or mines."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larvae.",
+            "[[prepared]]Or mines."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should also measure:",
+          "prepared_text": "[[prepared]]The programme should also measure:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage of fruit infestation by number.",
+            "Weight loss.",
+            "Fruits containing live larvae.",
+            "Associated rots.",
+            "Accepted yield."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage of fruit infestation by number.",
+            "[[prepared]]Weight loss.",
+            "[[prepared]]Fruits containing live larvae.",
+            "[[prepared]]Associated rots.",
+            "[[prepared]]Accepted yield."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Canopy Cover Is Part of Protection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Leaf destruction by the pest or excessive leaf removal may cause:",
+          "prepared_text": "[[prepared]]Leaf destruction by the pest or excessive leaf removal may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fruit exposure.",
+            "Increased sunscald.",
+            "Higher fruit temperature.",
+            "Poorer fruit filling.",
+            "Increased rots.",
+            "Reduced crop quality."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruit exposure.",
+            "[[prepared]]Increased sunscald.",
+            "[[prepared]]Higher fruit temperature.",
+            "[[prepared]]Poorer fruit filling.",
+            "[[prepared]]Increased rots.",
+            "[[prepared]]Reduced crop quality."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The objective is therefore not to remove every infested leaf, but to maintain a balance between:",
+          "prepared_text": "[[prepared]]The objective is therefore not to remove every infested leaf, but to maintain a balance between:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reducing the pest source.",
+            "Preserving functional canopy cover."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reducing the pest source.",
+            "[[prepared]]Preserving functional canopy cover."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Removal should be:",
+          "prepared_text": "[[prepared]]Removal should be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Limited.",
+            "Localised.",
+            "Accompanied by residue collection.",
+            "Conducted without weakening the plant."
+          ],
+          "prepared_items": [
+            "[[prepared]]Limited.",
+            "[[prepared]]Localised.",
+            "[[prepared]]Accompanied by residue collection.",
+            "[[prepared]]Conducted without weakening the plant."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Biological Control Is Not Decorative"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Parasitoids and predators are not additions used merely to make a programme appear environmentally friendly.",
+          "prepared_text": "[[prepared]]Parasitoids and predators are not additions used merely to make a programme appear environmentally friendly."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They perform real functions, including:",
+          "prepared_text": "[[prepared]]They perform real functions, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reducing eggs.",
+            "Predating exposed stages.",
+            "Killing larvae.",
+            "Slowing population growth.",
+            "Reducing the number of chemical interventions.",
+            "Delaying resistance development."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reducing eggs.",
+            "[[prepared]]Predating exposed stages.",
+            "[[prepared]]Killing larvae.",
+            "[[prepared]]Slowing population growth.",
+            "[[prepared]]Reducing the number of chemical interventions.",
+            "[[prepared]]Delaying resistance development."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their success, however, requires:",
+          "prepared_text": "[[prepared]]Their success, however, requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An early start.",
+            "High-quality consignments.",
+            "Good distribution.",
+            "Suitable conditions.",
+            "Protection from insecticides.",
+            "Food resources and shelter.",
+            "Actual performance measurement."
+          ],
+          "prepared_items": [
+            "[[prepared]]An early start.",
+            "[[prepared]]High-quality consignments.",
+            "[[prepared]]Good distribution.",
+            "[[prepared]]Suitable conditions.",
+            "[[prepared]]Protection from insecticides.",
+            "[[prepared]]Food resources and shelter.",
+            "[[prepared]]Actual performance measurement."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Natural enemies cannot be blamed for failing to control an outbreak that had already reached fruits before releases began.",
+          "prepared_text": "[[prepared]]Natural enemies cannot be blamed for failing to control an outbreak that had already reached fruits before releases began."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Conservation May Be More Important Than Release"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Many fields naturally contain:",
+          "prepared_text": "[[prepared]]Many fields naturally contain:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg parasitoids.",
+            "Larval parasitoids.",
+            "Mirid predators.",
+            "Lacewings.",
+            "Spiders.",
+            "Other predators."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Larval parasitoids.",
+            "[[prepared]]Mirid predators.",
+            "[[prepared]]Lacewings.",
+            "[[prepared]]Spiders.",
+            "[[prepared]]Other predators."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conserving them may cost less than purchasing large numbers of beneficial organisms after the natural community has been destroyed.",
+          "prepared_text": "[[prepared]]Conserving them may cost less than purchasing large numbers of beneficial organisms after the natural community has been destroyed."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conservation is achieved through:",
+          "prepared_text": "[[prepared]]Conservation is achieved through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reducing broad-spectrum insecticides.",
+            "Using selective materials.",
+            "Biological belts.",
+            "Reducing drift.",
+            "Conserving habitats.",
+            "Avoiding preventive sprays."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reducing broad-spectrum insecticides.",
+            "[[prepared]]Using selective materials.",
+            "[[prepared]]Biological belts.",
+            "[[prepared]]Reducing drift.",
+            "[[prepared]]Conserving habitats.",
+            "[[prepared]]Avoiding preventive sprays."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Biological Belt Is Ecological Infrastructure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A biological belt is not a magical repellent, a botanical insecticide, or a barrier that prevents moths from entering the field.",
+          "prepared_text": "[[prepared]]A biological belt is not a magical repellent, a botanical insecticide, or a barrier that prevents moths from entering the field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is a vegetation structure designed to:",
+          "prepared_text": "[[prepared]]It is a vegetation structure designed to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Provide nectar.",
+            "Provide pollen.",
+            "Provide shelter.",
+            "Support harmless alternative prey.",
+            "Extend natural-enemy survival.",
+            "Improve connectivity between beneficial organisms and the crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Provide nectar.",
+            "[[prepared]]Provide pollen.",
+            "[[prepared]]Provide shelter.",
+            "[[prepared]]Support harmless alternative prey.",
+            "[[prepared]]Extend natural-enemy survival.",
+            "[[prepared]]Improve connectivity between beneficial organisms and the crop."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its success should be measured through its effect within tomato, not merely by the abundance of insects on flowers.",
+          "prepared_text": "[[prepared]]Its success should be measured through its effect within tomato, not merely by the abundance of insects on flowers."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The model consisting of:",
+          "prepared_text": "[[prepared]]The model consisting of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "50% dill.",
+            "30% coriander.",
+            "20% basil."
+          ],
+          "prepared_items": [
+            "[[prepared]]50% dill.",
+            "[[prepared]]30% coriander.",
+            "[[prepared]]20% basil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Remains an experimental Egyptian model requiring validation, not a fixed global standard.",
+          "prepared_text": "[[prepared]]Remains an experimental Egyptian model requiring validation, not a fixed global standard."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Insecticides Are Important Tools, but They Are Not the Centre of the System"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The importance of registered insecticides in protecting the crop under high-risk conditions cannot be denied.",
+          "prepared_text": "[[prepared]]The importance of registered insecticides in protecting the crop under high-risk conditions cannot be denied."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may be necessary when:",
+          "prepared_text": "[[prepared]]They may be necessary when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval abundance is increasing.",
+            "Infestation is approaching fruits.",
+            "Natural enemies decline.",
+            "Other methods are insufficient."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larval abundance is increasing.",
+            "[[prepared]]Infestation is approaching fruits.",
+            "[[prepared]]Natural enemies decline.",
+            "[[prepared]]Other methods are insufficient."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The true value of an insecticide is realised when it is used:",
+          "prepared_text": "[[prepared]]The true value of an insecticide is realised when it is used:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Against the appropriate stage.",
+            "At the registered rate.",
+            "With good coverage.",
+            "At the correct time.",
+            "Within a sound rotation.",
+            "With outcome evaluation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Against the appropriate stage.",
+            "[[prepared]]At the registered rate.",
+            "[[prepared]]With good coverage.",
+            "[[prepared]]At the correct time.",
+            "[[prepared]]Within a sound rotation.",
+            "[[prepared]]With outcome evaluation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An insecticide loses value when it is used:",
+          "prepared_text": "[[prepared]]An insecticide loses value when it is used:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Preventively without need.",
+            "Against insensitive instars.",
+            "At arbitrary rates.",
+            "In untested mixtures.",
+            "Repeatedly."
+          ],
+          "prepared_items": [
+            "[[prepared]]Preventively without need.",
+            "[[prepared]]Against insensitive instars.",
+            "[[prepared]]At arbitrary rates.",
+            "[[prepared]]In untested mixtures.",
+            "[[prepared]]Repeatedly."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance Is Not a Sudden Event"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance develops through repeated selection.",
+          "prepared_text": "[[prepared]]Resistance develops through repeated selection."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every insecticide exposure results in:",
+          "prepared_text": "[[prepared]]Every insecticide exposure results in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mortality of susceptible individuals.",
+            "Survival of some less-susceptible individuals.",
+            "Reproduction of survivors.",
+            "An increased proportion of resistance in the next generation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mortality of susceptible individuals.",
+            "[[prepared]]Survival of some less-susceptible individuals.",
+            "[[prepared]]Reproduction of survivors.",
+            "[[prepared]]An increased proportion of resistance in the next generation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The process accelerates with:",
+          "prepared_text": "[[prepared]]The process accelerates with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Repetition of the same group.",
+            "Incorrect rates.",
+            "Consecutive exposure of generations.",
+            "Absence of natural enemies.",
+            "Failure to manage source fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Repetition of the same group.",
+            "[[prepared]]Incorrect rates.",
+            "[[prepared]]Consecutive exposure of generations.",
+            "[[prepared]]Absence of natural enemies.",
+            "[[prepared]]Failure to manage source fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance cannot be corrected by increasing the rate because a higher rate may kill only part of the population while increasing selection pressure and associated risks.",
+          "prepared_text": "[[prepared]]Resistance cannot be corrected by increasing the rate because a higher rate may kill only part of the population while increasing selection pressure and associated risks."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance Management Is a Collective Responsibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When one grower uses an insecticide group rationally while most growers in the area repeat it, resistant individuals may still immigrate into the well-managed field.",
+          "prepared_text": "[[prepared]]When one grower uses an insecticide group rationally while most growers in the area repeat it, resistant individuals may still immigrate into the well-managed field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance therefore requires management at the level of:",
+          "prepared_text": "[[prepared]]Resistance therefore requires management at the level of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nursery.",
+            "Field.",
+            "Farm.",
+            "Region.",
+            "Companies.",
+            "Regulatory authorities."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nursery.",
+            "[[prepared]]Field.",
+            "[[prepared]]Farm.",
+            "[[prepared]]Region.",
+            "[[prepared]]Companies.",
+            "[[prepared]]Regulatory authorities."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be shared:",
+          "prepared_text": "[[prepared]]The following should be shared:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Failure cases.",
+            "Susceptibility results.",
+            "Groups used.",
+            "Early warnings."
+          ],
+          "prepared_items": [
+            "[[prepared]]Failure cases.",
+            "[[prepared]]Susceptibility results.",
+            "[[prepared]]Groups used.",
+            "[[prepared]]Early warnings."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Insecticide Failure Does Not Always Mean Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced efficacy may result from:",
+          "prepared_text": "[[prepared]]Reduced efficacy may result from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Advanced larval instars.",
+            "Poor coverage.",
+            "Incorrect rate.",
+            "Water quality.",
+            "Rainfall.",
+            "Wind.",
+            "Degraded product.",
+            "New hatching.",
+            "Immigration."
+          ],
+          "prepared_items": [
+            "[[prepared]]Advanced larval instars.",
+            "[[prepared]]Poor coverage.",
+            "[[prepared]]Incorrect rate.",
+            "[[prepared]]Water quality.",
+            "[[prepared]]Rainfall.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Degraded product.",
+            "[[prepared]]New hatching.",
+            "[[prepared]]Immigration."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A technical investigation should therefore be conducted before resistance is declared.",
+          "prepared_text": "[[prepared]]A technical investigation should therefore be conducted before resistance is declared."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Suspicion should be substantiated through:",
+          "prepared_text": "[[prepared]]Suspicion should be substantiated through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Correct sample collection.",
+            "A standardised susceptibility test.",
+            "Comparison with a baseline.",
+            "Documentation of use history."
+          ],
+          "prepared_items": [
+            "[[prepared]]Correct sample collection.",
+            "[[prepared]]A standardised susceptibility test.",
+            "[[prepared]]Comparison with a baseline.",
+            "[[prepared]]Documentation of use history."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Coverage May Be More Important Than Product Name"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An effective insecticide may fail when it does not reach:",
+          "prepared_text": "[[prepared]]An effective insecticide may fail when it does not reach:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Growing points.",
+            "Lower leaf surfaces.",
+            "The inner canopy.",
+            "Leaves adjacent to clusters."
+          ],
+          "prepared_items": [
+            "[[prepared]]Growing points.",
+            "[[prepared]]Lower leaf surfaces.",
+            "[[prepared]]The inner canopy.",
+            "[[prepared]]Leaves adjacent to clusters."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Coverage changes with:",
+          "prepared_text": "[[prepared]]Coverage changes with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant growth.",
+            "Row density.",
+            "Machine speed.",
+            "Pressure.",
+            "Nozzle type.",
+            "Water volume.",
+            "Wind."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant growth.",
+            "[[prepared]]Row density.",
+            "[[prepared]]Machine speed.",
+            "[[prepared]]Pressure.",
+            "[[prepared]]Nozzle type.",
+            "[[prepared]]Water volume.",
+            "[[prepared]]Wind."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The sprayer should therefore be recalibrated during the season, not only once.",
+          "prepared_text": "[[prepared]]The sprayer should therefore be recalibrated during the season, not only once."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Temperature Changes the Rules of Decision-Making"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Temperature determines the speed of:",
+          "prepared_text": "[[prepared]]Temperature determines the speed of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg incubation.",
+            "Larval growth.",
+            "Generation completion.",
+            "Adult emergence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg incubation.",
+            "[[prepared]]Larval growth.",
+            "[[prepared]]Generation completion.",
+            "[[prepared]]Adult emergence."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When temperature rises, eggs may develop into larvae within a shorter period, making weekly inspection insufficient.",
+          "prepared_text": "[[prepared]]When temperature rises, eggs may develop into larvae within a shorter period, making weekly inspection insufficient."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under cool conditions, stages may persist for longer, and the team may incorrectly assume the pest has disappeared.",
+          "prepared_text": "[[prepared]]Under cool conditions, stages may persist for longer, and the team may incorrectly assume the pest has disappeared."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Thermal models can help estimate timing, but they do not replace field inspection and do not predict external immigration.",
+          "prepared_text": "[[prepared]]Thermal models can help estimate timing, but they do not replace field inspection and do not predict external immigration."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Egyptian Conditions Require Multiple Programmes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One programme cannot suit all regions of Egypt because of differences in:",
+          "prepared_text": "[[prepared]]One programme cannot suit all regions of Egypt because of differences in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Temperature.",
+            "Humidity.",
+            "Wind.",
+            "Crop-cycle duration.",
+            "Planting dates.",
+            "Holding size.",
+            "Production type."
+          ],
+          "prepared_items": [
+            "[[prepared]]Temperature.",
+            "[[prepared]]Humidity.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Crop-cycle duration.",
+            "[[prepared]]Planting dates.",
+            "[[prepared]]Holding size.",
+            "[[prepared]]Production type."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The Delta requires coordination among small fields, nurseries, and drainage channels.",
+          "prepared_text": "[[prepared]]The Delta requires coordination among small fields, nurseries, and drainage channels."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Newly reclaimed land requires division of large areas, hotspot mapping, and organised equipment movement.",
+          "prepared_text": "[[prepared]]Newly reclaimed land requires division of large areas, hotspot mapping, and organised equipment movement."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Upper Egypt requires faster response and protection of biological agents from heat and dryness.",
+          "prepared_text": "[[prepared]]Upper Egypt requires faster response and protection of biological agents from heat and dryness."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Coastal areas require interpretation of wind and local climate.",
+          "prepared_text": "[[prepared]]Coastal areas require interpretation of wind and local climate."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Winter, spring, summer, and autumn production cycles also differ from one another.",
+          "prepared_text": "[[prepared]]Winter, spring, summer, and autumn production cycles also differ from one another."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Processing Tomatoes Are Not Less Sensitive"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some may assume that processing tomatoes tolerate greater infestation because the fruit is destined for a factory, but infestation affects:",
+          "prepared_text": "[[prepared]]Some may assume that processing tomatoes tolerate greater infestation because the fruit is destined for a factory, but infestation affects:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Weight of accepted fruits.",
+            "Rots.",
+            "Foreign material.",
+            "Grading efficiency.",
+            "Raw-material quality.",
+            "Rejection percentage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Weight of accepted fruits.",
+            "[[prepared]]Rots.",
+            "[[prepared]]Foreign material.",
+            "[[prepared]]Grading efficiency.",
+            "[[prepared]]Raw-material quality.",
+            "[[prepared]]Rejection percentage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Concentrated harvest also makes intervention and harvest timing critical.",
+          "prepared_text": "[[prepared]]Concentrated harvest also makes intervention and harvest timing critical."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Processing tomatoes require:",
+          "prepared_text": "[[prepared]]Processing tomatoes require:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Protection of canopy cover.",
+            "Measurement of fruit infestation by weight.",
+            "Compliance with the factory list.",
+            "Rapid field termination."
+          ],
+          "prepared_items": [
+            "[[prepared]]Protection of canopy cover.",
+            "[[prepared]]Measurement of fruit infestation by weight.",
+            "[[prepared]]Compliance with the factory list.",
+            "[[prepared]]Rapid field termination."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fresh-Market Tomatoes Require Greater Sensitivity to Fruit Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In fresh-market tomatoes, one small hole may be sufficient to eliminate market value.",
+          "prepared_text": "[[prepared]]In fresh-market tomatoes, one small hole may be sufficient to eliminate market value."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Repeated pickings also require review of:",
+          "prepared_text": "[[prepared]]Repeated pickings also require review of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Preharvest interval.",
+            "Insecticide record.",
+            "Infestation between pickings.",
+            "Rejected produce.",
+            "Containers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Insecticide record.",
+            "[[prepared]]Infestation between pickings.",
+            "[[prepared]]Rejected produce.",
+            "[[prepared]]Containers."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The same threshold should therefore not be used for processing and fresh-market tomatoes.",
+          "prepared_text": "[[prepared]]The same threshold should therefore not be used for processing and fresh-market tomatoes."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Economic Management Is Part of Integrated Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An intervention may be biologically effective but uneconomic, while a moderately effective intervention may protect a large quantity of accepted yield.",
+          "prepared_text": "[[prepared]]An intervention may be biologically effective but uneconomic, while a moderately effective intervention may protect a large quantity of accepted yield."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should therefore be calculated:",
+          "prepared_text": "[[prepared]]The following should therefore be calculated:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Monitoring cost.",
+            "Cost of natural enemies.",
+            "Insecticide cost.",
+            "Application cost.",
+            "Labour cost.",
+            "Value of protected yield.",
+            "Rejection percentage.",
+            "Cost per accepted tonne."
+          ],
+          "prepared_items": [
+            "[[prepared]]Monitoring cost.",
+            "[[prepared]]Cost of natural enemies.",
+            "[[prepared]]Insecticide cost.",
+            "[[prepared]]Application cost.",
+            "[[prepared]]Labour cost.",
+            "[[prepared]]Value of protected yield.",
+            "[[prepared]]Rejection percentage.",
+            "[[prepared]]Cost per accepted tonne."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is also necessary to know when terminating a sector is more economical than continuing control.",
+          "prepared_text": "[[prepared]]It is also necessary to know when terminating a sector is more economical than continuing control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Previous Costs Should Not Dictate Continued Expenditure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When sector viability declines, the producer may continue spending because large amounts have already been invested.",
+          "prepared_text": "[[prepared]]When sector viability declines, the producer may continue spending because large amounts have already been invested."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The correct economic decision, however, depends on:",
+          "prepared_text": "[[prepared]]The correct economic decision, however, depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Remaining yield that can still be protected.",
+            "Future protection cost.",
+            "Probability of success.",
+            "Crop value.",
+            "Residue risk.",
+            "Risk posed to neighbours."
+          ],
+          "prepared_items": [
+            "[[prepared]]Remaining yield that can still be protected.",
+            "[[prepared]]Future protection cost.",
+            "[[prepared]]Probability of success.",
+            "[[prepared]]Crop value.",
+            "[[prepared]]Residue risk.",
+            "[[prepared]]Risk posed to neighbours."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Past costs are not recovered by increasing unproductive expenditure.",
+          "prepared_text": "[[prepared]]Past costs are not recovered by increasing unproductive expenditure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Harvest Is Part of Pest Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme does not end when fruits ripen.",
+          "prepared_text": "[[prepared]]The programme does not end when fruits ripen."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Organised harvest can:",
+          "prepared_text": "[[prepared]]Organised harvest can:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Remove infested fruits.",
+            "Reduce larval sources.",
+            "Prevent movement into grading stations.",
+            "Reduce losses.",
+            "Prevent the field from remaining too long."
+          ],
+          "prepared_items": [
+            "[[prepared]]Remove infested fruits.",
+            "[[prepared]]Reduce larval sources.",
+            "[[prepared]]Prevent movement into grading stations.",
+            "[[prepared]]Reduce losses.",
+            "[[prepared]]Prevent the field from remaining too long."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Harvest should include:",
+          "prepared_text": "[[prepared]]Harvest should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Grading.",
+            "Separation of rejected produce.",
+            "Recording of rejection causes.",
+            "Cleaning containers and equipment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Grading.",
+            "[[prepared]]Separation of rejected produce.",
+            "[[prepared]]Recording of rejection causes.",
+            "[[prepared]]Cleaning containers and equipment."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The End of One Field Is the Beginning of Protection for the Next Crop"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The final action in an old field may be the first preventive action in the neighbouring new field.",
+          "prepared_text": "[[prepared]]The final action in an old field may be the first preventive action in the neighbouring new field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Removal of plants and fruits after harvest:",
+          "prepared_text": "[[prepared]]Removal of plants and fruits after harvest:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Breaks the pest cycle.",
+            "Prevents moth emergence.",
+            "Reduces regional pressure.",
+            "Reduces the need for spraying in the following crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Breaks the pest cycle.",
+            "[[prepared]]Prevents moth emergence.",
+            "[[prepared]]Reduces regional pressure.",
+            "[[prepared]]Reduces the need for spraying in the following crop."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Project success should therefore also be measured by the number of days between:",
+          "prepared_text": "[[prepared]]Project success should therefore also be measured by the number of days between:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Final harvest.",
+            "Complete field removal."
+          ],
+          "prepared_items": [
+            "[[prepared]]Final harvest.",
+            "[[prepared]]Complete field removal."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Data Are the Memory of the Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When data are not recorded, the same errors are rediscovered every season.",
+          "prepared_text": "[[prepared]]When data are not recorded, the same errors are rediscovered every season."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Records make it possible to know:",
+          "prepared_text": "[[prepared]]Records make it possible to know:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The highest-risk edge.",
+            "When the increase began.",
+            "Which material showed reduced performance.",
+            "Which natural enemies were effective.",
+            "Programme cost.",
+            "Fruit-infestation percentage.",
+            "Effect of neighbouring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]The highest-risk edge.",
+            "[[prepared]]When the increase began.",
+            "[[prepared]]Which material showed reduced performance.",
+            "[[prepared]]Which natural enemies were effective.",
+            "[[prepared]]Programme cost.",
+            "[[prepared]]Fruit-infestation percentage.",
+            "[[prepared]]Effect of neighbouring fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Records convert experience from individual knowledge into institutional knowledge.",
+          "prepared_text": "[[prepared]]Records convert experience from individual knowledge into institutional knowledge."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Non-Intervention May Be the Correct Decision"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated pest management does not mean that an action must be implemented at every field visit.",
+          "prepared_text": "[[prepared]]Integrated pest management does not mean that an action must be implemented at every field visit."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The correct decision may be:",
+          "prepared_text": "[[prepared]]The correct decision may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Not to spray.",
+            "To continue monitoring.",
+            "To protect parasitoids.",
+            "To wait for reassessment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Not to spray.",
+            "[[prepared]]To continue monitoring.",
+            "[[prepared]]To protect parasitoids.",
+            "[[prepared]]To wait for reassessment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Non-intervention is appropriate when:",
+          "prepared_text": "[[prepared]]Non-intervention is appropriate when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation is low.",
+            "Mines are old.",
+            "Eggs are sufficiently parasitised.",
+            "Natural enemies are stable.",
+            "Fruits are sound.",
+            "No increasing trend exists."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation is low.",
+            "[[prepared]]Mines are old.",
+            "[[prepared]]Eggs are sufficiently parasitised.",
+            "[[prepared]]Natural enemies are stable.",
+            "[[prepared]]Fruits are sound.",
+            "[[prepared]]No increasing trend exists."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision and reassessment date should nevertheless be documented.",
+          "prepared_text": "[[prepared]]The decision and reassessment date should nevertheless be documented."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Early Intervention Does Not Mean Excessive Preventive Spraying"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Early intervention may be misinterpreted as applying insecticides before the pest appears.",
+          "prepared_text": "[[prepared]]Early intervention may be misinterpreted as applying insecticides before the pest appears."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "What it actually means is:",
+          "prepared_text": "[[prepared]]What it actually means is:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Detecting the early signal.",
+            "Targeting the early stage.",
+            "Preventing escalation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Detecting the early signal.",
+            "[[prepared]]Targeting the early stage.",
+            "[[prepared]]Preventing escalation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It does not mean spraying without evidence.",
+          "prepared_text": "[[prepared]]It does not mean spraying without evidence."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "True prevention includes:",
+          "prepared_text": "[[prepared]]True prevention includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Healthy transplants.",
+            "Sanitation.",
+            "Traps.",
+            "Biological belts.",
+            "Conservation of natural enemies.",
+            "Management of old fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Healthy transplants.",
+            "[[prepared]]Sanitation.",
+            "[[prepared]]Traps.",
+            "[[prepared]]Biological belts.",
+            "[[prepared]]Conservation of natural enemies.",
+            "[[prepared]]Management of old fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Integrated Pest Management Is a Continuous Learning System"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No programme remains unchanged for years because:",
+          "prepared_text": "[[prepared]]No programme remains unchanged for years because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Resistance changes.",
+            "Production cycles change.",
+            "Climate changes.",
+            "Products change.",
+            "Natural enemies change.",
+            "Crop prices and costs change."
+          ],
+          "prepared_items": [
+            "[[prepared]]Resistance changes.",
+            "[[prepared]]Production cycles change.",
+            "[[prepared]]Climate changes.",
+            "[[prepared]]Products change.",
+            "[[prepared]]Natural enemies change.",
+            "[[prepared]]Crop prices and costs change."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "After every season, the following should be analysed:",
+          "prepared_text": "[[prepared]]After every season, the following should be analysed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "What succeeded?",
+            "What failed?",
+            "When did the problem begin?",
+            "Was the warning early?",
+            "Were the methods compatible?",
+            "Was the programme economically viable?"
+          ],
+          "prepared_items": [
+            "[[prepared]]What succeeded?",
+            "[[prepared]]What failed?",
+            "[[prepared]]When did the problem begin?",
+            "[[prepared]]Was the warning early?",
+            "[[prepared]]Were the methods compatible?",
+            "[[prepared]]Was the programme economically viable?"
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should then be modified for the following season.",
+          "prepared_text": "[[prepared]]The programme should then be modified for the following season."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "What Does Realistic Control Mean?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Realistic control does not mean complete elimination of every individual pest.",
+          "prepared_text": "[[prepared]]Realistic control does not mean complete elimination of every individual pest."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Achieving absolute zero in open fields may be:",
+          "prepared_text": "[[prepared]]Achieving absolute zero in open fields may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Impossible.",
+            "Uneconomic.",
+            "Unnecessary."
+          ],
+          "prepared_items": [
+            "[[prepared]]Impossible.",
+            "[[prepared]]Uneconomic.",
+            "[[prepared]]Unnecessary."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Control means:",
+          "prepared_text": "[[prepared]]Control means:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Keeping the pest below the economic injury level.",
+            "Preventing economically significant fruit infestation.",
+            "Preserving accepted yield.",
+            "Preventing development of regional source fields.",
+            "Preserving insecticide efficacy.",
+            "Supporting natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Keeping the pest below the economic injury level.",
+            "[[prepared]]Preventing economically significant fruit infestation.",
+            "[[prepared]]Preserving accepted yield.",
+            "[[prepared]]Preventing development of regional source fields.",
+            "[[prepared]]Preserving insecticide efficacy.",
+            "[[prepared]]Supporting natural enemies."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Why Is the Pest Not Impossible to Control?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is not impossible because it has vulnerable points that can be targeted:",
+          "prepared_text": "[[prepared]]It is not impossible because it has vulnerable points that can be targeted:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs are relatively exposed on the plant surface.",
+            "Newly hatched larvae are more susceptible.",
+            "Adult moths can be monitored.",
+            "Development is affected by temperature.",
+            "Egg parasitoids can attack it.",
+            "Predators consume eggs and larvae.",
+            "Entomopathogens can infect it.",
+            "Source fields can be terminated.",
+            "Resistance can be slowed.",
+            "Fruit infestation can be prevented through early intervention."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs are relatively exposed on the plant surface.",
+            "[[prepared]]Newly hatched larvae are more susceptible.",
+            "[[prepared]]Adult moths can be monitored.",
+            "[[prepared]]Development is affected by temperature.",
+            "[[prepared]]Egg parasitoids can attack it.",
+            "[[prepared]]Predators consume eggs and larvae.",
+            "[[prepared]]Entomopathogens can infect it.",
+            "[[prepared]]Source fields can be terminated.",
+            "[[prepared]]Resistance can be slowed.",
+            "[[prepared]]Fruit infestation can be prevented through early intervention."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The problem is not absence of tools, but poor organisation and timing.",
+          "prepared_text": "[[prepared]]The problem is not absence of tools, but poor organisation and timing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Pest Is Stronger When Management Is Fragmented"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta becomes stronger when each stakeholder acts separately:",
+          "prepared_text": "[[prepared]]Tuta absoluta becomes stronger when each stakeholder acts separately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The nursery produces without traceability.",
+            "The grower sprays without monitoring.",
+            "The supplier sells without resistance management.",
+            "The factory rejects produce without supporting the field.",
+            "The researcher works without economic measurement.",
+            "A neighbour leaves the old field standing."
+          ],
+          "prepared_items": [
+            "[[prepared]]The nursery produces without traceability.",
+            "[[prepared]]The grower sprays without monitoring.",
+            "[[prepared]]The supplier sells without resistance management.",
+            "[[prepared]]The factory rejects produce without supporting the field.",
+            "[[prepared]]The researcher works without economic measurement.",
+            "[[prepared]]A neighbour leaves the old field standing."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest becomes weaker when the system operates in an integrated manner.",
+          "prepared_text": "[[prepared]]The pest becomes weaker when the system operates in an integrated manner."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Message to the Agricultural Engineer"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Do not measure your success by the number of sprays implemented, but by your ability to:",
+          "prepared_text": "[[prepared]]Do not measure your success by the number of sprays implemented, but by your ability to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Detect the pest early.",
+            "Interpret data.",
+            "Prevent fruit infestation.",
+            "Protect natural enemies.",
+            "Reduce resistance pressure.",
+            "Document decisions.",
+            "Preserve economic viability."
+          ],
+          "prepared_items": [
+            "[[prepared]]Detect the pest early.",
+            "[[prepared]]Interpret data.",
+            "[[prepared]]Prevent fruit infestation.",
+            "[[prepared]]Protect natural enemies.",
+            "[[prepared]]Reduce resistance pressure.",
+            "[[prepared]]Document decisions.",
+            "[[prepared]]Preserve economic viability."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A successful engineer is not the one with the longest list of insecticides, but the one who knows:",
+          "prepared_text": "[[prepared]]A successful engineer is not the one with the longest list of insecticides, but the one who knows:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "When to intervene.",
+            "How to intervene.",
+            "When not to intervene."
+          ],
+          "prepared_items": [
+            "[[prepared]]When to intervene.",
+            "[[prepared]]How to intervene.",
+            "[[prepared]]When not to intervene."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Message to the Grower"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Do not wait for major damage and then search for the strongest insecticide.",
+          "prepared_text": "[[prepared]]Do not wait for major damage and then search for the strongest insecticide."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Begin with:",
+          "prepared_text": "[[prepared]]Begin with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Healthy transplants.",
+            "A clean field.",
+            "A functioning trap.",
+            "Regular inspection.",
+            "Accurate implementation.",
+            "Collection of infested fruits.",
+            "Field removal after harvest."
+          ],
+          "prepared_items": [
+            "[[prepared]]Healthy transplants.",
+            "[[prepared]]A clean field.",
+            "[[prepared]]A functioning trap.",
+            "[[prepared]]Regular inspection.",
+            "[[prepared]]Accurate implementation.",
+            "[[prepared]]Collection of infested fruits.",
+            "[[prepared]]Field removal after harvest."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Remember that the most expensive mixture is not necessarily the most effective, and increasing the rate does not mean increasing protection.",
+          "prepared_text": "[[prepared]]Remember that the most expensive mixture is not necessarily the most effective, and increasing the rate does not mean increasing protection."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Message to the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Losses across tens of feddans may begin from one infested transplant tray.",
+          "prepared_text": "[[prepared]]Losses across tens of feddans may begin from one infested transplant tray."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Batch inspection, traceability, and management of rejected plants are therefore not formalities; they are direct responsibilities for the safety of the production chain.",
+          "prepared_text": "[[prepared]]Batch inspection, traceability, and management of rejected plants are therefore not formalities; they are direct responsibilities for the safety of the production chain."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Message to Pesticide Companies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An insecticide is a resource of limited value when misused.",
+          "prepared_text": "[[prepared]]An insecticide is a resource of limited value when misused."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Protecting its efficacy requires:",
+          "prepared_text": "[[prepared]]Protecting its efficacy requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Training.",
+            "Transparency.",
+            "Prevention of misleading marketing.",
+            "Investigation of failure cases.",
+            "Support for resistance testing.",
+            "Clear communication of the mode-of-action group."
+          ],
+          "prepared_items": [
+            "[[prepared]]Training.",
+            "[[prepared]]Transparency.",
+            "[[prepared]]Prevention of misleading marketing.",
+            "[[prepared]]Investigation of failure cases.",
+            "[[prepared]]Support for resistance testing.",
+            "[[prepared]]Clear communication of the mode-of-action group."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Message to Producers of Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Success of biological control does not depend on selling large numbers of organisms, but on:",
+          "prepared_text": "[[prepared]]Success of biological control does not depend on selling large numbers of organisms, but on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Quality.",
+            "Timing.",
+            "Transport.",
+            "Distribution.",
+            "Compatibility.",
+            "Follow-up."
+          ],
+          "prepared_items": [
+            "[[prepared]]Quality.",
+            "[[prepared]]Timing.",
+            "[[prepared]]Transport.",
+            "[[prepared]]Distribution.",
+            "[[prepared]]Compatibility.",
+            "[[prepared]]Follow-up."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A biological product should be accompanied by technical support and field evaluation.",
+          "prepared_text": "[[prepared]]A biological product should be accompanied by technical support and field evaluation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Message to Factories"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tomato quality does not begin at the factory gate.",
+          "prepared_text": "[[prepared]]Tomato quality does not begin at the factory gate."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It begins with:",
+          "prepared_text": "[[prepared]]It begins with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The transplant.",
+            "The field.",
+            "The insecticide record.",
+            "Harvest timing.",
+            "Residue management."
+          ],
+          "prepared_items": [
+            "[[prepared]]The transplant.",
+            "[[prepared]]The field.",
+            "[[prepared]]The insecticide record.",
+            "[[prepared]]Harvest timing.",
+            "[[prepared]]Residue management."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A factory that supports integrated management reduces rejection and improves supply stability and raw-material quality.",
+          "prepared_text": "[[prepared]]A factory that supports integrated management reduces rejection and improves supply stability and raw-material quality."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Message to Researchers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is not enough to demonstrate that a material or organism killed a proportion of larvae in the laboratory.",
+          "prepared_text": "[[prepared]]It is not enough to demonstrate that a material or organism killed a proportion of larvae in the laboratory."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Research should progress to measurement of:",
+          "prepared_text": "[[prepared]]Research should progress to measurement of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fruit infestation.",
+            "Accepted yield.",
+            "Cost.",
+            "Compatibility.",
+            "Sustainability.",
+            "Scalability."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Cost.",
+            "[[prepared]]Compatibility.",
+            "[[prepared]]Sustainability.",
+            "[[prepared]]Scalability."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Negative results should also be published because they prevent repetition of unproductive field trials.",
+          "prepared_text": "[[prepared]]Negative results should also be published because they prevent repetition of unproductive field trials."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Message to Regulatory Authorities"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pest management is not limited to pesticide registration.",
+          "prepared_text": "[[prepared]]Pest management is not limited to pesticide registration."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It also requires:",
+          "prepared_text": "[[prepared]]It also requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nursery inspection.",
+            "Product-quality control.",
+            "A resistance-management system.",
+            "Standards for natural enemies.",
+            "Residue management.",
+            "A warning network.",
+            "Updated lists.",
+            "Extension support."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nursery inspection.",
+            "[[prepared]]Product-quality control.",
+            "[[prepared]]A resistance-management system.",
+            "[[prepared]]Standards for natural enemies.",
+            "[[prepared]]Residue management.",
+            "[[prepared]]A warning network.",
+            "[[prepared]]Updated lists.",
+            "[[prepared]]Extension support."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Future Vision for Management in Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Management of Tuta absoluta in Egypt should gradually move from:",
+          "prepared_text": "[[prepared]]Management of Tuta absoluta in Egypt should gradually move from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Individual spray programmes."
+          ],
+          "prepared_items": [
+            "[[prepared]]Individual spray programmes."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Towards:",
+          "prepared_text": "[[prepared]]Towards:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Regional monitoring systems.",
+            "Traceable nurseries.",
+            "Databases.",
+            "Local thresholds.",
+            "Resistance maps.",
+            "Local production of natural enemies.",
+            "Biological-belt programmes.",
+            "Contracts linking factories to farms.",
+            "Organised field termination."
+          ],
+          "prepared_items": [
+            "[[prepared]]Regional monitoring systems.",
+            "[[prepared]]Traceable nurseries.",
+            "[[prepared]]Databases.",
+            "[[prepared]]Local thresholds.",
+            "[[prepared]]Resistance maps.",
+            "[[prepared]]Local production of natural enemies.",
+            "[[prepared]]Biological-belt programmes.",
+            "[[prepared]]Contracts linking factories to farms.",
+            "[[prepared]]Organised field termination."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "First Priority: Clean Transplants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A system should be developed to ensure:",
+          "prepared_text": "[[prepared]]A system should be developed to ensure:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Batch coding.",
+            "An insecticide record.",
+            "Pre-shipment inspection.",
+            "Traceability of recipient fields.",
+            "Batch recall when infestation is detected."
+          ],
+          "prepared_items": [
+            "[[prepared]]Batch coding.",
+            "[[prepared]]An insecticide record.",
+            "[[prepared]]Pre-shipment inspection.",
+            "[[prepared]]Traceability of recipient fields.",
+            "[[prepared]]Batch recall when infestation is detected."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Second Priority: Early Warning"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A network should be established linking:",
+          "prepared_text": "[[prepared]]A network should be established linking:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Traps.",
+            "Temperature.",
+            "Eggs.",
+            "Mines.",
+            "Old fields.",
+            "Natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Traps.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Eggs.",
+            "[[prepared]]Mines.",
+            "[[prepared]]Old fields.",
+            "[[prepared]]Natural enemies."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should issue alerts specifying the required action, not merely the number of moths.",
+          "prepared_text": "[[prepared]]It should issue alerts specifying the required action, not merely the number of moths."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Third Priority: Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egypt needs:",
+          "prepared_text": "[[prepared]]Egypt needs:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Regional databases.",
+            "Reference laboratories.",
+            "Annual susceptibility monitoring.",
+            "IRAC bulletins.",
+            "Distributor training.",
+            "Prevention of repeated mode-of-action groups."
+          ],
+          "prepared_items": [
+            "[[prepared]]Regional databases.",
+            "[[prepared]]Reference laboratories.",
+            "[[prepared]]Annual susceptibility monitoring.",
+            "[[prepared]][[term:irac]]IRAC[[/term]] bulletins.",
+            "[[prepared]]Distributor training.",
+            "[[prepared]]Prevention of repeated mode-of-action groups."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fourth Priority: Local Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be surveyed and evaluated:",
+          "prepared_text": "[[prepared]]The following should be surveyed and evaluated:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg parasitoids.",
+            "Larval parasitoids.",
+            "Predators.",
+            "Entomopathogenic strains."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Larval parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Entomopathogenic strains."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Programmes should then be developed for:",
+          "prepared_text": "[[prepared]]Programmes should then be developed for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Conservation.",
+            "Mass production.",
+            "Release.",
+            "Compatibility with insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Conservation.",
+            "[[prepared]]Mass production.",
+            "[[prepared]]Release.",
+            "[[prepared]]Compatibility with insecticides."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fifth Priority: Management of Old Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The speed of field removal should become a principal performance indicator for agricultural projects because a completed field may pose greater regional risk than a productive field.",
+          "prepared_text": "[[prepared]]The speed of field removal should become a principal performance indicator for agricultural projects because a completed field may pose greater regional risk than a productive field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sixth Priority: Measurement of Accepted Yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The focus should shift from measuring:",
+          "prepared_text": "[[prepared]]The focus should shift from measuring:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Total yield alone."
+          ],
+          "prepared_items": [
+            "[[prepared]]Total yield alone."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "To measuring:",
+          "prepared_text": "[[prepared]]To measuring:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Accepted yield.",
+            "Rejection caused by Tuta.",
+            "Weight loss.",
+            "Protection cost per tonne."
+          ],
+          "prepared_items": [
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Rejection caused by Tuta.",
+            "[[prepared]]Weight loss.",
+            "[[prepared]]Protection cost per tonne."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Seventh Priority: Digital Knowledge"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Digital systems should be developed to allow:",
+          "prepared_text": "[[prepared]]Digital systems should be developed to allow:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Entry of trap data.",
+            "Mapping of hotspots.",
+            "Tracking of IRAC groups.",
+            "PHI alerts.",
+            "Linking harvest with control.",
+            "Comparison among seasons."
+          ],
+          "prepared_items": [
+            "[[prepared]]Entry of trap data.",
+            "[[prepared]]Mapping of hotspots.",
+            "[[prepared]]Tracking of IRAC groups.",
+            "[[prepared]][[term:pesticide-safety]]PHI[[/term]] alerts.",
+            "[[prepared]]Linking harvest with control.",
+            "[[prepared]]Comparison among seasons."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Technology, however, does not replace correct field inspection.",
+          "prepared_text": "[[prepared]]Technology, however, does not replace correct field inspection."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Equation for Success"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Management success can be expressed conceptually as follows:",
+          "prepared_text": "[[prepared]]Management success can be expressed conceptually as follows:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "**Success = Early prevention",
+          "prepared_text": "[[prepared]]**Success = Early prevention"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Regular monitoring",
+            "Targeting the appropriate stage",
+            "Protection of natural enemies",
+            "Rational insecticide use",
+            "Management of source fields",
+            "Organised harvest and termination",
+            "Continuous economic evaluation**"
+          ],
+          "prepared_items": [
+            "[[prepared]]Regular monitoring",
+            "[[prepared]]Targeting the appropriate stage",
+            "[[prepared]]Protection of natural enemies",
+            "[[prepared]]Rational insecticide use",
+            "[[prepared]]Management of source fields",
+            "[[prepared]]Organised harvest and termination",
+            "[[prepared]]Continuous economic evaluation**"
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Failure, by contrast, usually results from:",
+          "prepared_text": "[[prepared]]Failure, by contrast, usually results from:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "**Delay",
+          "prepared_text": "[[prepared]]**Delay"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reliance on insecticides alone",
+            "Poor coverage",
+            "Repetition of the mode of action",
+            "Ignoring fruit",
+            "Leaving residues",
+            "Lack of coordination**"
+          ],
+          "prepared_items": [
+            "[[prepared]]Reliance on insecticides alone",
+            "[[prepared]]Poor coverage",
+            "[[prepared]]Repetition of the [[term:mode-of-action]]mode of action[[/term]]",
+            "[[prepared]]Ignoring fruit",
+            "[[prepared]]Leaving residues",
+            "[[prepared]]Lack of coordination**"
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Final Conclusion"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is difficult to manage because its biology gives it a high capacity to hide, reproduce, disperse, and adapt.",
+          "prepared_text": "[[prepared]]Tuta absoluta is difficult to manage because its biology gives it a high capacity to hide, reproduce, disperse, and adapt."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is not, however, impossible to control.",
+          "prepared_text": "[[prepared]]It is not, however, impossible to control."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest does not defeat programmes through its strength alone. It often benefits from:",
+          "prepared_text": "[[prepared]]The pest does not defeat programmes through its strength alone. It often benefits from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Delayed detection.",
+            "Weak prevention.",
+            "Lack of coordination.",
+            "Misuse of insecticides.",
+            "Collapse of natural enemies.",
+            "Old fields being left standing.",
+            "Failure to learn from previous seasons."
+          ],
+          "prepared_items": [
+            "[[prepared]]Delayed detection.",
+            "[[prepared]]Weak prevention.",
+            "[[prepared]]Lack of coordination.",
+            "[[prepared]]Misuse of insecticides.",
+            "[[prepared]]Collapse of natural enemies.",
+            "[[prepared]]Old fields being left standing.",
+            "[[prepared]]Failure to learn from previous seasons."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When a programme begins with healthy transplants, monitors eggs and larvae, protects natural enemies, uses insecticides in the correct place and time, and prevents old fields from producing new waves, infestation can be reduced, fruits protected, and economic viability maintained.",
+          "prepared_text": "[[prepared]]When a programme begins with healthy transplants, monitors eggs and larvae, protects natural enemies, uses insecticides in the correct place and time, and prevents old fields from producing new waves, infestation can be reduced, fruits protected, and economic viability maintained."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single insecticide can perform all functions of integrated management, just as no single natural enemy, trap, or plant can prevent losses on its own.",
+          "prepared_text": "[[prepared]]No single insecticide can perform all functions of integrated management, just as no single natural enemy, trap, or plant can prevent losses on its own."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integration of these methods within an organised system can make the pest:",
+          "prepared_text": "[[prepared]]Integration of these methods within an organised system can make the pest:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Detectable.",
+            "Predictable.",
+            "Containable.",
+            "Economically manageable."
+          ],
+          "prepared_items": [
+            "[[prepared]]Detectable.",
+            "[[prepared]]Predictable.",
+            "[[prepared]]Containable.",
+            "[[prepared]]Economically manageable."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Final Scientific Message"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The central message of this chapter is not to search for the “strongest method for killing Tuta absoluta”, but to build a production system that prevents the pest from reaching the stage at which late killing becomes the only option.",
+          "prepared_text": "[[prepared]]The central message of this chapter is not to search for the “strongest method for killing Tuta absoluta”, but to build a production system that prevents the pest from reaching the stage at which late killing becomes the only option."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Real success begins when:",
+          "prepared_text": "[[prepared]]Real success begins when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Entry of the pest is prevented.",
+            "Or it is detected as an egg.",
+            "Or it is targeted as a newly hatched larva.",
+            "Or it is contained within a hotspot.",
+            "Or an old field is prevented from exporting it."
+          ],
+          "prepared_items": [
+            "[[prepared]]Entry of the pest is prevented.",
+            "[[prepared]]Or it is detected as an egg.",
+            "[[prepared]]Or it is targeted as a newly hatched larva.",
+            "[[prepared]]Or it is contained within a hotspot.",
+            "[[prepared]]Or an old field is prevented from exporting it."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every step of delay increases cost and reduces the range of available choices.",
+          "prepared_text": "[[prepared]]Every step of delay increases cost and reduces the range of available choices."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Conclusion of the Chapter"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated management of Tuta absoluta is not a short battle ending with one successful spray. It is a continuous process of:",
+          "prepared_text": "[[prepared]]Integrated management of Tuta absoluta is not a short battle ending with one successful spray. It is a continuous process of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Prevention.",
+            "Monitoring.",
+            "Learning.",
+            "Adaptation.",
+            "Coordination.",
+            "Evaluation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Prevention.",
+            "[[prepared]]Monitoring.",
+            "[[prepared]]Learning.",
+            "[[prepared]]Adaptation.",
+            "[[prepared]]Coordination.",
+            "[[prepared]]Evaluation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The realistic objective may not be complete disappearance of the pest from the agricultural environment, but prevention of its transformation into economic loss while preserving the efficacy of control tools for future generations and seasons.",
+          "prepared_text": "[[prepared]]The realistic objective may not be complete disappearance of the pest from the agricultural environment, but prevention of its transformation into economic loss while preserving the efficacy of control tools for future generations and seasons."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When the system is managed scientifically and rigorously, Tuta absoluta remains a difficult pest, but one that can be controlled.",
+          "prepared_text": "[[prepared]]When the system is managed scientifically and rigorously, Tuta absoluta remains a difficult pest, but one that can be controlled."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When the programme is reduced to one insecticide, one mixture, or one fixed schedule, the pest rapidly regains the advantage.",
+          "prepared_text": "[[prepared]]When the programme is reduced to one insecticide, one mixture, or one fixed schedule, the pest rapidly regains the advantage."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The future of Tuta absoluta management in Egypt and worldwide therefore does not depend on discovering one magical material, but on building a system more intelligent than the pest itself.",
+          "prepared_text": "[[prepared]]The future of Tuta absoluta management in Egypt and worldwide therefore does not depend on discovering one magical material, but on building a system more intelligent than the pest itself."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "**Tuta absoluta is not an impossible pest to control; it is a pest that does not tolerate negligence, does not forgive delay, and cannot be defeated by one method alone.**",
+          "prepared_text": "[[prepared]]**Tuta absoluta is not an impossible pest to control; it is a pest that does not tolerate negligence, does not forgive delay, and cannot be defeated by one method alone.**"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It can, however, be successfully managed when the following are integrated:",
+          "prepared_text": "[[prepared]]It can, however, be successfully managed when the following are integrated:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Knowledge, monitoring, timing, biodiversity, accurate implementation, and cooperation among all stakeholders."
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 26,
+        "part_title": "Section Twenty-Six: Extended General Conclusion",
+        "part_subtitle": ""
+      }
+    }
+  ]
+}
