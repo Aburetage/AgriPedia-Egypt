@@ -140,7 +140,9 @@
         },
         { "text": "Life Cycle", "target": "tuta", "disabled": false },
         { "text": "Host Plants", "target": "tuta", "disabled": false },
-        { "text": "Symptoms, Damage, and Economic Losses", "target": "tuta", "disabled": false }
+        { "text": "Symptoms, Damage, and Economic Losses", "target": "tuta", "disabled": false },
+        { "text": "Integrated Management of Tuta absoluta", "target": "tuta", "disabled": false },
+        { "text": "Integrated Thermal Model", "target": "tuta", "disabled": false }
       ]
     },
     {
