@@ -1,0 +1,3803 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 18,
+  "part_title": "Section Eighteen: Applied Programmes for Managing Tuta absoluta Under Egyptian Conditions",
+  "part_short_title": "Applied Programmes for Managing Tuta absoluta Under Egyptian Conditions",
+  "part_subtitle": "Applied IPM Programmes for Tuta absoluta Under Egyptian Conditions",
+  "content_path": "tuta/9/18.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tomato production in Egypt is characterized by a wide range of production regions, variable temperatures, overlapping planting dates, and the prolonged presence of solanaceous hosts during substantial parts of the year. It is therefore not possible to develop one national programme for managing Tuta absoluta and apply it identically across all governorates and production cycles.",
+          "prepared_text": "[[prepared]]Tomato production in Egypt is characterized by a wide range of production regions, variable temperatures, overlapping planting dates, and the prolonged presence of [[term:solanaceae]]solanaceous hosts[[/term]] during substantial parts of the year. It is therefore not possible to develop one national programme for managing Tuta absoluta and apply it identically across all governorates and production cycles."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme suitable for a long-cycle processing-tomato field in newly reclaimed land may not be suitable for a short-cycle fresh-market tomato field in the Nile Delta. Likewise, a programme that performs well during a relatively cool period may fail during a period when pest development accelerates.",
+          "prepared_text": "[[prepared]]A programme suitable for a long-cycle processing-tomato field in newly reclaimed land may not be suitable for a short-cycle fresh-market tomato field in the Nile Delta. Likewise, a programme that performs well during a relatively cool period may fail during a period when pest development accelerates."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The Egyptian programme is influenced by:",
+          "prepared_text": "[[prepared]]The Egyptian programme is influenced by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Geographical region.",
+            "Prevailing temperatures.",
+            "Transplanting date.",
+            "Crop duration.",
+            "Production purpose.",
+            "Cultivar.",
+            "Presence of old tomato fields.",
+            "Overlap of tomato with potato and eggplant.",
+            "Transplant source.",
+            "Irrigation system.",
+            "Canopy density.",
+            "Harvest timing.",
+            "Factory or market requirements.",
+            "Local insecticide-resistance status.",
+            "Presence of naturally occurring or released natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Geographical region.",
+            "[[prepared]]Prevailing temperatures.",
+            "[[prepared]]Transplanting date.",
+            "[[prepared]]Crop duration.",
+            "[[prepared]]Production purpose.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Presence of old tomato fields.",
+            "[[prepared]]Overlap of tomato with potato and eggplant.",
+            "[[prepared]]Transplant source.",
+            "[[prepared]]Irrigation system.",
+            "[[prepared]]Canopy density.",
+            "[[prepared]]Harvest timing.",
+            "[[prepared]]Factory or market requirements.",
+            "[[prepared]]Local insecticide-resistance status.",
+            "[[prepared]]Presence of naturally occurring or released [[term:biological-control]]natural enemies[[/term]]."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The technically correct question is therefore not:",
+          "prepared_text": "[[prepared]]The technically correct question is therefore not:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "What is the Tuta absoluta programme for Egypt?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "But:",
+          "prepared_text": "[[prepared]]But:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "What is the appropriate programme for this field, in this region, in this production cycle, under the current risk level?"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Basis for Regional Differentiation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The development rate of Tuta absoluta changes with temperature, and therefore the following also vary:",
+          "prepared_text": "[[prepared]]The development rate of Tuta absoluta changes with temperature, and therefore the following also vary:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg-incubation period.",
+            "Rate of progression through larval instars.",
+            "Generation duration.",
+            "Number of generations that may overlap with the crop cycle.",
+            "Time available for intervention.",
+            "Speed of fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg-incubation period.",
+            "[[prepared]]Rate of progression through [[term:larval-instar]]larval instars[[/term]].",
+            "[[prepared]]Generation duration.",
+            "[[prepared]]Number of generations that may overlap with the crop cycle.",
+            "[[prepared]]Time available for intervention.",
+            "[[prepared]]Speed of fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egyptian regions also differ in:",
+          "prepared_text": "[[prepared]]Egyptian regions also differ in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Severity of winter cold.",
+            "Timing of temperature increase.",
+            "Dryness.",
+            "Wind.",
+            "Proximity to the coast.",
+            "Length of the tomato season.",
+            "Overlap among production cycles."
+          ],
+          "prepared_items": [
+            "[[prepared]]Severity of winter cold.",
+            "[[prepared]]Timing of temperature increase.",
+            "[[prepared]]Dryness.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Proximity to the coast.",
+            "[[prepared]]Length of the tomato season.",
+            "[[prepared]]Overlap among production cycles."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egyptian studies have shown that pest and natural-enemy population dynamics are not constant among locations or periods. Thermal models have also shown that expected generation number and adult-emergence timing differ among Giza, Qena, and Marsa Matrouh.",
+          "prepared_text": "[[prepared]]Egyptian studies have shown that pest and natural-enemy population dynamics are not constant among locations or periods. Thermal models have also shown that expected generation number and adult-emergence timing differ among Giza, Qena, and Marsa Matrouh."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should therefore be used:",
+          "prepared_text": "[[prepared]]The following should therefore be used:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Local measurements.",
+            "Weather stations.",
+            "Traps.",
+            "Infestation history.",
+            "Records of old fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Local measurements.",
+            "[[prepared]]Weather stations.",
+            "[[prepared]]Traps.",
+            "[[prepared]]Infestation history.",
+            "[[prepared]]Records of old fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rather than relying on one national calendar.",
+          "prepared_text": "[[prepared]]Rather than relying on one national calendar."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Basic Units for Building the Egyptian Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme is built from five overlapping units.",
+          "prepared_text": "[[prepared]]The programme is built from five overlapping units."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Unit One: Production Type"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Processing tomatoes.",
+            "Fresh-market tomatoes.",
+            "Transplant production.",
+            "Long- or short-cycle production."
+          ],
+          "prepared_items": [
+            "[[prepared]]Processing tomatoes.",
+            "[[prepared]]Fresh-market tomatoes.",
+            "[[prepared]]Transplant production.",
+            "[[prepared]]Long- or short-cycle production."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Unit Two: Climatic Production Cycle"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cool or winter cycle.",
+            "Transitional spring cycle.",
+            "Hot or summer cycle.",
+            "Autumn or late cycle."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cool or winter cycle.",
+            "[[prepared]]Transitional spring cycle.",
+            "[[prepared]]Hot or summer cycle.",
+            "[[prepared]]Autumn or late cycle."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Unit Three: Region"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The Delta and Lower Nile Valley.",
+            "Newly reclaimed land in Nubaria and Wadi El Natroun.",
+            "The North Coast and Matrouh.",
+            "Middle Egypt.",
+            "Upper Egypt.",
+            "Sinai and similar desert regions."
+          ],
+          "prepared_items": [
+            "[[prepared]]The Delta and Lower Nile Valley.",
+            "[[prepared]]Newly reclaimed land in Nubaria and Wadi El Natroun.",
+            "[[prepared]]The North Coast and Matrouh.",
+            "[[prepared]]Middle Egypt.",
+            "[[prepared]]Upper Egypt.",
+            "[[prepared]]Sinai and similar desert regions."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Unit Four: External Pressure Level"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Low.",
+            "Moderate.",
+            "High.",
+            "Active immigration wave."
+          ],
+          "prepared_items": [
+            "[[prepared]]Low.",
+            "[[prepared]]Moderate.",
+            "[[prepared]]High.",
+            "[[prepared]]Active immigration wave."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Unit Five: Crop Stage"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nursery.",
+            "Post-transplanting.",
+            "Vegetative growth.",
+            "Flowering and fruit set.",
+            "Fruit filling.",
+            "Ripening.",
+            "Harvest.",
+            "Postharvest."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nursery.",
+            "[[prepared]]Post-transplanting.",
+            "[[prepared]]Vegetative growth.",
+            "[[prepared]]Flowering and fruit set.",
+            "[[prepared]]Fruit filling.",
+            "[[prepared]]Ripening.",
+            "[[prepared]]Harvest.",
+            "[[prepared]]Postharvest."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The final decision results from the intersection of these units, not from one factor alone.",
+          "prepared_text": "[[prepared]]The final decision results from the intersection of these units, not from one factor alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "What Is an Applied Programme?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An applied programme is a sequence of:",
+          "prepared_text": "[[prepared]]An applied programme is a sequence of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Preventive actions.",
+            "Monitoring procedures.",
+            "Decision points.",
+            "Intervention alternatives.",
+            "Reassessment dates.",
+            "Postharvest measures."
+          ],
+          "prepared_items": [
+            "[[prepared]]Preventive actions.",
+            "[[prepared]]Monitoring procedures.",
+            "[[prepared]]Decision points.",
+            "[[prepared]]Intervention alternatives.",
+            "[[prepared]]Reassessment dates.",
+            "[[prepared]]Postharvest measures."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An applied programme does not consist of a list of insecticides used sequentially without need.",
+          "prepared_text": "[[prepared]]An applied programme does not consist of a list of insecticides used sequentially without need."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its content changes weekly according to:",
+          "prepared_text": "[[prepared]]Its content changes weekly according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap trend.",
+            "Live eggs.",
+            "Larval instars.",
+            "Parasitism percentage.",
+            "Predator status.",
+            "Fruit infestation.",
+            "Expected weather.",
+            "Harvest timing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap trend.",
+            "[[prepared]]Live eggs.",
+            "[[prepared]]Larval instars.",
+            "[[prepared]]Parasitism percentage.",
+            "[[prepared]]Predator status.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Expected weather.",
+            "[[prepared]]Harvest timing."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Data Required Before Selecting a Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before the season begins, collect the following data:",
+          "prepared_text": "[[prepared]]Before the season begins, collect the following data:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Location and coordinates.",
+            "2. Field area.",
+            "3. Cultivar.",
+            "4. Production type.",
+            "5. Transplanting date.",
+            "6. Expected crop duration.",
+            "7. Transplant source.",
+            "8. Previous crop.",
+            "9. Nearest old tomato field.",
+            "10. Harvest timing of neighbouring fields.",
+            "11. Presence of potato or eggplant.",
+            "12. Site history of Tuta infestation.",
+            "13. Active ingredients previously used.",
+            "14. Control-failure cases.",
+            "15. Natural enemies recorded in the region.",
+            "16. Expected harvest date.",
+            "17. Target market.",
+            "18. List of accepted insecticides.",
+            "19. Irrigation network.",
+            "20. Farm capacity for weekly monitoring."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Location and coordinates.",
+            "[[prepared]]2. Field area.",
+            "[[prepared]]3. Cultivar.",
+            "[[prepared]]4. Production type.",
+            "[[prepared]]5. Transplanting date.",
+            "[[prepared]]6. Expected crop duration.",
+            "[[prepared]]7. Transplant source.",
+            "[[prepared]]8. Previous crop.",
+            "[[prepared]]9. Nearest old tomato field.",
+            "[[prepared]]10. Harvest timing of neighbouring fields.",
+            "[[prepared]]11. Presence of potato or eggplant.",
+            "[[prepared]]12. Site history of Tuta infestation.",
+            "[[prepared]]13. Active ingredients previously used.",
+            "[[prepared]]14. Control-failure cases.",
+            "[[prepared]]15. Natural enemies recorded in the region.",
+            "[[prepared]]16. Expected harvest date.",
+            "[[prepared]]17. Target market.",
+            "[[prepared]]18. List of accepted insecticides.",
+            "[[prepared]]19. Irrigation network.",
+            "[[prepared]]20. Farm capacity for weekly monitoring."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme is not complete until this information is known.",
+          "prepared_text": "[[prepared]]The programme is not complete until this information is known."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme One"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Open-Field Processing Tomatoes"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Characteristics of Processing Tomatoes Affecting the Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Processing tomatoes are often characterized by:",
+          "prepared_text": "[[prepared]]Processing tomatoes are often characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Determinate growth.",
+            "Moderate or high plant density.",
+            "Relatively concentrated yield.",
+            "One harvest or a limited number of pickings.",
+            "Importance of canopy cover for fruit protection.",
+            "Importance of uniform ripening.",
+            "Harvest linkage to factory schedules.",
+            "Limited flexibility in delaying delivery.",
+            "Transport of large quantities over a short period."
+          ],
+          "prepared_items": [
+            "[[prepared]]Determinate growth.",
+            "[[prepared]]Moderate or high plant density.",
+            "[[prepared]]Relatively concentrated yield.",
+            "[[prepared]]One harvest or a limited number of pickings.",
+            "[[prepared]]Importance of canopy cover for fruit protection.",
+            "[[prepared]]Importance of uniform ripening.",
+            "[[prepared]]Harvest linkage to factory schedules.",
+            "[[prepared]]Limited flexibility in delaying delivery.",
+            "[[prepared]]Transport of large quantities over a short period."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The Tuta programme in processing tomatoes should achieve four objectives:",
+          "prepared_text": "[[prepared]]The Tuta programme in processing tomatoes should achieve four objectives:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Maintain a functional canopy until harvest approaches.",
+            "2. Prevent fruit infestation.",
+            "3. Comply with factory lists and residue requirements.",
+            "4. Terminate the field immediately after delivery ends."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Maintain a functional canopy until harvest approaches.",
+            "[[prepared]]2. Prevent fruit infestation.",
+            "[[prepared]]3. Comply with factory lists and residue requirements.",
+            "[[prepared]]4. Terminate the field immediately after delivery ends."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preplant Stage in Processing Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be implemented:",
+          "prepared_text": "[[prepared]]The following should be implemented:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Review old fields.",
+            "Eliminate volunteer tomatoes.",
+            "Confirm transplant health.",
+            "Install traps before transplanting.",
+            "Divide the field into sectors.",
+            "Record cultivars or hybrids.",
+            "Prepare the IRAC-group record.",
+            "Define the inspection programme.",
+            "Establish the preliminary harvest date.",
+            "Coordinate with the factory regarding accepted materials."
+          ],
+          "prepared_items": [
+            "[[prepared]]Review old fields.",
+            "[[prepared]]Eliminate volunteer tomatoes.",
+            "[[prepared]]Confirm transplant health.",
+            "[[prepared]]Install traps before transplanting.",
+            "[[prepared]]Divide the field into sectors.",
+            "[[prepared]]Record cultivars or hybrids.",
+            "[[prepared]]Prepare the [[term:irac]]IRAC[[/term]]-group record.",
+            "[[prepared]]Define the inspection programme.",
+            "[[prepared]]Establish the preliminary harvest date.",
+            "[[prepared]]Coordinate with the factory regarding accepted materials."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In large projects, specify:",
+          "prepared_text": "[[prepared]]In large projects, specify:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Who reads the traps?",
+            "Who inspects the crop?",
+            "Who issues the intervention decision?",
+            "Who reviews residue compliance?",
+            "Who follows field termination?"
+          ],
+          "prepared_items": [
+            "[[prepared]]Who reads the traps?",
+            "[[prepared]]Who inspects the crop?",
+            "[[prepared]]Who issues the intervention decision?",
+            "[[prepared]]Who reviews residue compliance?",
+            "[[prepared]]Who follows field termination?"
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Beginning of the Processing-Tomato Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "During the first weeks, priorities are:",
+          "prepared_text": "[[prepared]]During the first weeks, priorities are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Detect infestation carried with transplants.",
+            "Inspect growing points.",
+            "Record eggs.",
+            "Prevent establishment of the first generation.",
+            "Protect naturally occurring predators.",
+            "Begin an egg-parasitoid programme where available and justified."
+          ],
+          "prepared_items": [
+            "[[prepared]]Detect infestation carried with transplants.",
+            "[[prepared]]Inspect growing points.",
+            "[[prepared]]Record eggs.",
+            "[[prepared]]Prevent establishment of the first generation.",
+            "[[prepared]]Protect naturally occurring predators.",
+            "[[prepared]]Begin an egg-parasitoid programme where available and justified."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is not preferable to begin a routine sequence of insecticide applications immediately after transplanting because this may:",
+          "prepared_text": "[[prepared]]It is not preferable to begin a routine sequence of insecticide applications immediately after transplanting because this may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Kill early natural enemies.",
+            "Increase resistance pressure.",
+            "Conceal weaknesses in monitoring.",
+            "Leave fewer effective alternatives near fruiting."
+          ],
+          "prepared_items": [
+            "[[prepared]]Kill early natural enemies.",
+            "[[prepared]]Increase resistance pressure.",
+            "[[prepared]]Conceal weaknesses in monitoring.",
+            "[[prepared]]Leave fewer effective alternatives near fruiting."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Vegetative Growth in Processing Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A balance should be maintained among:",
+          "prepared_text": "[[prepared]]A balance should be maintained among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant vigour.",
+            "Ease of spray coverage.",
+            "Canopy ventilation.",
+            "Future fruit protection."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant vigour.",
+            "[[prepared]]Ease of spray coverage.",
+            "[[prepared]]Canopy ventilation.",
+            "[[prepared]]Future fruit protection."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should be reviewed as canopy density increases because the spray-water volume or application method suitable for small plants will not remain adequate after row closure.",
+          "prepared_text": "[[prepared]]The programme should be reviewed as canopy density increases because the spray-water volume or application method suitable for small plants will not remain adequate after row closure."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Decisions include:",
+          "prepared_text": "[[prepared]]Decisions include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inspect deeper within the canopy.",
+            "Increase the number of sampling points.",
+            "Inspect leaves near the centre of the plant.",
+            "Recalibrate the sprayer.",
+            "Avoid excessive nitrogen.",
+            "Do not remove healthy leaves merely to improve spraying."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inspect deeper within the canopy.",
+            "[[prepared]]Increase the number of sampling points.",
+            "[[prepared]]Inspect leaves near the centre of the plant.",
+            "[[prepared]]Recalibrate the sprayer.",
+            "[[prepared]]Avoid excessive nitrogen.",
+            "[[prepared]]Do not remove healthy leaves merely to improve spraying."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fruit Set and Filling in Processing Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Priority is given to:",
+          "prepared_text": "[[prepared]]Priority is given to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaves touching clusters.",
+            "The calyx area.",
+            "Small fruits.",
+            "Mines near clusters.",
+            "Young larvae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves touching clusters.",
+            "[[prepared]]The calyx area.",
+            "[[prepared]]Small fruits.",
+            "[[prepared]][[term:mines]]Mines[[/term]] near clusters.",
+            "[[prepared]]Young larvae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Decision sensitivity increases because an infested fruit may be fully rejected or may increase rots and unacceptable material in industrial raw product.",
+          "prepared_text": "[[prepared]]Decision sensitivity increases because an infested fruit may be fully rejected or may increase rots and unacceptable material in industrial raw product."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Measure:",
+          "prepared_text": "[[prepared]]Measure:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fruit infestation by number.",
+            "Weight loss.",
+            "Presence of secondary rots.",
+            "Distribution of infestation among sectors."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruit infestation by number.",
+            "[[prepared]]Weight loss.",
+            "[[prepared]]Presence of secondary rots.",
+            "[[prepared]]Distribution of infestation among sectors."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preharvest Stage in Processing Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Review:",
+          "prepared_text": "[[prepared]]Review:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "All active ingredients used.",
+            "Preharvest intervals.",
+            "Factory list.",
+            "Harvest start date.",
+            "Ripening percentage.",
+            "Fruit infestation.",
+            "Justification for any new intervention."
+          ],
+          "prepared_items": [
+            "[[prepared]]All active ingredients used.",
+            "[[prepared]]Preharvest intervals.",
+            "[[prepared]]Factory list.",
+            "[[prepared]]Harvest start date.",
+            "[[prepared]]Ripening percentage.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Justification for any new intervention."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In some cases, the best decision may be to:",
+          "prepared_text": "[[prepared]]In some cases, the best decision may be to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collect infested fruits.",
+            "Protect field edges.",
+            "Slightly advance harvest where maturity and quality permit.",
+            "Avoid a slow-acting material whose benefit will not appear before harvest."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collect infested fruits.",
+            "[[prepared]]Protect field edges.",
+            "[[prepared]]Slightly advance harvest where maturity and quality permit.",
+            "[[prepared]]Avoid a slow-acting material whose benefit will not appear before harvest."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Harvest should not be delayed without justification when delay would increase fruit infestation or turn the field into a moth source.",
+          "prepared_text": "[[prepared]]Harvest should not be delayed without justification when delay would increase fruit infestation or turn the field into a moth source."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Postharvest Processing-Tomato Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field termination should be completed within a short period after final delivery through:",
+          "prepared_text": "[[prepared]]Field termination should be completed within a short period after final delivery through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collecting as many remaining fruits as possible.",
+            "Shredding plants.",
+            "Treating residues.",
+            "Cleaning harvesting equipment.",
+            "Removing regrowth.",
+            "Continuing trap monitoring temporarily.",
+            "Notifying neighbouring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collecting as many remaining fruits as possible.",
+            "[[prepared]]Shredding plants.",
+            "[[prepared]]Treating residues.",
+            "[[prepared]]Cleaning harvesting equipment.",
+            "[[prepared]]Removing regrowth.",
+            "[[prepared]]Continuing trap monitoring temporarily.",
+            "[[prepared]]Notifying neighbouring fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is particularly important when a neighbouring field has recently been transplanted.",
+          "prepared_text": "[[prepared]]This is particularly important when a neighbouring field has recently been transplanted."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Success in Processing Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Maintenance of canopy cover.",
+            "Low fruit infestation.",
+            "High accepted weight at the factory.",
+            "Low rejection percentage.",
+            "Residue compliance.",
+            "Fewer unnecessary sprays.",
+            "No repetition of IRAC groups.",
+            "Rapid field termination after harvest.",
+            "Reduced trap catch after residue removal."
+          ],
+          "prepared_items": [
+            "[[prepared]]Maintenance of canopy cover.",
+            "[[prepared]]Low fruit infestation.",
+            "[[prepared]]High accepted weight at the factory.",
+            "[[prepared]]Low rejection percentage.",
+            "[[prepared]]Residue compliance.",
+            "[[prepared]]Fewer unnecessary sprays.",
+            "[[prepared]]No repetition of IRAC groups.",
+            "[[prepared]]Rapid field termination after harvest.",
+            "[[prepared]]Reduced trap catch after residue removal."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Two"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Open-Field Fresh-Market Tomatoes"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Characteristics of Fresh-Market Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are often characterized by:",
+          "prepared_text": "[[prepared]]These are often characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Repeated harvests.",
+            "Higher visual-quality requirements.",
+            "High sensitivity to fruit holes.",
+            "Different maturity stages within the field.",
+            "Repeated entry of workers and crates.",
+            "Longer field duration in some systems.",
+            "Need to review the preharvest interval before every picking."
+          ],
+          "prepared_items": [
+            "[[prepared]]Repeated harvests.",
+            "[[prepared]]Higher visual-quality requirements.",
+            "[[prepared]]High sensitivity to fruit holes.",
+            "[[prepared]]Different maturity stages within the field.",
+            "[[prepared]]Repeated entry of workers and crates.",
+            "[[prepared]]Longer field duration in some systems.",
+            "[[prepared]]Need to review the preharvest interval before every picking."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruit indicators are therefore more important than leaf-mine counts alone.",
+          "prepared_text": "[[prepared]]Fruit indicators are therefore more important than leaf-mine counts alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Monitoring Programme in Fresh-Market Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should include:",
+          "prepared_text": "[[prepared]]The programme should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaves and growing points.",
+            "Flowers and clusters.",
+            "Fruits at different growth stages.",
+            "Fallen fruits.",
+            "Crates and grading areas.",
+            "Edges near infestation sources."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves and growing points.",
+            "[[prepared]]Flowers and clusters.",
+            "[[prepared]]Fruits at different growth stages.",
+            "[[prepared]]Fallen fruits.",
+            "[[prepared]]Crates and grading areas.",
+            "[[prepared]]Edges near infestation sources."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruit-inspection frequency should increase when harvesting begins.",
+          "prepared_text": "[[prepared]]Fruit-inspection frequency should increase when harvesting begins."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A leaf sample alone should not be used to judge consignment safety.",
+          "prepared_text": "[[prepared]]A leaf sample alone should not be used to judge consignment safety."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Intervention During Repeated Harvests"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before selecting any product, review:",
+          "prepared_text": "[[prepared]]Before selecting any product, review:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Date of the next picking.",
+            "Preharvest interval.",
+            "Materials used during previous pickings.",
+            "Maximum number of applications.",
+            "Target market.",
+            "Residue-test results, where available.",
+            "Natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Date of the next picking.",
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Materials used during previous pickings.",
+            "[[prepared]]Maximum number of applications.",
+            "[[prepared]]Target market.",
+            "[[prepared]]Residue-test results, where available.",
+            "[[prepared]]Natural enemies."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Preference should be given to:",
+          "prepared_text": "[[prepared]]Preference should be given to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collecting infested fruits.",
+            "Treating hotspots.",
+            "Using methods compatible with the harvest programme.",
+            "Preventing rejected fruits from remaining in the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collecting infested fruits.",
+            "[[prepared]]Treating hotspots.",
+            "[[prepared]]Using methods compatible with the harvest programme.",
+            "[[prepared]]Preventing rejected fruits from remaining in the field."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Labour and Crates"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Worker movement should be organized so that:",
+          "prepared_text": "[[prepared]]Worker movement should be organized so that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Harvest teams begin in the least-infested sectors.",
+            "Rejected fruits are separated.",
+            "Infested fruits are not discarded between rows.",
+            "Crates are cleaned.",
+            "Leaves and residues are not moved among fields.",
+            "High-infestation areas are recorded."
+          ],
+          "prepared_items": [
+            "[[prepared]]Harvest teams begin in the least-infested sectors.",
+            "[[prepared]]Rejected fruits are separated.",
+            "[[prepared]]Infested fruits are not discarded between rows.",
+            "[[prepared]]Crates are cleaned.",
+            "[[prepared]]Leaves and residues are not moved among fields.",
+            "[[prepared]]High-infestation areas are recorded."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Workers can help detect hotspots when trained to recognize:",
+          "prepared_text": "[[prepared]]Workers can help detect hotspots when trained to recognize:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Entry holes.",
+            "Frass.",
+            "Larvae.",
+            "Rotted fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Entry holes.",
+            "[[prepared]][[term:frass]]Frass[[/term]].",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Rotted fruits."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Termination of a Fresh-Market Tomato Field"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A common error is extending the field to obtain a few low-return pickings while pest pressure increases.",
+          "prepared_text": "[[prepared]]A common error is extending the field to obtain a few low-return pickings while pest pressure increases."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The economic end point should be determined according to:",
+          "prepared_text": "[[prepared]]The economic end point should be determined according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Value of remaining fruits.",
+            "Harvest cost.",
+            "Control cost.",
+            "Fruit infestation level.",
+            "Risk posed to neighbouring fields.",
+            "Plant vigour.",
+            "Price expectations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Value of remaining fruits.",
+            "[[prepared]]Harvest cost.",
+            "[[prepared]]Control cost.",
+            "[[prepared]]Fruit infestation level.",
+            "[[prepared]]Risk posed to neighbouring fields.",
+            "[[prepared]]Plant vigour.",
+            "[[prepared]]Price expectations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When economic viability ends, the field should be terminated in an organized manner.",
+          "prepared_text": "[[prepared]]When economic viability ends, the field should be terminated in an organized manner."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Three"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Winter or Relatively Cool Production Cycle"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Risk Characteristics Under Cool Conditions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Relatively cool conditions may cause:",
+          "prepared_text": "[[prepared]]Relatively cool conditions may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Longer egg duration.",
+            "Slower larval development.",
+            "Longer generation duration.",
+            "Reduced flight activity during some periods.",
+            "Slower expression of some biological-control effects."
+          ],
+          "prepared_items": [
+            "[[prepared]]Longer egg duration.",
+            "[[prepared]]Slower larval development.",
+            "[[prepared]]Longer generation duration.",
+            "[[prepared]]Reduced flight activity during some periods.",
+            "[[prepared]]Slower expression of some biological-control effects."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cool weather does not mean absence of the pest. The following may persist:",
+          "prepared_text": "[[prepared]]Cool weather does not mean absence of the pest. The following may persist:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Larvae inside mines.",
+            "Pupae.",
+            "Adult insects during warm periods."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Larvae inside mines.",
+            "[[prepared]][[term:pupation]]Pupae[[/term]].",
+            "[[prepared]]Adult insects during warm periods."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The long duration of winter tomato crops may also allow the pest to complete several generations despite slower development.",
+          "prepared_text": "[[prepared]]The long duration of winter tomato crops may also allow the pest to complete several generations despite slower development."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Risks in the Winter Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "False reassurance from low trap catches.",
+            "Leaving mines unexamined because they develop slowly.",
+            "Prolonged larval persistence inside leaves.",
+            "Delayed ripening and extended crop duration.",
+            "Overlap with a following spring crop.",
+            "Repeated insecticide use because visible damage persists."
+          ],
+          "prepared_items": [
+            "[[prepared]]False reassurance from low trap catches.",
+            "[[prepared]]Leaving mines unexamined because they develop slowly.",
+            "[[prepared]]Prolonged larval persistence inside leaves.",
+            "[[prepared]]Delayed ripening and extended crop duration.",
+            "[[prepared]]Overlap with a following spring crop.",
+            "[[prepared]]Repeated insecticide use because visible damage persists."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be distinguished:",
+          "prepared_text": "[[prepared]]The following should be distinguished:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Persistence of old mines.",
+            "Continued larval activity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Persistence of old mines.",
+            "[[prepared]]Continued larval activity."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities in the Winter Production Cycle"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Install traps early.",
+            "2. Inspect transplants carefully.",
+            "3. Monitor eggs even when development is slow.",
+            "4. Protect naturally occurring natural enemies.",
+            "5. Use the relatively long period to support parasitoid success.",
+            "6. Do not repeat spraying merely because mine symptoms remain.",
+            "7. Adjust assessment timing to temperature.",
+            "8. Prepare for a sudden increase when temperatures rise.",
+            "9. Review cultivar-cycle duration.",
+            "10. Do not leave an old field when newer production cycles begin."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Install traps early.",
+            "[[prepared]]2. Inspect transplants carefully.",
+            "[[prepared]]3. Monitor eggs even when development is slow.",
+            "[[prepared]]4. Protect naturally occurring natural enemies.",
+            "[[prepared]]5. Use the relatively long period to support parasitoid success.",
+            "[[prepared]]6. Do not repeat spraying merely because mine symptoms remain.",
+            "[[prepared]]7. Adjust assessment timing to temperature.",
+            "[[prepared]]8. Prepare for a sudden increase when temperatures rise.",
+            "[[prepared]]9. Review cultivar-cycle duration.",
+            "[[prepared]]10. Do not leave an old field when newer production cycles begin."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Microbial Agents Under Relatively Cool Conditions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The efficacy of:",
+          "prepared_text": "[[prepared]]The efficacy of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Bt.",
+            "Entomopathogenic fungi.",
+            "Nematodes.",
+            "Viruses."
+          ],
+          "prepared_items": [
+            "[[prepared]]Bt.",
+            "[[prepared]]Entomopathogenic fungi.",
+            "[[prepared]]Nematodes.",
+            "[[prepared]]Viruses."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Is affected by temperature, humidity, strain, and application method.",
+          "prepared_text": "[[prepared]]Is affected by temperature, humidity, strain, and application method."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The time required for mortality may be longer under cool conditions, so failure should not be declared prematurely.",
+          "prepared_text": "[[prepared]]The time required for mortality may be longer under cool conditions, so failure should not be declared prematurely."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Night humidity may be more favourable for some fungi, provided that temperature is suitable for strain germination.",
+          "prepared_text": "[[prepared]]Night humidity may be more favourable for some fungi, provided that temperature is suitable for strain germination."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Assessment timing should follow the product label and local test results.",
+          "prepared_text": "[[prepared]]Assessment timing should follow the product label and local test results."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "End of the Winter Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rising temperature near the end of the cycle represents a high-risk period because:",
+          "prepared_text": "[[prepared]]Rising temperature near the end of the cycle represents a high-risk period because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Development accelerates.",
+            "Moth activity may increase.",
+            "The winter field becomes old.",
+            "Recently transplanted spring fields may be nearby."
+          ],
+          "prepared_items": [
+            "[[prepared]]Development accelerates.",
+            "[[prepared]]Moth activity may increase.",
+            "[[prepared]]The winter field becomes old.",
+            "[[prepared]]Recently transplanted spring fields may be nearby."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should:",
+          "prepared_text": "[[prepared]]The programme should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Continue monitoring until final harvest.",
+            "Terminate the field rapidly.",
+            "Notify recent plantings.",
+            "Intensify edge inspection in recipient fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Continue monitoring until final harvest.",
+            "[[prepared]]Terminate the field rapidly.",
+            "[[prepared]]Notify recent plantings.",
+            "[[prepared]]Intensify edge inspection in recipient fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Four"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Transitional Spring Production Cycle"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Characteristics of the Spring Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The spring period is often characterized by:",
+          "prepared_text": "[[prepared]]The spring period is often characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Gradual temperature increase.",
+            "Faster egg and larval development.",
+            "Increased adult activity.",
+            "Overlap of old winter fields with new plantings.",
+            "Increasing suitability for natural enemies and some microbial agents.",
+            "Rapid changes in plant size."
+          ],
+          "prepared_items": [
+            "[[prepared]]Gradual temperature increase.",
+            "[[prepared]]Faster egg and larval development.",
+            "[[prepared]]Increased adult activity.",
+            "[[prepared]]Overlap of old winter fields with new plantings.",
+            "[[prepared]]Increasing suitability for natural enemies and some microbial agents.",
+            "[[prepared]]Rapid changes in plant size."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is one of the periods requiring the closest monitoring because pest-development speed may change within only a few weeks.",
+          "prepared_text": "[[prepared]]It is one of the periods requiring the closest monitoring because pest-development speed may change within only a few weeks."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Risks in the Spring Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Immigration from terminating winter fields.",
+            "Increased oviposition along edges.",
+            "Shorter egg duration.",
+            "Delayed adjustment of spray-water volume.",
+            "Rapid vegetative growth concealing hotspots.",
+            "Increased regional chemical pressure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Immigration from terminating winter fields.",
+            "[[prepared]]Increased oviposition along edges.",
+            "[[prepared]]Shorter egg duration.",
+            "[[prepared]]Delayed adjustment of spray-water volume.",
+            "[[prepared]]Rapid vegetative growth concealing hotspots.",
+            "[[prepared]]Increased regional chemical pressure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should not rely on the previous week's reading after a clear temperature increase or removal of a neighbouring field.",
+          "prepared_text": "[[prepared]]The programme should not rely on the previous week's reading after a clear temperature increase or removal of a neighbouring field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities of the Spring Programme"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Shorten the inspection interval as temperatures rise.",
+            "2. Use traps together with edge monitoring.",
+            "3. Link trap data to old-field removal dates.",
+            "4. Target eggs and hatching.",
+            "5. Establish parasitoids and predators early.",
+            "6. Use Bt and early-stage agents at the correct time.",
+            "7. Recalibrate the sprayer as plants grow rapidly.",
+            "8. Avoid broad-spectrum insecticides that kill beneficial organisms.",
+            "9. Prepare the resistance-management plan before fruiting.",
+            "10. Monitor the beginning of cluster and fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Shorten the inspection interval as temperatures rise.",
+            "[[prepared]]2. Use traps together with edge monitoring.",
+            "[[prepared]]3. Link trap data to old-field removal dates.",
+            "[[prepared]]4. Target eggs and hatching.",
+            "[[prepared]]5. Establish parasitoids and predators early.",
+            "[[prepared]]6. Use Bt and early-stage agents at the correct time.",
+            "[[prepared]]7. Recalibrate the sprayer as plants grow rapidly.",
+            "[[prepared]]8. Avoid broad-spectrum insecticides that kill beneficial organisms.",
+            "[[prepared]]9. Prepare the resistance-management plan before fruiting.",
+            "[[prepared]]10. Monitor the beginning of cluster and fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Adjacent Winter Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When a winter field is close to removal:",
+          "prepared_text": "[[prepared]]When a winter field is close to removal:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Determine the date of final harvest.",
+            "Monitor traps between the two fields.",
+            "Increase inspection of the facing edge.",
+            "Search for fresh eggs.",
+            "Coordinate residue shredding.",
+            "Do not apply preventive sprays without evidence of oviposition."
+          ],
+          "prepared_items": [
+            "[[prepared]]Determine the date of final harvest.",
+            "[[prepared]]Monitor traps between the two fields.",
+            "[[prepared]]Increase inspection of the facing edge.",
+            "[[prepared]]Search for fresh eggs.",
+            "[[prepared]]Coordinate residue shredding.",
+            "[[prepared]]Do not apply preventive sprays without evidence of oviposition."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The objective is to prevent immigrating moths from establishing a new generation.",
+          "prepared_text": "[[prepared]]The objective is to prevent immigrating moths from establishing a new generation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Five"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Summer Production Cycle or Hot Conditions"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Risk Characteristics Under High Temperatures"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Temperatures within the biologically suitable range for the pest may cause:",
+          "prepared_text": "[[prepared]]Temperatures within the biologically suitable range for the pest may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Shorter egg duration.",
+            "Faster larval development.",
+            "Shorter generation duration.",
+            "Less time available for decision-making.",
+            "Rapid progression of infestation into growing points and fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Shorter egg duration.",
+            "[[prepared]]Faster larval development.",
+            "[[prepared]]Shorter generation duration.",
+            "[[prepared]]Less time available for decision-making.",
+            "[[prepared]]Rapid progression of infestation into growing points and fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Extremely high temperatures may reduce survival or activity of some stages, but they should not be treated as a guaranteed control factor because:",
+          "prepared_text": "[[prepared]]Extremely high temperatures may reduce survival or activity of some stages, but they should not be treated as a guaranteed control factor because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plants create a protective microclimate.",
+            "Larvae are concealed within tissues.",
+            "Actual plant-surface temperature differs from weather-station temperature.",
+            "Activity may continue at night."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plants create a protective microclimate.",
+            "[[prepared]]Larvae are concealed within tissues.",
+            "[[prepared]]Actual plant-surface temperature differs from weather-station temperature.",
+            "[[prepared]]Activity may continue at night."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Risks in the Summer Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs becoming larvae before the next inspection.",
+            "Faster degradation of some residues.",
+            "Reduced survival of some natural enemies.",
+            "Desiccation of fungi and nematodes.",
+            "Plant stress.",
+            "Poor canopy coverage.",
+            "Increased wind and dust.",
+            "Difficulty releasing parasitoids at midday.",
+            "Higher phytotoxicity risk from some mixtures."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs becoming larvae before the next inspection.",
+            "[[prepared]]Faster degradation of some residues.",
+            "[[prepared]]Reduced survival of some natural enemies.",
+            "[[prepared]]Desiccation of fungi and nematodes.",
+            "[[prepared]]Plant stress.",
+            "[[prepared]]Poor canopy coverage.",
+            "[[prepared]]Increased wind and dust.",
+            "[[prepared]]Difficulty releasing parasitoids at midday.",
+            "[[prepared]]Higher phytotoxicity risk from some mixtures."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities of the Summer Programme"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Increase inspection frequency.",
+            "2. Review temperature data daily or regularly.",
+            "3. Focus on eggs close to hatching.",
+            "4. Target L1 immediately after appearance.",
+            "5. Conduct releases or biological applications at suitable times.",
+            "6. Protect microbial products from radiation and desiccation.",
+            "7. Maintain the quality of natural-enemy transport and handling.",
+            "8. Prevent plant stress.",
+            "9. Avoid spraying under unsuitable heat and wind.",
+            "10. Set a shorter reassessment interval."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Increase inspection frequency.",
+            "[[prepared]]2. Review temperature data daily or regularly.",
+            "[[prepared]]3. Focus on eggs close to hatching.",
+            "[[prepared]]4. Target L1 immediately after appearance.",
+            "[[prepared]]5. Conduct releases or biological applications at suitable times.",
+            "[[prepared]]6. Protect microbial products from radiation and desiccation.",
+            "[[prepared]]7. Maintain the quality of natural-enemy transport and handling.",
+            "[[prepared]]8. Prevent plant stress.",
+            "[[prepared]]9. Avoid spraying under unsuitable heat and wind.",
+            "[[prepared]]10. Set a shorter reassessment interval."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fungi and Nematodes Under Heat and Dryness"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Entomopathogenic fungi may lose efficacy under:",
+          "prepared_text": "[[prepared]]Entomopathogenic fungi may lose efficacy under:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Low humidity.",
+            "Direct radiation.",
+            "High leaf-surface temperature.",
+            "Midday application."
+          ],
+          "prepared_items": [
+            "[[prepared]]Low humidity.",
+            "[[prepared]]Direct radiation.",
+            "[[prepared]]High leaf-surface temperature.",
+            "[[prepared]]Midday application."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nematodes require:",
+          "prepared_text": "[[prepared]]Nematodes require:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Adequate moisture.",
+            "Protection from desiccation.",
+            "Suitable water.",
+            "Application when radiation exposure is reduced."
+          ],
+          "prepared_items": [
+            "[[prepared]]Adequate moisture.",
+            "[[prepared]]Protection from desiccation.",
+            "[[prepared]]Suitable water.",
+            "[[prepared]]Application when radiation exposure is reduced."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A microbial product should not be used merely because it is “biological”; field conditions must match its requirements.",
+          "prepared_text": "[[prepared]]A microbial product should not be used merely because it is “biological”; field conditions must match its requirements."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Insecticide Management During the Hot Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Consider:",
+          "prepared_text": "[[prepared]]Consider:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Rapid drying of spray droplets.",
+            "Coverage quality.",
+            "Avoiding dose exceedance.",
+            "Temperature effects on the crop.",
+            "Short generation duration.",
+            "Avoiding repetition of the same group across closely spaced generations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Rapid drying of spray droplets.",
+            "[[prepared]]Coverage quality.",
+            "[[prepared]]Avoiding dose exceedance.",
+            "[[prepared]]Temperature effects on the crop.",
+            "[[prepared]]Short generation duration.",
+            "[[prepared]]Avoiding repetition of the same group across closely spaced generations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rapid generations may require shorter resistance-management windows, but this does not mean more insecticide applications. It means greater reliance on:",
+          "prepared_text": "[[prepared]]Rapid generations may require shorter resistance-management windows, but this does not mean more insecticide applications. It means greater reliance on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Prevention.",
+            "Biological control.",
+            "Monitoring.",
+            "Hotspot treatment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Prevention.",
+            "[[prepared]]Biological control.",
+            "[[prepared]]Monitoring.",
+            "[[prepared]]Hotspot treatment."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Six"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Autumn or Late Production Cycle"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Characteristics of the Autumn Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This cycle may begin under high pest pressure resulting from:",
+          "prepared_text": "[[prepared]]This cycle may begin under high pest pressure resulting from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Accumulation of summer generations.",
+            "Presence of old fields.",
+            "Moth movement from terminating crops.",
+            "Heavy regional insecticide-use history.",
+            "Presence of less-susceptible populations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Accumulation of summer generations.",
+            "[[prepared]]Presence of old fields.",
+            "[[prepared]]Moth movement from terminating crops.",
+            "[[prepared]]Heavy regional insecticide-use history.",
+            "[[prepared]]Presence of less-susceptible populations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Development then gradually slows as temperatures decline.",
+          "prepared_text": "[[prepared]]Development then gradually slows as temperatures decline."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Risks at the Beginning of the Autumn Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Immediate infestation after transplanting.",
+            "High egg density.",
+            "Strong immigration from summer crops.",
+            "Repeated regional insecticide use.",
+            "Resistance.",
+            "Delayed natural-enemy establishment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Immediate infestation after transplanting.",
+            "[[prepared]]High egg density.",
+            "[[prepared]]Strong immigration from summer crops.",
+            "[[prepared]]Repeated regional insecticide use.",
+            "[[prepared]]Resistance.",
+            "[[prepared]]Delayed natural-enemy establishment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should therefore begin before transplanting, not after the first mine appears.",
+          "prepared_text": "[[prepared]]The programme should therefore begin before transplanting, not after the first mine appears."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities of the Autumn Programme"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Inspect transplants carefully.",
+            "2. Install traps before transplanting.",
+            "3. Survey adjacent summer fields.",
+            "4. Prepare an early biological programme.",
+            "5. Target eggs and hatching.",
+            "6. Review regional insecticide-resistance status.",
+            "7. Avoid repeating groups used in the nursery.",
+            "8. Do not rely on later temperature decline.",
+            "9. Protect fruits during the extended ripening period.",
+            "10. Terminate the field before infestation moves into the following cycle."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Inspect transplants carefully.",
+            "[[prepared]]2. Install traps before transplanting.",
+            "[[prepared]]3. Survey adjacent summer fields.",
+            "[[prepared]]4. Prepare an early biological programme.",
+            "[[prepared]]5. Target eggs and hatching.",
+            "[[prepared]]6. Review regional insecticide-resistance status.",
+            "[[prepared]]7. Avoid repeating groups used in the nursery.",
+            "[[prepared]]8. Do not rely on later temperature decline.",
+            "[[prepared]]9. Protect fruits during the extended ripening period.",
+            "[[prepared]]10. Terminate the field before infestation moves into the following cycle."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Seven"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Delta and Lower Nile Valley"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Characteristics"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Delta regions are often characterized by:",
+          "prepared_text": "[[prepared]]Delta regions are often characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High cropping intensity.",
+            "Small or fragmented holdings.",
+            "Overlapping crops and production cycles.",
+            "Fields close to villages and roads.",
+            "Multiple transplant sources.",
+            "Higher relative humidity than many desert regions.",
+            "Movement of equipment and workers among fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]High cropping intensity.",
+            "[[prepared]]Small or fragmented holdings.",
+            "[[prepared]]Overlapping crops and production cycles.",
+            "[[prepared]]Fields close to villages and roads.",
+            "[[prepared]]Multiple transplant sources.",
+            "[[prepared]]Higher relative humidity than many desert regions.",
+            "[[prepared]]Movement of equipment and workers among fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Area-wide management is particularly important because of field proximity.",
+          "prepared_text": "[[prepared]]Area-wide management is particularly important because of field proximity."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Principal Risks in the Delta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Small neglected fields.",
+            "Continued tomato production in gardens or non-commercial areas.",
+            "Solanaceous hosts along drainage canals.",
+            "Small poorly sealed nurseries.",
+            "Pesticide drift among fields.",
+            "Different programmes among neighbouring growers.",
+            "Weak coordination during crop removal."
+          ],
+          "prepared_items": [
+            "[[prepared]]Small neglected fields.",
+            "[[prepared]]Continued tomato production in gardens or non-commercial areas.",
+            "[[prepared]]Solanaceous hosts along drainage canals.",
+            "[[prepared]]Small poorly sealed nurseries.",
+            "[[prepared]]Pesticide drift among fields.",
+            "[[prepared]]Different programmes among neighbouring growers.",
+            "[[prepared]]Weak coordination during crop removal."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A well-managed field may be surrounded by several external sources.",
+          "prepared_text": "[[prepared]]A well-managed field may be surrounded by several external sources."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities of the Delta Programme"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Register surrounding fields.",
+            "2. Increase edge-inspection points.",
+            "3. Monitor drainage canals and roadsides.",
+            "4. Document transplant source.",
+            "5. Coordinate among growers.",
+            "6. Prevent residue dumping near fields.",
+            "7. Use standardized traps within the production block.",
+            "8. Protect naturally occurring natural enemies.",
+            "9. Prevent repeated random spraying.",
+            "10. Terminate old fields collectively where possible."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Register surrounding fields.",
+            "[[prepared]]2. Increase edge-inspection points.",
+            "[[prepared]]3. Monitor drainage canals and roadsides.",
+            "[[prepared]]4. Document transplant source.",
+            "[[prepared]]5. Coordinate among growers.",
+            "[[prepared]]6. Prevent residue dumping near fields.",
+            "[[prepared]]7. Use standardized traps within the production block.",
+            "[[prepared]]8. Protect naturally occurring natural enemies.",
+            "[[prepared]]9. Prevent repeated random spraying.",
+            "[[prepared]]10. Terminate old fields collectively where possible."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Biological Belts in the Delta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Available space may be limited, so the following may be used:",
+          "prepared_text": "[[prepared]]Available space may be limited, so the following may be used:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Narrow field margins.",
+            "Vegetation islands.",
+            "Strips in service areas.",
+            "Non-host flowering plants along drainage canals after risk assessment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Narrow field margins.",
+            "[[prepared]]Vegetation islands.",
+            "[[prepared]]Strips in service areas.",
+            "[[prepared]]Non-host flowering plants along drainage canals after risk assessment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Avoid:",
+          "prepared_text": "[[prepared]]Avoid:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increasing humidity around the crop.",
+            "Obstructing worker movement.",
+            "Supporting whiteflies or aphids.",
+            "Repeated spray drift onto the belt."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increasing humidity around the crop.",
+            "[[prepared]]Obstructing worker movement.",
+            "[[prepared]]Supporting whiteflies or aphids.",
+            "[[prepared]]Repeated spray drift onto the belt."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Eight"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nubaria, Wadi El Natroun, and Newly Reclaimed Land"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Characteristics"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Many newly reclaimed areas are characterized by:",
+          "prepared_text": "[[prepared]]Many newly reclaimed areas are characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Large field areas.",
+            "Drip irrigation.",
+            "Relative dryness.",
+            "Wind and dust.",
+            "Long or wide fields.",
+            "Contract or processing production.",
+            "Movement of harvesting equipment among large areas.",
+            "Centralized nurseries."
+          ],
+          "prepared_items": [
+            "[[prepared]]Large field areas.",
+            "[[prepared]]Drip irrigation.",
+            "[[prepared]]Relative dryness.",
+            "[[prepared]]Wind and dust.",
+            "[[prepared]]Long or wide fields.",
+            "[[prepared]]Contract or processing production.",
+            "[[prepared]]Movement of harvesting equipment among large areas.",
+            "[[prepared]]Centralized nurseries."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Large areas allow organized monitoring, but internal hotspots become more difficult to detect when inspection is limited.",
+          "prepared_text": "[[prepared]]Large areas allow organized monitoring, but internal hotspots become more difficult to detect when inspection is limited."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Principal Risks in Newly Reclaimed Land"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Long field edges.",
+            "Difficulty inspecting the whole field.",
+            "Field averages concealing local hotspots.",
+            "Immigration from large old fields.",
+            "Pest movement with harvesting equipment.",
+            "Poor survival of some natural enemies under dry conditions.",
+            "Reduced microbial efficacy when timing is unsuitable.",
+            "Dense canopy resulting from intensive fertilization."
+          ],
+          "prepared_items": [
+            "[[prepared]]Long field edges.",
+            "[[prepared]]Difficulty inspecting the whole field.",
+            "[[prepared]]Field averages concealing local hotspots.",
+            "[[prepared]]Immigration from large old fields.",
+            "[[prepared]]Pest movement with harvesting equipment.",
+            "[[prepared]]Poor survival of some natural enemies under dry conditions.",
+            "[[prepared]]Reduced microbial efficacy when timing is unsuitable.",
+            "[[prepared]]Dense canopy resulting from intensive fertilization."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities of the Nubaria and Wadi El Natroun Programme"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Divide the area into clearly defined sectors.",
+            "2. Allocate traps to both edges and interior.",
+            "3. Establish fixed inspection routes.",
+            "4. Use digital hotspot maps.",
+            "5. Record cultivar and transplanting-date differences.",
+            "6. Protect natural enemies from broad-area sprays.",
+            "7. Design biological belts without obstructing mechanization.",
+            "8. Clean harvesting equipment.",
+            "9. Manage old fields at project level.",
+            "10. Link Tuta decisions to factory and residue programmes."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Divide the area into clearly defined sectors.",
+            "[[prepared]]2. Allocate traps to both edges and interior.",
+            "[[prepared]]3. Establish fixed inspection routes.",
+            "[[prepared]]4. Use digital hotspot maps.",
+            "[[prepared]]5. Record cultivar and transplanting-date differences.",
+            "[[prepared]]6. Protect natural enemies from broad-area sprays.",
+            "[[prepared]]7. Design biological belts without obstructing mechanization.",
+            "[[prepared]]8. Clean harvesting equipment.",
+            "[[prepared]]9. Manage old fields at project level.",
+            "[[prepared]]10. Link Tuta decisions to factory and residue programmes."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Irrigation and Growth Management in Sandy Soils"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Avoid:",
+          "prepared_text": "[[prepared]]Avoid:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Repeated drought stress.",
+            "Excessive nitrogen.",
+            "Extremely dense vegetative growth.",
+            "Irrigation fluctuations that weaken plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Repeated drought stress.",
+            "[[prepared]]Excessive nitrogen.",
+            "[[prepared]]Extremely dense vegetative growth.",
+            "[[prepared]]Irrigation fluctuations that weaken plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The objective is to produce plants that are:",
+          "prepared_text": "[[prepared]]The objective is to produce plants that are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Vigorous.",
+            "Balanced.",
+            "Inspectable.",
+            "Accessible to spray penetration.",
+            "Covered sufficiently to protect fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Vigorous.",
+            "[[prepared]]Balanced.",
+            "[[prepared]]Inspectable.",
+            "[[prepared]]Accessible to spray penetration.",
+            "[[prepared]]Covered sufficiently to protect fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no scientific basis for weakening the plant to reduce Tuta infestation.",
+          "prepared_text": "[[prepared]]There is no scientific basis for weakening the plant to reduce Tuta infestation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Structure in Large Areas"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An organizational structure should include:",
+          "prepared_text": "[[prepared]]An organizational structure should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A supervisor for each sector.",
+            "Standardized records.",
+            "A fixed day for trap reading.",
+            "A central point for data analysis.",
+            "Separate intervention orders for each sector.",
+            "Weekly review of IRAC groups.",
+            "Follow-up of harvest dates.",
+            "A clear plan for terminating each block."
+          ],
+          "prepared_items": [
+            "[[prepared]]A supervisor for each sector.",
+            "[[prepared]]Standardized records.",
+            "[[prepared]]A fixed day for trap reading.",
+            "[[prepared]]A central point for data analysis.",
+            "[[prepared]]Separate intervention orders for each sector.",
+            "[[prepared]]Weekly review of IRAC groups.",
+            "[[prepared]]Follow-up of harvest dates.",
+            "[[prepared]]A clear plan for terminating each block."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The entire project should not be sprayed because one sector records an increase.",
+          "prepared_text": "[[prepared]]The entire project should not be sprayed because one sector records an increase."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Nine"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The North Coast and Matrouh"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Characteristics"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Coastal regions are relatively characterized by:",
+          "prepared_text": "[[prepared]]Coastal regions are relatively characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Maritime influence.",
+            "Temperatures different from inland areas.",
+            "Frequent winds.",
+            "More moderate periods.",
+            "Generation timing different from Upper Egypt and the Delta.",
+            "Production that may be seasonal or dependent on water availability."
+          ],
+          "prepared_items": [
+            "[[prepared]]Maritime influence.",
+            "[[prepared]]Temperatures different from inland areas.",
+            "[[prepared]]Frequent winds.",
+            "[[prepared]]More moderate periods.",
+            "[[prepared]]Generation timing different from Upper Egypt and the Delta.",
+            "[[prepared]]Production that may be seasonal or dependent on water availability."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Moderate conditions may allow the pest to persist for a longer period rather than produce only one short peak.",
+          "prepared_text": "[[prepared]]Moderate conditions may allow the pest to persist for a longer period rather than produce only one short peak."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Principal Risks"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Difficulty spraying under windy conditions.",
+            "Pheromone drift or altered plume range.",
+            "Moth movement among open fields.",
+            "Wild hosts.",
+            "Dispersed fields that complicate coordination.",
+            "Extended crop duration under moderate conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Difficulty spraying under windy conditions.",
+            "[[prepared]]Pheromone drift or altered plume range.",
+            "[[prepared]]Moth movement among open fields.",
+            "[[prepared]]Wild hosts.",
+            "[[prepared]]Dispersed fields that complicate coordination.",
+            "[[prepared]]Extended crop duration under moderate conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Data from the region itself should be used rather than Delta or Upper Egypt calendars.",
+          "prepared_text": "[[prepared]]Data from the region itself should be used rather than Delta or Upper Egypt calendars."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities of the Coastal Programme"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Use local weather stations.",
+            "2. Interpret trap catches together with wind direction.",
+            "3. Secure traps and cards firmly.",
+            "4. Select low-wind application periods.",
+            "5. Monitor wild hosts.",
+            "6. Use thermal models with field validation.",
+            "7. Protect fungi and nematodes from desiccation and wind.",
+            "8. Terminate fields before they persist as interseasonal sources.",
+            "9. Coordinate dispersed fields through an early-warning network.",
+            "10. Review actual local generation duration."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Use local weather stations.",
+            "[[prepared]]2. Interpret trap catches together with wind direction.",
+            "[[prepared]]3. Secure traps and cards firmly.",
+            "[[prepared]]4. Select low-wind application periods.",
+            "[[prepared]]5. Monitor wild hosts.",
+            "[[prepared]]6. Use thermal models with field validation.",
+            "[[prepared]]7. Protect fungi and nematodes from desiccation and wind.",
+            "[[prepared]]8. Terminate fields before they persist as interseasonal sources.",
+            "[[prepared]]9. Coordinate dispersed fields through an early-warning network.",
+            "[[prepared]]10. Review actual local generation duration."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Middle Egypt and Upper Egypt"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Characteristics"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Middle and Upper Egypt are often characterized by:",
+          "prepared_text": "[[prepared]]Middle and Upper Egypt are often characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High temperatures for long periods.",
+            "Rapid pest development during warm seasons.",
+            "Dryness and relatively low humidity.",
+            "Overlap of tomato production with other crops.",
+            "Long-distance transplant movement.",
+            "A short interval between eggs and advanced larvae."
+          ],
+          "prepared_items": [
+            "[[prepared]]High temperatures for long periods.",
+            "[[prepared]]Rapid pest development during warm seasons.",
+            "[[prepared]]Dryness and relatively low humidity.",
+            "[[prepared]]Overlap of tomato production with other crops.",
+            "[[prepared]]Long-distance transplant movement.",
+            "[[prepared]]A short interval between eggs and advanced larvae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Extremely high temperatures do not mean the pest disappears because plants and irrigation create a relatively favourable microclimate.",
+          "prepared_text": "[[prepared]]Extremely high temperatures do not mean the pest disappears because plants and irrigation create a relatively favourable microclimate."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Principal Risks in Upper Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Rapid generations.",
+            "Delayed detection of hatching.",
+            "Reduced performance of some microbial products under radiation and dryness.",
+            "High plant stress.",
+            "Short persistence of some products.",
+            "Intensive insecticide use during outbreaks.",
+            "Limited access to technical or laboratory services in some locations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Rapid generations.",
+            "[[prepared]]Delayed detection of hatching.",
+            "[[prepared]]Reduced performance of some microbial products under radiation and dryness.",
+            "[[prepared]]High plant stress.",
+            "[[prepared]]Short persistence of some products.",
+            "[[prepared]]Intensive insecticide use during outbreaks.",
+            "[[prepared]]Limited access to technical or laboratory services in some locations."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities of the Upper Egypt Programme"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Increase inspection frequency during warm periods.",
+            "2. Use eggs and young larvae as principal indicators.",
+            "3. Apply treatments during cooler periods.",
+            "4. Protect microbial agents from radiation.",
+            "5. Maintain balanced irrigation.",
+            "6. Do not wait for mine numbers to increase.",
+            "7. Review insecticide resistance.",
+            "8. Train local inspection teams.",
+            "9. Link fields to a nearby weather station.",
+            "10. Terminate old fields rapidly.",
+            "11. Organize transplant transport.",
+            "12. Avoid repeating an IRAC group because the generation is short."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Increase inspection frequency during warm periods.",
+            "[[prepared]]2. Use eggs and young larvae as principal indicators.",
+            "[[prepared]]3. Apply treatments during cooler periods.",
+            "[[prepared]]4. Protect microbial agents from radiation.",
+            "[[prepared]]5. Maintain balanced irrigation.",
+            "[[prepared]]6. Do not wait for mine numbers to increase.",
+            "[[prepared]]7. Review [[term:resistance]]insecticide resistance[[/term]].",
+            "[[prepared]]8. Train local inspection teams.",
+            "[[prepared]]9. Link fields to a nearby weather station.",
+            "[[prepared]]10. Terminate old fields rapidly.",
+            "[[prepared]]11. Organize transplant transport.",
+            "[[prepared]]12. Avoid repeating an IRAC group because the generation is short."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Use of Natural Enemies in Upper Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The strain or species should be evaluated for tolerance to:",
+          "prepared_text": "[[prepared]]The strain or species should be evaluated for tolerance to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Heat.",
+            "Dryness.",
+            "Transport.",
+            "Open-field conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Heat.",
+            "[[prepared]]Dryness.",
+            "[[prepared]]Transport.",
+            "[[prepared]]Open-field conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Consider:",
+          "prepared_text": "[[prepared]]Consider:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Releasing parasitoids at a suitable time.",
+            "Protecting cards from sunlight.",
+            "Minimizing the interval between receipt and distribution.",
+            "Providing a biological belt or suitable resources.",
+            "Avoiding toxic insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Releasing parasitoids at a suitable time.",
+            "[[prepared]]Protecting cards from sunlight.",
+            "[[prepared]]Minimizing the interval between receipt and distribution.",
+            "[[prepared]]Providing a biological belt or suitable resources.",
+            "[[prepared]]Avoiding toxic insecticides."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Release rates from a temperate environment should not be transferred without local calibration.",
+          "prepared_text": "[[prepared]]Release rates from a temperate environment should not be transferred without local calibration."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Eleven"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sinai and Similar Desert Regions"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Characteristics"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These regions may be characterized by:",
+          "prepared_text": "[[prepared]]These regions may be characterized by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Large daily temperature fluctuations.",
+            "Wind.",
+            "Dryness.",
+            "Dispersed farms.",
+            "Variable water quality.",
+            "Greater dependence on transplants from other regions.",
+            "Difficulty obtaining regular technical services."
+          ],
+          "prepared_items": [
+            "[[prepared]]Large daily temperature fluctuations.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Dryness.",
+            "[[prepared]]Dispersed farms.",
+            "[[prepared]]Variable water quality.",
+            "[[prepared]]Greater dependence on transplants from other regions.",
+            "[[prepared]]Difficulty obtaining regular technical services."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Preventing pest entry with transplants is therefore critical.",
+          "prepared_text": "[[prepared]]Preventing pest entry with transplants is therefore critical."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities of the Desert Programme"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Inspect transplant batches on arrival.",
+            "2. Install traps before transplanting.",
+            "3. Maintain a record for every transplant source.",
+            "4. Protect biological products during transport.",
+            "5. Select suitable application times.",
+            "6. Use vegetation margins without excessive water consumption.",
+            "7. Monitor hosts around water points.",
+            "8. Store lures and products correctly.",
+            "9. Prepare a contingency plan for delayed supplies.",
+            "10. Completely dispose of crop residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Inspect transplant batches on arrival.",
+            "[[prepared]]2. Install traps before transplanting.",
+            "[[prepared]]3. Maintain a record for every transplant source.",
+            "[[prepared]]4. Protect biological products during transport.",
+            "[[prepared]]5. Select suitable application times.",
+            "[[prepared]]6. Use vegetation margins without excessive water consumption.",
+            "[[prepared]]7. Monitor hosts around water points.",
+            "[[prepared]]8. Store lures and products correctly.",
+            "[[prepared]]9. Prepare a contingency plan for delayed supplies.",
+            "[[prepared]]10. Completely dispose of crop residues."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Twelve"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Short-Cycle Production"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Characteristics of a Short Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Limited time for pest establishment and multiplication.",
+            "Relatively fewer generations within the field.",
+            "High importance of preventing early infestation.",
+            "Strong dependence on healthy transplants.",
+            "Rapid approach of harvest."
+          ],
+          "prepared_items": [
+            "[[prepared]]Limited time for [[term:establishment]]pest establishment[[/term]] and multiplication.",
+            "[[prepared]]Relatively fewer generations within the field.",
+            "[[prepared]]High importance of preventing early infestation.",
+            "[[prepared]]Strong dependence on healthy transplants.",
+            "[[prepared]]Rapid approach of harvest."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation carried with transplants may eliminate the advantage of a short cycle.",
+          "prepared_text": "[[prepared]]Infestation carried with transplants may eliminate the advantage of a short cycle."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities of a Short Cycle"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Zero tolerance for infested transplants.",
+            "2. Install traps before transplanting.",
+            "3. Conduct intensive inspection during the first weeks.",
+            "4. Prevent establishment of the first generation.",
+            "5. Avoid unnecessary preventive sprays.",
+            "6. Target eggs and young larvae.",
+            "7. Review PHI early.",
+            "8. Protect fruits during the short risk period.",
+            "9. Harvest at the appropriate time.",
+            "10. Terminate the field immediately after harvest."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Zero tolerance for infested transplants.",
+            "[[prepared]]2. Install traps before transplanting.",
+            "[[prepared]]3. Conduct intensive inspection during the first weeks.",
+            "[[prepared]]4. Prevent establishment of the first generation.",
+            "[[prepared]]5. Avoid unnecessary preventive sprays.",
+            "[[prepared]]6. Target eggs and young larvae.",
+            "[[prepared]]7. Review [[term:pesticide-safety]]PHI[[/term]] early.",
+            "[[prepared]]8. Protect fruits during the short risk period.",
+            "[[prepared]]9. Harvest at the appropriate time.",
+            "[[prepared]]10. Terminate the field immediately after harvest."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Selecting an Intervention in a Short Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A slow-acting method may not provide a return when started too late, but may be effective when used preventively or early.",
+          "prepared_text": "[[prepared]]A slow-acting method may not provide a return when started too late, but may be effective when used preventively or early."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before intervention, ask:",
+          "prepared_text": "[[prepared]]Before intervention, ask:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Is there sufficient time for its effect to appear?",
+            "Will it protect the fruits already present?",
+            "Is it compatible with harvest timing?",
+            "Is the cost justified by the remaining crop?"
+          ],
+          "prepared_items": [
+            "[[prepared]]Is there sufficient time for its effect to appear?",
+            "[[prepared]]Will it protect the fruits already present?",
+            "[[prepared]]Is it compatible with harvest timing?",
+            "[[prepared]]Is the cost justified by the remaining crop?"
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Programme Thirteen"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Long-Cycle Production"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Characteristics of a Long Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A long cycle presents a greater challenge because of:",
+          "prepared_text": "[[prepared]]A long cycle presents a greater challenge because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "More pest generations.",
+            "Accumulation of infestation.",
+            "Higher resistance risk.",
+            "Multiple insecticide windows.",
+            "Need to conserve natural enemies for a long period.",
+            "Continued plant growth and canopy closure.",
+            "Prolonged exposure to immigration."
+          ],
+          "prepared_items": [
+            "[[prepared]]More pest generations.",
+            "[[prepared]]Accumulation of infestation.",
+            "[[prepared]]Higher resistance risk.",
+            "[[prepared]]Multiple insecticide windows.",
+            "[[prepared]]Need to conserve natural enemies for a long period.",
+            "[[prepared]]Continued plant growth and canopy closure.",
+            "[[prepared]]Prolonged exposure to immigration."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A long cycle cannot be managed through insecticides alone without substantial selection pressure.",
+          "prepared_text": "[[prepared]]A long cycle cannot be managed through insecticides alone without substantial selection pressure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Priorities of a Long Cycle"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Establish a biological programme from the beginning.",
+            "2. Maintain the biological belt.",
+            "3. Use a long-term trap network.",
+            "4. Replace lures on schedule.",
+            "5. Recalibrate the sprayer several times.",
+            "6. Divide the season into IRAC windows.",
+            "7. Record all treatments targeting other pests.",
+            "8. Monitor resistance.",
+            "9. Prevent accumulation of advanced larval instars.",
+            "10. Manage the canopy.",
+            "11. Measure fruit infestation periodically.",
+            "12. Define the economic termination point."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Establish a biological programme from the beginning.",
+            "[[prepared]]2. Maintain the biological belt.",
+            "[[prepared]]3. Use a long-term trap network.",
+            "[[prepared]]4. Replace lures on schedule.",
+            "[[prepared]]5. Recalibrate the sprayer several times.",
+            "[[prepared]]6. Divide the season into IRAC windows.",
+            "[[prepared]]7. Record all treatments targeting other pests.",
+            "[[prepared]]8. Monitor resistance.",
+            "[[prepared]]9. Prevent accumulation of advanced larval instars.",
+            "[[prepared]]10. Manage the canopy.",
+            "[[prepared]]11. Measure fruit infestation periodically.",
+            "[[prepared]]12. Define the economic termination point."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance Management in a Long Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should:",
+          "prepared_text": "[[prepared]]The programme should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoid repeating a group across successive generations.",
+            "Include periods based on non-chemical measures.",
+            "Use Bt, parasitoids, and predators.",
+            "Investigate any decline in efficacy.",
+            "Avoid changing only the trade name.",
+            "Include nursery treatments.",
+            "Include sprays targeting whiteflies and thrips."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoid repeating a group across successive generations.",
+            "[[prepared]]Include periods based on non-chemical measures.",
+            "[[prepared]]Use Bt, parasitoids, and predators.",
+            "[[prepared]]Investigate any decline in efficacy.",
+            "[[prepared]]Avoid changing only the trade name.",
+            "[[prepared]]Include nursery treatments.",
+            "[[prepared]]Include sprays targeting whiteflies and thrips."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "IRAC records become an operational necessity, not merely an administrative document.",
+          "prepared_text": "[[prepared]]IRAC records become an operational necessity, not merely an administrative document."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Egyptian Programme According to External Pressure"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Low External Pressure"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Basic monitoring.",
+            "Protection of natural enemies.",
+            "Hotspot intervention only when needed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Basic monitoring.",
+            "[[prepared]]Protection of natural enemies.",
+            "[[prepared]]Hotspot intervention only when needed."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Moderate External Pressure"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased edge inspection.",
+            "Early biological programme.",
+            "Readiness for hatching waves."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increased edge inspection.",
+            "[[prepared]]Early biological programme.",
+            "[[prepared]]Readiness for hatching waves."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "High External Pressure"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Additional edge traps.",
+            "Close inspection.",
+            "Coordination with neighbouring fields.",
+            "Early protection of clusters.",
+            "Review of the resistance-management plan."
+          ],
+          "prepared_items": [
+            "[[prepared]]Additional edge traps.",
+            "[[prepared]]Close inspection.",
+            "[[prepared]]Coordination with neighbouring fields.",
+            "[[prepared]]Early protection of clusters.",
+            "[[prepared]]Review of the resistance-management plan."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Active Immigration Wave"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Identify the source.",
+            "Inspect eggs.",
+            "Increase monitoring for several days.",
+            "Use parasitoids or a hatching-stage intervention when eggs are present.",
+            "Do not spray the field from trap counts alone."
+          ],
+          "prepared_items": [
+            "[[prepared]]Identify the source.",
+            "[[prepared]]Inspect eggs.",
+            "[[prepared]]Increase monitoring for several days.",
+            "[[prepared]]Use parasitoids or a hatching-stage intervention when eggs are present.",
+            "[[prepared]]Do not spray the field from trap counts alone."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Matrix for Selecting the Egyptian Programme"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Situation",
+            "Most Appropriate Programme"
+          ],
+          "rows": [
+            [
+              "Long-cycle processing tomatoes in newly reclaimed land",
+              "Sector-based monitoring + early biological programme + resistance windows + canopy and fruit protection"
+            ],
+            [
+              "Repeated-harvest fresh-market tomatoes",
+              "Frequent fruit inspection + PHI management + collection of infested fruit + hotspot interventions"
+            ],
+            [
+              "Winter production cycle",
+              "Continued monitoring with temperature-adjusted assessment timing and preparation for spring increase"
+            ],
+            [
+              "Spring production cycle",
+              "Intensified inspection as temperature rises and management of migration from old fields"
+            ],
+            [
+              "Summer production cycle",
+              "Close inspection, rapid targeting of hatching, and protection of biological agents from heat"
+            ],
+            [
+              "Autumn production cycle",
+              "Prevention of early infestation and review of accumulated regional insecticide pressure"
+            ],
+            [
+              "Small Delta field",
+              "Neighbour coordination, edge inspection, and management of nurseries and residues"
+            ],
+            [
+              "Large Nubaria area",
+              "Sector division, hotspot maps, and centralized monitoring"
+            ],
+            [
+              "Upper Egypt field",
+              "Faster response, thermal monitoring, and suitable application timing"
+            ],
+            [
+              "Coastal field",
+              "Interpretation of local wind and temperature without transferring inland calendars"
+            ],
+            [
+              "Short cycle",
+              "Prevention through healthy transplants, early protection, timely harvest, and rapid termination"
+            ],
+            [
+              "Long cycle",
+              "Continuous biological control, IRAC windows, and resistance monitoring"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Situation",
+            "[[prepared]]Most Appropriate Programme"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Long-cycle processing tomatoes in newly reclaimed land",
+              "[[prepared]]Sector-based monitoring + early biological programme + resistance windows + canopy and fruit protection"
+            ],
+            [
+              "[[prepared]]Repeated-harvest fresh-market tomatoes",
+              "[[prepared]]Frequent fruit inspection + PHI management + collection of infested fruit + hotspot interventions"
+            ],
+            [
+              "[[prepared]]Winter production cycle",
+              "[[prepared]]Continued monitoring with temperature-adjusted assessment timing and preparation for spring increase"
+            ],
+            [
+              "[[prepared]]Spring production cycle",
+              "[[prepared]]Intensified inspection as temperature rises and management of migration from old fields"
+            ],
+            [
+              "[[prepared]]Summer production cycle",
+              "[[prepared]]Close inspection, rapid targeting of hatching, and protection of biological agents from heat"
+            ],
+            [
+              "[[prepared]]Autumn production cycle",
+              "[[prepared]]Prevention of early infestation and review of accumulated regional insecticide pressure"
+            ],
+            [
+              "[[prepared]]Small Delta field",
+              "[[prepared]]Neighbour coordination, edge inspection, and management of nurseries and residues"
+            ],
+            [
+              "[[prepared]]Large Nubaria area",
+              "[[prepared]]Sector division, hotspot maps, and centralized monitoring"
+            ],
+            [
+              "[[prepared]]Upper Egypt field",
+              "[[prepared]]Faster response, thermal monitoring, and suitable application timing"
+            ],
+            [
+              "[[prepared]]Coastal field",
+              "[[prepared]]Interpretation of local wind and temperature without transferring inland calendars"
+            ],
+            [
+              "[[prepared]]Short cycle",
+              "[[prepared]]Prevention through healthy transplants, early protection, timely harvest, and rapid termination"
+            ],
+            [
+              "[[prepared]]Long cycle",
+              "[[prepared]]Continuous biological control, IRAC windows, and resistance monitoring"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Flexible Weekly Programme Model"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each week, complete the following sequence.",
+          "prepared_text": "[[prepared]]Each week, complete the following sequence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "First: Review Weather"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mean temperatures.",
+            "Heat or cold wave.",
+            "Wind.",
+            "Rainfall or humidity.",
+            "Effects on eggs and biological agents."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mean temperatures.",
+            "[[prepared]]Heat or cold wave.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Rainfall or humidity.",
+            "[[prepared]]Effects on eggs and biological agents."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Second: Review Traps"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Catch number.",
+            "Trend.",
+            "Edges.",
+            "Lure condition."
+          ],
+          "prepared_items": [
+            "[[prepared]]Catch number.",
+            "[[prepared]]Trend.",
+            "[[prepared]]Edges.",
+            "[[prepared]]Lure condition."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Third: Inspect Plants"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Parasitism.",
+            "Active mines.",
+            "Larval instars.",
+            "Clusters and fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Parasitism.",
+            "[[prepared]]Active mines.",
+            "[[prepared]]Larval instars.",
+            "[[prepared]]Clusters and fruits."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fourth: Evaluate Beneficial Organisms"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Predators.",
+            "Parasitoids.",
+            "Nymphs.",
+            "Signs of entomopathogenic disease."
+          ],
+          "prepared_items": [
+            "[[prepared]]Predators.",
+            "[[prepared]]Parasitoids.",
+            "[[prepared]]Nymphs.",
+            "[[prepared]]Signs of entomopathogenic disease."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fifth: Review Surrounding Fields"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Beginning of harvest.",
+            "Cessation of irrigation.",
+            "Crop removal.",
+            "Residue presence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Beginning of harvest.",
+            "[[prepared]]Cessation of irrigation.",
+            "[[prepared]]Crop removal.",
+            "[[prepared]]Residue presence."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Sixth: Select the Decision Level"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Green.",
+            "Yellow.",
+            "Orange.",
+            "Red.",
+            "Critical."
+          ],
+          "prepared_items": [
+            "[[prepared]]Green.",
+            "[[prepared]]Yellow.",
+            "[[prepared]]Orange.",
+            "[[prepared]]Red.",
+            "[[prepared]]Critical."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Seventh: Define the Action"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "No intervention.",
+            "Increased monitoring.",
+            "Biological intervention.",
+            "Hotspot treatment.",
+            "Selective intervention.",
+            "Harvest or termination."
+          ],
+          "prepared_items": [
+            "[[prepared]]No intervention.",
+            "[[prepared]]Increased monitoring.",
+            "[[prepared]]Biological intervention.",
+            "[[prepared]]Hotspot treatment.",
+            "[[prepared]]Selective intervention.",
+            "[[prepared]]Harvest or termination."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Elements That Should Be Excluded from Egyptian Programmes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Programmes should not become:",
+          "prepared_text": "[[prepared]]Programmes should not become:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A fixed weekly spray.",
+            "A list of trade names.",
+            "One uniform mixture for all governorates.",
+            "An unregistered foreign rate.",
+            "A schedule that ignores crop stage.",
+            "A programme that neglects the nursery.",
+            "A programme beginning after fruit infestation appears.",
+            "A programme that does not record natural enemies.",
+            "A programme without field termination.",
+            "A programme that does not review residues.",
+            "A programme that does not review resistance."
+          ],
+          "prepared_items": [
+            "[[prepared]]A fixed weekly spray.",
+            "[[prepared]]A list of trade names.",
+            "[[prepared]]One uniform mixture for all governorates.",
+            "[[prepared]]An unregistered foreign rate.",
+            "[[prepared]]A schedule that ignores crop stage.",
+            "[[prepared]]A programme that neglects the nursery.",
+            "[[prepared]]A programme beginning after fruit infestation appears.",
+            "[[prepared]]A programme that does not record natural enemies.",
+            "[[prepared]]A programme without field termination.",
+            "[[prepared]]A programme that does not review residues.",
+            "[[prepared]]A programme that does not review resistance."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Criteria for Approving Any Local Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme should not be approved unless it specifies:",
+          "prepared_text": "[[prepared]]A programme should not be approved unless it specifies:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Region.",
+            "2. Production cycle.",
+            "3. Tomato type.",
+            "4. Cultivar or growth habit.",
+            "5. Transplant source.",
+            "6. Monitoring method.",
+            "7. Sampling unit.",
+            "8. Intervention level.",
+            "9. Biological alternatives.",
+            "10. Registered materials only.",
+            "11. IRAC groups.",
+            "12. Preharvest intervals.",
+            "13. Reassessment timing.",
+            "14. Management of infested fruits.",
+            "15. Residue management.",
+            "16. Success indicators.",
+            "17. Cost and return."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Region.",
+            "[[prepared]]2. Production cycle.",
+            "[[prepared]]3. Tomato type.",
+            "[[prepared]]4. Cultivar or growth habit.",
+            "[[prepared]]5. Transplant source.",
+            "[[prepared]]6. Monitoring method.",
+            "[[prepared]]7. Sampling unit.",
+            "[[prepared]]8. Intervention level.",
+            "[[prepared]]9. Biological alternatives.",
+            "[[prepared]]10. Registered materials only.",
+            "[[prepared]]11. IRAC groups.",
+            "[[prepared]]12. Preharvest intervals.",
+            "[[prepared]]13. Reassessment timing.",
+            "[[prepared]]14. Management of infested fruits.",
+            "[[prepared]]15. Residue management.",
+            "[[prepared]]16. Success indicators.",
+            "[[prepared]]17. Cost and return."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Local Programme Documentation Template"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Item",
+            "Data"
+          ],
+          "rows": [
+            [
+              "Region",
+              ""
+            ],
+            [
+              "Soil type",
+              ""
+            ],
+            [
+              "Production type",
+              "Processing/Fresh market"
+            ],
+            [
+              "Cultivar",
+              ""
+            ],
+            [
+              "Transplanting date",
+              ""
+            ],
+            [
+              "Expected cycle duration",
+              ""
+            ],
+            [
+              "Transplant source",
+              ""
+            ],
+            [
+              "Nearest old field",
+              ""
+            ],
+            [
+              "Initial risk level",
+              ""
+            ],
+            [
+              "Number of traps",
+              ""
+            ],
+            [
+              "Inspection method",
+              ""
+            ],
+            [
+              "Natural-enemy programme",
+              ""
+            ],
+            [
+              "Available IRAC groups",
+              ""
+            ],
+            [
+              "Harvest date",
+              ""
+            ],
+            [
+              "Market or factory requirements",
+              ""
+            ],
+            [
+              "Technical officer",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Item",
+            "[[prepared]]Data"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Region",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Soil type",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Production type",
+              "[[prepared]]Processing/Fresh market"
+            ],
+            [
+              "[[prepared]]Cultivar",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Transplanting date",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Expected cycle duration",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Transplant source",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Nearest old field",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Initial risk level",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Number of traps",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Inspection method",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Natural-enemy programme",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Available IRAC groups",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Harvest date",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Market or factory requirements",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Technical officer",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors in Applying Regional Programmes"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Using a Delta Programme in Upper Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Temperature, development rate, and operational conditions differ.",
+          "prepared_text": "[[prepared]]Temperature, development rate, and operational conditions differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Using a Winter Programme in Summer"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Hatching time and reassessment intervals differ.",
+          "prepared_text": "[[prepared]]Hatching time and reassessment intervals differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Assuming Processing Tomatoes Need Less Fruit Protection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruit infestation affects acceptance, quality, and rots.",
+          "prepared_text": "[[prepared]]Fruit infestation affects acceptance, quality, and rots."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Using the Same Programme for Short and Long Cycles"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Generation number and resistance pressure differ.",
+          "prepared_text": "[[prepared]]Generation number and resistance pressure differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Setting Rigid Monthly Dates"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Weather and transplanting dates change among years.",
+          "prepared_text": "[[prepared]]Weather and transplanting dates change among years."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Ignoring the Transplant Source"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The field may begin with internal infestation.",
+          "prepared_text": "[[prepared]]The field may begin with internal infestation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Neglecting Old Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may undermine the best programme in a new field.",
+          "prepared_text": "[[prepared]]They may undermine the best programme in a new field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Using Foreign Release Rates Without Testing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Temperature, wind, strain, and production system differ.",
+          "prepared_text": "[[prepared]]Temperature, wind, strain, and production system differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Applying Fungi Under Unsuitable Conditions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This reduces viability and efficacy.",
+          "prepared_text": "[[prepared]]This reduces viability and efficacy."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Assuming Winter Is Risk-Free"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A generation may persist for a longer period.",
+          "prepared_text": "[[prepared]]A generation may persist for a longer period."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Assuming Extreme Heat Eliminates the Pest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mines and fruits protect many larvae.",
+          "prepared_text": "[[prepared]]Mines and fruits protect many larvae."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Failing to Adjust Spray Equipment as Plants Grow"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Coverage declines.",
+          "prepared_text": "[[prepared]]Coverage declines."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Thirteen: Ignoring the Harvest Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The selected material may conflict with the preharvest interval.",
+          "prepared_text": "[[prepared]]The selected material may conflict with the preharvest interval."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fourteen: Failing to Update the Programme Weekly"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Risk level can change rapidly.",
+          "prepared_text": "[[prepared]]Risk level can change rapidly."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fifteen: Evaluating Success by Number of Sprays Alone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The final criteria are accepted yield and sustainability.",
+          "prepared_text": "[[prepared]]The final criteria are accepted yield and sustainability."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Research Priorities Required in Egypt"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Establish a national Tuta monitoring network.",
+            "2. Standardize traps and reading methods.",
+            "3. Develop regional thermal models.",
+            "4. Link traps with temperature and plant inspection.",
+            "5. Determine thresholds for processing tomatoes.",
+            "6. Determine thresholds for fresh-market tomatoes.",
+            "7. Study the role of potato and eggplant fields.",
+            "8. Study moth movement among production cycles.",
+            "9. Evaluate local parasitoids and predators.",
+            "10. Test microbial strains under Egyptian temperatures.",
+            "11. Determine compatibility intervals with pesticides.",
+            "12. Develop programmes for long-cycle crops.",
+            "13. Study resistance by region.",
+            "14. Evaluate biological-belt programmes.",
+            "15. Measure the effect of terminating old fields.",
+            "16. Study the effect of plant density and canopy cover.",
+            "17. Establish a pesticide-residue database.",
+            "18. Link factory programmes to area-wide management.",
+            "19. Use a digital decision-support application.",
+            "20. Evaluate economic viability across several seasons."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Establish a national Tuta monitoring network.",
+            "[[prepared]]2. Standardize traps and reading methods.",
+            "[[prepared]]3. Develop regional thermal models.",
+            "[[prepared]]4. Link traps with temperature and plant inspection.",
+            "[[prepared]]5. Determine thresholds for processing tomatoes.",
+            "[[prepared]]6. Determine thresholds for fresh-market tomatoes.",
+            "[[prepared]]7. Study the role of potato and eggplant fields.",
+            "[[prepared]]8. Study moth movement among production cycles.",
+            "[[prepared]]9. Evaluate local parasitoids and predators.",
+            "[[prepared]]10. Test microbial strains under Egyptian temperatures.",
+            "[[prepared]]11. Determine compatibility intervals with pesticides.",
+            "[[prepared]]12. Develop programmes for long-cycle crops.",
+            "[[prepared]]13. Study resistance by region.",
+            "[[prepared]]14. Evaluate biological-belt programmes.",
+            "[[prepared]]15. Measure the effect of terminating old fields.",
+            "[[prepared]]16. Study the effect of plant density and canopy cover.",
+            "[[prepared]]17. Establish a pesticide-residue database.",
+            "[[prepared]]18. Link factory programmes to area-wide management.",
+            "[[prepared]]19. Use a digital decision-support application.",
+            "[[prepared]]20. Evaluate economic viability across several seasons."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Executive Recommendations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following recommendations apply across Egyptian programmes:",
+          "prepared_text": "[[prepared]]The following recommendations apply across Egyptian programmes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Begin before planting.",
+            "Reject infested transplants.",
+            "Use traps as warning tools.",
+            "Inspect eggs, larvae, and fruits.",
+            "Target young instars.",
+            "Protect natural enemies.",
+            "Do not repeat an IRAC group.",
+            "Review preharvest intervals.",
+            "Separate edges from the interior.",
+            "Link the programme to temperature.",
+            "Coordinate with old fields.",
+            "Collect infested fruits.",
+            "Terminate the field when economic viability ends.",
+            "Document every decision.",
+            "Evaluate accepted yield and cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Begin before planting.",
+            "[[prepared]]Reject infested transplants.",
+            "[[prepared]]Use traps as warning tools.",
+            "[[prepared]]Inspect eggs, larvae, and fruits.",
+            "[[prepared]]Target young instars.",
+            "[[prepared]]Protect natural enemies.",
+            "[[prepared]]Do not repeat an IRAC group.",
+            "[[prepared]]Review preharvest intervals.",
+            "[[prepared]]Separate edges from the interior.",
+            "[[prepared]]Link the programme to temperature.",
+            "[[prepared]]Coordinate with old fields.",
+            "[[prepared]]Collect infested fruits.",
+            "[[prepared]]Terminate the field when economic viability ends.",
+            "[[prepared]]Document every decision.",
+            "[[prepared]]Evaluate accepted yield and cost."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Summary of Section Eighteen"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single programme is suitable for all tomato regions and production cycles in Egypt because the development rate of Tuta absoluta, number of generations, immigration sources, and crop stage differ among regions and seasons.",
+          "prepared_text": "[[prepared]]No single programme is suitable for all tomato regions and production cycles in Egypt because the development rate of Tuta absoluta, number of generations, immigration sources, and crop stage differ among regions and seasons."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egyptian programmes should be built by integrating:",
+          "prepared_text": "[[prepared]]Egyptian programmes should be built by integrating:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Production type.",
+            "Climatic production cycle.",
+            "Geographical region.",
+            "External pressure level.",
+            "Crop stage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Production type.",
+            "[[prepared]]Climatic production cycle.",
+            "[[prepared]]Geographical region.",
+            "[[prepared]]External pressure level.",
+            "[[prepared]]Crop stage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Processing tomatoes require protection of canopy cover and fruits, review of factory requirements, and immediate field termination after delivery ends.",
+          "prepared_text": "[[prepared]]Processing tomatoes require protection of canopy cover and fruits, review of factory requirements, and immediate field termination after delivery ends."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fresh-market tomatoes require frequent fruit inspection, precise management of preharvest intervals between pickings, and organized handling of crates and rejected fruits.",
+          "prepared_text": "[[prepared]]Fresh-market tomatoes require frequent fruit inspection, precise management of preharvest intervals between pickings, and organized handling of crates and rejected fruits."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "During winter, pest development may slow but does not stop, and long crop duration may permit several generations.",
+          "prepared_text": "[[prepared]]During winter, pest development may slow but does not stop, and long crop duration may permit several generations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Spring is characterized by the risk of faster development and moth movement from old winter fields.",
+          "prepared_text": "[[prepared]]Spring is characterized by the risk of faster development and moth movement from old winter fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Summer requires closer inspection and faster response to eggs and young larvae, together with protection of biological agents from heat, dryness, and radiation.",
+          "prepared_text": "[[prepared]]Summer requires closer inspection and faster response to eggs and young larvae, together with protection of biological agents from heat, dryness, and radiation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Autumn may begin under high pressure resulting from accumulated summer generations and intensive insecticide-use history.",
+          "prepared_text": "[[prepared]]Autumn may begin under high pressure resulting from accumulated summer generations and intensive insecticide-use history."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In the Delta, priorities include coordination among holdings and management of drainage canals, nurseries, and old fields.",
+          "prepared_text": "[[prepared]]In the Delta, priorities include coordination among holdings and management of drainage canals, nurseries, and old fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In Nubaria and Wadi El Natroun, priorities include dividing large areas into sectors, using maps, and organizing harvesting and residue management.",
+          "prepared_text": "[[prepared]]In Nubaria and Wadi El Natroun, priorities include dividing large areas into sectors, using maps, and organizing harvesting and residue management."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "On the North Coast and in Matrouh, data should be interpreted according to local climate and wind.",
+          "prepared_text": "[[prepared]]On the North Coast and in Matrouh, data should be interpreted according to local climate and wind."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In Upper Egypt, rapid pest development requires shorter intervals between inspection and decision, together with protection of biological agents from heat and dryness.",
+          "prepared_text": "[[prepared]]In Upper Egypt, rapid pest development requires shorter intervals between inspection and decision, together with protection of biological agents from heat and dryness."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Short-cycle crops require prevention from the transplant stage, whereas long-cycle crops require intensive resistance-management and biological-control systems.",
+          "prepared_text": "[[prepared]]Short-cycle crops require prevention from the transplant stage, whereas long-cycle crops require intensive resistance-management and biological-control systems."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An Egyptian programme should not contain a fixed spray schedule, but a weekly system that reviews:",
+          "prepared_text": "[[prepared]]An Egyptian programme should not contain a fixed spray schedule, but a weekly system that reviews:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Weather.",
+            "Traps.",
+            "Eggs.",
+            "Larval instars.",
+            "Fruit infestation.",
+            "Natural enemies.",
+            "Neighbouring fields.",
+            "Pesticide record.",
+            "Harvest timing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Weather.",
+            "[[prepared]]Traps.",
+            "[[prepared]]Eggs.",
+            "[[prepared]]Larval instars.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Neighbouring fields.",
+            "[[prepared]]Pesticide record.",
+            "[[prepared]]Harvest timing."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Programmes become sustainably applicable when they move from general recommendations to documented local protocols whose results and costs are reviewed at the end of every season.",
+          "prepared_text": "[[prepared]]Programmes become sustainably applicable when they move from general recommendations to documented local protocols whose results and costs are reviewed at the end of every season."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-18-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Hassan, E. S. M., Mesbah, I. I., Ali, F. A., & El-Shesheny, I. A. (2022). Prevalence, population dynamics and associated natural enemies of Tomato Leafminer, Tuta absoluta, in Egypt. International Journal of Tropical Insect Science, 42, 143–162. DOI: 10.1007/s42690-021-00526-3.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "Salama, H. S., Shehata, I. E. S., Ebada, I. M., Fouda, M., & Ismail, I. A. E. K. (2019). Prediction of annual generations of the tomato leaf miner Tuta absoluta on tomato cultivations in Egypt. Bulletin of the National Research Centre, 43, 93. DOI: 10.1186/s42269-019-0123-9.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Desneux, N., Han, P., Mansour, R., et al. (2022). Integrated pest management of Tuta absoluta: Practical implementations across different world regions. Journal of Pest Science, 95, 17–39. DOI: 10.1007/s10340-021-01442-8.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F. H., & Desneux, N. (2018). Ecology, worldwide spread, and management of the invasive South American tomato pinworm, Tuta absoluta. Annual Review of Entomology, 63, 239–258.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "Ponti, L., Gutierrez, A. P., Altieri, M. A., et al. (2021). Biological invasion risk assessment of Tuta absoluta: Mechanistic and correlative approaches. Biological Invasions.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "Guedes, R. N. C., Roditakis, E., Campos, M. R., et al. (2019). Insecticide resistance in the tomato pinworm Tuta absoluta: Patterns, spread, mechanisms, management and outlook. Journal of Pest Science, 92, 1329–1342.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Mahmoud, Y. A., et al. (2020). Susceptibility of different tomato varieties to infestation with Tuta absoluta and other leaf miners in Assiut Governorate. Bulletin of the National Research Centre, 44.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Adly, D., & Nouh, G. M. (2019). Impact of combined releases of the egg parasitoid Trichogramma euproctidis and Heterorhabditis bacteriophora to control Tuta absoluta in tomato greenhouses in Egypt. Egyptian Journal of Biological Pest Control, 29, 91.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Abdelmaksoud, N. M., et al. (2020). Influence of insect traps and insecticides sequential application as a tactic for management of tomato pests. Bulletin of the National Research Centre, 44.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Kansiime, K. M., Karanja, P., Rware, H., et al. (2020). Integrated Management of Tomato Leaf Miner and Other Tomato Pests: A Training Manual for Extension Workers. CABI.",
+              "url": ""
+            },
+            {
+              "number": 11,
+              "text": "Colmenárez, Y. C., Corniani, N., Jahnke, S. M., Sampaio, M. V., & Vásquez, G. M. (2022). Sustainable management of the invasive Tuta absoluta. Journal of Integrated Pest Management, 13, 15.",
+              "url": ""
+            },
+            {
+              "number": 12,
+              "text": "Tarusikirwa, V. L., Machekano, H., Mutamiswa, R., Chidawanyika, F., & Nyamukondiwa, C. (2020). Tuta absoluta on the offensive in Africa: Prospects for integrated management initiatives. Insects, 11, 764.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Ferracini, C., Bueno, V. H. P., Dindo, M. L., et al. (2019). Natural enemies of Tuta absoluta in the Mediterranean basin, Europe and South America. Biocontrol Science and Technology, 29, 578–609.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "González-Cabrera, J., Mollá, O., Montón, H., & Urbaneja, A. (2011). Efficacy of Bacillus thuringiensis in controlling the tomato borer Tuta absoluta. BioControl, 56, 71–80.",
+              "url": ""
+            },
+            {
+              "number": 15,
+              "text": "Martins, J. C., Picanço, M. C., Bacci, L., et al. (2018). Assessing the spatial distribution of Tuta absoluta eggs in open-field tomato cultivation through geostatistical analysis. Pest Management Science, 74, 30–36.",
+              "url": ""
+            },
+            {
+              "number": 16,
+              "text": "Insecticide Resistance Action Committee. Tuta absoluta: Recommendations for Sustainable and Effective Resistance Management.",
+              "url": ""
+            },
+            {
+              "number": 17,
+              "text": "Insecticide Resistance Action Committee. Mode of Action Classification Scheme.",
+              "url": ""
+            },
+            {
+              "number": 18,
+              "text": "Food and Agriculture Organization of the United Nations. Developing Integrated Pest Management and Biorational Programmes for Tuta absoluta.",
+              "url": ""
+            },
+            {
+              "number": 19,
+              "text": "European and Mediterranean Plant Protection Organization. Phthorimaea absoluta. EPPO Global Database.",
+              "url": ""
+            },
+            {
+              "number": 20,
+              "text": "CABI. Phthorimaea absoluta — Tomato Leafminer. CABI Compendium.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 18,
+        "part_title": "Section Eighteen: Applied Programmes for Managing Tuta absoluta Under Egyptian Conditions",
+        "part_subtitle": "Applied IPM Programmes for Tuta absoluta Under Egyptian Conditions"
+      }
+    }
+  ]
+}
