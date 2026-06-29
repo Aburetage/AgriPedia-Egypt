@@ -1,6 +1,6 @@
 const appContainer = document.getElementById('app-container');
 const sidebarContainer = document.getElementById('sidebar-menu-container');
-const DATA_VERSION = '33';
+const DATA_VERSION = '38';
 const versionedDataUrl = path => `${path}${path.includes('?') ? '&' : '?'}v=${DATA_VERSION}`;
 // 🌟 ضبط الوضع الداكن واللغة العربية كافتراضي 🌟
 let currentLang = localStorage.getItem('lang') || 'ar';
@@ -92,6 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
         window.clearTimeout(articleObserverResizeTimer);
         articleObserverResizeTimer = window.setTimeout(() => initializeArticleSectionObserver(), 160);
     }, { passive: true });
+    window.addEventListener('message', handleInteractiveToolMessage);
 
     // أحداث النقر والتفاعل داخل المحتوى
     appContainer?.addEventListener('click', handleArticleAnchor);
@@ -781,6 +782,7 @@ function applyTheme(theme) {
     const bNavTheme = document.getElementById('bNavTheme');
     if(bNavTheme) bNavTheme.setAttribute('aria-pressed', String(isDark));
     updateLocalizedLabels();
+    syncInteractiveTools();
 }
 
 function toggleLanguage() {
@@ -819,6 +821,7 @@ function applyLanguage(lang) {
     }
     hideTermTooltip();
     updateSearchLocalizedContent();
+    syncInteractiveTools();
     updateLocalizedLabels();
     updateReadingModeLocalizedContent();
 }
@@ -1268,6 +1271,7 @@ function renderChapter(data, initialTab, activeTabData, partContext = null) {
         </section>
     `;
     appContainer.innerHTML = html;
+    initializeInteractiveTools();
     if (showChapterNavigation) {
         requestAnimationFrame(() => {
             const tabStrip = document.getElementById(`tabs-${chapId}`);
@@ -1307,8 +1311,51 @@ function buildBlocks(blocks, articleContext = {}) {
         if (block.type === 'sec-label') html += `<div class="sec-label"><span class="ic">${block.icon}</span><span>${block.text}</span></div>`;
         else if (block.type === 'card') html += `<div class="card" style="--card-top: ${block.theme};">${block.header_title ? `<div class="card-hdr"><div class="ico" style="color: var(--cyan);"><i class="${block.header_icon}"></i></div><span>${block.header_title}</span></div>` : ''}<div class="info-box">${buildInnerBlocks(block.body)}</div></div>`;
         else if (block.type === 'doc-article') html += buildDocArticle(block.items, { ...(block.meta || {}), ...articleContext });
+        else if (block.type === 'interactive-tool') html += buildInteractiveTool(block);
     });
     return html;
+}
+
+function buildInteractiveTool(block) {
+    const source = String(block.src || '').trim();
+    if (!source || /^(?:https?:)?\/\//i.test(source)) return '';
+    const separator = source.includes('?') ? '&' : '?';
+    const src = `${source}${separator}embed=1&lang=${encodeURIComponent(currentLang)}&theme=${encodeURIComponent(currentTheme)}`;
+    const title = block.title || (currentLang === 'ar' ? 'أداة تفاعلية' : 'Interactive tool');
+    return `<section class="interactive-tool-shell">
+        <iframe class="interactive-tool-frame" data-interactive-tool title="${escapeHtml(title)}" src="${escapeHtml(src)}" loading="eager" sandbox="allow-scripts allow-same-origin"></iframe>
+    </section>`;
+}
+
+function initializeInteractiveTools() {
+    document.querySelectorAll('iframe[data-interactive-tool]').forEach(frame => {
+        const sendState = () => frame.contentWindow?.postMessage({
+            type: 'agripedia-tool-state',
+            lang: currentLang,
+            theme: currentTheme
+        }, window.location.origin);
+        frame.addEventListener('load', sendState);
+        sendState();
+    });
+}
+
+function syncInteractiveTools() {
+    document.querySelectorAll('iframe[data-interactive-tool]').forEach(frame => {
+        frame.contentWindow?.postMessage({
+            type: 'agripedia-tool-state',
+            lang: currentLang,
+            theme: currentTheme
+        }, window.location.origin);
+    });
+}
+
+function handleInteractiveToolMessage(event) {
+    if (event.origin !== window.location.origin || event.data?.type !== 'agripedia-tool-height') return;
+    const frame = [...document.querySelectorAll('iframe[data-interactive-tool]')]
+        .find(candidate => candidate.contentWindow === event.source);
+    if (!frame) return;
+    const height = Math.min(40000, Math.max(720, Number(event.data.height) || 0));
+    frame.style.height = `${height}px`;
 }
 
 function normalizeDocReferences(items) {
