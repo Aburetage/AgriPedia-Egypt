@@ -1,16 +1,17 @@
-const CACHE_NAME = 'agripedia-v33';
+const CACHE_NAME = 'agripedia-v38';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
-  './css/style.css?v=26',
-  './js/app.js?v=27',
+  './css/style.css?v=27',
+  './js/app.js?v=32',
   './manifest.json',
   './data/ar/index.json',
   './data/ar/glossary.json',
   './data/ar/tuta.json',
   './data/en/index.json',
   './data/en/glossary.json',
-  './data/en/tuta.json'
+  './data/en/tuta.json',
+  './tools/integrated-thermal-model.html'
 ];
 
 self.addEventListener('install', (event) => {
