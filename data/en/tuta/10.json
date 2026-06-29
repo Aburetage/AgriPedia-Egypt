@@ -1,0 +1,11 @@
+{
+  "tab_title": "Integrated Thermal Model",
+  "content_blocks": [
+    {
+      "type": "interactive-tool",
+      "title": "Integrated Thermal Model for Predicting Development and Reproduction of Tuta absoluta",
+      "search_text": "Temperature, degree days, egg larval and pupal development, female fecundity, generation time, population growth, early warning, scouting and intervention timing within integrated pest management.",
+      "src": "tools/integrated-thermal-model.html"
+    }
+  ]
+}
