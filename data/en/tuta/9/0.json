@@ -1,0 +1,2044 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 0,
+  "part_title": "Part One: Introduction, Foundations, and General Principles of Integrated Pest Management",
+  "part_short_title": "Introduction, Foundations, and General Principles of Integrated Pest Management",
+  "part_subtitle": "Integrated Pest Management of Tuta absoluta",
+  "content_path": "tuta/9/0.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is a pest that is difficult to manage using a single control method because of its biological and behavioral characteristics and its high capacity for reproduction, dispersal, and concealment within plant tissues.",
+          "prepared_text": "[[prepared]]Tuta absoluta is a pest that is difficult to manage using a single control method because of its biological and behavioral characteristics and its high capacity for reproduction, dispersal, and concealment within plant tissues."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest possesses several characteristics that increase the difficulty of control, most importantly:",
+          "prepared_text": "[[prepared]]The pest possesses several characteristics that increase the difficulty of control, most importantly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High fecundity, which may reach approximately 260 eggs per female and may approach 300 eggs under favorable conditions.",
+            "Short generation time under warm conditions.",
+            "Production of numerous overlapping generations during the year.",
+            "Simultaneous presence of eggs, larvae, pupae, and adult moths in the field.",
+            "Larval feeding within mines in leaves, stems, and fruits.",
+            "Difficulty of surface-applied insecticides reaching larvae after they enter plant tissues.",
+            "Ability of advanced larvae to leave mines and move to other plant organs or plants.",
+            "Pupation of a proportion of larvae in soil or plant residues.",
+            "Persistence of the pest on volunteer tomato plants, black nightshade, and other solanaceous hosts.",
+            "Movement of moths from old and neglected fields into newly planted crops.",
+            "Rapid development of resistance when insecticides with the same mode of action are repeatedly used."
+          ],
+          "prepared_items": [
+            "[[prepared]]High fecundity, which may reach approximately 260 eggs per female and may approach 300 eggs under favorable conditions.",
+            "[[prepared]]Short generation time under warm conditions.",
+            "[[prepared]]Production of numerous overlapping generations during the year.",
+            "[[prepared]]Simultaneous presence of eggs, larvae, [[term:pupation]]pupae[[/term]], and adult moths in the field.",
+            "[[prepared]]Larval feeding within [[term:mines]]mines[[/term]] in leaves, stems, and fruits.",
+            "[[prepared]]Difficulty of surface-applied insecticides reaching larvae after they enter plant tissues.",
+            "[[prepared]]Ability of advanced larvae to leave mines and move to other plant organs or plants.",
+            "[[prepared]]Pupation of a proportion of larvae in soil or plant residues.",
+            "[[prepared]]Persistence of the pest on volunteer tomato plants, black nightshade, and other [[term:solanaceae]]solanaceous hosts[[/term]].",
+            "[[prepared]]Movement of moths from old and neglected fields into newly planted crops.",
+            "[[prepared]]Rapid development of resistance when insecticides with the same [[term:mode-of-action]]mode of action[[/term]] are repeatedly used."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These characteristics make complete eradication of Tuta absoluta within an open agricultural area an unrealistic objective in most situations. Integrated pest management therefore does not aim to eliminate every individual pest, but to keep pest populations and resulting damage below the level that causes unacceptable economic loss.",
+          "prepared_text": "[[prepared]]These characteristics make [[term:eradication]]complete eradication[[/term]] of Tuta absoluta within an open agricultural area an unrealistic objective in most situations. [[term:ipm]]Integrated pest management[[/term]] therefore does not aim to eliminate every individual pest, but to keep pest populations and resulting damage below the level that causes unacceptable economic loss."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sustainable management is achieved by preventing the pest from reaching high densities rather than waiting for a severe infestation to develop and then attempting to reduce it through a succession of sprays.",
+          "prepared_text": "[[prepared]]Sustainable management is achieved by preventing the pest from reaching high densities rather than waiting for a severe infestation to develop and then attempting to reduce it through a succession of sprays."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An integrated management program begins before planting, continues through all crop stages, and ends after harvest with the removal of pest carryover sources.",
+          "prepared_text": "[[prepared]]An integrated management program begins before planting, continues through all crop stages, and ends after harvest with the removal of pest carryover sources."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Why Is Chemical Control Alone Insufficient?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insecticides may rapidly reduce some stages of Tuta absoluta, but they do not reach all individuals in the pest population equally.",
+          "prepared_text": "[[prepared]]Insecticides may rapidly reduce some stages of Tuta absoluta, but they do not reach all individuals in the pest population equally."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Eggs may be less exposed to some products, larvae inside mines or fruits may be partially protected, pupae in soil or plant residues are not reached by foliar sprays, and moths may continue immigrating from neighboring fields.",
+          "prepared_text": "[[prepared]]Eggs may be less exposed to some products, larvae inside mines or fruits may be partially protected, pupae in soil or plant residues are not reached by foliar sprays, and moths may continue immigrating from neighboring fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Continuous dependence on insecticides alone leads to problems including:",
+          "prepared_text": "[[prepared]]Continuous dependence on insecticides alone leads to problems including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mortality of natural enemies.",
+            "Reinfestation after residual insecticidal activity declines.",
+            "Outbreaks of secondary pests.",
+            "Increased number of sprays.",
+            "Higher control costs.",
+            "Increased pesticide residues.",
+            "Greater risk of crop rejection.",
+            "Increased selection pressure for resistance.",
+            "Declining efficacy of products over time.",
+            "Contamination of soil, irrigation water, and the surrounding environment.",
+            "Increased risk to workers and consumers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mortality of [[term:biological-control]]natural enemies[[/term]].",
+            "[[prepared]]Reinfestation after residual insecticidal activity declines.",
+            "[[prepared]]Outbreaks of secondary pests.",
+            "[[prepared]]Increased number of sprays.",
+            "[[prepared]]Higher control costs.",
+            "[[prepared]]Increased pesticide residues.",
+            "[[prepared]]Greater risk of crop rejection.",
+            "[[prepared]]Increased selection pressure for resistance.",
+            "[[prepared]]Declining efficacy of products over time.",
+            "[[prepared]]Contamination of soil, irrigation water, and the surrounding environment.",
+            "[[prepared]]Increased risk to workers and consumers."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The presence of old mines on leaves may also lead to unnecessary spraying even though the larvae have already left or died.",
+          "prepared_text": "[[prepared]]The presence of old mines on leaves may also lead to unnecessary spraying even though the larvae have already left or died."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Chemical control is therefore one tool within an integrated pest-management program and not the entire program.",
+          "prepared_text": "[[prepared]]Chemical control is therefore one tool within an integrated pest-management program and not the entire program."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Definition of Integrated Pest Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated pest management is a scientific decision-making system based on the study of the pest, crop, and agricultural environment. It combines preventive, monitoring, cultural, mechanical, behavioral, biological, and chemical methods to reduce pest populations to an economically and environmentally acceptable level.",
+          "prepared_text": "[[prepared]]Integrated pest management is a scientific decision-making system based on the study of the pest, crop, and agricultural environment. It combines preventive, monitoring, cultural, mechanical, behavioral, biological, and chemical methods to reduce pest populations to an economically and environmentally acceptable level."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The word:",
+          "prepared_text": "[[prepared]]The word:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Integrated"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Means that different methods are not used separately or randomly, but are coordinated so that they complement one another.",
+          "prepared_text": "[[prepared]]Means that different methods are not used separately or randomly, but are coordinated so that they complement one another."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The word:",
+          "prepared_text": "[[prepared]]The word:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Pest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Means that the decision focuses on the organism causing actual economic damage rather than merely on the presence of an insect in the field.",
+          "prepared_text": "[[prepared]]Means that the decision focuses on the organism causing actual economic damage rather than merely on the presence of an insect in the field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The word:",
+          "prepared_text": "[[prepared]]The word:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Means regulating pest populations and limiting damage rather than necessarily achieving complete eradication.",
+          "prepared_text": "[[prepared]]Means regulating pest populations and limiting damage rather than necessarily achieving complete eradication."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated management of Tuta absoluta can therefore be defined as:",
+          "prepared_text": "[[prepared]]Integrated management of Tuta absoluta can therefore be defined as:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "> A dynamic system based on prevention, early detection, and quantitative assessment of infestation, followed by integration of cultural, mechanical, behavioral, biological, and selective chemical methods to keep the pest below the economic injury level while conserving natural enemies and reducing resistance, residues, and environmental risks.",
+          "prepared_text": "[[prepared]]> A dynamic system based on prevention, early detection, and quantitative assessment of infestation, followed by integration of cultural, mechanical, behavioral, biological, and selective chemical methods to keep the pest below the economic injury level while conserving natural enemies and reducing resistance, residues, and environmental risks."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "What Integrated Pest Management Does Not Mean"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated pest management does not mean:",
+          "prepared_text": "[[prepared]]Integrated pest management does not mean:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Complete elimination of insecticide use.",
+            "Merely replacing a chemical insecticide with a biological product.",
+            "Installing a pheromone trap and then neglecting plant inspection.",
+            "Mixing several different insecticides in one tank.",
+            "Applying a fixed set of treatments in every field.",
+            "Calendar-based spraying without inspecting infestation.",
+            "Reducing all insects present in the field.",
+            "Removing all weeds without understanding their role.",
+            "Introducing natural enemies only after infestation reaches outbreak level.",
+            "Considering every leaf mine an active infestation.",
+            "Depending solely on trap catches for decision-making."
+          ],
+          "prepared_items": [
+            "[[prepared]]Complete elimination of insecticide use.",
+            "[[prepared]]Merely replacing a chemical insecticide with a biological product.",
+            "[[prepared]]Installing a [[term:pheromone-trap]]pheromone trap[[/term]] and then neglecting plant inspection.",
+            "[[prepared]]Mixing several different insecticides in one tank.",
+            "[[prepared]]Applying a fixed set of treatments in every field.",
+            "[[prepared]]Calendar-based spraying without inspecting infestation.",
+            "[[prepared]]Reducing all insects present in the field.",
+            "[[prepared]]Removing all weeds without understanding their role.",
+            "[[prepared]]Introducing natural enemies only after infestation reaches outbreak level.",
+            "[[prepared]]Considering every leaf mine an [[term:infestation-status]]active infestation[[/term]].",
+            "[[prepared]]Depending solely on trap catches for decision-making."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated pest management is not a product that can be purchased. It is a decision-making system that changes according to the field, season, crop stage, and level of risk.",
+          "prepared_text": "[[prepared]]Integrated pest management is not a product that can be purchased. It is a decision-making system that changes according to the field, season, crop stage, and level of risk."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Objective of Integrated Pest Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal objective is to produce a sound and economically viable crop while keeping Tuta absoluta populations below the economic injury level and minimizing adverse effects on:",
+          "prepared_text": "[[prepared]]The principal objective is to produce a sound and economically viable crop while keeping Tuta absoluta populations below the economic injury level and minimizing adverse effects on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Human health.",
+            "Natural enemies.",
+            "Biodiversity.",
+            "Soil.",
+            "Irrigation water.",
+            "Neighboring crops.",
+            "Fruit quality.",
+            "Food safety.",
+            "Sustainability of effective insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Human health.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Biodiversity.",
+            "[[prepared]]Soil.",
+            "[[prepared]]Irrigation water.",
+            "[[prepared]]Neighboring crops.",
+            "[[prepared]]Fruit quality.",
+            "[[prepared]]Food safety.",
+            "[[prepared]]Sustainability of effective insecticides."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Program success is not measured only by the number of insects killed, but by the final economic and environmental outcome.",
+          "prepared_text": "[[prepared]]Program success is not measured only by the number of insects killed, but by the final economic and environmental outcome."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Detailed Objectives of Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated management aims to achieve the following:",
+          "prepared_text": "[[prepared]]Integrated management aims to achieve the following:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Prevent pest entry into the nursery or field as far as possible.",
+            "2. Delay the onset of infestation.",
+            "3. Detect the pest while population density is still low.",
+            "4. Prevent establishment of an early generation within the crop.",
+            "5. Reduce oviposition and hatching success.",
+            "6. Target young larvae before they penetrate deeply into plant tissues.",
+            "7. Prevent larval movement from leaves into growing points, stems, and fruits.",
+            "8. Reduce the percentage of infested fruits.",
+            "9. Prevent pest persistence in crop residues.",
+            "10. Break the green bridge between planting seasons.",
+            "11. Protect naturally occurring natural enemies.",
+            "12. Enhance the efficacy of biological control.",
+            "13. Reduce unnecessary chemical sprays.",
+            "14. Delay development of insecticide resistance.",
+            "15. Comply with preharvest intervals and maximum residue limits.",
+            "16. Reduce the cost of producing a sound metric ton of crop.",
+            "17. Increase the percentage of marketable or processable yield.",
+            "18. Prevent movement of infestation into neighboring fields.",
+            "19. Document infestation history and intervention results.",
+            "20. Develop a local program suited to the region, planting season, and production system."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Prevent pest entry into the nursery or field as far as possible.",
+            "[[prepared]]2. Delay the onset of infestation.",
+            "[[prepared]]3. Detect the pest while population density is still low.",
+            "[[prepared]]4. Prevent establishment of an early generation within the crop.",
+            "[[prepared]]5. Reduce oviposition and hatching success.",
+            "[[prepared]]6. Target young larvae before they penetrate deeply into plant tissues.",
+            "[[prepared]]7. Prevent larval movement from leaves into growing points, stems, and fruits.",
+            "[[prepared]]8. Reduce the percentage of infested fruits.",
+            "[[prepared]]9. Prevent pest persistence in crop residues.",
+            "[[prepared]]10. Break the [[term:green-bridge]]green bridge[[/term]] between planting seasons.",
+            "[[prepared]]11. Protect naturally occurring natural enemies.",
+            "[[prepared]]12. Enhance the efficacy of biological control.",
+            "[[prepared]]13. Reduce unnecessary chemical sprays.",
+            "[[prepared]]14. Delay development of [[term:resistance]]insecticide resistance[[/term]].",
+            "[[prepared]]15. Comply with preharvest intervals and [[term:pesticide-safety]]maximum residue limits[[/term]].",
+            "[[prepared]]16. Reduce the cost of producing a sound metric ton of crop.",
+            "[[prepared]]17. Increase the percentage of marketable or processable yield.",
+            "[[prepared]]18. Prevent movement of infestation into neighboring fields.",
+            "[[prepared]]19. Document infestation history and intervention results.",
+            "[[prepared]]20. Develop a local program suited to the region, planting season, and production system."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Foundations of Integrated Pest Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated pest management is based on a set of interrelated scientific foundations.",
+          "prepared_text": "[[prepared]]Integrated pest management is based on a set of interrelated scientific foundations."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Biological Foundation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The program depends on knowledge of:",
+          "prepared_text": "[[prepared]]The program depends on knowledge of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pest life cycle.",
+            "Duration of each stage.",
+            "Four larval instars.",
+            "Oviposition sites.",
+            "Timing of hatching.",
+            "Pupation sites.",
+            "Moth activity.",
+            "Alternative hosts.",
+            "Effects of temperature and humidity.",
+            "Number and overlap of generations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pest life cycle.",
+            "[[prepared]]Duration of each stage.",
+            "[[prepared]]Four [[term:larval-instar]]larval instars[[/term]].",
+            "[[prepared]]Oviposition sites.",
+            "[[prepared]]Timing of hatching.",
+            "[[prepared]]Pupation sites.",
+            "[[prepared]]Moth activity.",
+            "[[prepared]][[term:alternative-host]]Alternative hosts[[/term]].",
+            "[[prepared]]Effects of temperature and humidity.",
+            "[[prepared]]Number and overlap of generations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This knowledge determines:",
+          "prepared_text": "[[prepared]]This knowledge determines:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The stage that should be targeted.",
+            "Appropriate timing of intervention.",
+            "The most effective control method.",
+            "The expected period before appearance of the next generation."
+          ],
+          "prepared_items": [
+            "[[prepared]]The stage that should be targeted.",
+            "[[prepared]]Appropriate timing of intervention.",
+            "[[prepared]]The most effective control method.",
+            "[[prepared]]The expected period before appearance of the next generation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Targeting a young larva before it enters a fruit is more effective than attempting to kill it after it has become established inside the fruit.",
+          "prepared_text": "[[prepared]]Targeting a young larva before it enters a fruit is more effective than attempting to kill it after it has become established inside the fruit."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Ecological Foundation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta does not live separately from the agricultural environment. It interacts with:",
+          "prepared_text": "[[prepared]]Tuta absoluta does not live separately from the agricultural environment. It interacts with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tomato plants.",
+            "Alternative hosts.",
+            "Weeds.",
+            "Natural enemies.",
+            "Temperature.",
+            "Humidity.",
+            "Wind.",
+            "Irrigation and fertilization systems.",
+            "Neighboring fields.",
+            "Planting dates.",
+            "Crop husbandry operations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato plants.",
+            "[[prepared]]Alternative hosts.",
+            "[[prepared]]Weeds.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Humidity.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Irrigation and fertilization systems.",
+            "[[prepared]]Neighboring fields.",
+            "[[prepared]]Planting dates.",
+            "[[prepared]]Crop husbandry operations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A decision should therefore not be based on pest number alone, but on the condition of the entire agroecosystem.",
+          "prepared_text": "[[prepared]]A decision should therefore not be based on pest number alone, but on the condition of the entire agroecosystem."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The presence of a particular number of eggs accompanied by high activity of egg parasitoids may require a different decision than the same egg density in the absence of natural enemies.",
+          "prepared_text": "[[prepared]]The presence of a particular number of eggs accompanied by high activity of egg parasitoids may require a different decision than the same egg density in the absence of natural enemies."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Foundation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not every occurrence of the pest justifies implementation of a control treatment.",
+          "prepared_text": "[[prepared]]Not every occurrence of the pest justifies implementation of a control treatment."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision compares:",
+          "prepared_text": "[[prepared]]The decision compares:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Expected value of crop loss.",
+            "Cost of intervention.",
+            "Efficacy of intervention.",
+            "Crop value.",
+            "Crop growth stage.",
+            "Time remaining until harvest.",
+            "Proportion of fruits at risk.",
+            "Requirements of the market or processing plant."
+          ],
+          "prepared_items": [
+            "[[prepared]]Expected value of crop loss.",
+            "[[prepared]]Cost of intervention.",
+            "[[prepared]]Efficacy of intervention.",
+            "[[prepared]]Crop value.",
+            "[[prepared]]Crop growth stage.",
+            "[[prepared]]Time remaining until harvest.",
+            "[[prepared]]Proportion of fruits at risk.",
+            "[[prepared]]Requirements of the market or processing plant."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The program aims to prevent the pest from reaching the economic injury level.",
+          "prepared_text": "[[prepared]]The program aims to prevent the pest from reaching the economic injury level."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Monitoring and Information Foundation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated pest management cannot exist without regular field information.",
+          "prepared_text": "[[prepared]]Integrated pest management cannot exist without regular field information."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Information is obtained from:",
+          "prepared_text": "[[prepared]]Information is obtained from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pheromone traps.",
+            "Plant inspection.",
+            "Egg counts.",
+            "Counts of active mines.",
+            "Counts of live larvae.",
+            "Inspection of growing points.",
+            "Fruit inspection.",
+            "Recording natural enemies.",
+            "Temperature monitoring.",
+            "Inspection of old and neighboring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pheromone traps.",
+            "[[prepared]]Plant inspection.",
+            "[[prepared]]Egg counts.",
+            "[[prepared]]Counts of active mines.",
+            "[[prepared]]Counts of live larvae.",
+            "[[prepared]]Inspection of growing points.",
+            "[[prepared]]Fruit inspection.",
+            "[[prepared]]Recording natural enemies.",
+            "[[prepared]]Temperature monitoring.",
+            "[[prepared]]Inspection of old and neighboring fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Data should be:",
+          "prepared_text": "[[prepared]]Data should be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Regular.",
+            "Quantitative.",
+            "Comparable.",
+            "Linked to date and location.",
+            "Recorded in clear registers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Regular.",
+            "[[prepared]]Quantitative.",
+            "[[prepared]]Comparable.",
+            "[[prepared]]Linked to date and location.",
+            "[[prepared]]Recorded in clear registers."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Preventive Foundation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Prevention is more effective and less costly than treating a severe outbreak.",
+          "prepared_text": "[[prepared]]Prevention is more effective and less costly than treating a severe outbreak."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Preventive measures include:",
+          "prepared_text": "[[prepared]]Preventive measures include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pest-free transplants.",
+            "Nursery sanitation.",
+            "Removal of volunteer plants.",
+            "Disposal of crop residues.",
+            "Management of host weeds.",
+            "Avoiding retention of old fields after harvesting has stopped.",
+            "Breaking succession of solanaceous hosts.",
+            "Cleaning tools and containers.",
+            "Protecting greenhouses with suitable insect-proof screens.",
+            "Monitoring neighboring infestation sources."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pest-free transplants.",
+            "[[prepared]]Nursery sanitation.",
+            "[[prepared]]Removal of volunteer plants.",
+            "[[prepared]]Disposal of crop residues.",
+            "[[prepared]]Management of host weeds.",
+            "[[prepared]]Avoiding retention of old fields after harvesting has stopped.",
+            "[[prepared]]Breaking succession of solanaceous hosts.",
+            "[[prepared]]Cleaning tools and containers.",
+            "[[prepared]]Protecting greenhouses with suitable insect-proof screens.",
+            "[[prepared]]Monitoring neighboring infestation sources."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Integration of Control Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated management does not depend merely on accumulating numerous methods, but on selecting compatible methods.",
+          "prepared_text": "[[prepared]]Integrated management does not depend merely on accumulating numerous methods, but on selecting compatible methods."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A program may fail when:",
+          "prepared_text": "[[prepared]]A program may fail when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An insecticide kills the released parasitoid.",
+            "Plants supporting natural enemies are removed without justification.",
+            "Pheromone traps are used without managing old fields.",
+            "Natural enemies are released only after infestation has become extremely high.",
+            "A single insecticide is repeatedly used despite declining efficacy."
+          ],
+          "prepared_items": [
+            "[[prepared]]An insecticide kills the released parasitoid.",
+            "[[prepared]]Plants supporting natural enemies are removed without justification.",
+            "[[prepared]]Pheromone traps are used without managing old fields.",
+            "[[prepared]]Natural enemies are released only after infestation has become extremely high.",
+            "[[prepared]]A single insecticide is repeatedly used despite declining efficacy."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "True integration means that each method performs a specific function without cancelling the effect of other methods.",
+          "prepared_text": "[[prepared]]True integration means that each method performs a specific function without cancelling the effect of other methods."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Priority for Lower-Risk Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Priority is given to methods that provide acceptable pest reduction with the least possible harm, including:",
+          "prepared_text": "[[prepared]]Priority is given to methods that provide acceptable pest reduction with the least possible harm, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Preventive measures.",
+            "Agricultural sanitation.",
+            "Traps.",
+            "Removal of infestation foci.",
+            "Conservation of natural enemies.",
+            "Biological control.",
+            "Biopesticides.",
+            "Selective products."
+          ],
+          "prepared_items": [
+            "[[prepared]]Preventive measures.",
+            "[[prepared]]Agricultural sanitation.",
+            "[[prepared]]Traps.",
+            "[[prepared]]Removal of infestation foci.",
+            "[[prepared]]Conservation of natural enemies.",
+            "[[prepared]]Biological control.",
+            "[[prepared]]Biopesticides.",
+            "[[prepared]]Selective products."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Chemical insecticides are used when necessary, not merely because the pest is present.",
+          "prepared_text": "[[prepared]]Chemical insecticides are used when necessary, not merely because the pest is present."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Local Management Foundation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single fixed program is suitable for all regions.",
+          "prepared_text": "[[prepared]]No single fixed program is suitable for all regions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The program changes according to:",
+          "prepared_text": "[[prepared]]The program changes according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Open fields or greenhouses.",
+            "Winter or summer planting seasons.",
+            "Northern Egypt or southern regions.",
+            "Fresh-market or processing tomatoes.",
+            "Season length.",
+            "Level of salinity and stress.",
+            "Immigration sources.",
+            "Natural enemies present.",
+            "Insecticides registered and locally effective."
+          ],
+          "prepared_items": [
+            "[[prepared]]Open fields or greenhouses.",
+            "[[prepared]]Winter or summer planting seasons.",
+            "[[prepared]]Northern Egypt or southern regions.",
+            "[[prepared]]Fresh-market or processing tomatoes.",
+            "[[prepared]]Season length.",
+            "[[prepared]]Level of salinity and stress.",
+            "[[prepared]]Immigration sources.",
+            "[[prepared]]Natural enemies present.",
+            "[[prepared]]Insecticides registered and locally effective."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Recommendations should therefore be based on actual field conditions rather than direct copying of a program from another region.",
+          "prepared_text": "[[prepared]]Recommendations should therefore be based on actual field conditions rather than direct copying of a program from another region."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Continuous Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A treatment does not end when it is applied.",
+          "prepared_text": "[[prepared]]A treatment does not end when it is applied."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The field must be inspected afterward to determine:",
+          "prepared_text": "[[prepared]]The field must be inspected afterward to determine:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduction in eggs.",
+            "Reduction in live larvae.",
+            "Cessation of new-mine appearance.",
+            "Continued infestation of growing points or fruits.",
+            "Effect of the treatment on natural enemies.",
+            "Need for additional intervention.",
+            "Possibility of resistance or poor spray coverage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduction in eggs.",
+            "[[prepared]]Reduction in live larvae.",
+            "[[prepared]]Cessation of new-mine appearance.",
+            "[[prepared]]Continued infestation of growing points or fruits.",
+            "[[prepared]]Effect of the treatment on natural enemies.",
+            "[[prepared]]Need for additional intervention.",
+            "[[prepared]]Possibility of resistance or poor spray coverage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Evaluation is used to modify subsequent management decisions.",
+          "prepared_text": "[[prepared]]Evaluation is used to modify subsequent management decisions."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Principles of Integrated Pest Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated pest management is based on eight sequential general principles.",
+          "prepared_text": "[[prepared]]Integrated pest management is based on eight sequential general principles."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Principle One: Prevention and Suppression of Pest Increase"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Management begins before damage appears.",
+          "prepared_text": "[[prepared]]Management begins before damage appears."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Preventive measures include:",
+          "prepared_text": "[[prepared]]Preventive measures include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crop rotation.",
+            "Selection of planting date.",
+            "Use of healthy transplants.",
+            "Agricultural sanitation.",
+            "Removal of confirmed alternative hosts.",
+            "Residue management.",
+            "Balanced fertilization and irrigation.",
+            "Conservation of natural enemies.",
+            "Prevention of pest movement among fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crop rotation.",
+            "[[prepared]]Selection of planting date.",
+            "[[prepared]]Use of healthy transplants.",
+            "[[prepared]]Agricultural sanitation.",
+            "[[prepared]]Removal of confirmed alternative hosts.",
+            "[[prepared]]Residue management.",
+            "[[prepared]]Balanced fertilization and irrigation.",
+            "[[prepared]]Conservation of natural enemies.",
+            "[[prepared]]Prevention of pest movement among fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The objective is to make the agricultural environment less favorable for pest establishment and multiplication.",
+          "prepared_text": "[[prepared]]The objective is to make the agricultural environment less favorable for [[term:establishment]]pest establishment[[/term]] and multiplication."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Principle Two: Diagnosis and Regular Monitoring"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The identity of the pest must be confirmed and distinguished from:",
+          "prepared_text": "[[prepared]]The identity of the pest must be confirmed and distinguished from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaf-mining flies.",
+            "Tomato fruitworm.",
+            "Other leaf miners.",
+            "Fungal and bacterial diseases.",
+            "Physiological disorders."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaf-mining flies.",
+            "[[prepared]]Tomato fruitworm.",
+            "[[prepared]]Other leaf miners.",
+            "[[prepared]]Fungal and bacterial diseases.",
+            "[[prepared]]Physiological disorders."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest is then monitored with suitable tools including:",
+          "prepared_text": "[[prepared]]The pest is then monitored with suitable tools including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pheromone traps.",
+            "Direct inspection.",
+            "Plant samples.",
+            "Temperature records.",
+            "Warning and forecasting systems."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pheromone traps.",
+            "[[prepared]]Direct inspection.",
+            "[[prepared]]Plant samples.",
+            "[[prepared]]Temperature records.",
+            "[[prepared]]Warning and forecasting systems."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Decisions should not be based on a single observation or general impression.",
+          "prepared_text": "[[prepared]]Decisions should not be based on a single observation or general impression."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Principle Three: Threshold-Based Decision-Making"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Control methods should not be used merely because the pest is present.",
+          "prepared_text": "[[prepared]]Control methods should not be used merely because the pest is present."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision depends on:",
+          "prepared_text": "[[prepared]]The decision depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of live larvae.",
+            "Percentage of active mines.",
+            "Trend in trap catches.",
+            "Percentage of infested growing points.",
+            "Percentage of infested fruits.",
+            "Crop stage.",
+            "Activity of natural enemies.",
+            "Crop value.",
+            "Treatment cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of live larvae.",
+            "[[prepared]]Percentage of active mines.",
+            "[[prepared]]Trend in trap catches.",
+            "[[prepared]]Percentage of infested growing points.",
+            "[[prepared]]Percentage of infested fruits.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Activity of natural enemies.",
+            "[[prepared]]Crop value.",
+            "[[prepared]]Treatment cost."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Local thresholds should be used when available. A threshold from another country or production system should not be transferred without evaluation.",
+          "prepared_text": "[[prepared]]Local thresholds should be used when available. A threshold from another country or production system should not be transferred without evaluation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Principle Four: Preference for Non-Chemical Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural, mechanical, behavioral, and biological methods are given priority when they provide sufficient control.",
+          "prepared_text": "[[prepared]]Cultural, mechanical, behavioral, and biological methods are given priority when they provide sufficient control."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Agricultural sanitation.",
+            "Traps.",
+            "Mating disruption.",
+            "Mass trapping.",
+            "Removal of infestation foci.",
+            "Egg parasitoids.",
+            "Predators.",
+            "Entomopathogenic microorganisms.",
+            "Biopesticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Agricultural sanitation.",
+            "[[prepared]]Traps.",
+            "[[prepared]]Mating disruption.",
+            "[[prepared]]Mass trapping.",
+            "[[prepared]]Removal of infestation foci.",
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Entomopathogenic microorganisms.",
+            "[[prepared]]Biopesticides."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not mean rejecting chemical insecticides, but using them when lower-risk methods are insufficient.",
+          "prepared_text": "[[prepared]]This does not mean rejecting chemical insecticides, but using them when lower-risk methods are insufficient."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Principle Five: Selection of the Most Selective Method"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When insecticides are used, the selected product should:",
+          "prepared_text": "[[prepared]]When insecticides are used, the selected product should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Target the pest stage present.",
+            "Have demonstrated local efficacy.",
+            "Be registered for the crop and pest.",
+            "Cause less harm to natural enemies.",
+            "Have a suitable preharvest interval.",
+            "Pose minimal risk to pollinators and non-target organisms.",
+            "Be compatible with other program components."
+          ],
+          "prepared_items": [
+            "[[prepared]]Target the pest stage present.",
+            "[[prepared]]Have demonstrated local efficacy.",
+            "[[prepared]]Be registered for the crop and pest.",
+            "[[prepared]]Cause less harm to natural enemies.",
+            "[[prepared]]Have a suitable preharvest interval.",
+            "[[prepared]]Pose minimal risk to pollinators and non-target organisms.",
+            "[[prepared]]Be compatible with other program components."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selection should be based not only on the trade name, but on the active ingredient and mode of action.",
+          "prepared_text": "[[prepared]]Selection should be based not only on the trade name, but on the [[term:active-ingredient]]active ingredient[[/term]] and mode of action."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Principle Six: Use of the Minimum Necessary Level of Intervention"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reducing pesticide use does not mean applying randomly reduced rates below the registered rate because an inadequate dose may fail and increase resistance risk.",
+          "prepared_text": "[[prepared]]Reducing pesticide use does not mean applying randomly reduced rates below the registered rate because an inadequate dose may fail and increase resistance risk."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The minimum necessary level means:",
+          "prepared_text": "[[prepared]]The minimum necessary level means:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoiding sprays when they are unnecessary.",
+            "Reducing unnecessary treatment frequency.",
+            "Treating localized foci when appropriate.",
+            "Using the correct registered rate.",
+            "Improving spray coverage.",
+            "Selecting the most appropriate timing.",
+            "Preventing repeated treatment caused by poor application."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoiding sprays when they are unnecessary.",
+            "[[prepared]]Reducing unnecessary treatment frequency.",
+            "[[prepared]]Treating localized foci when appropriate.",
+            "[[prepared]]Using the correct registered rate.",
+            "[[prepared]]Improving spray coverage.",
+            "[[prepared]]Selecting the most appropriate timing.",
+            "[[prepared]]Preventing repeated treatment caused by poor application."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Use reduction must remain compatible with efficacy and must not increase resistance risk.",
+          "prepared_text": "[[prepared]]Use reduction must remain compatible with efficacy and must not increase resistance risk."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Principle Seven: Insecticide Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is a high-risk pest for resistance development because of:",
+          "prepared_text": "[[prepared]]Tuta absoluta is a high-risk pest for resistance development because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Short generation time.",
+            "Numerous generations.",
+            "High fecundity.",
+            "Frequent spraying.",
+            "Repeated use of the same products.",
+            "Continuous selection pressure on successive generations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Short generation time.",
+            "[[prepared]]Numerous generations.",
+            "[[prepared]]High fecundity.",
+            "[[prepared]]Frequent spraying.",
+            "[[prepared]]Repeated use of the same products.",
+            "[[prepared]]Continuous selection pressure on successive generations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance management depends on:",
+          "prepared_text": "[[prepared]]Resistance management depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Rotation of modes of action.",
+            "Avoiding reliance on trade names.",
+            "Avoiding treatment of successive generations with the same group.",
+            "Using effective products only when needed.",
+            "Integrating biological and cultural control.",
+            "Evaluating local efficacy.",
+            "Complying with registered rate and timing.",
+            "Avoiding unjustified mixtures."
+          ],
+          "prepared_items": [
+            "[[prepared]]Rotation of modes of action.",
+            "[[prepared]]Avoiding reliance on trade names.",
+            "[[prepared]]Avoiding treatment of successive generations with the same group.",
+            "[[prepared]]Using effective products only when needed.",
+            "[[prepared]]Integrating biological and cultural control.",
+            "[[prepared]]Evaluating local efficacy.",
+            "[[prepared]]Complying with registered rate and timing.",
+            "[[prepared]]Avoiding unjustified mixtures."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Changing the trade name does not mean changing the mode of action when the active ingredient or chemical group is the same.",
+          "prepared_text": "[[prepared]]Changing the trade name does not mean changing the mode of action when the active ingredient or chemical group is the same."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Principle Eight: Evaluation and Documentation of Results"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Program success must be evaluated using quantitative indicators such as:",
+          "prepared_text": "[[prepared]]Program success must be evaluated using quantitative indicators such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of new mines.",
+            "Number of live larvae.",
+            "Percentage of infested plants.",
+            "Percentage of infested growing points.",
+            "Percentage of infested fruits.",
+            "Trap catches.",
+            "Number of sprays.",
+            "Presence of natural enemies.",
+            "Marketable yield.",
+            "Control cost.",
+            "Cost of producing one sound metric ton."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of new mines.",
+            "[[prepared]]Number of live larvae.",
+            "[[prepared]]Percentage of infested plants.",
+            "[[prepared]]Percentage of infested growing points.",
+            "[[prepared]]Percentage of infested fruits.",
+            "[[prepared]]Trap catches.",
+            "[[prepared]]Number of sprays.",
+            "[[prepared]]Presence of natural enemies.",
+            "[[prepared]][[term:marketable-yield]]Marketable yield[[/term]].",
+            "[[prepared]]Control cost.",
+            "[[prepared]]Cost of producing one sound metric ton."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "All treatments and results should be recorded to allow:",
+          "prepared_text": "[[prepared]]All treatments and results should be recorded to allow:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Identification of successful methods.",
+            "Detection of reduced efficacy.",
+            "Program modification.",
+            "Monitoring of insecticide resistance.",
+            "Comparison among seasons and fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Identification of successful methods.",
+            "[[prepared]]Detection of reduced efficacy.",
+            "[[prepared]]Program modification.",
+            "[[prepared]]Monitoring of insecticide resistance.",
+            "[[prepared]]Comparison among seasons and fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Specific Principles for Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In addition to the general principles, several principles are specific to the biology of Tuta absoluta.",
+          "prepared_text": "[[prepared]]In addition to the general principles, several principles are specific to the biology of Tuta absoluta."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Prevention of Early Establishment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The earlier the pest enters the crop, the more generations it can complete within the season.",
+          "prepared_text": "[[prepared]]The earlier the pest enters the crop, the more generations it can complete within the season."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Targeting Eggs and Young Larvae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Control is more effective before larvae enter deep mines and fruits.",
+          "prepared_text": "[[prepared]]Control is more effective before larvae enter deep mines and fruits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Prevention of Fruit Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruit infestation is the point at which plant infestation becomes a direct economic loss.",
+          "prepared_text": "[[prepared]]Fruit infestation is the point at which plant infestation becomes a direct economic loss."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Management of All Stages"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The program should include methods targeting:",
+          "prepared_text": "[[prepared]]The program should include methods targeting:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Moths.",
+            "Eggs.",
+            "Larvae.",
+            "Pupae.",
+            "Sources sustaining the next generation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Moths.",
+            "[[prepared]]Eggs.",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Pupae.",
+            "[[prepared]]Sources sustaining the next generation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Management of Immigration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Control may succeed within the field and then infestation may recur because moths move from:",
+          "prepared_text": "[[prepared]]Control may succeed within the field and then infestation may recur because moths move from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An old field.",
+            "Crop residues.",
+            "A crop in which spraying has stopped.",
+            "Volunteer tomato plants.",
+            "Solanaceous weeds."
+          ],
+          "prepared_items": [
+            "[[prepared]]An old field.",
+            "[[prepared]]Crop residues.",
+            "[[prepared]]A crop in which spraying has stopped.",
+            "[[prepared]]Volunteer tomato plants.",
+            "[[prepared]]Solanaceous weeds."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Distinguishing Old Damage from Active Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Treatments should not be based on dry old mines, but on eggs, live larvae, and new mines.",
+          "prepared_text": "[[prepared]]Treatments should not be based on dry old mines, but on eggs, live larvae, and new mines."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Linking Traps with Plant Inspection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Traps alone are insufficient because they primarily monitor males and do not directly measure larval numbers or fruit infestation.",
+          "prepared_text": "[[prepared]]Traps alone are insufficient because they primarily monitor males and do not directly measure larval numbers or fruit infestation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Area-Wide Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Management is more successful when neighboring farms cooperate in:",
+          "prepared_text": "[[prepared]]Management is more successful when neighboring farms cooperate in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Removing crop residues.",
+            "Managing old crops.",
+            "Sharing trap data.",
+            "Coordinating insecticide-resistance management.",
+            "Preventing immigration sources."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removing crop residues.",
+            "[[prepared]]Managing old crops.",
+            "[[prepared]]Sharing trap data.",
+            "[[prepared]]Coordinating insecticide-resistance management.",
+            "[[prepared]]Preventing immigration sources."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Hierarchy of Decision-Making"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated pest management follows this sequence:",
+          "prepared_text": "[[prepared]]Integrated pest management follows this sequence:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level One: Prevention"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Prevent pest entry or reduce opportunities for establishment.",
+          "prepared_text": "[[prepared]]Prevent pest entry or reduce opportunities for establishment."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Two: Monitoring"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Detect eggs, moths, and recent mines early.",
+          "prepared_text": "[[prepared]]Detect eggs, moths, and recent mines early."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Three: Assessment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Determine infestation density, dominant stage, and population trend.",
+          "prepared_text": "[[prepared]]Determine infestation density, dominant stage, and population trend."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Four: Decision"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Determine whether intervention is required and select the appropriate intervention.",
+          "prepared_text": "[[prepared]]Determine whether intervention is required and select the appropriate intervention."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Five: Non-Chemical Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Apply cultural, behavioral, mechanical, and biological measures.",
+          "prepared_text": "[[prepared]]Apply cultural, behavioral, mechanical, and biological measures."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Six: Selective Chemical Intervention"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Use when necessary, with correct selection of active ingredient, timing, and mode of action.",
+          "prepared_text": "[[prepared]]Use when necessary, with correct selection of active ingredient, timing, and mode of action."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Seven: Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Measure the result after intervention.",
+          "prepared_text": "[[prepared]]Measure the result after intervention."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Eight: Modification"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Modify the program according to monitoring and evaluation results.",
+          "prepared_text": "[[prepared]]Modify the program according to monitoring and evaluation results."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Components of the Integrated Pest-Management Program"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Chapter Ten is divided into the following detailed sections, each of which is explained separately.",
+          "prepared_text": "[[prepared]]Chapter Ten is divided into the following detailed sections, each of which is explained separately."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section One: Prevention and Exclusion"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Selection of planting site.",
+            "Inspection of surrounding infestation sources.",
+            "Host-free period.",
+            "Crop rotation.",
+            "Coordination among planting seasons.",
+            "General sanitation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Selection of planting site.",
+            "[[prepared]]Inspection of surrounding infestation sources.",
+            "[[prepared]]Host-free period.",
+            "[[prepared]]Crop rotation.",
+            "[[prepared]]Coordination among planting seasons.",
+            "[[prepared]]General sanitation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Two: Nursery and Transplant Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Production of pest-free transplants.",
+            "Transplant inspection.",
+            "Traps inside the nursery.",
+            "Screens and barriers.",
+            "Handling of infested transplants.",
+            "Prevention of egg and larval movement into the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Production of pest-free transplants.",
+            "[[prepared]]Transplant inspection.",
+            "[[prepared]]Traps inside the nursery.",
+            "[[prepared]]Screens and barriers.",
+            "[[prepared]]Handling of infested transplants.",
+            "[[prepared]]Prevention of egg and larval movement into the field."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Three: Monitoring, Early Detection, and Warning"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pheromone traps.",
+            "Number and distribution of traps.",
+            "Trap height.",
+            "Maintenance of traps and lures.",
+            "Plant inspection.",
+            "Division of the field into inspection points.",
+            "Monitoring eggs, larvae, and fruits.",
+            "Interpretation of results.",
+            "Weekly monitoring records."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pheromone traps.",
+            "[[prepared]]Number and distribution of traps.",
+            "[[prepared]]Trap height.",
+            "[[prepared]]Maintenance of traps and lures.",
+            "[[prepared]]Plant inspection.",
+            "[[prepared]]Division of the field into inspection points.",
+            "[[prepared]]Monitoring eggs, larvae, and fruits.",
+            "[[prepared]]Interpretation of results.",
+            "[[prepared]]Weekly monitoring records."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Four: Economic Thresholds and Decision-Making"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Economic injury level.",
+            "Economic threshold.",
+            "Threshold differences according to market.",
+            "Integration of trap data and plant inspection.",
+            "Timing of intervention.",
+            "Classification of risk levels."
+          ],
+          "prepared_items": [
+            "[[prepared]]Economic injury level.",
+            "[[prepared]][[term:economic-threshold]]Economic threshold[[/term]].",
+            "[[prepared]]Threshold differences according to market.",
+            "[[prepared]]Integration of trap data and plant inspection.",
+            "[[prepared]]Timing of intervention.",
+            "[[prepared]]Classification of risk levels."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Five: Cultural Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crop rotation.",
+            "Planting dates.",
+            "Residue removal.",
+            "Tillage.",
+            "Management of weeds and alternative hosts.",
+            "Balanced fertilization.",
+            "Irrigation management.",
+            "Prevention of excessive vegetative growth.",
+            "Management of old fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crop rotation.",
+            "[[prepared]]Planting dates.",
+            "[[prepared]]Residue removal.",
+            "[[prepared]]Tillage.",
+            "[[prepared]]Management of weeds and alternative hosts.",
+            "[[prepared]]Balanced fertilization.",
+            "[[prepared]]Irrigation management.",
+            "[[prepared]]Prevention of excessive vegetative growth.",
+            "[[prepared]]Management of old fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Six: Mechanical and Physical Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Removal of infested leaves and growing points.",
+            "Collection of infested fruits.",
+            "Shredding of residues.",
+            "Insect-proof screens.",
+            "Double-door systems in greenhouses.",
+            "Soil solarization.",
+            "Isolation barriers.",
+            "Management of containers and equipment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removal of infested leaves and growing points.",
+            "[[prepared]]Collection of infested fruits.",
+            "[[prepared]]Shredding of residues.",
+            "[[prepared]]Insect-proof screens.",
+            "[[prepared]]Double-door systems in greenhouses.",
+            "[[prepared]]Soil solarization.",
+            "[[prepared]]Isolation barriers.",
+            "[[prepared]]Management of containers and equipment."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Seven: Behavioral and Pheromone-Based Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pheromone traps.",
+            "Mass trapping.",
+            "Water and oil traps.",
+            "Mating disruption.",
+            "Female attractants.",
+            "Limitations of each method.",
+            "Effect of pest density on pheromone efficacy."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pheromone traps.",
+            "[[prepared]]Mass trapping.",
+            "[[prepared]]Water and oil traps.",
+            "[[prepared]]Mating disruption.",
+            "[[prepared]]Female attractants.",
+            "[[prepared]]Limitations of each method.",
+            "[[prepared]]Effect of pest density on pheromone efficacy."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Eight: Biological Control with Predators and Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg parasitoids.",
+            "Larval parasitoids.",
+            "Predators.",
+            "Release programs.",
+            "Conservation of natural enemies.",
+            "Release timing.",
+            "Indicators of biological-control success.",
+            "Compatibility of natural enemies with insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Larval parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Release programs.",
+            "[[prepared]]Conservation of natural enemies.",
+            "[[prepared]]Release timing.",
+            "[[prepared]]Indicators of biological-control success.",
+            "[[prepared]]Compatibility of natural enemies with insecticides."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Nine: Microbial and Biological Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Bacillus thuringiensis.",
+            "Entomopathogenic fungi.",
+            "Entomopathogenic nematodes.",
+            "Viruses and biological products.",
+            "Suitable application conditions.",
+            "Coverage and timing.",
+            "Compatibility of biological products with the rest of the program."
+          ],
+          "prepared_items": [
+            "[[prepared]]Bacillus thuringiensis.",
+            "[[prepared]]Entomopathogenic fungi.",
+            "[[prepared]]Entomopathogenic nematodes.",
+            "[[prepared]]Viruses and biological products.",
+            "[[prepared]]Suitable application conditions.",
+            "[[prepared]]Coverage and timing.",
+            "[[prepared]]Compatibility of biological products with the rest of the program."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Ten: Rational Chemical Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "When insecticides should be used.",
+            "Selection of the active ingredient.",
+            "Targeting the larval instar.",
+            "Spray coverage.",
+            "Spray-water volume.",
+            "Timing of application.",
+            "Preharvest interval.",
+            "Selectivity.",
+            "Avoidance of unnecessary sprays."
+          ],
+          "prepared_items": [
+            "[[prepared]]When insecticides should be used.",
+            "[[prepared]]Selection of the active ingredient.",
+            "[[prepared]]Targeting the larval instar.",
+            "[[prepared]]Spray coverage.",
+            "[[prepared]]Spray-water volume.",
+            "[[prepared]]Timing of application.",
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Selectivity.",
+            "[[prepared]]Avoidance of unnecessary sprays."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Eleven: Insecticide Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Causes of resistance development.",
+            "Mode-of-action groups.",
+            "Window strategy.",
+            "Rotation of groups.",
+            "Cross-resistance.",
+            "Evaluation of reduced efficacy.",
+            "Mixing and repetition errors.",
+            "Development of a seasonal resistance-management program."
+          ],
+          "prepared_items": [
+            "[[prepared]]Causes of resistance development.",
+            "[[prepared]]Mode-of-action groups.",
+            "[[prepared]]Window strategy.",
+            "[[prepared]]Rotation of groups.",
+            "[[prepared]]Cross-resistance.",
+            "[[prepared]]Evaluation of reduced efficacy.",
+            "[[prepared]]Mixing and repetition errors.",
+            "[[prepared]]Development of a seasonal resistance-management program."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Twelve: Compatibility Among Control Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Compatibility of insecticides with egg parasitoids.",
+            "Compatibility of insecticides with predators.",
+            "Effects of insecticides on beneficial fungi and bacteria.",
+            "Safety intervals before and after natural-enemy release.",
+            "Selection of selective products.",
+            "Sequence of interventions within the program."
+          ],
+          "prepared_items": [
+            "[[prepared]]Compatibility of insecticides with egg parasitoids.",
+            "[[prepared]]Compatibility of insecticides with predators.",
+            "[[prepared]]Effects of insecticides on beneficial fungi and bacteria.",
+            "[[prepared]]Safety intervals before and after natural-enemy release.",
+            "[[prepared]]Selection of selective products.",
+            "[[prepared]]Sequence of interventions within the program."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Thirteen: Area-Wide Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Neighboring fields.",
+            "Old fields.",
+            "Nurseries.",
+            "Crop residues.",
+            "Coordination of planting seasons.",
+            "Sharing trap results.",
+            "Prevention of mass immigration.",
+            "Cooperation among growers and companies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Neighboring fields.",
+            "[[prepared]]Old fields.",
+            "[[prepared]]Nurseries.",
+            "[[prepared]]Crop residues.",
+            "[[prepared]]Coordination of planting seasons.",
+            "[[prepared]]Sharing trap results.",
+            "[[prepared]]Prevention of mass immigration.",
+            "[[prepared]]Cooperation among growers and companies."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Fourteen: Integrated Program During the Season"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Preplanting.",
+            "Nursery stage.",
+            "Transplanting.",
+            "Vegetative growth.",
+            "Flowering and fruit set.",
+            "Fruit filling.",
+            "Preharvest.",
+            "Harvest.",
+            "Postharvest."
+          ],
+          "prepared_items": [
+            "[[prepared]]Preplanting.",
+            "[[prepared]]Nursery stage.",
+            "[[prepared]]Transplanting.",
+            "[[prepared]]Vegetative growth.",
+            "[[prepared]]Flowering and fruit set.",
+            "[[prepared]]Fruit filling.",
+            "[[prepared]]Preharvest.",
+            "[[prepared]]Harvest.",
+            "[[prepared]]Postharvest."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Fifteen: Evaluation of Economic and Environmental Efficiency"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage reduction in infestation.",
+            "Percentage reduction in infested fruits.",
+            "Number of sprays avoided.",
+            "Program cost.",
+            "Economic return.",
+            "Marketable yield.",
+            "Effect of the program on natural enemies.",
+            "Effect on residues and resistance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage reduction in infestation.",
+            "[[prepared]]Percentage reduction in infested fruits.",
+            "[[prepared]]Number of sprays avoided.",
+            "[[prepared]]Program cost.",
+            "[[prepared]]Economic return.",
+            "[[prepared]]Marketable yield.",
+            "[[prepared]]Effect of the program on natural enemies.",
+            "[[prepared]]Effect on residues and resistance."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Section Sixteen: Records and Practical Forms"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap record.",
+            "Plant-inspection record.",
+            "Natural-enemy record.",
+            "Insecticide record.",
+            "Mode-of-action record.",
+            "Fruit-infestation record.",
+            "Treatment-evaluation form.",
+            "Weekly decision form."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap record.",
+            "[[prepared]]Plant-inspection record.",
+            "[[prepared]]Natural-enemy record.",
+            "[[prepared]]Insecticide record.",
+            "[[prepared]]Mode-of-action record.",
+            "[[prepared]]Fruit-infestation record.",
+            "[[prepared]]Treatment-evaluation form.",
+            "[[prepared]]Weekly decision form."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Success of an Integrated Pest-Management Program"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A program is considered successful when it achieves a set of outcomes, not merely temporary larval mortality.",
+          "prepared_text": "[[prepared]]A program is considered successful when it achieves a set of outcomes, not merely temporary larval mortality."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Success indicators include:",
+          "prepared_text": "[[prepared]]Success indicators include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Delayed appearance of infestation.",
+            "Reduction in eggs and active mines.",
+            "Reduction in numbers of live larvae.",
+            "Reduced growing-point infestation.",
+            "Reduced percentage of infested fruits.",
+            "Reduced movement of infestation from leaves into fruits.",
+            "Conservation of natural enemies.",
+            "Reduction in broad-spectrum sprays.",
+            "Avoidance of repeated use of the same mode-of-action groups.",
+            "Reduced control cost per metric ton.",
+            "Increased sound yield.",
+            "Compliance with residue limits.",
+            "Absence of repeated insecticide failure.",
+            "Prevention of the field becoming an infestation source for neighboring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Delayed appearance of infestation.",
+            "[[prepared]]Reduction in eggs and active mines.",
+            "[[prepared]]Reduction in numbers of live larvae.",
+            "[[prepared]]Reduced growing-point infestation.",
+            "[[prepared]]Reduced percentage of infested fruits.",
+            "[[prepared]]Reduced movement of infestation from leaves into fruits.",
+            "[[prepared]]Conservation of natural enemies.",
+            "[[prepared]]Reduction in broad-spectrum sprays.",
+            "[[prepared]]Avoidance of repeated use of the same mode-of-action groups.",
+            "[[prepared]]Reduced control cost per metric ton.",
+            "[[prepared]]Increased sound yield.",
+            "[[prepared]]Compliance with residue limits.",
+            "[[prepared]]Absence of repeated insecticide failure.",
+            "[[prepared]]Prevention of the field becoming an infestation source for neighboring fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Summary of the Foundational Part"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated management of Tuta absoluta is not a spray program, a single biological-control method, or a fixed set of treatments. It is an integrated decision-making system.",
+          "prepared_text": "[[prepared]]Integrated management of Tuta absoluta is not a spray program, a single biological-control method, or a fixed set of treatments. It is an integrated decision-making system."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is based on:",
+          "prepared_text": "[[prepared]]It is based on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Understanding pest biology.",
+            "Studying the agroecosystem.",
+            "Prevention.",
+            "Regular monitoring.",
+            "Use of thresholds.",
+            "Preference for non-chemical methods.",
+            "Use of selective products when necessary.",
+            "Resistance management.",
+            "Evaluation of results.",
+            "Continuous modification of the program."
+          ],
+          "prepared_items": [
+            "[[prepared]]Understanding pest biology.",
+            "[[prepared]]Studying the agroecosystem.",
+            "[[prepared]]Prevention.",
+            "[[prepared]]Regular monitoring.",
+            "[[prepared]]Use of thresholds.",
+            "[[prepared]]Preference for non-chemical methods.",
+            "[[prepared]]Use of selective products when necessary.",
+            "[[prepared]]Resistance management.",
+            "[[prepared]]Evaluation of results.",
+            "[[prepared]]Continuous modification of the program."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The program begins before the pest enters the field and continues until crop residues are removed after harvest.",
+          "prepared_text": "[[prepared]]The program begins before the pest enters the field and continues until crop residues are removed after harvest."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Preventing early establishment, targeting eggs and young larvae, conserving natural enemies, preventing fruit infestation, and managing immigration sources and resistance are the principal foundations of successful integrated management of Tuta absoluta.",
+          "prepared_text": "[[prepared]]Preventing early establishment, targeting eggs and young larvae, conserving natural enemies, preventing fruit infestation, and managing immigration sources and resistance are the principal foundations of successful integrated management of Tuta absoluta."
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 0,
+        "part_title": "Part One: Introduction, Foundations, and General Principles of Integrated Pest Management",
+        "part_subtitle": "Integrated Pest Management of Tuta absoluta"
+      }
+    }
+  ]
+}
