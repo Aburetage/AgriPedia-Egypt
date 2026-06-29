@@ -1,0 +1,3879 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 12,
+  "part_title": "Section Twelve: Compatibility Among Integrated Pest Management Components",
+  "part_short_title": "Compatibility Among Integrated Pest Management Components",
+  "part_subtitle": "Compatibility Among Integrated Pest Management Components",
+  "content_path": "tuta/9/12.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Successful integrated management of Tuta absoluta is not achieved by combining the greatest possible number of control methods in one program. It depends on selecting compatible methods that act in an integrated manner against different pest stages.",
+          "prepared_text": "[[prepared]]Successful integrated management of Tuta absoluta is not achieved by combining the greatest possible number of control methods in one program. It depends on selecting compatible methods that act in an integrated manner against different pest stages."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A program may fail despite the use of individually effective tools when conflicts occur among them, such as:",
+          "prepared_text": "[[prepared]]A program may fail despite the use of individually effective tools when conflicts occur among them, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Applying a highly toxic insecticide after releasing egg parasitoids.",
+            "Using a fungicide at the same time as an entomopathogenic fungus.",
+            "Removing leaves carrying parasitized eggs.",
+            "Mixing nematodes in a highly saline solution or one containing disinfectants.",
+            "Using two predators that engage in intraguild predation.",
+            "Applying a long-residual insecticide before releasing a sensitive natural enemy.",
+            "Combining two agents targeting the same stage when one kills the other."
+          ],
+          "prepared_items": [
+            "[[prepared]]Applying a highly toxic insecticide after releasing [[term:biological-control]]egg parasitoids[[/term]].",
+            "[[prepared]]Using a fungicide at the same time as an entomopathogenic fungus.",
+            "[[prepared]]Removing leaves carrying parasitized eggs.",
+            "[[prepared]]Mixing nematodes in a highly saline solution or one containing disinfectants.",
+            "[[prepared]]Using two predators that engage in intraguild predation.",
+            "[[prepared]]Applying a long-residual insecticide before releasing a sensitive natural enemy.",
+            "[[prepared]]Combining two agents targeting the same stage when one kills the other."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conversely, proper integration may:",
+          "prepared_text": "[[prepared]]Conversely, proper integration may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Target several stages of the pest life cycle.",
+            "Increase total mortality.",
+            "Reduce the number of chemical sprays.",
+            "Reduce resistance-selection pressure.",
+            "Improve fruit protection.",
+            "Increase program stability throughout the season.",
+            "Reduce the likelihood of pest resurgence after treatment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Target several stages of the pest life cycle.",
+            "[[prepared]]Increase total mortality.",
+            "[[prepared]]Reduce the number of chemical sprays.",
+            "[[prepared]]Reduce resistance-selection pressure.",
+            "[[prepared]]Improve fruit protection.",
+            "[[prepared]]Increase program stability throughout the season.",
+            "[[prepared]]Reduce the likelihood of pest resurgence after treatment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compatibility testing is therefore part of program design, not a secondary step reviewed only after failure occurs.",
+          "prepared_text": "[[prepared]]Compatibility testing is therefore part of program design, not a secondary step reviewed only after failure occurs."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Definition of Compatibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compatibility is the ability of two or more control methods to operate within the same system without causing an unacceptable negative effect on:",
+          "prepared_text": "[[prepared]]Compatibility is the ability of two or more control methods to operate within the same system without causing an unacceptable negative effect on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Survival of the biological-control agent.",
+            "Its fecundity.",
+            "Its searching behaviour.",
+            "Its predation or parasitism rate.",
+            "Viability of a microbial organism.",
+            "Insecticide efficacy.",
+            "Plant safety.",
+            "Yield.",
+            "Non-target organisms."
+          ],
+          "prepared_items": [
+            "[[prepared]]Survival of the biological-control agent.",
+            "[[prepared]]Its fecundity.",
+            "[[prepared]]Its searching behaviour.",
+            "[[prepared]]Its predation or parasitism rate.",
+            "[[prepared]]Viability of a microbial organism.",
+            "[[prepared]]Insecticide efficacy.",
+            "[[prepared]]Plant safety.",
+            "[[prepared]]Yield.",
+            "[[prepared]]Non-target organisms."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compatibility does not necessarily mean complete absence of any negative effect.",
+          "prepared_text": "[[prepared]]Compatibility does not necessarily mean complete absence of any negative effect."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One method may cause a limited reduction in natural-enemy survival while the overall program remains economically and environmentally beneficial.",
+          "prepared_text": "[[prepared]]One method may cause a limited reduction in natural-enemy survival while the overall program remains economically and environmentally beneficial."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The final outcome should be evaluated at the level of:",
+          "prepared_text": "[[prepared]]The final outcome should be evaluated at the level of:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Pest + natural enemy + plant + yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And not on the basis of one factor alone.",
+          "prepared_text": "[[prepared]]And not on the basis of one factor alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Types of Compatibility"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Toxicological Compatibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This concerns whether an insecticide or product causes an unacceptable level of mortality in:",
+          "prepared_text": "[[prepared]]This concerns whether an insecticide or product causes an unacceptable level of mortality in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Parasitoids.",
+            "Predators.",
+            "Entomopathogenic fungi.",
+            "Nematodes.",
+            "Other beneficial organisms."
+          ],
+          "prepared_items": [
+            "[[prepared]]Parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Entomopathogenic fungi.",
+            "[[prepared]]Nematodes.",
+            "[[prepared]]Other beneficial organisms."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Behavioural Compatibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This means not disrupting:",
+          "prepared_text": "[[prepared]]This means not disrupting:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Host searching.",
+            "Recognition of eggs or larvae.",
+            "Feeding.",
+            "Mating.",
+            "Dispersal within the crop.",
+            "Responses to odours and pheromones."
+          ],
+          "prepared_items": [
+            "[[prepared]]Host searching.",
+            "[[prepared]]Recognition of eggs or larvae.",
+            "[[prepared]]Feeding.",
+            "[[prepared]]Mating.",
+            "[[prepared]]Dispersal within the crop.",
+            "[[prepared]]Responses to odours and [[term:pheromone-trap]]pheromones[[/term]]."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A natural enemy may survive exposure but become less able to detect the pest.",
+          "prepared_text": "[[prepared]]A natural enemy may survive exposure but become less able to detect the pest."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Physiological Compatibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This concerns avoiding unacceptable effects on:",
+          "prepared_text": "[[prepared]]This concerns avoiding unacceptable effects on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fecundity.",
+            "Hatching percentage.",
+            "Development of immature stages.",
+            "Longevity.",
+            "Female ratio.",
+            "Successful parasitoid emergence.",
+            "Spore growth or nematode viability."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fecundity.",
+            "[[prepared]]Hatching percentage.",
+            "[[prepared]]Development of immature stages.",
+            "[[prepared]]Longevity.",
+            "[[prepared]]Female ratio.",
+            "[[prepared]]Successful parasitoid emergence.",
+            "[[prepared]]Spore growth or nematode viability."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Physical and Chemical Compatibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This concerns whether products can be mixed without:",
+          "prepared_text": "[[prepared]]This concerns whether products can be mixed without:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Precipitation.",
+            "Clumping.",
+            "Separation.",
+            "Excessive foaming.",
+            "Severe pH change.",
+            "Killing a living organism in the tank.",
+            "Nozzle blockage.",
+            "Reduced stability of the active material."
+          ],
+          "prepared_items": [
+            "[[prepared]]Precipitation.",
+            "[[prepared]]Clumping.",
+            "[[prepared]]Separation.",
+            "[[prepared]]Excessive foaming.",
+            "[[prepared]]Severe pH change.",
+            "[[prepared]]Killing a living organism in the tank.",
+            "[[prepared]]Nozzle blockage.",
+            "[[prepared]]Reduced stability of the active material."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Temporal Compatibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Two methods may be incompatible when used simultaneously but can be used within the same season if separated in time.",
+          "prepared_text": "[[prepared]]Two methods may be incompatible when used simultaneously but can be used within the same season if separated in time."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Spatial Compatibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conflict can be reduced through:",
+          "prepared_text": "[[prepared]]Conflict can be reduced through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Applying an insecticide to a defined hotspot.",
+            "Protecting natural-enemy release areas.",
+            "Treating soil instead of foliage.",
+            "Leaving untreated areas for natural enemies.",
+            "Separating production zones or batches."
+          ],
+          "prepared_items": [
+            "[[prepared]]Applying an insecticide to a defined hotspot.",
+            "[[prepared]]Protecting natural-enemy release areas.",
+            "[[prepared]]Treating soil instead of foliage.",
+            "[[prepared]]Leaving untreated areas for natural enemies.",
+            "[[prepared]]Separating production zones or batches."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Outcomes of Interaction Between Two Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Combining two methods may produce four principal outcomes.",
+          "prepared_text": "[[prepared]]Combining two methods may produce four principal outcomes."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Additive Effect"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Additive Effect"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The combined effect is close to the expected sum of the effects of each method used alone.",
+          "prepared_text": "[[prepared]]The combined effect is close to the expected sum of the effects of each method used alone."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Example:",
+          "prepared_text": "[[prepared]]Example:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A microbial agent kills part of the larval population.",
+            "A parasitoid kills another part.",
+            "Neither strongly affects the other."
+          ],
+          "prepared_items": [
+            "[[prepared]]A microbial agent kills part of the larval population.",
+            "[[prepared]]A parasitoid kills another part.",
+            "[[prepared]]Neither strongly affects the other."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Synergistic Effect"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Synergistic Effect"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The combined effect is greater than expected from the sum of the separate effects.",
+          "prepared_text": "[[prepared]]The combined effect is greater than expected from the sum of the separate effects."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may occur when:",
+          "prepared_text": "[[prepared]]This may occur when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A microbial agent weakens host immunity.",
+            "Parasitoid attack facilitates access by another agent.",
+            "The two methods efficiently target successive stages."
+          ],
+          "prepared_items": [
+            "[[prepared]]A microbial agent weakens host immunity.",
+            "[[prepared]]Parasitoid attack facilitates access by another agent.",
+            "[[prepared]]The two methods efficiently target successive stages."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Antagonistic Effect"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Antagonistic Effect"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The combined effect is lower than expected because one method interferes with the other.",
+          "prepared_text": "[[prepared]]The combined effect is lower than expected because one method interferes with the other."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Examples include:",
+          "prepared_text": "[[prepared]]Examples include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The insecticide kills the parasitoid.",
+            "The fungus kills the host before parasitoid development is completed.",
+            "The predator consumes parasitized eggs.",
+            "A fungicide prevents germination of the entomopathogenic fungus."
+          ],
+          "prepared_items": [
+            "[[prepared]]The insecticide kills the parasitoid.",
+            "[[prepared]]The fungus kills the host before parasitoid development is completed.",
+            "[[prepared]]The predator consumes parasitized eggs.",
+            "[[prepared]]A fungicide prevents germination of the entomopathogenic fungus."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Neutral Effect"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The combination does not measurably alter the effect of either method compared with separate use.",
+          "prepared_text": "[[prepared]]The combination does not measurably alter the effect of either method compared with separate use."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Synergy should not be assumed merely because both methods reduce pest density.",
+          "prepared_text": "[[prepared]]Synergy should not be assumed merely because both methods reduce pest density."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Why Does Incompatibility Occur?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conflict occurs through one or more of the following pathways:",
+          "prepared_text": "[[prepared]]Conflict occurs through one or more of the following pathways:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Direct toxicity to the natural enemy.",
+            "2. Toxicity caused by residues.",
+            "3. Consumption of contaminated prey or host.",
+            "4. Reduced host quality after infection by another agent.",
+            "5. Killing the host before parasitoid development is completed.",
+            "6. Removal of a parasitized host.",
+            "7. Competition for the same host.",
+            "8. Intraguild predation.",
+            "9. Inhibition of fungal germination or nematode viability.",
+            "10. Alteration of searching or mating behaviour.",
+            "11. Reduced fecundity without direct mortality.",
+            "12. Differences in the timing of action of each method."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Direct toxicity to the natural enemy.",
+            "[[prepared]]2. Toxicity caused by residues.",
+            "[[prepared]]3. Consumption of contaminated prey or host.",
+            "[[prepared]]4. Reduced host quality after infection by another agent.",
+            "[[prepared]]5. Killing the host before parasitoid development is completed.",
+            "[[prepared]]6. Removal of a parasitized host.",
+            "[[prepared]]7. Competition for the same host.",
+            "[[prepared]]8. Intraguild predation.",
+            "[[prepared]]9. Inhibition of fungal germination or nematode viability.",
+            "[[prepared]]10. Alteration of searching or mating behaviour.",
+            "[[prepared]]11. Reduced fecundity without direct mortality.",
+            "[[prepared]]12. Differences in the timing of action of each method."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Levels of Compatibility Assessment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A single laboratory result is insufficient for a final judgment on compatibility between a product and a natural enemy.",
+          "prepared_text": "[[prepared]]A single laboratory result is insufficient for a final judgment on compatibility between a product and a natural enemy."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Effects should be studied at several levels.",
+          "prepared_text": "[[prepared]]Effects should be studied at several levels."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Direct Laboratory Test"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The natural enemy is directly exposed to the insecticide or treated surface.",
+          "prepared_text": "[[prepared]]The natural enemy is directly exposed to the insecticide or treated surface."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This often represents the worst-case exposure scenario.",
+          "prepared_text": "[[prepared]]This often represents the worst-case exposure scenario."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Residual Test"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The natural enemy is exposed to a leaf or surface treated with the insecticide after a defined time interval.",
+          "prepared_text": "[[prepared]]The natural enemy is exposed to a leaf or surface treated with the insecticide after a defined time interval."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This helps estimate the duration of residual hazard.",
+          "prepared_text": "[[prepared]]This helps estimate the duration of residual hazard."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Contaminated Host or Prey Test"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The parasitoid or predator is exposed to:",
+          "prepared_text": "[[prepared]]The parasitoid or predator is exposed to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Treated eggs.",
+            "Treated larvae.",
+            "Prey that has ingested the insecticide.",
+            "Contaminated nectar or honeydew."
+          ],
+          "prepared_items": [
+            "[[prepared]]Treated eggs.",
+            "[[prepared]]Treated larvae.",
+            "[[prepared]]Prey that has ingested the insecticide.",
+            "[[prepared]]Contaminated nectar or honeydew."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Semi-Field Test"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is conducted on a whole plant, inside a cage, or in a small greenhouse.",
+          "prepared_text": "[[prepared]]This is conducted on a whole plant, inside a cage, or in a small greenhouse."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Field Test"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This measures:",
+          "prepared_text": "[[prepared]]This measures:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Natural-enemy survival.",
+            "Establishment.",
+            "Parasitism or predation rate.",
+            "Actual impact on the pest.",
+            "Final effect on yield."
+          ],
+          "prepared_items": [
+            "[[prepared]]Natural-enemy survival.",
+            "[[prepared]]Establishment.",
+            "[[prepared]]Parasitism or predation rate.",
+            "[[prepared]]Actual impact on the pest.",
+            "[[prepared]]Final effect on yield."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A laboratory test may show high toxicity while field risk is lower because exposure is reduced. The opposite may occur when residues persist for a long period.",
+          "prepared_text": "[[prepared]]A laboratory test may show high toxicity while field risk is lower because exposure is reduced. The opposite may occur when residues persist for a long period."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "IOBC Classification of Pesticide Effects"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The International Organisation for Biological and Integrated Control, IOBC, developed standardized methods for assessing pesticide effects on beneficial organisms.",
+          "prepared_text": "[[prepared]]The International Organisation for Biological and Integrated Control, IOBC, developed standardized methods for assessing pesticide effects on beneficial organisms."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following categories are commonly used in laboratory tests:",
+          "prepared_text": "[[prepared]]The following categories are commonly used in laboratory tests:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "IOBC Class",
+            "Corrected Effect on the Natural Enemy",
+            "Interpretation"
+          ],
+          "rows": [
+            [
+              "1",
+              "Less than 30%",
+              "Harmless or slightly harmful"
+            ],
+            [
+              "2",
+              "30–79%",
+              "Slightly harmful"
+            ],
+            [
+              "3",
+              "80–99%",
+              "Moderately harmful"
+            ],
+            [
+              "4",
+              "More than 99%",
+              "Harmful"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]IOBC Class",
+            "[[prepared]]Corrected Effect on the Natural Enemy",
+            "[[prepared]]Interpretation"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]1",
+              "[[prepared]]Less than 30%",
+              "[[prepared]]Harmless or slightly harmful"
+            ],
+            [
+              "[[prepared]]2",
+              "[[prepared]]30–79%",
+              "[[prepared]]Slightly harmful"
+            ],
+            [
+              "[[prepared]]3",
+              "[[prepared]]80–99%",
+              "[[prepared]]Moderately harmful"
+            ],
+            [
+              "[[prepared]]4",
+              "[[prepared]]More than 99%",
+              "[[prepared]]Harmful"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "“Effect” may include more than direct mortality, such as reduced reproduction or activity.",
+          "prepared_text": "[[prepared]]“Effect” may include more than direct mortality, such as reduced reproduction or activity."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The classification from a laboratory test should not be transferred directly to the field because:",
+          "prepared_text": "[[prepared]]The classification from a laboratory test should not be transferred directly to the field because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Field exposure may be lower.",
+            "Residual effects may persist for different periods.",
+            "Tested life stages may differ.",
+            "Commercial formulation affects the outcome.",
+            "Temperature and humidity alter toxicity.",
+            "Application method changes exposure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Field exposure may be lower.",
+            "[[prepared]]Residual effects may persist for different periods.",
+            "[[prepared]]Tested life stages may differ.",
+            "[[prepared]]Commercial formulation affects the outcome.",
+            "[[prepared]]Temperature and humidity alter toxicity.",
+            "[[prepared]]Application method changes exposure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Test details should be read, not only the class number.",
+          "prepared_text": "[[prepared]]Test details should be read, not only the class number."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Acute Toxicity and Sublethal Effects"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Acute Toxicity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This causes mortality of the natural enemy within a short period after exposure.",
+          "prepared_text": "[[prepared]]This causes mortality of the natural enemy within a short period after exposure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Sublethal Effects"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These do not kill the individual directly but may cause:",
+          "prepared_text": "[[prepared]]These do not kill the individual directly but may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced fecundity.",
+            "Reduced oviposition.",
+            "Lower female ratio.",
+            "Poor flight capacity.",
+            "Reduced searching rate.",
+            "Reduced predation.",
+            "Altered mating.",
+            "Prolonged development.",
+            "Reduced longevity.",
+            "Effects on the following generation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced fecundity.",
+            "[[prepared]]Reduced oviposition.",
+            "[[prepared]]Lower female ratio.",
+            "[[prepared]]Poor flight capacity.",
+            "[[prepared]]Reduced searching rate.",
+            "[[prepared]]Reduced predation.",
+            "[[prepared]]Altered mating.",
+            "[[prepared]]Prolonged development.",
+            "[[prepared]]Reduced longevity.",
+            "[[prepared]]Effects on the following generation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An insecticide may appear compatible when mortality alone is measured while having severe population-level effects through reduced reproduction and searching.",
+          "prepared_text": "[[prepared]]An insecticide may appear compatible when mortality alone is measured while having severe population-level effects through reduced reproduction and searching."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Differences in Susceptibility Among Species and Life Stages"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No active ingredient is equally safe or harmful to all natural enemies.",
+          "prepared_text": "[[prepared]]No [[term:active-ingredient]]active ingredient[[/term]] is equally safe or harmful to all natural enemies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An insecticide may be:",
+          "prepared_text": "[[prepared]]An insecticide may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Low in toxicity to a predator.",
+            "Highly toxic to an egg parasitoid.",
+            "Less harmful to a parasitoid developing inside a host egg.",
+            "Highly harmful to a newly emerged adult.",
+            "Relatively safe to nymphs.",
+            "Harmful to adults."
+          ],
+          "prepared_items": [
+            "[[prepared]]Low in toxicity to a predator.",
+            "[[prepared]]Highly toxic to an egg parasitoid.",
+            "[[prepared]]Less harmful to a parasitoid developing inside a host egg.",
+            "[[prepared]]Highly harmful to a newly emerged adult.",
+            "[[prepared]]Relatively safe to nymphs.",
+            "[[prepared]]Harmful to adults."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Susceptibility also differs among:",
+          "prepared_text": "[[prepared]]Susceptibility also differs among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trichogramma achaeae.",
+            "Trichogramma brassicae.",
+            "Necremnus tutae.",
+            "Macrolophus pygmaeus.",
+            "Nesidiocoris tenuis.",
+            "Different strains of the same species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trichogramma achaeae.",
+            "[[prepared]]Trichogramma brassicae.",
+            "[[prepared]]Necremnus tutae.",
+            "[[prepared]]Macrolophus pygmaeus.",
+            "[[prepared]]Nesidiocoris tenuis.",
+            "[[prepared]]Different strains of the same species."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Results from one species should not be transferred to another without evidence.",
+          "prepared_text": "[[prepared]]Results from one species should not be transferred to another without evidence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Routes of Parasitoid Exposure to Insecticides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Parasitoids may be exposed through:",
+          "prepared_text": "[[prepared]]Parasitoids may be exposed through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Contact with direct spray.",
+            "2. Walking on leaf residues.",
+            "3. Contact with treated eggs or larvae.",
+            "4. Feeding on host fluids.",
+            "5. Feeding on contaminated nectar.",
+            "6. Developing inside a host exposed to the insecticide.",
+            "7. Emerging through a surface bearing residues.",
+            "8. Consuming contaminated supplementary food."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Contact with direct spray.",
+            "[[prepared]]2. Walking on leaf residues.",
+            "[[prepared]]3. Contact with treated eggs or larvae.",
+            "[[prepared]]4. Feeding on host fluids.",
+            "[[prepared]]5. Feeding on contaminated nectar.",
+            "[[prepared]]6. Developing inside a host exposed to the insecticide.",
+            "[[prepared]]7. Emerging through a surface bearing residues.",
+            "[[prepared]]8. Consuming contaminated supplementary food."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The outcome varies according to parasitoid stage and its location relative to the host body.",
+          "prepared_text": "[[prepared]]The outcome varies according to parasitoid stage and its location relative to the host body."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility of Insecticides with Trichogramma"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Minute adult Trichogramma parasitoids are highly exposed to insecticide residues on leaves.",
+          "prepared_text": "[[prepared]]Minute adult Trichogramma parasitoids are highly exposed to insecticide residues on leaves."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insecticides may affect:",
+          "prepared_text": "[[prepared]]Insecticides may affect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Female survival.",
+            "Number of eggs parasitized.",
+            "Ability to locate eggs.",
+            "Emergence of the following generation.",
+            "Female ratio.",
+            "Longevity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Female survival.",
+            "[[prepared]]Number of eggs parasitized.",
+            "[[prepared]]Ability to locate eggs.",
+            "[[prepared]]Emergence of the following generation.",
+            "[[prepared]]Female ratio.",
+            "[[prepared]]Longevity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The embryo and larva developing within the host egg receive partial protection from direct spray, but this protection is not complete because the insecticide may:",
+          "prepared_text": "[[prepared]]The embryo and larva developing within the host egg receive partial protection from direct spray, but this protection is not complete because the insecticide may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Penetrate the eggshell.",
+            "Affect the host and its resources.",
+            "Kill the parasitoid at emergence.",
+            "Remain as a residue around the exit hole."
+          ],
+          "prepared_items": [
+            "[[prepared]]Penetrate the eggshell.",
+            "[[prepared]]Affect the host and its resources.",
+            "[[prepared]]Kill the parasitoid at emergence.",
+            "[[prepared]]Remain as a residue around the exit hole."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Timing of Insecticide Application Relative to Trichogramma Cards"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When cards containing parasitized eggs are used:",
+          "prepared_text": "[[prepared]]When cards containing parasitized eggs are used:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "They should not be installed before applying an incompatible insecticide.",
+            "The duration of toxic residues should be known.",
+            "Release should be delayed until risk declines to an acceptable level.",
+            "Cards should be temporarily removed only when allowed by the product program and when this does not interfere with emergence timing.",
+            "Cards should not be sprayed directly.",
+            "They should not be placed on leaves still wet with insecticide.",
+            "Spray time and expected parasitoid-emergence time should be recorded."
+          ],
+          "prepared_items": [
+            "[[prepared]]They should not be installed before applying an incompatible insecticide.",
+            "[[prepared]]The duration of toxic residues should be known.",
+            "[[prepared]]Release should be delayed until risk declines to an acceptable level.",
+            "[[prepared]]Cards should be temporarily removed only when allowed by the product program and when this does not interfere with emergence timing.",
+            "[[prepared]]Cards should not be sprayed directly.",
+            "[[prepared]]They should not be placed on leaves still wet with insecticide.",
+            "[[prepared]]Spray time and expected parasitoid-emergence time should be recorded."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single time interval is suitable for all insecticides. The hazard from some active ingredients may persist for hours, while that from others may last for days or weeks.",
+          "prepared_text": "[[prepared]]No single time interval is suitable for all insecticides. The hazard from some active ingredients may persist for hours, while that from others may last for days or weeks."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Insecticides and Trichogramma: Variation in Results"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies show that some neuroactive insecticides can cause high mortality or substantial sublethal effects on egg parasitoids.",
+          "prepared_text": "[[prepared]]Studies show that some neuroactive insecticides can cause high mortality or substantial sublethal effects on egg parasitoids."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies on Trichogramma species used against Tuta absoluta have reported that:",
+          "prepared_text": "[[prepared]]Studies on Trichogramma species used against Tuta absoluta have reported that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spinosad may cause high acute toxicity to adults in some test systems.",
+            "Mixtures containing Emamectin benzoate and Lufenuron may affect reproduction and some life-history traits.",
+            "Diamide effects vary according to the active ingredient, species, and exposure stage.",
+            "Bt is often more compatible when used correctly because it targets larvae that ingest it."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spinosad may cause high acute toxicity to adults in some test systems.",
+            "[[prepared]]Mixtures containing Emamectin benzoate and Lufenuron may affect reproduction and some life-history traits.",
+            "[[prepared]]Diamide effects vary according to the active ingredient, species, and exposure stage.",
+            "[[prepared]]Bt is often more compatible when used correctly because it targets larvae that ingest it."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These findings should not be converted into a permanent classification for every product because formulation, concentration, life stage, and test method change the outcome.",
+          "prepared_text": "[[prepared]]These findings should not be converted into a permanent classification for every product because formulation, concentration, life stage, and test method change the outcome."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility of Insecticides with Larval Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larval parasitoids face two hazards:",
+          "prepared_text": "[[prepared]]Larval parasitoids face two hazards:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Direct insecticide effects on the parasitoid.",
+            "2. Indirect effects through host mortality or reduced host quality."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Direct insecticide effects on the parasitoid.",
+            "[[prepared]]2. Indirect effects through host mortality or reduced host quality."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The effect differs according to the parasitoid’s biology.",
+          "prepared_text": "[[prepared]]The effect differs according to the parasitoid’s biology."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Endoparasitoid"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may be partly protected inside the host body but is affected when:",
+          "prepared_text": "[[prepared]]It may be partly protected inside the host body but is affected when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The host dies rapidly.",
+            "Nutritional resources are altered.",
+            "The insecticide penetrates the host body.",
+            "Parasitoid emergence is delayed."
+          ],
+          "prepared_items": [
+            "[[prepared]]The host dies rapidly.",
+            "[[prepared]]Nutritional resources are altered.",
+            "[[prepared]]The insecticide penetrates the host body.",
+            "[[prepared]]Parasitoid emergence is delayed."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Ectoparasitoid"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is more directly exposed to residues on the host or mine surface.",
+          "prepared_text": "[[prepared]]It is more directly exposed to residues on the host or mine surface."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Host-Feeding Parasitoid"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may ingest insecticide residues while feeding on larval fluids.",
+          "prepared_text": "[[prepared]]It may ingest insecticide residues while feeding on larval fluids."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Evaluation should therefore include:",
+          "prepared_text": "[[prepared]]Evaluation should therefore include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Adult parasitoid.",
+            "Immature parasitoid stage.",
+            "Parasitized host.",
+            "Successful emergence.",
+            "Fecundity of the resulting generation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Adult parasitoid.",
+            "[[prepared]]Immature parasitoid stage.",
+            "[[prepared]]Parasitized host.",
+            "[[prepared]]Successful emergence.",
+            "[[prepared]]Fecundity of the resulting generation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Necremnus tutae and Microbial Agents"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Recent experiments have shown that combining N. tutae with some biological agents may produce an additive reduction in Tuta absoluta.",
+          "prepared_text": "[[prepared]]Recent experiments have shown that combining N. tutae with some biological agents may produce an additive reduction in Tuta absoluta."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In one test:",
+          "prepared_text": "[[prepared]]In one test:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Beauveria bassiana.",
+            "Bacillus thuringiensis."
+          ],
+          "prepared_items": [
+            "[[prepared]]Beauveria bassiana.",
+            "[[prepared]]Bacillus thuringiensis."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Were among the agents showing relatively high compatibility with N. tutae and the other parasitoid used in the study.",
+          "prepared_text": "[[prepared]]Were among the agents showing relatively high compatibility with N. tutae and the other parasitoid used in the study."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Other materials affected:",
+          "prepared_text": "[[prepared]]Other materials affected:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Survival of immature stages.",
+            "Reproductive behaviour.",
+            "Non-reproductive behaviour.",
+            "Parasitoid attack capacity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Survival of immature stages.",
+            "[[prepared]]Reproductive behaviour.",
+            "[[prepared]]Non-reproductive behaviour.",
+            "[[prepared]]Parasitoid attack capacity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Results should be interpreted within the conditions of the test and should not be generalized to all fungal strains, Bt products, or parasitoid populations.",
+          "prepared_text": "[[prepared]]Results should be interpreted within the conditions of the test and should not be generalized to all fungal strains, Bt products, or parasitoid populations."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility of Insecticides with Mirid Predators"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Macrolophus pygmaeus and Nesidiocoris tenuis may be exposed through:",
+          "prepared_text": "[[prepared]]Macrolophus pygmaeus and Nesidiocoris tenuis may be exposed through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Direct spray.",
+            "Walking on treated leaves.",
+            "Consumption of contaminated prey.",
+            "Plant feeding from treated tissue.",
+            "Drinking water droplets or plant exudates."
+          ],
+          "prepared_items": [
+            "[[prepared]]Direct spray.",
+            "[[prepared]]Walking on treated leaves.",
+            "[[prepared]]Consumption of contaminated prey.",
+            "[[prepared]]Plant feeding from treated tissue.",
+            "[[prepared]]Drinking water droplets or plant exudates."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insecticides may affect:",
+          "prepared_text": "[[prepared]]Insecticides may affect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Adults.",
+            "Nymphs.",
+            "Eggs inserted into plant tissue.",
+            "Fecundity.",
+            "Predation.",
+            "Predator-induced plant damage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Adults.",
+            "[[prepared]]Nymphs.",
+            "[[prepared]]Eggs inserted into plant tissue.",
+            "[[prepared]]Fecundity.",
+            "[[prepared]]Predation.",
+            "[[prepared]]Predator-induced plant damage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One comparative study reported that Indoxacarb caused higher mortality than Azadirachtin and Spinosad in the two tested predators, with effects differing between M. pygmaeus nymphs and N. tenuis females.",
+          "prepared_text": "[[prepared]]One comparative study reported that Indoxacarb caused higher mortality than Azadirachtin and Spinosad in the two tested predators, with effects differing between M. pygmaeus nymphs and N. tenuis females."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This result shows that:",
+          "prepared_text": "[[prepared]]This result shows that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The two species do not have equal susceptibility.",
+            "Nymphal susceptibility differs from adult susceptibility.",
+            "A material selective to one natural enemy may be less selective to another."
+          ],
+          "prepared_items": [
+            "[[prepared]]The two species do not have equal susceptibility.",
+            "[[prepared]]Nymphal susceptibility differs from adult susceptibility.",
+            "[[prepared]]A material selective to one natural enemy may be less selective to another."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Insecticides and Predator Function"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Predator survival after treatment is not sufficient.",
+          "prepared_text": "[[prepared]]Predator survival after treatment is not sufficient."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sublethal exposure may cause:",
+          "prepared_text": "[[prepared]]Sublethal exposure may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced number of eggs or larvae consumed.",
+            "Reduced movement.",
+            "Reduced searching activity.",
+            "Delayed reproduction.",
+            "Reduced oviposition.",
+            "Altered level of plant feeding."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced number of eggs or larvae consumed.",
+            "[[prepared]]Reduced movement.",
+            "[[prepared]]Reduced searching activity.",
+            "[[prepared]]Delayed reproduction.",
+            "[[prepared]]Reduced oviposition.",
+            "[[prepared]]Altered level of plant feeding."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plant damage by N. tenuis may increase if prey density declines suddenly after insecticide use while the predator remains alive in the crop.",
+          "prepared_text": "[[prepared]]Plant damage by N. tenuis may increase if prey density declines suddenly after insecticide use while the predator remains alive in the crop."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The predator-to-prey ratio should therefore be evaluated after treatment, not predator survival alone.",
+          "prepared_text": "[[prepared]]The predator-to-prey ratio should therefore be evaluated after treatment, not predator survival alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Predators and Broad-Spectrum Insecticides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Broad-spectrum insecticides, including many:",
+          "prepared_text": "[[prepared]]Broad-spectrum insecticides, including many:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pyrethroids.",
+            "Organophosphates.",
+            "Carbamates.",
+            "Non-selective neurotoxic mixtures."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pyrethroids.",
+            "[[prepared]]Organophosphates.",
+            "[[prepared]]Carbamates.",
+            "[[prepared]]Non-selective neurotoxic mixtures."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Are more likely to disrupt predator and parasitoid communities.",
+          "prepared_text": "[[prepared]]Are more likely to disrupt predator and parasitoid communities."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Killing natural enemies may result in:",
+          "prepared_text": "[[prepared]]Killing natural enemies may result in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Resurgence of Tuta absoluta.",
+            "Increased whitefly abundance.",
+            "Increased thrips or mite populations.",
+            "Need for additional sprays.",
+            "A shift toward complete chemical dependence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Resurgence of Tuta absoluta.",
+            "[[prepared]]Increased whitefly abundance.",
+            "[[prepared]]Increased thrips or mite populations.",
+            "[[prepared]]Need for additional sprays.",
+            "[[prepared]]A shift toward complete chemical dependence."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not mean that every active ingredient within a broad-spectrum group has identical toxicity, but the burden of proving compatibility is greater.",
+          "prepared_text": "[[prepared]]This does not mean that every active ingredient within a broad-spectrum group has identical toxicity, but the burden of proving compatibility is greater."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Functional Compatibility of Bacillus thuringiensis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt targets lepidopteran larvae after ingestion of active proteins and therefore generally has less direct effect on:",
+          "prepared_text": "[[prepared]]Bt targets lepidopteran larvae after ingestion of active proteins and therefore generally has less direct effect on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg parasitoids.",
+            "Predators.",
+            "Insects lacking the appropriate toxin receptors."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Insects lacking the appropriate toxin receptors."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It can be integrated with egg parasitoids because:",
+          "prepared_text": "[[prepared]]It can be integrated with egg parasitoids because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The parasitoid prevents hatching of part of the egg population.",
+            "Bt targets larvae emerging from non-parasitized eggs."
+          ],
+          "prepared_items": [
+            "[[prepared]]The parasitoid prevents hatching of part of the egg population.",
+            "[[prepared]]Bt targets larvae emerging from non-parasitized eggs."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It can also be integrated with predators consuming:",
+          "prepared_text": "[[prepared]]It can also be integrated with predators consuming:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Newly hatched larvae.",
+            "Larvae that did not ingest a lethal dose."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Newly hatched larvae.",
+            "[[prepared]]Larvae that did not ingest a lethal dose."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the following should be considered:",
+          "prepared_text": "[[prepared]]However, the following should be considered:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Product adjuvants.",
+            "Direct spray on natural enemies.",
+            "Changes in prey quality.",
+            "Avoiding tank mixing with other living organisms without testing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Product adjuvants.",
+            "[[prepared]]Direct spray on natural enemies.",
+            "[[prepared]]Changes in prey quality.",
+            "[[prepared]]Avoiding tank mixing with other living organisms without testing."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compatibility between Bt and natural enemies is one of the most logical forms of integration when demonstrated for the specific product and natural-enemy species.",
+          "prepared_text": "[[prepared]]Compatibility between Bt and natural enemies is one of the most logical forms of integration when demonstrated for the specific product and natural-enemy species."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Entomopathogenic Fungi and Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Combining an entomopathogenic fungus with a parasitoid may produce one of the following outcomes.",
+          "prepared_text": "[[prepared]]Combining an entomopathogenic fungus with a parasitoid may produce one of the following outcomes."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Complementarity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The fungus infects larvae not reached by the parasitoid, while the parasitoid attacks other individuals.",
+          "prepared_text": "[[prepared]]The fungus infects larvae not reached by the parasitoid, while the parasitoid attacks other individuals."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Additive Effect"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each agent contributes part of the reduction without strongly interfering with the other.",
+          "prepared_text": "[[prepared]]Each agent contributes part of the reduction without strongly interfering with the other."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Conflict"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The fungus may infect:",
+          "prepared_text": "[[prepared]]The fungus may infect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The adult parasitoid.",
+            "The immature stage developing on the host.",
+            "The host before parasitoid development is completed.",
+            "The parasitoid cocoon."
+          ],
+          "prepared_items": [
+            "[[prepared]]The adult parasitoid.",
+            "[[prepared]]The immature stage developing on the host.",
+            "[[prepared]]The host before parasitoid development is completed.",
+            "[[prepared]]The parasitoid cocoon."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The interaction depends on:",
+          "prepared_text": "[[prepared]]The interaction depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fungal strain.",
+            "Spore concentration.",
+            "Timing of infection.",
+            "Host age.",
+            "Parasitoid species.",
+            "Whether the parasitoid develops inside or outside the host."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fungal strain.",
+            "[[prepared]]Spore concentration.",
+            "[[prepared]]Timing of infection.",
+            "[[prepared]]Host age.",
+            "[[prepared]]Parasitoid species.",
+            "[[prepared]]Whether the parasitoid develops inside or outside the host."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is insufficient to describe Beauveria bassiana as generally compatible because strains and formulations differ.",
+          "prepared_text": "[[prepared]]It is insufficient to describe Beauveria bassiana as generally compatible because strains and formulations differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Temporal Separation Between Fungi and Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conflict can be reduced by sequencing the applications.",
+          "prepared_text": "[[prepared]]Conflict can be reduced by sequencing the applications."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Possible systems include:",
+          "prepared_text": "[[prepared]]Possible systems include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Releasing the parasitoid first, then applying the fungus after a sensitive parasitoid stage has passed.",
+            "Applying the fungus first, then delaying adult-parasitoid release until active spores on the surface have declined.",
+            "Restricting the fungus to hotspots and using parasitoids in the rest of the field.",
+            "Applying the fungus to soil while parasitoids are used on the foliage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Releasing the parasitoid first, then applying the fungus after a sensitive parasitoid stage has passed.",
+            "[[prepared]]Applying the fungus first, then delaying adult-parasitoid release until active spores on the surface have declined.",
+            "[[prepared]]Restricting the fungus to hotspots and using parasitoids in the rest of the field.",
+            "[[prepared]]Applying the fungus to soil while parasitoids are used on the foliage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The time interval should not be selected arbitrarily. It should be based on:",
+          "prepared_text": "[[prepared]]The time interval should not be selected arbitrarily. It should be based on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Longevity of the fungal residue.",
+            "Parasitoid susceptibility.",
+            "Environmental conditions.",
+            "Product-test results."
+          ],
+          "prepared_items": [
+            "[[prepared]]Longevity of the fungal residue.",
+            "[[prepared]]Parasitoid susceptibility.",
+            "[[prepared]]Environmental conditions.",
+            "[[prepared]]Product-test results."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Entomopathogenic Fungi and Predators"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Predators may be exposed to fungal spores while:",
+          "prepared_text": "[[prepared]]Predators may be exposed to fungal spores while:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Walking on leaves.",
+            "Feeding on infected prey.",
+            "Receiving direct spray.",
+            "Grooming body parts."
+          ],
+          "prepared_items": [
+            "[[prepared]]Walking on leaves.",
+            "[[prepared]]Feeding on infected prey.",
+            "[[prepared]]Receiving direct spray.",
+            "[[prepared]]Grooming body parts."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some fungal strains may have a low effect on one predator but be pathogenic to another.",
+          "prepared_text": "[[prepared]]Some fungal strains may have a low effect on one predator but be pathogenic to another."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be evaluated:",
+          "prepared_text": "[[prepared]]The following should be evaluated:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mortality.",
+            "Predation rate.",
+            "Fecundity.",
+            "Transfer of spores among individuals.",
+            "Persistence of the predator in the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mortality.",
+            "[[prepared]]Predation rate.",
+            "[[prepared]]Fecundity.",
+            "[[prepared]]Transfer of spores among individuals.",
+            "[[prepared]]Persistence of the predator in the field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fungi should not be applied directly over predator aggregation or release areas without compatibility data.",
+          "prepared_text": "[[prepared]]Fungi should not be applied directly over predator aggregation or release areas without compatibility data."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Entomopathogenic Fungi and Fungicides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This relationship is one of the most important conflict points in the program.",
+          "prepared_text": "[[prepared]]This relationship is one of the most important conflict points in the program."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A fungicide may affect:",
+          "prepared_text": "[[prepared]]A fungicide may affect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spore germination.",
+            "Germ-tube growth.",
+            "Vegetative growth.",
+            "Production of new spores.",
+            "Persistence of the strain on the plant.",
+            "Endophytic colonization."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spore germination.",
+            "[[prepared]]Germ-tube growth.",
+            "[[prepared]]Vegetative growth.",
+            "[[prepared]]Production of new spores.",
+            "[[prepared]]Persistence of the strain on the plant.",
+            "[[prepared]]Endophytic colonization."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The risk is not limited to tank mixing. Fungicide residues on leaves may prevent germination of the entomopathogenic fungus even when no direct mixture is made.",
+          "prepared_text": "[[prepared]]The risk is not limited to tank mixing. Fungicide residues on leaves may prevent germination of the entomopathogenic fungus even when no direct mixture is made."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The effect varies according to:",
+          "prepared_text": "[[prepared]]The effect varies according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active ingredient.",
+            "Concentration.",
+            "Formulation.",
+            "Residue age.",
+            "Fungal strain.",
+            "Temperature."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active ingredient.",
+            "[[prepared]]Concentration.",
+            "[[prepared]]Formulation.",
+            "[[prepared]]Residue age.",
+            "[[prepared]]Fungal strain.",
+            "[[prepared]]Temperature."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plant-disease management and microbial insect-control programs should therefore be designed together rather than independently.",
+          "prepared_text": "[[prepared]]Plant-disease management and microbial insect-control programs should therefore be designed together rather than independently."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Copper, Sulfur, and Entomopathogenic Fungi"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Copper and sulfur compounds may have antifungal effects to varying degrees.",
+          "prepared_text": "[[prepared]]Copper and sulfur compounds may have antifungal effects to varying degrees."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They cannot all be classified as:",
+          "prepared_text": "[[prepared]]They cannot all be classified as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Compatible.",
+            "Or incompatible."
+          ],
+          "prepared_items": [
+            "[[prepared]]Compatible.",
+            "[[prepared]]Or incompatible."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The effect varies with:",
+          "prepared_text": "[[prepared]]The effect varies with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Type of compound.",
+            "Dose.",
+            "Application timing.",
+            "Fungal strain.",
+            "Exposure route.",
+            "Interval between treatments."
+          ],
+          "prepared_items": [
+            "[[prepared]]Type of compound.",
+            "[[prepared]]Dose.",
+            "[[prepared]]Application timing.",
+            "[[prepared]]Fungal strain.",
+            "[[prepared]]Exposure route.",
+            "[[prepared]]Interval between treatments."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A product may be acceptable when temporally separated but unsuitable for direct tank mixing.",
+          "prepared_text": "[[prepared]]A product may be acceptable when temporally separated but unsuitable for direct tank mixing."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The labels “organic fungicide” or “mineral fungicide” should not be treated as evidence of safety to an entomopathogenic fungus.",
+          "prepared_text": "[[prepared]]The labels “organic fungicide” or “mineral fungicide” should not be treated as evidence of safety to an entomopathogenic fungus."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility of Entomopathogenic Nematodes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nematodes are affected by:",
+          "prepared_text": "[[prepared]]Nematodes are affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Salinity.",
+            "Extreme pH.",
+            "Disinfectants.",
+            "Desiccation.",
+            "Some pesticides.",
+            "Oils and solvents.",
+            "Mechanical pressure.",
+            "Temperature."
+          ],
+          "prepared_items": [
+            "[[prepared]]Salinity.",
+            "[[prepared]]Extreme pH.",
+            "[[prepared]]Disinfectants.",
+            "[[prepared]]Desiccation.",
+            "[[prepared]]Some pesticides.",
+            "[[prepared]]Oils and solvents.",
+            "[[prepared]]Mechanical pressure.",
+            "[[prepared]]Temperature."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some chemicals may be compatible with one nematode species or strain while another active ingredient rapidly kills the infective juveniles.",
+          "prepared_text": "[[prepared]]Some chemicals may be compatible with one nematode species or strain while another active ingredient rapidly kills the infective juveniles."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be tested:",
+          "prepared_text": "[[prepared]]The following should be tested:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Survival in the solution.",
+            "Movement.",
+            "Infectivity after exposure.",
+            "Duration of exposure in the tank.",
+            "Effect of spray water."
+          ],
+          "prepared_items": [
+            "[[prepared]]Survival in the solution.",
+            "[[prepared]]Movement.",
+            "[[prepared]]Infectivity after exposure.",
+            "[[prepared]]Duration of exposure in the tank.",
+            "[[prepared]]Effect of spray water."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Continued movement after mixing is insufficient evidence of compatibility because nematodes may lose their ability to infect the host.",
+          "prepared_text": "[[prepared]]Continued movement after mixing is insufficient evidence of compatibility because nematodes may lose their ability to infect the host."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Tank Mixing of Nematodes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before mixing nematodes with any product, the following should be verified:",
+          "prepared_text": "[[prepared]]Before mixing nematodes with any product, the following should be verified:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Compatibility of the active ingredient.",
+            "2. Compatibility of the commercial formulation.",
+            "3. pH.",
+            "4. Salinity.",
+            "5. Duration of the mixture in the tank.",
+            "6. Nozzle and filter type.",
+            "7. Temperature.",
+            "8. Effect of the mixture on infectivity."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Compatibility of the active ingredient.",
+            "[[prepared]]2. Compatibility of the commercial formulation.",
+            "[[prepared]]3. pH.",
+            "[[prepared]]4. Salinity.",
+            "[[prepared]]5. Duration of the mixture in the tank.",
+            "[[prepared]]6. Nozzle and filter type.",
+            "[[prepared]]7. Temperature.",
+            "[[prepared]]8. Effect of the mixture on infectivity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Separate application is preferable when clear data are unavailable.",
+          "prepared_text": "[[prepared]]Separate application is preferable when clear data are unavailable."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nematodes should not automatically be mixed with fertilizers, acids, or pesticides merely to reduce the number of application operations.",
+          "prepared_text": "[[prepared]]Nematodes should not automatically be mixed with fertilizers, acids, or pesticides merely to reduce the number of application operations."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Insect Viruses and Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Granuloviruses infect larvae after ingestion of occlusion bodies, whereas larval parasitoids may attack different instars.",
+          "prepared_text": "[[prepared]]Granuloviruses infect larvae after ingestion of occlusion bodies, whereas larval parasitoids may attack different instars."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies on Tuta absoluta have shown that some combinations of virus with:",
+          "prepared_text": "[[prepared]]Studies on Tuta absoluta have shown that some combinations of virus with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Necremnus tutae.",
+            "Dolichogenidea gelechiidivoris."
+          ],
+          "prepared_items": [
+            "[[prepared]]Necremnus tutae.",
+            "[[prepared]]Dolichogenidea gelechiidivoris."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Were relatively highly compatible, with limited indirect effects on parasitoids under the study conditions.",
+          "prepared_text": "[[prepared]]Were relatively highly compatible, with limited indirect effects on parasitoids under the study conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Potential complementarity results from:",
+          "prepared_text": "[[prepared]]Potential complementarity results from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High viral efficacy against young larvae.",
+            "Ability of some parasitoids to attack older instars.",
+            "Different killing pathways."
+          ],
+          "prepared_items": [
+            "[[prepared]]High viral efficacy against young larvae.",
+            "[[prepared]]Ability of some parasitoids to attack older instars.",
+            "[[prepared]]Different killing pathways."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, infection timing is important. If the virus kills the host before parasitoid development is completed, parasitoid emergence may decline.",
+          "prepared_text": "[[prepared]]However, infection timing is important. If the virus kills the host before parasitoid development is completed, parasitoid emergence may decline."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Botanical Materials, Oils, and Soaps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Natural origin does not mean that a material is compatible with natural enemies.",
+          "prepared_text": "[[prepared]]Natural origin does not mean that a material is compatible with natural enemies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Oils, soaps, or botanical extracts may:",
+          "prepared_text": "[[prepared]]Oils, soaps, or botanical extracts may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Coat the body of a parasitoid or predator.",
+            "Damage external membranes.",
+            "Repel beneficial insects.",
+            "Reduce oviposition.",
+            "Inhibit fungal spores.",
+            "Kill nematodes in the tank.",
+            "Cause phytotoxicity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Coat the body of a parasitoid or predator.",
+            "[[prepared]]Damage external membranes.",
+            "[[prepared]]Repel beneficial insects.",
+            "[[prepared]]Reduce oviposition.",
+            "[[prepared]]Inhibit fungal spores.",
+            "[[prepared]]Kill nematodes in the tank.",
+            "[[prepared]]Cause phytotoxicity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Responses may differ among:",
+          "prepared_text": "[[prepared]]Responses may differ among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Raw material.",
+            "Extract.",
+            "Essential oil.",
+            "Commercial product.",
+            "Concentration."
+          ],
+          "prepared_items": [
+            "[[prepared]]Raw material.",
+            "[[prepared]]Extract.",
+            "[[prepared]]Essential oil.",
+            "[[prepared]]Commercial product.",
+            "[[prepared]]Concentration."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some studies have recorded behavioural and reproductive effects of botanical materials despite low direct mortality.",
+          "prepared_text": "[[prepared]]Some studies have recorded behavioural and reproductive effects of botanical materials despite low direct mortality."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pheromones and Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sex pheromones generally do not act as lethal toxins and are therefore among the tools most readily integrated with natural enemies.",
+          "prepared_text": "[[prepared]]Sex pheromones generally do not act as lethal toxins and are therefore among the tools most readily integrated with natural enemies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following can be combined:",
+          "prepared_text": "[[prepared]]The following can be combined:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pheromone monitoring.",
+            "Mass trapping.",
+            "Mating disruption.",
+            "Egg parasitoids.",
+            "Larval parasitoids.",
+            "Predators.",
+            "Microbial agents."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pheromone monitoring.",
+            "[[prepared]]Mass trapping.",
+            "[[prepared]]Mating disruption.",
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Larval parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Microbial agents."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pheromones target adults or sexual communication, while natural enemies target eggs and larvae.",
+          "prepared_text": "[[prepared]]Pheromones target adults or sexual communication, while natural enemies target eggs and larvae."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, considerations include:",
+          "prepared_text": "[[prepared]]However, considerations include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Possible parasitoid responses to host odours.",
+            "Effects of mating disruption on male distribution rather than females alone.",
+            "Avoiding placement of release cards inside traps.",
+            "Avoiding sticky surfaces near beneficial-insect release points.",
+            "Potential capture of non-target organisms in non-selective traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Possible parasitoid responses to host odours.",
+            "[[prepared]]Effects of mating disruption on male distribution rather than females alone.",
+            "[[prepared]]Avoiding placement of release cards inside traps.",
+            "[[prepared]]Avoiding sticky surfaces near beneficial-insect release points.",
+            "[[prepared]]Potential capture of non-target organisms in non-selective traps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Species-specific sex pheromones remain more compatible than broadly attractive light traps.",
+          "prepared_text": "[[prepared]]Species-specific sex pheromones remain more compatible than broadly attractive light traps."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Light Traps and Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Light traps differ from pheromone traps because they may attract:",
+          "prepared_text": "[[prepared]]Light traps differ from pheromone traps because they may attract:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Parasitoids.",
+            "Predators.",
+            "Pollinators.",
+            "Non-target nocturnal species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Pollinators.",
+            "[[prepared]]Non-target nocturnal species."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Intensive use may remove part of the beneficial-insect community.",
+          "prepared_text": "[[prepared]]Intensive use may remove part of the beneficial-insect community."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be evaluated:",
+          "prepared_text": "[[prepared]]The following should be evaluated:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "List of captured species.",
+            "Timing of light operation.",
+            "Wavelength.",
+            "Trap location.",
+            "Ratio of Tuta to non-target organisms."
+          ],
+          "prepared_items": [
+            "[[prepared]]List of captured species.",
+            "[[prepared]]Timing of light operation.",
+            "[[prepared]]Wavelength.",
+            "[[prepared]]Trap location.",
+            "[[prepared]]Ratio of Tuta to non-target organisms."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A high total number of captured insects is not evidence that a light trap is compatible with IPM.",
+          "prepared_text": "[[prepared]]A high total number of captured insects is not evidence that a light trap is compatible with [[term:ipm]]IPM[[/term]]."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility Among Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Interactions among natural enemies may include:",
+          "prepared_text": "[[prepared]]Interactions among natural enemies may include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Complementarity.",
+            "Competition.",
+            "Intraguild predation.",
+            "Hyperparasitism.",
+            "Multiparasitism.",
+            "Killing of a parasitized host.",
+            "Partitioning of stages or locations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Complementarity.",
+            "[[prepared]]Competition.",
+            "[[prepared]]Intraguild predation.",
+            "[[prepared]]Hyperparasitism.",
+            "[[prepared]]Multiparasitism.",
+            "[[prepared]]Killing of a parasitized host.",
+            "[[prepared]]Partitioning of stages or locations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Adding a second species should not be assumed to double efficacy.",
+          "prepared_text": "[[prepared]]Adding a second species should not be assumed to double efficacy."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be studied:",
+          "prepared_text": "[[prepared]]The following should be studied:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Preferred stage of each species.",
+            "Searching location on the plant.",
+            "Activity timing.",
+            "Ability to distinguish unparasitized from parasitized hosts.",
+            "Density of alternative prey.",
+            "Capacity of one species to prey on the other."
+          ],
+          "prepared_items": [
+            "[[prepared]]Preferred stage of each species.",
+            "[[prepared]]Searching location on the plant.",
+            "[[prepared]]Activity timing.",
+            "[[prepared]]Ability to distinguish unparasitized from parasitized hosts.",
+            "[[prepared]]Density of alternative prey.",
+            "[[prepared]]Capacity of one species to prey on the other."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Trichogramma and Predators"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egg parasitoids and predators may complement one another when:",
+          "prepared_text": "[[prepared]]Egg parasitoids and predators may complement one another when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The parasitoid parasitizes part of the egg population.",
+            "The predator consumes healthy eggs and hatching larvae.",
+            "Alternative prey are available to the predator.",
+            "The predator can distinguish parasitized eggs or consumes fewer of them."
+          ],
+          "prepared_items": [
+            "[[prepared]]The parasitoid parasitizes part of the egg population.",
+            "[[prepared]]The predator consumes healthy eggs and hatching larvae.",
+            "[[prepared]]Alternative prey are available to the predator.",
+            "[[prepared]]The predator can distinguish parasitized eggs or consumes fewer of them."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conflict may occur when the predator consumes:",
+          "prepared_text": "[[prepared]]Conflict may occur when the predator consumes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Recently parasitized eggs.",
+            "Eggs containing fully developed parasitoids.",
+            "Minute adults after emergence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Recently parasitized eggs.",
+            "[[prepared]]Eggs containing fully developed parasitoids.",
+            "[[prepared]]Minute adults after emergence."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The predator’s capacity to discriminate varies with:",
+          "prepared_text": "[[prepared]]The predator’s capacity to discriminate varies with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Age of the parasitized egg.",
+            "Changes in colour and odour.",
+            "Predator species.",
+            "Hunger level."
+          ],
+          "prepared_items": [
+            "[[prepared]]Age of the parasitized egg.",
+            "[[prepared]]Changes in colour and odour.",
+            "[[prepared]]Predator species.",
+            "[[prepared]]Hunger level."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Release timing should be coordinated to reduce losses.",
+          "prepared_text": "[[prepared]]Release timing should be coordinated to reduce losses."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Necremnus and Endoparasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "N. tutae may attack a larva already containing an internal parasitoid.",
+          "prepared_text": "[[prepared]]N. tutae may attack a larva already containing an internal parasitoid."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Because it is an ectoparasitoid capable of paralyzing and host feeding, its attack may cause:",
+          "prepared_text": "[[prepared]]Because it is an ectoparasitoid capable of paralyzing and host feeding, its attack may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Death of the endoparasitoid.",
+            "Arrest of its development.",
+            "Reduced successful emergence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Death of the endoparasitoid.",
+            "[[prepared]]Arrest of its development.",
+            "[[prepared]]Reduced successful emergence."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conflict becomes more likely when the two species target similar larval instars.",
+          "prepared_text": "[[prepared]]Conflict becomes more likely when the two species target similar [[term:larval-instar]]larval instars[[/term]]."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Complementarity is more likely when:",
+          "prepared_text": "[[prepared]]Complementarity is more likely when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Preferred instars differ.",
+            "Spatial distributions differ.",
+            "The later-arriving species can discriminate parasitized hosts.",
+            "Host density is sufficient."
+          ],
+          "prepared_items": [
+            "[[prepared]]Preferred instars differ.",
+            "[[prepared]]Spatial distributions differ.",
+            "[[prepared]]The later-arriving species can discriminate parasitized hosts.",
+            "[[prepared]]Host density is sufficient."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Macrolophus and Nesidiocoris"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Both species are omnivorous predators and share the following prey:",
+          "prepared_text": "[[prepared]]Both species are omnivorous predators and share the following prey:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Newly hatched larvae.",
+            "Whiteflies.",
+            "Other prey."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Newly hatched larvae.",
+            "[[prepared]]Whiteflies.",
+            "[[prepared]]Other prey."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Interactions may include:",
+          "prepared_text": "[[prepared]]Interactions may include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Competition for food.",
+            "Predation on small nymphs.",
+            "Differences in establishment on the plant.",
+            "Differences in plant damage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Competition for food.",
+            "[[prepared]]Predation on small nymphs.",
+            "[[prepared]]Differences in establishment on the plant.",
+            "[[prepared]]Differences in plant damage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should not be released together solely on the assumption that one will complement the other.",
+          "prepared_text": "[[prepared]]They should not be released together solely on the assumption that one will complement the other."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In many programs, the species best suited to the climate and crop system is selected instead of establishing two high-density populations of omnivorous predators.",
+          "prepared_text": "[[prepared]]In many programs, the species best suited to the climate and crop system is selected instead of establishing two high-density populations of omnivorous predators."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility with Mechanical Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mechanical removal is compatible with biological control when it targets:",
+          "prepared_text": "[[prepared]]Mechanical removal is compatible with biological control when it targets:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Severely infested fruits.",
+            "Limited hotspots.",
+            "Plants that cannot be saved.",
+            "Postharvest residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Severely infested fruits.",
+            "[[prepared]]Limited hotspots.",
+            "[[prepared]]Plants that cannot be saved.",
+            "[[prepared]]Postharvest residues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may conflict with biological control when the following are removed:",
+          "prepared_text": "[[prepared]]It may conflict with biological control when the following are removed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaves carrying parasitized eggs.",
+            "Leaves bearing predators or nymphs.",
+            "Larvae containing parasitoids.",
+            "Plants supporting natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves carrying parasitized eggs.",
+            "[[prepared]]Leaves bearing predators or nymphs.",
+            "[[prepared]]Larvae containing parasitoids.",
+            "[[prepared]]Plants supporting natural enemies."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Workers should therefore be trained to distinguish among:",
+          "prepared_text": "[[prepared]]Workers should therefore be trained to distinguish among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Old mines.",
+            "Active mines.",
+            "Parasitized eggs.",
+            "Beneficial life stages.",
+            "Damage requiring removal."
+          ],
+          "prepared_items": [
+            "[[prepared]]Old [[term:mines]]mines[[/term]].",
+            "[[prepared]]Active mines.",
+            "[[prepared]]Parasitized eggs.",
+            "[[prepared]]Beneficial life stages.",
+            "[[prepared]]Damage requiring removal."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility with Cultural Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultural practices support biological control when they include:",
+          "prepared_text": "[[prepared]]Cultural practices support biological control when they include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Balanced fertilization.",
+            "Regular irrigation.",
+            "Protection of the canopy.",
+            "Removal of confirmed pest hosts.",
+            "Provision of non-host nectar plants.",
+            "Dust reduction.",
+            "Avoiding tillage or mowing at times that remove beneficial organisms."
+          ],
+          "prepared_items": [
+            "[[prepared]]Balanced fertilization.",
+            "[[prepared]]Regular irrigation.",
+            "[[prepared]]Protection of the canopy.",
+            "[[prepared]]Removal of confirmed pest hosts.",
+            "[[prepared]]Provision of non-host nectar plants.",
+            "[[prepared]]Dust reduction.",
+            "[[prepared]]Avoiding tillage or mowing at times that remove beneficial organisms."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may have negative effects when:",
+          "prepared_text": "[[prepared]]They may have negative effects when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Excess nitrogen alters the plant–pest balance.",
+            "All flowering plants are removed.",
+            "Tuta host weeds are retained under the pretext of supporting natural enemies.",
+            "Extensive pruning removes predators.",
+            "Severe water stress is imposed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Excess nitrogen alters the plant–pest balance.",
+            "[[prepared]]All flowering plants are removed.",
+            "[[prepared]]Tuta host weeds are retained under the pretext of supporting natural enemies.",
+            "[[prepared]]Extensive pruning removes predators.",
+            "[[prepared]]Severe water stress is imposed."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No cultural practice is absolutely compatible. It should be evaluated according to its effect on the plant, pest, and natural enemy.",
+          "prepared_text": "[[prepared]]No cultural practice is absolutely compatible. It should be evaluated according to its effect on the plant, pest, and natural enemy."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Temporal Separation Between an Insecticide and a Natural Enemy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When full compatibility is absent, temporal separation may be used.",
+          "prepared_text": "[[prepared]]When full compatibility is absent, temporal separation may be used."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The interval should be based on:",
+          "prepared_text": "[[prepared]]The interval should be based on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Residue half-life on leaves.",
+            "IOBC test results.",
+            "Natural-enemy supplier instructions.",
+            "Weather conditions.",
+            "Plant growth rate.",
+            "Active ingredient and formulation.",
+            "Life stage to be released."
+          ],
+          "prepared_items": [
+            "[[prepared]]Residue half-life on leaves.",
+            "[[prepared]]IOBC test results.",
+            "[[prepared]]Natural-enemy supplier instructions.",
+            "[[prepared]]Weather conditions.",
+            "[[prepared]]Plant growth rate.",
+            "[[prepared]]Active ingredient and formulation.",
+            "[[prepared]]Life stage to be released."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A general rule such as:",
+          "prepared_text": "[[prepared]]A general rule such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Waiting three days.",
+            "Or one week."
+          ],
+          "prepared_items": [
+            "[[prepared]]Waiting three days.",
+            "[[prepared]]Or one week."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Should not be used because an interval may be sufficient for one active ingredient and inadequate for another.",
+          "prepared_text": "[[prepared]]Should not be used because an interval may be sufficient for one active ingredient and inadequate for another."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The plan should specify:",
+          "prepared_text": "[[prepared]]The plan should specify:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Date of the most recent spray.",
+            "Active ingredient.",
+            "Natural enemy.",
+            "Earliest safe release date.",
+            "Date for reassessing survival."
+          ],
+          "prepared_items": [
+            "[[prepared]]Date of the most recent spray.",
+            "[[prepared]]Active ingredient.",
+            "[[prepared]]Natural enemy.",
+            "[[prepared]]Earliest safe release date.",
+            "[[prepared]]Date for reassessing survival."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spatial Separation and Localized Treatment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Natural enemies may be protected by:",
+          "prepared_text": "[[prepared]]Natural enemies may be protected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Treating the hotspot only.",
+            "Avoiding treatment of areas with high parasitism.",
+            "Using temporary barriers or covers over release points when instructions allow.",
+            "Applying an active ingredient to the soil instead of foliage.",
+            "Directing spray to specific plant parts.",
+            "Using nozzles that reduce drift."
+          ],
+          "prepared_items": [
+            "[[prepared]]Treating the hotspot only.",
+            "[[prepared]]Avoiding treatment of areas with high parasitism.",
+            "[[prepared]]Using temporary barriers or covers over release points when instructions allow.",
+            "[[prepared]]Applying an active ingredient to the soil instead of foliage.",
+            "[[prepared]]Directing spray to specific plant parts.",
+            "[[prepared]]Using nozzles that reduce drift."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Localized treatment is unsuitable when infestation is widespread or when leaving untreated sectors allows larvae to reach fruits.",
+          "prepared_text": "[[prepared]]Localized treatment is unsuitable when infestation is widespread or when leaving untreated sectors allows larvae to reach fruits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Ecological Selectivity and Physiological Selectivity"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Physiological Selectivity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The active ingredient is more toxic to the pest than to the natural enemy because of differences in receptors, metabolism, or exposure.",
+          "prepared_text": "[[prepared]]The active ingredient is more toxic to the pest than to the natural enemy because of differences in receptors, metabolism, or exposure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Ecological Selectivity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is achieved through application method, such as:",
+          "prepared_text": "[[prepared]]This is achieved through application method, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spraying when natural-enemy activity is low.",
+            "Treating specific hotspots.",
+            "Using baits.",
+            "Treating soil.",
+            "Selecting droplets that reduce drift.",
+            "Temporal separation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spraying when natural-enemy activity is low.",
+            "[[prepared]]Treating specific hotspots.",
+            "[[prepared]]Using baits.",
+            "[[prepared]]Treating soil.",
+            "[[prepared]]Selecting droplets that reduce drift.",
+            "[[prepared]]Temporal separation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An insecticide may lack physiological selectivity but its damage can be reduced through appropriate ecological selectivity.",
+          "prepared_text": "[[prepared]]An insecticide may lack physiological selectivity but its damage can be reduced through appropriate ecological selectivity."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Building a Compatibility Matrix"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each project should establish a table linking all products and organisms used.",
+          "prepared_text": "[[prepared]]Each project should establish a table linking all products and organisms used."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following codes may be used:",
+          "prepared_text": "[[prepared]]The following codes may be used:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Code",
+            "Interpretation"
+          ],
+          "rows": [
+            [
+              "A",
+              "Compatible according to documented data"
+            ],
+            [
+              "B",
+              "Compatible under conditions or with a time interval"
+            ],
+            [
+              "C",
+              "Incompatible; the combination should be avoided"
+            ],
+            [
+              "D",
+              "Insufficient data"
+            ],
+            [
+              "F",
+              "Requires a local field test"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Code",
+            "[[prepared]]Interpretation"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]A",
+              "[[prepared]]Compatible according to documented data"
+            ],
+            [
+              "[[prepared]]B",
+              "[[prepared]]Compatible under conditions or with a time interval"
+            ],
+            [
+              "[[prepared]]C",
+              "[[prepared]]Incompatible; the combination should be avoided"
+            ],
+            [
+              "[[prepared]]D",
+              "[[prepared]]Insufficient data"
+            ],
+            [
+              "[[prepared]]F",
+              "[[prepared]]Requires a local field test"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Classification should not be based on impressions or marketing descriptions.",
+          "prepared_text": "[[prepared]]Classification should not be based on impressions or marketing descriptions."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preliminary Functional Compatibility Matrix"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Two Methods",
+            "Preliminary Expected Compatibility",
+            "Principal Condition"
+          ],
+          "rows": [
+            [
+              "Pheromone + egg parasitoids",
+              "High",
+              "Use species-specific traps and do not place them near cards"
+            ],
+            [
+              "Pheromone + predators",
+              "High",
+              "Avoid non-selective light or sticky traps"
+            ],
+            [
+              "Bt + Trichogramma",
+              "Relatively high",
+              "Use a registered product and do not spray cards directly"
+            ],
+            [
+              "Bt + predators",
+              "Relatively high",
+              "Review adjuvants and direct exposure"
+            ],
+            [
+              "Baculovirus + larval parasitoids",
+              "Relatively high",
+              "Coordinate infection and parasitism timing"
+            ],
+            [
+              "Entomopathogenic fungus + larval parasitoid",
+              "Conditional",
+              "Test the strain and time interval"
+            ],
+            [
+              "Entomopathogenic fungus + fungicide",
+              "Low or conditional",
+              "Test spore viability and residues"
+            ],
+            [
+              "Nematodes + fertilizers or pesticides",
+              "Unknown without testing",
+              "Assess survival and infectivity"
+            ],
+            [
+              "Broad-spectrum insecticide + Trichogramma",
+              "Generally low",
+              "Avoid or use a documented time interval"
+            ],
+            [
+              "Broad-spectrum insecticide + mirids",
+              "Generally low",
+              "Use a selective alternative"
+            ],
+            [
+              "Fruit removal + natural enemies",
+              "High",
+              "Collect only severely infested fruits"
+            ],
+            [
+              "Leaf removal + Trichogramma",
+              "Conditional",
+              "Do not remove parasitized eggs"
+            ],
+            [
+              "Two omnivorous predators",
+              "Conditional",
+              "Evaluate competition and intraguild predation"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Two Methods",
+            "[[prepared]]Preliminary Expected Compatibility",
+            "[[prepared]]Principal Condition"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Pheromone + egg parasitoids",
+              "[[prepared]]High",
+              "[[prepared]]Use species-specific traps and do not place them near cards"
+            ],
+            [
+              "[[prepared]]Pheromone + predators",
+              "[[prepared]]High",
+              "[[prepared]]Avoid non-selective light or sticky traps"
+            ],
+            [
+              "[[prepared]]Bt + Trichogramma",
+              "[[prepared]]Relatively high",
+              "[[prepared]]Use a registered product and do not spray cards directly"
+            ],
+            [
+              "[[prepared]]Bt + predators",
+              "[[prepared]]Relatively high",
+              "[[prepared]]Review adjuvants and direct exposure"
+            ],
+            [
+              "[[prepared]]Baculovirus + larval parasitoids",
+              "[[prepared]]Relatively high",
+              "[[prepared]]Coordinate infection and parasitism timing"
+            ],
+            [
+              "[[prepared]]Entomopathogenic fungus + larval parasitoid",
+              "[[prepared]]Conditional",
+              "[[prepared]]Test the strain and time interval"
+            ],
+            [
+              "[[prepared]]Entomopathogenic fungus + fungicide",
+              "[[prepared]]Low or conditional",
+              "[[prepared]]Test spore viability and residues"
+            ],
+            [
+              "[[prepared]]Nematodes + fertilizers or pesticides",
+              "[[prepared]]Unknown without testing",
+              "[[prepared]]Assess survival and infectivity"
+            ],
+            [
+              "[[prepared]]Broad-spectrum insecticide + Trichogramma",
+              "[[prepared]]Generally low",
+              "[[prepared]]Avoid or use a documented time interval"
+            ],
+            [
+              "[[prepared]]Broad-spectrum insecticide + mirids",
+              "[[prepared]]Generally low",
+              "[[prepared]]Use a selective alternative"
+            ],
+            [
+              "[[prepared]]Fruit removal + natural enemies",
+              "[[prepared]]High",
+              "[[prepared]]Collect only severely infested fruits"
+            ],
+            [
+              "[[prepared]]Leaf removal + Trichogramma",
+              "[[prepared]]Conditional",
+              "[[prepared]]Do not remove parasitized eggs"
+            ],
+            [
+              "[[prepared]]Two omnivorous predators",
+              "[[prepared]]Conditional",
+              "[[prepared]]Evaluate competition and intraguild predation"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This table is a functional framework, not an approval document for a specific commercial product.",
+          "prepared_text": "[[prepared]]This table is a functional framework, not an approval document for a specific commercial product."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Steps for Evaluating Any New Combination"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before introducing two materials or agents together, the following sequence should be followed:",
+          "prepared_text": "[[prepared]]Before introducing two materials or agents together, the following sequence should be followed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Define the objective of the combination.",
+            "2. Identify the target stage of each method.",
+            "3. Review their modes of action.",
+            "4. Review direct-toxicity and residual-effect data.",
+            "5. Assess sublethal effects.",
+            "6. Review physical compatibility in the spray tank.",
+            "7. Assess susceptibility of the strain or natural enemy used.",
+            "8. Conduct a limited test.",
+            "9. Measure both the pest and the natural enemy.",
+            "10. Expand application gradually.",
+            "11. Document the result.",
+            "12. Discontinue the combination if its net effect is lower than that of using the two methods separately."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Define the objective of the combination.",
+            "[[prepared]]2. Identify the target stage of each method.",
+            "[[prepared]]3. Review their modes of action.",
+            "[[prepared]]4. Review direct-toxicity and residual-effect data.",
+            "[[prepared]]5. Assess sublethal effects.",
+            "[[prepared]]6. Review physical compatibility in the spray tank.",
+            "[[prepared]]7. Assess susceptibility of the strain or natural enemy used.",
+            "[[prepared]]8. Conduct a limited test.",
+            "[[prepared]]9. Measure both the pest and the natural enemy.",
+            "[[prepared]]10. Expand application gradually.",
+            "[[prepared]]11. Document the result.",
+            "[[prepared]]12. Discontinue the combination if its net effect is lower than that of using the two methods separately."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Physical Tank-Mix Test"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When preliminary mixing is permitted, a small-jar test should be conducted using:",
+          "prepared_text": "[[prepared]]When preliminary mixing is permitted, a small-jar test should be conducted using:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The same spray water.",
+            "The same field-use proportions.",
+            "The same order of addition.",
+            "A similar waiting period.",
+            "Observation for precipitation.",
+            "Observation for clumping.",
+            "Observation for separation and foaming.",
+            "pH measurement where necessary."
+          ],
+          "prepared_items": [
+            "[[prepared]]The same spray water.",
+            "[[prepared]]The same field-use proportions.",
+            "[[prepared]]The same order of addition.",
+            "[[prepared]]A similar waiting period.",
+            "[[prepared]]Observation for precipitation.",
+            "[[prepared]]Observation for clumping.",
+            "[[prepared]]Observation for separation and foaming.",
+            "[[prepared]]pH measurement where necessary."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Successful completion of the jar test demonstrates only physical compatibility. It does not demonstrate:",
+          "prepared_text": "[[prepared]]Successful completion of the jar test demonstrates only physical compatibility. It does not demonstrate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Survival of the fungus.",
+            "Continued infectivity of the nematodes.",
+            "Safety to the parasitoid.",
+            "Absence of phytotoxicity.",
+            "Retention of insecticidal activity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Survival of the fungus.",
+            "[[prepared]]Continued infectivity of the nematodes.",
+            "[[prepared]]Safety to the parasitoid.",
+            "[[prepared]]Absence of phytotoxicity.",
+            "[[prepared]]Retention of insecticidal activity."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Viability Testing After Mixing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "For living organisms, the following should be measured.",
+          "prepared_text": "[[prepared]]For living organisms, the following should be measured."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fungi"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage of spore germination.",
+            "Germ-tube growth.",
+            "Colony-forming units.",
+            "Pathogenicity after exposure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage of spore germination.",
+            "[[prepared]]Germ-tube growth.",
+            "[[prepared]]Colony-forming units.",
+            "[[prepared]]Pathogenicity after exposure."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Nematodes"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Survival percentage.",
+            "Movement.",
+            "Ability to infect a test host.",
+            "Survival after remaining in the tank for a defined period."
+          ],
+          "prepared_items": [
+            "[[prepared]]Survival percentage.",
+            "[[prepared]]Movement.",
+            "[[prepared]]Ability to infect a test host.",
+            "[[prepared]]Survival after remaining in the tank for a defined period."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Bacteria and Viruses"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Retention of insecticidal activity.",
+            "Absence of degradation of active components.",
+            "Infection efficacy after mixing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Retention of insecticidal activity.",
+            "[[prepared]]Absence of degradation of active components.",
+            "[[prepared]]Infection efficacy after mixing."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The external appearance of the solution is insufficient.",
+          "prepared_text": "[[prepared]]The external appearance of the solution is insufficient."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility Program in the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The nursery program should include:",
+          "prepared_text": "[[prepared]]The nursery program should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. A complete pesticide record.",
+            "2. Identification of natural enemies planned for release.",
+            "3. Avoidance of long-residual products before release.",
+            "4. Use of lower-impact materials when necessary.",
+            "5. Isolation of treated batches.",
+            "6. Avoiding contact between biological-release cards or packages and pesticides.",
+            "7. Cleaning tanks of disinfectant residues.",
+            "8. Setting a time interval for each active ingredient.",
+            "9. Testing natural-enemy survival after release.",
+            "10. Providing the treatment record with the transplants."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. A complete pesticide record.",
+            "[[prepared]]2. Identification of natural enemies planned for release.",
+            "[[prepared]]3. Avoidance of long-residual products before release.",
+            "[[prepared]]4. Use of lower-impact materials when necessary.",
+            "[[prepared]]5. Isolation of treated batches.",
+            "[[prepared]]6. Avoiding contact between biological-release cards or packages and pesticides.",
+            "[[prepared]]7. Cleaning tanks of disinfectant residues.",
+            "[[prepared]]8. Setting a time interval for each active ingredient.",
+            "[[prepared]]9. Testing natural-enemy survival after release.",
+            "[[prepared]]10. Providing the treatment record with the transplants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compatibility management does not begin only after transplants reach the field because nursery residues may affect natural enemies released later.",
+          "prepared_text": "[[prepared]]Compatibility management does not begin only after transplants reach the field because nursery residues may affect natural enemies released later."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility Program in Open Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The basic steps include:",
+          "prepared_text": "[[prepared]]The basic steps include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inventorying naturally occurring natural enemies.",
+            "Recording all active ingredients.",
+            "Reviewing the effect of each active ingredient on the dominant species.",
+            "Using localized treatment where appropriate.",
+            "Avoiding unnecessary spraying during peak parasitoid activity.",
+            "Protecting supportive plant strips from spray drift.",
+            "Separating application of entomopathogenic fungi from incompatible fungicides.",
+            "Avoiding addition of fertilizers or acids to nematodes without testing.",
+            "Reassessing natural enemies after treatment.",
+            "Modifying the program when a severe population decline occurs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inventorying naturally occurring natural enemies.",
+            "[[prepared]]Recording all active ingredients.",
+            "[[prepared]]Reviewing the effect of each active ingredient on the dominant species.",
+            "[[prepared]]Using localized treatment where appropriate.",
+            "[[prepared]]Avoiding unnecessary spraying during peak parasitoid activity.",
+            "[[prepared]]Protecting supportive plant strips from spray drift.",
+            "[[prepared]]Separating application of entomopathogenic fungi from incompatible fungicides.",
+            "[[prepared]]Avoiding addition of fertilizers or acids to nematodes without testing.",
+            "[[prepared]]Reassessing natural enemies after treatment.",
+            "[[prepared]]Modifying the program when a severe population decline occurs."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility Program in Greenhouses"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Greenhouses allow greater control but require precise coordination because of intensive release programs.",
+          "prepared_text": "[[prepared]]Greenhouses allow greater control but require precise coordination because of intensive release programs."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The program includes:",
+          "prepared_text": "[[prepared]]The program includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A map of natural-enemy distribution.",
+            "A record of fungicides and insecticides.",
+            "Internal traps.",
+            "Treating hotspots rather than the entire greenhouse where possible.",
+            "Isolating heavily infested sectors.",
+            "Providing supplementary food after materials that reduce prey.",
+            "Monitoring plant damage caused by N. tenuis.",
+            "Avoiding long-residual insecticides before a new release.",
+            "Washing or replacing some surfaces or plant parts when hazardous residues persist.",
+            "Assessing compatibility with tomato-disease programs."
+          ],
+          "prepared_items": [
+            "[[prepared]]A map of natural-enemy distribution.",
+            "[[prepared]]A record of fungicides and insecticides.",
+            "[[prepared]]Internal traps.",
+            "[[prepared]]Treating hotspots rather than the entire greenhouse where possible.",
+            "[[prepared]]Isolating heavily infested sectors.",
+            "[[prepared]]Providing supplementary food after materials that reduce prey.",
+            "[[prepared]]Monitoring plant damage caused by N. tenuis.",
+            "[[prepared]]Avoiding long-residual insecticides before a new release.",
+            "[[prepared]]Washing or replacing some surfaces or plant parts when hazardous residues persist.",
+            "[[prepared]]Assessing compatibility with tomato-disease programs."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility with Tomato-Disease Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A Tuta program cannot be designed separately from management of:",
+          "prepared_text": "[[prepared]]A Tuta program cannot be designed separately from management of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Blights.",
+            "Powdery mildew.",
+            "Grey mould.",
+            "Bacterial diseases.",
+            "Root diseases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Blights.",
+            "[[prepared]]Powdery mildew.",
+            "[[prepared]]Grey mould.",
+            "[[prepared]]Bacterial diseases.",
+            "[[prepared]]Root diseases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Disease-management fungicides may conflict with:",
+          "prepared_text": "[[prepared]]Disease-management fungicides may conflict with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Beauveria.",
+            "Metarhizium.",
+            "Lecanicillium.",
+            "Beneficial endophytic organisms.",
+            "Some predators and parasitoids."
+          ],
+          "prepared_items": [
+            "[[prepared]]Beauveria.",
+            "[[prepared]]Metarhizium.",
+            "[[prepared]]Lecanicillium.",
+            "[[prepared]]Beneficial endophytic organisms.",
+            "[[prepared]]Some predators and parasitoids."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A unified calendar should identify:",
+          "prepared_text": "[[prepared]]A unified calendar should identify:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fungicidal active ingredient.",
+            "Entomopathogenic fungus.",
+            "Date of each application.",
+            "Required interval.",
+            "Application site.",
+            "Disease or insect target."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fungicidal active ingredient.",
+            "[[prepared]]Entomopathogenic fungus.",
+            "[[prepared]]Date of each application.",
+            "[[prepared]]Required interval.",
+            "[[prepared]]Application site.",
+            "[[prepared]]Disease or insect target."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conflict between programs should not be addressed by increasing doses or mixing all materials in one treatment.",
+          "prepared_text": "[[prepared]]Conflict between programs should not be addressed by increasing doses or mixing all materials in one treatment."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility with Whitefly and Thrips Programs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Active ingredients used against whiteflies or thrips may severely affect natural enemies used against Tuta absoluta.",
+          "prepared_text": "[[prepared]]Active ingredients used against whiteflies or thrips may severely affect natural enemies used against Tuta absoluta."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A treatment directed at another pest may:",
+          "prepared_text": "[[prepared]]A treatment directed at another pest may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Kill Macrolophus or Nesidiocoris.",
+            "Reduce Trichogramma.",
+            "Eliminate Orius.",
+            "Disrupt the release program."
+          ],
+          "prepared_items": [
+            "[[prepared]]Kill Macrolophus or Nesidiocoris.",
+            "[[prepared]]Reduce Trichogramma.",
+            "[[prepared]]Eliminate Orius.",
+            "[[prepared]]Disrupt the release program."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The tomato-pest program should therefore be evaluated as one integrated system.",
+          "prepared_text": "[[prepared]]The tomato-pest program should therefore be evaluated as one integrated system."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selecting a generalist predator attacking several pests may be more beneficial than using separate sequences of insecticides, provided its plant-feeding risks are managed.",
+          "prepared_text": "[[prepared]]Selecting a generalist predator attacking several pests may be more beneficial than using separate sequences of insecticides, provided its plant-feeding risks are managed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility with Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Protecting natural enemies contributes to insecticide-resistance management by:",
+          "prepared_text": "[[prepared]]Protecting natural enemies contributes to insecticide-resistance management by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reducing the number of applications.",
+            "Killing individuals that survive insecticide exposure.",
+            "Targeting different pest stages.",
+            "Reducing the size of the population subjected to selection.",
+            "Extending the useful life of chemical groups."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reducing the number of applications.",
+            "[[prepared]]Killing individuals that survive insecticide exposure.",
+            "[[prepared]]Targeting different pest stages.",
+            "[[prepared]]Reducing the size of the population subjected to selection.",
+            "[[prepared]]Extending the useful life of chemical groups."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conversely, use of an incompatible insecticide may cause:",
+          "prepared_text": "[[prepared]]Conversely, use of an incompatible insecticide may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Loss of the natural enemy.",
+            "Pest increase after residues decline.",
+            "Need for repeated sprays.",
+            "Greater resistance pressure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Loss of the natural enemy.",
+            "[[prepared]]Pest increase after residues decline.",
+            "[[prepared]]Need for repeated sprays.",
+            "[[prepared]]Greater resistance pressure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insecticide selectivity is therefore not only an environmental issue but a central part of resistance management.",
+          "prepared_text": "[[prepared]]Insecticide selectivity is therefore not only an environmental issue but a central part of resistance management."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Economic Compatibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A combination of methods may be biologically compatible but economically impractical.",
+          "prepared_text": "[[prepared]]A combination of methods may be biologically compatible but economically impractical."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be calculated:",
+          "prepared_text": "[[prepared]]The following should be calculated:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cost of control agents.",
+            "Release cost.",
+            "Number of applications.",
+            "Labor.",
+            "Required time intervals.",
+            "Sprays avoided.",
+            "Reduction in fruit infestation.",
+            "Value of acceptable yield.",
+            "Cost of re-establishing a natural enemy after insecticide use."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cost of control agents.",
+            "[[prepared]]Release cost.",
+            "[[prepared]]Number of applications.",
+            "[[prepared]]Labor.",
+            "[[prepared]]Required time intervals.",
+            "[[prepared]]Sprays avoided.",
+            "[[prepared]]Reduction in fruit infestation.",
+            "[[prepared]]Value of acceptable yield.",
+            "[[prepared]]Cost of re-establishing a natural enemy after insecticide use."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The least expensive chemical product may be more costly over the whole season if it kills natural enemies and causes the field to require several later interventions.",
+          "prepared_text": "[[prepared]]The least expensive chemical product may be more costly over the whole season if it kills natural enemies and causes the field to require several later interventions."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of a Successful Compatibility Program"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A program is successful when it achieves:",
+          "prepared_text": "[[prepared]]A program is successful when it achieves:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Survival of natural enemies after intervention.",
+            "Continued parasitism or predation.",
+            "Reduction in new mines.",
+            "Reduction in fruit infestation.",
+            "Fewer sprays.",
+            "No pest resurgence.",
+            "No outbreak of secondary pests.",
+            "Successful performance of microbial agents.",
+            "Fewer tank-mix failures.",
+            "A record explaining every decision.",
+            "Positive economic return."
+          ],
+          "prepared_items": [
+            "[[prepared]]Survival of natural enemies after intervention.",
+            "[[prepared]]Continued parasitism or predation.",
+            "[[prepared]]Reduction in new mines.",
+            "[[prepared]]Reduction in fruit infestation.",
+            "[[prepared]]Fewer sprays.",
+            "[[prepared]]No pest resurgence.",
+            "[[prepared]]No outbreak of secondary pests.",
+            "[[prepared]]Successful performance of microbial agents.",
+            "[[prepared]]Fewer tank-mix failures.",
+            "[[prepared]]A record explaining every decision.",
+            "[[prepared]]Positive economic return."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility Record Template"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Date",
+            "Sector",
+            "Product Used",
+            "Active Ingredient or Organism",
+            "Natural Enemy Present",
+            "Exposure Type",
+            "Compatibility Rating",
+            "Time Interval",
+            "Post-Application Result"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Date",
+            "[[prepared]]Sector",
+            "[[prepared]]Product Used",
+            "[[prepared]]Active Ingredient or Organism",
+            "[[prepared]]Natural Enemy Present",
+            "[[prepared]]Exposure Type",
+            "[[prepared]]Compatibility Rating",
+            "[[prepared]]Time Interval",
+            "[[prepared]]Post-Application Result"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The record should also include:",
+          "prepared_text": "[[prepared]]The record should also include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Commercial formulation.",
+            "Dose.",
+            "Temperature.",
+            "Natural-enemy stage.",
+            "Density before treatment.",
+            "Density after treatment.",
+            "Parasitism or predation rate.",
+            "Fruit infestation.",
+            "Any apparent sublethal effects."
+          ],
+          "prepared_items": [
+            "[[prepared]]Commercial formulation.",
+            "[[prepared]]Dose.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Natural-enemy stage.",
+            "[[prepared]]Density before treatment.",
+            "[[prepared]]Density after treatment.",
+            "[[prepared]]Parasitism or predation rate.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Any apparent sublethal effects."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Assuming Every Biopesticide Is Safe to Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fungi, oils, or extracts may affect parasitoids and predators.",
+          "prepared_text": "[[prepared]]Fungi, oils, or extracts may affect parasitoids and predators."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Judging Compatibility from Mortality Alone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Strong behavioural and reproductive effects may occur.",
+          "prepared_text": "[[prepared]]Strong behavioural and reproductive effects may occur."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Transferring Results from One Species to Another"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Natural-enemy susceptibility differs among species.",
+          "prepared_text": "[[prepared]]Natural-enemy susceptibility differs among species."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Transferring Results from an Active Ingredient to All Commercial Formulations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Adjuvants may alter toxicity.",
+          "prepared_text": "[[prepared]]Adjuvants may alter toxicity."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Treating a Successful Jar Test as Evidence of Biological Compatibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It demonstrates physical compatibility only.",
+          "prepared_text": "[[prepared]]It demonstrates physical compatibility only."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Mixing an Entomopathogenic Fungus with a Fungicide"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Spores may die before application.",
+          "prepared_text": "[[prepared]]Spores may die before application."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Mixing Nematodes with Fertilizers or Disinfectants Without Testing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may lose movement and infectivity.",
+          "prepared_text": "[[prepared]]They may lose movement and infectivity."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Releasing Trichogramma on Leaves Carrying Hazardous Residues"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Adults may die immediately after emergence.",
+          "prepared_text": "[[prepared]]Adults may die immediately after emergence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Removing Parasitized Leaves"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This causes loss of parasitoids.",
+          "prepared_text": "[[prepared]]This causes loss of parasitoids."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Using an Insecticide Against Another Pest Without Considering Its Effect on the Tuta Program"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may disrupt biological control.",
+          "prepared_text": "[[prepared]]It may disrupt biological control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Combining Several Predators Without Study"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Competition or intraguild predation may occur.",
+          "prepared_text": "[[prepared]]Competition or intraguild predation may occur."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Using One Fixed Time Interval for All Insecticides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Residual persistence differs among active ingredients.",
+          "prepared_text": "[[prepared]]Residual persistence differs among active ingredients."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Thirteen: Relying on the Term “Selective” in Marketing Claims"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The natural-enemy species, life stage, and test method should be known.",
+          "prepared_text": "[[prepared]]The natural-enemy species, life stage, and test method should be known."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fourteen: Failing to Monitor Natural Enemies After Treatment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Program effects cannot be determined without measurement.",
+          "prepared_text": "[[prepared]]Program effects cannot be determined without measurement."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fifteen: Treating Compatibility as a Permanent Property"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may change with dose, temperature, formulation, and application method.",
+          "prepared_text": "[[prepared]]It may change with dose, temperature, formulation, and application method."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Practical Priorities in Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Scientific priorities are:",
+          "prepared_text": "[[prepared]]Scientific priorities are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Establish a local database on the effects of registered insecticides on natural enemies.",
+            "2. Test T. achaeae, T. euproctidis, and local strains.",
+            "3. Evaluate N. tenuis and M. pygmaeus under Egyptian temperatures.",
+            "4. Do not transfer classifications from products used in other countries without matching formulation and dose.",
+            "5. Establish time-interval tables before natural-enemy release.",
+            "6. Include disease-control products in compatibility assessment.",
+            "7. Test copper and sulfur with the fungal strains used.",
+            "8. Evaluate nematode viability in local irrigation and spray water.",
+            "9. Analyze the effects of water salinity, bicarbonates, and disinfectants.",
+            "10. Protect naturally occurring natural enemies in open fields.",
+            "11. Use localized treatments where appropriate.",
+            "12. Prevent direct spray on parasitoid cards and release points.",
+            "13. Train workers to recognize parasitized eggs.",
+            "14. Include nursery applications in the field record.",
+            "15. Measure sublethal effects, not mortality alone.",
+            "16. Link compatibility to reduced fruit infestation and economic return.",
+            "17. Do not describe any product as “safe” without specifying the natural enemy and life stage.",
+            "18. Update compatibility tables when registrations and commercial formulations change."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Establish a local database on the effects of registered insecticides on natural enemies.",
+            "[[prepared]]2. Test T. achaeae, T. euproctidis, and local strains.",
+            "[[prepared]]3. Evaluate N. tenuis and M. pygmaeus under Egyptian temperatures.",
+            "[[prepared]]4. Do not transfer classifications from products used in other countries without matching formulation and dose.",
+            "[[prepared]]5. Establish time-interval tables before natural-enemy release.",
+            "[[prepared]]6. Include disease-control products in compatibility assessment.",
+            "[[prepared]]7. Test copper and sulfur with the fungal strains used.",
+            "[[prepared]]8. Evaluate nematode viability in local irrigation and spray water.",
+            "[[prepared]]9. Analyze the effects of water salinity, bicarbonates, and disinfectants.",
+            "[[prepared]]10. Protect naturally occurring natural enemies in open fields.",
+            "[[prepared]]11. Use localized treatments where appropriate.",
+            "[[prepared]]12. Prevent direct spray on parasitoid cards and release points.",
+            "[[prepared]]13. Train workers to recognize parasitized eggs.",
+            "[[prepared]]14. Include nursery applications in the field record.",
+            "[[prepared]]15. Measure sublethal effects, not mortality alone.",
+            "[[prepared]]16. Link compatibility to reduced fruit infestation and economic return.",
+            "[[prepared]]17. Do not describe any product as “safe” without specifying the natural enemy and life stage.",
+            "[[prepared]]18. Update compatibility tables when registrations and commercial formulations change."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Summary of Section Twelve"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compatibility among control methods is not an absolute binary property. It is an outcome that changes according to:",
+          "prepared_text": "[[prepared]]Compatibility among control methods is not an absolute binary property. It is an outcome that changes according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active ingredient.",
+            "Commercial formulation.",
+            "Dose.",
+            "Application method.",
+            "Natural enemy.",
+            "Its life stage.",
+            "Timing.",
+            "Environmental conditions.",
+            "Exposure pathway."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active ingredient.",
+            "[[prepared]]Commercial formulation.",
+            "[[prepared]]Dose.",
+            "[[prepared]]Application method.",
+            "[[prepared]]Natural enemy.",
+            "[[prepared]]Its life stage.",
+            "[[prepared]]Timing.",
+            "[[prepared]]Environmental conditions.",
+            "[[prepared]]Exposure pathway."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Acute toxicity, sublethal effects, and residues should all be assessed rather than direct mortality alone.",
+          "prepared_text": "[[prepared]]Acute toxicity, sublethal effects, and residues should all be assessed rather than direct mortality alone."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "IOBC methods provide a standardized framework for assessing effects on natural enemies, but laboratory results should not be transferred directly to field conditions without semi-field and field tests.",
+          "prepared_text": "[[prepared]]IOBC methods provide a standardized framework for assessing effects on natural enemies, but laboratory results should not be transferred directly to field conditions without semi-field and field tests."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egg parasitoids, particularly Trichogramma, are sensitive to direct exposure and residues. Insecticide applications should therefore be coordinated with card placement and adult emergence.",
+          "prepared_text": "[[prepared]]Egg parasitoids, particularly Trichogramma, are sensitive to direct exposure and residues. Insecticide applications should therefore be coordinated with card placement and adult emergence."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The susceptibility of Macrolophus pygmaeus and Nesidiocoris tenuis to the same active ingredient also differs, and a product cannot be considered safe to mirids as one undifferentiated group.",
+          "prepared_text": "[[prepared]]The susceptibility of Macrolophus pygmaeus and Nesidiocoris tenuis to the same active ingredient also differs, and a product cannot be considered safe to mirids as one undifferentiated group."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt is among the agents most readily integrated with egg parasitoids and predators in many programs because it targets larvae after ingestion, while the specific product and adjuvants still require assessment.",
+          "prepared_text": "[[prepared]]Bt is among the agents most readily integrated with egg parasitoids and predators in many programs because it targets larvae after ingestion, while the specific product and adjuvants still require assessment."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Recent studies have shown relatively good compatibility between B. bassiana, Bt, and some parasitoids of Tuta larvae, whereas other materials have shown clear toxicity or behavioural and reproductive effects.",
+          "prepared_text": "[[prepared]]Recent studies have shown relatively good compatibility between B. bassiana, Bt, and some parasitoids of Tuta larvae, whereas other materials have shown clear toxicity or behavioural and reproductive effects."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Granuloviruses show relatively high compatibility with some larval parasitoids because they target different larval ages, but the sequence of infection and parasitism remains important.",
+          "prepared_text": "[[prepared]]Granuloviruses show relatively high compatibility with some larval parasitoids because they target different larval ages, but the sequence of infection and parasitism remains important."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Entomopathogenic fungi should be carefully coordinated with disease-control fungicides because fungicide residues may prevent spore germination even without direct tank mixing.",
+          "prepared_text": "[[prepared]]Entomopathogenic fungi should be carefully coordinated with disease-control fungicides because fungicide residues may prevent spore germination even without direct tank mixing."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nematodes should not be mixed with an insecticide, fertilizer, or disinfectant unless their movement and infectivity remain verified.",
+          "prepared_text": "[[prepared]]Nematodes should not be mixed with an insecticide, fertilizer, or disinfectant unless their movement and infectivity remain verified."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every IPM program should include a compatibility matrix and a chronological record specifying:",
+          "prepared_text": "[[prepared]]Every IPM program should include a compatibility matrix and a chronological record specifying:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Products used.",
+            "Natural enemies.",
+            "Time intervals.",
+            "Exposure route.",
+            "Field outcomes."
+          ],
+          "prepared_items": [
+            "[[prepared]]Products used.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Time intervals.",
+            "[[prepared]]Exposure route.",
+            "[[prepared]]Field outcomes."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An integrated program succeeds not through the number of its components but through the ability of those components to function together without one undermining another.",
+          "prepared_text": "[[prepared]]An integrated program succeeds not through the number of its components but through the ability of those components to function together without one undermining another."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-12-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Hassan, S. A., et al. (1985). Standard methods to test the side-effects of pesticides on natural enemies of insects and mites developed by the IOBC/WPRS Working Group. EPPO Bulletin, 15, 214–255. DOI: 10.1111/j.1365-2338.1985.tb00224.x.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "International Organisation for Biological and Integrated Control, West Palearctic Regional Section. Pesticide Side Effect Database.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Desneux, N., Han, P., Mansour, R., et al. (2022). Integrated pest management of Tuta absoluta: Practical implementations across different world regions. Journal of Pest Science, 95, 17–39. DOI: 10.1007/s10340-021-01442-8.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Lisi, F., Cavallaro, C., Pitruzzello, M. F., Arnó, J., Desneux, N., Han, P., Wang, X., Zappalà, L., Biondi, A., & Gugliuzzo, A. (2024). Compatibility of bioinsecticides with parasitoids for enhanced integrated pest management of Drosophila suzukii and Tuta absoluta. Insects, 15, 467. DOI: 10.3390/insects15070467.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "Arnó, J., Gabarra, R., Estopà, M., et al. (2011). Side effects of selected insecticides on the Tuta absoluta predators Macrolophus pygmaeus and Nesidiocoris tenuis. Journal of Pest Science.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "Nozad-Bonab, Z., Hejazi, M. J., Iranipour, S., Arzanlou, M., & Biondi, A. (2021). Lethal and sublethal effects of synthetic and bio-insecticides on Trichogramma brassicae. Scientific Reports, 11.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Gallego, J. R., Guerrero-Manzano, J., Fernández-Maldonado, F. J., et al. (2019). Susceptibility of Trichogramma achaeae to selected insecticides used in tomato crops. Spanish Journal of Agricultural Research.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Papari, S., et al. (2024). Side effects of insecticides used for management of Tuta absoluta on the biological control agent Trichogramma brassicae. CABI Agriculture and Bioscience.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Gonthier, J., Arnó, J., Romeis, J., & Collatz, J. (2023). Few indirect effects of baculovirus on parasitoids demonstrate high compatibility of biocontrol methods against Tuta absoluta. Pest Management Science, 79, 1431–1441. DOI: 10.1002/ps.7314.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Chailleux, A., Bearez, P., Pizzol, J., Amiens-Desneux, E., Ramirez-Romero, R., & Desneux, N. (2013). Potential for combined use of parasitoids and generalist predators for biological control of Tuta absoluta. Journal of Pest Science, 86, 533–541. DOI: 10.1007/s10340-013-0498-6.",
+              "url": ""
+            },
+            {
+              "number": 11,
+              "text": "Zappalà, L., Siscaro, G., Biondi, A., Mollá, O., González-Cabrera, J., & Urbaneja, A. (2012). Efficacy of sulphur on Tuta absoluta and its side effects on the predator Nesidiocoris tenuis. Journal of Applied Entomology, 136, 401–409.",
+              "url": ""
+            },
+            {
+              "number": 12,
+              "text": "González-Cabrera, J., Mollá, O., Montón, H., & Urbaneja, A. (2011). Efficacy of Bacillus thuringiensis in controlling the tomato borer Tuta absoluta. BioControl, 56, 71–80. DOI: 10.1007/s10526-010-9310-1.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Amizadeh, M., Hejazi, M. J., Niknam, G., & Arzanlou, M. (2015). Compatibility and interaction between Bacillus thuringiensis and certain insecticides: Perspective in management of Tuta absoluta. Biocontrol Science and Technology, 25, 671–684.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "Pires, L. M., Marques, E. J., Oliveira, J. V., & Alves, S. B. (2010). Selection of isolates of entomopathogenic fungi for controlling Tuta absoluta and their compatibility with insecticides used in tomato. Neotropical Entomology, 39, 977–984.",
+              "url": ""
+            },
+            {
+              "number": 15,
+              "text": "Gabarra, R., Arnó, J., Lara, L., et al. (2014). Native parasitoids associated with Tuta absoluta in the Mediterranean region. Biological Control.",
+              "url": ""
+            },
+            {
+              "number": 16,
+              "text": "Urbaneja, A., Montón, H., & Mollá, O. (2009). Suitability of Tuta absoluta as prey for Macrolophus pygmaeus and Nesidiocoris tenuis. Journal of Applied Entomology, 133, 292–296.",
+              "url": ""
+            },
+            {
+              "number": 17,
+              "text": "Calvo, F. J., Lorente, M. J., Stansly, P. A., & Belda, J. E. (2012). Preplant release of Nesidiocoris tenuis and supplementary tactics for control of Tuta absoluta and Bemisia tabaci. Entomologia Experimentalis et Applicata, 143, 111–119.",
+              "url": ""
+            },
+            {
+              "number": 18,
+              "text": "Batalla-Carrera, L., Morton, A., & García-del-Pino, F. (2010). Efficacy of entomopathogenic nematodes against Tuta absoluta in laboratory and greenhouse conditions. BioControl, 55, 523–530.",
+              "url": ""
+            },
+            {
+              "number": 19,
+              "text": "Koller, J., Gonthier, J., Arnó, J., Romeis, J., & Collatz, J. (2024). A parasitoid wasp allied with an entomopathogenic virus to control Tuta absoluta. Biological Control.",
+              "url": ""
+            },
+            {
+              "number": 20,
+              "text": "Ferracini, C., Bueno, V. H. P., Dindo, M. L., et al. (2019). Natural enemies of Tuta absoluta in the Mediterranean basin, Europe and South America. Biocontrol Science and Technology.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 12,
+        "part_title": "Section Twelve: Compatibility Among Integrated Pest Management Components",
+        "part_subtitle": "Compatibility Among Integrated Pest Management Components"
+      }
+    }
+  ]
+}
