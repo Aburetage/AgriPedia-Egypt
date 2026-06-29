@@ -1,0 +1,3531 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 10,
+  "part_title": "Section Ten: Rational Chemical Control",
+  "part_short_title": "Rational Chemical Control",
+  "part_subtitle": "Rational Chemical Control of Tuta absoluta",
+  "content_path": "tuta/9/10.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insecticides remain one of the tools used to manage Tuta absoluta, but they are not the sole foundation of the program and do not provide sustainable management when used alone.",
+          "prepared_text": "[[prepared]]Insecticides remain one of the tools used to manage Tuta absoluta, but they are not the sole foundation of the program and do not provide sustainable management when used alone."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest possesses several characteristics that make continuous reliance on insecticides vulnerable to failure, most importantly:",
+          "prepared_text": "[[prepared]]The pest possesses several characteristics that make continuous reliance on insecticides vulnerable to failure, most importantly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A short life cycle under suitable temperatures.",
+            "High reproductive capacity.",
+            "Overlapping generations within the field.",
+            "Larvae concealed inside mines in leaves, stems, and fruits.",
+            "Continued moth immigration from neighboring fields.",
+            "Exposure of several successive generations to insecticides within the same season.",
+            "Documented resistance to several mode-of-action groups.",
+            "Difficulty reaching advanced larvae inside fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]A short life cycle under suitable temperatures.",
+            "[[prepared]]High reproductive capacity.",
+            "[[prepared]]Overlapping generations within the field.",
+            "[[prepared]]Larvae concealed inside [[term:mines]]mines[[/term]] in leaves, stems, and fruits.",
+            "[[prepared]]Continued moth immigration from neighboring fields.",
+            "[[prepared]]Exposure of several successive generations to insecticides within the same season.",
+            "[[prepared]]Documented resistance to several mode-of-action groups.",
+            "[[prepared]]Difficulty reaching advanced larvae inside fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Chemical control should therefore be used as a targeted intervention within an integrated pest-management program, after preventive, monitoring, cultural, biological, and behavioural measures have been implemented.",
+          "prepared_text": "[[prepared]]Chemical control should therefore be used as a targeted intervention within an integrated pest-management program, after preventive, monitoring, cultural, biological, and behavioural measures have been implemented."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Success of chemical control is not measured by the number of sprays or the rapid knockdown of some larvae, but by its ability to:",
+          "prepared_text": "[[prepared]]Success of chemical control is not measured by the number of sprays or the rapid knockdown of some larvae, but by its ability to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduce new mines.",
+            "Reduce live larvae.",
+            "Prevent infestation of growing points and clusters.",
+            "Prevent larvae from reaching fruits.",
+            "Protect marketable or processable yield.",
+            "Conserve natural enemies.",
+            "Avoid exceeding maximum residue limits.",
+            "Delay resistance development."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduce new mines.",
+            "[[prepared]]Reduce live larvae.",
+            "[[prepared]]Prevent infestation of growing points and clusters.",
+            "[[prepared]]Prevent larvae from reaching fruits.",
+            "[[prepared]]Protect marketable or processable yield.",
+            "[[prepared]]Conserve [[term:biological-control]]natural enemies[[/term]].",
+            "[[prepared]]Avoid exceeding [[term:pesticide-safety]]maximum residue limits[[/term]].",
+            "[[prepared]]Delay resistance development."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "When Is Chemical Intervention Justified?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Chemical intervention becomes justified when monitoring data indicate that the pest population is approaching a level that available preventive and biological measures cannot contain in time.",
+          "prepared_text": "[[prepared]]Chemical intervention becomes justified when monitoring data indicate that the pest population is approaching a level that available preventive and biological measures cannot contain in time."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision depends on a group of indicators, including:",
+          "prepared_text": "[[prepared]]The decision depends on a group of indicators, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Consecutive increases in trap catches.",
+            "Presence of newly laid eggs or eggs close to hatching.",
+            "Increase in active mines.",
+            "Presence of live larvae in more than one sector.",
+            "Appearance of infestation in growing points or buds.",
+            "Presence of advanced larvae near clusters.",
+            "Beginning of fruit infestation.",
+            "Decline in natural-enemy activity.",
+            "An immigration wave from an old field.",
+            "The pest approaching the local intervention threshold."
+          ],
+          "prepared_items": [
+            "[[prepared]]Consecutive increases in trap catches.",
+            "[[prepared]]Presence of newly laid eggs or eggs close to hatching.",
+            "[[prepared]]Increase in active mines.",
+            "[[prepared]]Presence of live larvae in more than one sector.",
+            "[[prepared]]Appearance of infestation in growing points or buds.",
+            "[[prepared]]Presence of advanced larvae near clusters.",
+            "[[prepared]]Beginning of fruit infestation.",
+            "[[prepared]]Decline in natural-enemy activity.",
+            "[[prepared]]An immigration wave from an old field.",
+            "[[prepared]]The pest approaching the local intervention threshold."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Chemical intervention is not justified solely by:",
+          "prepared_text": "[[prepared]]Chemical intervention is not justified solely by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Presence of old empty mines.",
+            "Capture of a single moth.",
+            "A fixed calendar schedule.",
+            "Fear of possible infestation without evidence.",
+            "A commercial recommendation unsupported by field inspection.",
+            "Repeating the previous season’s program without evaluating current conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Presence of old empty mines.",
+            "[[prepared]]Capture of a single moth.",
+            "[[prepared]]A fixed calendar schedule.",
+            "[[prepared]]Fear of possible infestation without evidence.",
+            "[[prepared]]A commercial recommendation unsupported by field inspection.",
+            "[[prepared]]Repeating the previous season’s program without evaluating current conditions."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Questions Before Selecting an Insecticide"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before choosing any active ingredient, the following questions should be answered:",
+          "prepared_text": "[[prepared]]Before choosing any [[term:active-ingredient]]active ingredient[[/term]], the following questions should be answered:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. What is the dominant stage: eggs, young larvae, or advanced larvae?",
+            "2. Are larvae still in leaves or have they entered growing points and fruits?",
+            "3. Is infestation localized or distributed?",
+            "4. Which mode-of-action group was previously used?",
+            "5. Is there evidence of reduced susceptibility to that group?",
+            "6. Which natural enemies are present in the field?",
+            "7. How much time remains until harvest?",
+            "8. What is the registered preharvest interval?",
+            "9. What is the maximum number of seasonal applications?",
+            "10. Is the active ingredient currently registered on tomato and against the pest in the country?",
+            "11. Is it compatible with supply-market, processing-factory, or export requirements?",
+            "12. Is there a less harmful method capable of achieving the same result?"
+          ],
+          "prepared_items": [
+            "[[prepared]]1. What is the dominant stage: eggs, young larvae, or advanced larvae?",
+            "[[prepared]]2. Are larvae still in leaves or have they entered growing points and fruits?",
+            "[[prepared]]3. Is infestation localized or distributed?",
+            "[[prepared]]4. Which mode-of-action group was previously used?",
+            "[[prepared]]5. Is there evidence of reduced susceptibility to that group?",
+            "[[prepared]]6. Which natural enemies are present in the field?",
+            "[[prepared]]7. How much time remains until harvest?",
+            "[[prepared]]8. What is the registered preharvest interval?",
+            "[[prepared]]9. What is the maximum number of seasonal applications?",
+            "[[prepared]]10. Is the active ingredient currently registered on tomato and against the pest in the country?",
+            "[[prepared]]11. Is it compatible with supply-market, processing-factory, or export requirements?",
+            "[[prepared]]12. Is there a less harmful method capable of achieving the same result?"
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An insecticide choice is not correct if it is effective against the pest but unregistered, incompatible with harvest timing, or highly disruptive to the biological-control program.",
+          "prepared_text": "[[prepared]]An insecticide choice is not correct if it is effective against the pest but unregistered, incompatible with harvest timing, or highly disruptive to the biological-control program."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Optimum Target Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Newly hatched larvae and the first and second instars are the best stages for chemical control in most programs.",
+          "prepared_text": "[[prepared]]Newly hatched larvae and the first and second instars are the best stages for chemical control in most programs."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These larvae are:",
+          "prepared_text": "[[prepared]]These larvae are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Small.",
+            "Usually not yet inside fruits.",
+            "Present in limited superficial mines.",
+            "Actively feeding.",
+            "Relatively susceptible at lower doses.",
+            "More sensitive to many insect-growth regulators and selective insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Small.",
+            "[[prepared]]Usually not yet inside fruits.",
+            "[[prepared]]Present in limited superficial mines.",
+            "[[prepared]]Actively feeding.",
+            "[[prepared]]Relatively susceptible at lower doses.",
+            "[[prepared]]More sensitive to many insect-growth regulators and selective insecticides."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Third- and fourth-instar larvae are more difficult to control because of:",
+          "prepared_text": "[[prepared]]Third- and fourth-instar larvae are more difficult to control because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larger body size.",
+            "Expanded mines.",
+            "Movement among plant organs.",
+            "Entry into growing points, stems, and fruits.",
+            "Reduced exposure to insecticide residues.",
+            "Greater damage before the active ingredient takes effect."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larger body size.",
+            "[[prepared]]Expanded mines.",
+            "[[prepared]]Movement among plant organs.",
+            "[[prepared]]Entry into growing points, stems, and fruits.",
+            "[[prepared]]Reduced exposure to insecticide residues.",
+            "[[prepared]]Greater damage before the active ingredient takes effect."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The program should therefore aim to prevent the larval population from reaching advanced instars, rather than waiting for large larvae to appear and then attempting to kill them.",
+          "prepared_text": "[[prepared]]The program should therefore aim to prevent the larval population from reaching advanced instars, rather than waiting for large larvae to appear and then attempting to kill them."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spray Timing in Relation to Eggs and Hatching"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The optimum timing depends on the mode of action.",
+          "prepared_text": "[[prepared]]The optimum timing depends on the [[term:mode-of-action]]mode of action[[/term]]."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Active Ingredients Acting Through Feeding"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are applied before hatching or at its onset so that residues are present on tissues when larvae begin feeding.",
+          "prepared_text": "[[prepared]]These are applied before hatching or at its onset so that residues are present on tissues when larvae begin feeding."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Active Ingredients Affecting Growth and Molting"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are more effective when young instars are exposed before approaching molt or entering deep tissues.",
+          "prepared_text": "[[prepared]]These are more effective when young instars are exposed before approaching molt or entering deep tissues."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Active Ingredients with Contact or Translaminar Activity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These require coverage of egg sites and recent mines, and good coverage does not compensate for very late application.",
+          "prepared_text": "[[prepared]]These require coverage of egg sites and recent mines, and good coverage does not compensate for very late application."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Hatching time is determined using:",
+          "prepared_text": "[[prepared]]Hatching time is determined using:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg age.",
+            "Egg color.",
+            "Empty eggshells.",
+            "Temperature.",
+            "Accumulated degree-days.",
+            "Date of increased trap catches.",
+            "Frequent inspection of young growth."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg age.",
+            "[[prepared]]Egg color.",
+            "[[prepared]]Empty eggshells.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Accumulated degree-days.",
+            "[[prepared]]Date of increased trap catches.",
+            "[[prepared]]Frequent inspection of young growth."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Why Is Targeting Adult Moths Alone Insufficient?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some insecticides can kill adult moths, but reliance on this effect alone is insufficient because:",
+          "prepared_text": "[[prepared]]Some insecticides can kill adult moths, but reliance on this effect alone is insufficient because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Some females may already have mated and laid eggs.",
+            "New moths may enter after spraying.",
+            "Eggs, larvae, and pupae are present simultaneously.",
+            "Moths may remain concealed within the canopy.",
+            "Their activity period may differ from application timing.",
+            "Broad-spectrum adulticides may harm natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Some females may already have mated and laid eggs.",
+            "[[prepared]]New moths may enter after spraying.",
+            "[[prepared]]Eggs, larvae, and [[term:pupation]]pupae[[/term]] are present simultaneously.",
+            "[[prepared]]Moths may remain concealed within the canopy.",
+            "[[prepared]]Their activity period may differ from application timing.",
+            "[[prepared]]Broad-spectrum adulticides may harm natural enemies."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision should therefore focus mainly on preventing hatching and reducing young larvae, while adult control remains a supplementary element in specific situations.",
+          "prepared_text": "[[prepared]]The decision should therefore focus mainly on preventing hatching and reducing young larvae, while adult control remains a supplementary element in specific situations."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Importance of Application Technique"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An insecticide with proven efficacy may fail because of poor application rather than weakness of the active ingredient.",
+          "prepared_text": "[[prepared]]An insecticide with proven efficacy may fail because of poor application rather than weakness of the active ingredient."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Important factors include:",
+          "prepared_text": "[[prepared]]Important factors include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Sprayer type.",
+            "Nozzle calibration.",
+            "Operating pressure.",
+            "Tractor or operator speed.",
+            "Spray-water volume.",
+            "Droplet size.",
+            "Canopy density.",
+            "Nozzle direction.",
+            "Boom height.",
+            "Wind and temperature.",
+            "Distribution of spray between field edges and the plant interior."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sprayer type.",
+            "[[prepared]]Nozzle calibration.",
+            "[[prepared]]Operating pressure.",
+            "[[prepared]]Tractor or operator speed.",
+            "[[prepared]]Spray-water volume.",
+            "[[prepared]]Droplet size.",
+            "[[prepared]]Canopy density.",
+            "[[prepared]]Nozzle direction.",
+            "[[prepared]]Boom height.",
+            "[[prepared]]Wind and temperature.",
+            "[[prepared]]Distribution of spray between field edges and the plant interior."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta management requires coverage of:",
+          "prepared_text": "[[prepared]]Tuta absoluta management requires coverage of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The growing point.",
+            "Most recently fully expanded leaves.",
+            "Lower leaf surfaces.",
+            "Petioles.",
+            "Areas containing recent mines.",
+            "Leaves close to clusters.",
+            "The calyx–fruit junction.",
+            "Internal canopy parts."
+          ],
+          "prepared_items": [
+            "[[prepared]]The growing point.",
+            "[[prepared]]Most recently fully expanded leaves.",
+            "[[prepared]]Lower leaf surfaces.",
+            "[[prepared]]Petioles.",
+            "[[prepared]]Areas containing recent mines.",
+            "[[prepared]]Leaves close to clusters.",
+            "[[prepared]]The calyx–fruit junction.",
+            "[[prepared]]Internal canopy parts."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increasing spray pressure does not automatically improve control and may cause:",
+          "prepared_text": "[[prepared]]Increasing spray pressure does not automatically improve control and may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Greater drift.",
+            "Formation of very fine droplets lost outside the field.",
+            "Spray rebound.",
+            "Deposition only on external surfaces.",
+            "Poor penetration into the canopy.",
+            "Increased exposure of workers and neighboring areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Greater drift.",
+            "[[prepared]]Formation of very fine droplets lost outside the field.",
+            "[[prepared]]Spray rebound.",
+            "[[prepared]]Deposition only on external surfaces.",
+            "[[prepared]]Poor penetration into the canopy.",
+            "[[prepared]]Increased exposure of workers and neighboring areas."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sprayer Calibration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The sprayer should be calibrated before insecticide use to determine:",
+          "prepared_text": "[[prepared]]The sprayer should be calibrated before insecticide use to determine:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nozzle flow rate.",
+            "Uniformity among nozzles.",
+            "Spray-water volume per unit area.",
+            "Travel speed.",
+            "Spray width.",
+            "Operating pressure.",
+            "Appropriate droplet size."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nozzle flow rate.",
+            "[[prepared]]Uniformity among nozzles.",
+            "[[prepared]]Spray-water volume per unit area.",
+            "[[prepared]]Travel speed.",
+            "[[prepared]]Spray width.",
+            "[[prepared]]Operating pressure.",
+            "[[prepared]]Appropriate droplet size."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calibration includes:",
+          "prepared_text": "[[prepared]]Calibration includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Inspecting the tank and hoses.",
+            "2. Cleaning filters.",
+            "3. Confirming nozzle uniformity.",
+            "4. Replacing worn nozzles.",
+            "5. Measuring actual discharge.",
+            "6. Adjusting travel speed.",
+            "7. Testing coverage with water.",
+            "8. Using water-sensitive paper when available.",
+            "9. Reviewing deposition on lower leaf surfaces and growing points.",
+            "10. Recalibrating when plant size or nozzle type changes."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Inspecting the tank and hoses.",
+            "[[prepared]]2. Cleaning filters.",
+            "[[prepared]]3. Confirming nozzle uniformity.",
+            "[[prepared]]4. Replacing worn nozzles.",
+            "[[prepared]]5. Measuring actual discharge.",
+            "[[prepared]]6. Adjusting travel speed.",
+            "[[prepared]]7. Testing coverage with water.",
+            "[[prepared]]8. Using water-sensitive paper when available.",
+            "[[prepared]]9. Reviewing deposition on lower leaf surfaces and growing points.",
+            "[[prepared]]10. Recalibrating when plant size or nozzle type changes."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A sprayer calibrated at the beginning of the season should not be assumed to remain suitable after canopy volume has doubled.",
+          "prepared_text": "[[prepared]]A sprayer calibrated at the beginning of the season should not be assumed to remain suitable after canopy volume has doubled."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spray-Water Volume"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Spray-water volume should be determined according to plant size, production system, and equipment rather than a fixed number throughout the season.",
+          "prepared_text": "[[prepared]]Spray-water volume should be determined according to plant size, production system, and equipment rather than a fixed number throughout the season."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should achieve:",
+          "prepared_text": "[[prepared]]It should achieve:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Adequate coverage.",
+            "Canopy penetration.",
+            "Minimal excessive runoff.",
+            "Minimal loss of most spray to the soil.",
+            "Uniform deposition on target sites."
+          ],
+          "prepared_items": [
+            "[[prepared]]Adequate coverage.",
+            "[[prepared]]Canopy penetration.",
+            "[[prepared]]Minimal excessive runoff.",
+            "[[prepared]]Minimal loss of most spray to the soil.",
+            "[[prepared]]Uniform deposition on target sites."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Excessively low volume leaves untreated areas, whereas excessive volume causes:",
+          "prepared_text": "[[prepared]]Excessively low volume leaves untreated areas, whereas excessive volume causes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Runoff.",
+            "Soil contamination.",
+            "Increased cost.",
+            "Potentially elevated residues in some sites.",
+            "Loss of active ingredient before fixation on leaves."
+          ],
+          "prepared_items": [
+            "[[prepared]]Runoff.",
+            "[[prepared]]Soil contamination.",
+            "[[prepared]]Increased cost.",
+            "[[prepared]]Potentially elevated residues in some sites.",
+            "[[prepared]]Loss of active ingredient before fixation on leaves."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spray-Water Quality"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some active ingredients or formulations may be affected by water characteristics, including:",
+          "prepared_text": "[[prepared]]Some active ingredients or formulations may be affected by water characteristics, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "pH.",
+            "Bicarbonates.",
+            "Hardness.",
+            "Salinity.",
+            "Suspended materials.",
+            "Chlorine and disinfectants.",
+            "Water temperature."
+          ],
+          "prepared_items": [
+            "[[prepared]]pH.",
+            "[[prepared]]Bicarbonates.",
+            "[[prepared]]Hardness.",
+            "[[prepared]]Salinity.",
+            "[[prepared]]Suspended materials.",
+            "[[prepared]]Chlorine and disinfectants.",
+            "[[prepared]]Water temperature."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The product label should be reviewed before adjusting water.",
+          "prepared_text": "[[prepared]]The product label should be reviewed before adjusting water."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Acids or acidifying agents should not be added randomly because:",
+          "prepared_text": "[[prepared]]Acids or acidifying agents should not be added randomly because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Some active ingredients are more stable within a specific pH range.",
+            "Excessive adjustment may cause degradation or phytotoxicity.",
+            "Some mixtures react with fertilizers or copper.",
+            "Tank pH alone does not represent overall solution quality."
+          ],
+          "prepared_items": [
+            "[[prepared]]Some active ingredients are more stable within a specific pH range.",
+            "[[prepared]]Excessive adjustment may cause degradation or phytotoxicity.",
+            "[[prepared]]Some mixtures react with fertilizers or copper.",
+            "[[prepared]]Tank pH alone does not represent overall solution quality."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When several components are used, a small compatibility test should be conducted before preparing the full tank.",
+          "prepared_text": "[[prepared]]When several components are used, a small compatibility test should be conducted before preparing the full tank."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Adjuvants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Adjuvants include:",
+          "prepared_text": "[[prepared]]Adjuvants include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spreaders.",
+            "Wetting agents.",
+            "Stickers.",
+            "Oils.",
+            "Antifoaming agents.",
+            "pH modifiers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spreaders.",
+            "[[prepared]]Wetting agents.",
+            "[[prepared]]Stickers.",
+            "[[prepared]]Oils.",
+            "[[prepared]]Antifoaming agents.",
+            "[[prepared]]pH modifiers."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may improve coverage or persistence for some products, but may also cause:",
+          "prepared_text": "[[prepared]]They may improve coverage or persistence for some products, but may also cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Excessive penetration leading to phytotoxicity.",
+            "Changes in residues.",
+            "Incompatibility with natural enemies.",
+            "Damage to spores in microbial products.",
+            "Increased spray drift.",
+            "Unexpected tank reactions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Excessive penetration leading to phytotoxicity.",
+            "[[prepared]]Changes in residues.",
+            "[[prepared]]Incompatibility with natural enemies.",
+            "[[prepared]]Damage to spores in microbial products.",
+            "[[prepared]]Increased spray drift.",
+            "[[prepared]]Unexpected tank reactions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An adjuvant should therefore be used only when recommended on the product label or when compatibility has been demonstrated in a documented test.",
+          "prepared_text": "[[prepared]]An adjuvant should therefore be used only when recommended on the product label or when compatibility has been demonstrated in a documented test."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Concept of Mode of Action"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mode of action is the principal physiological site or pathway affected by an active ingredient within the insect.",
+          "prepared_text": "[[prepared]]Mode of action is the principal physiological site or pathway affected by an active ingredient within the insect."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The Insecticide Resistance Action Committee, IRAC, classifies insecticides into numbered groups.",
+          "prepared_text": "[[prepared]]The [[term:resistance]]Insecticide Resistance[[/term]] Action Committee, [[term:irac]]IRAC[[/term]], classifies insecticides into numbered groups."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance-management programs are built around the mode-of-action group number, not:",
+          "prepared_text": "[[prepared]]Resistance-management programs are built around the mode-of-action group number, not:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trade name.",
+            "Manufacturer.",
+            "Package color.",
+            "Minor differences in chemical name.",
+            "Formulation differences alone."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trade name.",
+            "[[prepared]]Manufacturer.",
+            "[[prepared]]Package color.",
+            "[[prepared]]Minor differences in chemical name.",
+            "[[prepared]]Formulation differences alone."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Two products may have different trade names but belong to the same group, and switching between them does not constitute true rotation.",
+          "prepared_text": "[[prepared]]Two products may have different trade names but belong to the same group, and switching between them does not constitute true rotation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mode-of-Action Groups Used or Studied Against Lepidoptera"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following table presents groups of scientific importance. Mention of an active ingredient does not imply that it is currently registered against Tuta absoluta or on tomato in Egypt.",
+          "prepared_text": "[[prepared]]The following table presents groups of scientific importance. Mention of an active ingredient does not imply that it is currently registered against Tuta absoluta or on tomato in Egypt."
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "IRAC Group",
+            "Target Site or Mode of Action",
+            "Examples of Active Ingredients",
+            "Principal Notes"
+          ],
+          "rows": [
+            [
+              "1A",
+              "Acetylcholinesterase inhibitors — carbamates",
+              "Methomyl",
+              "Relatively broad spectrum; resistance common in pests"
+            ],
+            [
+              "1B",
+              "Acetylcholinesterase inhibitors — organophosphates",
+              "Multiple active ingredients",
+              "Broad effects on natural enemies; registrations vary greatly"
+            ],
+            [
+              "3A",
+              "Sodium-channel modulators — pyrethroids",
+              "Lambda-cyhalothrin, Deltamethrin",
+              "High resistance risk and strong effects on beneficial organisms"
+            ],
+            [
+              "4A",
+              "Nicotinic acetylcholine-receptor competitive modulators",
+              "Imidacloprid, Acetamiprid, and others",
+              "Used mainly against sucking pests in tomato; not automatically primary Tuta options"
+            ],
+            [
+              "5",
+              "Nicotinic acetylcholine-receptor allosteric modulators — spinosyns",
+              "Spinosad, Spinetoram",
+              "Same group despite different active ingredients"
+            ],
+            [
+              "6",
+              "Glutamate-gated chloride-channel allosteric modulators",
+              "Abamectin, Emamectin benzoate",
+              "Same group; not independent rotation partners"
+            ],
+            [
+              "11A",
+              "Microbial disruptors of insect midgut membranes",
+              "Bacillus thuringiensis",
+              "Must be ingested and targets young instars"
+            ],
+            [
+              "13",
+              "Uncouplers of oxidative phosphorylation",
+              "Chlorfenapyr",
+              "Respiratory activity; may strongly affect non-target organisms"
+            ],
+            [
+              "15",
+              "Inhibitors of chitin biosynthesis",
+              "Lufenuron, Chlorfluazuron, Novaluron, and others",
+              "More suitable for young instars and slower acting"
+            ],
+            [
+              "18",
+              "Ecdysone-receptor agonists",
+              "Methoxyfenozide, Tebufenozide",
+              "Disrupt molting and target larvae"
+            ],
+            [
+              "22A",
+              "Voltage-dependent sodium-channel blockers — oxadiazines",
+              "Indoxacarb",
+              "Requires careful resistance management"
+            ],
+            [
+              "22B",
+              "Voltage-dependent sodium-channel blockers — semicarbazones",
+              "Metaflumizone",
+              "Different subgroup but principal group number remains 22"
+            ],
+            [
+              "28",
+              "Ryanodine-receptor modulators — diamides",
+              "Chlorantraniliprole, Cyantraniliprole, Flubendiamide, Tetraniliprole",
+              "All belong to group 28 and do not represent true rotation among themselves"
+            ],
+            [
+              "30",
+              "GABA-gated chloride-channel allosteric modulators",
+              "Broflanilide and others",
+              "Newer active ingredients; use only when registered and locally effective"
+            ],
+            [
+              "31",
+              "Baculoviruses",
+              "Granuloviruses and NPVs",
+              "Biological group with host-specific activity"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]IRAC Group",
+            "[[prepared]]Target Site or Mode of Action",
+            "[[prepared]]Examples of Active Ingredients",
+            "[[prepared]]Principal Notes"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]1A",
+              "[[prepared]]Acetylcholinesterase inhibitors — carbamates",
+              "[[prepared]]Methomyl",
+              "[[prepared]]Relatively broad spectrum; resistance common in pests"
+            ],
+            [
+              "[[prepared]]1B",
+              "[[prepared]]Acetylcholinesterase inhibitors — organophosphates",
+              "[[prepared]]Multiple active ingredients",
+              "[[prepared]]Broad effects on natural enemies; registrations vary greatly"
+            ],
+            [
+              "[[prepared]]3A",
+              "[[prepared]]Sodium-channel modulators — pyrethroids",
+              "[[prepared]]Lambda-cyhalothrin, Deltamethrin",
+              "[[prepared]]High resistance risk and strong effects on beneficial organisms"
+            ],
+            [
+              "[[prepared]]4A",
+              "[[prepared]]Nicotinic acetylcholine-receptor competitive modulators",
+              "[[prepared]]Imidacloprid, Acetamiprid, and others",
+              "[[prepared]]Used mainly against sucking pests in tomato; not automatically primary Tuta options"
+            ],
+            [
+              "[[prepared]]5",
+              "[[prepared]]Nicotinic acetylcholine-receptor allosteric modulators — spinosyns",
+              "[[prepared]]Spinosad, Spinetoram",
+              "[[prepared]]Same group despite different active ingredients"
+            ],
+            [
+              "[[prepared]]6",
+              "[[prepared]]Glutamate-gated chloride-channel allosteric modulators",
+              "[[prepared]]Abamectin, Emamectin benzoate",
+              "[[prepared]]Same group; not independent rotation partners"
+            ],
+            [
+              "[[prepared]]11A",
+              "[[prepared]]Microbial disruptors of insect midgut membranes",
+              "[[prepared]]Bacillus thuringiensis",
+              "[[prepared]]Must be ingested and targets young instars"
+            ],
+            [
+              "[[prepared]]13",
+              "[[prepared]]Uncouplers of oxidative phosphorylation",
+              "[[prepared]]Chlorfenapyr",
+              "[[prepared]]Respiratory activity; may strongly affect non-target organisms"
+            ],
+            [
+              "[[prepared]]15",
+              "[[prepared]]Inhibitors of chitin biosynthesis",
+              "[[prepared]]Lufenuron, Chlorfluazuron, Novaluron, and others",
+              "[[prepared]]More suitable for young instars and slower acting"
+            ],
+            [
+              "[[prepared]]18",
+              "[[prepared]]Ecdysone-receptor agonists",
+              "[[prepared]]Methoxyfenozide, Tebufenozide",
+              "[[prepared]]Disrupt molting and target larvae"
+            ],
+            [
+              "[[prepared]]22A",
+              "[[prepared]]Voltage-dependent sodium-channel blockers — oxadiazines",
+              "[[prepared]]Indoxacarb",
+              "[[prepared]]Requires careful resistance management"
+            ],
+            [
+              "[[prepared]]22B",
+              "[[prepared]]Voltage-dependent sodium-channel blockers — semicarbazones",
+              "[[prepared]]Metaflumizone",
+              "[[prepared]]Different subgroup but principal group number remains 22"
+            ],
+            [
+              "[[prepared]]28",
+              "[[prepared]]Ryanodine-receptor modulators — diamides",
+              "[[prepared]]Chlorantraniliprole, Cyantraniliprole, Flubendiamide, Tetraniliprole",
+              "[[prepared]]All belong to group 28 and do not represent true rotation among themselves"
+            ],
+            [
+              "[[prepared]]30",
+              "[[prepared]]GABA-gated chloride-channel allosteric modulators",
+              "[[prepared]]Broflanilide and others",
+              "[[prepared]]Newer active ingredients; use only when registered and locally effective"
+            ],
+            [
+              "[[prepared]]31",
+              "[[prepared]]Baculoviruses",
+              "[[prepared]]Granuloviruses and NPVs",
+              "[[prepared]]Biological group with host-specific activity"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spinosyns — IRAC 5"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This group includes:",
+          "prepared_text": "[[prepared]]This group includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spinosad.",
+            "Spinetoram."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spinosad.",
+            "[[prepared]]Spinetoram."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These active ingredients act as allosteric modulators of nicotinic acetylcholine receptors at a specific binding site.",
+          "prepared_text": "[[prepared]]These active ingredients act as allosteric modulators of nicotinic acetylcholine receptors at a specific binding site."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Registered products used against larvae generally act through:",
+          "prepared_text": "[[prepared]]Registered products used against larvae generally act through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Ingestion.",
+            "Contact to varying degrees.",
+            "Feeding cessation.",
+            "Neurotoxic activity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Ingestion.",
+            "[[prepared]]Contact to varying degrees.",
+            "[[prepared]]Feeding cessation.",
+            "[[prepared]]Neurotoxic activity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Important considerations include:",
+          "prepared_text": "[[prepared]]Important considerations include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spinosad and Spinetoram belong to the same group.",
+            "Rotating between them does not constitute a change in mode of action.",
+            "Repeated group use against successive generations increases selection pressure.",
+            "Some parasitoids and predators may be affected by direct exposure or residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spinosad and Spinetoram belong to the same group.",
+            "[[prepared]]Rotating between them does not constitute a change in mode of action.",
+            "[[prepared]]Repeated group use against successive generations increases selection pressure.",
+            "[[prepared]]Some parasitoids and predators may be affected by direct exposure or residues."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Avermectins — IRAC 6"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This group includes:",
+          "prepared_text": "[[prepared]]This group includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Emamectin benzoate.",
+            "Abamectin.",
+            "Other active ingredients within the same group."
+          ],
+          "prepared_items": [
+            "[[prepared]]Emamectin benzoate.",
+            "[[prepared]]Abamectin.",
+            "[[prepared]]Other active ingredients within the same group."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They act by modulating glutamate-gated chloride channels, causing disruption of nerve transmission and paralysis.",
+          "prepared_text": "[[prepared]]They act by modulating glutamate-gated chloride channels, causing disruption of nerve transmission and paralysis."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rotation between Emamectin benzoate and Abamectin should not be considered rotation between different groups because both carry IRAC group number 6.",
+          "prepared_text": "[[prepared]]Rotation between Emamectin benzoate and Abamectin should not be considered rotation between different groups because both carry IRAC group number 6."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy is affected by:",
+          "prepared_text": "[[prepared]]Efficacy is affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval age.",
+            "Coverage.",
+            "Light exposure.",
+            "Susceptibility of the local population.",
+            "Previous history of group use."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larval age.",
+            "[[prepared]]Coverage.",
+            "[[prepared]]Light exposure.",
+            "[[prepared]]Susceptibility of the local population.",
+            "[[prepared]]Previous history of group use."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Bacillus thuringiensis — IRAC 11A"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt is classified by IRAC as a microbial disruptor of insect midgut membranes.",
+          "prepared_text": "[[prepared]]Bt is classified by IRAC as a microbial disruptor of insect midgut membranes."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its value within chemical and microbial programs includes:",
+          "prepared_text": "[[prepared]]Its value within chemical and microbial programs includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Targeting young larvae.",
+            "A mode of action different from neurotoxic and muscle-active insecticides.",
+            "Potential compatibility with natural enemies when demonstrated.",
+            "Reduced pressure on chemical groups."
+          ],
+          "prepared_items": [
+            "[[prepared]]Targeting young larvae.",
+            "[[prepared]]A mode of action different from neurotoxic and muscle-active insecticides.",
+            "[[prepared]]Potential compatibility with natural enemies when demonstrated.",
+            "[[prepared]]Reduced pressure on chemical groups."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt products are not identical and may differ in:",
+          "prepared_text": "[[prepared]]Bt products are not identical and may differ in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Subspecies.",
+            "Strain.",
+            "Cry and Vip proteins.",
+            "Concentration.",
+            "Formulation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Subspecies.",
+            "[[prepared]]Strain.",
+            "[[prepared]]Cry and Vip proteins.",
+            "[[prepared]]Concentration.",
+            "[[prepared]]Formulation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Differences among some Bt products may permit more precise resistance management, but this requires product-specific data rather than reliance on the general name.",
+          "prepared_text": "[[prepared]]Differences among some Bt products may permit more precise resistance management, but this requires product-specific data rather than reliance on the general name."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Chlorfenapyr — IRAC 13"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Chlorfenapyr acts by uncoupling oxidative phosphorylation and disrupting energy production.",
+          "prepared_text": "[[prepared]]Chlorfenapyr acts by uncoupling oxidative phosphorylation and disrupting energy production."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its mode of action differs from that of common neurotoxic insecticides, but it is not an unrestricted solution. The following should be considered:",
+          "prepared_text": "[[prepared]]Its mode of action differs from that of common neurotoxic insecticides, but it is not an unrestricted solution. The following should be considered:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Current registration.",
+            "Effects on natural enemies.",
+            "Preharvest interval.",
+            "Maximum number of applications.",
+            "Previous history of use.",
+            "Susceptibility of the local population."
+          ],
+          "prepared_items": [
+            "[[prepared]]Current registration.",
+            "[[prepared]]Effects on natural enemies.",
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Maximum number of applications.",
+            "[[prepared]]Previous history of use.",
+            "[[prepared]]Susceptibility of the local population."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should not be repeatedly used as a rescue solution following failure of other groups because repetition increases selection pressure against it.",
+          "prepared_text": "[[prepared]]It should not be repeatedly used as a rescue solution following failure of other groups because repetition increases selection pressure against it."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Inhibitors of Chitin Biosynthesis — IRAC 15"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Benzoylurea insecticides include active ingredients such as:",
+          "prepared_text": "[[prepared]]Benzoylurea insecticides include active ingredients such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Lufenuron.",
+            "Chlorfluazuron.",
+            "Novaluron.",
+            "Diflubenzuron.",
+            "Others."
+          ],
+          "prepared_items": [
+            "[[prepared]]Lufenuron.",
+            "[[prepared]]Chlorfluazuron.",
+            "[[prepared]]Novaluron.",
+            "[[prepared]]Diflubenzuron.",
+            "[[prepared]]Others."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They interfere with synthesis of chitin required for molting.",
+          "prepared_text": "[[prepared]]They interfere with synthesis of chitin required for molting."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They are more suitable:",
+          "prepared_text": "[[prepared]]They are more suitable:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Against early larval instars.",
+            "Before larvae reach fruits.",
+            "When sufficient time is available for the effect to appear."
+          ],
+          "prepared_items": [
+            "[[prepared]]Against early [[term:larval-instar]]larval instars[[/term]].",
+            "[[prepared]]Before larvae reach fruits.",
+            "[[prepared]]When sufficient time is available for the effect to appear."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may not provide rapid mortality because larvae may be affected at the following molt.",
+          "prepared_text": "[[prepared]]They may not provide rapid mortality because larvae may be affected at the following molt."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Different active ingredients within group 15 do not represent rotation in mode of action.",
+          "prepared_text": "[[prepared]]Different active ingredients within group 15 do not represent rotation in mode of action."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Ecdysone-Receptor Agonists — IRAC 18"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This group includes active ingredients such as:",
+          "prepared_text": "[[prepared]]This group includes active ingredients such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Methoxyfenozide.",
+            "Tebufenozide."
+          ],
+          "prepared_items": [
+            "[[prepared]]Methoxyfenozide.",
+            "[[prepared]]Tebufenozide."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They mimic the molting-hormone signal and induce an abnormal molting process that the larva cannot complete.",
+          "prepared_text": "[[prepared]]They mimic the molting-hormone signal and induce an abnormal molting process that the larva cannot complete."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They act more specifically against larvae than adults and should be applied:",
+          "prepared_text": "[[prepared]]They act more specifically against larvae than adults and should be applied:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "To the appropriate larval instars.",
+            "Before larvae enter deep tissues.",
+            "With recognition that their effect is slower than that of rapidly acting neurotoxic insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]To the appropriate larval instars.",
+            "[[prepared]]Before larvae enter deep tissues.",
+            "[[prepared]]With recognition that their effect is slower than that of rapidly acting neurotoxic insecticides."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their efficacy should not be judged after only a few hours.",
+          "prepared_text": "[[prepared]]Their efficacy should not be judged after only a few hours."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indoxacarb — IRAC 22A"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Indoxacarb is an oxadiazine and acts as a voltage-dependent sodium-channel blocker.",
+          "prepared_text": "[[prepared]]Indoxacarb is an oxadiazine and acts as a voltage-dependent sodium-channel blocker."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Exposed larvae show:",
+          "prepared_text": "[[prepared]]Exposed larvae show:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Feeding cessation.",
+            "Reduced movement.",
+            "Paralysis.",
+            "Subsequent death."
+          ],
+          "prepared_items": [
+            "[[prepared]]Feeding cessation.",
+            "[[prepared]]Reduced movement.",
+            "[[prepared]]Paralysis.",
+            "[[prepared]]Subsequent death."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should be managed within a true rotation because repeated use of the same group or its use in successive mixtures may increase resistance pressure.",
+          "prepared_text": "[[prepared]]It should be managed within a true rotation because repeated use of the same group or its use in successive mixtures may increase resistance pressure."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Metaflumizone in subgroup 22B should not be regarded as a complete change in the principal mode-of-action group number when designing a conservative resistance-management program. Guidance concerning subgroups should be reviewed.",
+          "prepared_text": "[[prepared]]Metaflumizone in subgroup 22B should not be regarded as a complete change in the principal mode-of-action group number when designing a conservative resistance-management program. Guidance concerning subgroups should be reviewed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Diamides — IRAC 28"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This group includes:",
+          "prepared_text": "[[prepared]]This group includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Chlorantraniliprole.",
+            "Cyantraniliprole.",
+            "Flubendiamide.",
+            "Cyclaniliprole.",
+            "Tetraniliprole."
+          ],
+          "prepared_items": [
+            "[[prepared]]Chlorantraniliprole.",
+            "[[prepared]]Cyantraniliprole.",
+            "[[prepared]]Flubendiamide.",
+            "[[prepared]]Cyclaniliprole.",
+            "[[prepared]]Tetraniliprole."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They act on ryanodine receptors, causing uncontrolled calcium release within muscle cells, followed by:",
+          "prepared_text": "[[prepared]]They act on ryanodine receptors, causing uncontrolled calcium release within muscle cells, followed by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Feeding cessation.",
+            "Reduced movement.",
+            "Muscle paralysis.",
+            "Larval death."
+          ],
+          "prepared_items": [
+            "[[prepared]]Feeding cessation.",
+            "[[prepared]]Reduced movement.",
+            "[[prepared]]Muscle paralysis.",
+            "[[prepared]]Larval death."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "All of these active ingredients belong to IRAC group 28.",
+          "prepared_text": "[[prepared]]All of these active ingredients belong to IRAC group 28."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Switching from Chlorantraniliprole to Cyantraniliprole or Flubendiamide therefore does not constitute true rotation in mode of action.",
+          "prepared_text": "[[prepared]]Switching from Chlorantraniliprole to Cyantraniliprole or Flubendiamide therefore does not constitute true rotation in mode of action."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance to diamides has been documented in some Tuta absoluta populations, requiring:",
+          "prepared_text": "[[prepared]]Resistance to diamides has been documented in some Tuta absoluta populations, requiring:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Limitation of the number of applications.",
+            "Avoidance of use against successive generations.",
+            "Avoidance of reliance on the group in every spray window.",
+            "Monitoring of field performance.",
+            "Compliance with the registered dose.",
+            "Integration with non-chemical methods."
+          ],
+          "prepared_items": [
+            "[[prepared]]Limitation of the number of applications.",
+            "[[prepared]]Avoidance of use against successive generations.",
+            "[[prepared]]Avoidance of reliance on the group in every spray window.",
+            "[[prepared]]Monitoring of field performance.",
+            "[[prepared]]Compliance with the registered dose.",
+            "[[prepared]]Integration with non-chemical methods."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Broad-Spectrum Groups"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include particularly:",
+          "prepared_text": "[[prepared]]These include particularly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Organophosphates — 1B.",
+            "Carbamates — 1A.",
+            "Pyrethroids — 3A."
+          ],
+          "prepared_items": [
+            "[[prepared]]Organophosphates — 1B.",
+            "[[prepared]]Carbamates — 1A.",
+            "[[prepared]]Pyrethroids — 3A."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They have historically been used against Tuta absoluta, but repeated reliance on them is associated with:",
+          "prepared_text": "[[prepared]]They have historically been used against Tuta absoluta, but repeated reliance on them is associated with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High resistance in several populations.",
+            "Mortality of predators and parasitoids.",
+            "Outbreaks of secondary pests.",
+            "Reduced natural control.",
+            "Increased risk of human exposure.",
+            "Registration and residue restrictions in some markets."
+          ],
+          "prepared_items": [
+            "[[prepared]]High resistance in several populations.",
+            "[[prepared]]Mortality of predators and parasitoids.",
+            "[[prepared]]Outbreaks of secondary pests.",
+            "[[prepared]]Reduced natural control.",
+            "[[prepared]]Increased risk of human exposure.",
+            "[[prepared]]Registration and residue restrictions in some markets."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not mean that every active ingredient in these groups is ineffective in every region, but use should depend on:",
+          "prepared_text": "[[prepared]]This does not mean that every active ingredient in these groups is ineffective in every region, but use should depend on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Current registration.",
+            "Local susceptibility data.",
+            "Actual need.",
+            "Effects on the biological-control program.",
+            "Market requirements."
+          ],
+          "prepared_items": [
+            "[[prepared]]Current registration.",
+            "[[prepared]]Local susceptibility data.",
+            "[[prepared]]Actual need.",
+            "[[prepared]]Effects on the biological-control program.",
+            "[[prepared]]Market requirements."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should not be used merely because of low price or apparent rapid action.",
+          "prepared_text": "[[prepared]]They should not be used merely because of low price or apparent rapid action."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Neonicotinoids and Tuta absoluta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Most conventional neonicotinoids belong to group 4A.",
+          "prepared_text": "[[prepared]]Most conventional neonicotinoids belong to group 4A."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They are used in tomato mainly against sucking pests such as:",
+          "prepared_text": "[[prepared]]They are used in tomato mainly against sucking pests such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Whiteflies.",
+            "Aphids.",
+            "Some leafhoppers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Whiteflies.",
+            "[[prepared]]Aphids.",
+            "[[prepared]]Some leafhoppers."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their presence in a crop-protection program does not necessarily mean that they are effective or registered tools against Tuta absoluta larvae.",
+          "prepared_text": "[[prepared]]Their presence in a crop-protection program does not necessarily mean that they are effective or registered tools against Tuta absoluta larvae."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Repeated use may also affect:",
+          "prepared_text": "[[prepared]]Repeated use may also affect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Predators.",
+            "Parasitoids.",
+            "Pollinators.",
+            "The wider pest-resistance program."
+          ],
+          "prepared_items": [
+            "[[prepared]]Predators.",
+            "[[prepared]]Parasitoids.",
+            "[[prepared]]Pollinators.",
+            "[[prepared]]The wider pest-resistance program."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their use should therefore be linked to the actual target pest and should not be included in a Tuta rotation unless registration and locally documented efficacy exist.",
+          "prepared_text": "[[prepared]]Their use should therefore be linked to the actual target pest and should not be included in a Tuta rotation unless registration and locally documented efficacy exist."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Botanical Products, Oils, and Soaps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some oils, soaps, and botanical extracts may affect exposed stages through:",
+          "prepared_text": "[[prepared]]Some oils, soaps, and botanical extracts may affect exposed stages through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Coating eggs or insects.",
+            "Disrupting external membranes.",
+            "Repellent or antifeedant effects."
+          ],
+          "prepared_items": [
+            "[[prepared]]Coating eggs or insects.",
+            "[[prepared]]Disrupting external membranes.",
+            "[[prepared]]Repellent or antifeedant effects."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their efficacy against larvae inside mines and fruits is generally limited.",
+          "prepared_text": "[[prepared]]Their efficacy against larvae inside mines and fruits is generally limited."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may also cause:",
+          "prepared_text": "[[prepared]]They may also cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Phytotoxicity.",
+            "Leaf burn.",
+            "Effects on predators and parasitoids.",
+            "Incompatibility with other pesticides.",
+            "Increased penetration of some active ingredients."
+          ],
+          "prepared_items": [
+            "[[prepared]]Phytotoxicity.",
+            "[[prepared]]Leaf burn.",
+            "[[prepared]]Effects on predators and parasitoids.",
+            "[[prepared]]Incompatibility with other pesticides.",
+            "[[prepared]]Increased penetration of some active ingredients."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A material should not be considered safe or effective merely because it is natural. It should be used according to registration, dose, and local testing.",
+          "prepared_text": "[[prepared]]A material should not be considered safe or effective merely because it is natural. It should be used according to registration, dose, and local testing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Trade-Name Rule"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A commercial product may contain:",
+          "prepared_text": "[[prepared]]A commercial product may contain:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "One active ingredient.",
+            "Two active ingredients.",
+            "The same active ingredient at a different concentration.",
+            "The same active ingredient under several trade names."
+          ],
+          "prepared_items": [
+            "[[prepared]]One active ingredient.",
+            "[[prepared]]Two active ingredients.",
+            "[[prepared]]The same active ingredient at a different concentration.",
+            "[[prepared]]The same active ingredient under several trade names."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pesticide record should therefore include:",
+          "prepared_text": "[[prepared]]The pesticide record should therefore include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trade name.",
+            "Active ingredient.",
+            "Concentration.",
+            "Formulation.",
+            "IRAC group number.",
+            "Application rate.",
+            "Treatment date.",
+            "Treated sector."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trade name.",
+            "[[prepared]]Active ingredient.",
+            "[[prepared]]Concentration.",
+            "[[prepared]]Formulation.",
+            "[[prepared]]IRAC group number.",
+            "[[prepared]]Application rate.",
+            "[[prepared]]Treatment date.",
+            "[[prepared]]Treated sector."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Changing the trade name provides no resistance-management benefit when the active ingredient or group remains the same.",
+          "prepared_text": "[[prepared]]Changing the trade name provides no resistance-management benefit when the active ingredient or group remains the same."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mode-of-Action Window Approach"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Mode-of-Action Window Approach"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The window system divides the season into periods corresponding approximately to one pest generation.",
+          "prepared_text": "[[prepared]]The window system divides the season into periods corresponding approximately to one pest generation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Within each window:",
+          "prepared_text": "[[prepared]]Within each window:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An active ingredient or active ingredients from one mode-of-action group may be used according to the label.",
+            "The following window then uses a different effective group."
+          ],
+          "prepared_items": [
+            "[[prepared]]An active ingredient or active ingredients from one mode-of-action group may be used according to the label.",
+            "[[prepared]]The following window then uses a different effective group."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The fundamental rule is:",
+          "prepared_text": "[[prepared]]The fundamental rule is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Do not expose two successive pest generations to the same group."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The traditional IRAC model for Tuta absoluta has used windows of approximately 30 days, based on the short generation time under favorable conditions.",
+          "prepared_text": "[[prepared]]The traditional IRAC model for Tuta absoluta has used windows of approximately 30 days, based on the short generation time under favorable conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, this period is not fixed in all regions because generation time changes with:",
+          "prepared_text": "[[prepared]]However, this period is not fixed in all regions because generation time changes with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Temperature.",
+            "Planting season.",
+            "Production system.",
+            "Greenhouse or open-field conditions.",
+            "Daily thermal fluctuation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Temperature.",
+            "[[prepared]]Planting season.",
+            "[[prepared]]Production system.",
+            "[[prepared]]Greenhouse or open-field conditions.",
+            "[[prepared]]Daily thermal fluctuation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Windows should therefore be adjusted using monitoring and local thermal data.",
+          "prepared_text": "[[prepared]]Windows should therefore be adjusted using monitoring and local thermal data."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Avoiding Repetition of the Group Across Generations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If group 28 is used in one window, it should not be repeated in the following window even if the active ingredient changes from:",
+          "prepared_text": "[[prepared]]If group 28 is used in one window, it should not be repeated in the following window even if the active ingredient changes from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Chlorantraniliprole.",
+            "To Cyantraniliprole.",
+            "Or Flubendiamide."
+          ],
+          "prepared_items": [
+            "[[prepared]]Chlorantraniliprole.",
+            "[[prepared]]To Cyantraniliprole.",
+            "[[prepared]]Or Flubendiamide."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Similarly:",
+          "prepared_text": "[[prepared]]Similarly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spinosad and Spinetoram are both group 5.",
+            "Abamectin and Emamectin benzoate are both group 6.",
+            "Lufenuron and Chlorfluazuron are both group 15."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spinosad and Spinetoram are both group 5.",
+            "[[prepared]]Abamectin and Emamectin benzoate are both group 6.",
+            "[[prepared]]Lufenuron and Chlorfluazuron are both group 15."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rotation should therefore be constructed using group numbers such as:",
+          "prepared_text": "[[prepared]]Rotation should therefore be constructed using group numbers such as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "28 ← 5 ← 6 ← 15"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rather than trade names.",
+          "prepared_text": "[[prepared]]Rather than trade names."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is only an illustrative sequence of different groups and is not a prescriptive program or evidence that the active ingredients are registered or suitable for a particular field.",
+          "prepared_text": "[[prepared]]This is only an illustrative sequence of different groups and is not a prescriptive program or evidence that the active ingredients are registered or suitable for a particular field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Number of Applications Within a Window"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some product labels may permit more than one application within the same window.",
+          "prepared_text": "[[prepared]]Some product labels may permit more than one application within the same window."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The number of applications is determined by:",
+          "prepared_text": "[[prepared]]The number of applications is determined by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The maximum stated on the label.",
+            "Interval between applications.",
+            "Infestation severity.",
+            "Residual period.",
+            "Generation duration.",
+            "Local susceptibility.",
+            "Availability of effective alternatives."
+          ],
+          "prepared_items": [
+            "[[prepared]]The maximum stated on the label.",
+            "[[prepared]]Interval between applications.",
+            "[[prepared]]Infestation severity.",
+            "[[prepared]]Residual period.",
+            "[[prepared]]Generation duration.",
+            "[[prepared]]Local susceptibility.",
+            "[[prepared]]Availability of effective alternatives."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The maximum permitted number should not be used automatically. It is a limit that must not be exceeded, not a compulsory target.",
+          "prepared_text": "[[prepared]]The maximum permitted number should not be used automatically. It is a limit that must not be exceeded, not a compulsory target."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every unnecessary application increases:",
+          "prepared_text": "[[prepared]]Every unnecessary application increases:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Selection pressure.",
+            "Cost.",
+            "Exposure.",
+            "Residue risk.",
+            "Harm to natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Selection pressure.",
+            "[[prepared]]Cost.",
+            "[[prepared]]Exposure.",
+            "[[prepared]]Residue risk.",
+            "[[prepared]]Harm to natural enemies."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Premixes and Tank Mixtures"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mixtures are not an automatic solution to resistance.",
+          "prepared_text": "[[prepared]]Mixtures are not an automatic solution to resistance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "For a mixture to provide a potential resistance-management benefit, it should:",
+          "prepared_text": "[[prepared]]For a mixture to provide a potential resistance-management benefit, it should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Contain two genuinely different groups.",
+            "Include two active ingredients each independently effective against the target stage.",
+            "Expose the target stage to both active ingredients simultaneously.",
+            "Have relatively similar persistence of both components.",
+            "Not contain an active ingredient to which high resistance already exists.",
+            "Not involve known cross-resistance.",
+            "Be registered and physically compatible."
+          ],
+          "prepared_items": [
+            "[[prepared]]Contain two genuinely different groups.",
+            "[[prepared]]Include two active ingredients each independently effective against the target stage.",
+            "[[prepared]]Expose the target stage to both active ingredients simultaneously.",
+            "[[prepared]]Have relatively similar persistence of both components.",
+            "[[prepared]]Not contain an active ingredient to which high resistance already exists.",
+            "[[prepared]]Not involve known cross-resistance.",
+            "[[prepared]]Be registered and physically compatible."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A mixture provides no resistance-management benefit when:",
+          "prepared_text": "[[prepared]]A mixture provides no resistance-management benefit when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Both active ingredients belong to the same IRAC group.",
+            "One active ingredient is ineffective against Tuta.",
+            "One active ingredient is used below an effective dose.",
+            "The same mixture is repeated throughout the season.",
+            "The mixture is used to compensate for poor timing or coverage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Both active ingredients belong to the same IRAC group.",
+            "[[prepared]]One active ingredient is ineffective against Tuta.",
+            "[[prepared]]One active ingredient is used below an effective dose.",
+            "[[prepared]]The same mixture is repeated throughout the season.",
+            "[[prepared]]The mixture is used to compensate for poor timing or coverage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A mixture remains one component of a rotation program and is not a substitute for rotation.",
+          "prepared_text": "[[prepared]]A mixture remains one component of a rotation program and is not a substitute for rotation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Random Tank Mixing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Random mixing of three or four active ingredients can cause:",
+          "prepared_text": "[[prepared]]Random mixing of three or four active ingredients can cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased phytotoxicity.",
+            "Physical incompatibility.",
+            "Precipitation.",
+            "Changes in pH.",
+            "Reduced efficacy of some components.",
+            "Increased residues.",
+            "Mortality of natural enemies.",
+            "Difficulty identifying the cause of success or failure.",
+            "Higher treatment cost.",
+            "Greater worker exposure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increased phytotoxicity.",
+            "[[prepared]]Physical incompatibility.",
+            "[[prepared]]Precipitation.",
+            "[[prepared]]Changes in pH.",
+            "[[prepared]]Reduced efficacy of some components.",
+            "[[prepared]]Increased residues.",
+            "[[prepared]]Mortality of natural enemies.",
+            "[[prepared]]Difficulty identifying the cause of success or failure.",
+            "[[prepared]]Higher treatment cost.",
+            "[[prepared]]Greater worker exposure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increasing the number of active ingredients does not guarantee increased efficacy.",
+          "prepared_text": "[[prepared]]Increasing the number of active ingredients does not guarantee increased efficacy."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every tank component should have a clear and demonstrated purpose.",
+          "prepared_text": "[[prepared]]Every tank component should have a clear and demonstrated purpose."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Definition of Insecticide Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insecticide resistance is a heritable change in the susceptibility of a pest population that results in repeated failure of a product to achieve the expected level of control when used according to the label.",
+          "prepared_text": "[[prepared]]Insecticide resistance is a heritable change in the susceptibility of a pest population that results in repeated failure of a product to achieve the expected level of control when used according to the label."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance is not defined by:",
+          "prepared_text": "[[prepared]]Resistance is not defined by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Survival of one larva.",
+            "Failure of a single treatment.",
+            "Poor coverage.",
+            "Late application.",
+            "Rain washing off the spray.",
+            "Use of the wrong dose.",
+            "Poorly stored product.",
+            "Immigration of new moths after spraying."
+          ],
+          "prepared_items": [
+            "[[prepared]]Survival of one larva.",
+            "[[prepared]]Failure of a single treatment.",
+            "[[prepared]]Poor coverage.",
+            "[[prepared]]Late application.",
+            "[[prepared]]Rain washing off the spray.",
+            "[[prepared]]Use of the wrong dose.",
+            "[[prepared]]Poorly stored product.",
+            "[[prepared]]Immigration of new moths after spraying."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application-related causes of failure should be excluded before resistance is declared.",
+          "prepared_text": "[[prepared]]Application-related causes of failure should be excluded before resistance is declared."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance Mechanisms"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta may develop several resistance mechanisms.",
+          "prepared_text": "[[prepared]]Tuta absoluta may develop several resistance mechanisms."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Target-Site Alteration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A heritable change occurs in the protein or receptor targeted by the insecticide, reducing binding of the active ingredient.",
+          "prepared_text": "[[prepared]]A heritable change occurs in the protein or receptor targeted by the insecticide, reducing binding of the active ingredient."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Metabolic Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The insect’s capacity to detoxify the active ingredient increases through enzymes such as:",
+          "prepared_text": "[[prepared]]The insect’s capacity to detoxify the active ingredient increases through enzymes such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cytochrome P450 monooxygenases.",
+            "Esterases.",
+            "Glutathione S-transferases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cytochrome P450 monooxygenases.",
+            "[[prepared]]Esterases.",
+            "[[prepared]]Glutathione S-transferases."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Reduced Penetration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cuticular properties change, reducing movement of the active ingredient into the body.",
+          "prepared_text": "[[prepared]]Cuticular properties change, reducing movement of the active ingredient into the body."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Behavioural Change"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The insect may reduce contact with treated areas or alter its response.",
+          "prepared_text": "[[prepared]]The insect may reduce contact with treated areas or alter its response."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A population may carry more than one mechanism, resulting in:",
+          "prepared_text": "[[prepared]]A population may carry more than one mechanism, resulting in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High resistance.",
+            "Cross-resistance.",
+            "Different responses among active ingredients within one group or among different groups."
+          ],
+          "prepared_items": [
+            "[[prepared]]High resistance.",
+            "[[prepared]]Cross-resistance.",
+            "[[prepared]]Different responses among active ingredients within one group or among different groups."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cross-Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cross-resistance occurs when one mechanism confers resistance to more than one active ingredient.",
+          "prepared_text": "[[prepared]]Cross-resistance occurs when one mechanism confers resistance to more than one active ingredient."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is more likely among active ingredients that:",
+          "prepared_text": "[[prepared]]It is more likely among active ingredients that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Belong to the same group.",
+            "Target the same site.",
+            "Are detoxified by the same metabolic enzymes."
+          ],
+          "prepared_items": [
+            "[[prepared]]Belong to the same group.",
+            "[[prepared]]Target the same site.",
+            "[[prepared]]Are detoxified by the same metabolic enzymes."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Metabolic cross-resistance may also occur between different groups despite different IRAC numbers.",
+          "prepared_text": "[[prepared]]Metabolic cross-resistance may also occur between different groups despite different IRAC numbers."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Numerical rotation among groups is therefore insufficient when local tests demonstrate cross-resistance.",
+          "prepared_text": "[[prepared]]Numerical rotation among groups is therefore insufficient when local tests demonstrate cross-resistance."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distinguishing Resistance from Application Failure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When a treatment fails, the following should be reviewed:",
+          "prepared_text": "[[prepared]]When a treatment fails, the following should be reviewed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Was the pest correctly identified?",
+            "2. Is the active ingredient registered against the stage present?",
+            "3. Were larvae young or already inside fruits?",
+            "4. Was the registered dose used?",
+            "5. Was the sprayer calibrated?",
+            "6. Did the spray reach lower leaf surfaces and growing points?",
+            "7. Did rainfall or overhead irrigation occur?",
+            "8. Were the water or tank mixture incompatible?",
+            "9. Was the product expired?",
+            "10. Had the group already been repeated?",
+            "11. Is moth immigration occurring from a neighboring field?",
+            "12. Are the mines new, or is visible damage old?",
+            "13. Were larvae evaluated after sufficient time for the active ingredient to act?"
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Was the pest correctly identified?",
+            "[[prepared]]2. Is the active ingredient registered against the stage present?",
+            "[[prepared]]3. Were larvae young or already inside fruits?",
+            "[[prepared]]4. Was the registered dose used?",
+            "[[prepared]]5. Was the sprayer calibrated?",
+            "[[prepared]]6. Did the spray reach lower leaf surfaces and growing points?",
+            "[[prepared]]7. Did rainfall or overhead irrigation occur?",
+            "[[prepared]]8. Were the water or tank mixture incompatible?",
+            "[[prepared]]9. Was the product expired?",
+            "[[prepared]]10. Had the group already been repeated?",
+            "[[prepared]]11. Is moth immigration occurring from a neighboring field?",
+            "[[prepared]]12. Are the mines new, or is visible damage old?",
+            "[[prepared]]13. Were larvae evaluated after sufficient time for the active ingredient to act?"
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increasing the dose or shortening the interval automatically when resistance is suspected is not recommended because it may increase selection and risk without restoring efficacy.",
+          "prepared_text": "[[prepared]]Increasing the dose or shortening the interval automatically when resistance is suspected is not recommended because it may increase selection and risk without restoring efficacy."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Susceptibility Testing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "IRAC developed a standardized method for testing susceptibility of Tuta absoluta larvae known as Method No. 022.",
+          "prepared_text": "[[prepared]]IRAC developed a standardized method for testing susceptibility of Tuta absoluta larvae known as Method No. 022."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is based on:",
+          "prepared_text": "[[prepared]]It is based on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collecting individuals from the field.",
+            "Rearing them to the F1 generation where possible.",
+            "Using uniform second-instar larvae approximately 4–5 mm long.",
+            "Dipping tomato leaves in specified insecticide concentrations.",
+            "Exposing larvae to treated leaves.",
+            "Recording mortality after the appropriate assessment period.",
+            "Comparing results with a susceptible baseline or other populations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collecting individuals from the field.",
+            "[[prepared]]Rearing them to the F1 generation where possible.",
+            "[[prepared]]Using uniform second-instar larvae approximately 4–5 mm long.",
+            "[[prepared]]Dipping tomato leaves in specified insecticide concentrations.",
+            "[[prepared]]Exposing larvae to treated leaves.",
+            "[[prepared]]Recording mortality after the appropriate assessment period.",
+            "[[prepared]]Comparing results with a susceptible baseline or other populations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The test determines whether reduced efficacy is associated with a genuine change in susceptibility rather than poor field application.",
+          "prepared_text": "[[prepared]]The test determines whether reduced efficacy is associated with a genuine change in susceptibility rather than poor field application."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Suspected Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When resistance is suspected:",
+          "prepared_text": "[[prepared]]When resistance is suspected:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Stop repeating the suspected group.",
+            "2. Collect larval samples.",
+            "3. Review treatment records.",
+            "4. Inspect calibration and coverage.",
+            "5. Use a different group demonstrated to be locally effective.",
+            "6. Intensify biological and cultural measures.",
+            "7. Manage immigration sources.",
+            "8. Notify the technical manager or competent authority.",
+            "9. Conduct a susceptibility test where possible.",
+            "10. Avoid issuing a definitive resistance conclusion before verification."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Stop repeating the suspected group.",
+            "[[prepared]]2. Collect larval samples.",
+            "[[prepared]]3. Review treatment records.",
+            "[[prepared]]4. Inspect calibration and coverage.",
+            "[[prepared]]5. Use a different group demonstrated to be locally effective.",
+            "[[prepared]]6. Intensify biological and cultural measures.",
+            "[[prepared]]7. Manage immigration sources.",
+            "[[prepared]]8. Notify the technical manager or competent authority.",
+            "[[prepared]]9. Conduct a susceptibility test where possible.",
+            "[[prepared]]10. Avoid issuing a definitive resistance conclusion before verification."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Doses above the registered rate should not be used in an attempt to overcome resistance.",
+          "prepared_text": "[[prepared]]Doses above the registered rate should not be used in an attempt to overcome resistance."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Protection of Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Chemical treatment may kill:",
+          "prepared_text": "[[prepared]]Chemical treatment may kill:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg parasitoids.",
+            "Larval parasitoids.",
+            "Predatory mirids.",
+            "Lacewings.",
+            "Orius species.",
+            "Spiders.",
+            "Pollinating insects."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Larval parasitoids.",
+            "[[prepared]]Predatory mirids.",
+            "[[prepared]]Lacewings.",
+            "[[prepared]]Orius species.",
+            "[[prepared]]Spiders.",
+            "[[prepared]]Pollinating insects."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Impacts can be reduced through:",
+          "prepared_text": "[[prepared]]Impacts can be reduced through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Selecting a more selective active ingredient.",
+            "Applying treatment only when the threshold is exceeded.",
+            "Treating infestation foci instead of the entire field where possible.",
+            "Avoiding spraying during natural-enemy releases.",
+            "Respecting the required interval before reintroducing a natural enemy.",
+            "Avoiding broad-spectrum mixtures.",
+            "Using the minimum necessary number of applications.",
+            "Monitoring predator recovery after treatment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Selecting a more selective active ingredient.",
+            "[[prepared]]Applying treatment only when the threshold is exceeded.",
+            "[[prepared]]Treating infestation foci instead of the entire field where possible.",
+            "[[prepared]]Avoiding spraying during natural-enemy releases.",
+            "[[prepared]]Respecting the required interval before reintroducing a natural enemy.",
+            "[[prepared]]Avoiding broad-spectrum mixtures.",
+            "[[prepared]]Using the minimum necessary number of applications.",
+            "[[prepared]]Monitoring predator recovery after treatment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An active ingredient should not be described as generally safe to natural enemies because susceptibility differs among parasitoids and predators and between adults and immature stages.",
+          "prepared_text": "[[prepared]]An active ingredient should not be described as generally safe to natural enemies because susceptibility differs among parasitoids and predators and between adults and immature stages."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preharvest Interval"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Pre-Harvest Interval — PHI"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The preharvest interval is the minimum time required between the last insecticide application and crop harvest.",
+          "prepared_text": "[[prepared]]The preharvest interval is the minimum time required between the last insecticide application and crop harvest."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is determined according to:",
+          "prepared_text": "[[prepared]]It is determined according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active ingredient.",
+            "Formulation.",
+            "Application rate.",
+            "Number of applications.",
+            "Crop.",
+            "Residue-decline data.",
+            "National registration."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active ingredient.",
+            "[[prepared]]Formulation.",
+            "[[prepared]]Application rate.",
+            "[[prepared]]Number of applications.",
+            "[[prepared]]Crop.",
+            "[[prepared]]Residue-decline data.",
+            "[[prepared]]National registration."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The PHI should not be transferred from:",
+          "prepared_text": "[[prepared]]The PHI should not be transferred from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "One crop to another.",
+            "One country to another.",
+            "One product to another containing the same active ingredient in a different formulation.",
+            "A research study to a commercial program."
+          ],
+          "prepared_items": [
+            "[[prepared]]One crop to another.",
+            "[[prepared]]One country to another.",
+            "[[prepared]]One product to another containing the same active ingredient in a different formulation.",
+            "[[prepared]]A research study to a commercial program."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The PHI stated on the label of the registered product should be followed, while recognizing that the supply market may impose requirements more stringent than local regulations.",
+          "prepared_text": "[[prepared]]The PHI stated on the label of the registered product should be followed, while recognizing that the supply market may impose requirements more stringent than local regulations."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Maximum Residue Limit"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Maximum Residue Limit — MRL"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The maximum residue limit is the highest legally permitted concentration of a pesticide residue in food, usually expressed in milligrams per kilogram.",
+          "prepared_text": "[[prepared]]The maximum residue limit is the highest legally permitted concentration of a pesticide residue in food, usually expressed in milligrams per kilogram."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An MRL is not a safe dose for adding pesticide to food. It is a regulatory limit derived from:",
+          "prepared_text": "[[prepared]]An MRL is not a safe dose for adding pesticide to food. It is a regulatory limit derived from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Good agricultural practice.",
+            "Residue trials.",
+            "Toxicological assessments.",
+            "Estimates of consumer exposure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Good agricultural practice.",
+            "[[prepared]]Residue trials.",
+            "[[prepared]]Toxicological assessments.",
+            "[[prepared]]Estimates of consumer exposure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Limits may differ among:",
+          "prepared_text": "[[prepared]]Limits may differ among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egypt.",
+            "The European Union.",
+            "Codex Alimentarius.",
+            "The importing country.",
+            "Processing-factory or company specifications."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egypt.",
+            "[[prepared]]The European Union.",
+            "[[prepared]]Codex Alimentarius.",
+            "[[prepared]]The importing country.",
+            "[[prepared]]Processing-factory or company specifications."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The target market should therefore be identified before the spray program is developed.",
+          "prepared_text": "[[prepared]]The target market should therefore be identified before the spray program is developed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Relationship Between PHI and MRL"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compliance with the registered PHI reduces the probability of exceeding the MRL, but does not guarantee compliance when misuse occurs.",
+          "prepared_text": "[[prepared]]Compliance with the registered PHI reduces the probability of exceeding the MRL, but does not guarantee compliance when misuse occurs."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Residues may increase because of:",
+          "prepared_text": "[[prepared]]Residues may increase because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Excessive dose.",
+            "Too many applications.",
+            "Shortened intervals.",
+            "Application of an unregistered treatment.",
+            "Unrecommended mixtures.",
+            "Excessive direct spraying of fruits.",
+            "Errors in harvest dates.",
+            "Poor coordination between spray and harvest teams.",
+            "Drift from a neighboring field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Excessive dose.",
+            "[[prepared]]Too many applications.",
+            "[[prepared]]Shortened intervals.",
+            "[[prepared]]Application of an unregistered treatment.",
+            "[[prepared]]Unrecommended mixtures.",
+            "[[prepared]]Excessive direct spraying of fruits.",
+            "[[prepared]]Errors in harvest dates.",
+            "[[prepared]]Poor coordination between spray and harvest teams.",
+            "[[prepared]]Drift from a neighboring field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Residue management therefore depends on complete compliance with good agricultural practice, not the PHI alone.",
+          "prepared_text": "[[prepared]]Residue management therefore depends on complete compliance with good agricultural practice, not the PHI alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Restricted-Entry Interval"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Restricted-Entry Interval — REI"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is the period that must pass before workers may enter a treated field without the specified personal protective equipment.",
+          "prepared_text": "[[prepared]]This is the period that must pass before workers may enter a treated field without the specified personal protective equipment."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It differs from the preharvest interval.",
+          "prepared_text": "[[prepared]]It differs from the preharvest interval."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be recorded:",
+          "prepared_text": "[[prepared]]The following should be recorded:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Time spraying ended.",
+            "Date and time when entry is permitted.",
+            "Required protective clothing.",
+            "Operations prohibited during the interval."
+          ],
+          "prepared_items": [
+            "[[prepared]]Time spraying ended.",
+            "[[prepared]]Date and time when entry is permitted.",
+            "[[prepared]]Required protective clothing.",
+            "[[prepared]]Operations prohibited during the interval."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The REI is particularly important during:",
+          "prepared_text": "[[prepared]]The REI is particularly important during:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Harvesting.",
+            "Pruning.",
+            "Tying plants.",
+            "Manual inspection.",
+            "Release of natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Harvesting.",
+            "[[prepared]]Pruning.",
+            "[[prepared]]Tying plants.",
+            "[[prepared]]Manual inspection.",
+            "[[prepared]]Release of natural enemies."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spray Management Near Harvest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "As harvest approaches, priority shifts toward:",
+          "prepared_text": "[[prepared]]As harvest approaches, priority shifts toward:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reviewing the PHI.",
+            "Reviewing target-market residue limits.",
+            "Using registered active ingredients only.",
+            "Avoiding unnecessary long-residual insecticides.",
+            "Increasing reliance on suitable biological and mechanical methods.",
+            "Avoiding unjustified preventive sprays.",
+            "Coordinating pest-management and harvest teams.",
+            "Documenting the final treatment in each sector."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reviewing the PHI.",
+            "[[prepared]]Reviewing target-market residue limits.",
+            "[[prepared]]Using registered active ingredients only.",
+            "[[prepared]]Avoiding unnecessary long-residual insecticides.",
+            "[[prepared]]Increasing reliance on suitable biological and mechanical methods.",
+            "[[prepared]]Avoiding unjustified preventive sprays.",
+            "[[prepared]]Coordinating pest-management and harvest teams.",
+            "[[prepared]]Documenting the final treatment in each sector."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An active ingredient should not be used merely because another product has a long PHI. The selected material must be effective against the stage present and acceptable under regulatory requirements.",
+          "prepared_text": "[[prepared]]An active ingredient should not be used merely because another product has a long PHI. The selected material must be effective against the stage present and acceptable under regulatory requirements."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Occupational Safety"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rational use includes protection of workers from exposure.",
+          "prepared_text": "[[prepared]]Rational use includes protection of workers from exposure."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Measures include:",
+          "prepared_text": "[[prepared]]Measures include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reading the product label.",
+            "Wearing required personal protective equipment.",
+            "Avoiding eating or smoking during preparation.",
+            "Using dedicated measuring tools.",
+            "Never mixing the spray solution by hand.",
+            "Avoiding spraying against the wind.",
+            "Never cleaning nozzles by mouth.",
+            "Providing clean washing water.",
+            "Changing contaminated clothing.",
+            "Disposing of containers through the approved system.",
+            "Training workers in first aid."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reading the product label.",
+            "[[prepared]]Wearing required personal protective equipment.",
+            "[[prepared]]Avoiding eating or smoking during preparation.",
+            "[[prepared]]Using dedicated measuring tools.",
+            "[[prepared]]Never mixing the spray solution by hand.",
+            "[[prepared]]Avoiding spraying against the wind.",
+            "[[prepared]]Never cleaning nozzles by mouth.",
+            "[[prepared]]Providing clean washing water.",
+            "[[prepared]]Changing contaminated clothing.",
+            "[[prepared]]Disposing of containers through the approved system.",
+            "[[prepared]]Training workers in first aid."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pesticide containers should never be reused for storing water, food, or animal feed.",
+          "prepared_text": "[[prepared]]Pesticide containers should never be reused for storing water, food, or animal feed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Drift and Environmental Contamination"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Drift occurs when spray droplets move beyond the target area.",
+          "prepared_text": "[[prepared]]Drift occurs when spray droplets move beyond the target area."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It increases with:",
+          "prepared_text": "[[prepared]]It increases with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Wind.",
+            "Very fine droplets.",
+            "Excessive boom height.",
+            "Inappropriate pressure.",
+            "Heat and dry conditions.",
+            "Spraying near field boundaries."
+          ],
+          "prepared_items": [
+            "[[prepared]]Wind.",
+            "[[prepared]]Very fine droplets.",
+            "[[prepared]]Excessive boom height.",
+            "[[prepared]]Inappropriate pressure.",
+            "[[prepared]]Heat and dry conditions.",
+            "[[prepared]]Spraying near field boundaries."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Drift may cause:",
+          "prepared_text": "[[prepared]]Drift may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Contamination of neighboring crops.",
+            "Harm to natural enemies.",
+            "Contamination of waterways.",
+            "Exposure of workers and residents.",
+            "Unintended residues.",
+            "Loss of part of the applied dose."
+          ],
+          "prepared_items": [
+            "[[prepared]]Contamination of neighboring crops.",
+            "[[prepared]]Harm to natural enemies.",
+            "[[prepared]]Contamination of waterways.",
+            "[[prepared]]Exposure of workers and residents.",
+            "[[prepared]]Unintended residues.",
+            "[[prepared]]Loss of part of the applied dose."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Buffer zones and label restrictions concerning water bodies, residences, and neighboring crops should be followed.",
+          "prepared_text": "[[prepared]]Buffer zones and label restrictions concerning water bodies, residences, and neighboring crops should be followed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Containers and Remaining Spray Mixture"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The spray volume should be calculated to match the treated area and avoid excess mixture.",
+          "prepared_text": "[[prepared]]The spray volume should be calculated to match the treated area and avoid excess mixture."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Remaining spray should not be discharged into:",
+          "prepared_text": "[[prepared]]Remaining spray should not be discharged into:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Drains.",
+            "Canals.",
+            "Wells.",
+            "Roads.",
+            "Livestock areas.",
+            "Locations near drinking-water sources."
+          ],
+          "prepared_items": [
+            "[[prepared]]Drains.",
+            "[[prepared]]Canals.",
+            "[[prepared]]Wells.",
+            "[[prepared]]Roads.",
+            "[[prepared]]Livestock areas.",
+            "[[prepared]]Locations near drinking-water sources."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Containers should be rinsed according to approved guidance and punctured or collected through the authorized disposal system to prevent reuse.",
+          "prepared_text": "[[prepared]]Containers should be rinsed according to approved guidance and punctured or collected through the authorized disposal system to prevent reuse."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Illustrative Rotation-Window Model"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The season may be divided into thermal or time-based windows.",
+          "prepared_text": "[[prepared]]The season may be divided into thermal or time-based windows."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A theoretical example:",
+          "prepared_text": "[[prepared]]A theoretical example:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Window",
+            "Pest Situation",
+            "Mode-of-Action Group",
+            "Note"
+          ],
+          "rows": [
+            [
+              "First",
+              "Early hatching",
+              "Group A",
+              "Do not use A in the following window"
+            ],
+            [
+              "Second",
+              "New generation",
+              "Group B",
+              "Genuinely different from A"
+            ],
+            [
+              "Third",
+              "Third generation",
+              "Group C",
+              "Consider natural enemies"
+            ],
+            [
+              "Fourth",
+              "Fruiting stage",
+              "Group D",
+              "Consider the PHI"
+            ],
+            [
+              "Fifth",
+              "Near harvest",
+              "Biological method or suitable group",
+              "According to registration and need"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Window",
+            "[[prepared]]Pest Situation",
+            "[[prepared]]Mode-of-Action Group",
+            "[[prepared]]Note"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]First",
+              "[[prepared]]Early hatching",
+              "[[prepared]]Group A",
+              "[[prepared]]Do not use A in the following window"
+            ],
+            [
+              "[[prepared]]Second",
+              "[[prepared]]New generation",
+              "[[prepared]]Group B",
+              "[[prepared]]Genuinely different from A"
+            ],
+            [
+              "[[prepared]]Third",
+              "[[prepared]]Third generation",
+              "[[prepared]]Group C",
+              "[[prepared]]Consider natural enemies"
+            ],
+            [
+              "[[prepared]]Fourth",
+              "[[prepared]]Fruiting stage",
+              "[[prepared]]Group D",
+              "[[prepared]]Consider the PHI"
+            ],
+            [
+              "[[prepared]]Fifth",
+              "[[prepared]]Near harvest",
+              "[[prepared]]Biological method or suitable group",
+              "[[prepared]]According to registration and need"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The letters do not represent specific active ingredients. The actual program depends on:",
+          "prepared_text": "[[prepared]]The letters do not represent specific active ingredients. The actual program depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Groups locally effective.",
+            "Registration.",
+            "Monitoring.",
+            "Resistance history.",
+            "Harvest timing.",
+            "Biological-control programs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Groups locally effective.",
+            "[[prepared]]Registration.",
+            "[[prepared]]Monitoring.",
+            "[[prepared]]Resistance history.",
+            "[[prepared]]Harvest timing.",
+            "[[prepared]]Biological-control programs."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Chemical Program According to Infestation Stage"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "No Active Infestation"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "No chemical intervention.",
+            "Continue monitoring.",
+            "Maintain traps.",
+            "Protect natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]No chemical intervention.",
+            "[[prepared]]Continue monitoring.",
+            "[[prepared]]Maintain traps.",
+            "[[prepared]]Protect natural enemies."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Limited Egg Presence"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Estimate hatching time.",
+            "Assess egg parasitoids.",
+            "Prepare an intervention targeting hatching if required.",
+            "Do not use a broad-spectrum product without justification."
+          ],
+          "prepared_items": [
+            "[[prepared]]Estimate hatching time.",
+            "[[prepared]]Assess egg parasitoids.",
+            "[[prepared]]Prepare an intervention targeting hatching if required.",
+            "[[prepared]]Do not use a broad-spectrum product without justification."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Presence of L1 and L2"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Select a registered active ingredient effective against young instars.",
+            "Achieve precise coverage.",
+            "Record the IRAC group.",
+            "Reassess."
+          ],
+          "prepared_items": [
+            "[[prepared]]Select a registered active ingredient effective against young instars.",
+            "[[prepared]]Achieve precise coverage.",
+            "[[prepared]]Record the IRAC group.",
+            "[[prepared]]Reassess."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Presence of L3 and L4"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Review whether larvae have entered fruits.",
+            "Do not expect complete efficacy from an active ingredient unable to reach them.",
+            "Integrate treatment with collection of infested fruits and foci.",
+            "Evaluate why detection was delayed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Review whether larvae have entered fruits.",
+            "[[prepared]]Do not expect complete efficacy from an active ingredient unable to reach them.",
+            "[[prepared]]Integrate treatment with collection of infested fruits and foci.",
+            "[[prepared]]Evaluate why detection was delayed."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Beginning of Fruit Infestation"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Intervene rapidly according to the threshold and registration.",
+            "Protect uninfested fruits.",
+            "Collect infested fruits.",
+            "Manage the immigration source.",
+            "Shorten the reinspection interval."
+          ],
+          "prepared_items": [
+            "[[prepared]]Intervene rapidly according to the threshold and registration.",
+            "[[prepared]]Protect uninfested fruits.",
+            "[[prepared]]Collect infested fruits.",
+            "[[prepared]]Manage the immigration source.",
+            "[[prepared]]Shorten the reinspection interval."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Near Harvest"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Review PHI and MRL requirements.",
+            "Do not exceed the maximum number of applications.",
+            "Select tools compatible with delivery requirements.",
+            "Conduct residue testing where necessary."
+          ],
+          "prepared_items": [
+            "[[prepared]]Review PHI and MRL requirements.",
+            "[[prepared]]Do not exceed the maximum number of applications.",
+            "[[prepared]]Select tools compatible with delivery requirements.",
+            "[[prepared]]Conduct residue testing where necessary."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pesticide Record Template"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Date",
+            "Sector",
+            "Active Ingredient",
+            "Trade Name",
+            "Concentration",
+            "IRAC Group",
+            "Registered Rate",
+            "Water Volume",
+            "Target Stage",
+            "PHI",
+            "Evaluation Result"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Date",
+            "[[prepared]]Sector",
+            "[[prepared]]Active Ingredient",
+            "[[prepared]]Trade Name",
+            "[[prepared]]Concentration",
+            "[[prepared]]IRAC Group",
+            "[[prepared]]Registered Rate",
+            "[[prepared]]Water Volume",
+            "[[prepared]]Target Stage",
+            "[[prepared]]PHI",
+            "[[prepared]]Evaluation Result"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The record should also include:",
+          "prepared_text": "[[prepared]]The record should also include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of previous applications of the group.",
+            "Temperature and wind.",
+            "Application time.",
+            "Sprayer condition.",
+            "Mixed pesticides.",
+            "Supervisor’s name.",
+            "Expected harvest date.",
+            "Natural enemies present."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of previous applications of the group.",
+            "[[prepared]]Temperature and wind.",
+            "[[prepared]]Application time.",
+            "[[prepared]]Sprayer condition.",
+            "[[prepared]]Mixed pesticides.",
+            "[[prepared]]Supervisor’s name.",
+            "[[prepared]]Expected harvest date.",
+            "[[prepared]]Natural enemies present."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Successful Chemical Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduction in new mines.",
+            "Reduction in live larvae.",
+            "Cessation of growing-point infestation.",
+            "Reduction in infested fruits.",
+            "No need to repeat treatment because of poor execution.",
+            "Persistence of natural enemies.",
+            "Compliance with the allowed number of applications.",
+            "No residue-limit violations.",
+            "Reduced control cost per acceptable metric ton.",
+            "No gradual decline in susceptibility."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduction in new mines.",
+            "[[prepared]]Reduction in live larvae.",
+            "[[prepared]]Cessation of growing-point infestation.",
+            "[[prepared]]Reduction in infested fruits.",
+            "[[prepared]]No need to repeat treatment because of poor execution.",
+            "[[prepared]]Persistence of natural enemies.",
+            "[[prepared]]Compliance with the allowed number of applications.",
+            "[[prepared]]No residue-limit violations.",
+            "[[prepared]]Reduced control cost per acceptable metric ton.",
+            "[[prepared]]No gradual decline in susceptibility."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A large number of dead larvae alone is insufficient if new infestation continues to appear.",
+          "prepared_text": "[[prepared]]A large number of dead larvae alone is insufficient if new infestation continues to appear."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Following a Calendar Spray Program"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This causes unnecessary applications and high resistance pressure.",
+          "prepared_text": "[[prepared]]This causes unnecessary applications and high resistance pressure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Changing the Trade Name While Keeping the Same IRAC Group"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not constitute rotation.",
+          "prepared_text": "[[prepared]]This does not constitute rotation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Using One Group Against Successive Generations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This accelerates resistance selection.",
+          "prepared_text": "[[prepared]]This accelerates resistance selection."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Spraying Larvae After They Have Entered Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Protection is limited and damage has already occurred.",
+          "prepared_text": "[[prepared]]Protection is limited and damage has already occurred."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Using a Dose Below the Label Rate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may fail to kill moderately susceptible individuals and increase selection pressure.",
+          "prepared_text": "[[prepared]]This may fail to kill moderately susceptible individuals and increase selection pressure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Exceeding the Dose"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not overcome resistance and increases residues and risk.",
+          "prepared_text": "[[prepared]]This does not overcome resistance and increases residues and risk."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Mixing Several Active Ingredients Without a Clear Purpose"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This increases cost and problems without guaranteeing efficacy.",
+          "prepared_text": "[[prepared]]This increases cost and problems without guaranteeing efficacy."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Treating Every Mixture as a Resistance-Management Program"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Both active ingredients should be effective and belong to different groups.",
+          "prepared_text": "[[prepared]]Both active ingredients should be effective and belong to different groups."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Repeating the Same Mixture"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This exposes the pest repeatedly to the same two groups.",
+          "prepared_text": "[[prepared]]This exposes the pest repeatedly to the same two groups."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Neglecting Sprayer Calibration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application failure may appear to be resistance.",
+          "prepared_text": "[[prepared]]Application failure may appear to be resistance."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Using High Pressure Without Evaluating Deposition"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may increase drift instead of coverage.",
+          "prepared_text": "[[prepared]]This may increase drift instead of coverage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Neglecting Lower Leaf Surfaces and Growing Points"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This leaves oviposition and hatching sites unprotected.",
+          "prepared_text": "[[prepared]]This leaves oviposition and hatching sites unprotected."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Thirteen: Judging Treatment by Old Mines"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "New mines and live larvae should be counted.",
+          "prepared_text": "[[prepared]]New mines and live larvae should be counted."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fourteen: Repeating the Spray Immediately When Rapid Mortality Is Not Observed"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Speed of action differs among groups.",
+          "prepared_text": "[[prepared]]Speed of action differs among groups."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fifteen: Ignoring Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their mortality may cause pest resurgence.",
+          "prepared_text": "[[prepared]]Their mortality may cause pest resurgence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Sixteen: Ignoring the PHI"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This exposes the crop to rejection and residue problems.",
+          "prepared_text": "[[prepared]]This exposes the crop to rejection and residue problems."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seventeen: Treating the MRL as an Optional Guideline"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is a legal or commercial limit that must be respected.",
+          "prepared_text": "[[prepared]]It is a legal or commercial limit that must be respected."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eighteen: Declaring Resistance Without Testing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application errors should be excluded and susceptibility evaluated.",
+          "prepared_text": "[[prepared]]Application errors should be excluded and susceptibility evaluated."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Practical Priorities for Open-Field Tomatoes in Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Priorities are:",
+          "prepared_text": "[[prepared]]Priorities are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Do not implement any treatment without monitoring.",
+            "2. Review current Egyptian registration before and during the season.",
+            "3. Record the IRAC group number for every active ingredient.",
+            "4. Do not repeat the same group against successive generations.",
+            "5. Target young larvae.",
+            "6. Recalibrate the sprayer as plant size changes.",
+            "7. Improve coverage of growing points and lower leaf surfaces.",
+            "8. Do not treat different trade names as rotation.",
+            "9. Protect predators and egg parasitoids.",
+            "10. Link every treatment to harvest timing.",
+            "11. Align the program with the supply or export market.",
+            "12. Do not base the program on organophosphates and pyrethroids.",
+            "13. Avoid excessive use of diamides, spinosyns, or avermectins.",
+            "14. Review performance after every treatment.",
+            "15. Collect samples for susceptibility testing when failure is repeated.",
+            "16. Manage old fields and immigration sources.",
+            "17. Do not use insecticides to compensate for poor sanitation or absence of traps.",
+            "18. Maintain a complete treatment record beginning in the nursery."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Do not implement any treatment without monitoring.",
+            "[[prepared]]2. Review current Egyptian registration before and during the season.",
+            "[[prepared]]3. Record the IRAC group number for every active ingredient.",
+            "[[prepared]]4. Do not repeat the same group against successive generations.",
+            "[[prepared]]5. Target young larvae.",
+            "[[prepared]]6. Recalibrate the sprayer as plant size changes.",
+            "[[prepared]]7. Improve coverage of growing points and lower leaf surfaces.",
+            "[[prepared]]8. Do not treat different trade names as rotation.",
+            "[[prepared]]9. Protect predators and egg parasitoids.",
+            "[[prepared]]10. Link every treatment to harvest timing.",
+            "[[prepared]]11. Align the program with the supply or export market.",
+            "[[prepared]]12. Do not base the program on organophosphates and pyrethroids.",
+            "[[prepared]]13. Avoid excessive use of diamides, spinosyns, or avermectins.",
+            "[[prepared]]14. Review performance after every treatment.",
+            "[[prepared]]15. Collect samples for susceptibility testing when failure is repeated.",
+            "[[prepared]]16. Manage old fields and immigration sources.",
+            "[[prepared]]17. Do not use insecticides to compensate for poor sanitation or absence of traps.",
+            "[[prepared]]18. Maintain a complete treatment record beginning in the nursery."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Summary of Section Ten"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Chemical control against Tuta absoluta should be used as a targeted intervention within integrated pest management rather than as a fixed periodic program.",
+          "prepared_text": "[[prepared]]Chemical control against Tuta absoluta should be used as a targeted intervention within [[term:ipm]]integrated pest management[[/term]] rather than as a fixed periodic program."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision depends on monitoring, dominant pest stage, crop stage, natural-enemy activity, and harvest timing.",
+          "prepared_text": "[[prepared]]The decision depends on monitoring, dominant pest stage, crop stage, natural-enemy activity, and harvest timing."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Highest efficacy is achieved when eggs close to hatching and first- and second-instar larvae are targeted before they enter growing points, stems, and fruits.",
+          "prepared_text": "[[prepared]]Highest efficacy is achieved when eggs close to hatching and first- and second-instar larvae are targeted before they enter growing points, stems, and fruits."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance-management programs should be based on IRAC group numbers rather than trade names.",
+          "prepared_text": "[[prepared]]Resistance-management programs should be based on IRAC group numbers rather than trade names."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Important examples include:",
+          "prepared_text": "[[prepared]]Important examples include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spinosad and Spinetoram: group 5.",
+            "Abamectin and Emamectin benzoate: group 6.",
+            "Bt products targeting Lepidoptera: group 11A.",
+            "Chlorfenapyr: group 13.",
+            "Lufenuron, Chlorfluazuron, and Novaluron: group 15.",
+            "Methoxyfenozide and Tebufenozide: group 18.",
+            "Indoxacarb: group 22A.",
+            "Chlorantraniliprole, Cyantraniliprole, Flubendiamide, and Tetraniliprole: group 28."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spinosad and Spinetoram: group 5.",
+            "[[prepared]]Abamectin and Emamectin benzoate: group 6.",
+            "[[prepared]]Bt products targeting [[term:classification]]Lepidoptera[[/term]]: group 11A.",
+            "[[prepared]]Chlorfenapyr: group 13.",
+            "[[prepared]]Lufenuron, Chlorfluazuron, and Novaluron: group 15.",
+            "[[prepared]]Methoxyfenozide and Tebufenozide: group 18.",
+            "[[prepared]]Indoxacarb: group 22A.",
+            "[[prepared]]Chlorantraniliprole, Cyantraniliprole, Flubendiamide, and Tetraniliprole: group 28."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rotation between two active ingredients within the same group does not constitute true rotation.",
+          "prepared_text": "[[prepared]]Rotation between two active ingredients within the same group does not constitute true rotation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance management recommends avoiding exposure of successive generations to the same group and using a window strategy aligned with generation duration and local temperature.",
+          "prepared_text": "[[prepared]]Resistance management recommends avoiding exposure of successive generations to the same group and using a window strategy aligned with generation duration and local temperature."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mixtures are not substitutes for rotation. Each active ingredient in the mixture should be effective, registered, and belong to a different group, and the same mixture should not be repeated throughout the season.",
+          "prepared_text": "[[prepared]]Mixtures are not substitutes for rotation. Each active ingredient in the mixture should be effective, registered, and belong to a different group, and the same mixture should not be repeated throughout the season."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance must also be distinguished from application failure. Failure may result from timing, coverage, dose, weather, immigration, or larvae already being inside fruits.",
+          "prepared_text": "[[prepared]]Resistance must also be distinguished from application failure. Failure may result from timing, coverage, dose, weather, immigration, or larvae already being inside fruits."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Susceptibility can be scientifically verified using standardized tests, including IRAC Method No. 022 for Tuta absoluta larvae.",
+          "prepared_text": "[[prepared]]Susceptibility can be scientifically verified using standardized tests, including IRAC Method No. 022 for Tuta absoluta larvae."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rational chemical control is completed by compliance with preharvest intervals, maximum residue limits, restricted-entry intervals, worker safety, and protection of the environment and natural enemies.",
+          "prepared_text": "[[prepared]]Rational chemical control is completed by compliance with preharvest intervals, maximum residue limits, restricted-entry intervals, worker safety, and protection of the environment and natural enemies."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-10-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Insecticide Resistance Action Committee. (2026). IRAC Mode of Action Classification Scheme, Version 11.5.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "Insecticide Resistance Action Committee. The Tomato Leafminer, Tuta absoluta: Recommendations for Sustainable and Effective Resistance Management.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Insecticide Resistance Action Committee. IRAC Susceptibility Test Method No. 022: Tuta absoluta Larvae.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Insecticide Resistance Action Committee. (2023). Insecticide Mixtures and Resistance Management: Updated Guidance.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "Insecticide Resistance Action Committee. Guidelines for Resistance Management of Group 28 Diamide Insecticides.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "Roditakis, E., Vasakis, E., Grispou, M., Stavrakaki, M., Nauen, R., Gravouil, M., & Bassi, A. (2015). First report of Tuta absoluta resistance to diamide insecticides. Journal of Pest Science, 88, 9–16.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Silva, G. A., Picanço, M. C., Bacci, L., Crespo, A. L. B., Rosado, J. F., & Guedes, R. N. C. (2011). Control failure likelihood and spatial dependence of insecticide resistance in the tomato pinworm, Tuta absoluta. Pest Management Science, 67, 913–920.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Guedes, R. N. C., Roditakis, E., Campos, M. R., Haddi, K., Bielza, P., Siqueira, H. A. A., Tsagkarakou, A., Vontas, J., & Nauen, R. (2019). Insecticide resistance in the tomato pinworm Tuta absoluta: Patterns, spread, mechanisms, management and outlook. Journal of Pest Science, 92, 1329–1342.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Desneux, N., Han, P., Mansour, R., et al. (2022). Integrated pest management of Tuta absoluta: Practical implementations across different world regions. Journal of Pest Science, 95, 17–39.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Food and Agriculture Organization of the United Nations. Manual on the Submission and Evaluation of Pesticide Residues Data.",
+              "url": ""
+            },
+            {
+              "number": 11,
+              "text": "Codex Alimentarius Commission. Maximum Residue Limits for Pesticides.",
+              "url": ""
+            },
+            {
+              "number": 12,
+              "text": "European Commission. Maximum Residue Levels for Pesticides in Food and Feed.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F. H., & Desneux, N. (2018). Ecology, worldwide spread, and management of the invasive South American tomato pinworm, Tuta absoluta. Annual Review of Entomology, 63, 239–258.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "Campos, M. R., Biondi, A., Adiga, A., Guedes, R. N. C., & Desneux, N. (2017). From the Western Palaearctic region to beyond: Tuta absoluta ten years after invading Europe. Journal of Pest Science, 90, 787–796.",
+              "url": ""
+            },
+            {
+              "number": 15,
+              "text": "Roditakis, E., Skarmoutsou, C., Staurakaki, M., et al. (2013). Toxicity of insecticides to populations of Tuta absoluta from Greece. Pest Management Science, 69, 834–840.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 10,
+        "part_title": "Section Ten: Rational Chemical Control",
+        "part_subtitle": "Rational Chemical Control of Tuta absoluta"
+      }
+    }
+  ]
+}
