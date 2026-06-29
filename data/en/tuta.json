@@ -69,6 +69,177 @@
     {
       "tab_title": "Symptoms, Damage, and Economic Losses",
       "content_path": "tuta/8.json"
+    },
+    {
+      "tab_title": "Integrated Management of Tuta absoluta",
+      "parts": [
+        {
+          "part_title": "Part One: Introduction, Foundations, and General Principles of Integrated Pest Management",
+          "part_short_title": "Introduction, Foundations, and General Principles of Integrated Pest Management",
+          "part_subtitle": "Integrated Pest Management of Tuta absoluta",
+          "content_path": "tuta/9/0.json"
+        },
+        {
+          "part_title": "Section One: Prevention, Exclusion, and Prevention of Pest Establishment in the Field",
+          "part_short_title": "Prevention, Exclusion, and Prevention of Pest Establishment in the Field",
+          "part_subtitle": "",
+          "content_path": "tuta/9/1.json"
+        },
+        {
+          "part_title": "Section Two: Nursery and Transplant Management and Prevention of Pest Transfer to the Field",
+          "part_short_title": "Nursery and Transplant Management and Prevention of Pest Transfer to the Field",
+          "part_subtitle": "",
+          "content_path": "tuta/9/2.json"
+        },
+        {
+          "part_title": "Section Three: Monitoring, Early Detection, and Warning",
+          "part_short_title": "Monitoring, Early Detection, and Warning",
+          "part_subtitle": "",
+          "content_path": "tuta/9/3.json"
+        },
+        {
+          "part_title": "Section Four: Economic Thresholds and Intervention Decision-Making",
+          "part_short_title": "Economic Thresholds and Intervention Decision-Making",
+          "part_subtitle": "",
+          "content_path": "tuta/9/4.json"
+        },
+        {
+          "part_title": "Section Five: Cultural Control",
+          "part_short_title": "Cultural Control",
+          "part_subtitle": "Cultural Control of Tuta absoluta",
+          "content_path": "tuta/9/5.json"
+        },
+        {
+          "part_title": "Section Six: Mechanical and Physical Control",
+          "part_short_title": "Mechanical and Physical Control",
+          "part_subtitle": "Mechanical and Physical Control of Tuta absoluta",
+          "content_path": "tuta/9/6.json"
+        },
+        {
+          "part_title": "Section Seven: Behavioural and Pheromone-Based Control",
+          "part_short_title": "Behavioural and Pheromone-Based Control",
+          "part_subtitle": "Behavioural and Pheromone-Based Control of Tuta absoluta",
+          "content_path": "tuta/9/7.json"
+        },
+        {
+          "part_title": "Section Eight: Biological Control Using Insect Parasitoids and Predators",
+          "part_short_title": "Biological Control Using Insect Parasitoids and Predators",
+          "part_subtitle": "Biological Control Using Parasitoids and Predators",
+          "content_path": "tuta/9/8.json"
+        },
+        {
+          "part_title": "Section Nine: Microbial and Entomopathogenic Control",
+          "part_short_title": "Microbial and Entomopathogenic Control",
+          "part_subtitle": "Microbial and Entomopathogenic Control of Tuta absoluta",
+          "content_path": "tuta/9/9.json"
+        },
+        {
+          "part_title": "Section Ten: Rational Chemical Control",
+          "part_short_title": "Rational Chemical Control",
+          "part_subtitle": "Rational Chemical Control of Tuta absoluta",
+          "content_path": "tuta/9/10.json"
+        },
+        {
+          "part_title": "Section Eleven: Insecticide Resistance Management",
+          "part_short_title": "Insecticide Resistance Management",
+          "part_subtitle": "Insecticide Resistance Management — IRM",
+          "content_path": "tuta/9/11.json"
+        },
+        {
+          "part_title": "Section Twelve: Compatibility Among Integrated Pest Management Components",
+          "part_short_title": "Compatibility Among Integrated Pest Management Components",
+          "part_subtitle": "Compatibility Among Integrated Pest Management Components",
+          "content_path": "tuta/9/12.json"
+        },
+        {
+          "part_title": "Section Thirteen: Area-Wide Integrated Pest Management",
+          "part_short_title": "Area-Wide Integrated Pest Management",
+          "part_subtitle": "Area-Wide Integrated Pest Management of Tuta absoluta",
+          "content_path": "tuta/9/13.json"
+        },
+        {
+          "part_title": "Section Fourteen: Season-Long Field IPM Programme",
+          "part_short_title": "Season-Long Field IPM Programme",
+          "part_subtitle": "Season-Long Field IPM Programme for Tuta absoluta",
+          "content_path": "tuta/9/14.json"
+        },
+        {
+          "part_title": "Section Fifteen: Evaluation of IPM Performance and Economic Viability",
+          "part_short_title": "Evaluation of IPM Performance and Economic Viability",
+          "part_subtitle": "Evaluation of IPM Performance and Economic Viability",
+          "content_path": "tuta/9/15.json"
+        },
+        {
+          "part_title": "Section Sixteen: Biological Belts and Plants Supporting Natural Enemies",
+          "part_short_title": "Biological Belts and Plants Supporting Natural Enemies",
+          "part_subtitle": "Biological Belts, Insectary Plants and Conservation Biological Control",
+          "content_path": "tuta/9/16.json"
+        },
+        {
+          "part_title": "Section Seventeen: Field Decision-Making Matrix",
+          "part_short_title": "Field Decision-Making Matrix",
+          "part_subtitle": "Field Decision-Making Matrix for Tuta absoluta Management",
+          "content_path": "tuta/9/17.json"
+        },
+        {
+          "part_title": "Section Eighteen: Applied Programmes for Managing Tuta absoluta Under Egyptian Conditions",
+          "part_short_title": "Applied Programmes for Managing Tuta absoluta Under Egyptian Conditions",
+          "part_subtitle": "Applied IPM Programmes for Tuta absoluta Under Egyptian Conditions",
+          "content_path": "tuta/9/18.json"
+        },
+        {
+          "part_title": "Section Nineteen: Emergency Scenarios and Management of IPM Failure",
+          "part_short_title": "Emergency Scenarios and Management of IPM Failure",
+          "part_subtitle": "Emergency Scenarios and Management of IPM Failure",
+          "content_path": "tuta/9/19.json"
+        },
+        {
+          "part_title": "Section Twenty: Early-Warning Indicators and Outbreak Forecasting",
+          "part_short_title": "Early-Warning Indicators and Outbreak Forecasting",
+          "part_subtitle": "Early-Warning Indicators and Outbreak Forecasting for Tuta absoluta",
+          "content_path": "tuta/9/20.json"
+        },
+        {
+          "part_title": "Section Twenty-One: Case Studies and Critical Analysis of Tuta absoluta Management Programmes",
+          "part_short_title": "Case Studies and Critical Analysis of Tuta absoluta Management Programmes",
+          "part_subtitle": "Case Studies and Critical Analysis of Tuta absoluta Management Programmes",
+          "content_path": "tuta/9/21.json"
+        },
+        {
+          "part_title": "Section Twenty-Two: Ready-to-Use Field Records and Forms",
+          "part_short_title": "Ready-to-Use Field Records and Forms",
+          "part_subtitle": "Field Records, Monitoring Forms and Operational Templates",
+          "content_path": "tuta/9/22.json"
+        },
+        {
+          "part_title": "Section Twenty-Three: Critical Errors Leading to Failure of Integrated Pest Management Programmes",
+          "part_short_title": "Critical Errors Leading to Failure of Integrated Pest Management Programmes",
+          "part_subtitle": "Critical Errors Leading to Failure of Tuta absoluta IPM Programmes",
+          "content_path": "tuta/9/23.json"
+        },
+        {
+          "part_title": "Section Twenty-Four: Final Operational Protocol for Integrated Pest Management",
+          "part_short_title": "Final Operational Protocol for Integrated Pest Management",
+          "part_subtitle": "Final Operational IPM Protocol for Tuta absoluta",
+          "content_path": "tuta/9/24.json"
+        },
+        {
+          "part_title": "Section Twenty-Five: Final Recommendations by Responsible Stakeholder",
+          "part_short_title": "Final Recommendations by Responsible Stakeholder",
+          "part_subtitle": "Stakeholder-Specific Recommendations for Sustainable Management of Tuta absoluta",
+          "content_path": "tuta/9/25.json"
+        },
+        {
+          "part_title": "Section Twenty-Six: Extended General Conclusion",
+          "part_short_title": "Extended General Conclusion",
+          "part_subtitle": "",
+          "content_path": "tuta/9/26.json"
+        }
+      ]
+    },
+    {
+      "tab_title": "Integrated Thermal Model",
+      "content_path": "tuta/10.json"
     }
   ]
 }
