@@ -140,7 +140,9 @@
         },
         { "text": "دورة الحياة", "target": "tuta", "disabled": false },
         { "text": "العوائل النباتية", "target": "tuta", "disabled": false },
-        { "text": "الأعراض والأضرار والخسائر الاقتصادية", "target": "tuta", "disabled": false }
+        { "text": "الأعراض والأضرار والخسائر الاقتصادية", "target": "tuta", "disabled": false },
+        { "text": "الإدارة المتكاملة لتوتا أبسولوتا", "target": "tuta", "disabled": false },
+        { "text": "النموذج الحراري المتكامل", "target": "tuta", "disabled": false }
       ]
     },
     {
