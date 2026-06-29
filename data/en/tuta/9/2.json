@@ -1,0 +1,3059 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 2,
+  "part_title": "Section Two: Nursery and Transplant Management and Prevention of Pest Transfer to the Field",
+  "part_short_title": "Nursery and Transplant Management and Prevention of Pest Transfer to the Field",
+  "part_subtitle": "",
+  "content_path": "tuta/9/2.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The nursery is one of the most sensitive stages in an integrated management program for Tuta absoluta, because infested transplants may carry eggs or larvae into the field from the very beginning of the season.",
+          "prepared_text": "[[prepared]]The nursery is one of the most sensitive stages in an integrated management program for Tuta absoluta, because infested transplants may carry eggs or larvae into the field from the very beginning of the season."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation introduced with transplants differs from infestation caused by moth immigration from outside the field. When the pest is transferred with transplants, infestation may appear distributed throughout the field during the first few days, and larvae may begin establishing a new generation before pheromone traps record a clear increase in moth numbers.",
+          "prepared_text": "[[prepared]]Infestation introduced with transplants differs from infestation caused by moth immigration from outside the field. When the pest is transferred with transplants, infestation may appear distributed throughout the field during the first few days, and larvae may begin establishing a new generation before [[term:pheromone-trap]]pheromone traps[[/term]] record a clear increase in moth numbers."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Early infestation is particularly serious for the following reasons:",
+          "prepared_text": "[[prepared]]Early infestation is particularly serious for the following reasons:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The long period available for the pest to produce successive generations.",
+            "The small size of transplants and their limited ability to compensate for growing-point damage.",
+            "Difficulty of detecting eggs and recent mines.",
+            "Possibility of distributing infested transplants over a large area.",
+            "Movement of the pest from one nursery to several fields at the same time.",
+            "Higher cost of discarding plants after transplanting than removing them in the nursery.",
+            "Possibility of confusing Tuta infestation with transport injury, water stress, or nursery diseases."
+          ],
+          "prepared_items": [
+            "[[prepared]]The long period available for the pest to produce successive generations.",
+            "[[prepared]]The small size of transplants and their limited ability to compensate for growing-point damage.",
+            "[[prepared]]Difficulty of detecting eggs and recent [[term:mines]]mines[[/term]].",
+            "[[prepared]]Possibility of distributing infested transplants over a large area.",
+            "[[prepared]]Movement of the pest from one nursery to several fields at the same time.",
+            "[[prepared]]Higher cost of discarding plants after transplanting than removing them in the nursery.",
+            "[[prepared]]Possibility of confusing Tuta infestation with transport injury, water stress, or nursery diseases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plants intended for planting, including tomato transplants and solanaceous hosts, are recognized pathways for the movement of Phthorimaea absoluta among sites and regions. Transplant health must therefore be treated as a basic requirement for initiating the integrated management program, not as a supplementary measure. [1, 2, 3]",
+          "prepared_text": "[[prepared]]Plants intended for planting, including tomato transplants and [[term:solanaceae]]solanaceous hosts[[/term]], are recognized pathways for the movement of [[term:phthorimaea]]Phthorimaea absoluta[[/term]] among sites and regions. Transplant health must therefore be treated as a basic requirement for initiating the integrated management program, not as a supplementary measure. [1, 2, 3]"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Objectives of Nursery Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nursery management aims to achieve the following:",
+          "prepared_text": "[[prepared]]Nursery management aims to achieve the following:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Prevent moths from entering the transplant-production area.",
+            "2. Prevent oviposition on transplants.",
+            "3. Detect infestation immediately after it appears.",
+            "4. Prevent larval movement among trays.",
+            "5. Isolate suspicious batches.",
+            "6. Dispose of infested plants safely.",
+            "7. Prevent pest movement with trays, containers, and transport vehicles.",
+            "8. Produce vigorous transplants capable of tolerating transplanting.",
+            "9. Maintain records allowing each batch to be traced.",
+            "10. Confirm that transplants are free from infestation before they leave the nursery.",
+            "11. Reinspect transplants upon arrival at the field.",
+            "12. Prevent surplus transplants from becoming a permanent pest reservoir."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Prevent moths from entering the transplant-production area.",
+            "[[prepared]]2. Prevent oviposition on transplants.",
+            "[[prepared]]3. Detect infestation immediately after it appears.",
+            "[[prepared]]4. Prevent larval movement among trays.",
+            "[[prepared]]5. Isolate suspicious batches.",
+            "[[prepared]]6. Dispose of infested plants safely.",
+            "[[prepared]]7. Prevent pest movement with trays, containers, and transport vehicles.",
+            "[[prepared]]8. Produce vigorous transplants capable of tolerating transplanting.",
+            "[[prepared]]9. Maintain records allowing each batch to be traced.",
+            "[[prepared]]10. Confirm that transplants are free from infestation before they leave the nursery.",
+            "[[prepared]]11. Reinspect transplants upon arrival at the field.",
+            "[[prepared]]12. Prevent surplus transplants from becoming a permanent pest reservoir."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These objectives cannot be achieved through preventive spraying alone; they require appropriate nursery design, sanitation, inspection, and batch traceability.",
+          "prepared_text": "[[prepared]]These objectives cannot be achieved through preventive spraying alone; they require appropriate nursery design, sanitation, inspection, and batch traceability."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Nursery as a Critical Point in the Pest Life Cycle"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Transplants possess several characteristics that make them suitable for oviposition, including:",
+          "prepared_text": "[[prepared]]Transplants possess several characteristics that make them suitable for oviposition, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Presence of young and tender leaves.",
+            "Close plant spacing within trays.",
+            "Continuous irrigation and growth.",
+            "High plant density within a limited area.",
+            "Presence of active terminal growth.",
+            "Ease of larval movement between contacting leaves.",
+            "Sufficient transplant-retention time for completion of part of the pest life cycle."
+          ],
+          "prepared_items": [
+            "[[prepared]]Presence of young and tender leaves.",
+            "[[prepared]]Close plant spacing within trays.",
+            "[[prepared]]Continuous irrigation and growth.",
+            "[[prepared]]High plant density within a limited area.",
+            "[[prepared]]Presence of active terminal growth.",
+            "[[prepared]]Ease of larval movement between contacting leaves.",
+            "[[prepared]]Sufficient transplant-retention time for completion of part of the pest life cycle."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A single fertilized female entering the nursery may lay a large number of eggs on a group of transplants, particularly when traps and regular inspections are absent.",
+          "prepared_text": "[[prepared]]A single fertilized female entering the nursery may lay a large number of eggs on a group of transplants, particularly when traps and regular inspections are absent."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The effects of infestation are more severe in small transplants because a single mine or growing-point infestation may cause:",
+          "prepared_text": "[[prepared]]The effects of infestation are more severe in small transplants because a single mine or growing-point infestation may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Growth cessation.",
+            "Loss of the terminal bud.",
+            "Transplant deformation.",
+            "Emergence of weak lateral shoots.",
+            "Delayed transplanting.",
+            "Poor uniformity.",
+            "Transplant death in severe cases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Growth cessation.",
+            "[[prepared]]Loss of the terminal bud.",
+            "[[prepared]]Transplant deformation.",
+            "[[prepared]]Emergence of weak lateral shoots.",
+            "[[prepared]]Delayed transplanting.",
+            "[[prepared]]Poor uniformity.",
+            "[[prepared]]Transplant death in severe cases."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Selection of Nursery Location"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The nursery should preferably be established at a site:",
+          "prepared_text": "[[prepared]]The nursery should preferably be established at a site:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Away from old and infested tomato fields.",
+            "Away from tomato grading and packing areas.",
+            "Away from piles of rejected fruits.",
+            "Away from tomato-processing waste.",
+            "Away from infested potato and eggplant fields.",
+            "Free from volunteer tomato plants.",
+            "Free from black nightshade and infested solanaceous hosts.",
+            "Not directly downwind from an infested field.",
+            "Where entry of workers and containers can be controlled.",
+            "Whose surroundings can be monitored regularly."
+          ],
+          "prepared_items": [
+            "[[prepared]]Away from old and infested tomato fields.",
+            "[[prepared]]Away from tomato grading and packing areas.",
+            "[[prepared]]Away from piles of rejected fruits.",
+            "[[prepared]]Away from tomato-processing waste.",
+            "[[prepared]]Away from infested potato and eggplant fields.",
+            "[[prepared]]Free from volunteer tomato plants.",
+            "[[prepared]]Free from black nightshade and infested solanaceous hosts.",
+            "[[prepared]]Not directly downwind from an infested field.",
+            "[[prepared]]Where entry of workers and containers can be controlled.",
+            "[[prepared]]Whose surroundings can be monitored regularly."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single distance guarantees protection because moth movement depends on:",
+          "prepared_text": "[[prepared]]No single distance guarantees protection because moth movement depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation density at the source.",
+            "Wind direction.",
+            "Presence of continuous hosts.",
+            "Nature of the surrounding area.",
+            "Duration of the nursery cycle.",
+            "Presence of physical barriers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation density at the source.",
+            "[[prepared]]Wind direction.",
+            "[[prepared]]Presence of continuous hosts.",
+            "[[prepared]]Nature of the surrounding area.",
+            "[[prepared]]Duration of the nursery cycle.",
+            "[[prepared]]Presence of physical barriers."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Assessment of the surrounding agricultural environment is therefore more important than relying on distance alone.",
+          "prepared_text": "[[prepared]]Assessment of the surrounding agricultural environment is therefore more important than relying on distance alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Buffer Zone Around the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A clean buffer zone should be established around the nursery and inspected regularly.",
+          "prepared_text": "[[prepared]]A clean buffer zone should be established around the nursery and inspected regularly."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Management of the buffer zone includes:",
+          "prepared_text": "[[prepared]]Management of the buffer zone includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Removal of volunteer tomato plants.",
+            "Removal of infested black nightshade.",
+            "Removal of wild solanaceous species carrying active infestation.",
+            "Prevention of accumulation of tomato leaves and fruits.",
+            "Avoidance of storage of contaminated harvest crates.",
+            "Prevention of old or abandoned transplants remaining in the area.",
+            "Inspection of weeds before removal to determine whether the pest is present.",
+            "Installation of traps in locations suitable for detecting incoming moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removal of volunteer tomato plants.",
+            "[[prepared]]Removal of infested black nightshade.",
+            "[[prepared]]Removal of wild solanaceous species carrying [[term:infestation-status]]active infestation[[/term]].",
+            "[[prepared]]Prevention of accumulation of tomato leaves and fruits.",
+            "[[prepared]]Avoidance of storage of contaminated harvest crates.",
+            "[[prepared]]Prevention of old or abandoned transplants remaining in the area.",
+            "[[prepared]]Inspection of weeds before removal to determine whether the pest is present.",
+            "[[prepared]]Installation of traps in locations suitable for detecting incoming moths."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Removed plants should not be left in piles near the nursery because larvae may continue feeding or pupate and later produce adult moths.",
+          "prepared_text": "[[prepared]]Removed plants should not be left in piles near the nursery because larvae may continue feeding or pupate and later produce adult moths."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nursery Types and Risk Level"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fully Enclosed Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This nursery is equipped with a structure, insect-proof screens, and controllable doors.",
+          "prepared_text": "[[prepared]]This nursery is equipped with a structure, insect-proof screens, and controllable doors."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It provides a high level of protection when:",
+          "prepared_text": "[[prepared]]It provides a high level of protection when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "All openings are sealed.",
+            "Screens contain no holes.",
+            "Entry points are inspected continuously.",
+            "Clean transplants and supplies are used.",
+            "No infested batches are introduced."
+          ],
+          "prepared_items": [
+            "[[prepared]]All openings are sealed.",
+            "[[prepared]]Screens contain no holes.",
+            "[[prepared]]Entry points are inspected continuously.",
+            "[[prepared]]Clean transplants and supplies are used.",
+            "[[prepared]]No infested batches are introduced."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An enclosed nursery is not safe when infestation enters with plants, tools, or contaminated containers.",
+          "prepared_text": "[[prepared]]An enclosed nursery is not safe when infestation enters with plants, tools, or contaminated containers."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Semi-Protected Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This nursery may be partially covered or contain inadequately sealed openings.",
+          "prepared_text": "[[prepared]]This nursery may be partially covered or contain inadequately sealed openings."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It requires greater emphasis on:",
+          "prepared_text": "[[prepared]]It requires greater emphasis on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Traps.",
+            "Frequent inspection.",
+            "Removal of surrounding hosts.",
+            "Reducing transplant-retention time.",
+            "Isolation of suspicious plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Traps.",
+            "[[prepared]]Frequent inspection.",
+            "[[prepared]]Removal of surrounding hosts.",
+            "[[prepared]]Reducing transplant-retention time.",
+            "[[prepared]]Isolation of suspicious plants."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Open Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An open nursery is more exposed to moth immigration, particularly when located near tomato crops.",
+          "prepared_text": "[[prepared]]An open nursery is more exposed to moth immigration, particularly when located near tomato crops."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Protection depends largely on:",
+          "prepared_text": "[[prepared]]Protection depends largely on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Site selection.",
+            "Sanitation of the surroundings.",
+            "Early monitoring.",
+            "Frequent inspection.",
+            "Rapid management of infestation foci.",
+            "Prevention of transplants remaining after the scheduled date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Site selection.",
+            "[[prepared]]Sanitation of the surroundings.",
+            "[[prepared]]Early monitoring.",
+            "[[prepared]]Frequent inspection.",
+            "[[prepared]]Rapid management of infestation foci.",
+            "[[prepared]]Prevention of transplants remaining after the scheduled date."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Insect-Proof Screens and Barriers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insect-proof screens help reduce moth entry into protected nurseries.",
+          "prepared_text": "[[prepared]]Insect-proof screens help reduce moth entry into protected nurseries."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their efficacy depends on:",
+          "prepared_text": "[[prepared]]Their efficacy depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mesh size being suitable for moth size.",
+            "Quality of installation.",
+            "Absence of gaps.",
+            "Proper closure of doors.",
+            "Lack of screen damage.",
+            "Maintenance of adequate ventilation for transplants.",
+            "Prevention of entry of infested plants from outside."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mesh size being suitable for moth size.",
+            "[[prepared]]Quality of installation.",
+            "[[prepared]]Absence of gaps.",
+            "[[prepared]]Proper closure of doors.",
+            "[[prepared]]Lack of screen damage.",
+            "[[prepared]]Maintenance of adequate ventilation for transplants.",
+            "[[prepared]]Prevention of entry of infested plants from outside."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Screens on walls are insufficient when:",
+          "prepared_text": "[[prepared]]Screens on walls are insufficient when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Doors are left open.",
+            "Openings occur at ground level.",
+            "Tears are present.",
+            "Trays enter without inspection.",
+            "Host weeds occur inside the structure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Doors are left open.",
+            "[[prepared]]Openings occur at ground level.",
+            "[[prepared]]Tears are present.",
+            "[[prepared]]Trays enter without inspection.",
+            "[[prepared]]Host weeds occur inside the structure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Screens should be inspected periodically, particularly at:",
+          "prepared_text": "[[prepared]]Screens should be inspected periodically, particularly at:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Corners.",
+            "Doors.",
+            "Points where screens join the structure.",
+            "Service openings.",
+            "Locations through which hoses and cables pass."
+          ],
+          "prepared_items": [
+            "[[prepared]]Corners.",
+            "[[prepared]]Doors.",
+            "[[prepared]]Points where screens join the structure.",
+            "[[prepared]]Service openings.",
+            "[[prepared]]Locations through which hoses and cables pass."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Doors and Entry Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Protected nurseries should preferably use a system that reduces direct insect entry, such as:",
+          "prepared_text": "[[prepared]]Protected nurseries should preferably use a system that reduces direct insect entry, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Double-entry doors.",
+            "Two doors that are not opened simultaneously.",
+            "A vestibule between the outside and inside.",
+            "Air or screen curtains where appropriate.",
+            "Immediate door closure after workers pass."
+          ],
+          "prepared_items": [
+            "[[prepared]]Double-entry doors.",
+            "[[prepared]]Two doors that are not opened simultaneously.",
+            "[[prepared]]A vestibule between the outside and inside.",
+            "[[prepared]]Air or screen curtains where appropriate.",
+            "[[prepared]]Immediate door closure after workers pass."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Entry of the following should be prohibited:",
+          "prepared_text": "[[prepared]]Entry of the following should be prohibited:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tomato harvest crates.",
+            "Infested fruits.",
+            "Leaves from external fields.",
+            "Contaminated equipment.",
+            "Clothing carrying plant residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato harvest crates.",
+            "[[prepared]]Infested fruits.",
+            "[[prepared]]Leaves from external fields.",
+            "[[prepared]]Contaminated equipment.",
+            "[[prepared]]Clothing carrying plant residues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nursery visits should be scheduled after visiting clean fields and before entering heavily infested fields, not after direct work in infested fields.",
+          "prepared_text": "[[prepared]]Nursery visits should be scheduled after visiting clean fields and before entering heavily infested fields, not after direct work in infested fields."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Internal Nursery Sanitation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Internal sanitation includes:",
+          "prepared_text": "[[prepared]]Internal sanitation includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Daily removal of fallen leaves.",
+            "Removal of dead transplants.",
+            "Avoiding retention of rejected plants among trays.",
+            "Cleaning walkways.",
+            "Preventing weed accumulation.",
+            "Cleaning beneath benches.",
+            "Removing soil and plant residues.",
+            "Cleaning reusable tools and trays.",
+            "Disposing of surplus transplants when no longer needed.",
+            "Preventing the presence of large or fruiting tomato plants inside the nursery."
+          ],
+          "prepared_items": [
+            "[[prepared]]Daily removal of fallen leaves.",
+            "[[prepared]]Removal of dead transplants.",
+            "[[prepared]]Avoiding retention of rejected plants among trays.",
+            "[[prepared]]Cleaning walkways.",
+            "[[prepared]]Preventing weed accumulation.",
+            "[[prepared]]Cleaning beneath benches.",
+            "[[prepared]]Removing soil and plant residues.",
+            "[[prepared]]Cleaning reusable tools and trays.",
+            "[[prepared]]Disposing of surplus transplants when no longer needed.",
+            "[[prepared]]Preventing the presence of large or fruiting tomato plants inside the nursery."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A small discarded leaf may contain a larva capable of completing development. Waste should therefore be collected in a closed container and not discarded near the nursery.",
+          "prepared_text": "[[prepared]]A small discarded leaf may contain a larva capable of completing development. Waste should therefore be collected in a closed container and not discarded near the nursery."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Trays and Growing Medium"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is not usually transmitted with tomato seed itself; transfer risk is associated with infested plants and plant parts.",
+          "prepared_text": "[[prepared]]Tuta absoluta is not usually transmitted with tomato seed itself; transfer risk is associated with infested plants and plant parts."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nevertheless, trays and growing media require attention because of:",
+          "prepared_text": "[[prepared]]Nevertheless, trays and growing media require attention because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant residues adhering to reused trays.",
+            "Pupae occurring in cracks or beneath benches.",
+            "Movement of trays from an infested nursery into a clean one.",
+            "Mixing of old and new batches."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant residues adhering to reused trays.",
+            "[[prepared]][[term:pupation]]Pupae[[/term]] occurring in cracks or beneath benches.",
+            "[[prepared]]Movement of trays from an infested nursery into a clean one.",
+            "[[prepared]]Mixing of old and new batches."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Measures include:",
+          "prepared_text": "[[prepared]]Measures include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cleaning trays before reuse.",
+            "Removing root and leaf residues.",
+            "Storing trays away from infested tomato crops.",
+            "Keeping new trays away from residue piles.",
+            "Using growing media free from host-plant residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cleaning trays before reuse.",
+            "[[prepared]]Removing root and leaf residues.",
+            "[[prepared]]Storing trays away from infested tomato crops.",
+            "[[prepared]]Keeping new trays away from residue piles.",
+            "[[prepared]]Using growing media free from host-plant residues."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Separation of Batches Within the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each transplant batch should be treated as an independent unit.",
+          "prepared_text": "[[prepared]]Each transplant batch should be treated as an independent unit."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be recorded for each batch:",
+          "prepared_text": "[[prepared]]The following should be recorded for each batch:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Identification number.",
+            "Cultivar.",
+            "Sowing date.",
+            "Seed source.",
+            "Germination date.",
+            "Tray location within the nursery.",
+            "Inspection results.",
+            "Treatments applied.",
+            "Transport date.",
+            "Destination field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Identification number.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Sowing date.",
+            "[[prepared]]Seed source.",
+            "[[prepared]]Germination date.",
+            "[[prepared]]Tray location within the nursery.",
+            "[[prepared]]Inspection results.",
+            "[[prepared]]Treatments applied.",
+            "[[prepared]]Transport date.",
+            "[[prepared]]Destination field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Clear walkways should preferably be maintained between batches to allow:",
+          "prepared_text": "[[prepared]]Clear walkways should preferably be maintained between batches to allow:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inspection.",
+            "Isolation.",
+            "Identification of infestation sources.",
+            "Prevention of plant mixing.",
+            "Localized treatment when necessary."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inspection.",
+            "[[prepared]]Isolation.",
+            "[[prepared]]Identification of infestation sources.",
+            "[[prepared]]Prevention of plant mixing.",
+            "[[prepared]]Localized treatment when necessary."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mixing trays without identification makes it difficult to identify the infestation source after it appears in the field.",
+          "prepared_text": "[[prepared]]Mixing trays without identification makes it difficult to identify the infestation source after it appears in the field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Receiving Batches from Outside the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When transplants or plants are received from another source, they should not be placed directly among healthy transplants.",
+          "prepared_text": "[[prepared]]When transplants or plants are received from another source, they should not be placed directly among healthy transplants."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following procedure should be applied:",
+          "prepared_text": "[[prepared]]The following procedure should be applied:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Place them in a separate receiving area.",
+            "2. Inspect leaves and growing points.",
+            "3. Review trap records or reports from the supplying nursery.",
+            "4. Inspect a representative number of trays.",
+            "5. Open suspicious mines.",
+            "6. Identify any larvae present.",
+            "7. Isolate the batch when suspicion exists.",
+            "8. Integrate it only after confirming that it is clean."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Place them in a separate receiving area.",
+            "[[prepared]]2. Inspect leaves and growing points.",
+            "[[prepared]]3. Review trap records or reports from the supplying nursery.",
+            "[[prepared]]4. Inspect a representative number of trays.",
+            "[[prepared]]5. Open suspicious mines.",
+            "[[prepared]]6. Identify any larvae present.",
+            "[[prepared]]7. Isolate the batch when suspicion exists.",
+            "[[prepared]]8. Integrate it only after confirming that it is clean."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A short isolation period helps reveal mines that were not visible at the time of receipt.",
+          "prepared_text": "[[prepared]]A short isolation period helps reveal mines that were not visible at the time of receipt."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pheromone Monitoring Inside the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pheromone traps are used for early detection of male Tuta absoluta moths.",
+          "prepared_text": "[[prepared]]Pheromone traps are used for early detection of male Tuta absoluta moths."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They help to:",
+          "prepared_text": "[[prepared]]They help to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Detect moth entry.",
+            "Determine the beginning of activity.",
+            "Identify areas with greater exposure.",
+            "Compare entrances and edges.",
+            "Monitor increasing or decreasing trends."
+          ],
+          "prepared_items": [
+            "[[prepared]]Detect moth entry.",
+            "[[prepared]]Determine the beginning of activity.",
+            "[[prepared]]Identify areas with greater exposure.",
+            "[[prepared]]Compare entrances and edges.",
+            "[[prepared]]Monitor increasing or decreasing trends."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Traps should be placed:",
+          "prepared_text": "[[prepared]]Traps should be placed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Near entrances.",
+            "On sides facing infestation sources.",
+            "Inside production units.",
+            "Near the tray-receiving area."
+          ],
+          "prepared_items": [
+            "[[prepared]]Near entrances.",
+            "[[prepared]]On sides facing infestation sources.",
+            "[[prepared]]Inside production units.",
+            "[[prepared]]Near the tray-receiving area."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The number of traps should be determined according to:",
+          "prepared_text": "[[prepared]]The number of traps should be determined according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nursery area.",
+            "Number of separate units.",
+            "Number of entrances.",
+            "Surrounding risk level.",
+            "Structure design."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nursery area.",
+            "[[prepared]]Number of separate units.",
+            "[[prepared]]Number of entrances.",
+            "[[prepared]]Surrounding risk level.",
+            "[[prepared]]Structure design."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A single trap should not be relied upon in large or divided nurseries because it may not represent all areas.",
+          "prepared_text": "[[prepared]]A single trap should not be relied upon in large or divided nurseries because it may not represent all areas."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The trap remains a tool for monitoring males and cannot by itself confirm that transplants are free from eggs and larvae.",
+          "prepared_text": "[[prepared]]The trap remains a tool for monitoring males and cannot by itself confirm that transplants are free from eggs and larvae."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Trap Maintenance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Trap maintenance should include:",
+          "prepared_text": "[[prepared]]Trap maintenance should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inspection at fixed intervals.",
+            "Counting suspected moths.",
+            "Confirming Tuta identity.",
+            "Removing excess insects when they obstruct counting.",
+            "Replacing the sticky card when full or dirty.",
+            "Replacing the lure according to product instructions.",
+            "Recording the lure-installation date.",
+            "Avoiding direct hand contact with lures when odor transfer is possible.",
+            "Avoiding mixing lures for different species.",
+            "Securing the trap in a clearly identified and recorded location."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inspection at fixed intervals.",
+            "[[prepared]]Counting suspected moths.",
+            "[[prepared]]Confirming Tuta identity.",
+            "[[prepared]]Removing excess insects when they obstruct counting.",
+            "[[prepared]]Replacing the sticky card when full or dirty.",
+            "[[prepared]]Replacing the lure according to product instructions.",
+            "[[prepared]]Recording the lure-installation date.",
+            "[[prepared]]Avoiding direct hand contact with lures when odor transfer is possible.",
+            "[[prepared]]Avoiding mixing lures for different species.",
+            "[[prepared]]Securing the trap in a clearly identified and recorded location."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Catch should be recorded for each trap separately rather than only as a general total because spatial distribution may reveal the moth-entry direction.",
+          "prepared_text": "[[prepared]]Catch should be recorded for each trap separately rather than only as a general total because spatial distribution may reveal the moth-entry direction."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Plant Inspection Inside the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Direct inspection of transplants is more important than relying on traps alone.",
+          "prepared_text": "[[prepared]]Direct inspection of transplants is more important than relying on traps alone."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inspection should include:",
+          "prepared_text": "[[prepared]]Inspection should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cotyledons of small transplants.",
+            "Newly formed true leaves.",
+            "Lower leaf surfaces.",
+            "Growing points.",
+            "Contacting leaves.",
+            "Transplants near doors.",
+            "Edges facing the outside.",
+            "Trays near rejected plants.",
+            "Areas where traps have captured moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cotyledons of small transplants.",
+            "[[prepared]]Newly formed true leaves.",
+            "[[prepared]]Lower leaf surfaces.",
+            "[[prepared]]Growing points.",
+            "[[prepared]]Contacting leaves.",
+            "[[prepared]]Transplants near doors.",
+            "[[prepared]]Edges facing the outside.",
+            "[[prepared]]Trays near rejected plants.",
+            "[[prepared]]Areas where traps have captured moths."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inspection frequency should increase when:",
+          "prepared_text": "[[prepared]]Inspection frequency should increase when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap catches rise.",
+            "An infested field is nearby.",
+            "Screens are damaged.",
+            "A new batch is received.",
+            "Transplants remain longer than usual.",
+            "Temperatures become favorable for pest development."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap catches rise.",
+            "[[prepared]]An infested field is nearby.",
+            "[[prepared]]Screens are damaged.",
+            "[[prepared]]A new batch is received.",
+            "[[prepared]]Transplants remain longer than usual.",
+            "[[prepared]]Temperatures become favorable for pest development."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sampling Method"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inspection should not be limited to one row or one nursery area.",
+          "prepared_text": "[[prepared]]Inspection should not be limited to one row or one nursery area."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A route covering the entire nursery should be followed, such as:",
+          "prepared_text": "[[prepared]]A route covering the entire nursery should be followed, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A zigzag route.",
+            "Sampling points distributed among corners and the center.",
+            "Independent inspection of each batch.",
+            "Increased sampling near doors and edges."
+          ],
+          "prepared_items": [
+            "[[prepared]]A zigzag route.",
+            "[[prepared]]Sampling points distributed among corners and the center.",
+            "[[prepared]]Independent inspection of each batch.",
+            "[[prepared]]Increased sampling near doors and edges."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At each point, transplants should be examined from:",
+          "prepared_text": "[[prepared]]At each point, transplants should be examined from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The beginning of trays.",
+            "The middle.",
+            "The end.",
+            "Upper and lower shelves when trays are placed on racks."
+          ],
+          "prepared_items": [
+            "[[prepared]]The beginning of trays.",
+            "[[prepared]]The middle.",
+            "[[prepared]]The end.",
+            "[[prepared]]Upper and lower shelves when trays are placed on racks."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single universal sample size applies to all nurseries. Sample size should be determined according to:",
+          "prepared_text": "[[prepared]]No single universal sample size applies to all nurseries. Sample size should be determined according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of transplants.",
+            "Number of batches.",
+            "Infestation history.",
+            "Risk level.",
+            "Available resources."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of transplants.",
+            "[[prepared]]Number of batches.",
+            "[[prepared]]Infestation history.",
+            "[[prepared]]Risk level.",
+            "[[prepared]]Available resources."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inspection must be sufficient to detect small infestation foci before they are distributed.",
+          "prepared_text": "[[prepared]]Inspection must be sufficient to detect small infestation foci before they are distributed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Searching for Eggs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta eggs are small and difficult to see without training.",
+          "prepared_text": "[[prepared]]Tuta absoluta eggs are small and difficult to see without training."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should be searched for mainly on:",
+          "prepared_text": "[[prepared]]They should be searched for mainly on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Lower leaf surfaces.",
+            "Young leaves.",
+            "Petioles.",
+            "Tender stems.",
+            "Growing points."
+          ],
+          "prepared_items": [
+            "[[prepared]]Lower leaf surfaces.",
+            "[[prepared]]Young leaves.",
+            "[[prepared]]Petioles.",
+            "[[prepared]]Tender stems.",
+            "[[prepared]]Growing points."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Eggs initially appear:",
+          "prepared_text": "[[prepared]]Eggs initially appear:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cream-colored.",
+            "Pale yellow.",
+            "Darker as hatching approaches."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cream-colored.",
+            "[[prepared]]Pale yellow.",
+            "[[prepared]]Darker as hatching approaches."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When necessary, the following can be used:",
+          "prepared_text": "[[prepared]]When necessary, the following can be used:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A hand lens.",
+            "Side lighting.",
+            "A dark background.",
+            "Examination of selected leaves under suitable magnification."
+          ],
+          "prepared_items": [
+            "[[prepared]]A hand lens.",
+            "[[prepared]]Side lighting.",
+            "[[prepared]]A dark background.",
+            "[[prepared]]Examination of selected leaves under suitable magnification."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Absence of visible eggs should not be assumed to mean that the batch is pest-free because larvae may already have hatched and entered leaves.",
+          "prepared_text": "[[prepared]]Absence of visible eggs should not be assumed to mean that the batch is pest-free because larvae may already have hatched and entered leaves."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Searching for Recent Mines"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mines on transplants begin as:",
+          "prepared_text": "[[prepared]]Mines on transplants begin as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A transparent point.",
+            "A small silvery area.",
+            "An irregular spot.",
+            "A short mine near the leaf base or vein."
+          ],
+          "prepared_items": [
+            "[[prepared]]A transparent point.",
+            "[[prepared]]A small silvery area.",
+            "[[prepared]]An irregular spot.",
+            "[[prepared]]A short mine near the leaf base or vein."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be distinguished:",
+          "prepared_text": "[[prepared]]The following should be distinguished:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An active mine containing a larva.",
+            "Mechanical damage.",
+            "A disease lesion.",
+            "Leaf-miner fly infestation.",
+            "Fertilizer or pesticide burn."
+          ],
+          "prepared_items": [
+            "[[prepared]]An active mine containing a larva.",
+            "[[prepared]]Mechanical damage.",
+            "[[prepared]]A disease lesion.",
+            "[[prepared]]Leaf-miner fly infestation.",
+            "[[prepared]]Fertilizer or pesticide burn."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A suspicious mine should be opened using a fine instrument while searching for:",
+          "prepared_text": "[[prepared]]A suspicious mine should be opened using a fine instrument while searching for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A small larva with a distinct head.",
+            "Dark frass.",
+            "An entry point.",
+            "Larval movement.",
+            "Cast skin."
+          ],
+          "prepared_items": [
+            "[[prepared]]A small larva with a distinct head.",
+            "[[prepared]]Dark [[term:frass]]frass[[/term]].",
+            "[[prepared]]An entry point.",
+            "[[prepared]]Larval movement.",
+            "[[prepared]]Cast skin."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Inspection of Growing Points"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Growing-point infestation in transplants may be more serious than a limited mine in a lower leaf.",
+          "prepared_text": "[[prepared]]Growing-point infestation in transplants may be more serious than a limited mine in a lower leaf."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Signs include:",
+          "prepared_text": "[[prepared]]Signs include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Wilting of the growing point.",
+            "Young leaves held together by silken threads.",
+            "Dark frass.",
+            "A hole in the tender stem.",
+            "Cessation of elongation.",
+            "Emergence of lateral shoots.",
+            "Drying of the terminal bud."
+          ],
+          "prepared_items": [
+            "[[prepared]]Wilting of the growing point.",
+            "[[prepared]]Young leaves held together by silken threads.",
+            "[[prepared]]Dark frass.",
+            "[[prepared]]A hole in the tender stem.",
+            "[[prepared]]Cessation of elongation.",
+            "[[prepared]]Emergence of lateral shoots.",
+            "[[prepared]]Drying of the terminal bud."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A transplant that has lost its growing point or is severely deformed should be discarded even if the larva is no longer present because transplant quality and uniformity have declined.",
+          "prepared_text": "[[prepared]]A transplant that has lost its growing point or is severely deformed should be discarded even if the larva is no longer present because transplant quality and uniformity have declined."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distinguishing Tuta from Leaf-Miner Flies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Liriomyza leaf-miner flies may occur in nurseries and produce mines that differ from those of Tuta.",
+          "prepared_text": "[[prepared]][[term:liriomyza]]Liriomyza[[/term]] leaf-miner flies may occur in nurseries and produce mines that differ from those of Tuta."
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Characteristic",
+            "Tuta absoluta",
+            "Leaf-Miner Fly"
+          ],
+          "rows": [
+            [
+              "Mine shape",
+              "Usually blotch-like and irregular",
+              "Usually winding and serpentine"
+            ],
+            [
+              "Larva",
+              "Distinct head and legs",
+              "Maggot-like and without visible legs"
+            ],
+            [
+              "Frass",
+              "Dark aggregations inside the mine",
+              "Discontinuous line within the track"
+            ],
+            [
+              "Growing-point infestation",
+              "Possible",
+              "Unusual"
+            ],
+            [
+              "Stem movement",
+              "Possible",
+              "Less common"
+            ],
+            [
+              "Adult insect",
+              "Small moth",
+              "Small fly"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Characteristic",
+            "[[prepared]]Tuta absoluta",
+            "[[prepared]]Leaf-Miner Fly"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Mine shape",
+              "[[prepared]]Usually blotch-like and irregular",
+              "[[prepared]]Usually winding and serpentine"
+            ],
+            [
+              "[[prepared]]Larva",
+              "[[prepared]]Distinct head and legs",
+              "[[prepared]]Maggot-like and without visible legs"
+            ],
+            [
+              "[[prepared]]Frass",
+              "[[prepared]]Dark aggregations inside the mine",
+              "[[prepared]]Discontinuous line within the track"
+            ],
+            [
+              "[[prepared]]Growing-point infestation",
+              "[[prepared]]Possible",
+              "[[prepared]]Unusual"
+            ],
+            [
+              "[[prepared]]Stem movement",
+              "[[prepared]]Possible",
+              "[[prepared]]Less common"
+            ],
+            [
+              "[[prepared]]Adult insect",
+              "[[prepared]]Small moth",
+              "[[prepared]]Small fly"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Diagnosis should not be based on mine shape alone, but also on the larva and adult insect.",
+          "prepared_text": "[[prepared]]Diagnosis should not be based on mine shape alone, but also on the larva and adult insect."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nursery Alert Levels"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nursery status can be divided into practical alert levels.",
+          "prepared_text": "[[prepared]]Nursery status can be divided into practical alert levels."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Green Level: No Evidence"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "No confirmed moths in traps.",
+            "No eggs.",
+            "No active mines.",
+            "No growing-point infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]No confirmed moths in traps.",
+            "[[prepared]]No eggs.",
+            "[[prepared]]No active mines.",
+            "[[prepared]]No growing-point infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Preventive monitoring continues.",
+          "prepared_text": "[[prepared]]Preventive monitoring continues."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Yellow Level: Suspicion or Limited Catch"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "One moth or a limited number of moths recorded.",
+            "Nearby infestation source.",
+            "An unconfirmed mine.",
+            "Screen damage."
+          ],
+          "prepared_items": [
+            "[[prepared]]One moth or a limited number of moths recorded.",
+            "[[prepared]]Nearby infestation source.",
+            "[[prepared]]An unconfirmed mine.",
+            "[[prepared]]Screen damage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inspection should be intensified and barriers reviewed.",
+          "prepared_text": "[[prepared]]Inspection should be intensified and barriers reviewed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Orange Level: Limited Confirmed Infestation"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confirmed eggs.",
+            "A larva or active mine in a limited number of trays.",
+            "A localized focus."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confirmed eggs.",
+            "[[prepared]]A larva or active mine in a limited number of trays.",
+            "[[prepared]]A localized focus."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The focus is isolated, its extent is determined, and tray movement is stopped.",
+          "prepared_text": "[[prepared]]The focus is isolated, its extent is determined, and tray movement is stopped."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Red Level: Widespread Infestation"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation in more than one batch.",
+            "Larvae of different instars.",
+            "Continued trap catches.",
+            "Difficulty defining the boundaries of the focus."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation in more than one batch.",
+            "[[prepared]]Larvae of different instars.",
+            "[[prepared]]Continued trap catches.",
+            "[[prepared]]Difficulty defining the boundaries of the focus."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Suitability of the batches for transfer must be reviewed, and rejection may be safer than introducing them into the field.",
+          "prepared_text": "[[prepared]]Suitability of the batches for transfer must be reviewed, and rejection may be safer than introducing them into the field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These levels are not formal economic thresholds, but an operational system for organizing nursery response.",
+          "prepared_text": "[[prepared]]These levels are not formal economic thresholds, but an operational system for organizing nursery response."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Response to the First Detection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When the first confirmed egg, larva, or mine is detected:",
+          "prepared_text": "[[prepared]]When the first confirmed egg, larva, or mine is detected:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Identify the batch number.",
+            "2. Stop movement of trays from that batch.",
+            "3. Mark infested plants.",
+            "4. Inspect neighboring trays.",
+            "5. Review catches from nearby traps.",
+            "6. Inspect screens and entry points.",
+            "7. Collect infested plants.",
+            "8. Determine whether the infestation is individual, localized, or widespread.",
+            "9. Record the event with date and location.",
+            "10. Reinspect after a short interval."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Identify the batch number.",
+            "[[prepared]]2. Stop movement of trays from that batch.",
+            "[[prepared]]3. Mark infested plants.",
+            "[[prepared]]4. Inspect neighboring trays.",
+            "[[prepared]]5. Review catches from nearby traps.",
+            "[[prepared]]6. Inspect screens and entry points.",
+            "[[prepared]]7. Collect infested plants.",
+            "[[prepared]]8. Determine whether the infestation is individual, localized, or widespread.",
+            "[[prepared]]9. Record the event with date and location.",
+            "[[prepared]]10. Reinspect after a short interval."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infested trays should not be moved to another open location without containment because this may distribute the pest within the nursery.",
+          "prepared_text": "[[prepared]]Infested trays should not be moved to another open location without containment because this may distribute the pest within the nursery."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Removal of Infested Transplants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When removing infested transplants:",
+          "prepared_text": "[[prepared]]When removing infested transplants:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pull out the complete plant when necessary.",
+            "Prevent leaf drop.",
+            "Place it directly into a sealed bag or container.",
+            "Do not leave it in walkways.",
+            "Do not discard it on an open compost pile.",
+            "Do not use it for gap filling in fields.",
+            "Dispose of it using a method that kills the pest stages present."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pull out the complete plant when necessary.",
+            "[[prepared]]Prevent leaf drop.",
+            "[[prepared]]Place it directly into a sealed bag or container.",
+            "[[prepared]]Do not leave it in walkways.",
+            "[[prepared]]Do not discard it on an open compost pile.",
+            "[[prepared]]Do not use it for gap filling in fields.",
+            "[[prepared]]Dispose of it using a method that kills the pest stages present."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Suitable disposal methods, subject to local regulations and available resources, include:",
+          "prepared_text": "[[prepared]]Suitable disposal methods, subject to local regulations and available resources, include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Secure sealing followed by safe disposal.",
+            "Fine shredding combined with suitable treatment.",
+            "Deep burial where permitted.",
+            "Heat exposure sufficient to kill all stages.",
+            "Controlled thermophilic composting."
+          ],
+          "prepared_items": [
+            "[[prepared]]Secure sealing followed by safe disposal.",
+            "[[prepared]]Fine shredding combined with suitable treatment.",
+            "[[prepared]]Deep burial where permitted.",
+            "[[prepared]]Heat exposure sufficient to kill all stages.",
+            "[[prepared]]Controlled thermophilic composting."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Burning residues should not be treated as an automatic option unless it is legally permitted and environmentally safe.",
+          "prepared_text": "[[prepared]]Burning residues should not be treated as an automatic option unless it is legally permitted and environmentally safe."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "When Should an Individual Transplant Be Rejected?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A transplant should be discarded when it carries:",
+          "prepared_text": "[[prepared]]A transplant should be discarded when it carries:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A live larva.",
+            "An active mine.",
+            "Confirmed eggs.",
+            "Growing-point infestation.",
+            "Severe deformation.",
+            "Loss of the terminal bud.",
+            "Drying caused by stem boring."
+          ],
+          "prepared_items": [
+            "[[prepared]]A live larva.",
+            "[[prepared]]An active mine.",
+            "[[prepared]]Confirmed eggs.",
+            "[[prepared]]Growing-point infestation.",
+            "[[prepared]]Severe deformation.",
+            "[[prepared]]Loss of the terminal bud.",
+            "[[prepared]]Drying caused by stem boring."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A transplant bearing an old empty mine may also be discarded if the damage has weakened it or if absence of other pest stages cannot be confirmed.",
+          "prepared_text": "[[prepared]]A transplant bearing an old empty mine may also be discarded if the damage has weakened it or if absence of other pest stages cannot be confirmed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "When Should Surrounding Trays Be Isolated?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Surrounding trays should be isolated when:",
+          "prepared_text": "[[prepared]]Surrounding trays should be isolated when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Their leaves contact those of infested trays.",
+            "Several infested transplants occur at the same site.",
+            "Moths occur near the area.",
+            "Infestation boundaries cannot be defined.",
+            "Trays were moved before the focus was discovered.",
+            "Advanced larvae capable of movement are present."
+          ],
+          "prepared_items": [
+            "[[prepared]]Their leaves contact those of infested trays.",
+            "[[prepared]]Several infested transplants occur at the same site.",
+            "[[prepared]]Moths occur near the area.",
+            "[[prepared]]Infestation boundaries cannot be defined.",
+            "[[prepared]]Trays were moved before the focus was discovered.",
+            "[[prepared]]Advanced larvae capable of movement are present."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Removing only the visibly infested transplant without examining surrounding plants is insufficient because eggs and young larvae may be difficult to detect.",
+          "prepared_text": "[[prepared]]Removing only the visibly infested transplant without examining surrounding plants is insufficient because eggs and young larvae may be difficult to detect."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision to Accept or Reject a Batch"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision depends on:",
+          "prepared_text": "[[prepared]]The decision depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of infested plants.",
+            "Distribution of infestation.",
+            "Presence of multiple larval instars.",
+            "Infestation occurring in more than one tray.",
+            "Results of reinspection.",
+            "History of trap catches.",
+            "Proximity to the transfer date.",
+            "Capacity for isolation and treatment.",
+            "Value of the transplants.",
+            "Risk of introducing the pest into the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of infested plants.",
+            "[[prepared]]Distribution of infestation.",
+            "[[prepared]]Presence of multiple [[term:larval-instar]]larval instars[[/term]].",
+            "[[prepared]]Infestation occurring in more than one tray.",
+            "[[prepared]]Results of reinspection.",
+            "[[prepared]]History of trap catches.",
+            "[[prepared]]Proximity to the transfer date.",
+            "[[prepared]]Capacity for isolation and treatment.",
+            "[[prepared]]Value of the transplants.",
+            "[[prepared]]Risk of introducing the pest into the field."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "A Batch May Be Accepted After Verification When:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation was extremely limited.",
+            "The focus was isolated.",
+            "No new infestation appeared during reinspection.",
+            "Trap catches were stable or absent.",
+            "Remaining plants could be confirmed as clean."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation was extremely limited.",
+            "[[prepared]]The focus was isolated.",
+            "[[prepared]]No new infestation appeared during reinspection.",
+            "[[prepared]]Trap catches were stable or absent.",
+            "[[prepared]]Remaining plants could be confirmed as clean."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "A Batch Should Tend Toward Rejection When:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation is distributed.",
+            "Larvae of different instars are present.",
+            "Growing points are infested.",
+            "New mines continue to appear.",
+            "Tray movement cannot be traced.",
+            "Transplants from several batches are mixed.",
+            "Freedom of remaining plants from infestation cannot be guaranteed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation is distributed.",
+            "[[prepared]]Larvae of different instars are present.",
+            "[[prepared]]Growing points are infested.",
+            "[[prepared]]New mines continue to appear.",
+            "[[prepared]]Tray movement cannot be traced.",
+            "[[prepared]]Transplants from several batches are mixed.",
+            "[[prepared]]Freedom of remaining plants from infestation cannot be guaranteed."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision should be more conservative when the transplants are destined for a low-infestation area or a large project.",
+          "prepared_text": "[[prepared]]The decision should be more conservative when the transplants are destined for a low-infestation area or a large project."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Role of Biological Control in the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Biological control may be integrated into nursery management, particularly in facilities that retain transplants for long periods.",
+          "prepared_text": "[[prepared]]Biological control may be integrated into nursery management, particularly in facilities that retain transplants for long periods."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "General options include:",
+          "prepared_text": "[[prepared]]General options include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Conservation of naturally occurring predators.",
+            "Use of egg parasitoids where appropriate.",
+            "Use of microbial products targeting young larvae.",
+            "Avoidance of insecticides highly harmful to natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Conservation of naturally occurring predators.",
+            "[[prepared]]Use of [[term:biological-control]]egg parasitoids[[/term]] where appropriate.",
+            "[[prepared]]Use of microbial products targeting young larvae.",
+            "[[prepared]]Avoidance of insecticides highly harmful to natural enemies."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Biological control should not be used to justify transfer of transplants carrying confirmed infestation into the field. The principal nursery objective is to produce plants that are as free from infestation as possible.",
+          "prepared_text": "[[prepared]]Biological control should not be used to justify transfer of transplants carrying confirmed infestation into the field. The principal nursery objective is to produce plants that are as free from infestation as possible."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Release programs require:",
+          "prepared_text": "[[prepared]]Release programs require:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Identification of the target stage.",
+            "Early initiation of intervention.",
+            "Suitable temperature and humidity.",
+            "Insecticide compatibility.",
+            "Assessment of parasitism or predation.",
+            "Continuous monitoring."
+          ],
+          "prepared_items": [
+            "[[prepared]]Identification of the target stage.",
+            "[[prepared]]Early initiation of intervention.",
+            "[[prepared]]Suitable temperature and humidity.",
+            "[[prepared]]Insecticide compatibility.",
+            "[[prepared]]Assessment of parasitism or predation.",
+            "[[prepared]]Continuous monitoring."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These aspects will be explained in detail in the biological-control sections.",
+          "prepared_text": "[[prepared]]These aspects will be explained in detail in the biological-control sections."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Use of Insecticides in the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The nursery program should not be based on repeated calendar spraying.",
+          "prepared_text": "[[prepared]]The nursery program should not be based on repeated calendar spraying."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When intervention is required, the following should be considered:",
+          "prepared_text": "[[prepared]]When intervention is required, the following should be considered:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confirming pest identity.",
+            "Determining whether eggs or larvae are present.",
+            "Selecting an appropriate registered product.",
+            "Targeting young larvae.",
+            "Achieving good coverage of lower leaf surfaces.",
+            "Avoiding excessive mixtures.",
+            "Considering the effect on natural enemies.",
+            "Rotating modes of action.",
+            "Reinspecting after treatment.",
+            "Not considering spraying automatic proof that transplants are pest-free."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confirming pest identity.",
+            "[[prepared]]Determining whether eggs or larvae are present.",
+            "[[prepared]]Selecting an appropriate registered product.",
+            "[[prepared]]Targeting young larvae.",
+            "[[prepared]]Achieving good coverage of lower leaf surfaces.",
+            "[[prepared]]Avoiding excessive mixtures.",
+            "[[prepared]]Considering the effect on natural enemies.",
+            "[[prepared]]Rotating modes of action.",
+            "[[prepared]]Reinspecting after treatment.",
+            "[[prepared]]Not considering spraying automatic proof that transplants are pest-free."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae inside mines or growing points may survive. Post-treatment inspection therefore remains necessary.",
+          "prepared_text": "[[prepared]]Larvae inside mines or growing points may survive. Post-treatment inspection therefore remains necessary."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Risks of Intensive Spraying in the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Excessive spraying may cause:",
+          "prepared_text": "[[prepared]]Excessive spraying may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Early selection of resistant individuals.",
+            "Mortality of natural enemies.",
+            "Outbreaks of secondary pests.",
+            "Concealment of symptoms without elimination of infestation.",
+            "Increased transplant cost.",
+            "Possible phytotoxicity.",
+            "Greater worker exposure to insecticides.",
+            "Transfer of apparently healthy transplants that still carry live larvae.",
+            "Beginning the field season with a long history of exposure to chemical groups."
+          ],
+          "prepared_items": [
+            "[[prepared]]Early selection of resistant individuals.",
+            "[[prepared]]Mortality of natural enemies.",
+            "[[prepared]]Outbreaks of secondary pests.",
+            "[[prepared]]Concealment of symptoms without elimination of infestation.",
+            "[[prepared]]Increased transplant cost.",
+            "[[prepared]]Possible phytotoxicity.",
+            "[[prepared]]Greater worker exposure to insecticides.",
+            "[[prepared]]Transfer of apparently healthy transplants that still carry live larvae.",
+            "[[prepared]]Beginning the field season with a long history of exposure to chemical groups."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every product used in the nursery should be recorded so that the history of modes of action can be considered when developing the field program.",
+          "prepared_text": "[[prepared]]Every product used in the nursery should be recorded so that the history of modes of action can be considered when developing the field program."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Transplant Treatment Record"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The record for each batch should include:",
+          "prepared_text": "[[prepared]]The record for each batch should include:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Item",
+            "Required Details"
+          ],
+          "rows": [
+            [
+              "Batch number",
+              "Clear identification code"
+            ],
+            [
+              "Cultivar",
+              "Commercial or genetic name"
+            ],
+            [
+              "Sowing date",
+              "Day and date"
+            ],
+            [
+              "Batch location",
+              "Sector or bench number"
+            ],
+            [
+              "Trap results",
+              "By date"
+            ],
+            [
+              "Inspection results",
+              "Eggs, mines, larvae, and growing points"
+            ],
+            [
+              "Discarded plants",
+              "Number and location"
+            ],
+            [
+              "Treatment",
+              "Product or method"
+            ],
+            [
+              "Mode of action",
+              "IRAC group number when an insecticide is used"
+            ],
+            [
+              "Treatment date",
+              "Day and date"
+            ],
+            [
+              "Reinspection result",
+              "After intervention"
+            ],
+            [
+              "Batch decision",
+              "Accepted, isolated, or rejected"
+            ],
+            [
+              "Shipping destination",
+              "Field or customer name"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Item",
+            "[[prepared]]Required Details"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Batch number",
+              "[[prepared]]Clear identification code"
+            ],
+            [
+              "[[prepared]]Cultivar",
+              "[[prepared]]Commercial or genetic name"
+            ],
+            [
+              "[[prepared]]Sowing date",
+              "[[prepared]]Day and date"
+            ],
+            [
+              "[[prepared]]Batch location",
+              "[[prepared]]Sector or bench number"
+            ],
+            [
+              "[[prepared]]Trap results",
+              "[[prepared]]By date"
+            ],
+            [
+              "[[prepared]]Inspection results",
+              "[[prepared]]Eggs, mines, larvae, and growing points"
+            ],
+            [
+              "[[prepared]]Discarded plants",
+              "[[prepared]]Number and location"
+            ],
+            [
+              "[[prepared]]Treatment",
+              "[[prepared]]Product or method"
+            ],
+            [
+              "[[prepared]][[term:mode-of-action]]Mode of action[[/term]]",
+              "[[prepared]][[term:irac]]IRAC group[[/term]] number when an insecticide is used"
+            ],
+            [
+              "[[prepared]]Treatment date",
+              "[[prepared]]Day and date"
+            ],
+            [
+              "[[prepared]]Reinspection result",
+              "[[prepared]]After intervention"
+            ],
+            [
+              "[[prepared]]Batch decision",
+              "[[prepared]]Accepted, isolated, or rejected"
+            ],
+            [
+              "[[prepared]]Shipping destination",
+              "[[prepared]]Field or customer name"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Treatment history should be delivered to the field manager so that the same chemical group is not repeated unnecessarily.",
+          "prepared_text": "[[prepared]]Treatment history should be delivered to the field manager so that the same chemical group is not repeated unnecessarily."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Transplant Hardening Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before transplanting, plants may be moved into a hardening area that is more open than the nursery.",
+          "prepared_text": "[[prepared]]Before transplanting, plants may be moved into a hardening area that is more open than the nursery."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This stage is a critical point because:",
+          "prepared_text": "[[prepared]]This stage is a critical point because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Screen protection may be reduced.",
+            "Transplants are closer to fields.",
+            "Their retention period may become longer.",
+            "Batches prepared for shipment are placed close together.",
+            "Entry of workers and transport vehicles increases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Screen protection may be reduced.",
+            "[[prepared]]Transplants are closer to fields.",
+            "[[prepared]]Their retention period may become longer.",
+            "[[prepared]]Batches prepared for shipment are placed close together.",
+            "[[prepared]]Entry of workers and transport vehicles increases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Hardening-stage measures include:",
+          "prepared_text": "[[prepared]]Hardening-stage measures include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Selecting an area away from infested fields.",
+            "Continuing traps and inspection.",
+            "Avoiding mixing of batches.",
+            "Reducing waiting time.",
+            "Removing any infested plant.",
+            "Avoiding leaving transplants unprotected overnight where possible.",
+            "Reinspection before loading."
+          ],
+          "prepared_items": [
+            "[[prepared]]Selecting an area away from infested fields.",
+            "[[prepared]]Continuing traps and inspection.",
+            "[[prepared]]Avoiding mixing of batches.",
+            "[[prepared]]Reducing waiting time.",
+            "[[prepared]]Removing any infested plant.",
+            "[[prepared]]Avoiding leaving transplants unprotected overnight where possible.",
+            "[[prepared]]Reinspection before loading."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Final Inspection Before Dispatch"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Final inspection should be conducted immediately before shipment and should include:",
+          "prepared_text": "[[prepared]]Final inspection should be conducted immediately before shipment and should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reviewing the batch record.",
+            "Inspecting a representative sample from all parts of the batch.",
+            "Inspecting growing points.",
+            "Inspecting lower leaf surfaces.",
+            "Opening suspicious mines.",
+            "Reviewing trap catches.",
+            "Confirming that no infested leaves occur beneath trays.",
+            "Confirming cleanliness of the transport vehicle.",
+            "Attaching an identification label to the batch."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reviewing the batch record.",
+            "[[prepared]]Inspecting a representative sample from all parts of the batch.",
+            "[[prepared]]Inspecting growing points.",
+            "[[prepared]]Inspecting lower leaf surfaces.",
+            "[[prepared]]Opening suspicious mines.",
+            "[[prepared]]Reviewing trap catches.",
+            "[[prepared]]Confirming that no infested leaves occur beneath trays.",
+            "[[prepared]]Confirming cleanliness of the transport vehicle.",
+            "[[prepared]]Attaching an identification label to the batch."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Health certification should not depend on the most recent treatment alone, but on inspection and traceability results.",
+          "prepared_text": "[[prepared]]Health certification should not depend on the most recent treatment alone, but on inspection and traceability results."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Transport of Transplants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "During transport:",
+          "prepared_text": "[[prepared]]During transport:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Clean vehicles should be used.",
+            "Transplants should not be transported with infested tomato fruits.",
+            "Contaminated harvest crates should not be used.",
+            "Leaf and plant residues should not be allowed to accumulate between trays.",
+            "Stops near infested fields should be minimized.",
+            "The load should be covered in a manner that reduces moth exposure without suffocating transplants.",
+            "Identification of each batch should be maintained."
+          ],
+          "prepared_items": [
+            "[[prepared]]Clean vehicles should be used.",
+            "[[prepared]]Transplants should not be transported with infested tomato fruits.",
+            "[[prepared]]Contaminated harvest crates should not be used.",
+            "[[prepared]]Leaf and plant residues should not be allowed to accumulate between trays.",
+            "[[prepared]]Stops near infested fields should be minimized.",
+            "[[prepared]]The load should be covered in a manner that reduces moth exposure without suffocating transplants.",
+            "[[prepared]]Identification of each batch should be maintained."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Vehicles previously used to carry infested plants or fruits should be cleaned.",
+          "prepared_text": "[[prepared]]Vehicles previously used to carry infested plants or fruits should be cleaned."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Receiving Transplants in the Field"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Transplants should be inspected when they arrive at the field even if they were inspected at the nursery.",
+          "prepared_text": "[[prepared]]Transplants should be inspected when they arrive at the field even if they were inspected at the nursery."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation may occur during:",
+          "prepared_text": "[[prepared]]Infestation may occur during:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Hardening.",
+            "Loading.",
+            "Transport.",
+            "Waiting.",
+            "Temporary storage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Hardening.",
+            "[[prepared]]Loading.",
+            "[[prepared]]Transport.",
+            "[[prepared]]Waiting.",
+            "[[prepared]]Temporary storage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Receiving procedures include:",
+          "prepared_text": "[[prepared]]Receiving procedures include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Do not distribute transplants immediately.",
+            "2. Inspect trays from different sides.",
+            "3. Review the batch number.",
+            "4. Search for eggs and mines.",
+            "5. Inspect growing points.",
+            "6. Isolate suspicious trays.",
+            "7. Record where each batch is planted.",
+            "8. Retain records of source and treatments."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Do not distribute transplants immediately.",
+            "[[prepared]]2. Inspect trays from different sides.",
+            "[[prepared]]3. Review the batch number.",
+            "[[prepared]]4. Search for eggs and mines.",
+            "[[prepared]]5. Inspect growing points.",
+            "[[prepared]]6. Isolate suspicious trays.",
+            "[[prepared]]7. Record where each batch is planted.",
+            "[[prepared]]8. Retain records of source and treatments."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distribution of Batches Within the Field"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Transplants from different sources should preferably not be mixed randomly.",
+          "prepared_text": "[[prepared]]Transplants from different sources should preferably not be mixed randomly."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The location of each batch should be recorded because this helps interpret the pattern of infestation.",
+          "prepared_text": "[[prepared]]The location of each batch should be recorded because this helps interpret the pattern of infestation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If infestation appears:",
+          "prepared_text": "[[prepared]]If infestation appears:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Distributed within one sector, transplants may be the source.",
+            "Concentrated along one edge, external immigration may be the source.",
+            "Associated with one cultivar or source, source-related or susceptibility differences may be involved.",
+            "Near the tray-storage area, infestation may have occurred during waiting."
+          ],
+          "prepared_items": [
+            "[[prepared]]Distributed within one sector, transplants may be the source.",
+            "[[prepared]]Concentrated along one edge, external immigration may be the source.",
+            "[[prepared]]Associated with one cultivar or source, source-related or susceptibility differences may be involved.",
+            "[[prepared]]Near the tray-storage area, infestation may have occurred during waiting."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Batch maps facilitate rapid decisions on intensive inspection.",
+          "prepared_text": "[[prepared]]Batch maps facilitate rapid decisions on intensive inspection."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Surplus Transplants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Surplus transplants become a risk when left:",
+          "prepared_text": "[[prepared]]Surplus transplants become a risk when left:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Near the field.",
+            "Beside a water source.",
+            "In neglected trays.",
+            "Without inspection or control.",
+            "Until they grow into permanent hosts."
+          ],
+          "prepared_items": [
+            "[[prepared]]Near the field.",
+            "[[prepared]]Beside a water source.",
+            "[[prepared]]In neglected trays.",
+            "[[prepared]]Without inspection or control.",
+            "[[prepared]]Until they grow into permanent hosts."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be implemented:",
+          "prepared_text": "[[prepared]]The following should be implemented:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Determine the number required for gap filling.",
+            "Retain them for a defined period.",
+            "Inspect them continuously.",
+            "Dispose of them after the gap-filling period ends.",
+            "Do not allow them to become large infested tomato plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Determine the number required for gap filling.",
+            "[[prepared]]Retain them for a defined period.",
+            "[[prepared]]Inspect them continuously.",
+            "[[prepared]]Dispose of them after the gap-filling period ends.",
+            "[[prepared]]Do not allow them to become large infested tomato plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Surplus transplants may become a source of moths even when the field itself is under a good management program.",
+          "prepared_text": "[[prepared]]Surplus transplants may become a source of moths even when the field itself is under a good management program."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Gap Filling"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When transplants are used to replace missing plants:",
+          "prepared_text": "[[prepared]]When transplants are used to replace missing plants:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inspect each transplant before movement.",
+            "Do not use transplants from a suspicious batch.",
+            "Record the date and source of gap filling.",
+            "Inspect replacement plants after planting.",
+            "Do not move transplants from an infested field into another field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inspect each transplant before movement.",
+            "[[prepared]]Do not use transplants from a suspicious batch.",
+            "[[prepared]]Record the date and source of gap filling.",
+            "[[prepared]]Inspect replacement plants after planting.",
+            "[[prepared]]Do not move transplants from an infested field into another field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Late gap filling with unmonitored transplants introduces a new infestation source into the crop.",
+          "prepared_text": "[[prepared]]Late gap filling with unmonitored transplants introduces a new infestation source into the crop."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Successful Nursery Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Indicators include:",
+          "prepared_text": "[[prepared]]Indicators include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "No confirmed infestation inside the nursery.",
+            "Low or absent moth catches.",
+            "No active mines before shipping.",
+            "No growing-point infestation.",
+            "Low number of discarded transplants.",
+            "Complete batch records.",
+            "Intact screens and controlled entrances.",
+            "Absence of distributed early infestation in the field.",
+            "Ability to trace any focus to its source.",
+            "Reduced need for rescue sprays after transplanting."
+          ],
+          "prepared_items": [
+            "[[prepared]]No confirmed infestation inside the nursery.",
+            "[[prepared]]Low or absent moth catches.",
+            "[[prepared]]No active mines before shipping.",
+            "[[prepared]]No growing-point infestation.",
+            "[[prepared]]Low number of discarded transplants.",
+            "[[prepared]]Complete batch records.",
+            "[[prepared]]Intact screens and controlled entrances.",
+            "[[prepared]]Absence of distributed early infestation in the field.",
+            "[[prepared]]Ability to trace any focus to its source.",
+            "[[prepared]]Reduced need for rescue sprays after transplanting."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Absence of trap catches alone does not indicate program success unless it agrees with plant-inspection results.",
+          "prepared_text": "[[prepared]]Absence of trap catches alone does not indicate program success unless it agrees with plant-inspection results."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Nursery-Management Failure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Appearance of mines during the first days after transplanting in scattered sectors.",
+            "Infestation of several plants from the same source.",
+            "Detection of advanced larvae immediately after transplanting.",
+            "Dead growing points before plants become established.",
+            "Mixing batches and losing source identification.",
+            "Absence of treatment records.",
+            "Presence of infested surplus transplants near the field.",
+            "Transporting transplants in contaminated vehicles.",
+            "Continued appearance of infestation after removal of a limited number of plants.",
+            "Reliance on spraying without reinspection."
+          ],
+          "prepared_items": [
+            "[[prepared]]Appearance of mines during the first days after transplanting in scattered sectors.",
+            "[[prepared]]Infestation of several plants from the same source.",
+            "[[prepared]]Detection of advanced larvae immediately after transplanting.",
+            "[[prepared]]Dead growing points before plants become established.",
+            "[[prepared]]Mixing batches and losing source identification.",
+            "[[prepared]]Absence of treatment records.",
+            "[[prepared]]Presence of infested surplus transplants near the field.",
+            "[[prepared]]Transporting transplants in contaminated vehicles.",
+            "[[prepared]]Continued appearance of infestation after removal of a limited number of plants.",
+            "[[prepared]]Reliance on spraying without reinspection."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nursery Checklist"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Item",
+            "Required Condition"
+          ],
+          "rows": [
+            [
+              "Location",
+              "Relatively distant from infestation sources"
+            ],
+            [
+              "Surrounding area",
+              "Free from infested hosts"
+            ],
+            [
+              "Screens",
+              "Intact and properly sealed"
+            ],
+            [
+              "Entrances",
+              "Controlled and not left open"
+            ],
+            [
+              "Trays",
+              "Clean and clearly identified"
+            ],
+            [
+              "Batches",
+              "Separated and numbered"
+            ],
+            [
+              "Traps",
+              "Installed and recorded"
+            ],
+            [
+              "Plant inspection",
+              "Regular"
+            ],
+            [
+              "Growing points",
+              "Free from infestation"
+            ],
+            [
+              "Mines",
+              "No active mines"
+            ],
+            [
+              "Rejected transplants",
+              "Removed in closed containers"
+            ],
+            [
+              "Residues",
+              "Not allowed to accumulate"
+            ],
+            [
+              "Treatments",
+              "Recorded with mode of action"
+            ],
+            [
+              "Hardening area",
+              "Monitored"
+            ],
+            [
+              "Transport",
+              "Clean vehicles"
+            ],
+            [
+              "Pre-shipping inspection",
+              "Completed and recorded"
+            ],
+            [
+              "Inspection on arrival",
+              "Completed before distribution"
+            ],
+            [
+              "Surplus transplants",
+              "Limited and monitored"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Item",
+            "[[prepared]]Required Condition"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Location",
+              "[[prepared]]Relatively distant from infestation sources"
+            ],
+            [
+              "[[prepared]]Surrounding area",
+              "[[prepared]]Free from infested hosts"
+            ],
+            [
+              "[[prepared]]Screens",
+              "[[prepared]]Intact and properly sealed"
+            ],
+            [
+              "[[prepared]]Entrances",
+              "[[prepared]]Controlled and not left open"
+            ],
+            [
+              "[[prepared]]Trays",
+              "[[prepared]]Clean and clearly identified"
+            ],
+            [
+              "[[prepared]]Batches",
+              "[[prepared]]Separated and numbered"
+            ],
+            [
+              "[[prepared]]Traps",
+              "[[prepared]]Installed and recorded"
+            ],
+            [
+              "[[prepared]]Plant inspection",
+              "[[prepared]]Regular"
+            ],
+            [
+              "[[prepared]]Growing points",
+              "[[prepared]]Free from infestation"
+            ],
+            [
+              "[[prepared]]Mines",
+              "[[prepared]]No active mines"
+            ],
+            [
+              "[[prepared]]Rejected transplants",
+              "[[prepared]]Removed in closed containers"
+            ],
+            [
+              "[[prepared]]Residues",
+              "[[prepared]]Not allowed to accumulate"
+            ],
+            [
+              "[[prepared]]Treatments",
+              "[[prepared]]Recorded with mode of action"
+            ],
+            [
+              "[[prepared]]Hardening area",
+              "[[prepared]]Monitored"
+            ],
+            [
+              "[[prepared]]Transport",
+              "[[prepared]]Clean vehicles"
+            ],
+            [
+              "[[prepared]]Pre-shipping inspection",
+              "[[prepared]]Completed and recorded"
+            ],
+            [
+              "[[prepared]]Inspection on arrival",
+              "[[prepared]]Completed before distribution"
+            ],
+            [
+              "[[prepared]]Surplus transplants",
+              "[[prepared]]Limited and monitored"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sample Transplant-Batch Inspection Record"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Date",
+            "Batch Number",
+            "Number of Trays Examined",
+            "Number of Transplants Examined",
+            "Eggs",
+            "Active Mines",
+            "Larvae",
+            "Infested Growing Points",
+            "Trap Catch",
+            "Action"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Date",
+            "[[prepared]]Batch Number",
+            "[[prepared]]Number of Trays Examined",
+            "[[prepared]]Number of Transplants Examined",
+            "[[prepared]]Eggs",
+            "[[prepared]]Active Mines",
+            "[[prepared]]Larvae",
+            "[[prepared]]Infested Growing Points",
+            "[[prepared]]Trap Catch",
+            "[[prepared]]Action"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The record should also include:",
+          "prepared_text": "[[prepared]]The record should also include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Name of the inspector.",
+            "Location of infestation.",
+            "Photographs when necessary.",
+            "Reinspection result.",
+            "Batch decision."
+          ],
+          "prepared_items": [
+            "[[prepared]]Name of the inspector.",
+            "[[prepared]]Location of infestation.",
+            "[[prepared]]Photographs when necessary.",
+            "[[prepared]]Reinspection result.",
+            "[[prepared]]Batch decision."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Special Considerations for Egyptian Nurseries"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under Egyptian conditions, risk of Tuta movement from nurseries increases because of:",
+          "prepared_text": "[[prepared]]Under Egyptian conditions, risk of Tuta movement from nurseries increases because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Overlapping tomato planting seasons throughout the year.",
+            "Presence of open nurseries near fields.",
+            "Abundance of volunteer tomato plants.",
+            "Reuse of trays and containers.",
+            "Long-distance transport of transplants.",
+            "Presence of old fields in which control has stopped.",
+            "Retention of surplus transplants near farmland.",
+            "High temperatures that accelerate egg hatching and larval development."
+          ],
+          "prepared_items": [
+            "[[prepared]]Overlapping tomato planting seasons throughout the year.",
+            "[[prepared]]Presence of open nurseries near fields.",
+            "[[prepared]]Abundance of volunteer tomato plants.",
+            "[[prepared]]Reuse of trays and containers.",
+            "[[prepared]]Long-distance transport of transplants.",
+            "[[prepared]]Presence of old fields in which control has stopped.",
+            "[[prepared]]Retention of surplus transplants near farmland.",
+            "[[prepared]]High temperatures that accelerate egg hatching and larval development."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Practical priorities are therefore:",
+          "prepared_text": "[[prepared]]Practical priorities are therefore:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Do not establish a nursery beside an old field.",
+            "2. Install traps before transplants appear.",
+            "3. Inspect growing points and leaves at least twice weekly, increasing frequency when risk rises.",
+            "4. Keep each transplant source isolated.",
+            "5. Do not transport batches carrying confirmed infestation.",
+            "6. Dispose of rejected transplants immediately.",
+            "7. Record insecticides used in the nursery.",
+            "8. Reinspect transplants in the field.",
+            "9. Remove surplus transplants after gap filling is completed.",
+            "10. Monitor the first three weeks after transplanting as a period for detecting introduced infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Do not establish a nursery beside an old field.",
+            "[[prepared]]2. Install traps before transplants appear.",
+            "[[prepared]]3. Inspect growing points and leaves at least twice weekly, increasing frequency when risk rises.",
+            "[[prepared]]4. Keep each transplant source isolated.",
+            "[[prepared]]5. Do not transport batches carrying confirmed infestation.",
+            "[[prepared]]6. Dispose of rejected transplants immediately.",
+            "[[prepared]]7. Record insecticides used in the nursery.",
+            "[[prepared]]8. Reinspect transplants in the field.",
+            "[[prepared]]9. Remove surplus transplants after gap filling is completed.",
+            "[[prepared]]10. Monitor the first three weeks after transplanting as a period for detecting introduced infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The number of inspections is not a fixed rule. A high-risk nursery may require more frequent inspection.",
+          "prepared_text": "[[prepared]]The number of inspections is not a fixed rule. A high-risk nursery may require more frequent inspection."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors in Nursery Management"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Assuming the Nursery Is Free from Tuta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The moth can lay eggs on small transplants.",
+          "prepared_text": "[[prepared]]The moth can lay eggs on small transplants."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Relying on Traps Alone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Traps monitor males and do not detect all eggs and larvae.",
+          "prepared_text": "[[prepared]]Traps monitor males and do not detect all eggs and larvae."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Treating Spraying as Proof of Pest-Free Transplants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae may remain inside mines or growing points.",
+          "prepared_text": "[[prepared]]Larvae may remain inside mines or growing points."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Removing an Infested Transplant and Leaving It Beside the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva may continue developing and later produce a moth.",
+          "prepared_text": "[[prepared]]The larva may continue developing and later produce a moth."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Mixing Batches"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This prevents source tracing and makes isolation difficult.",
+          "prepared_text": "[[prepared]]This prevents source tracing and makes isolation difficult."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Neglecting the Hardening Area"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation may occur after the protected-production stage ends.",
+          "prepared_text": "[[prepared]]Infestation may occur after the protected-production stage ends."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Failing to Inspect Transplants on Arrival"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation may enter during transport and waiting.",
+          "prepared_text": "[[prepared]]Infestation may enter during transport and waiting."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Retaining Surplus Transplants for Too Long"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They become a pest reservoir.",
+          "prepared_text": "[[prepared]]They become a pest reservoir."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Transporting Transplants with Produce Crates"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pest stages may move with residues and containers.",
+          "prepared_text": "[[prepared]]Pest stages may move with residues and containers."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Randomly Using Reduced Rates"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Treatment may fail and increase resistance selection pressure.",
+          "prepared_text": "[[prepared]]Treatment may fail and increase resistance selection pressure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Repeating the Same Chemical Group in the Nursery and Field"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selection pressure begins before the field season starts.",
+          "prepared_text": "[[prepared]]Selection pressure begins before the field season starts."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Ignoring Growing-Point Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An infested growing point may be more serious than a limited mine in an old leaf.",
+          "prepared_text": "[[prepared]]An infested growing point may be more serious than a limited mine in an old leaf."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nursery Management Timeline"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Before Transplant Production Begins"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Select the site.",
+            "Remove surrounding hosts.",
+            "Clean the structure and trays.",
+            "Repair screens.",
+            "Install traps.",
+            "Establish the batch-numbering system."
+          ],
+          "prepared_items": [
+            "[[prepared]]Select the site.",
+            "[[prepared]]Remove surrounding hosts.",
+            "[[prepared]]Clean the structure and trays.",
+            "[[prepared]]Repair screens.",
+            "[[prepared]]Install traps.",
+            "[[prepared]]Establish the batch-numbering system."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "After Germination"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Begin visual inspection.",
+            "Monitor traps.",
+            "Remove weeds.",
+            "Prevent entry of outside plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Begin visual inspection.",
+            "[[prepared]]Monitor traps.",
+            "[[prepared]]Remove weeds.",
+            "[[prepared]]Prevent entry of outside plants."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "During Transplant Growth"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inspect leaves and growing points.",
+            "Record results.",
+            "Isolate any focus.",
+            "Apply intervention when required.",
+            "Evaluate intervention results."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inspect leaves and growing points.",
+            "[[prepared]]Record results.",
+            "[[prepared]]Isolate any focus.",
+            "[[prepared]]Apply intervention when required.",
+            "[[prepared]]Evaluate intervention results."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "During Hardening"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increase attention to immigration sources.",
+            "Do not mix batches.",
+            "Reduce waiting time.",
+            "Inspect transplants before loading."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increase attention to immigration sources.",
+            "[[prepared]]Do not mix batches.",
+            "[[prepared]]Reduce waiting time.",
+            "[[prepared]]Inspect transplants before loading."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Before Dispatch"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Conduct final inspection.",
+            "Review records.",
+            "Clean the transport vehicle.",
+            "Issue a batch identification card."
+          ],
+          "prepared_items": [
+            "[[prepared]]Conduct final inspection.",
+            "[[prepared]]Review records.",
+            "[[prepared]]Clean the transport vehicle.",
+            "[[prepared]]Issue a batch identification card."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Upon Arrival at the Field"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reinspect transplants.",
+            "Isolate suspicious material.",
+            "Record the location of each batch.",
+            "Dispose of trays and residues properly."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reinspect transplants.",
+            "[[prepared]]Isolate suspicious material.",
+            "[[prepared]]Record the location of each batch.",
+            "[[prepared]]Dispose of trays and residues properly."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "After Transplanting"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inspect sectors according to transplant source.",
+            "Search for early infestation.",
+            "Dispose of surplus transplants after gap filling ends."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inspect sectors according to transplant source.",
+            "[[prepared]]Search for early infestation.",
+            "[[prepared]]Dispose of surplus transplants after gap filling ends."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Summary of Section Two"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The nursery is a critical point in the prevention of Tuta absoluta because transfer of infested transplants establishes the pest in the field from the beginning of the season.",
+          "prepared_text": "[[prepared]]The nursery is a critical point in the prevention of Tuta absoluta because transfer of infested transplants establishes the pest in the field from the beginning of the season."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nursery management depends on an integrated set of procedures including:",
+          "prepared_text": "[[prepared]]Nursery management depends on an integrated set of procedures including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Selecting a site away from infestation sources.",
+            "Using intact screens and barriers.",
+            "Controlling entry and movement.",
+            "Maintaining nursery sanitation.",
+            "Separating transplant batches.",
+            "Using pheromone traps.",
+            "Direct inspection for eggs, mines, and growing-point infestation.",
+            "Isolating infestation foci.",
+            "Safe disposal of infested transplants.",
+            "Recording all treatments.",
+            "Final inspection before dispatch.",
+            "Cleaning transport vehicles.",
+            "Reinspection upon arrival at the field.",
+            "Monitoring surplus transplants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Selecting a site away from infestation sources.",
+            "[[prepared]]Using intact screens and barriers.",
+            "[[prepared]]Controlling entry and movement.",
+            "[[prepared]]Maintaining nursery sanitation.",
+            "[[prepared]]Separating transplant batches.",
+            "[[prepared]]Using pheromone traps.",
+            "[[prepared]]Direct inspection for eggs, mines, and growing-point infestation.",
+            "[[prepared]]Isolating infestation foci.",
+            "[[prepared]]Safe disposal of infested transplants.",
+            "[[prepared]]Recording all treatments.",
+            "[[prepared]]Final inspection before dispatch.",
+            "[[prepared]]Cleaning transport vehicles.",
+            "[[prepared]]Reinspection upon arrival at the field.",
+            "[[prepared]]Monitoring surplus transplants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Spraying transplants before transport is insufficient to declare them pest-free. The decision must depend on inspection, traceability, and absence of active infestation.",
+          "prepared_text": "[[prepared]]Spraying transplants before transport is insufficient to declare them pest-free. The decision must depend on inspection, traceability, and absence of active infestation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each batch should be treated as an independent unit so that its source, inspection results, treatments, and planting location can be identified.",
+          "prepared_text": "[[prepared]]Each batch should be treated as an independent unit so that its source, inspection results, treatments, and planting location can be identified."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The best protection is achieved when nursery management begins before transplant emergence and continues through the first weeks after transplanting in the field.",
+          "prepared_text": "[[prepared]]The best protection is achieved when nursery management begins before transplant emergence and continues through the first weeks after transplanting in the field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-2-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Kansiime, K. M., Karanja, P., Rware, H., Muthaura, C., Macharia, C., Makale, F., Rwomushana, I., Ongoya, G., Klapwijk, J., Vos, J., & Karanja, D. (2020). Integrated Management of Tomato Leaf Miner (Tuta absoluta) and Other Tomato Pests in Kenya: A Training Manual for Extension Workers. CABI and Koppert Biological Systems.",
+              "url": "https://www.cabi.org/wp-content/uploads/TUTA-Extension-Worker-Manual-FINAL.pdf"
+            },
+            {
+              "number": 2,
+              "text": "European and Mediterranean Plant Protection Organization (EPPO). Summary of the Express Pest Risk Analysis for Tuta absoluta. EPPO, Paris.",
+              "url": "https://pra.eppo.int/getfile/f775e32f-780b-489c-bf33-4684e15ce513"
+            },
+            {
+              "number": 3,
+              "text": "USDA–APHIS Cooperative Agricultural Pest Survey Program. (2022). Phthorimaea absoluta CAPS Datasheet, Version 3.",
+              "url": "https://caps.ceris.purdue.edu/wp-content/uploads/2025/07/Phthorimaea_absoluta_CAPS_datasheet_12302022.pdf"
+            },
+            {
+              "number": 4,
+              "text": "Netherlands Food and Consumer Product Safety Authority. (2013). Pest Risk Analysis for Tuta absoluta.",
+              "url": "https://english.nvwa.nl/site/binaries/site-content/collections/documents/plant-health/pest-risk-analysis/documents/pest-risk-analysis-tuta-absoluta/PRA%2BTuta%2Babsoluta.pdf"
+            },
+            {
+              "number": 5,
+              "text": "CABI. (2020). Phthorimaea absoluta (Tomato Leafminer). CABI Compendium.",
+              "url": "https://doi.org/10.1079/cabicompendium.49260"
+            },
+            {
+              "number": 6,
+              "text": "Food and Agriculture Organization of the United Nations (FAO). Developing an Integrated Pest Management and Biorational Programme for Control and Containment of Tuta absoluta in Tomato.",
+              "url": "https://openknowledge.fao.org/handle/20.500.14283/cb3204en"
+            },
+            {
+              "number": 7,
+              "text": "Desneux, N., Han, P., Mansour, R., Arnó, J., Brévault, T., Campos, M. R., Chailleux, A., Guedes, R. N. C., Karimi, J., Konan, K. A. J., Lavoir, A. V., Luna, M. G., Nnoffo Budia, F., Pilot, S., Roditakis, E., Sylla, S., Verheggen, F. J., Urbaneja, A., & Biondi, A. (2022). Integrated Pest Management of Tuta absoluta: Practical Implementations across Different World Regions. Journal of Pest Science, 95, 17–39.",
+              "url": "https://doi.org/10.1007/s10340-021-01442-8"
+            },
+            {
+              "number": 8,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F.-H., & Desneux, N. (2018). Ecology, Worldwide Spread, and Management of the Invasive South American Tomato Pinworm, Tuta absoluta: Past, Present, and Future. Annual Review of Entomology, 63, 239–258.",
+              "url": "https://doi.org/10.1146/annurev-ento-031616-034933"
+            },
+            {
+              "number": 9,
+              "text": "Cuthbertson, A. G. S., Mathers, J. J., Blackburn, L. F., Korycinska, A., Luo, W., Jacobson, R. J., & Northing, P. (2013). Population Development of Tuta absoluta under Simulated UK Glasshouse Conditions. Insects, 4, 185–197.",
+              "url": "https://doi.org/10.3390/insects4020185"
+            },
+            {
+              "number": 10,
+              "text": "Agriculture and Horticulture Development Board. A Robust IPM Programme for Tuta absoluta.",
+              "url": "https://projectblue.blob.core.windows.net/media/Default/Horticulture/Pests/Tuta%20absoluta/02_14%20A%20robust%20IPM%20programme%20for%20Tuta%20absoluta.pdf"
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 2,
+        "part_title": "Section Two: Nursery and Transplant Management and Prevention of Pest Transfer to the Field",
+        "part_subtitle": ""
+      }
+    }
+  ]
+}
