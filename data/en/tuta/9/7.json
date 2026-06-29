@@ -1,0 +1,3188 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 7,
+  "part_title": "Section Seven: Behavioural and Pheromone-Based Control",
+  "part_short_title": "Behavioural and Pheromone-Based Control",
+  "part_subtitle": "Behavioural and Pheromone-Based Control of Tuta absoluta",
+  "content_path": "tuta/9/7.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Behavioural control relies on exploiting the signals used by the insect to locate a mating partner, host plant, or oviposition site, with the aim of modifying its behaviour in a way that reduces its ability to reproduce and cause damage.",
+          "prepared_text": "[[prepared]]Behavioural control relies on exploiting the signals used by the insect to locate a mating partner, [[term:host-plant]]host plant[[/term]], or oviposition site, with the aim of modifying its behaviour in a way that reduces its ability to reproduce and cause damage."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sex pheromones are the most important behavioural tools developed against Tuta absoluta. Adult females release volatile compounds that attract males and enable them to locate and reach females for mating.",
+          "prepared_text": "[[prepared]]Sex [[term:pheromone-trap]]pheromones[[/term]] are the most important behavioural tools developed against Tuta absoluta. Adult females release volatile compounds that attract males and enable them to locate and reach females for mating."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal components of this pheromone have been synthesized and used for:",
+          "prepared_text": "[[prepared]]The principal components of this pheromone have been synthesized and used for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Early detection of pest presence.",
+            "Monitoring male activity.",
+            "Mass trapping.",
+            "Mating disruption.",
+            "Attract-and-kill.",
+            "Evaluation of integrated management programs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Early detection of pest presence.",
+            "[[prepared]]Monitoring male activity.",
+            "[[prepared]]Mass trapping.",
+            "[[prepared]]Mating disruption.",
+            "[[prepared]]Attract-and-kill.",
+            "[[prepared]]Evaluation of integrated management programs."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A high number of moths captured does not necessarily mean that a trap has achieved actual control because trap density and purpose differ between monitoring and mass trapping. Likewise, a reduction in male trap catch alone does not prove a reduction in mating, egg deposition, or fruit infestation.",
+          "prepared_text": "[[prepared]]A high number of moths captured does not necessarily mean that a trap has achieved actual control because trap density and purpose differ between monitoring and mass trapping. Likewise, a reduction in male trap catch alone does not prove a reduction in mating, egg deposition, or fruit infestation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal applications of behavioural control are concentrated in four areas:",
+          "prepared_text": "[[prepared]]The principal applications of behavioural control are concentrated in four areas:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Mass trapping of males using pheromone traps.",
+            "2. Mating disruption and prevention of males from locating females.",
+            "3. Attract-and-kill techniques.",
+            "4. Plant volatiles and food attractants, which remain at a more experimental stage than sex pheromones."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Mass trapping of males using pheromone traps.",
+            "[[prepared]]2. Mating disruption and prevention of males from locating females.",
+            "[[prepared]]3. Attract-and-kill techniques.",
+            "[[prepared]]4. Plant volatiles and food attractants, which remain at a more experimental stage than sex pheromones."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These methods perform better when initiated early, pest density is low, and they are integrated with agricultural sanitation, biological control, and prevention of immigration by mated females from neighboring fields.",
+          "prepared_text": "[[prepared]]These methods perform better when initiated early, pest density is low, and they are integrated with agricultural sanitation, biological control, and prevention of immigration by mated females from neighboring fields."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Chemical Basis of the Sex Pheromone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The female sex pheromone of Tuta absoluta consists of a blend of long-chain acetate compounds. The principal component is:",
+          "prepared_text": "[[prepared]]The female sex pheromone of Tuta absoluta consists of a blend of long-chain acetate compounds. The principal component is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "(3E,8Z,11Z)-3,8,11-tetradecatrien-1-yl acetate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Abbreviated as:",
+          "prepared_text": "[[prepared]]Abbreviated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "E3Z8Z11-14:Ac"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The secondary component is:",
+          "prepared_text": "[[prepared]]The secondary component is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "(3E,8Z)-3,8-tetradecadien-1-yl acetate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Abbreviated as:",
+          "prepared_text": "[[prepared]]Abbreviated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "E3Z8-14:Ac"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Chemical studies demonstrated the presence of both compounds in female secretions, and several commercial formulations have used a blend close to:",
+          "prepared_text": "[[prepared]]Chemical studies demonstrated the presence of both compounds in female secretions, and several commercial formulations have used a blend close to:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "90 parts of the principal component to 10 parts of the secondary component."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, lure efficacy does not depend on blend ratio alone. It is also affected by:",
+          "prepared_text": "[[prepared]]However, lure efficacy does not depend on blend ratio alone. It is also affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Loaded amount.",
+            "Chemical-isomer purity.",
+            "Dispenser type.",
+            "Release rate.",
+            "Temperature.",
+            "Lure age.",
+            "Storage method.",
+            "Trap design.",
+            "Moth density in the field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Loaded amount.",
+            "[[prepared]]Chemical-isomer purity.",
+            "[[prepared]]Dispenser type.",
+            "[[prepared]]Release rate.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Lure age.",
+            "[[prepared]]Storage method.",
+            "[[prepared]]Trap design.",
+            "[[prepared]]Moth density in the field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Two lures carrying the same nominal amount may produce different catches because of differences in dispenser material and pheromone-release rate.",
+          "prepared_text": "[[prepared]]Two lures carrying the same nominal amount may produce different catches because of differences in dispenser material and pheromone-release rate."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Male Response to the Pheromone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The female releases pheromone during the sexual-activity period. The male then responds through a behavioural sequence that includes:",
+          "prepared_text": "[[prepared]]The female releases pheromone during the sexual-activity period. The male then responds through a behavioural sequence that includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Detection of pheromone molecules by the antennae.",
+            "2. Upwind flight.",
+            "3. Tracking the odour gradient.",
+            "4. Approaching the signal source.",
+            "5. Locating the female.",
+            "6. Initiating courtship and mating behaviour."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Detection of pheromone molecules by the antennae.",
+            "[[prepared]]2. Upwind flight.",
+            "[[prepared]]3. Tracking the odour gradient.",
+            "[[prepared]]4. Approaching the signal source.",
+            "[[prepared]]5. Locating the female.",
+            "[[prepared]]6. Initiating courtship and mating behaviour."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The male does not fly in a permanently straight line but relies on repeated loss and reacquisition of the signal during flight.",
+          "prepared_text": "[[prepared]]The male does not fly in a permanently straight line but relies on repeated loss and reacquisition of the signal during flight."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mass trapping exploits this response to attract males into traps, whereas mating disruption interferes with the male’s ability to identify the true pheromone source.",
+          "prepared_text": "[[prepared]]Mass trapping exploits this response to attract males into traps, whereas mating disruption interferes with the male’s ability to identify the true pheromone source."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Timing of Sexual Activity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is mainly nocturnal and crepuscular, although the timing of flight and pheromone response varies according to:",
+          "prepared_text": "[[prepared]]Tuta absoluta is mainly nocturnal and crepuscular, although the timing of flight and pheromone response varies according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Temperature.",
+            "Day length.",
+            "Light intensity.",
+            "Moth age.",
+            "Mating status.",
+            "Greenhouse or field conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Temperature.",
+            "[[prepared]]Day length.",
+            "[[prepared]]Light intensity.",
+            "[[prepared]]Moth age.",
+            "[[prepared]]Mating status.",
+            "[[prepared]]Greenhouse or field conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some studies have shown increased male response to pheromone traps around dawn and during the early morning hours.",
+          "prepared_text": "[[prepared]]Some studies have shown increased male response to pheromone traps around dawn and during the early morning hours."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not mean traps should operate only at these times. Pheromone traps remain active continuously, but understanding activity timing assists in studying pest behaviour and interpreting trap results.",
+          "prepared_text": "[[prepared]]This does not mean traps should operate only at these times. Pheromone traps remain active continuously, but understanding activity timing assists in studying pest behaviour and interpreting trap results."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distinguishing Monitoring from Pheromone-Based Control"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Monitoring Traps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are used at low density to:",
+          "prepared_text": "[[prepared]]These are used at low density to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confirm pest presence.",
+            "Monitor trends in male abundance.",
+            "Determine the beginning of flight.",
+            "Guide plant inspection.",
+            "Evaluate immigration waves."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confirm pest presence.",
+            "[[prepared]]Monitor trends in male abundance.",
+            "[[prepared]]Determine the beginning of flight.",
+            "[[prepared]]Guide plant inspection.",
+            "[[prepared]]Evaluate immigration waves."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their purpose is not to capture an influential proportion of the pest population.",
+          "prepared_text": "[[prepared]]Their purpose is not to capture an influential proportion of the pest population."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Mass Trapping"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This uses a large number of traps to:",
+          "prepared_text": "[[prepared]]This uses a large number of traps to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Remove a high proportion of males.",
+            "Reduce the probability of males locating females.",
+            "Reduce mating frequency.",
+            "Reduce the quantity of fertilized eggs in subsequent generations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Remove a high proportion of males.",
+            "[[prepared]]Reduce the probability of males locating females.",
+            "[[prepared]]Reduce mating frequency.",
+            "[[prepared]]Reduce the quantity of fertilized eggs in subsequent generations."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Mating Disruption"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not depend mainly on capturing males. Instead, pheromone is released throughout the crop area at a concentration and distribution that prevent males from locating females.",
+          "prepared_text": "[[prepared]]This does not depend mainly on capturing males. Instead, pheromone is released throughout the crop area at a concentration and distribution that prevent males from locating females."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A monitoring-trap density should not be used and then described as a mass-trapping program.",
+          "prepared_text": "[[prepared]]A monitoring-trap density should not be used and then described as a mass-trapping program."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mass Trapping"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Mass Trapping"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mass trapping involves deploying a high density of sex-pheromone traps within and around the crop to capture the greatest possible proportion of males before they mate.",
+          "prepared_text": "[[prepared]]Mass trapping involves deploying a high density of sex-pheromone traps within and around the crop to capture the greatest possible proportion of males before they mate."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A mass-trapping system consists of:",
+          "prepared_text": "[[prepared]]A mass-trapping system consists of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An appropriate pheromone lure.",
+            "A high-capacity trap.",
+            "Sufficient deployment density.",
+            "Regular maintenance.",
+            "Early installation.",
+            "Monitoring of plant infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]An appropriate pheromone lure.",
+            "[[prepared]]A high-capacity trap.",
+            "[[prepared]]Sufficient deployment density.",
+            "[[prepared]]Regular maintenance.",
+            "[[prepared]]Early installation.",
+            "[[prepared]]Monitoring of plant infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increasing trap number alone is insufficient. The rate of male removal must exceed the rate at which new males immigrate or emerge from the generation already present in the field.",
+          "prepared_text": "[[prepared]]Increasing trap number alone is insufficient. The rate of male removal must exceed the rate at which new males immigrate or emerge from the generation already present in the field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mode of Action of Mass Trapping"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mass trapping acts through:",
+          "prepared_text": "[[prepared]]Mass trapping acts through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reducing the male-to-female ratio.",
+            "Increasing the time required for females to find males.",
+            "Delaying mating.",
+            "Reducing the probability that some females will mate.",
+            "Reducing the number of mating opportunities within the population."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reducing the male-to-female ratio.",
+            "[[prepared]]Increasing the time required for females to find males.",
+            "[[prepared]]Delaying mating.",
+            "[[prepared]]Reducing the probability that some females will mate.",
+            "[[prepared]]Reducing the number of mating opportunities within the population."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, Tuta absoluta possesses characteristics that limit the efficacy of mass trapping when used alone, including:",
+          "prepared_text": "[[prepared]]However, Tuta absoluta possesses characteristics that limit the efficacy of mass trapping when used alone, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Males can mate more than once.",
+            "Females are not attracted to the female sex pheromone.",
+            "Males and females continue to immigrate from outside the field.",
+            "Mating may occur before males reach traps.",
+            "Initial pest density may be high.",
+            "Immature stages are unaffected by traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Males can mate more than once.",
+            "[[prepared]]Females are not attracted to the female sex pheromone.",
+            "[[prepared]]Males and females continue to immigrate from outside the field.",
+            "[[prepared]]Mating may occur before males reach traps.",
+            "[[prepared]]Initial pest density may be high.",
+            "[[prepared]]Immature stages are unaffected by traps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A very high proportion of males must therefore be removed before a clear effect on mating and egg deposition becomes evident.",
+          "prepared_text": "[[prepared]]A very high proportion of males must therefore be removed before a clear effect on mating and egg deposition becomes evident."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mass-Trapping Density"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Operational guides and reviews have reported approximate historical or advisory densities such as:",
+          "prepared_text": "[[prepared]]Operational guides and reviews have reported approximate historical or advisory densities such as:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Production System",
+            "Historical or Advisory Trap Density"
+          ],
+          "rows": [
+            [
+              "Commercial greenhouses",
+              "20–25 traps/hectare"
+            ],
+            [
+              "Propagation nurseries",
+              "Approximately 30 traps/hectare"
+            ],
+            [
+              "Open fields",
+              "40–50 traps/hectare"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Production System",
+            "[[prepared]]Historical or Advisory Trap Density"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Commercial greenhouses",
+              "[[prepared]]20–25 traps/hectare"
+            ],
+            [
+              "[[prepared]]Propagation nurseries",
+              "[[prepared]]Approximately 30 traps/hectare"
+            ],
+            [
+              "[[prepared]]Open fields",
+              "[[prepared]]40–50 traps/hectare"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A density of 40–50 traps per hectare is approximately equivalent to:",
+          "prepared_text": "[[prepared]]A density of 40–50 traps per hectare is approximately equivalent to:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "17–21 traps per feddan."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These values are not fixed global recommendations because appropriate density varies according to:",
+          "prepared_text": "[[prepared]]These values are not fixed global recommendations because appropriate density varies according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap type.",
+            "Trap capacity.",
+            "Lure strength.",
+            "Field shape.",
+            "Pest density.",
+            "Degree of enclosure.",
+            "Immigration sources.",
+            "Cost of traps and maintenance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap type.",
+            "[[prepared]]Trap capacity.",
+            "[[prepared]]Lure strength.",
+            "[[prepared]]Field shape.",
+            "[[prepared]]Pest density.",
+            "[[prepared]]Degree of enclosure.",
+            "[[prepared]]Immigration sources.",
+            "[[prepared]]Cost of traps and maintenance."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The stated density may be uneconomical or insufficient under some conditions and should therefore be experimentally evaluated in relation to plant and fruit infestation.",
+          "prepared_text": "[[prepared]]The stated density may be uneconomical or insufficient under some conditions and should therefore be experimentally evaluated in relation to plant and fruit infestation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Trap Types Suitable for Mass Trapping"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Water Traps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are widely used because they:",
+          "prepared_text": "[[prepared]]These are widely used because they:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Hold large numbers of males.",
+            "Do not saturate as rapidly as sticky surfaces.",
+            "Are less affected by insect accumulation on adhesive material.",
+            "Can be reused."
+          ],
+          "prepared_items": [
+            "[[prepared]]Hold large numbers of males.",
+            "[[prepared]]Do not saturate as rapidly as sticky surfaces.",
+            "[[prepared]]Are less affected by insect accumulation on adhesive material.",
+            "[[prepared]]Can be reused."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They require:",
+          "prepared_text": "[[prepared]]They require:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Maintenance of water level.",
+            "Addition of a surface-tension-reducing material.",
+            "Cleaning of containers.",
+            "Prevention of overturning.",
+            "Timely lure replacement."
+          ],
+          "prepared_items": [
+            "[[prepared]]Maintenance of water level.",
+            "[[prepared]]Addition of a surface-tension-reducing material.",
+            "[[prepared]]Cleaning of containers.",
+            "[[prepared]]Prevention of overturning.",
+            "[[prepared]]Timely lure replacement."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Sticky Traps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These allow easy counting but may become less suitable for mass trapping at high densities because of:",
+          "prepared_text": "[[prepared]]These allow easy counting but may become less suitable for mass trapping at high densities because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Surface saturation.",
+            "Dust accumulation.",
+            "Loss of adhesiveness.",
+            "Need for frequent card replacement."
+          ],
+          "prepared_items": [
+            "[[prepared]]Surface saturation.",
+            "[[prepared]]Dust accumulation.",
+            "[[prepared]]Loss of adhesiveness.",
+            "[[prepared]]Need for frequent card replacement."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Funnel or Container Traps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These may be used when their design prevents moth escape and provides adequate capacity, but their performance should be tested against water or sticky traps under local conditions.",
+          "prepared_text": "[[prepared]]These may be used when their design prevents moth escape and provides adequate capacity, but their performance should be tested against water or sticky traps under local conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Commercial trap appearance alone is insufficient. Performance should be compared through numbers of males captured and maintenance cost.",
+          "prepared_text": "[[prepared]]Commercial trap appearance alone is insufficient. Performance should be compared through numbers of males captured and maintenance cost."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Timing of Mass-Trapping Initiation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mass trapping should begin:",
+          "prepared_text": "[[prepared]]Mass trapping should begin:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Before transplanting or at transplanting.",
+            "Before male numbers increase.",
+            "Before a large generation develops within the crop.",
+            "At the first sign of activity in the area."
+          ],
+          "prepared_items": [
+            "[[prepared]]Before transplanting or at transplanting.",
+            "[[prepared]]Before male numbers increase.",
+            "[[prepared]]Before a large generation develops within the crop.",
+            "[[prepared]]At the first sign of activity in the area."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Starting the program after infestation reaches high density provides limited efficacy because:",
+          "prepared_text": "[[prepared]]Starting the program after infestation reaches high density provides limited efficacy because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Many females may already have mated.",
+            "Eggs may already have been laid.",
+            "Larvae may already be inside plants.",
+            "Moths may continue emerging from pupae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Many females may already have mated.",
+            "[[prepared]]Eggs may already have been laid.",
+            "[[prepared]]Larvae may already be inside plants.",
+            "[[prepared]]Moths may continue emerging from [[term:pupation]]pupae[[/term]]."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mass trapping should not be delayed until fruit infestation becomes visible.",
+          "prepared_text": "[[prepared]]Mass trapping should not be delayed until fruit infestation becomes visible."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distribution of Mass-Trapping Traps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Traps should be distributed evenly while considering:",
+          "prepared_text": "[[prepared]]Traps should be distributed evenly while considering:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Edges facing immigration sources.",
+            "Wind direction.",
+            "Old fields.",
+            "Entrances and worker routes.",
+            "Transplant-storage areas.",
+            "Field shape and area."
+          ],
+          "prepared_items": [
+            "[[prepared]]Edges facing immigration sources.",
+            "[[prepared]]Wind direction.",
+            "[[prepared]]Old fields.",
+            "[[prepared]]Entrances and worker routes.",
+            "[[prepared]]Transplant-storage areas.",
+            "[[prepared]]Field shape and area."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Edges may require relatively higher density because they are more exposed to incoming moths.",
+          "prepared_text": "[[prepared]]Edges may require relatively higher density because they are more exposed to incoming moths."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Traps should not be clustered in one part of the field while leaving the remaining area uncovered, because this creates weak zones within the program.",
+          "prepared_text": "[[prepared]]Traps should not be clustered in one part of the field while leaving the remaining area uncovered, because this creates weak zones within the program."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Maintenance of Mass-Trapping Traps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mass trapping requires more intensive maintenance than monitoring and includes:",
+          "prepared_text": "[[prepared]]Mass trapping requires more intensive maintenance than monitoring and includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Checking traps once or more each week.",
+            "Replacing lost water.",
+            "Cleaning containers.",
+            "Removing insects and debris.",
+            "Renewing the surface-tension-reducing material.",
+            "Replacing saturated sticky cards.",
+            "Replacing lures according to product longevity.",
+            "Securing traps after wind or field operations.",
+            "Recording lost or damaged traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Checking traps once or more each week.",
+            "[[prepared]]Replacing lost water.",
+            "[[prepared]]Cleaning containers.",
+            "[[prepared]]Removing insects and debris.",
+            "[[prepared]]Renewing the surface-tension-reducing material.",
+            "[[prepared]]Replacing saturated sticky cards.",
+            "[[prepared]]Replacing lures according to product longevity.",
+            "[[prepared]]Securing traps after wind or field operations.",
+            "[[prepared]]Recording lost or damaged traps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Loss of some traps or drying of water traps reduces actual network density even when the planned number remains unchanged on paper.",
+          "prepared_text": "[[prepared]]Loss of some traps or drying of water traps reduces actual network density even when the planned number remains unchanged on paper."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Evaluation of Mass-Trapping Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy should not be measured only by the total number of males captured.",
+          "prepared_text": "[[prepared]]Efficacy should not be measured only by the total number of males captured."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Capturing thousands of males may appear substantial but may represent only a small proportion of the actual population.",
+          "prepared_text": "[[prepared]]Capturing thousands of males may appear substantial but may represent only a small proportion of the actual population."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Evaluation indicators include:",
+          "prepared_text": "[[prepared]]Evaluation indicators include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trend in male catch.",
+            "Percentage of eggs on plants.",
+            "Percentage of fertilized or hatched eggs.",
+            "Number of new mines.",
+            "Number of live larvae.",
+            "Percentage of fruit infestation.",
+            "Difference between edges and field interior.",
+            "Comparison with a similar field without mass trapping, when possible."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trend in male catch.",
+            "[[prepared]]Percentage of eggs on plants.",
+            "[[prepared]]Percentage of fertilized or hatched eggs.",
+            "[[prepared]]Number of new [[term:mines]]mines[[/term]].",
+            "[[prepared]]Number of live larvae.",
+            "[[prepared]]Percentage of fruit infestation.",
+            "[[prepared]]Difference between edges and field interior.",
+            "[[prepared]]Comparison with a similar field without mass trapping, when possible."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduction in leaf and fruit infestation is more important than the number of traps or total males captured.",
+          "prepared_text": "[[prepared]]Reduction in leaf and fruit infestation is more important than the number of traps or total males captured."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Limitations of Mass Trapping"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some studies showed that sex-pheromone mass trapping did not sufficiently reduce leaf or fruit infestation when used alone, even at relatively high trap densities.",
+          "prepared_text": "[[prepared]]Some studies showed that sex-pheromone mass trapping did not sufficiently reduce leaf or fruit infestation when used alone, even at relatively high trap densities."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reasons include:",
+          "prepared_text": "[[prepared]]Reasons include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Attraction of males only.",
+            "Multiple mating by males.",
+            "Immigration of mated females.",
+            "High initial density.",
+            "Presence of eggs and larvae before program initiation.",
+            "Inability of traps to capture all males."
+          ],
+          "prepared_items": [
+            "[[prepared]]Attraction of males only.",
+            "[[prepared]]Multiple mating by males.",
+            "[[prepared]]Immigration of mated females.",
+            "[[prepared]]High initial density.",
+            "[[prepared]]Presence of eggs and larvae before program initiation.",
+            "[[prepared]]Inability of traps to capture all males."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mass trapping should therefore be used as a supporting component within IPM and not presented as a stand-alone substitute for biological control or other interventions under high infestation.",
+          "prepared_text": "[[prepared]]Mass trapping should therefore be used as a supporting component within [[term:ipm]]IPM[[/term]] and not presented as a stand-alone substitute for biological control or other interventions under high infestation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "When Is Mass Trapping More Appropriate?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The probability of success increases when:",
+          "prepared_text": "[[prepared]]The probability of success increases when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "It begins before pest density rises.",
+            "The area is relatively isolated.",
+            "Immigration sources are limited.",
+            "Old fields are managed.",
+            "High-capacity traps are used.",
+            "Traps are maintained regularly.",
+            "The method is integrated with residue removal and natural enemies.",
+            "Initial plant infestation is low.",
+            "Trap coverage includes edges and entry sources."
+          ],
+          "prepared_items": [
+            "[[prepared]]It begins before pest density rises.",
+            "[[prepared]]The area is relatively isolated.",
+            "[[prepared]]Immigration sources are limited.",
+            "[[prepared]]Old fields are managed.",
+            "[[prepared]]High-capacity traps are used.",
+            "[[prepared]]Traps are maintained regularly.",
+            "[[prepared]]The method is integrated with residue removal and [[term:biological-control]]natural enemies[[/term]].",
+            "[[prepared]]Initial plant infestation is low.",
+            "[[prepared]]Trap coverage includes edges and entry sources."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy declines in small fields surrounded by heavily infested crops because of continuous immigration.",
+          "prepared_text": "[[prepared]]Efficacy declines in small fields surrounded by heavily infested crops because of continuous immigration."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mating Disruption"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Mating Disruption"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating disruption involves releasing synthetic pheromone throughout the crop area at a rate and distribution that interfere with communication between males and females, thereby reducing the probability that males locate and mate with females.",
+          "prepared_text": "[[prepared]]Mating disruption involves releasing synthetic pheromone throughout the crop area at a rate and distribution that interfere with communication between males and females, thereby reducing the probability that males locate and mate with females."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It does not directly kill adult insects.",
+          "prepared_text": "[[prepared]]It does not directly kill adult insects."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Successful mating disruption is expected to cause:",
+          "prepared_text": "[[prepared]]Successful mating disruption is expected to cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced mating.",
+            "Delayed mating.",
+            "Reduced fertilized eggs.",
+            "Fewer larvae in the next generation.",
+            "Gradual reduction in damage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced mating.",
+            "[[prepared]]Delayed mating.",
+            "[[prepared]]Reduced fertilized eggs.",
+            "[[prepared]]Fewer larvae in the next generation.",
+            "[[prepared]]Gradual reduction in damage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its full effect does not appear immediately after dispensers are installed because eggs, larvae, and pupae already present are not directly affected by pheromone.",
+          "prepared_text": "[[prepared]]Its full effect does not appear immediately after dispensers are installed because eggs, larvae, and pupae already present are not directly affected by pheromone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mechanisms of Mating Disruption"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating disruption may occur through several overlapping mechanisms.",
+          "prepared_text": "[[prepared]]Mating disruption may occur through several overlapping mechanisms."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Competitive Attraction"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Competitive Attraction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dispensers act as numerous false pheromone sources.",
+          "prepared_text": "[[prepared]]Dispensers act as numerous false pheromone sources."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Males move toward dispensers rather than females and expend time and energy tracking false sources.",
+          "prepared_text": "[[prepared]]Males move toward dispensers rather than females and expend time and energy tracking false sources."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy increases when:",
+          "prepared_text": "[[prepared]]Efficacy increases when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dispenser density is sufficient.",
+            "Male density is low.",
+            "Dispensers are evenly distributed.",
+            "Release rate remains appropriate."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dispenser density is sufficient.",
+            "[[prepared]]Male density is low.",
+            "[[prepared]]Dispensers are evenly distributed.",
+            "[[prepared]]Release rate remains appropriate."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Signal Camouflage"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Camouflage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pheromone concentration in the air increases to a level at which the odour plume from a female becomes difficult to distinguish.",
+          "prepared_text": "[[prepared]]Pheromone concentration in the air increases to a level at which the odour plume from a female becomes difficult to distinguish."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Sensory Adaptation or Fatigue"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Continuous exposure to high concentrations may temporarily reduce the responsiveness of olfactory receptors or male orientation behaviour.",
+          "prepared_text": "[[prepared]]Continuous exposure to high concentrations may temporarily reduce the responsiveness of olfactory receptors or male orientation behaviour."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not all dispensers act through the same mechanism. Performance depends on:",
+          "prepared_text": "[[prepared]]Not all dispensers act through the same mechanism. Performance depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Release rate.",
+            "Number of sources.",
+            "Spatial distribution.",
+            "Air speed.",
+            "Structure volume.",
+            "Pest density."
+          ],
+          "prepared_items": [
+            "[[prepared]]Release rate.",
+            "[[prepared]]Number of sources.",
+            "[[prepared]]Spatial distribution.",
+            "[[prepared]]Air speed.",
+            "[[prepared]]Structure volume.",
+            "[[prepared]]Pest density."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Types of Mating-Disruption Dispensers"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Passive Dispensers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Polymer tubes.",
+            "Strips.",
+            "Ropes or threads.",
+            "Rubber or plastic carriers.",
+            "Slow-release gel points."
+          ],
+          "prepared_items": [
+            "[[prepared]]Polymer tubes.",
+            "[[prepared]]Strips.",
+            "[[prepared]]Ropes or threads.",
+            "[[prepared]]Rubber or plastic carriers.",
+            "[[prepared]]Slow-release gel points."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They release pheromone continuously through diffusion and evaporation.",
+          "prepared_text": "[[prepared]]They release pheromone continuously through diffusion and evaporation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Active Dispensers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include devices that release pheromone:",
+          "prepared_text": "[[prepared]]These include devices that release pheromone:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "In pulses.",
+            "During periods of activity.",
+            "At programmed rates.",
+            "Through aerosol or spray devices."
+          ],
+          "prepared_items": [
+            "[[prepared]]In pulses.",
+            "[[prepared]]During periods of activity.",
+            "[[prepared]]At programmed rates.",
+            "[[prepared]]Through aerosol or spray devices."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They use fewer release points but require:",
+          "prepared_text": "[[prepared]]They use fewer release points but require:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A power source or reliable device.",
+            "Programming.",
+            "Maintenance.",
+            "Protection from environmental conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]A power source or reliable device.",
+            "[[prepared]]Programming.",
+            "[[prepared]]Maintenance.",
+            "[[prepared]]Protection from environmental conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The number of passive dispensers cannot be compared directly with the number of aerosol devices because release rate per point and area of influence differ.",
+          "prepared_text": "[[prepared]]The number of passive dispensers cannot be compared directly with the number of aerosol devices because release rate per point and area of influence differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Timing of Mating-Disruption Installation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dispensers should be installed:",
+          "prepared_text": "[[prepared]]Dispensers should be installed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "At transplanting or shortly before.",
+            "At first male detection.",
+            "Before infestation increases.",
+            "Before large numbers of mated females are present."
+          ],
+          "prepared_items": [
+            "[[prepared]]At transplanting or shortly before.",
+            "[[prepared]]At first male detection.",
+            "[[prepared]]Before infestation increases.",
+            "[[prepared]]Before large numbers of mated females are present."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Delayed installation is a major cause of failure because disruption cannot reverse mating that has already occurred or kill larvae already inside the plant.",
+          "prepared_text": "[[prepared]]Delayed installation is a major cause of failure because disruption cannot reverse mating that has already occurred or kill larvae already inside the plant."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When the program begins in a field with existing infestation, a corrective intervention targeting eggs and larvae may be required at the same time as dispenser installation.",
+          "prepared_text": "[[prepared]]When the program begins in a field with existing infestation, a corrective intervention targeting eggs and larvae may be required at the same time as dispenser installation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Pest Density on Mating-Disruption Success"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating-disruption efficacy is affected by pest density.",
+          "prepared_text": "[[prepared]]Mating-disruption efficacy is affected by pest density."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At low density:",
+          "prepared_text": "[[prepared]]At low density:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The distance between males and females is relatively greater.",
+            "Random encounters are less likely.",
+            "False sources become more effective."
+          ],
+          "prepared_items": [
+            "[[prepared]]The distance between males and females is relatively greater.",
+            "[[prepared]]Random encounters are less likely.",
+            "[[prepared]]False sources become more effective."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At high density:",
+          "prepared_text": "[[prepared]]At high density:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Males and females are closer together.",
+            "Mating may occur without long-distance flight.",
+            "Males are more likely to reach females despite disruption.",
+            "A higher release rate or dispenser density may be required."
+          ],
+          "prepared_items": [
+            "[[prepared]]Males and females are closer together.",
+            "[[prepared]]Mating may occur without long-distance flight.",
+            "[[prepared]]Males are more likely to reach females despite disruption.",
+            "[[prepared]]A higher release rate or dispenser density may be required."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reducing the initial population is therefore a fundamental condition for successful mating disruption.",
+          "prepared_text": "[[prepared]]Reducing the initial population is therefore a fundamental condition for successful mating disruption."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spatial Containment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Early studies showed that mating disruption was more consistent in highly enclosed greenhouses than in poorly isolated structures.",
+          "prepared_text": "[[prepared]]Early studies showed that mating disruption was more consistent in highly enclosed greenhouses than in poorly isolated structures."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Protected structures reduce:",
+          "prepared_text": "[[prepared]]Protected structures reduce:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Immigration of mated females.",
+            "Immigration of new males.",
+            "Rapid pheromone loss caused by wind.",
+            "Irregularity of the pheromone cloud."
+          ],
+          "prepared_items": [
+            "[[prepared]]Immigration of mated females.",
+            "[[prepared]]Immigration of new males.",
+            "[[prepared]]Rapid pheromone loss caused by wind.",
+            "[[prepared]]Irregularity of the pheromone cloud."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In open fields, efficacy is more strongly affected by:",
+          "prepared_text": "[[prepared]]In open fields, efficacy is more strongly affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Wind.",
+            "Small treated areas.",
+            "Edge effects.",
+            "Immigration of mated females.",
+            "Variation in topography.",
+            "Presence of neighboring untreated fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Wind.",
+            "[[prepared]]Small treated areas.",
+            "[[prepared]]Edge effects.",
+            "[[prepared]]Immigration of mated females.",
+            "[[prepared]]Variation in topography.",
+            "[[prepared]]Presence of neighboring untreated fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not mean mating disruption cannot be used in open fields. Some trials have recorded success, but results are more site- and system-dependent and should not be generalized without local testing.",
+          "prepared_text": "[[prepared]]This does not mean mating disruption cannot be used in open fields. Some trials have recorded success, but results are more site- and system-dependent and should not be generalized without local testing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Experimental Rates and Densities"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies have used different systems that cannot be converted into one universal recommendation.",
+          "prepared_text": "[[prepared]]Studies have used different systems that cannot be converted into one universal recommendation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Examples include:",
+          "prepared_text": "[[prepared]]Examples include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "500 dispensers/hectare, each carrying approximately 60 mg, equivalent to an initial pheromone dose of about 30 g/hectare in highly enclosed greenhouses.",
+            "1,000 dispensers/hectare with a total dose of approximately 60 g/hectare in other studies.",
+            "500–1,000 dispensers/hectare in comparative greenhouse programs.",
+            "675–900 tubular dispensers/hectare in a recent trial under high pest density.",
+            "Limited numbers of active aerosol devices instead of hundreds of passive dispensers.",
+            "Gel or point-source systems with different quantities and concentrations."
+          ],
+          "prepared_items": [
+            "[[prepared]]500 dispensers/hectare, each carrying approximately 60 mg, equivalent to an initial pheromone dose of about 30 g/hectare in highly enclosed greenhouses.",
+            "[[prepared]]1,000 dispensers/hectare with a total dose of approximately 60 g/hectare in other studies.",
+            "[[prepared]]500–1,000 dispensers/hectare in comparative greenhouse programs.",
+            "[[prepared]]675–900 tubular dispensers/hectare in a recent trial under high pest density.",
+            "[[prepared]]Limited numbers of active aerosol devices instead of hundreds of passive dispensers.",
+            "[[prepared]]Gel or point-source systems with different quantities and concentrations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increasing dispenser number does not always increase efficacy proportionally because decisive factors include:",
+          "prepared_text": "[[prepared]]Increasing dispenser number does not always increase efficacy proportionally because decisive factors include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pheromone-release rate.",
+            "Persistence throughout the season.",
+            "Distribution.",
+            "Field area.",
+            "Pest density.",
+            "Degree of enclosure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pheromone-release rate.",
+            "[[prepared]]Persistence throughout the season.",
+            "[[prepared]]Distribution.",
+            "[[prepared]]Field area.",
+            "[[prepared]]Pest density.",
+            "[[prepared]]Degree of enclosure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The registered dose of an approved product in the country should be used. Experimental doses or products from other countries should not be transferred directly into commercial use.",
+          "prepared_text": "[[prepared]]The registered dose of an approved product in the country should be used. Experimental doses or products from other countries should not be transferred directly into commercial use."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Distribution of Dispensers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dispensers should be distributed uniformly throughout the treated area while considering:",
+          "prepared_text": "[[prepared]]Dispensers should be distributed uniformly throughout the treated area while considering:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Attachment to plants or supports according to product instructions.",
+            "Raising them as plants grow when necessary.",
+            "Increased edge protection.",
+            "Avoidance of uncovered areas.",
+            "Avoidance of excessive clustering at one point.",
+            "Coverage of entrances and sides facing immigration sources."
+          ],
+          "prepared_items": [
+            "[[prepared]]Attachment to plants or supports according to product instructions.",
+            "[[prepared]]Raising them as plants grow when necessary.",
+            "[[prepared]]Increased edge protection.",
+            "[[prepared]]Avoidance of uncovered areas.",
+            "[[prepared]]Avoidance of excessive clustering at one point.",
+            "[[prepared]]Coverage of entrances and sides facing immigration sources."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Irregular distribution creates low-concentration zones where mating may occur.",
+          "prepared_text": "[[prepared]]Irregular distribution creates low-concentration zones where mating may occur."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Wind and Ventilation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Air movement affects:",
+          "prepared_text": "[[prepared]]Air movement affects:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pheromone dispersal.",
+            "Rate of loss.",
+            "Direction of the odour cloud.",
+            "Formation of zones with high or low concentration."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pheromone dispersal.",
+            "[[prepared]]Rate of loss.",
+            "[[prepared]]Direction of the odour cloud.",
+            "[[prepared]]Formation of zones with high or low concentration."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In open fields, wind may carry pheromone outside the treated area, particularly when the plot is:",
+          "prepared_text": "[[prepared]]In open fields, wind may carry pheromone outside the treated area, particularly when the plot is:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Small.",
+            "Long and narrow.",
+            "Exposed on several sides.",
+            "Adjacent to untreated fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Small.",
+            "[[prepared]]Long and narrow.",
+            "[[prepared]]Exposed on several sides.",
+            "[[prepared]]Adjacent to untreated fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In greenhouses, poor ventilation may cause pheromone accumulation, whereas large openings may accelerate pheromone loss and permit entry of mated females.",
+          "prepared_text": "[[prepared]]In greenhouses, poor ventilation may cause pheromone accumulation, whereas large openings may accelerate pheromone loss and permit entry of mated females."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Treated Area"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating disruption generally becomes more effective as treated area increases and the ratio of edge to interior decreases.",
+          "prepared_text": "[[prepared]]Mating disruption generally becomes more effective as treated area increases and the ratio of edge to interior decreases."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Small plots face problems including:",
+          "prepared_text": "[[prepared]]Small plots face problems including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Strong edge effects.",
+            "Immigration of females.",
+            "Pheromone loss.",
+            "Difficulty in forming a uniform pheromone environment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Strong edge effects.",
+            "[[prepared]]Immigration of females.",
+            "[[prepared]]Pheromone loss.",
+            "[[prepared]]Difficulty in forming a uniform pheromone environment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application across:",
+          "prepared_text": "[[prepared]]Application across:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A contiguous production block.",
+            "A group of adjacent greenhouses.",
+            "A coordinated production area."
+          ],
+          "prepared_items": [
+            "[[prepared]]A contiguous production block.",
+            "[[prepared]]A group of adjacent greenhouses.",
+            "[[prepared]]A coordinated production area."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Is more logical than application in a small field surrounded by untreated infestation sources.",
+          "prepared_text": "[[prepared]]Is more logical than application in a small field surrounded by untreated infestation sources."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Edge Reinforcement"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dispenser density may be increased relatively along exposed edges, particularly those:",
+          "prepared_text": "[[prepared]]Dispenser density may be increased relatively along exposed edges, particularly those:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Facing prevailing winds.",
+            "Adjacent to old tomato fields.",
+            "Near entrances.",
+            "Bordering residue sources."
+          ],
+          "prepared_items": [
+            "[[prepared]]Facing prevailing winds.",
+            "[[prepared]]Adjacent to old tomato fields.",
+            "[[prepared]]Near entrances.",
+            "[[prepared]]Bordering residue sources."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, edge reinforcement does not compensate for poor internal distribution or continued immigration of large numbers of mated females.",
+          "prepared_text": "[[prepared]]However, edge reinforcement does not compensate for poor internal distribution or continued immigration of large numbers of mated females."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Evaluation of Mating-Disruption Success"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A reduction in male catch in pheromone traps is used as an indicator of disrupted communication and is sometimes called:",
+          "prepared_text": "[[prepared]]A reduction in male catch in pheromone traps is used as an indicator of disrupted communication and is sometimes called:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Trap Shutdown"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, trap shutdown or reduced catch alone does not prove successful control. Widespread pheromone may prevent males from reaching monitoring traps while some short-range mating continues within the canopy.",
+          "prepared_text": "[[prepared]]However, trap shutdown or reduced catch alone does not prove successful control. Widespread pheromone may prevent males from reaching monitoring traps while some short-range mating continues within the canopy."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Evaluation should therefore include:",
+          "prepared_text": "[[prepared]]Evaluation should therefore include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs on plants.",
+            "Hatching percentage.",
+            "New mines.",
+            "Live larvae.",
+            "Fruit infestation.",
+            "Distribution of infestation between edges and interior.",
+            "Continued effectiveness of dispensers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs on plants.",
+            "[[prepared]]Hatching percentage.",
+            "[[prepared]]New mines.",
+            "[[prepared]]Live larvae.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Distribution of infestation between edges and interior.",
+            "[[prepared]]Continued effectiveness of dispensers."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduction in plant infestation and the following generation provides the true evidence of program success.",
+          "prepared_text": "[[prepared]]Reduction in plant infestation and the following generation provides the true evidence of program success."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Traps Within Mating-Disruption Areas"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Dedicated pheromone traps are used to assess mating disruption, but their readings differ from normal monitoring.",
+          "prepared_text": "[[prepared]]Dedicated pheromone traps are used to assess mating disruption, but their readings differ from normal monitoring."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Low catch may indicate:",
+          "prepared_text": "[[prepared]]Low catch may indicate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Successful disruption.",
+            "A weak lure.",
+            "Low pest density.",
+            "Trap malfunction."
+          ],
+          "prepared_items": [
+            "[[prepared]]Successful disruption.",
+            "[[prepared]]A weak lure.",
+            "[[prepared]]Low pest density.",
+            "[[prepared]]Trap malfunction."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should therefore be reviewed together:",
+          "prepared_text": "[[prepared]]The following should therefore be reviewed together:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Traps within the treated area.",
+            "Traps outside it.",
+            "Plant inspection.",
+            "Lure age.",
+            "Trap condition."
+          ],
+          "prepared_items": [
+            "[[prepared]]Traps within the treated area.",
+            "[[prepared]]Traps outside it.",
+            "[[prepared]]Plant inspection.",
+            "[[prepared]]Lure age.",
+            "[[prepared]]Trap condition."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Internal traps alone should not be used to estimate the true male population during mating disruption.",
+          "prepared_text": "[[prepared]]Internal traps alone should not be used to estimate the true male population during mating disruption."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Duration of Dispenser Effectiveness"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Effective life varies according to:",
+          "prepared_text": "[[prepared]]Effective life varies according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dispenser material.",
+            "Pheromone amount.",
+            "Release rate.",
+            "Temperature.",
+            "Solar radiation.",
+            "Wind.",
+            "Season length."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dispenser material.",
+            "[[prepared]]Pheromone amount.",
+            "[[prepared]]Release rate.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Solar radiation.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Season length."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some dispensers may persist through a short crop cycle, whereas other systems require replacement or reapplication.",
+          "prepared_text": "[[prepared]]Some dispensers may persist through a short crop cycle, whereas other systems require replacement or reapplication."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be recorded:",
+          "prepared_text": "[[prepared]]The following should be recorded:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Installation date.",
+            "Batch number.",
+            "Declared period of effectiveness.",
+            "Replacement date.",
+            "Thermal conditions during the season."
+          ],
+          "prepared_items": [
+            "[[prepared]]Installation date.",
+            "[[prepared]]Batch number.",
+            "[[prepared]]Declared period of effectiveness.",
+            "[[prepared]]Replacement date.",
+            "[[prepared]]Thermal conditions during the season."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An increase in infestation should not be the first indication that dispenser life has ended.",
+          "prepared_text": "[[prepared]]An increase in infestation should not be the first indication that dispenser life has ended."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mating Disruption in Open Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Trials in open fields have produced variable results.",
+          "prepared_text": "[[prepared]]Trials in open fields have produced variable results."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Early trials recorded:",
+          "prepared_text": "[[prepared]]Early trials recorded:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A major reduction in male access to traps.",
+            "Without a comparable reduction in leaf or fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]A major reduction in male access to traps.",
+            "[[prepared]]Without a comparable reduction in leaf or fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This was often associated with:",
+          "prepared_text": "[[prepared]]This was often associated with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Small experimental areas.",
+            "High pest density.",
+            "Immigration of mated females.",
+            "Pheromone loss caused by wind.",
+            "Unsuitable dose or formulation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Small experimental areas.",
+            "[[prepared]]High pest density.",
+            "[[prepared]]Immigration of mated females.",
+            "[[prepared]]Pheromone loss caused by wind.",
+            "[[prepared]]Unsuitable dose or formulation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Later trials in particular areas and under specific systems recorded reduced infestation when appropriate mating-disruption systems were used.",
+          "prepared_text": "[[prepared]]Later trials in particular areas and under specific systems recorded reduced infestation when appropriate mating-disruption systems were used."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating disruption in open fields should therefore be classified as a promising, site- and system-dependent technique rather than a fixed general recommendation for every field.",
+          "prepared_text": "[[prepared]]Mating disruption in open fields should therefore be classified as a promising, site- and system-dependent technique rather than a fixed general recommendation for every field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mating Disruption in Greenhouses"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The probability of success is higher in greenhouses when:",
+          "prepared_text": "[[prepared]]The probability of success is higher in greenhouses when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Openings are fitted with screens.",
+            "Double doors are used.",
+            "Female immigration is prevented.",
+            "Treatment begins early.",
+            "Pest density is low.",
+            "Residues are removed.",
+            "Plant infestation is monitored."
+          ],
+          "prepared_items": [
+            "[[prepared]]Openings are fitted with screens.",
+            "[[prepared]]Double doors are used.",
+            "[[prepared]]Female immigration is prevented.",
+            "[[prepared]]Treatment begins early.",
+            "[[prepared]]Pest density is low.",
+            "[[prepared]]Residues are removed.",
+            "[[prepared]]Plant infestation is monitored."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies have recorded substantial reductions in:",
+          "prepared_text": "[[prepared]]Studies have recorded substantial reductions in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Male catch.",
+            "Leaf mines.",
+            "Larval numbers.",
+            "Fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Male catch.",
+            "[[prepared]]Leaf mines.",
+            "[[prepared]]Larval numbers.",
+            "[[prepared]]Fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, mating disruption cannot compensate for infested transplants or residues from the previous crop remaining inside the greenhouse.",
+          "prepared_text": "[[prepared]]However, mating disruption cannot compensate for infested transplants or residues from the previous crop remaining inside the greenhouse."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Combining Mating Disruption with Biological Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pheromones do not have direct insecticidal toxicity comparable to broad-spectrum insecticides and can therefore be integrated with:",
+          "prepared_text": "[[prepared]]Pheromones do not have direct insecticidal toxicity comparable to broad-spectrum insecticides and can therefore be integrated with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg parasitoids.",
+            "Predators.",
+            "Bacillus thuringiensis.",
+            "Entomopathogenic fungi.",
+            "Entomopathogenic nematodes."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Bacillus thuringiensis.",
+            "[[prepared]]Entomopathogenic fungi.",
+            "[[prepared]]Entomopathogenic nematodes."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating disruption targets adult communication and mating, whereas natural enemies target eggs and larvae.",
+          "prepared_text": "[[prepared]]Mating disruption targets adult communication and mating, whereas natural enemies target eggs and larvae."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The combined approach therefore covers several stages of the pest life cycle.",
+          "prepared_text": "[[prepared]]The combined approach therefore covers several stages of the pest life cycle."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nevertheless, pheromones should not be assumed to be behaviourally neutral to all natural enemies. Experimental studies have reported responses by some Trichogramma populations to host pheromone or behavioural changes after exposure. Compatibility should therefore be evaluated within the local program.",
+          "prepared_text": "[[prepared]]Nevertheless, pheromones should not be assumed to be behaviourally neutral to all natural enemies. Experimental studies have reported responses by some Trichogramma populations to host pheromone or behavioural changes after exposure. Compatibility should therefore be evaluated within the local program."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Combining Mating Disruption with Insecticides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating disruption may require complementary intervention when:",
+          "prepared_text": "[[prepared]]Mating disruption may require complementary intervention when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The program begins after infestation is already present.",
+            "Larval density is high.",
+            "Mated females immigrate.",
+            "Edge foci appear.",
+            "The crop approaches fruiting."
+          ],
+          "prepared_items": [
+            "[[prepared]]The program begins after infestation is already present.",
+            "[[prepared]]Larval density is high.",
+            "[[prepared]]Mated females immigrate.",
+            "[[prepared]]Edge foci appear.",
+            "[[prepared]]The crop approaches fruiting."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Complementary intervention should preferably target:",
+          "prepared_text": "[[prepared]]Complementary intervention should preferably target:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs and newly hatched larvae.",
+            "Defined infestation foci.",
+            "Stages not directly affected by mating disruption."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs and newly hatched larvae.",
+            "[[prepared]]Defined infestation foci.",
+            "[[prepared]]Stages not directly affected by mating disruption."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating disruption should not be used to justify calendar spraying. Its purpose is to reduce reliance on insecticides while maintaining acceptable infestation levels.",
+          "prepared_text": "[[prepared]]Mating disruption should not be used to justify calendar spraying. Its purpose is to reduce reliance on insecticides while maintaining acceptable infestation levels."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Attract-and-Kill"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Attract-and-Kill"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Attract-and-kill combines an attractant with a toxicant at a defined point. Males are attracted to the point and exposed to the active ingredient.",
+          "prepared_text": "[[prepared]]Attract-and-kill combines an attractant with a toxicant at a defined point. Males are attracted to the point and exposed to the [[term:active-ingredient]]active ingredient[[/term]]."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Unlike a trap, the insect may not be physically retained in a container but may contact:",
+          "prepared_text": "[[prepared]]Unlike a trap, the insect may not be physically retained in a container but may contact:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A gel.",
+            "A treated surface.",
+            "A droplet or point containing insecticide."
+          ],
+          "prepared_items": [
+            "[[prepared]]A gel.",
+            "[[prepared]]A treated surface.",
+            "[[prepared]]A droplet or point containing insecticide."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Potential benefits include:",
+          "prepared_text": "[[prepared]]Potential benefits include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Use of a small quantity of insecticide.",
+            "Reduced whole-canopy treatment.",
+            "Targeting pheromone-responsive males.",
+            "Lower exposure of non-target organisms when correctly designed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Use of a small quantity of insecticide.",
+            "[[prepared]]Reduced whole-canopy treatment.",
+            "[[prepared]]Targeting pheromone-responsive males.",
+            "[[prepared]]Lower exposure of non-target organisms when correctly designed."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, efficacy is affected by many of the same limitations as mass trapping:",
+          "prepared_text": "[[prepared]]However, efficacy is affected by many of the same limitations as mass trapping:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Attraction of males only.",
+            "Immigration of mated females.",
+            "High pest density.",
+            "Degradation of the attractant or toxicant.",
+            "Effects of heat and dust.",
+            "Need for uniform distribution."
+          ],
+          "prepared_items": [
+            "[[prepared]]Attraction of males only.",
+            "[[prepared]]Immigration of mated females.",
+            "[[prepared]]High pest density.",
+            "[[prepared]]Degradation of the attractant or toxicant.",
+            "[[prepared]]Effects of heat and dust.",
+            "[[prepared]]Need for uniform distribution."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Conditions Required for Attract-and-Kill"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An attract-and-kill point should provide:",
+          "prepared_text": "[[prepared]]An attract-and-kill point should provide:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An appropriate pheromone-release rate.",
+            "Attraction that competes successfully with natural females.",
+            "A rapidly acting toxicant.",
+            "Stability under field conditions.",
+            "Low risk of insecticide transfer to the crop.",
+            "Sufficient spatial distribution.",
+            "Compatibility with natural enemies.",
+            "Legal registration for the intended use."
+          ],
+          "prepared_items": [
+            "[[prepared]]An appropriate pheromone-release rate.",
+            "[[prepared]]Attraction that competes successfully with natural females.",
+            "[[prepared]]A rapidly acting toxicant.",
+            "[[prepared]]Stability under field conditions.",
+            "[[prepared]]Low risk of insecticide transfer to the crop.",
+            "[[prepared]]Sufficient spatial distribution.",
+            "[[prepared]]Compatibility with natural enemies.",
+            "[[prepared]]Legal registration for the intended use."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pheromone should not be mixed with an insecticide improvisationally because formulation, dose, and carrier determine both efficacy and safety.",
+          "prepared_text": "[[prepared]]Pheromone should not be mixed with an insecticide improvisationally because formulation, dose, and carrier determine both efficacy and safety."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Position of Attract-and-Kill Within the Program"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Attract-and-kill remains less widely used than traps and mating disruption, and its performance depends on the specific product and system.",
+          "prepared_text": "[[prepared]]Attract-and-kill remains less widely used than traps and mating disruption, and its performance depends on the specific product and system."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should therefore be treated as:",
+          "prepared_text": "[[prepared]]It should therefore be treated as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A specialized method.",
+            "Requiring a designed and registered product.",
+            "Subject to local evaluation.",
+            "Not suitable for on-farm manufacture by mixing insecticide with a pheromone lure."
+          ],
+          "prepared_items": [
+            "[[prepared]]A specialized method.",
+            "[[prepared]]Requiring a designed and registered product.",
+            "[[prepared]]Subject to local evaluation.",
+            "[[prepared]]Not suitable for on-farm manufacture by mixing insecticide with a pheromone lure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Results from one gel product should not be generalized to all attract-and-kill systems.",
+          "prepared_text": "[[prepared]]Results from one gel product should not be generalized to all attract-and-kill systems."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Plant Volatiles and Female Attractants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Female attractants are important because capturing females may directly reduce oviposition.",
+          "prepared_text": "[[prepared]]Female attractants are important because capturing females may directly reduce oviposition."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Volatile compounds from tomato and host plants are being studied, including odours released by:",
+          "prepared_text": "[[prepared]]Volatile compounds from tomato and host plants are being studied, including odours released by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Leaves.",
+            "Growing points.",
+            "Flowers.",
+            "Fruits.",
+            "Infested plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Leaves.",
+            "[[prepared]]Growing points.",
+            "[[prepared]]Flowers.",
+            "[[prepared]]Fruits.",
+            "[[prepared]]Infested plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Females may respond to some compounds while searching for oviposition sites.",
+          "prepared_text": "[[prepared]]Females may respond to some compounds while searching for oviposition sites."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, development of a reliable commercial female lure requires:",
+          "prepared_text": "[[prepared]]However, development of a reliable commercial female lure requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Identification of the effective blend.",
+            "Field stability.",
+            "Differentiation between attraction to a plant and attraction into a trap.",
+            "Improvement in capture rate.",
+            "Avoidance of attracting females into the crop without retaining them."
+          ],
+          "prepared_items": [
+            "[[prepared]]Identification of the effective blend.",
+            "[[prepared]]Field stability.",
+            "[[prepared]]Differentiation between attraction to a plant and attraction into a trap.",
+            "[[prepared]]Improvement in capture rate.",
+            "[[prepared]]Avoidance of attracting females into the crop without retaining them."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Female attractants remain less ready for commercial application than male-targeted sex pheromones.",
+          "prepared_text": "[[prepared]]Female attractants remain less ready for commercial application than male-targeted sex pheromones."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Light Traps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Light traps use attraction to a light source of a particular wavelength.",
+          "prepared_text": "[[prepared]]Light traps use attraction to a light source of a particular wavelength."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may capture both male and female Tuta absoluta, but their use faces scientific and environmental limitations including:",
+          "prepared_text": "[[prepared]]They may capture both male and female Tuta absoluta, but their use faces scientific and environmental limitations including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Low specificity.",
+            "Capture of non-target species.",
+            "Potential capture of natural enemies.",
+            "Effects of surrounding illumination and moonlight.",
+            "Need for a power source.",
+            "Variation in response among wavelengths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Low specificity.",
+            "[[prepared]]Capture of non-target species.",
+            "[[prepared]]Potential capture of natural enemies.",
+            "[[prepared]]Effects of surrounding illumination and moonlight.",
+            "[[prepared]]Need for a power source.",
+            "[[prepared]]Variation in response among wavelengths."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Light traps are therefore not standard replacements for pheromone traps and should not be incorporated into a large commercial program without evaluating their effects on non-target organisms.",
+          "prepared_text": "[[prepared]]Light traps are therefore not standard replacements for pheromone traps and should not be incorporated into a large commercial program without evaluating their effects on non-target organisms."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility of Light and Pheromone Traps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Combining light and pheromone may increase moth catches in some experiments, but increased catch does not necessarily prove improved control.",
+          "prepared_text": "[[prepared]]Combining light and pheromone may increase moth catches in some experiments, but increased catch does not necessarily prove improved control."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Evaluation should include:",
+          "prepared_text": "[[prepared]]Evaluation should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Proportion of females captured.",
+            "Proportion of males captured.",
+            "Plant infestation.",
+            "Beneficial insects captured.",
+            "Energy consumption.",
+            "Operating cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Proportion of females captured.",
+            "[[prepared]]Proportion of males captured.",
+            "[[prepared]]Plant infestation.",
+            "[[prepared]]Beneficial insects captured.",
+            "[[prepared]]Energy consumption.",
+            "[[prepared]]Operating cost."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The combination should not be recommended merely because a larger number of insects is captured.",
+          "prepared_text": "[[prepared]]The combination should not be recommended merely because a larger number of insects is captured."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Weather on Pheromone-Based Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Temperature affects:",
+          "prepared_text": "[[prepared]]Temperature affects:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pheromone evaporation rate.",
+            "Lure longevity.",
+            "Flight activity.",
+            "Male response."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pheromone evaporation rate.",
+            "[[prepared]]Lure longevity.",
+            "[[prepared]]Flight activity.",
+            "[[prepared]]Male response."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Wind affects:",
+          "prepared_text": "[[prepared]]Wind affects:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Shape of the pheromone plume.",
+            "Direction of male movement.",
+            "Pheromone loss from the field.",
+            "Interference among traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Shape of the pheromone plume.",
+            "[[prepared]]Direction of male movement.",
+            "[[prepared]]Pheromone loss from the field.",
+            "[[prepared]]Interference among traps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Other effects include:",
+          "prepared_text": "[[prepared]]Other effects include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dust on sticky surfaces.",
+            "Rainfall on some point-source formulations.",
+            "Solar radiation on material degradation.",
+            "Humidity on moth behaviour."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dust on sticky surfaces.",
+            "[[prepared]]Rainfall on some point-source formulations.",
+            "[[prepared]]Solar radiation on material degradation.",
+            "[[prepared]]Humidity on moth behaviour."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Lures and dispensers may therefore require more rapid replacement under hot conditions, according to product data and monitoring results.",
+          "prepared_text": "[[prepared]]Lures and dispensers may therefore require more rapid replacement under hot conditions, according to product data and monitoring results."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Interference Among Traps and Dispensers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Interference may occur when traps or dispensers are placed:",
+          "prepared_text": "[[prepared]]Interference may occur when traps or dispensers are placed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Too close together.",
+            "Near a strong mating-disruption source.",
+            "Within a non-uniform pheromone cloud."
+          ],
+          "prepared_items": [
+            "[[prepared]]Too close together.",
+            "[[prepared]]Near a strong mating-disruption source.",
+            "[[prepared]]Within a non-uniform pheromone cloud."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Interference may cause:",
+          "prepared_text": "[[prepared]]Interference may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced catch in some traps.",
+            "Male attraction to an area between traps.",
+            "Difficulty in interpreting results."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced catch in some traps.",
+            "[[prepared]]Male attraction to an area between traps.",
+            "[[prepared]]Difficulty in interpreting results."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Monitoring traps, mass-trapping devices, and mating-disruption dispensers should be clearly separated, with the location and function of each tool recorded.",
+          "prepared_text": "[[prepared]]Monitoring traps, mass-trapping devices, and mating-disruption dispensers should be clearly separated, with the location and function of each tool recorded."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Quality of Pheromone Lures"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Lures should be evaluated according to:",
+          "prepared_text": "[[prepared]]Lures should be evaluated according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Identity of compounds.",
+            "Ratio among components.",
+            "Isomeric purity.",
+            "Loaded amount.",
+            "Dispenser material.",
+            "Release curve.",
+            "Shelf life.",
+            "Storage conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Identity of compounds.",
+            "[[prepared]]Ratio among components.",
+            "[[prepared]]Isomeric purity.",
+            "[[prepared]]Loaded amount.",
+            "[[prepared]]Dispenser material.",
+            "[[prepared]]Release curve.",
+            "[[prepared]]Shelf life.",
+            "[[prepared]]Storage conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Lures should not be used when they are:",
+          "prepared_text": "[[prepared]]Lures should not be used when they are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "From an unknown source.",
+            "Stored under high temperature.",
+            "Expired.",
+            "Previously opened.",
+            "Not intended for the target species."
+          ],
+          "prepared_items": [
+            "[[prepared]]From an unknown source.",
+            "[[prepared]]Stored under high temperature.",
+            "[[prepared]]Expired.",
+            "[[prepared]]Previously opened.",
+            "[[prepared]]Not intended for the target species."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Weak lure performance may reduce catches and be misinterpreted as a genuine population decline.",
+          "prepared_text": "[[prepared]]Weak lure performance may reduce catches and be misinterpreted as a genuine population decline."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Storage of Lures"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Lures should be stored according to manufacturer instructions, usually:",
+          "prepared_text": "[[prepared]]Lures should be stored according to manufacturer instructions, usually:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "In their original packaging.",
+            "In a cool location.",
+            "Away from direct sunlight.",
+            "Separate from insecticides and strong odours.",
+            "Unopened until use."
+          ],
+          "prepared_items": [
+            "[[prepared]]In their original packaging.",
+            "[[prepared]]In a cool location.",
+            "[[prepared]]Away from direct sunlight.",
+            "[[prepared]]Separate from insecticides and strong odours.",
+            "[[prepared]]Unopened until use."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be recorded:",
+          "prepared_text": "[[prepared]]The following should be recorded:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Batch number.",
+            "Receipt date.",
+            "Expiry date.",
+            "Storage temperature.",
+            "Installation date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Batch number.",
+            "[[prepared]]Receipt date.",
+            "[[prepared]]Expiry date.",
+            "[[prepared]]Storage temperature.",
+            "[[prepared]]Installation date."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Lures should not be left in a vehicle or hot storage area before use.",
+          "prepared_text": "[[prepared]]Lures should not be left in a vehicle or hot storage area before use."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Successful Mass Trapping"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A gradual decline in male numbers.",
+            "Reduction in new eggs.",
+            "Reduction in active mines.",
+            "Reduction in live larvae.",
+            "Reduction in fruit infestation.",
+            "Absence of increasing infestation along field edges.",
+            "Reduced need for chemical intervention.",
+            "Continued trap operation without drying or saturation."
+          ],
+          "prepared_items": [
+            "[[prepared]]A gradual decline in male numbers.",
+            "[[prepared]]Reduction in new eggs.",
+            "[[prepared]]Reduction in active mines.",
+            "[[prepared]]Reduction in live larvae.",
+            "[[prepared]]Reduction in fruit infestation.",
+            "[[prepared]]Absence of increasing infestation along field edges.",
+            "[[prepared]]Reduced need for chemical intervention.",
+            "[[prepared]]Continued trap operation without drying or saturation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Recording a large number of captured males alone is not sufficient as an independent indicator of success.",
+          "prepared_text": "[[prepared]]Recording a large number of captured males alone is not sufficient as an independent indicator of success."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Successful Mating Disruption"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced male access to test traps.",
+            "Reduced fertilized eggs or hatching.",
+            "Reduction in mines in the following generation.",
+            "Reduction in larval numbers.",
+            "Reduction in fruit infestation.",
+            "Uniform reduction between field edges and interior.",
+            "Continued dispenser efficacy throughout the protection period.",
+            "Reduced number of corrective interventions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced male access to test traps.",
+            "[[prepared]]Reduced fertilized eggs or hatching.",
+            "[[prepared]]Reduction in mines in the following generation.",
+            "[[prepared]]Reduction in larval numbers.",
+            "[[prepared]]Reduction in fruit infestation.",
+            "[[prepared]]Uniform reduction between field edges and interior.",
+            "[[prepared]]Continued dispenser efficacy throughout the protection period.",
+            "[[prepared]]Reduced number of corrective interventions."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Mating-Disruption Failure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Continued high male catch within the treated area.",
+            "Continued increase in eggs and larvae.",
+            "Concentration of infestation along field edges.",
+            "Increased fruit infestation.",
+            "Immigration of mated females.",
+            "Delayed dispenser installation.",
+            "Presence of uncovered zones.",
+            "Expiry of dispenser effectiveness.",
+            "High pest density before program initiation.",
+            "Small treated area."
+          ],
+          "prepared_items": [
+            "[[prepared]]Continued high male catch within the treated area.",
+            "[[prepared]]Continued increase in eggs and larvae.",
+            "[[prepared]]Concentration of infestation along field edges.",
+            "[[prepared]]Increased fruit infestation.",
+            "[[prepared]]Immigration of mated females.",
+            "[[prepared]]Delayed dispenser installation.",
+            "[[prepared]]Presence of uncovered zones.",
+            "[[prepared]]Expiry of dispenser effectiveness.",
+            "[[prepared]]High pest density before program initiation.",
+            "[[prepared]]Small treated area."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Failure should not automatically be attributed to poor pheromone quality because it may result from program design, timing, immigration, or pest density.",
+          "prepared_text": "[[prepared]]Failure should not automatically be attributed to poor pheromone quality because it may result from program design, timing, immigration, or pest density."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mass-Trapping Record Template"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Date",
+            "Trap Number",
+            "Location",
+            "Trap Type",
+            "Lure Condition",
+            "Number of Males",
+            "Water or Adhesive Condition",
+            "Maintenance",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Date",
+            "[[prepared]]Trap Number",
+            "[[prepared]]Location",
+            "[[prepared]]Trap Type",
+            "[[prepared]]Lure Condition",
+            "[[prepared]]Number of Males",
+            "[[prepared]]Water or Adhesive Condition",
+            "[[prepared]]Maintenance",
+            "[[prepared]]Notes"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The record should be linked with data on:",
+          "prepared_text": "[[prepared]]The record should be linked with data on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Active mines.",
+            "Larvae.",
+            "Infested fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Active mines.",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Infested fruits."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mating-Disruption Record Template"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Item",
+            "Required Data"
+          ],
+          "rows": [
+            [
+              "Product or dispenser type",
+              ""
+            ],
+            [
+              "Pheromone material",
+              ""
+            ],
+            [
+              "Pheromone quantity per dispenser",
+              ""
+            ],
+            [
+              "Number of dispensers/hectare",
+              ""
+            ],
+            [
+              "Number per feddan",
+              ""
+            ],
+            [
+              "Installation date",
+              ""
+            ],
+            [
+              "Edge locations",
+              ""
+            ],
+            [
+              "Expected replacement date",
+              ""
+            ],
+            [
+              "Test traps",
+              ""
+            ],
+            [
+              "Infestation before application",
+              ""
+            ],
+            [
+              "Infestation after application",
+              ""
+            ],
+            [
+              "Complementary interventions",
+              ""
+            ],
+            [
+              "Percentage of infested fruits",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Item",
+            "[[prepared]]Required Data"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Product or dispenser type",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Pheromone material",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Pheromone quantity per dispenser",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Number of dispensers/hectare",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Number per feddan",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Installation date",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Edge locations",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Expected replacement date",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Test traps",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Infestation before application",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Infestation after application",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Complementary interventions",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Percentage of infested fruits",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Strategy Selection"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Field Situation",
+            "Most Logical Strategy"
+          ],
+          "rows": [
+            [
+              "Detection of pest presence only",
+              "Monitoring traps"
+            ],
+            [
+              "Low pest density and relatively isolated field",
+              "Mass trapping within IPM"
+            ],
+            [
+              "Well-sealed greenhouse and low pest density",
+              "Mating disruption"
+            ],
+            [
+              "Small open field near infested fields",
+              "Do not rely on mating disruption alone"
+            ],
+            [
+              "Existing high infestation",
+              "Reduce population first, then apply behavioural method"
+            ],
+            [
+              "Immigration wave from an old field",
+              "Manage the source and field edges"
+            ],
+            [
+              "Existing biological-control program",
+              "Use pheromones compatible with natural-enemy monitoring"
+            ],
+            [
+              "Near harvest",
+              "Evaluate economic feasibility and speed of effect"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Field Situation",
+            "[[prepared]]Most Logical Strategy"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Detection of pest presence only",
+              "[[prepared]]Monitoring traps"
+            ],
+            [
+              "[[prepared]]Low pest density and relatively isolated field",
+              "[[prepared]]Mass trapping within IPM"
+            ],
+            [
+              "[[prepared]]Well-sealed greenhouse and low pest density",
+              "[[prepared]]Mating disruption"
+            ],
+            [
+              "[[prepared]]Small open field near infested fields",
+              "[[prepared]]Do not rely on mating disruption alone"
+            ],
+            [
+              "[[prepared]]Existing high infestation",
+              "[[prepared]]Reduce population first, then apply behavioural method"
+            ],
+            [
+              "[[prepared]]Immigration wave from an old field",
+              "[[prepared]]Manage the source and field edges"
+            ],
+            [
+              "[[prepared]]Existing biological-control program",
+              "[[prepared]]Use pheromones compatible with natural-enemy monitoring"
+            ],
+            [
+              "[[prepared]]Near harvest",
+              "[[prepared]]Evaluate economic feasibility and speed of effect"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Using One Monitoring Trap and Describing It as Mass Trapping"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mass trapping requires a dense network and high-capacity traps.",
+          "prepared_text": "[[prepared]]Mass trapping requires a dense network and high-capacity traps."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Treating the Number of Captured Moths as Direct Evidence of Reduced Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Eggs, larvae, and fruit infestation must be measured.",
+          "prepared_text": "[[prepared]]Eggs, larvae, and fruit infestation must be measured."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Starting Mass Trapping After Infestation Has Increased"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A large proportion of females may already have mated and laid eggs.",
+          "prepared_text": "[[prepared]]A large proportion of females may already have mated and laid eggs."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Using Mass Trapping Alone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Immature stages and immigration sources remain untargeted.",
+          "prepared_text": "[[prepared]]Immature stages and immigration sources remain untargeted."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Using a Fixed Trap Number Under All Conditions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Requirements vary with area, isolation, and trap type.",
+          "prepared_text": "[[prepared]]Requirements vary with area, isolation, and trap type."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Neglecting Dry Water Traps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A dry trap does not retain males.",
+          "prepared_text": "[[prepared]]A dry trap does not retain males."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Installing Mating Disruption After the Outbreak Begins"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It does not affect eggs and larvae already present.",
+          "prepared_text": "[[prepared]]It does not affect eggs and larvae already present."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Applying Mating Disruption in a Small Area Surrounded by Infested Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Immigration of mated females and edge effects increase.",
+          "prepared_text": "[[prepared]]Immigration of mated females and edge effects increase."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Treating Trap Shutdown as Sufficient Evidence of Success"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating may continue despite low trap catch.",
+          "prepared_text": "[[prepared]]Mating may continue despite low trap catch."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Copying a Dose from a Foreign Study"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Products, release rates, and registration conditions differ.",
+          "prepared_text": "[[prepared]]Products, release rates, and registration conditions differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Irregular Dispenser Distribution"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This creates zones with low pheromone concentration.",
+          "prepared_text": "[[prepared]]This creates zones with low pheromone concentration."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Neglecting Field Edges"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Edges are the areas most exposed to immigration.",
+          "prepared_text": "[[prepared]]Edges are the areas most exposed to immigration."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Thirteen: Mixing Pheromone with Insecticide to Produce a Homemade Attract-and-Kill Product"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Only a designed and registered formulation should be used.",
+          "prepared_text": "[[prepared]]Only a designed and registered formulation should be used."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fourteen: Relying on Non-Specific Light Traps"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may affect beneficial insects and do not provide selective control.",
+          "prepared_text": "[[prepared]]They may affect beneficial insects and do not provide selective control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fifteen: Poor Lure Storage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may cause loss of active material before use.",
+          "prepared_text": "[[prepared]]This may cause loss of active material before use."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Practical Priorities for Open-Field Tomatoes in Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The priorities are:",
+          "prepared_text": "[[prepared]]The priorities are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Use pheromone traps primarily for monitoring and warning.",
+            "2. Do not consider one trap per feddan a mass-trapping program.",
+            "3. Begin any mass-trapping program before pest density increases.",
+            "4. Increase trap density along high-risk edges.",
+            "5. Maintain water traps continuously.",
+            "6. Link male catches with inspection of eggs, mines, and fruits.",
+            "7. Do not rely on mass trapping alone.",
+            "8. Do not generalize mating disruption to open fields without local testing.",
+            "9. Apply mating disruption over the largest contiguous area possible.",
+            "10. Reduce initial pest density before or at the start of disruption.",
+            "11. Manage old fields and sources of mated females.",
+            "12. Use the registered product dose rather than directly copying experimental doses.",
+            "13. Evaluate field edges and interior separately.",
+            "14. Continue plant inspection even when male trap catch stops.",
+            "15. Integrate pheromones with natural enemies and selective products."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Use pheromone traps primarily for monitoring and warning.",
+            "[[prepared]]2. Do not consider one trap per feddan a mass-trapping program.",
+            "[[prepared]]3. Begin any mass-trapping program before pest density increases.",
+            "[[prepared]]4. Increase trap density along high-risk edges.",
+            "[[prepared]]5. Maintain water traps continuously.",
+            "[[prepared]]6. Link male catches with inspection of eggs, mines, and fruits.",
+            "[[prepared]]7. Do not rely on mass trapping alone.",
+            "[[prepared]]8. Do not generalize mating disruption to open fields without local testing.",
+            "[[prepared]]9. Apply mating disruption over the largest contiguous area possible.",
+            "[[prepared]]10. Reduce initial pest density before or at the start of disruption.",
+            "[[prepared]]11. Manage old fields and sources of mated females.",
+            "[[prepared]]12. Use the registered product dose rather than directly copying experimental doses.",
+            "[[prepared]]13. Evaluate field edges and interior separately.",
+            "[[prepared]]14. Continue plant inspection even when male trap catch stops.",
+            "[[prepared]]15. Integrate pheromones with natural enemies and selective products."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Summary of Section Seven"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Behavioural control of Tuta absoluta depends mainly on the female sex pheromone, which consists of a principal component:",
+          "prepared_text": "[[prepared]]Behavioural control of Tuta absoluta depends mainly on the female sex pheromone, which consists of a principal component:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "E3Z8Z11-14:Ac"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And a secondary component:",
+          "prepared_text": "[[prepared]]And a secondary component:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "E3Z8-14:Ac"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These compounds are used in monitoring, mass trapping, mating disruption, and attract-and-kill.",
+          "prepared_text": "[[prepared]]These compounds are used in monitoring, mass trapping, mating disruption, and attract-and-kill."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Low-density monitoring traps should be distinguished from mass trapping, which requires a larger network of traps.",
+          "prepared_text": "[[prepared]]Low-density monitoring traps should be distinguished from mass trapping, which requires a larger network of traps."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Historical advisory mass-trapping densities of approximately 40–50 traps per hectare have been reported for open fields, equivalent to about 17–21 traps per feddan. However, this density is not a fixed rule and should be evaluated according to trap type, infestation level, and immigration pressure.",
+          "prepared_text": "[[prepared]]Historical advisory mass-trapping densities of approximately 40–50 traps per hectare have been reported for open fields, equivalent to about 17–21 traps per feddan. However, this density is not a fixed rule and should be evaluated according to trap type, infestation level, and immigration pressure."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mass trapping does not always provide sufficient damage reduction when used alone because the pheromone attracts males only, males can mate several times, and mated females can immigrate from outside.",
+          "prepared_text": "[[prepared]]Mass trapping does not always provide sufficient damage reduction when used alone because the pheromone attracts males only, males can mate several times, and mated females can immigrate from outside."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating disruption depends on preventing males from locating females and performs best when:",
+          "prepared_text": "[[prepared]]Mating disruption depends on preventing males from locating females and performs best when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "It begins early.",
+            "Pest density is low.",
+            "The treated area is large or the structure is well sealed.",
+            "Immigration of mated females is prevented.",
+            "Dispensers are distributed uniformly.",
+            "Plant inspection continues."
+          ],
+          "prepared_items": [
+            "[[prepared]]It begins early.",
+            "[[prepared]]Pest density is low.",
+            "[[prepared]]The treated area is large or the structure is well sealed.",
+            "[[prepared]]Immigration of mated females is prevented.",
+            "[[prepared]]Dispensers are distributed uniformly.",
+            "[[prepared]]Plant inspection continues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Several greenhouse studies under high containment have achieved successful results using different dispenser rates and densities, whereas results have been less consistent in open greenhouses and open fields.",
+          "prepared_text": "[[prepared]]Several greenhouse studies under high containment have achieved successful results using different dispenser rates and densities, whereas results have been less consistent in open greenhouses and open fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Trap shutdown alone is not sufficient evidence of successful mating disruption. A reduction in eggs, larvae, mines, and fruit infestation must also be demonstrated.",
+          "prepared_text": "[[prepared]]Trap shutdown alone is not sufficient evidence of successful mating disruption. A reduction in eggs, larvae, mines, and fruit infestation must also be demonstrated."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plant-based female attractants and attract-and-kill techniques remain promising, but are less mature and less widely used than traps and mating disruption and require registered products and local evaluation.",
+          "prepared_text": "[[prepared]]Plant-based female attractants and attract-and-kill techniques remain promising, but are less mature and less widely used than traps and mating disruption and require registered products and local evaluation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-7-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Attygalle, A. B., Jham, G. N., Svatoš, A., Frighetto, R. T. S., Ferrara, F. A., Vilela, E. F., Uchôa-Fernandes, M. A., & Meinwald, J. (1996). (3E,8Z,11Z)-3,8,11-Tetradecatrienyl acetate, major sex pheromone component of the tomato pest Scrobipalpuloides absoluta. Bioorganic & Medicinal Chemistry, 4(3), 305–314.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "Svatoš, A., Attygalle, A. B., Jham, G. N., Frighetto, R. T. S., Vilela, E. F., Šaman, D., & Meinwald, J. (1996). Sex pheromone of tomato pest Scrobipalpuloides absoluta. Journal of Chemical Ecology, 22(4), 787–800.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Ferrara, F. A. A., Vilela, E. F., Jham, G. N., Eiras, A. E., Picanço, M. C., Attygalle, A. B., Svatoš, A., & Meinwald, J. (2001). Evaluation of the synthetic major component of the sex pheromone of Tuta absoluta in field traps. Journal of Chemical Ecology, 27(5), 907–917. DOI: 10.1023/A:1010398518058.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Caparros Megido, R., Haubruge, E., & Verheggen, F. J. (2013). Pheromone-based management strategies to control the tomato leafminer, Tuta absoluta: A review. Biotechnology, Agronomy, Society and Environment, 17(3), 475–482.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "Michereff Filho, M., Vilela, E. F., Jham, G. N., Attygalle, A., Svatoš, A., & Meinwald, J. (2000). Initial studies of mating disruption of the tomato moth, Tuta absoluta, using synthetic sex pheromone. Journal of the Brazilian Chemical Society, 11(6), 621–628.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "Vacas, S., Alfaro, C., Primo, J., & Navarro-Llopis, V. (2011). Studies on the development of a mating disruption system to control the tomato leafminer, Tuta absoluta. Pest Management Science, 67(11), 1473–1480. DOI: 10.1002/ps.2202.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Cocco, A., Deliperi, S., & Delrio, G. (2013). Control of Tuta absoluta in greenhouse tomato crops using the mating disruption technique. Journal of Applied Entomology, 137(1–2), 16–28.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Chermiti, B., & Abbes, K. (2012). Comparison of pheromone lures used in mass trapping to control the tomato leafminer Tuta absoluta in industrial tomato crops in Kairouan, Tunisia. EPPO Bulletin, 42, 241–248.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Jallow, M. F. A., Dahab, A. A., Albaho, M. S., Devi, V. Y., Jacob, J., & Al-Saeed, O. (2020). Efficacy of mating disruption compared with chemical insecticides for controlling Tuta absoluta in Kuwait. Applied Entomology and Zoology, 55, 213–221.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Ünlü, L., Ögür, E., & Uulu, T. E. (2021). Control of Tuta absoluta in open-field tomato crops using the mating disruption technique. Phytoparasitica, 49, 385–396.",
+              "url": ""
+            },
+            {
+              "number": 11,
+              "text": "Chouikhi, S., Assadi, B. H., Abbes, K., Bkhiti, I., Grissa Lebdi, K., & Belkadhi, M. S. (2023). Effectiveness of mating disruption with TUTATEC dispensers against Tuta absoluta in heated greenhouses in southern Tunisia. Phytoparasitica, 51, 273–283.",
+              "url": ""
+            },
+            {
+              "number": 12,
+              "text": "Chouikhi, S., Assadi, B. H., Ettaib, R., Grissa Lebdi, K., & Belkadhi, M. S. (2023). Effectiveness of mating disruption applied alone or in combination with bioinsecticides against Tuta absoluta in heated greenhouse tomato crops of southern Tunisia. Phytoparasitica, 51, 521–532.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Huang, J., Wu, E., Yang, C., Han, X., Zhang, J., Cao, M., Deng, F., Guo, Q., & Du, Y. (2024). Mating disruption of the tomato leafminer Tuta absoluta on greenhouse tomatoes. Crop Health, 2, 15. DOI: 10.1007/s44297-024-00035-y.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "Sannino, L., Ricciardi, R., Lucchi, A., et al. (2025). Mating disruption with biodegradable dispensers complemented with insecticide sprays allows an effective management of Tuta absoluta in greenhouse tomatoes. Insects, 16, 1035.",
+              "url": ""
+            },
+            {
+              "number": 15,
+              "text": "Sabbahi, R., & Azzaoui, K. (2022). The effectiveness of pheromone traps in controlling the tomato leafminer, Tuta absoluta, in the United Arab Emirates. Journal of Plant Diseases and Protection, 129, 367–374. DOI: 10.1007/s41348-022-00572-0.",
+              "url": ""
+            },
+            {
+              "number": 16,
+              "text": "Grant, C., Jacobson, R., & Bass, C. (2021). Parthenogenesis in UK field populations of the tomato leaf miner, Tuta absoluta, exposed to the mating disruptor Isonet T. Pest Management Science, 77, 3445–3449.",
+              "url": ""
+            },
+            {
+              "number": 17,
+              "text": "Ahmadi, S., & Poorjavad, N. (2018). Behavioral and biological effects of exposure to Tuta absoluta sex pheromone on several Trichogramma populations. Journal of Economic Entomology, 111, 2085–2095.",
+              "url": ""
+            },
+            {
+              "number": 18,
+              "text": "Desneux, N., Han, P., Mansour, R., et al. (2022). Integrated pest management of Tuta absoluta: Practical implementations across different world regions. Journal of Pest Science, 95, 17–39. DOI: 10.1007/s10340-021-01442-8.",
+              "url": ""
+            },
+            {
+              "number": 19,
+              "text": "Witzgall, P., Kirsch, P., & Cork, A. (2010). Sex pheromones and their impact on pest management. Journal of Chemical Ecology, 36, 80–100.",
+              "url": ""
+            },
+            {
+              "number": 20,
+              "text": "USDA–APHIS. (2011). New Pest Response Guidelines: Tomato Leafminer, Tuta absoluta. United States Department of Agriculture.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 7,
+        "part_title": "Section Seven: Behavioural and Pheromone-Based Control",
+        "part_subtitle": "Behavioural and Pheromone-Based Control of Tuta absoluta"
+      }
+    }
+  ]
+}
