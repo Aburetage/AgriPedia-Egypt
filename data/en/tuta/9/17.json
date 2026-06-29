@@ -1,0 +1,4616 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 17,
+  "part_title": "Section Seventeen: Field Decision-Making Matrix",
+  "part_short_title": "Field Decision-Making Matrix",
+  "part_subtitle": "Field Decision-Making Matrix for Tuta absoluta Management",
+  "content_path": "tuta/9/17.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Decision-making is the central point in integrated management of Tuta absoluta, because the efficacy of any control measure depends largely on selecting:",
+          "prepared_text": "[[prepared]]Decision-making is the central point in integrated management of Tuta absoluta, because the efficacy of any control measure depends largely on selecting:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The appropriate method.",
+            "The appropriate insect stage.",
+            "The appropriate timing.",
+            "The appropriate location.",
+            "The appropriate intervention level."
+          ],
+          "prepared_items": [
+            "[[prepared]]The appropriate method.",
+            "[[prepared]]The appropriate insect stage.",
+            "[[prepared]]The appropriate timing.",
+            "[[prepared]]The appropriate location.",
+            "[[prepared]]The appropriate intervention level."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A farm may have:",
+          "prepared_text": "[[prepared]]A farm may have:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pheromone traps.",
+            "A monitoring programme.",
+            "Parasitoids and predators.",
+            "Biological and chemical pesticides.",
+            "Good application equipment."
+          ],
+          "prepared_items": [
+            "[[prepared]][[term:pheromone-trap]]Pheromone traps[[/term]].",
+            "[[prepared]]A monitoring programme.",
+            "[[prepared]]Parasitoids and predators.",
+            "[[prepared]]Biological and chemical pesticides.",
+            "[[prepared]]Good application equipment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Yet the programme may still fail when decisions are made:",
+          "prepared_text": "[[prepared]]Yet the programme may still fail when decisions are made:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Too late.",
+            "On the basis of one indicator.",
+            "Without distinguishing larval instars.",
+            "Without reviewing natural enemies.",
+            "Without considering crop stage and harvest.",
+            "Without analysing the infestation source.",
+            "Without reviewing the history of insecticide groups."
+          ],
+          "prepared_items": [
+            "[[prepared]]Too late.",
+            "[[prepared]]On the basis of one indicator.",
+            "[[prepared]]Without distinguishing [[term:larval-instar]]larval instars[[/term]].",
+            "[[prepared]]Without reviewing [[term:biological-control]]natural enemies[[/term]].",
+            "[[prepared]]Without considering crop stage and harvest.",
+            "[[prepared]]Without analysing the infestation source.",
+            "[[prepared]]Without reviewing the history of insecticide groups."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision matrix converts field data into a logical sequence that determines:",
+          "prepared_text": "[[prepared]]The decision matrix converts field data into a logical sequence that determines:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Is there a genuine problem?",
+            "2. What is its risk level?",
+            "3. Which stage should be targeted?",
+            "4. Is natural control sufficient?",
+            "5. Is the infestation internal or caused by immigration?",
+            "6. What is the least disruptive action capable of preventing loss?",
+            "7. When should the outcome be assessed?",
+            "8. What is the next action if the expected reduction is not achieved?"
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Is there a genuine problem?",
+            "[[prepared]]2. What is its risk level?",
+            "[[prepared]]3. Which stage should be targeted?",
+            "[[prepared]]4. Is natural control sufficient?",
+            "[[prepared]]5. Is the infestation internal or caused by immigration?",
+            "[[prepared]]6. What is the least disruptive action capable of preventing loss?",
+            "[[prepared]]7. When should the outcome be assessed?",
+            "[[prepared]]8. What is the next action if the expected reduction is not achieved?"
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The matrix is not a spray schedule or fixed prescription. It is a decision-making system that changes according to field conditions.",
+          "prepared_text": "[[prepared]]The matrix is not a spray schedule or fixed prescription. It is a decision-making system that changes according to field conditions."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Difference Between the Matrix and a Conventional Schedule"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Conventional Spray Schedule"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This often depends on:",
+          "prepared_text": "[[prepared]]This often depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of days after transplanting.",
+            "Repeated spraying at fixed intervals.",
+            "Changing trade names.",
+            "Applying treatment regardless of pest status."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of days after transplanting.",
+            "[[prepared]]Repeated spraying at fixed intervals.",
+            "[[prepared]]Changing trade names.",
+            "[[prepared]]Applying treatment regardless of pest status."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Decision-Making Matrix"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This depends on:",
+          "prepared_text": "[[prepared]]This depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap trend.",
+            "Fresh eggs.",
+            "Active mines.",
+            "Larval instars.",
+            "Infestation location.",
+            "Percentage of infested fruits.",
+            "Natural enemies.",
+            "Crop stage.",
+            "External pressure.",
+            "Pesticide record.",
+            "Harvest date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap trend.",
+            "[[prepared]]Fresh eggs.",
+            "[[prepared]]Active [[term:mines]]mines[[/term]].",
+            "[[prepared]]Larval instars.",
+            "[[prepared]]Infestation location.",
+            "[[prepared]]Percentage of infested fruits.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]External pressure.",
+            "[[prepared]]Pesticide record.",
+            "[[prepared]]Harvest date."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This means that two fields transplanted on the same day may require different decisions when they differ in:",
+          "prepared_text": "[[prepared]]This means that two fields transplanted on the same day may require different decisions when they differ in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation source.",
+            "Egg density.",
+            "Parasitism percentage.",
+            "Fruit stage.",
+            "Pesticide history.",
+            "Harvest date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation source.",
+            "[[prepared]]Egg density.",
+            "[[prepared]]Parasitism percentage.",
+            "[[prepared]]Fruit stage.",
+            "[[prepared]]Pesticide history.",
+            "[[prepared]]Harvest date."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Objectives of the Decision Matrix"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The matrix aims to:",
+          "prepared_text": "[[prepared]]The matrix aims to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Prevent unnecessary sprays.",
+            "Detect the need for intervention early.",
+            "Direct control towards eggs and young larvae.",
+            "Protect natural enemies.",
+            "Reduce repetition of IRAC groups.",
+            "Prevent infestation from reaching fruits.",
+            "Distinguish local hotspots from external immigration waves.",
+            "Reduce errors arising from trap interpretation.",
+            "Link control decisions to harvest timing.",
+            "Standardize the reasoning process among technical-team members.",
+            "Document the reason for every decision.",
+            "Facilitate review of success or failure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Prevent unnecessary sprays.",
+            "[[prepared]]Detect the need for intervention early.",
+            "[[prepared]]Direct control towards eggs and young larvae.",
+            "[[prepared]]Protect natural enemies.",
+            "[[prepared]]Reduce repetition of [[term:irac]]IRAC groups[[/term]].",
+            "[[prepared]]Prevent infestation from reaching fruits.",
+            "[[prepared]]Distinguish local hotspots from external immigration waves.",
+            "[[prepared]]Reduce errors arising from trap interpretation.",
+            "[[prepared]]Link control decisions to harvest timing.",
+            "[[prepared]]Standardize the reasoning process among technical-team members.",
+            "[[prepared]]Document the reason for every decision.",
+            "[[prepared]]Facilitate review of success or failure."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Basic Principles of Decision-Making"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The matrix is based on the following principles:",
+          "prepared_text": "[[prepared]]The matrix is based on the following principles:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. No spray decision should be made from traps alone.",
+            "2. Decisions should not be based on old inactive mines.",
+            "3. Presence of eggs does not always require a chemical insecticide.",
+            "4. Larval instar is more important than count alone when selecting an intervention.",
+            "5. Fruit infestation is economically more serious than a similar number of leaf mines.",
+            "6. Parasitism percentage should not be interpreted separately from total egg density.",
+            "7. Natural enemies are part of the intervention decision, not an additional note.",
+            "8. Crop stage determines the acceptable level of damage.",
+            "9. Approaching harvest limits intervention options.",
+            "10. High infestation along field edges may indicate external pressure.",
+            "11. Treatment failure does not automatically mean resistance.",
+            "12. Rotation is based on IRAC group number, not trade name.",
+            "13. Every intervention must be followed by a defined evaluation.",
+            "14. Non-intervention is a valid technical decision when there is no economic or biological justification.",
+            "15. Numerical thresholds require local calibration."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. No spray decision should be made from traps alone.",
+            "[[prepared]]2. Decisions should not be based on old inactive mines.",
+            "[[prepared]]3. Presence of eggs does not always require a chemical insecticide.",
+            "[[prepared]]4. Larval instar is more important than count alone when selecting an intervention.",
+            "[[prepared]]5. Fruit infestation is economically more serious than a similar number of leaf mines.",
+            "[[prepared]]6. Parasitism percentage should not be interpreted separately from total egg density.",
+            "[[prepared]]7. Natural enemies are part of the intervention decision, not an additional note.",
+            "[[prepared]]8. Crop stage determines the acceptable level of damage.",
+            "[[prepared]]9. Approaching harvest limits intervention options.",
+            "[[prepared]]10. High infestation along field edges may indicate external pressure.",
+            "[[prepared]]11. Treatment failure does not automatically mean resistance.",
+            "[[prepared]]12. Rotation is based on IRAC group number, not trade name.",
+            "[[prepared]]13. Every intervention must be followed by a defined evaluation.",
+            "[[prepared]]14. Non-intervention is a valid technical decision when there is no economic or biological justification.",
+            "[[prepared]]15. Numerical thresholds require local calibration."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Required Data Sources"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The matrix is not built from one reading, but from six principal data groups.",
+          "prepared_text": "[[prepared]]The matrix is not built from one reading, but from six principal data groups."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Group One: Adult Activity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Measured through:",
+          "prepared_text": "[[prepared]]Measured through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pheromone traps.",
+            "Direct observation.",
+            "Catch direction.",
+            "Difference between edges and interior.",
+            "Association of an increase with a neighbouring field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pheromone traps.",
+            "[[prepared]]Direct observation.",
+            "[[prepared]]Catch direction.",
+            "[[prepared]]Difference between edges and interior.",
+            "[[prepared]]Association of an increase with a neighbouring field."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Group Two: Immature Stages"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Including:",
+          "prepared_text": "[[prepared]]Including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fresh eggs.",
+            "Dark eggs or eggs close to hatching.",
+            "Parasitized eggs.",
+            "L1 and L2 larvae.",
+            "L3 and L4 larvae.",
+            "Pupae where they can be monitored."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fresh eggs.",
+            "[[prepared]]Dark eggs or eggs close to hatching.",
+            "[[prepared]]Parasitized eggs.",
+            "[[prepared]]L1 and L2 larvae.",
+            "[[prepared]]L3 and L4 larvae.",
+            "[[prepared]][[term:pupation]]Pupae[[/term]] where they can be monitored."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Group Three: Plant Damage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Including:",
+          "prepared_text": "[[prepared]]Including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active mines.",
+            "Growing-point infestation.",
+            "Stem tunnelling.",
+            "Flower and cluster infestation.",
+            "Fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active mines.",
+            "[[prepared]]Growing-point infestation.",
+            "[[prepared]]Stem tunnelling.",
+            "[[prepared]]Flower and cluster infestation.",
+            "[[prepared]]Fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Group Four: Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Including:",
+          "prepared_text": "[[prepared]]Including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg-parasitism percentage.",
+            "Larval parasitoids.",
+            "Adult predators.",
+            "Nymphs.",
+            "Signs of entomopathogenic diseases.",
+            "Survival of natural enemies after treatments."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg-parasitism percentage.",
+            "[[prepared]]Larval parasitoids.",
+            "[[prepared]]Adult predators.",
+            "[[prepared]]Nymphs.",
+            "[[prepared]]Signs of entomopathogenic diseases.",
+            "[[prepared]]Survival of natural enemies after treatments."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Group Five: Crop Status"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Including:",
+          "prepared_text": "[[prepared]]Including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant age.",
+            "Physiological stage.",
+            "Canopy density.",
+            "Beginning of fruit set.",
+            "Fruit growth.",
+            "Beginning of ripening.",
+            "Harvest date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant age.",
+            "[[prepared]]Physiological stage.",
+            "[[prepared]]Canopy density.",
+            "[[prepared]]Beginning of fruit set.",
+            "[[prepared]]Fruit growth.",
+            "[[prepared]]Beginning of ripening.",
+            "[[prepared]]Harvest date."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Group Six: External and Operational Risk Factors"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Including:",
+          "prepared_text": "[[prepared]]Including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Old fields.",
+            "Removal of a neighbouring crop.",
+            "Overlapping production cycles.",
+            "Temperature.",
+            "Wind.",
+            "Pesticide history.",
+            "Results of previous treatments.",
+            "Registration and preharvest interval."
+          ],
+          "prepared_items": [
+            "[[prepared]]Old fields.",
+            "[[prepared]]Removal of a neighbouring crop.",
+            "[[prepared]]Overlapping production cycles.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Pesticide history.",
+            "[[prepared]]Results of previous treatments.",
+            "[[prepared]]Registration and preharvest interval."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision Unit"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The entire field should not be treated as one decision unit when clear differences exist.",
+          "prepared_text": "[[prepared]]The entire field should not be treated as one decision unit when clear differences exist."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision unit should be defined according to:",
+          "prepared_text": "[[prepared]]The decision unit should be defined according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Sector.",
+            "Cultivar.",
+            "Transplanting date.",
+            "Transplant source.",
+            "Growth stage.",
+            "Edge direction.",
+            "Pesticide programme.",
+            "Harvest date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sector.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Transplanting date.",
+            "[[prepared]]Transplant source.",
+            "[[prepared]]Growth stage.",
+            "[[prepared]]Edge direction.",
+            "[[prepared]]Pesticide programme.",
+            "[[prepared]]Harvest date."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision may be:",
+          "prepared_text": "[[prepared]]The decision may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "No intervention in the field interior.",
+            "Localized treatment on one edge."
+          ],
+          "prepared_items": [
+            "[[prepared]]No intervention in the field interior.",
+            "[[prepared]]Localized treatment on one edge."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Or:",
+          "prepared_text": "[[prepared]]Or:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Intervention in an early sector.",
+            "Deferral of the decision in a later sector."
+          ],
+          "prepared_items": [
+            "[[prepared]]Intervention in an early sector.",
+            "[[prepared]]Deferral of the decision in a later sector."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This prevents general treatment because of a limited hotspot.",
+          "prepared_text": "[[prepared]]This prevents general treatment because of a limited hotspot."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Verifying Data Validity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before interpreting results, answer the following questions:",
+          "prepared_text": "[[prepared]]Before interpreting results, answer the following questions:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Is the trap functioning correctly?",
+            "Is the lure within its effective life?",
+            "Is the exposure period known?",
+            "Was a sufficient number of plants inspected?",
+            "Did the sample include both edges and interior?",
+            "Do mines classified as active contain evidence of activity?",
+            "Were Tuta eggs distinguished from eggs of other insects?",
+            "Was larval instar identified with reasonable accuracy?",
+            "Is the fruit sample representative?",
+            "Were natural enemies recorded?",
+            "Do the data belong to the same sector?",
+            "Was a recent treatment applied that may alter the result?"
+          ],
+          "prepared_items": [
+            "[[prepared]]Is the trap functioning correctly?",
+            "[[prepared]]Is the lure within its effective life?",
+            "[[prepared]]Is the exposure period known?",
+            "[[prepared]]Was a sufficient number of plants inspected?",
+            "[[prepared]]Did the sample include both edges and interior?",
+            "[[prepared]]Do mines classified as active contain evidence of activity?",
+            "[[prepared]]Were Tuta eggs distinguished from eggs of other insects?",
+            "[[prepared]]Was larval instar identified with reasonable accuracy?",
+            "[[prepared]]Is the fruit sample representative?",
+            "[[prepared]]Were natural enemies recorded?",
+            "[[prepared]]Do the data belong to the same sector?",
+            "[[prepared]]Was a recent treatment applied that may alter the result?"
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When data quality is poor, the correct decision is often:",
+          "prepared_text": "[[prepared]]When data quality is poor, the correct decision is often:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Repeat the inspection and improve measurement quality"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rather than proceed directly to spraying.",
+          "prepared_text": "[[prepared]]Rather than proceed directly to spraying."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Trend Is More Important Than a Single Reading"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be analysed:",
+          "prepared_text": "[[prepared]]The following should be analysed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Current reading.",
+            "Previous reading.",
+            "Rate of change.",
+            "Duration of the trend."
+          ],
+          "prepared_items": [
+            "[[prepared]]Current reading.",
+            "[[prepared]]Previous reading.",
+            "[[prepared]]Rate of change.",
+            "[[prepared]]Duration of the trend."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A high reading may be less serious if it is clearly declining, whereas a moderate reading may be more important if it rises week after week and coincides with fresh egg appearance.",
+          "prepared_text": "[[prepared]]A high reading may be less serious if it is clearly declining, whereas a moderate reading may be more important if it rises week after week and coincides with fresh egg appearance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Trends may be classified as:",
+          "prepared_text": "[[prepared]]Trends may be classified as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Stable and low.",
+            "Fluctuating without a clear direction.",
+            "High on one occasion.",
+            "Continuously increasing.",
+            "Declining after intervention.",
+            "High after removal of a neighbouring field."
+          ],
+          "prepared_items": [
+            "[[prepared]]Stable and low.",
+            "[[prepared]]Fluctuating without a clear direction.",
+            "[[prepared]]High on one occasion.",
+            "[[prepared]]Continuously increasing.",
+            "[[prepared]]Declining after intervention.",
+            "[[prepared]]High after removal of a neighbouring field."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A number should not be interpreted without its trend and context.",
+          "prepared_text": "[[prepared]]A number should not be interpreted without its trend and context."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Decision Levels"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field status is divided into five levels.",
+          "prepared_text": "[[prepared]]Field status is divided into five levels."
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Level",
+            "Description",
+            "Principal Objective"
+          ],
+          "rows": [
+            [
+              "Green",
+              "No active infestation or only limited stable evidence",
+              "Conservation and monitoring"
+            ],
+            [
+              "Yellow",
+              "Early-warning indicators without confirmed economic damage",
+              "Intensify monitoring and prepare"
+            ],
+            [
+              "Orange",
+              "Active infestation still containable before reaching fruits",
+              "Early biological or localized intervention"
+            ],
+            [
+              "Red",
+              "Spread threatening growing points, clusters, or fruits",
+              "Immediate corrective intervention"
+            ],
+            [
+              "Critical",
+              "Advanced infestation, repeated failure, or field becoming a source",
+              "Emergency containment and comprehensive diagnosis"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Level",
+            "[[prepared]]Description",
+            "[[prepared]]Principal Objective"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Green",
+              "[[prepared]]No [[term:infestation-status]]active infestation[[/term]] or only limited stable evidence",
+              "[[prepared]]Conservation and monitoring"
+            ],
+            [
+              "[[prepared]]Yellow",
+              "[[prepared]]Early-warning indicators without confirmed economic damage",
+              "[[prepared]]Intensify monitoring and prepare"
+            ],
+            [
+              "[[prepared]]Orange",
+              "[[prepared]]Active infestation still containable before reaching fruits",
+              "[[prepared]]Early biological or localized intervention"
+            ],
+            [
+              "[[prepared]]Red",
+              "[[prepared]]Spread threatening growing points, clusters, or fruits",
+              "[[prepared]]Immediate corrective intervention"
+            ],
+            [
+              "[[prepared]]Critical",
+              "[[prepared]]Advanced infestation, repeated failure, or field becoming a source",
+              "[[prepared]]Emergency containment and comprehensive diagnosis"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These levels are not substitutes for an economic threshold, but a framework for standardizing response.",
+          "prepared_text": "[[prepared]]These levels are not substitutes for an [[term:economic-threshold]]economic threshold[[/term]], but a framework for standardizing response."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Green Level"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Definition of the Green Level"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A field is classified as green when most of the following indicators occur together:",
+          "prepared_text": "[[prepared]]A field is classified as green when most of the following indicators occur together:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap catches are low or stable.",
+            "No consecutive increase in catch is present.",
+            "Eggs are absent or extremely scattered.",
+            "Active mines are not increasing.",
+            "Live larvae are not widely distributed.",
+            "No fruit infestation is present.",
+            "Natural enemies are present.",
+            "No nearby high-risk source field exists.",
+            "No recent immigration wave has occurred."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap catches are low or stable.",
+            "[[prepared]]No consecutive increase in catch is present.",
+            "[[prepared]]Eggs are absent or extremely scattered.",
+            "[[prepared]]Active mines are not increasing.",
+            "[[prepared]]Live larvae are not widely distributed.",
+            "[[prepared]]No fruit infestation is present.",
+            "[[prepared]]Natural enemies are present.",
+            "[[prepared]]No nearby high-risk source field exists.",
+            "[[prepared]]No recent immigration wave has occurred."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Green does not mean the pest is completely absent from the region. It means there is no justification for corrective intervention.",
+          "prepared_text": "[[prepared]]Green does not mean the pest is completely absent from the region. It means there is no justification for corrective intervention."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Green-Level Actions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Continue trap monitoring.",
+            "2. Conduct inspection on schedule.",
+            "3. Protect natural enemies.",
+            "4. Remove isolated suspect plants or fruits where present.",
+            "5. Maintain the biological belt.",
+            "6. Do not apply unjustified preventive sprays.",
+            "7. Review neighbouring fields.",
+            "8. Update the field record.",
+            "9. Prepare intervention alternatives without using them."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Continue trap monitoring.",
+            "[[prepared]]2. Conduct inspection on schedule.",
+            "[[prepared]]3. Protect natural enemies.",
+            "[[prepared]]4. Remove isolated suspect plants or fruits where present.",
+            "[[prepared]]5. Maintain the biological belt.",
+            "[[prepared]]6. Do not apply unjustified preventive sprays.",
+            "[[prepared]]7. Review neighbouring fields.",
+            "[[prepared]]8. Update the field record.",
+            "[[prepared]]9. Prepare intervention alternatives without using them."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal decision is:",
+          "prepared_text": "[[prepared]]The principal decision is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Active monitoring without chemical intervention."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Yellow Level"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Definition of the Yellow Level"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The yellow level represents early warning and may apply when one or more of the following indicators are present:",
+          "prepared_text": "[[prepared]]The yellow level represents early warning and may apply when one or more of the following indicators are present:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap catch increases above baseline.",
+            "Catch rises along one field edge.",
+            "Scattered fresh eggs appear.",
+            "The first active mine appears.",
+            "An old field is nearby.",
+            "A neighbouring crop begins to be removed.",
+            "Temperature rises and development accelerates.",
+            "Natural enemies decline slightly.",
+            "Suspect transplants are present.",
+            "A limited infestation remains localized."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap catch increases above baseline.",
+            "[[prepared]]Catch rises along one field edge.",
+            "[[prepared]]Scattered fresh eggs appear.",
+            "[[prepared]]The first active mine appears.",
+            "[[prepared]]An old field is nearby.",
+            "[[prepared]]A neighbouring crop begins to be removed.",
+            "[[prepared]]Temperature rises and development accelerates.",
+            "[[prepared]]Natural enemies decline slightly.",
+            "[[prepared]]Suspect transplants are present.",
+            "[[prepared]]A limited infestation remains localized."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Yellow does not mean that spraying is required. It means establishment of a new generation must be prevented.",
+          "prepared_text": "[[prepared]]Yellow does not mean that spraying is required. It means establishment of a new generation must be prevented."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Yellow-Level Actions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Shorten the interval between inspections.",
+            "2. Increase the number of plants inspected.",
+            "3. Inspect the field edge and interior separately.",
+            "4. Locate fresh eggs.",
+            "5. Estimate hatching time.",
+            "6. Measure parasitism percentage.",
+            "7. Inspect predator presence.",
+            "8. Review the immigration source.",
+            "9. Prepare egg parasitoids or the appropriate microbial agent.",
+            "10. Review the IRAC record and preharvest intervals.",
+            "11. Map hotspots."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Shorten the interval between inspections.",
+            "[[prepared]]2. Increase the number of plants inspected.",
+            "[[prepared]]3. Inspect the field edge and interior separately.",
+            "[[prepared]]4. Locate fresh eggs.",
+            "[[prepared]]5. Estimate hatching time.",
+            "[[prepared]]6. Measure parasitism percentage.",
+            "[[prepared]]7. Inspect predator presence.",
+            "[[prepared]]8. Review the immigration source.",
+            "[[prepared]]9. Prepare egg parasitoids or the appropriate microbial agent.",
+            "[[prepared]]10. Review the IRAC record and preharvest intervals.",
+            "[[prepared]]11. Map hotspots."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The usual decision is:",
+          "prepared_text": "[[prepared]]The usual decision is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Intensify monitoring and prepare for early intervention without automatic whole-field treatment."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "When Does Yellow Become Orange?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The level changes when:",
+          "prepared_text": "[[prepared]]The level changes when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg laying continues in two consecutive inspections.",
+            "The number of plants carrying eggs increases.",
+            "Eggshells and recent hatching appear.",
+            "L1 or L2 larvae appear.",
+            "Active mines increase.",
+            "The hotspot expands.",
+            "Parasitism falls below the level capable of containing the eggs.",
+            "Infestation appears near growing points or clusters."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg laying continues in two consecutive inspections.",
+            "[[prepared]]The number of plants carrying eggs increases.",
+            "[[prepared]]Eggshells and recent hatching appear.",
+            "[[prepared]]L1 or L2 larvae appear.",
+            "[[prepared]]Active mines increase.",
+            "[[prepared]]The hotspot expands.",
+            "[[prepared]]Parasitism falls below the level capable of containing the eggs.",
+            "[[prepared]]Infestation appears near growing points or clusters."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision should not wait until large larvae appear.",
+          "prepared_text": "[[prepared]]The decision should not wait until large larvae appear."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Orange Level"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Definition of the Orange Level"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Orange represents an active infestation that remains containable before major loss occurs.",
+          "prepared_text": "[[prepared]]Orange represents an active infestation that remains containable before major loss occurs."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its indicators include:",
+          "prepared_text": "[[prepared]]Its indicators include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Repeated presence of fresh eggs.",
+            "Recent hatching.",
+            "Dominance of L1 and L2.",
+            "Increasing active mines.",
+            "Limited spread at several points.",
+            "No fruit infestation or only very early cases.",
+            "Natural enemies are present but insufficient alone.",
+            "Time remains to intervene before larvae enter deeper tissues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Repeated presence of fresh eggs.",
+            "[[prepared]]Recent hatching.",
+            "[[prepared]]Dominance of L1 and L2.",
+            "[[prepared]]Increasing active mines.",
+            "[[prepared]]Limited spread at several points.",
+            "[[prepared]]No fruit infestation or only very early cases.",
+            "[[prepared]]Natural enemies are present but insufficient alone.",
+            "[[prepared]]Time remains to intervene before larvae enter deeper tissues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This level is the most important opportunity for preventing an outbreak.",
+          "prepared_text": "[[prepared]]This level is the most important opportunity for preventing an outbreak."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Orange-Level Actions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Actions should be arranged from least disruptive to more intensive:",
+          "prepared_text": "[[prepared]]Actions should be arranged from least disruptive to more intensive:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Release or augment egg parasitoids when egg stage and residues are suitable.",
+            "2. Use Bt or a registered microbial agent targeting young larvae.",
+            "3. Increase monitoring intensity.",
+            "4. Remove limited hotspots or early infested fruits.",
+            "5. Protect existing natural enemies.",
+            "6. Treat affected edges or sectors where separation is possible.",
+            "7. Use a registered selective insecticide if infestation trend exceeds the capacity of biological methods.",
+            "8. Review spray coverage and equipment.",
+            "9. Define the reassessment date before most larvae reach advanced instars."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Release or augment egg parasitoids when egg stage and residues are suitable.",
+            "[[prepared]]2. Use Bt or a registered microbial agent targeting young larvae.",
+            "[[prepared]]3. Increase monitoring intensity.",
+            "[[prepared]]4. Remove limited hotspots or early infested fruits.",
+            "[[prepared]]5. Protect existing natural enemies.",
+            "[[prepared]]6. Treat affected edges or sectors where separation is possible.",
+            "[[prepared]]7. Use a registered selective insecticide if infestation trend exceeds the capacity of biological methods.",
+            "[[prepared]]8. Review spray coverage and equipment.",
+            "[[prepared]]9. Define the reassessment date before most larvae reach advanced instars."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An orange-level response should not become a broad chemical mixture merely to achieve rapid kill.",
+          "prepared_text": "[[prepared]]An orange-level response should not become a broad chemical mixture merely to achieve rapid kill."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision When Egg Density and Parasitism Are Both High"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Parasitism percentage should not be interpreted separately from total egg number.",
+          "prepared_text": "[[prepared]]Parasitism percentage should not be interpreted separately from total egg number."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conceptual example:",
+          "prepared_text": "[[prepared]]Conceptual example:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A very large egg population with high parasitism may still leave a substantial number of viable eggs.",
+            "A limited egg population with moderate parasitism may produce fewer larvae."
+          ],
+          "prepared_items": [
+            "[[prepared]]A very large egg population with high parasitism may still leave a substantial number of viable eggs.",
+            "[[prepared]]A limited egg population with moderate parasitism may produce fewer larvae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision should consider:",
+          "prepared_text": "[[prepared]]The decision should consider:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Total eggs.",
+            "Unparasitized eggs.",
+            "Eggs close to hatching.",
+            "Rate of new egg appearance.",
+            "Crop stage.",
+            "Fruit infestation.",
+            "Capacity of parasitoids to persist."
+          ],
+          "prepared_items": [
+            "[[prepared]]Total eggs.",
+            "[[prepared]]Unparasitized eggs.",
+            "[[prepared]]Eggs close to hatching.",
+            "[[prepared]]Rate of new egg appearance.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Capacity of parasitoids to persist."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision may be:",
+          "prepared_text": "[[prepared]]The decision may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Protect parasitoids.",
+            "Combine this with a selective agent against hatching larvae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Protect parasitoids.",
+            "[[prepared]]Combine this with a selective agent against hatching larvae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A pesticide highly toxic to egg parasitoids should not be used merely because total egg density is high.",
+          "prepared_text": "[[prepared]]A pesticide highly toxic to egg parasitoids should not be used merely because total egg density is high."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision When Egg Density Is High and Parasitism Is Low"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This condition indicates the possibility of a large larval wave.",
+          "prepared_text": "[[prepared]]This condition indicates the possibility of a large larval wave."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It requires:",
+          "prepared_text": "[[prepared]]It requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confirming that eggs are alive and fresh.",
+            "Increasing egg-parasitoid release where justified.",
+            "Timing Bt or another larval agent before or near hatching.",
+            "Shortening the reinspection interval.",
+            "Reviewing causes of low parasitism.",
+            "Checking for pesticide residues toxic to parasitoids.",
+            "Identifying the oviposition source."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confirming that eggs are alive and fresh.",
+            "[[prepared]]Increasing egg-parasitoid release where justified.",
+            "[[prepared]]Timing Bt or another larval agent before or near hatching.",
+            "[[prepared]]Shortening the reinspection interval.",
+            "[[prepared]]Reviewing causes of low parasitism.",
+            "[[prepared]]Checking for pesticide residues toxic to parasitoids.",
+            "[[prepared]]Identifying the oviposition source."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The priority is to prevent hatching or kill larvae immediately after feeding begins.",
+          "prepared_text": "[[prepared]]The priority is to prevent hatching or kill larvae immediately after feeding begins."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision When L1 and L2 Dominate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is the best opportunity for larval control.",
+          "prepared_text": "[[prepared]]This is the best opportunity for larval control."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Potential measures include:",
+          "prepared_text": "[[prepared]]Potential measures include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A registered and suitable Bt product.",
+            "Registered insect viruses.",
+            "A selective insecticide effective against early instars.",
+            "Supporting predators.",
+            "Removing limited hotspots.",
+            "Combining compatible methods."
+          ],
+          "prepared_items": [
+            "[[prepared]]A registered and suitable Bt product.",
+            "[[prepared]]Registered insect viruses.",
+            "[[prepared]]A selective insecticide effective against early instars.",
+            "[[prepared]]Supporting predators.",
+            "[[prepared]]Removing limited hotspots.",
+            "[[prepared]]Combining compatible methods."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Good coverage is required at:",
+          "prepared_text": "[[prepared]]Good coverage is required at:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Growing points.",
+            "Young leaves.",
+            "Lower leaf surfaces.",
+            "Leaves near clusters."
+          ],
+          "prepared_items": [
+            "[[prepared]]Growing points.",
+            "[[prepared]]Young leaves.",
+            "[[prepared]]Lower leaf surfaces.",
+            "[[prepared]]Leaves near clusters."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Intervention should not be delayed until completion of a full weekly evaluation when temperature permits rapid development.",
+          "prepared_text": "[[prepared]]Intervention should not be delayed until completion of a full weekly evaluation when temperature permits rapid development."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Red Level"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Definition of the Red Level"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A field is classified as red when there is a direct threat to the crop, such as:",
+          "prepared_text": "[[prepared]]A field is classified as red when there is a direct threat to the crop, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larvae distributed across several sectors.",
+            "Increasing L2 and L3.",
+            "Growing-point infestation.",
+            "Flower and cluster infestation.",
+            "Confirmed fruit infestation.",
+            "Increasing mines despite a previous intervention.",
+            "Weak natural-enemy activity.",
+            "Continued immigration pressure.",
+            "Infestation approaching an economically damaging level."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larvae distributed across several sectors.",
+            "[[prepared]]Increasing L2 and L3.",
+            "[[prepared]]Growing-point infestation.",
+            "[[prepared]]Flower and cluster infestation.",
+            "[[prepared]]Confirmed fruit infestation.",
+            "[[prepared]]Increasing mines despite a previous intervention.",
+            "[[prepared]]Weak natural-enemy activity.",
+            "[[prepared]]Continued immigration pressure.",
+            "[[prepared]]Infestation approaching an economically damaging level."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The objective is:",
+          "prepared_text": "[[prepared]]The objective is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "To stop the increase and protect sound fruits, not merely reduce moth numbers."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Red-Level Actions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Identify the most heavily infested sectors.",
+            "2. Collect infested fruits.",
+            "3. Use a registered corrective measure effective against the dominant stage.",
+            "4. Select an IRAC group different from the previous window.",
+            "5. Protect natural enemies as far as possible.",
+            "6. Coordinate management of the external source field.",
+            "7. Review calibration and coverage.",
+            "8. Shorten the result-assessment interval.",
+            "9. Collect samples where resistance is suspected.",
+            "10. Review harvest timing.",
+            "11. Prevent rejected fruits from being left between rows."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Identify the most heavily infested sectors.",
+            "[[prepared]]2. Collect infested fruits.",
+            "[[prepared]]3. Use a registered corrective measure effective against the dominant stage.",
+            "[[prepared]]4. Select an IRAC group different from the previous window.",
+            "[[prepared]]5. Protect natural enemies as far as possible.",
+            "[[prepared]]6. Coordinate management of the external source field.",
+            "[[prepared]]7. Review calibration and coverage.",
+            "[[prepared]]8. Shorten the result-assessment interval.",
+            "[[prepared]]9. Collect samples where resistance is suspected.",
+            "[[prepared]]10. Review harvest timing.",
+            "[[prepared]]11. Prevent rejected fruits from being left between rows."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The red level does not justify exceeding the label rate or randomly mixing several products.",
+          "prepared_text": "[[prepared]]The red level does not justify exceeding the label rate or randomly mixing several products."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision When L3 and L4 Dominate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When advanced instars dominate, recognize that:",
+          "prepared_text": "[[prepared]]When advanced instars dominate, recognize that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Some larvae are inside large mines.",
+            "Some may be moving into fruits.",
+            "Bt may be less effective than against young larvae.",
+            "Part of the damage may already have occurred."
+          ],
+          "prepared_items": [
+            "[[prepared]]Some larvae are inside large mines.",
+            "[[prepared]]Some may be moving into fruits.",
+            "[[prepared]]Bt may be less effective than against young larvae.",
+            "[[prepared]]Part of the damage may already have occurred."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The response should include:",
+          "prepared_text": "[[prepared]]The response should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Protecting uninfested tissues and fruits.",
+            "Collecting infested fruits.",
+            "Using a registered material proven active against the stage present.",
+            "Confirming coverage.",
+            "Avoiding repetition of the group that failed.",
+            "Analysing why larvae reached these instars without detection.",
+            "Redesigning the monitoring programme."
+          ],
+          "prepared_items": [
+            "[[prepared]]Protecting uninfested tissues and fruits.",
+            "[[prepared]]Collecting infested fruits.",
+            "[[prepared]]Using a registered material proven active against the stage present.",
+            "[[prepared]]Confirming coverage.",
+            "[[prepared]]Avoiding repetition of the group that failed.",
+            "[[prepared]]Analysing why larvae reached these instars without detection.",
+            "[[prepared]]Redesigning the monitoring programme."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mortality of some large larvae after treatment should not be interpreted as complete recovery of the damaged crop.",
+          "prepared_text": "[[prepared]]Mortality of some large larvae after treatment should not be interpreted as complete recovery of the damaged crop."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision at the Beginning of Fruit Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The first confirmed fruit infestation marks a major increase in risk.",
+          "prepared_text": "[[prepared]]The first confirmed fruit infestation marks a major increase in risk."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be done:",
+          "prepared_text": "[[prepared]]The following should be done:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Determine the percentage of infested fruits.",
+            "2. Confirm whether live larvae are present.",
+            "3. Inspect adjacent clusters.",
+            "4. Identify larval instars present on leaves.",
+            "5. Collect infested fruits and do not leave them in the field.",
+            "6. Raise the monitoring level.",
+            "7. Protect sound fruits.",
+            "8. Review harvest timing.",
+            "9. Confirm the preharvest interval.",
+            "10. Assess the infestation source."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Determine the percentage of infested fruits.",
+            "[[prepared]]2. Confirm whether live larvae are present.",
+            "[[prepared]]3. Inspect adjacent clusters.",
+            "[[prepared]]4. Identify larval instars present on leaves.",
+            "[[prepared]]5. Collect infested fruits and do not leave them in the field.",
+            "[[prepared]]6. Raise the monitoring level.",
+            "[[prepared]]7. Protect sound fruits.",
+            "[[prepared]]8. Review harvest timing.",
+            "[[prepared]]9. Confirm the preharvest interval.",
+            "[[prepared]]10. Assess the infestation source."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should be adjusted before fruit infestation becomes widespread.",
+          "prepared_text": "[[prepared]]The programme should be adjusted before fruit infestation becomes widespread."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Critical Level"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Definition of the Critical Level"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This represents a condition beyond routine intervention and may include:",
+          "prepared_text": "[[prepared]]This represents a condition beyond routine intervention and may include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High densities of several insect stages.",
+            "Increasing fruit infestation.",
+            "Failure of one or more treatments.",
+            "Suspected resistance.",
+            "Collapse of natural enemies.",
+            "A heavily infested old field producing large numbers of emigrating moths.",
+            "Inability to comply with the preharvest interval of some options.",
+            "Declining economic viability of continuing the crop.",
+            "Transformation of the field into a regional source."
+          ],
+          "prepared_items": [
+            "[[prepared]]High densities of several insect stages.",
+            "[[prepared]]Increasing fruit infestation.",
+            "[[prepared]]Failure of one or more treatments.",
+            "[[prepared]]Suspected resistance.",
+            "[[prepared]]Collapse of natural enemies.",
+            "[[prepared]]A heavily infested old field producing large numbers of emigrating moths.",
+            "[[prepared]]Inability to comply with the preharvest interval of some options.",
+            "[[prepared]]Declining economic viability of continuing the crop.",
+            "[[prepared]]Transformation of the field into a regional source."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This level requires an administrative and economic decision, not merely selection of an insecticide.",
+          "prepared_text": "[[prepared]]This level requires an administrative and economic decision, not merely selection of an insecticide."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Critical-Level Actions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Form a rapid-assessment team.",
+            "2. Verify the diagnosis.",
+            "3. Determine fruit infestation and expected loss.",
+            "4. Review all previous treatments.",
+            "5. Collect samples for susceptibility testing.",
+            "6. Stop use of the group suspected of failure.",
+            "7. Use a registered alternative with a different mode of action when economically justified.",
+            "8. Collect or destroy infested fruits.",
+            "9. Evaluate advancing harvest.",
+            "10. Evaluate termination of uneconomic sectors.",
+            "11. Prevent movement of residues.",
+            "12. Notify neighbouring fields.",
+            "13. Continue trap monitoring after removal.",
+            "14. Document the causes leading to the critical condition."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Form a rapid-assessment team.",
+            "[[prepared]]2. Verify the diagnosis.",
+            "[[prepared]]3. Determine fruit infestation and expected loss.",
+            "[[prepared]]4. Review all previous treatments.",
+            "[[prepared]]5. Collect samples for susceptibility testing.",
+            "[[prepared]]6. Stop use of the group suspected of failure.",
+            "[[prepared]]7. Use a registered alternative with a different [[term:mode-of-action]]mode of action[[/term]] when economically justified.",
+            "[[prepared]]8. Collect or destroy infested fruits.",
+            "[[prepared]]9. Evaluate advancing harvest.",
+            "[[prepared]]10. Evaluate termination of uneconomic sectors.",
+            "[[prepared]]11. Prevent movement of residues.",
+            "[[prepared]]12. Notify neighbouring fields.",
+            "[[prepared]]13. Continue trap monitoring after removal.",
+            "[[prepared]]14. Document the causes leading to the critical condition."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Terminating a severely infested sector may be more economical than continuing repeated sprays that cannot protect an economic crop.",
+          "prepared_text": "[[prepared]]Terminating a severely infested sector may be more economical than continuing repeated sprays that cannot protect an economic crop."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Principal Decision-Making Matrix"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Traps",
+            "Eggs",
+            "Larvae and Mines",
+            "Fruits",
+            "Natural Enemies",
+            "Decision Level",
+            "Principal Action"
+          ],
+          "rows": [
+            [
+              "Low and stable",
+              "Absent",
+              "Absent",
+              "Sound",
+              "Present",
+              "Green",
+              "Continue monitoring and protect beneficial organisms"
+            ],
+            [
+              "High once",
+              "Absent",
+              "Absent",
+              "Sound",
+              "Present",
+              "Yellow",
+              "Intensify inspection and review the source"
+            ],
+            [
+              "Increasing",
+              "Limited eggs",
+              "No clear hatching",
+              "Sound",
+              "High",
+              "Yellow",
+              "Protect parasitoids and reinspect"
+            ],
+            [
+              "Increasing",
+              "Repeated eggs",
+              "Limited L1",
+              "Sound",
+              "Moderate",
+              "Orange",
+              "Egg parasitoids and a compatible early-stage agent"
+            ],
+            [
+              "Moderate or high",
+              "Present",
+              "Increasing L1 and L2",
+              "Sound",
+              "Low",
+              "High orange",
+              "Early selective intervention and rapid evaluation"
+            ],
+            [
+              "Any level",
+              "Limited",
+              "Localized hotspot",
+              "Sound",
+              "Present",
+              "Localized orange",
+              "Treat the hotspot rather than the entire field"
+            ],
+            [
+              "Increasing",
+              "Present",
+              "Widespread L2 and L3",
+              "First infestation",
+              "Weak",
+              "Red",
+              "Corrective intervention and fruit protection"
+            ],
+            [
+              "High",
+              "Continuous",
+              "Multiple instars",
+              "Increasing infestation",
+              "Collapsed",
+              "Critical",
+              "Containment, resistance investigation, and economic evaluation"
+            ],
+            [
+              "Low",
+              "Present",
+              "Active larvae",
+              "Infested",
+              "Insufficient",
+              "Red",
+              "Do not cancel action because trap catch is low"
+            ],
+            [
+              "High",
+              "Absent",
+              "Absent",
+              "Sound",
+              "Present",
+              "Yellow",
+              "Do not spray from trap data alone; identify the immigration source"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Traps",
+            "[[prepared]]Eggs",
+            "[[prepared]]Larvae and Mines",
+            "[[prepared]]Fruits",
+            "[[prepared]]Natural Enemies",
+            "[[prepared]]Decision Level",
+            "[[prepared]]Principal Action"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Low and stable",
+              "[[prepared]]Absent",
+              "[[prepared]]Absent",
+              "[[prepared]]Sound",
+              "[[prepared]]Present",
+              "[[prepared]]Green",
+              "[[prepared]]Continue monitoring and protect beneficial organisms"
+            ],
+            [
+              "[[prepared]]High once",
+              "[[prepared]]Absent",
+              "[[prepared]]Absent",
+              "[[prepared]]Sound",
+              "[[prepared]]Present",
+              "[[prepared]]Yellow",
+              "[[prepared]]Intensify inspection and review the source"
+            ],
+            [
+              "[[prepared]]Increasing",
+              "[[prepared]]Limited eggs",
+              "[[prepared]]No clear hatching",
+              "[[prepared]]Sound",
+              "[[prepared]]High",
+              "[[prepared]]Yellow",
+              "[[prepared]]Protect parasitoids and reinspect"
+            ],
+            [
+              "[[prepared]]Increasing",
+              "[[prepared]]Repeated eggs",
+              "[[prepared]]Limited L1",
+              "[[prepared]]Sound",
+              "[[prepared]]Moderate",
+              "[[prepared]]Orange",
+              "[[prepared]]Egg parasitoids and a compatible early-stage agent"
+            ],
+            [
+              "[[prepared]]Moderate or high",
+              "[[prepared]]Present",
+              "[[prepared]]Increasing L1 and L2",
+              "[[prepared]]Sound",
+              "[[prepared]]Low",
+              "[[prepared]]High orange",
+              "[[prepared]]Early selective intervention and rapid evaluation"
+            ],
+            [
+              "[[prepared]]Any level",
+              "[[prepared]]Limited",
+              "[[prepared]]Localized hotspot",
+              "[[prepared]]Sound",
+              "[[prepared]]Present",
+              "[[prepared]]Localized orange",
+              "[[prepared]]Treat the hotspot rather than the entire field"
+            ],
+            [
+              "[[prepared]]Increasing",
+              "[[prepared]]Present",
+              "[[prepared]]Widespread L2 and L3",
+              "[[prepared]]First infestation",
+              "[[prepared]]Weak",
+              "[[prepared]]Red",
+              "[[prepared]]Corrective intervention and fruit protection"
+            ],
+            [
+              "[[prepared]]High",
+              "[[prepared]]Continuous",
+              "[[prepared]]Multiple instars",
+              "[[prepared]]Increasing infestation",
+              "[[prepared]]Collapsed",
+              "[[prepared]]Critical",
+              "[[prepared]]Containment, resistance investigation, and economic evaluation"
+            ],
+            [
+              "[[prepared]]Low",
+              "[[prepared]]Present",
+              "[[prepared]]Active larvae",
+              "[[prepared]]Infested",
+              "[[prepared]]Insufficient",
+              "[[prepared]]Red",
+              "[[prepared]]Do not cancel action because trap catch is low"
+            ],
+            [
+              "[[prepared]]High",
+              "[[prepared]]Absent",
+              "[[prepared]]Absent",
+              "[[prepared]]Sound",
+              "[[prepared]]Present",
+              "[[prepared]]Yellow",
+              "[[prepared]]Do not spray from trap data alone; identify the immigration source"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "High Trap Catch Without Plant Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may result from:",
+          "prepared_text": "[[prepared]]This may result from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Passage of migrating moths.",
+            "A nearby source field.",
+            "A highly effective lure.",
+            "Male aggregation around the trap.",
+            "Oviposition not yet beginning.",
+            "An inadequate plant sample."
+          ],
+          "prepared_items": [
+            "[[prepared]]Passage of migrating moths.",
+            "[[prepared]]A nearby source field.",
+            "[[prepared]]A highly effective lure.",
+            "[[prepared]]Male aggregation around the trap.",
+            "[[prepared]]Oviposition not yet beginning.",
+            "[[prepared]]An inadequate plant sample."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The correct decision is to:",
+          "prepared_text": "[[prepared]]The correct decision is to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confirm trap condition.",
+            "Increase plant inspection.",
+            "Inspect field edges.",
+            "Identify the source.",
+            "Prepare for an egg-laying wave."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confirm trap condition.",
+            "[[prepared]]Increase plant inspection.",
+            "[[prepared]]Inspect field edges.",
+            "[[prepared]]Identify the source.",
+            "[[prepared]]Prepare for an egg-laying wave."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The correct decision is not automatically to spray.",
+          "prepared_text": "[[prepared]]The correct decision is not automatically to spray."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Low Trap Catch with Eggs and Larvae Present"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may occur because of:",
+          "prepared_text": "[[prepared]]This may occur because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A weak lure.",
+            "Poor trap location.",
+            "Trap loss.",
+            "Entry of already mated females.",
+            "Differences in male activity.",
+            "Failure of the trap to represent the hotspot.",
+            "An internal generation established earlier."
+          ],
+          "prepared_items": [
+            "[[prepared]]A weak lure.",
+            "[[prepared]]Poor trap location.",
+            "[[prepared]]Trap loss.",
+            "[[prepared]]Entry of already mated females.",
+            "[[prepared]]Differences in male activity.",
+            "[[prepared]]Failure of the trap to represent the hotspot.",
+            "[[prepared]]An internal generation established earlier."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In this case, plant data take priority.",
+          "prepared_text": "[[prepared]]In this case, plant data take priority."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Required intervention should not be cancelled because trap catch is low.",
+          "prepared_text": "[[prepared]]Required intervention should not be cancelled because trap catch is low."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "High Mine Density Without Live Larvae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The mines may be:",
+          "prepared_text": "[[prepared]]The mines may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Old.",
+            "Empty after larval exit.",
+            "Containing a parasitized larva.",
+            "Produced by a wave preceding treatment.",
+            "Dry and inactive."
+          ],
+          "prepared_items": [
+            "[[prepared]]Old.",
+            "[[prepared]]Empty after larval exit.",
+            "[[prepared]]Containing a parasitized larva.",
+            "[[prepared]]Produced by a wave preceding treatment.",
+            "[[prepared]]Dry and inactive."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision should be to:",
+          "prepared_text": "[[prepared]]The decision should be to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoid automatically counting them as active infestation.",
+            "Check for fresh frass.",
+            "Distinguish new mines.",
+            "Mark and follow a group of mines.",
+            "Search for larvae in fruits or growing points."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoid automatically counting them as active infestation.",
+            "[[prepared]]Check for fresh [[term:frass]]frass[[/term]].",
+            "[[prepared]]Distinguish new mines.",
+            "[[prepared]]Mark and follow a group of mines.",
+            "[[prepared]]Search for larvae in fruits or growing points."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Spraying should not be repeated merely because visible damage remains.",
+          "prepared_text": "[[prepared]]Spraying should not be repeated merely because visible damage remains."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Limited Leaf Mines with High Fruit Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This condition may indicate:",
+          "prepared_text": "[[prepared]]This condition may indicate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval movement into fruits.",
+            "Inadequate leaf sampling.",
+            "Infestation concentrated near clusters.",
+            "Loss of infested leaves.",
+            "Old infestation within fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larval movement into fruits.",
+            "[[prepared]]Inadequate leaf sampling.",
+            "[[prepared]]Infestation concentrated near clusters.",
+            "[[prepared]]Loss of infested leaves.",
+            "[[prepared]]Old infestation within fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It requires:",
+          "prepared_text": "[[prepared]]It requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Expanded fruit inspection.",
+            "Examination beneath the calyx.",
+            "Collection of infested fruits.",
+            "Protection of sound fruits.",
+            "Review of the timing of detection of the previous generation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Expanded fruit inspection.",
+            "[[prepared]]Examination beneath the calyx.",
+            "[[prepared]]Collection of infested fruits.",
+            "[[prepared]]Protection of sound fruits.",
+            "[[prepared]]Review of the timing of detection of the previous generation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Low leaf-mine counts should not reduce the perceived seriousness of the condition.",
+          "prepared_text": "[[prepared]]Low leaf-mine counts should not reduce the perceived seriousness of the condition."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Parasitized Eggs and Decision-Making"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Eggs should be classified as:",
+          "prepared_text": "[[prepared]]Eggs should be classified as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fresh and viable.",
+            "Close to hatching.",
+            "Parasitized.",
+            "Dead or non-viable.",
+            "Hatched."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fresh and viable.",
+            "[[prepared]]Close to hatching.",
+            "[[prepared]]Parasitized.",
+            "[[prepared]]Dead or non-viable.",
+            "[[prepared]]Hatched."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Expected number of hatching eggs = Live unparasitized eggs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Recognizing that field assessment contains some error.",
+          "prepared_text": "[[prepared]]Recognizing that field assessment contains some error."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When parasitism is high:",
+          "prepared_text": "[[prepared]]When parasitism is high:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoid pesticides harmful to parasitoids.",
+            "Monitor successful parasitoid emergence.",
+            "Measure continued appearance of new eggs.",
+            "Do not rely on percentage alone."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoid pesticides harmful to parasitoids.",
+            "[[prepared]]Monitor successful parasitoid emergence.",
+            "[[prepared]]Measure continued appearance of new eggs.",
+            "[[prepared]]Do not rely on percentage alone."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Predators and Decision-Making"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be recorded separately:",
+          "prepared_text": "[[prepared]]The following should be recorded separately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Adults.",
+            "Nymphs.",
+            "Species.",
+            "Evidence of reproduction.",
+            "Presence of alternative prey."
+          ],
+          "prepared_items": [
+            "[[prepared]]Adults.",
+            "[[prepared]]Nymphs.",
+            "[[prepared]]Species.",
+            "[[prepared]]Evidence of reproduction.",
+            "[[prepared]]Presence of alternative prey."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Predator value is greater when:",
+          "prepared_text": "[[prepared]]Predator value is greater when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Several nymphal stages are present.",
+            "Predators are distributed across the field.",
+            "Egg consumption is evident.",
+            "Severe plant injury is absent.",
+            "No recent toxic insecticide exposure has occurred."
+          ],
+          "prepared_items": [
+            "[[prepared]]Several nymphal stages are present.",
+            "[[prepared]]Predators are distributed across the field.",
+            "[[prepared]]Egg consumption is evident.",
+            "[[prepared]]Severe plant injury is absent.",
+            "[[prepared]]No recent toxic insecticide exposure has occurred."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Necessary intervention should not be delayed when pest density rises rapidly and predators are scarce or localized.",
+          "prepared_text": "[[prepared]]Necessary intervention should not be delayed when pest density rises rapidly and predators are scarce or localized."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Larval Parasitoids and Decision-Making"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae and mines should be examined for:",
+          "prepared_text": "[[prepared]]Larvae and mines should be examined for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Host paralysis.",
+            "External parasitoid larvae.",
+            "Cocoons.",
+            "Emergence signs.",
+            "Cessation of host feeding."
+          ],
+          "prepared_items": [
+            "[[prepared]]Host paralysis.",
+            "[[prepared]]External parasitoid larvae.",
+            "[[prepared]]Cocoons.",
+            "[[prepared]]Emergence signs.",
+            "[[prepared]]Cessation of host feeding."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The effect of larval parasitoids may not immediately appear as a reduction in mine numbers.",
+          "prepared_text": "[[prepared]]The effect of larval parasitoids may not immediately appear as a reduction in mine numbers."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When their activity is high:",
+          "prepared_text": "[[prepared]]When their activity is high:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Select compatible insecticides.",
+            "Avoid unnecessary direct spraying.",
+            "Allow time for their effect where fruits are not threatened."
+          ],
+          "prepared_items": [
+            "[[prepared]]Select compatible insecticides.",
+            "[[prepared]]Avoid unnecessary direct spraying.",
+            "[[prepared]]Allow time for their effect where fruits are not threatened."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When infestation is approaching fruits, a slow future effect should not be relied upon alone.",
+          "prepared_text": "[[prepared]]When infestation is approaching fruits, a slow future effect should not be relied upon alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Crop Stage"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Before Flowering"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Priority is given to:",
+          "prepared_text": "[[prepared]]Priority is given to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Protecting growing points.",
+            "Preventing establishment of the first generation.",
+            "Supporting natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Protecting growing points.",
+            "[[prepared]]Preventing establishment of the first generation.",
+            "[[prepared]]Supporting natural enemies."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Flowering and Fruit Set"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Greater importance is given to:",
+          "prepared_text": "[[prepared]]Greater importance is given to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Clusters.",
+            "Flowers.",
+            "Leaves adjacent to fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Clusters.",
+            "[[prepared]]Flowers.",
+            "[[prepared]]Leaves adjacent to fruits."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fruit Growth"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Decision sensitivity increases because larvae may enter fruits.",
+          "prepared_text": "[[prepared]]Decision sensitivity increases because larvae may enter fruits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Ripening"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Greater importance is given to:",
+          "prepared_text": "[[prepared]]Greater importance is given to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Preharvest interval.",
+            "Residues.",
+            "Economic justification of intervention.",
+            "Possibility of advancing harvest."
+          ],
+          "prepared_items": [
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Residues.",
+            "[[prepared]]Economic justification of intervention.",
+            "[[prepared]]Possibility of advancing harvest."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "During Harvest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Priority is given to:",
+          "prepared_text": "[[prepared]]Priority is given to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Sorting.",
+            "Collection of infested fruits.",
+            "Preventing the field from becoming a source."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sorting.",
+            "[[prepared]]Collection of infested fruits.",
+            "[[prepared]]Preventing the field from becoming a source."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision Matrix According to Crop Stage"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Crop Stage",
+            "Most Important Indicator",
+            "Tolerance Level",
+            "Priority"
+          ],
+          "rows": [
+            [
+              "Nursery",
+              "Presence of any egg or mine",
+              "Extremely low",
+              "Prevent transfer of infestation"
+            ],
+            [
+              "After transplanting",
+              "Growing points and eggs",
+              "Low",
+              "Prevent generation establishment"
+            ],
+            [
+              "Vegetative growth",
+              "Active mines and instars",
+              "Conditionally moderate",
+              "Support natural enemies and target hatching"
+            ],
+            [
+              "Flowering",
+              "Growing points, flowers, and clusters",
+              "Low",
+              "Protect fruit set"
+            ],
+            [
+              "Small fruits",
+              "Eggs and L1 near clusters",
+              "Extremely low",
+              "Prevent fruit entry"
+            ],
+            [
+              "Fruit filling",
+              "Percentage of infested fruits",
+              "Extremely low",
+              "Protect acceptable yield"
+            ],
+            [
+              "Ripening",
+              "Fruits and PHI",
+              "Determined economically and regulatorily",
+              "Protect harvest without violations"
+            ],
+            [
+              "Postharvest",
+              "Remaining stages and residues",
+              "No tolerance for a source",
+              "Break the pest cycle"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Crop Stage",
+            "[[prepared]]Most Important Indicator",
+            "[[prepared]]Tolerance Level",
+            "[[prepared]]Priority"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Nursery",
+              "[[prepared]]Presence of any egg or mine",
+              "[[prepared]]Extremely low",
+              "[[prepared]]Prevent transfer of infestation"
+            ],
+            [
+              "[[prepared]]After transplanting",
+              "[[prepared]]Growing points and eggs",
+              "[[prepared]]Low",
+              "[[prepared]]Prevent generation establishment"
+            ],
+            [
+              "[[prepared]]Vegetative growth",
+              "[[prepared]]Active mines and instars",
+              "[[prepared]]Conditionally moderate",
+              "[[prepared]]Support natural enemies and target hatching"
+            ],
+            [
+              "[[prepared]]Flowering",
+              "[[prepared]]Growing points, flowers, and clusters",
+              "[[prepared]]Low",
+              "[[prepared]]Protect fruit set"
+            ],
+            [
+              "[[prepared]]Small fruits",
+              "[[prepared]]Eggs and L1 near clusters",
+              "[[prepared]]Extremely low",
+              "[[prepared]]Prevent fruit entry"
+            ],
+            [
+              "[[prepared]]Fruit filling",
+              "[[prepared]]Percentage of infested fruits",
+              "[[prepared]]Extremely low",
+              "[[prepared]]Protect acceptable yield"
+            ],
+            [
+              "[[prepared]]Ripening",
+              "[[prepared]]Fruits and [[term:pesticide-safety]]PHI[[/term]]",
+              "[[prepared]]Determined economically and regulatorily",
+              "[[prepared]]Protect harvest without violations"
+            ],
+            [
+              "[[prepared]]Postharvest",
+              "[[prepared]]Remaining stages and residues",
+              "[[prepared]]No tolerance for a source",
+              "[[prepared]]Break the pest cycle"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision-Making in the Nursery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The operational threshold in the nursery is extremely low because infested transplants can distribute the pest over large areas.",
+          "prepared_text": "[[prepared]]The operational threshold in the nursery is extremely low because infested transplants can distribute the pest over large areas."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "When No Infestation Is Present"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Continue screening and traps.",
+            "Inspect batches.",
+            "Maintain sanitation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Continue screening and traps.",
+            "[[prepared]]Inspect batches.",
+            "[[prepared]]Maintain sanitation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "When One Suspect Plant Is Present"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Isolate it.",
+            "Inspect adjacent trays.",
+            "Confirm identification."
+          ],
+          "prepared_items": [
+            "[[prepared]]Isolate it.",
+            "[[prepared]]Inspect adjacent trays.",
+            "[[prepared]]Confirm identification."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "When Infestation Is Distributed"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Stop batch dispatch.",
+            "Isolate the batch.",
+            "Remove infested plants.",
+            "Assess the extent of establishment.",
+            "Reject the batch if freedom from live stages cannot be guaranteed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Stop batch dispatch.",
+            "[[prepared]]Isolate the batch.",
+            "[[prepared]]Remove infested plants.",
+            "[[prepared]]Assess the extent of establishment.",
+            "[[prepared]]Reject the batch if freedom from live stages cannot be guaranteed."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Spraying the batch and moving it immediately is insufficient.",
+          "prepared_text": "[[prepared]]Spraying the batch and moving it immediately is insufficient."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision-Making During the First Weeks After Transplanting"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Priority is given to identifying the infestation source.",
+          "prepared_text": "[[prepared]]Priority is given to identifying the infestation source."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Infestation Restricted to One Transplant Batch"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This suggests association with the nursery or batch.",
+          "prepared_text": "[[prepared]]This suggests association with the nursery or batch."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Infestation on the Edge Facing an Old Field"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This suggests immigration pressure.",
+          "prepared_text": "[[prepared]]This suggests immigration pressure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Randomly Distributed Infestation Within the Field"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This requires review of transplant history and moth arrival.",
+          "prepared_text": "[[prepared]]This requires review of transplant history and moth arrival."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Intervention should be early and localized where possible, while preventing spread into new growing points.",
+          "prepared_text": "[[prepared]]Intervention should be early and localized where possible, while preventing spread into new growing points."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision-Making During Flowering and Fruit Set"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Risk should be increased when the following occur:",
+          "prepared_text": "[[prepared]]Risk should be increased when the following occur:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs on leaves near flowers.",
+            "Mines in growing points.",
+            "Larvae near clusters.",
+            "Holes in flowers or calyces.",
+            "Declining canopy cover."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs on leaves near flowers.",
+            "[[prepared]]Mines in growing points.",
+            "[[prepared]]Larvae near clusters.",
+            "[[prepared]]Holes in flowers or calyces.",
+            "[[prepared]]Declining canopy cover."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision should be less tolerant of delay because damage can move rapidly from leaf to fruit.",
+          "prepared_text": "[[prepared]]The decision should be less tolerant of delay because damage can move rapidly from leaf to fruit."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision-Making During the Fruit Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following indicators should be included:",
+          "prepared_text": "[[prepared]]The following indicators should be included:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage of infested fruits.",
+            "Location of infested fruits.",
+            "Presence of live larvae.",
+            "Rot percentage.",
+            "Weight rejected.",
+            "Time remaining until harvest.",
+            "Market or factory specifications."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage of infested fruits.",
+            "[[prepared]]Location of infested fruits.",
+            "[[prepared]]Presence of live larvae.",
+            "[[prepared]]Rot percentage.",
+            "[[prepared]]Weight rejected.",
+            "[[prepared]]Time remaining until harvest.",
+            "[[prepared]]Market or factory specifications."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision should be based on the value of fruits already present, not only expectations of vegetative recovery.",
+          "prepared_text": "[[prepared]]The decision should be based on the value of fruits already present, not only expectations of vegetative recovery."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision-Making Near Harvest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before any intervention, review:",
+          "prepared_text": "[[prepared]]Before any intervention, review:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Preharvest interval.",
+            "2. Maximum number of applications.",
+            "3. Materials used previously.",
+            "4. Target market.",
+            "5. Ripening percentage.",
+            "6. Possibility of advancing harvest.",
+            "7. Percentage of infested fruits.",
+            "8. Time required for the measure to act."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Preharvest interval.",
+            "[[prepared]]2. Maximum number of applications.",
+            "[[prepared]]3. Materials used previously.",
+            "[[prepared]]4. Target market.",
+            "[[prepared]]5. Ripening percentage.",
+            "[[prepared]]6. Possibility of advancing harvest.",
+            "[[prepared]]7. Percentage of infested fruits.",
+            "[[prepared]]8. Time required for the measure to act."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A slow-acting method should not be used when harvest will begin before benefit appears, unless the objective is to prevent the field becoming a postharvest source.",
+          "prepared_text": "[[prepared]]A slow-acting method should not be used when harvest will begin before benefit appears, unless the objective is to prevent the field becoming a postharvest source."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Neighbouring Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "External risk should be rated high when:",
+          "prepared_text": "[[prepared]]External risk should be rated high when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A heavily infested old field is present.",
+            "Spraying has stopped in that field.",
+            "Final harvesting has begun.",
+            "Irrigation has stopped.",
+            "Plants are being shredded.",
+            "Living residues remain.",
+            "Trap catches increase on the facing edge."
+          ],
+          "prepared_items": [
+            "[[prepared]]A heavily infested old field is present.",
+            "[[prepared]]Spraying has stopped in that field.",
+            "[[prepared]]Final harvesting has begun.",
+            "[[prepared]]Irrigation has stopped.",
+            "[[prepared]]Plants are being shredded.",
+            "[[prepared]]Living residues remain.",
+            "[[prepared]]Trap catches increase on the facing edge."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not automatically require preventive spraying, but it does require:",
+          "prepared_text": "[[prepared]]This does not automatically require preventive spraying, but it does require:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Intensified inspection.",
+            "Egg inspection.",
+            "Edge protection.",
+            "Coordination with the source field.",
+            "Readiness for rapid intervention."
+          ],
+          "prepared_items": [
+            "[[prepared]]Intensified inspection.",
+            "[[prepared]]Egg inspection.",
+            "[[prepared]]Edge protection.",
+            "[[prepared]]Coordination with the source field.",
+            "[[prepared]]Readiness for rapid intervention."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Immigration Wave Versus Internal Reproduction"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Evidence of External Immigration"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Sudden increase in edge traps.",
+            "Eggs concentrated near the edge.",
+            "Increase associated with removal of a neighbouring field.",
+            "Lower infestation in the field interior."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sudden increase in edge traps.",
+            "[[prepared]]Eggs concentrated near the edge.",
+            "[[prepared]]Increase associated with removal of a neighbouring field.",
+            "[[prepared]]Lower infestation in the field interior."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Evidence of Internal Reproduction"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Presence of multiple instars.",
+            "Mines distributed across the field.",
+            "Presence of pupae or a succeeding generation.",
+            "Continued oviposition without a clear external source.",
+            "Increased internal trap catch."
+          ],
+          "prepared_items": [
+            "[[prepared]]Presence of multiple instars.",
+            "[[prepared]]Mines distributed across the field.",
+            "[[prepared]]Presence of pupae or a succeeding generation.",
+            "[[prepared]]Continued oviposition without a clear external source.",
+            "[[prepared]]Increased internal trap catch."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Both processes may occur together, requiring management of the external source and the internal generation.",
+          "prepared_text": "[[prepared]]Both processes may occur together, requiring management of the external source and the internal generation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Natural-Enemy and Intervention Matrix"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Natural-Enemy Status",
+            "Pest Status",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "High and stable",
+              "Pest low",
+              "Protect and continue monitoring"
+            ],
+            [
+              "High",
+              "Eggs high but few remain unparasitized",
+              "Defer chemical treatment and reassess"
+            ],
+            [
+              "High",
+              "Larvae and fruit infestation increasing",
+              "Use a compatible selective intervention"
+            ],
+            [
+              "Low",
+              "Egg density beginning to increase",
+              "Early biological augmentation"
+            ],
+            [
+              "Low",
+              "Increasing L1 and L2",
+              "Early-stage agent or selective intervention"
+            ],
+            [
+              "Collapsed after pesticide",
+              "Pest increasing",
+              "Stop the disruptive material and rebuild the programme"
+            ],
+            [
+              "Unknown",
+              "Data insufficient",
+              "Measure before deciding when time permits"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Natural-Enemy Status",
+            "[[prepared]]Pest Status",
+            "[[prepared]]Decision"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]High and stable",
+              "[[prepared]]Pest low",
+              "[[prepared]]Protect and continue monitoring"
+            ],
+            [
+              "[[prepared]]High",
+              "[[prepared]]Eggs high but few remain unparasitized",
+              "[[prepared]]Defer chemical treatment and reassess"
+            ],
+            [
+              "[[prepared]]High",
+              "[[prepared]]Larvae and fruit infestation increasing",
+              "[[prepared]]Use a compatible selective intervention"
+            ],
+            [
+              "[[prepared]]Low",
+              "[[prepared]]Egg density beginning to increase",
+              "[[prepared]]Early biological augmentation"
+            ],
+            [
+              "[[prepared]]Low",
+              "[[prepared]]Increasing L1 and L2",
+              "[[prepared]]Early-stage agent or selective intervention"
+            ],
+            [
+              "[[prepared]]Collapsed after pesticide",
+              "[[prepared]]Pest increasing",
+              "[[prepared]]Stop the disruptive material and rebuild the programme"
+            ],
+            [
+              "[[prepared]]Unknown",
+              "[[prepared]]Data insufficient",
+              "[[prepared]]Measure before deciding when time permits"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The presence of one natural enemy on several plants does not mean natural regulation is sufficient.",
+          "prepared_text": "[[prepared]]The presence of one natural enemy on several plants does not mean natural regulation is sufficient."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Selecting the Type of Intervention"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Monitoring Only"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selected when no active infestation exists or the trend is stable and low.",
+          "prepared_text": "[[prepared]]Selected when no active infestation exists or the trend is stable and low."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Intensified Prevention"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Includes:",
+          "prepared_text": "[[prepared]]Includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased inspection.",
+            "Removal of sources.",
+            "Edge protection.",
+            "Support of the biological belt."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increased inspection.",
+            "[[prepared]]Removal of sources.",
+            "[[prepared]]Edge protection.",
+            "[[prepared]]Support of the biological belt."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Biological Intervention"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selected when:",
+          "prepared_text": "[[prepared]]Selected when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A suitable pest stage is present.",
+            "Pest density is low or moderate.",
+            "Sufficient time exists for the effect to appear.",
+            "Harmful residues are absent."
+          ],
+          "prepared_items": [
+            "[[prepared]]A suitable pest stage is present.",
+            "[[prepared]]Pest density is low or moderate.",
+            "[[prepared]]Sufficient time exists for the effect to appear.",
+            "[[prepared]]Harmful residues are absent."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Microbial Intervention"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selected when:",
+          "prepared_text": "[[prepared]]Selected when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs are near hatching or young larvae are present.",
+            "Application conditions are suitable.",
+            "A viable registered product is available."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs are near hatching or young larvae are present.",
+            "[[prepared]]Application conditions are suitable.",
+            "[[prepared]]A viable registered product is available."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Localized Intervention"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selected when infestation is spatially limited.",
+          "prepared_text": "[[prepared]]Selected when infestation is spatially limited."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Selective Chemical Intervention"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selected when damage is likely to exceed the capacity of natural regulation or threatens fruits.",
+          "prepared_text": "[[prepared]]Selected when damage is likely to exceed the capacity of natural regulation or threatens fruits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Containment or Sector Termination"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selected when economic viability declines or the sector becomes a source of risk.",
+          "prepared_text": "[[prepared]]Selected when economic viability declines or the sector becomes a source of risk."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Prioritizing Among Multiple Options"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selection should follow these criteria:",
+          "prepared_text": "[[prepared]]Selection should follow these criteria:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Capacity to target the dominant stage.",
+            "2. Required speed of action.",
+            "3. Protection of fruits.",
+            "4. Compatibility with natural enemies.",
+            "5. Legal registration.",
+            "6. Preharvest interval.",
+            "7. Previous IRAC group.",
+            "8. Resistance risk.",
+            "9. Achievable coverage quality.",
+            "10. Cost.",
+            "11. Environmental effect.",
+            "12. Ability to evaluate the outcome."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Capacity to target the dominant stage.",
+            "[[prepared]]2. Required speed of action.",
+            "[[prepared]]3. Protection of fruits.",
+            "[[prepared]]4. Compatibility with natural enemies.",
+            "[[prepared]]5. Legal registration.",
+            "[[prepared]]6. Preharvest interval.",
+            "[[prepared]]7. Previous IRAC group.",
+            "[[prepared]]8. Resistance risk.",
+            "[[prepared]]9. Achievable coverage quality.",
+            "[[prepared]]10. Cost.",
+            "[[prepared]]11. Environmental effect.",
+            "[[prepared]]12. Ability to evaluate the outcome."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The least expensive product should not be selected if it cannot reach the stage present or causes loss of natural control.",
+          "prepared_text": "[[prepared]]The least expensive product should not be selected if it cannot reach the stage present or causes loss of natural control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Reviewing the IRAC Record Before a Decision"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before any insecticide is used, record:",
+          "prepared_text": "[[prepared]]Before any insecticide is used, record:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active ingredient.",
+            "Group number.",
+            "Date of most recent use.",
+            "Number of applications.",
+            "Current window.",
+            "Group used against the previous generation.",
+            "Any previous failure."
+          ],
+          "prepared_items": [
+            "[[prepared]][[term:active-ingredient]]Active ingredient[[/term]].",
+            "[[prepared]]Group number.",
+            "[[prepared]]Date of most recent use.",
+            "[[prepared]]Number of applications.",
+            "[[prepared]]Current window.",
+            "[[prepared]]Group used against the previous generation.",
+            "[[prepared]]Any previous failure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Switching between active ingredients within the same group is not true rotation.",
+          "prepared_text": "[[prepared]]Switching between active ingredients within the same group is not true rotation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Declining efficacy should not be addressed by repeating the same group under a different trade name.",
+          "prepared_text": "[[prepared]]Declining efficacy should not be addressed by repeating the same group under a different trade name."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Reviewing the Preharvest Interval"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "As harvest approaches, exclude any option that does not permit compliance with:",
+          "prepared_text": "[[prepared]]As harvest approaches, exclude any option that does not permit compliance with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The registered preharvest interval.",
+            "The permitted number of applications.",
+            "Market conditions.",
+            "Factory requirements.",
+            "Residue limits."
+          ],
+          "prepared_items": [
+            "[[prepared]]The registered preharvest interval.",
+            "[[prepared]]The permitted number of applications.",
+            "[[prepared]]Market conditions.",
+            "[[prepared]]Factory requirements.",
+            "[[prepared]]Residue limits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A short preharvest interval does not mean the material is biologically optimal; it may not target the stage present or may harm natural enemies.",
+          "prepared_text": "[[prepared]]A short preharvest interval does not mean the material is biologically optimal; it may not target the stage present or may harm natural enemies."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Defining the Reassessment Date"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The reassessment date should be set before treatment.",
+          "prepared_text": "[[prepared]]The reassessment date should be set before treatment."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It depends on:",
+          "prepared_text": "[[prepared]]It depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mode of action.",
+            "Temperature.",
+            "Age of eggs and larvae.",
+            "Speed of infestation development.",
+            "Proximity to fruits.",
+            "Harvest stage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mode of action.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Age of eggs and larvae.",
+            "[[prepared]]Speed of infestation development.",
+            "[[prepared]]Proximity to fruits.",
+            "[[prepared]]Harvest stage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reassessment should be more rapid when:",
+          "prepared_text": "[[prepared]]Reassessment should be more rapid when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Temperature is high.",
+            "Eggs are close to hatching.",
+            "Fruit infestation has appeared.",
+            "Immigration pressure continues.",
+            "Treatment failure is suspected."
+          ],
+          "prepared_items": [
+            "[[prepared]]Temperature is high.",
+            "[[prepared]]Eggs are close to hatching.",
+            "[[prepared]]Fruit infestation has appeared.",
+            "[[prepared]]Immigration pressure continues.",
+            "[[prepared]]Treatment failure is suspected."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One interval should not be used for all control methods.",
+          "prepared_text": "[[prepared]]One interval should not be used for all control methods."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Intervention Success"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An intervention is successful when one or more of the following occur:",
+          "prepared_text": "[[prepared]]An intervention is successful when one or more of the following occur:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Live unparasitized egg density declines.",
+            "New hatching declines.",
+            "Active mines stop increasing.",
+            "Live larvae decline.",
+            "Infestation does not spread to new sectors.",
+            "Fruit infestation stops increasing.",
+            "Natural enemies persist.",
+            "No rapid unplanned repeat treatment is required.",
+            "Good coverage is achieved.",
+            "Marketable yield is protected."
+          ],
+          "prepared_items": [
+            "[[prepared]]Live unparasitized egg density declines.",
+            "[[prepared]]New hatching declines.",
+            "[[prepared]]Active mines stop increasing.",
+            "[[prepared]]Live larvae decline.",
+            "[[prepared]]Infestation does not spread to new sectors.",
+            "[[prepared]]Fruit infestation stops increasing.",
+            "[[prepared]]Natural enemies persist.",
+            "[[prepared]]No rapid unplanned repeat treatment is required.",
+            "[[prepared]]Good coverage is achieved.",
+            "[[prepared]][[term:marketable-yield]]Marketable yield[[/term]] is protected."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Disappearance of moths from traps alone is not evidence of success.",
+          "prepared_text": "[[prepared]]Disappearance of moths from traps alone is not evidence of success."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Intervention Failure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Continued appearance of L1 after the expected action time.",
+            "Increasing L2 and L3.",
+            "New mines appearing in several sectors.",
+            "Increasing fruit infestation.",
+            "Live larvae remaining in well-covered areas.",
+            "Collapse of natural enemies.",
+            "Need to repeat the same group.",
+            "Strong variation among field areas.",
+            "Continued high immigration from outside."
+          ],
+          "prepared_items": [
+            "[[prepared]]Continued appearance of L1 after the expected action time.",
+            "[[prepared]]Increasing L2 and L3.",
+            "[[prepared]]New mines appearing in several sectors.",
+            "[[prepared]]Increasing fruit infestation.",
+            "[[prepared]]Live larvae remaining in well-covered areas.",
+            "[[prepared]]Collapse of natural enemies.",
+            "[[prepared]]Need to repeat the same group.",
+            "[[prepared]]Strong variation among field areas.",
+            "[[prepared]]Continued high immigration from outside."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be distinguished:",
+          "prepared_text": "[[prepared]]The following should be distinguished:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Product failure.",
+            "Application failure.",
+            "Timing failure.",
+            "Area-wide programme failure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Product failure.",
+            "[[prepared]]Application failure.",
+            "[[prepared]]Timing failure.",
+            "[[prepared]]Area-wide programme failure."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Failure-Investigation Tree"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When a treatment fails, follow this sequence.",
+          "prepared_text": "[[prepared]]When a treatment fails, follow this sequence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Question One: Was the Measured Infestation New?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If mines were old, there is insufficient evidence of failure.",
+          "prepared_text": "[[prepared]]If mines were old, there is insufficient evidence of failure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Question Two: Was the Target Stage Appropriate?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A product intended for early instars may fail against L4 inside fruits.",
+          "prepared_text": "[[prepared]]A product intended for early instars may fail against L4 inside fruits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Question Three: Did the Material Reach the Target?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Review coverage and calibration.",
+          "prepared_text": "[[prepared]]Review coverage and calibration."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Question Four: Did Weather Affect the Treatment?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Review wind, rainfall, and temperature.",
+          "prepared_text": "[[prepared]]Review wind, rainfall, and temperature."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Question Five: Was the Registered Dose Used?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Review calculations and preparation.",
+          "prepared_text": "[[prepared]]Review calculations and preparation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Question Six: Is There a New Immigration Wave?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Review field edges, traps, and neighbouring fields.",
+          "prepared_text": "[[prepared]]Review field edges, traps, and neighbouring fields."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Question Seven: Was the Group Repeated?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Review the IRAC window.",
+          "prepared_text": "[[prepared]]Review the IRAC window."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Question Eight: Is Resistance Present?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Collect samples and conduct susceptibility testing.",
+          "prepared_text": "[[prepared]]Collect samples and conduct susceptibility testing."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The investigation should not jump directly to the final question.",
+          "prepared_text": "[[prepared]]The investigation should not jump directly to the final question."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Optional Internal Scoring System"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A project may create a scoring system to help rank fields, provided it is not treated as a validated economic threshold.",
+          "prepared_text": "[[prepared]]A project may create a scoring system to help rank fields, provided it is not treated as a validated economic threshold."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Example:",
+          "prepared_text": "[[prepared]]Example:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Indicator",
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "rows": [
+            [
+              "---------",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "Trap trend",
+              "Low",
+              "Fluctuating",
+              "Increasing",
+              "Sharp increase"
+            ],
+            [
+              "Eggs",
+              "Absent",
+              "Scattered",
+              "Repeated",
+              "Dense"
+            ],
+            [
+              "Active mines",
+              "Absent",
+              "Localized",
+              "Widespread",
+              "Rapidly increasing"
+            ],
+            [
+              "Larval instar",
+              "Absent",
+              "L1",
+              "L2–L3",
+              "L3–L4"
+            ],
+            [
+              "Fruits",
+              "Sound",
+              "Suspect",
+              "Limited infestation",
+              "Increasing infestation"
+            ],
+            [
+              "Natural enemies",
+              "High",
+              "Moderate",
+              "Low",
+              "Collapsed"
+            ],
+            [
+              "External source",
+              "Absent",
+              "Possible",
+              "Nearby",
+              "Highly active"
+            ],
+            [
+              "Proximity to harvest",
+              "Distant",
+              "Intermediate",
+              "Near",
+              "Ongoing"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Indicator",
+            "[[prepared]]0",
+            "[[prepared]]1",
+            "[[prepared]]2",
+            "[[prepared]]3"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]---------",
+              "[[prepared]]-",
+              "[[prepared]]-",
+              "[[prepared]]-",
+              "[[prepared]]-"
+            ],
+            [
+              "[[prepared]]Trap trend",
+              "[[prepared]]Low",
+              "[[prepared]]Fluctuating",
+              "[[prepared]]Increasing",
+              "[[prepared]]Sharp increase"
+            ],
+            [
+              "[[prepared]]Eggs",
+              "[[prepared]]Absent",
+              "[[prepared]]Scattered",
+              "[[prepared]]Repeated",
+              "[[prepared]]Dense"
+            ],
+            [
+              "[[prepared]]Active mines",
+              "[[prepared]]Absent",
+              "[[prepared]]Localized",
+              "[[prepared]]Widespread",
+              "[[prepared]]Rapidly increasing"
+            ],
+            [
+              "[[prepared]]Larval instar",
+              "[[prepared]]Absent",
+              "[[prepared]]L1",
+              "[[prepared]]L2–L3",
+              "[[prepared]]L3–L4"
+            ],
+            [
+              "[[prepared]]Fruits",
+              "[[prepared]]Sound",
+              "[[prepared]]Suspect",
+              "[[prepared]]Limited infestation",
+              "[[prepared]]Increasing infestation"
+            ],
+            [
+              "[[prepared]]Natural enemies",
+              "[[prepared]]High",
+              "[[prepared]]Moderate",
+              "[[prepared]]Low",
+              "[[prepared]]Collapsed"
+            ],
+            [
+              "[[prepared]]External source",
+              "[[prepared]]Absent",
+              "[[prepared]]Possible",
+              "[[prepared]]Nearby",
+              "[[prepared]]Highly active"
+            ],
+            [
+              "[[prepared]]Proximity to harvest",
+              "[[prepared]]Distant",
+              "[[prepared]]Intermediate",
+              "[[prepared]]Near",
+              "[[prepared]]Ongoing"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Scores should not be summed mechanically to trigger spraying. They may be used to identify:",
+          "prepared_text": "[[prepared]]Scores should not be summed mechanically to trigger spraying. They may be used to identify:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fields requiring an urgent visit.",
+            "Sectors requiring additional data.",
+            "Priority level for response."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fields requiring an urgent visit.",
+            "[[prepared]]Sectors requiring additional data.",
+            "[[prepared]]Priority level for response."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The system should be calibrated using Egyptian field results before adoption.",
+          "prepared_text": "[[prepared]]The system should be calibrated using Egyptian field results before adoption."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Why Is There No General Numerical Threshold for Egypt?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Because intervention levels change with:",
+          "prepared_text": "[[prepared]]Because intervention levels change with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crop price.",
+            "Control cost.",
+            "Cultivar.",
+            "Fresh-market or processing use.",
+            "Plant stage.",
+            "Percentage of acceptable fruits.",
+            "Natural-enemy efficacy.",
+            "Temperature.",
+            "Pest-development speed.",
+            "Resistance.",
+            "Coverage level.",
+            "Immigration pressure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crop price.",
+            "[[prepared]]Control cost.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Fresh-market or processing use.",
+            "[[prepared]]Plant stage.",
+            "[[prepared]]Percentage of acceptable fruits.",
+            "[[prepared]]Natural-enemy efficacy.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Pest-development speed.",
+            "[[prepared]]Resistance.",
+            "[[prepared]]Coverage level.",
+            "[[prepared]]Immigration pressure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Published studies have produced different economic-threshold values under different countries, environments, and production systems.",
+          "prepared_text": "[[prepared]]Published studies have produced different economic-threshold values under different countries, environments, and production systems."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A figure expressed as:",
+          "prepared_text": "[[prepared]]A figure expressed as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larvae/plant.",
+            "Males/trap/week.",
+            "Mine percentage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larvae/plant.",
+            "[[prepared]]Males/trap/week.",
+            "[[prepared]]Mine percentage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Should therefore not be used as a general Egyptian threshold without local trials.",
+          "prepared_text": "[[prepared]]Should therefore not be used as a general Egyptian threshold without local trials."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Developing a Local Threshold"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Development of an Egyptian threshold requires:",
+          "prepared_text": "[[prepared]]Development of an Egyptian threshold requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Selecting a defined region and production cycle.",
+            "2. Selecting a known cultivar and production system.",
+            "3. Establishing different pest densities.",
+            "4. Measuring larvae and mines.",
+            "5. Measuring fruit infestation.",
+            "6. Measuring marketable yield.",
+            "7. Relating density to loss.",
+            "8. Calculating intervention cost.",
+            "9. Estimating control efficacy.",
+            "10. Using the actual crop price.",
+            "11. Repeating the experiment over two or more seasons.",
+            "12. Updating the threshold as prices and resistance change."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Selecting a defined region and production cycle.",
+            "[[prepared]]2. Selecting a known cultivar and production system.",
+            "[[prepared]]3. Establishing different pest densities.",
+            "[[prepared]]4. Measuring larvae and mines.",
+            "[[prepared]]5. Measuring fruit infestation.",
+            "[[prepared]]6. Measuring marketable yield.",
+            "[[prepared]]7. Relating density to loss.",
+            "[[prepared]]8. Calculating intervention cost.",
+            "[[prepared]]9. Estimating control efficacy.",
+            "[[prepared]]10. Using the actual crop price.",
+            "[[prepared]]11. Repeating the experiment over two or more seasons.",
+            "[[prepared]]12. Updating the threshold as prices and resistance change."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Separate thresholds should be developed for:",
+          "prepared_text": "[[prepared]]Separate thresholds should be developed for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Processing tomatoes.",
+            "Fresh-market tomatoes.",
+            "Short-cycle crops.",
+            "Long-cycle crops.",
+            "Winter production cycles.",
+            "Hot production cycles."
+          ],
+          "prepared_items": [
+            "[[prepared]]Processing tomatoes.",
+            "[[prepared]]Fresh-market tomatoes.",
+            "[[prepared]]Short-cycle crops.",
+            "[[prepared]]Long-cycle crops.",
+            "[[prepared]]Winter production cycles.",
+            "[[prepared]]Hot production cycles."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision-Record Template"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Date",
+            "Sector",
+            "Traps",
+            "Eggs",
+            "Parasitism",
+            "Active Mines",
+            "Larval Instars",
+            "Fruit Infestation",
+            "Natural Enemies",
+            "Risk Level",
+            "Decision",
+            "Assessment Date"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Date",
+            "[[prepared]]Sector",
+            "[[prepared]]Traps",
+            "[[prepared]]Eggs",
+            "[[prepared]]Parasitism",
+            "[[prepared]]Active Mines",
+            "[[prepared]]Larval Instars",
+            "[[prepared]]Fruit Infestation",
+            "[[prepared]]Natural Enemies",
+            "[[prepared]]Risk Level",
+            "[[prepared]]Decision",
+            "[[prepared]]Assessment Date"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The record should also include:",
+          "prepared_text": "[[prepared]]The record should also include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crop stage.",
+            "Potential source field.",
+            "Previous active ingredient and IRAC group.",
+            "Harvest date.",
+            "Person responsible for implementation.",
+            "Decision outcome."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Potential source field.",
+            "[[prepared]]Previous active ingredient and IRAC group.",
+            "[[prepared]]Harvest date.",
+            "[[prepared]]Person responsible for implementation.",
+            "[[prepared]]Decision outcome."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Chemical-Intervention Justification Card"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before issuing a spray order, complete the following information.",
+          "prepared_text": "[[prepared]]Before issuing a spray order, complete the following information."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Evidence of Need"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Which indicator increased?",
+            "Is damage active?",
+            "What is the larval instar?",
+            "Are fruits threatened?"
+          ],
+          "prepared_items": [
+            "[[prepared]]Which indicator increased?",
+            "[[prepared]]Is damage active?",
+            "[[prepared]]What is the larval instar?",
+            "[[prepared]]Are fruits threatened?"
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Evaluation of Alternatives"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Is localized treatment sufficient?",
+            "Can a biological agent be used?",
+            "What is the status of natural enemies?"
+          ],
+          "prepared_items": [
+            "[[prepared]]Is localized treatment sufficient?",
+            "[[prepared]]Can a biological agent be used?",
+            "[[prepared]]What is the status of natural enemies?"
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Product Review"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Is it registered?",
+            "What is its IRAC group?",
+            "Was it used against the previous generation?",
+            "What is the preharvest interval?",
+            "What is its effect on natural enemies?"
+          ],
+          "prepared_items": [
+            "[[prepared]]Is it registered?",
+            "[[prepared]]What is its IRAC group?",
+            "[[prepared]]Was it used against the previous generation?",
+            "[[prepared]]What is the preharvest interval?",
+            "[[prepared]]What is its effect on natural enemies?"
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Evaluation Plan"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "When will the field be reinspected?",
+            "What is the success indicator?",
+            "What action will follow failure?"
+          ],
+          "prepared_items": [
+            "[[prepared]]When will the field be reinspected?",
+            "[[prepared]]What is the success indicator?",
+            "[[prepared]]What action will follow failure?"
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A spray order should not be issued without a reviewable justification.",
+          "prepared_text": "[[prepared]]A spray order should not be issued without a reviewable justification."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Non-Intervention Decision Card"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Record that:",
+          "prepared_text": "[[prepared]]Record that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap catches do not show a persistent increasing trend.",
+            "No substantial live egg population is present.",
+            "Mines are old.",
+            "Live larvae are absent or limited.",
+            "Fruits are sound.",
+            "Natural enemies are effective.",
+            "No high-risk external source is present.",
+            "Reinspection will occur on the specified date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap catches do not show a persistent increasing trend.",
+            "[[prepared]]No substantial live egg population is present.",
+            "[[prepared]]Mines are old.",
+            "[[prepared]]Live larvae are absent or limited.",
+            "[[prepared]]Fruits are sound.",
+            "[[prepared]]Natural enemies are effective.",
+            "[[prepared]]No high-risk external source is present.",
+            "[[prepared]]Reinspection will occur on the specified date."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Documenting non-intervention demonstrates that it is based on monitoring rather than absence of follow-up.",
+          "prepared_text": "[[prepared]]Documenting non-intervention demonstrates that it is based on monitoring rather than absence of follow-up."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Concise Scenario Matrix"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Scenario",
+            "Most Likely Interpretation",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Increased trap catch only",
+              "Immigration or adult activity",
+              "Intensify inspection"
+            ],
+            [
+              "Fresh eggs without larvae",
+              "Beginning of establishment",
+              "Parasitoids and hatching-timed action"
+            ],
+            [
+              "High percentage of parasitized eggs",
+              "Potential biological regulation",
+              "Protect parasitoids and reassess"
+            ],
+            [
+              "L1 and L2 in hotspots",
+              "Early infestation",
+              "Biological or localized intervention"
+            ],
+            [
+              "Widespread L1 and L2",
+              "Hatching wave",
+              "Early selective intervention"
+            ],
+            [
+              "L3 and L4 in growing points",
+              "Delayed detection",
+              "Corrective intervention and cause analysis"
+            ],
+            [
+              "First infested fruit",
+              "Economic damage begins",
+              "Collect infested fruit and protect sound fruit"
+            ],
+            [
+              "Increasing fruit infestation",
+              "Containment failure",
+              "Red or critical level"
+            ],
+            [
+              "Mines remain after treatment but no larvae",
+              "Old damage",
+              "Do not repeat automatically"
+            ],
+            [
+              "Live larvae after a well-applied treatment",
+              "Possible resistance",
+              "Comprehensive investigation and change of MoA"
+            ],
+            [
+              "Predator collapse",
+              "Pesticide effect or resource shortage",
+              "Protect and re-establish"
+            ],
+            [
+              "Removal of an adjacent old field",
+              "Potential immigration wave",
+              "Edge warning and intensified monitoring"
+            ],
+            [
+              "Near harvest with limited infestation",
+              "Economic and regulatory decision",
+              "Collect infested fruit and review PHI"
+            ],
+            [
+              "Uneconomic, heavily infested field",
+              "Regional source",
+              "Organized termination"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Scenario",
+            "[[prepared]]Most Likely Interpretation",
+            "[[prepared]]Decision"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Increased trap catch only",
+              "[[prepared]]Immigration or adult activity",
+              "[[prepared]]Intensify inspection"
+            ],
+            [
+              "[[prepared]]Fresh eggs without larvae",
+              "[[prepared]]Beginning of establishment",
+              "[[prepared]]Parasitoids and hatching-timed action"
+            ],
+            [
+              "[[prepared]]High percentage of parasitized eggs",
+              "[[prepared]]Potential biological regulation",
+              "[[prepared]]Protect parasitoids and reassess"
+            ],
+            [
+              "[[prepared]]L1 and L2 in hotspots",
+              "[[prepared]]Early infestation",
+              "[[prepared]]Biological or localized intervention"
+            ],
+            [
+              "[[prepared]]Widespread L1 and L2",
+              "[[prepared]]Hatching wave",
+              "[[prepared]]Early selective intervention"
+            ],
+            [
+              "[[prepared]]L3 and L4 in growing points",
+              "[[prepared]]Delayed detection",
+              "[[prepared]]Corrective intervention and cause analysis"
+            ],
+            [
+              "[[prepared]]First infested fruit",
+              "[[prepared]]Economic damage begins",
+              "[[prepared]]Collect infested fruit and protect sound fruit"
+            ],
+            [
+              "[[prepared]]Increasing fruit infestation",
+              "[[prepared]]Containment failure",
+              "[[prepared]]Red or critical level"
+            ],
+            [
+              "[[prepared]]Mines remain after treatment but no larvae",
+              "[[prepared]]Old damage",
+              "[[prepared]]Do not repeat automatically"
+            ],
+            [
+              "[[prepared]]Live larvae after a well-applied treatment",
+              "[[prepared]]Possible resistance",
+              "[[prepared]]Comprehensive investigation and change of MoA"
+            ],
+            [
+              "[[prepared]]Predator collapse",
+              "[[prepared]]Pesticide effect or resource shortage",
+              "[[prepared]]Protect and re-establish"
+            ],
+            [
+              "[[prepared]]Removal of an adjacent old field",
+              "[[prepared]]Potential immigration wave",
+              "[[prepared]]Edge warning and intensified monitoring"
+            ],
+            [
+              "[[prepared]]Near harvest with limited infestation",
+              "[[prepared]]Economic and regulatory decision",
+              "[[prepared]]Collect infested fruit and review PHI"
+            ],
+            [
+              "[[prepared]]Uneconomic, heavily infested field",
+              "[[prepared]]Regional source",
+              "[[prepared]]Organized termination"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision-Making in Processing Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Particular priority should be given to:",
+          "prepared_text": "[[prepared]]Particular priority should be given to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Canopy cover.",
+            "Fruit infestation by number and weight.",
+            "Factory rejection percentage.",
+            "Harvest timing.",
+            "Preharvest interval.",
+            "Feasibility of mechanical harvesting.",
+            "Equipment cleaning.",
+            "Field termination after delivery."
+          ],
+          "prepared_items": [
+            "[[prepared]]Canopy cover.",
+            "[[prepared]]Fruit infestation by number and weight.",
+            "[[prepared]]Factory rejection percentage.",
+            "[[prepared]]Harvest timing.",
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Feasibility of mechanical harvesting.",
+            "[[prepared]]Equipment cleaning.",
+            "[[prepared]]Field termination after delivery."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision should not be based on leaf mines alone when fruits remain sound and the canopy can still perform its function.",
+          "prepared_text": "[[prepared]]The decision should not be based on leaf mines alone when fruits remain sound and the canopy can still perform its function."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conversely, limited fruit infestation should not be underestimated when it indicates a wave likely to expand before harvest.",
+          "prepared_text": "[[prepared]]Conversely, limited fruit infestation should not be underestimated when it indicates a wave likely to expand before harvest."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision-Making in Fresh-Market Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Decision sensitivity is higher because of:",
+          "prepared_text": "[[prepared]]Decision sensitivity is higher because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Low acceptance of fruits with holes.",
+            "Repeated harvests.",
+            "Overlapping preharvest intervals.",
+            "High value of external appearance.",
+            "Possibility of a larva inside a fruit that appears partly sound."
+          ],
+          "prepared_items": [
+            "[[prepared]]Low acceptance of fruits with holes.",
+            "[[prepared]]Repeated harvests.",
+            "[[prepared]]Overlapping preharvest intervals.",
+            "[[prepared]]High value of external appearance.",
+            "[[prepared]]Possibility of a larva inside a fruit that appears partly sound."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should:",
+          "prepared_text": "[[prepared]]The programme should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Inspect fruits during every round.",
+            "Separate rejected fruits.",
+            "Review the most recent treatment before every picking.",
+            "Avoid any product incompatible with the harvest programme.",
+            "Give greater weight to fruit-infestation indicators."
+          ],
+          "prepared_items": [
+            "[[prepared]]Inspect fruits during every round.",
+            "[[prepared]]Separate rejected fruits.",
+            "[[prepared]]Review the most recent treatment before every picking.",
+            "[[prepared]]Avoid any product incompatible with the harvest programme.",
+            "[[prepared]]Give greater weight to fruit-infestation indicators."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Adjusting the Matrix According to Temperature"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When temperature is favourable for rapid pest development:",
+          "prepared_text": "[[prepared]]When temperature is favourable for rapid pest development:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg duration shortens.",
+            "Larval development accelerates.",
+            "The intervention window narrows.",
+            "Yellow-level fields require earlier reassessment.",
+            "Orange may become red within a short period."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg duration shortens.",
+            "[[prepared]]Larval development accelerates.",
+            "[[prepared]]The intervention window narrows.",
+            "[[prepared]]Yellow-level fields require earlier reassessment.",
+            "[[prepared]]Orange may become red within a short period."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under cooler conditions:",
+          "prepared_text": "[[prepared]]Under cooler conditions:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Development slows.",
+            "Egg and larval stages may persist longer.",
+            "Infestation does not necessarily stop.",
+            "One generation may remain in the crop for a longer period."
+          ],
+          "prepared_items": [
+            "[[prepared]]Development slows.",
+            "[[prepared]]Egg and larval stages may persist longer.",
+            "[[prepared]]Infestation does not necessarily stop.",
+            "[[prepared]]One generation may remain in the crop for a longer period."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reassessment timing should therefore be linked to thermal units and local temperature, not calendar time alone.",
+          "prepared_text": "[[prepared]]Reassessment timing should therefore be linked to thermal units and local temperature, not calendar time alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Treating Trap Catch as a Spray Order"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Traps are warning tools, not an independent general threshold.",
+          "prepared_text": "[[prepared]]Traps are warning tools, not an independent general threshold."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Ignoring Plant Data When Trap Catch Is Low"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mated females or an internal generation may be present.",
+          "prepared_text": "[[prepared]]Mated females or an internal generation may be present."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Counting Old Mines"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This leads to unnecessary repeat treatments.",
+          "prepared_text": "[[prepared]]This leads to unnecessary repeat treatments."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Failing to Identify Larval Instar"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This makes intervention selection imprecise.",
+          "prepared_text": "[[prepared]]This makes intervention selection imprecise."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Relying on Parasitism Percentage Alone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Expected surviving eggs should also be calculated.",
+          "prepared_text": "[[prepared]]Expected surviving eggs should also be calculated."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Ignoring Fruit Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may be more serious than leaf damage.",
+          "prepared_text": "[[prepared]]It may be more serious than leaf damage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Using One Threshold for All Crop Stages"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Plant tolerance changes with development.",
+          "prepared_text": "[[prepared]]Plant tolerance changes with development."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Treating Predator Presence as a Permanent Reason Not to Intervene"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Predator density may be insufficient.",
+          "prepared_text": "[[prepared]]Predator density may be insufficient."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Using the Matrix as a Rigid Schedule"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is a framework requiring data and interpretation.",
+          "prepared_text": "[[prepared]]It is a framework requiring data and interpretation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Summing Indicator Scores and Automatically Triggering a Spray"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision requires biological and economic review.",
+          "prepared_text": "[[prepared]]The decision requires biological and economic review."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Ignoring Neighbouring Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pressure may be external and continuous.",
+          "prepared_text": "[[prepared]]Pressure may be external and continuous."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Failing to Define a Reassessment Date"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This prevents determination of success or failure.",
+          "prepared_text": "[[prepared]]This prevents determination of success or failure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Thirteen: Repeating the Same Group After Failure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This increases resistance pressure.",
+          "prepared_text": "[[prepared]]This increases resistance pressure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fourteen: Using a Product near Harvest Without Reviewing the PHI"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may cause crop rejection.",
+          "prepared_text": "[[prepared]]This may cause crop rejection."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fifteen: Failing to Document the Reason for the Decision"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This makes seasonal analysis and improvement difficult.",
+          "prepared_text": "[[prepared]]This makes seasonal analysis and improvement difficult."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Practical Priorities in Egypt"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Develop a separate matrix for each region and production cycle.",
+            "2. Standardize inspection of eggs, mines, and fruits.",
+            "3. Separate field edges from the interior.",
+            "4. Record trap trend rather than raw catch alone.",
+            "5. Do not establish a universal spray threshold from traps.",
+            "6. Develop local thresholds for processing tomatoes.",
+            "7. Develop separate thresholds for fresh-market tomatoes.",
+            "8. Introduce fruit infestation into the decision at an early stage.",
+            "9. Estimate live unparasitized eggs.",
+            "10. Identify larval instars.",
+            "11. Record predator and nymph density.",
+            "12. Include immigration source in the risk level.",
+            "13. Link the decision to the nursery record.",
+            "14. Review IRAC groups before every intervention.",
+            "15. Link the decision to harvest timing and residue requirements.",
+            "16. Use localized treatment where possible.",
+            "17. Set a defined assessment date for every action.",
+            "18. Train teams to distinguish old from new mines.",
+            "19. Analyse non-intervention decisions as carefully as intervention decisions.",
+            "20. Convert the matrix into a standardized paper and digital form."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Develop a separate matrix for each region and production cycle.",
+            "[[prepared]]2. Standardize inspection of eggs, mines, and fruits.",
+            "[[prepared]]3. Separate field edges from the interior.",
+            "[[prepared]]4. Record trap trend rather than raw catch alone.",
+            "[[prepared]]5. Do not establish a universal spray threshold from traps.",
+            "[[prepared]]6. Develop local thresholds for processing tomatoes.",
+            "[[prepared]]7. Develop separate thresholds for fresh-market tomatoes.",
+            "[[prepared]]8. Introduce fruit infestation into the decision at an early stage.",
+            "[[prepared]]9. Estimate live unparasitized eggs.",
+            "[[prepared]]10. Identify larval instars.",
+            "[[prepared]]11. Record predator and nymph density.",
+            "[[prepared]]12. Include immigration source in the risk level.",
+            "[[prepared]]13. Link the decision to the nursery record.",
+            "[[prepared]]14. Review IRAC groups before every intervention.",
+            "[[prepared]]15. Link the decision to harvest timing and residue requirements.",
+            "[[prepared]]16. Use localized treatment where possible.",
+            "[[prepared]]17. Set a defined assessment date for every action.",
+            "[[prepared]]18. Train teams to distinguish old from new mines.",
+            "[[prepared]]19. Analyse non-intervention decisions as carefully as intervention decisions.",
+            "[[prepared]]20. Convert the matrix into a standardized paper and digital form."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Summary of Section Seventeen"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The decision-making matrix is a system for integrating data on:",
+          "prepared_text": "[[prepared]]The decision-making matrix is a system for integrating data on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Traps.",
+            "Eggs.",
+            "Larvae.",
+            "Active mines.",
+            "Fruits.",
+            "Natural enemies.",
+            "Crop stage.",
+            "Neighbouring fields.",
+            "Previous pesticides.",
+            "Harvest timing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Traps.",
+            "[[prepared]]Eggs.",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Active mines.",
+            "[[prepared]]Fruits.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Neighbouring fields.",
+            "[[prepared]]Previous pesticides.",
+            "[[prepared]]Harvest timing."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A control decision should not be made from a single indicator.",
+          "prepared_text": "[[prepared]]A control decision should not be made from a single indicator."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The matrix uses five levels:",
+          "prepared_text": "[[prepared]]The matrix uses five levels:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Green for monitoring.",
+            "Yellow for warning and preparation.",
+            "Orange for early intervention.",
+            "Red for corrective intervention.",
+            "Critical for containment, investigation, and assessment of crop continuation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Green for monitoring.",
+            "[[prepared]]Yellow for warning and preparation.",
+            "[[prepared]]Orange for early intervention.",
+            "[[prepared]]Red for corrective intervention.",
+            "[[prepared]]Critical for containment, investigation, and assessment of crop continuation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The orange level is the most important opportunity for success because it often coincides with eggs and young larvae before they reach fruits.",
+          "prepared_text": "[[prepared]]The orange level is the most important opportunity for success because it often coincides with eggs and young larvae before they reach fruits."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "High trap catch does not require spraying when eggs or plant infestation are absent. Likewise, low trap catch does not mean the field is safe when larvae or infested fruits are present.",
+          "prepared_text": "[[prepared]]High trap catch does not require spraying when eggs or plant infestation are absent. Likewise, low trap catch does not mean the field is safe when larvae or infested fruits are present."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be distinguished:",
+          "prepared_text": "[[prepared]]The following should be distinguished:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Live eggs.",
+            "Parasitized eggs.",
+            "Old mines.",
+            "Active mines.",
+            "Early instars.",
+            "Advanced instars."
+          ],
+          "prepared_items": [
+            "[[prepared]]Live eggs.",
+            "[[prepared]]Parasitized eggs.",
+            "[[prepared]]Old mines.",
+            "[[prepared]]Active mines.",
+            "[[prepared]]Early instars.",
+            "[[prepared]]Advanced instars."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crop stage determines risk. Larvae near clusters and fruits are more serious than a similar number on leaves of a young plant capable of compensation.",
+          "prepared_text": "[[prepared]]Crop stage determines risk. Larvae near clusters and fruits are more serious than a similar number on leaves of a young plant capable of compensation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Natural enemies should be incorporated into the decision without assuming they are always capable of containing the infestation.",
+          "prepared_text": "[[prepared]]Natural enemies should be incorporated into the decision without assuming they are always capable of containing the infestation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No universal fixed numerical threshold can be used for all tomato fields in Egypt because the decision changes with:",
+          "prepared_text": "[[prepared]]No universal fixed numerical threshold can be used for all tomato fields in Egypt because the decision changes with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Region.",
+            "Production cycle.",
+            "Cultivar.",
+            "Market.",
+            "Price.",
+            "Intervention cost.",
+            "Crop stage.",
+            "Resistance.",
+            "Temperature.",
+            "Immigration."
+          ],
+          "prepared_items": [
+            "[[prepared]]Region.",
+            "[[prepared]]Production cycle.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Market.",
+            "[[prepared]]Price.",
+            "[[prepared]]Intervention cost.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Resistance.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Immigration."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A correct decision is complete only when it specifies in advance:",
+          "prepared_text": "[[prepared]]A correct decision is complete only when it specifies in advance:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reason for intervention.",
+            "Selected method.",
+            "Target stage.",
+            "Success indicator.",
+            "Reassessment date.",
+            "Alternative action if failure occurs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reason for intervention.",
+            "[[prepared]]Selected method.",
+            "[[prepared]]Target stage.",
+            "[[prepared]]Success indicator.",
+            "[[prepared]]Reassessment date.",
+            "[[prepared]]Alternative action if failure occurs."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-17-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Food and Agriculture Organization of the United Nations. How to Practice Integrated Pest Management: Monitoring, Economic Thresholds and Decision-Making.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "Kansiime, K. M., Karanja, P., Rware, H., et al. (2020). Integrated Management of Tomato Leaf Miner and Other Tomato Pests in Kenya: A Training Manual for Extension Workers. CABI and Koppert Biological Systems.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Desneux, N., Han, P., Mansour, R., et al. (2022). Integrated pest management of Tuta absoluta: Practical implementations across different world regions. Journal of Pest Science, 95, 17–39. DOI: 10.1007/s10340-021-01442-8.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F. H., & Desneux, N. (2018). Ecology, worldwide spread, and management of the invasive South American tomato pinworm, Tuta absoluta. Annual Review of Entomology, 63, 239–258.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "Pedigo, L. P., Hutchins, S. H., & Higley, L. G. (1986). Economic injury levels in theory and practice. Annual Review of Entomology, 31, 341–368.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "Higley, L. G., & Pedigo, L. P., eds. (1996). Economic Thresholds for Integrated Pest Management. University of Nebraska Press.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Rostami, E., Madadi, H., Abbasipour, H., & Han, P. (2024). Economic injury level and crop loss assessment of Tuta absoluta in open-field tomatoes in Western Iran. Journal of Crop Protection, 13, 125–137.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Shiberu, T., & Getu, E. (2018). Determination of the economic threshold level of tomato leaf miner, Tuta absoluta, on tomato under glasshouse conditions. Journal of Horticulture and Forestry, 10.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Shiberu, T., & Getu, E. (2018). Experimental analysis of the economic action level of Tuta absoluta on tomato under open-field conditions. Advances in Crop Science and Technology, 6.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Martins, J. C., Picanço, M. C., Bacci, L., Guedes, R. N. C., Santana, P. A. Jr., Ferreira, D. O., & Chediak, M. (2018). Assessing the spatial distribution of Tuta absoluta eggs in open-field tomato cultivation through geostatistical analysis. Pest Management Science, 74, 30–36.",
+              "url": ""
+            },
+            {
+              "number": 11,
+              "text": "Gonring, A. H. R., Picanço, M. C., Martins, J. C., et al. (2020). Feasible sampling plan for Tuta absoluta egg densities in commercial tomato fields. Crop Protection, 136, 105239.",
+              "url": ""
+            },
+            {
+              "number": 12,
+              "text": "Cocco, A., Serra, G., Lentini, A., Deliperi, S., & Delrio, G. (2015). Spatial distribution and sequential sampling plans for Tuta absoluta in greenhouse tomato crops. Pest Management Science, 71, 1311–1323.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Insecticide Resistance Action Committee. IRAC Mode of Action Classification Scheme.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "Insecticide Resistance Action Committee. Tuta absoluta Insecticide Resistance Management Poster.",
+              "url": ""
+            },
+            {
+              "number": 15,
+              "text": "Insecticide Resistance Action Committee. IRAC Susceptibility Test Method No. 022: Tuta absoluta Larvae.",
+              "url": ""
+            },
+            {
+              "number": 16,
+              "text": "Guedes, R. N. C., Roditakis, E., Campos, M. R., et al. (2019). Insecticide resistance in the tomato pinworm Tuta absoluta: Patterns, spread, mechanisms, management and outlook. Journal of Pest Science, 92, 1329–1342.",
+              "url": ""
+            },
+            {
+              "number": 17,
+              "text": "Ferracini, C., Bueno, V. H. P., Dindo, M. L., et al. (2019). Natural enemies of Tuta absoluta in the Mediterranean basin, Europe and South America. Biocontrol Science and Technology, 29, 578–609.",
+              "url": ""
+            },
+            {
+              "number": 18,
+              "text": "Colmenárez, Y. C., Corniani, N., Jahnke, S. M., Sampaio, M. V., & Vásquez, G. M. (2022). Sustainable management of the invasive Tuta absoluta. Journal of Integrated Pest Management, 13, 15.",
+              "url": ""
+            },
+            {
+              "number": 19,
+              "text": "Henderson, C. F., & Tilton, E. W. (1955). Tests with acaricides against the brown wheat mite. Journal of Economic Entomology, 48, 157–161.",
+              "url": ""
+            },
+            {
+              "number": 20,
+              "text": "Abbott, W. S. (1925). A method of computing the effectiveness of an insecticide. Journal of Economic Entomology, 18, 265–267.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 17,
+        "part_title": "Section Seventeen: Field Decision-Making Matrix",
+        "part_subtitle": "Field Decision-Making Matrix for Tuta absoluta Management"
+      }
+    }
+  ]
+}
