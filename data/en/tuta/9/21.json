@@ -1,0 +1,3616 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 21,
+  "part_title": "Section Twenty-One: Case Studies and Critical Analysis of Tuta absoluta Management Programmes",
+  "part_short_title": "Case Studies and Critical Analysis of Tuta absoluta Management Programmes",
+  "part_subtitle": "Case Studies and Critical Analysis of Tuta absoluta Management Programmes",
+  "content_path": "tuta/9/21.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Case studies provide scientific and practical value that general lists of control methods cannot offer because they show how the pest, crop, environment, and management measures interacted within an actual production system.",
+          "prepared_text": "[[prepared]]Case studies provide scientific and practical value that general lists of control methods cannot offer because they show how the pest, crop, environment, and management measures interacted within an actual production system."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, a case study may be misleading if its results are transferred without considering:",
+          "prepared_text": "[[prepared]]However, a case study may be misleading if its results are transferred without considering:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Location of the study.",
+            "Greenhouse or open-field conditions.",
+            "Cultivar.",
+            "Temperature.",
+            "Initial infestation level.",
+            "Area size.",
+            "Immigration rate.",
+            "Labour and input costs.",
+            "Sampling method.",
+            "Natural enemies present.",
+            "Legal registration of materials.",
+            "Harvest timing.",
+            "Target market."
+          ],
+          "prepared_items": [
+            "[[prepared]]Location of the study.",
+            "[[prepared]]Greenhouse or open-field conditions.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Initial infestation level.",
+            "[[prepared]]Area size.",
+            "[[prepared]]Immigration rate.",
+            "[[prepared]]Labour and input costs.",
+            "[[prepared]]Sampling method.",
+            "[[prepared]][[term:biological-control]]Natural enemies[[/term]] present.",
+            "[[prepared]]Legal registration of materials.",
+            "[[prepared]]Harvest timing.",
+            "[[prepared]]Target market."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme may achieve high efficacy in a well-sealed greenhouse and then fail in an open field surrounded by immigration sources. Likewise, a biological intervention may clearly suppress the pest but be less profitable than another programme because of product cost or number of applications.",
+          "prepared_text": "[[prepared]]A programme may achieve high efficacy in a well-sealed greenhouse and then fail in an open field surrounded by immigration sources. Likewise, a biological intervention may clearly suppress the pest but be less profitable than another programme because of product cost or number of applications."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Analysis of a case study should therefore not be limited to the question:",
+          "prepared_text": "[[prepared]]Analysis of a case study should therefore not be limited to the question:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Did the treatment succeed?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should answer the following questions:",
+          "prepared_text": "[[prepared]]It should answer the following questions:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. What problem did it target?",
+            "2. Under what conditions was it implemented?",
+            "3. Which indicators of success were used?",
+            "4. Did the pest, damage, or fruit infestation decline?",
+            "5. Did marketable yield increase?",
+            "6. Was the result economically viable?",
+            "7. Was the method compatible with natural enemies?",
+            "8. Can it be transferred to Egypt?",
+            "9. What modifications are required before application?",
+            "10. What were the study's limitations, and what did it not prove?"
+          ],
+          "prepared_items": [
+            "[[prepared]]1. What problem did it target?",
+            "[[prepared]]2. Under what conditions was it implemented?",
+            "[[prepared]]3. Which indicators of success were used?",
+            "[[prepared]]4. Did the pest, damage, or fruit infestation decline?",
+            "[[prepared]]5. Did [[term:marketable-yield]]marketable yield[[/term]] increase?",
+            "[[prepared]]6. Was the result economically viable?",
+            "[[prepared]]7. Was the method compatible with natural enemies?",
+            "[[prepared]]8. Can it be transferred to Egypt?",
+            "[[prepared]]9. What modifications are required before application?",
+            "[[prepared]]10. What were the study's limitations, and what did it not prove?"
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Importance of Critical Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Uncritical transfer of studies may lead to errors such as:",
+          "prepared_text": "[[prepared]]Uncritical transfer of studies may lead to errors such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Using a greenhouse release rate in open fields.",
+            "Transferring the number of pheromone dispensers from an enclosed area to an open area.",
+            "Treating laboratory results as field efficacy.",
+            "Considering insect mortality as proof of increased yield.",
+            "Ignoring treatment cost.",
+            "Ignoring insecticide effects on natural enemies.",
+            "Transferring a rate that is not locally registered.",
+            "Applying a mixture that has not been tested for compatibility or residues.",
+            "Using results from one cultivar for all cultivars.",
+            "Treating one season as definitive evidence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Using a greenhouse release rate in open fields.",
+            "[[prepared]]Transferring the number of pheromone dispensers from an enclosed area to an open area.",
+            "[[prepared]]Treating laboratory results as field efficacy.",
+            "[[prepared]]Considering insect mortality as proof of increased yield.",
+            "[[prepared]]Ignoring treatment cost.",
+            "[[prepared]]Ignoring insecticide effects on natural enemies.",
+            "[[prepared]]Transferring a rate that is not locally registered.",
+            "[[prepared]]Applying a mixture that has not been tested for compatibility or residues.",
+            "[[prepared]]Using results from one cultivar for all cultivars.",
+            "[[prepared]]Treating one season as definitive evidence."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every study should be regarded as one piece of evidence, not a ready-made prescription.",
+          "prepared_text": "[[prepared]]Every study should be regarded as one piece of evidence, not a ready-made prescription."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Levels of Evidence Strength"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Evidence used in a case study may be ranked as follows.",
+          "prepared_text": "[[prepared]]Evidence used in a case study may be ranked as follows."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level One: Laboratory Observation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This tests:",
+          "prepared_text": "[[prepared]]This tests:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Toxicity.",
+            "Parasitism.",
+            "Predation.",
+            "Survival.",
+            "Fecundity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Toxicity.",
+            "[[prepared]]Parasitism.",
+            "[[prepared]]Predation.",
+            "[[prepared]]Survival.",
+            "[[prepared]]Fecundity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is useful for identifying potential, but it does not prove field performance.",
+          "prepared_text": "[[prepared]]It is useful for identifying potential, but it does not prove field performance."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Two: Semi-Field Experiment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is conducted in:",
+          "prepared_text": "[[prepared]]This is conducted in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cages.",
+            "Tunnels.",
+            "Plant units.",
+            "Small greenhouses."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cages.",
+            "[[prepared]]Tunnels.",
+            "[[prepared]]Plant units.",
+            "[[prepared]]Small greenhouses."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It adds realism but limits immigration and environmental variation.",
+          "prepared_text": "[[prepared]]It adds realism but limits immigration and environmental variation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Three: Commercial-Greenhouse Trial"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This reflects a relatively realistic production system, but a greenhouse differs from an open field in:",
+          "prepared_text": "[[prepared]]This reflects a relatively realistic production system, but a greenhouse differs from an open field in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Isolation.",
+            "Wind.",
+            "Humidity.",
+            "Persistence of natural enemies.",
+            "Moth movement."
+          ],
+          "prepared_items": [
+            "[[prepared]]Isolation.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Humidity.",
+            "[[prepared]]Persistence of natural enemies.",
+            "[[prepared]]Moth movement."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Four: Replicated Open-Field Trial"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This provides stronger evidence of field performance, provided it includes:",
+          "prepared_text": "[[prepared]]This provides stronger evidence of field performance, provided it includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A control.",
+            "Replicates.",
+            "Randomisation.",
+            "Pretreatment measurements.",
+            "Statistical analysis."
+          ],
+          "prepared_items": [
+            "[[prepared]]A control.",
+            "[[prepared]]Replicates.",
+            "[[prepared]]Randomisation.",
+            "[[prepared]]Pretreatment measurements.",
+            "[[prepared]]Statistical analysis."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Five: Multi-Site, Multi-Season Commercial Application"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This provides the strongest evidence of practical applicability, especially when measuring:",
+          "prepared_text": "[[prepared]]This provides the strongest evidence of practical applicability, especially when measuring:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Yield.",
+            "Quality.",
+            "Cost.",
+            "Sustainability.",
+            "Regional variation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Yield.",
+            "[[prepared]]Quality.",
+            "[[prepared]]Cost.",
+            "[[prepared]]Sustainability.",
+            "[[prepared]]Regional variation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Level Six: Unreplicated Commercial Observation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is useful for identifying problems and generating hypotheses, but it does not prove that the intervention caused the result.",
+          "prepared_text": "[[prepared]]This is useful for identifying problems and generating hypotheses, but it does not prove that the intervention caused the result."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Criteria for Transferring a Case Study to Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Before transferring any programme, review the degree of similarity in:",
+          "prepared_text": "[[prepared]]Before transferring any programme, review the degree of similarity in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Temperature.",
+            "Humidity.",
+            "Production system.",
+            "Crop-cycle duration.",
+            "Plant density.",
+            "Field size.",
+            "Immigration pressure.",
+            "Natural enemies.",
+            "Product registration.",
+            "Input costs.",
+            "Crop price.",
+            "Harvest system.",
+            "Market specifications."
+          ],
+          "prepared_items": [
+            "[[prepared]]Temperature.",
+            "[[prepared]]Humidity.",
+            "[[prepared]]Production system.",
+            "[[prepared]]Crop-cycle duration.",
+            "[[prepared]]Plant density.",
+            "[[prepared]]Field size.",
+            "[[prepared]]Immigration pressure.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Product registration.",
+            "[[prepared]]Input costs.",
+            "[[prepared]]Crop price.",
+            "[[prepared]]Harvest system.",
+            "[[prepared]]Market specifications."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Transferability may be classified as:",
+          "prepared_text": "[[prepared]]Transferability may be classified as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "High"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When study conditions are similar to the target field and the method is registered and available.",
+          "prepared_text": "[[prepared]]When study conditions are similar to the target field and the method is registered and available."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Moderate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When the mechanism is comparable, but modification is required in:",
+          "prepared_text": "[[prepared]]When the mechanism is comparable, but modification is required in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Rate.",
+            "Timing.",
+            "Release rate.",
+            "Number of applications."
+          ],
+          "prepared_items": [
+            "[[prepared]]Rate.",
+            "[[prepared]]Timing.",
+            "[[prepared]]Release rate.",
+            "[[prepared]]Number of applications."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Low"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When study conditions differ fundamentally, such as transferring a sealed-greenhouse programme to an open field under high immigration pressure.",
+          "prepared_text": "[[prepared]]When study conditions differ fundamentally, such as transferring a sealed-greenhouse programme to an open field under high immigration pressure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Unacceptable"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When:",
+          "prepared_text": "[[prepared]]When:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The material is not registered.",
+            "The study depends on an organism not authorised for release.",
+            "Safety data are unavailable.",
+            "The scientific design is weak.",
+            "The method conflicts with market requirements."
+          ],
+          "prepared_items": [
+            "[[prepared]]The material is not registered.",
+            "[[prepared]]The study depends on an organism not authorised for release.",
+            "[[prepared]]Safety data are unavailable.",
+            "[[prepared]]The scientific design is weak.",
+            "[[prepared]]The method conflicts with market requirements."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study One"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Release of Trichogramma achaeae in Spanish Tomato Greenhouses"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Background"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Following the invasion of southern Europe by Tuta absoluta, egg parasitoids were investigated for use before larvae entered leaves and fruits.",
+          "prepared_text": "[[prepared]]Following the invasion of southern Europe by Tuta absoluta, egg parasitoids were investigated for use before larvae entered leaves and fruits."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tests showed that the egg parasitoid:",
+          "prepared_text": "[[prepared]]Tests showed that the egg parasitoid:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Trichogramma achaeae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Could attack pest eggs, after which it was tested in tomato greenhouses in Spain.",
+          "prepared_text": "[[prepared]]Could attack pest eggs, after which it was tested in tomato greenhouses in Spain."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Release Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The experimental programme used frequent releases that, in one application, reached:",
+          "prepared_text": "[[prepared]]The experimental programme used frequent releases that, in one application, reached:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Approximately 30 adult parasitoids per plant.",
+            "Equivalent to about 75 parasitoids per square metre.",
+            "Releases repeated every three to four days during the trial period."
+          ],
+          "prepared_items": [
+            "[[prepared]]Approximately 30 adult parasitoids per plant.",
+            "[[prepared]]Equivalent to about 75 parasitoids per square metre.",
+            "[[prepared]]Releases repeated every three to four days during the trial period."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under the conditions of the study, damage reduction exceeded 90% compared with the reference treatment.",
+          "prepared_text": "[[prepared]]Under the conditions of the study, damage reduction exceeded 90% compared with the reference treatment."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Factors Contributing to Success"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Potential success was associated with:",
+          "prepared_text": "[[prepared]]Potential success was associated with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Targeting eggs before hatching.",
+            "Repeated releases.",
+            "High parasitoid density.",
+            "A relatively protected environment.",
+            "Reduced parasitoid loss due to wind.",
+            "Close plant spacing.",
+            "Ability to distribute release points.",
+            "Relative control over insecticides used."
+          ],
+          "prepared_items": [
+            "[[prepared]]Targeting eggs before hatching.",
+            "[[prepared]]Repeated releases.",
+            "[[prepared]]High parasitoid density.",
+            "[[prepared]]A relatively protected environment.",
+            "[[prepared]]Reduced parasitoid loss due to wind.",
+            "[[prepared]]Close plant spacing.",
+            "[[prepared]]Ability to distribute release points.",
+            "[[prepared]]Relative control over insecticides used."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Critical Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The result does not mean that a rate of 75 parasitoids/m² should be applied in Egyptian open fields because:",
+          "prepared_text": "[[prepared]]The result does not mean that a rate of 75 parasitoids/m² should be applied in Egyptian open fields because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The study was conducted in a greenhouse.",
+            "Parasitoid loss may be greater in open fields.",
+            "Temperature and wind differ.",
+            "Cost may be high.",
+            "Egg distribution is more variable in open fields.",
+            "Immigration pressure may continue from neighbouring fields.",
+            "Strain and batch quality differ among producers."
+          ],
+          "prepared_items": [
+            "[[prepared]]The study was conducted in a greenhouse.",
+            "[[prepared]]Parasitoid loss may be greater in open fields.",
+            "[[prepared]]Temperature and wind differ.",
+            "[[prepared]]Cost may be high.",
+            "[[prepared]]Egg distribution is more variable in open fields.",
+            "[[prepared]]Immigration pressure may continue from neighbouring fields.",
+            "[[prepared]]Strain and batch quality differ among producers."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Repeating releases every three or four days may also be uneconomic over large areas.",
+          "prepared_text": "[[prepared]]Repeating releases every three or four days may also be uneconomic over large areas."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lesson for Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The main lesson is not to copy the release rate, but to:",
+          "prepared_text": "[[prepared]]The main lesson is not to copy the release rate, but to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Begin release when eggs appear.",
+            "Use repeated releases rather than one release.",
+            "Link the rate to egg density.",
+            "Measure emergence percentage from cards.",
+            "Protect the parasitoid from insecticides.",
+            "Distribute release points effectively.",
+            "Assess parasitism within the crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Begin release when eggs appear.",
+            "[[prepared]]Use repeated releases rather than one release.",
+            "[[prepared]]Link the rate to egg density.",
+            "[[prepared]]Measure emergence percentage from cards.",
+            "[[prepared]]Protect the parasitoid from insecticides.",
+            "[[prepared]]Distribute release points effectively.",
+            "[[prepared]]Assess parasitism within the crop."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egyptian fields require trials to determine:",
+          "prepared_text": "[[prepared]]Egyptian fields require trials to determine:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The minimum effective rate.",
+            "The appropriate interval.",
+            "Effects of temperature and wind.",
+            "Cost per feddan.",
+            "Reduction in fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]The minimum effective rate.",
+            "[[prepared]]The appropriate interval.",
+            "[[prepared]]Effects of temperature and wind.",
+            "[[prepared]]Cost per feddan.",
+            "[[prepared]]Reduction in fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study Two"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Integration of Trichogramma, Bt, and Spinosad in a Greenhouse"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Background"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One study evaluated three agents:",
+          "prepared_text": "[[prepared]]One study evaluated three agents:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trichogramma brassicae against eggs.",
+            "Bacillus thuringiensis against early larvae.",
+            "Spinosad as an insecticide derived from a microbial source."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trichogramma brassicae against eggs.",
+            "[[prepared]]Bacillus thuringiensis against early larvae.",
+            "[[prepared]]Spinosad as an insecticide derived from a microbial source."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The agents were used alone and in paired treatments in a tomato greenhouse.",
+          "prepared_text": "[[prepared]]The agents were used alone and in paired treatments in a tomato greenhouse."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Principal Results"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Combined treatments achieved higher efficacy than some individual treatments. The combination of Spinosad and Bt produced the highest mortality in the study, approaching 88%.",
+          "prepared_text": "[[prepared]]Combined treatments achieved higher efficacy than some individual treatments. The combination of Spinosad and Bt produced the highest mortality in the study, approaching 88%."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The results showed that targeting more than one life stage or using two agents with different mechanisms may increase efficacy.",
+          "prepared_text": "[[prepared]]The results showed that targeting more than one life stage or using two agents with different mechanisms may increase efficacy."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Critical Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "High mortality does not mean that mixing Spinosad and Bt is always the standard option because:",
+          "prepared_text": "[[prepared]]High mortality does not mean that mixing Spinosad and Bt is always the standard option because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Mortality is not the only indicator.",
+            "Fruit infestation and yield should be measured.",
+            "The materials may affect egg parasitoids.",
+            "Physical and biological compatibility should be verified.",
+            "Local registration should permit the mixture.",
+            "Repeated Spinosad use increases resistance pressure.",
+            "Greenhouse results do not equal open-field results.",
+            "Simultaneous combination may not be better than temporal separation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Mortality is not the only indicator.",
+            "[[prepared]]Fruit infestation and yield should be measured.",
+            "[[prepared]]The materials may affect egg parasitoids.",
+            "[[prepared]]Physical and biological compatibility should be verified.",
+            "[[prepared]]Local registration should permit the mixture.",
+            "[[prepared]]Repeated Spinosad use increases resistance pressure.",
+            "[[prepared]]Greenhouse results do not equal open-field results.",
+            "[[prepared]]Simultaneous combination may not be better than temporal separation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Using an egg parasitoid followed by a material that harms it may negate part of the benefit of release.",
+          "prepared_text": "[[prepared]]Using an egg parasitoid followed by a material that harms it may negate part of the benefit of release."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lesson Learned"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integration should be based on separation of functions:",
+          "prepared_text": "[[prepared]]Integration should be based on separation of functions:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The parasitoid targets eggs.",
+            "Bt targets L1 and L2.",
+            "The selective insecticide is retained for escalation when needed."
+          ],
+          "prepared_items": [
+            "[[prepared]]The parasitoid targets eggs.",
+            "[[prepared]]Bt targets L1 and L2.",
+            "[[prepared]]The selective insecticide is retained for escalation when needed."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The timing sequence should preferably achieve:",
+          "prepared_text": "[[prepared]]The timing sequence should preferably achieve:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Protection of the parasitoid.",
+            "Targeting of hatching.",
+            "Reduction in chemical applications.",
+            "Prevention of repeated use of the same mode of action."
+          ],
+          "prepared_items": [
+            "[[prepared]]Protection of the parasitoid.",
+            "[[prepared]]Targeting of hatching.",
+            "[[prepared]]Reduction in chemical applications.",
+            "[[prepared]]Prevention of repeated use of the same [[term:mode-of-action]]mode of action[[/term]]."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study Three"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Use of Bt in Mediterranean Programmes"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Background"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bacillus thuringiensis has been tested in several Tuta absoluta management systems, particularly against newly hatched larvae.",
+          "prepared_text": "[[prepared]]Bacillus thuringiensis has been tested in several Tuta absoluta management systems, particularly against newly hatched larvae."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its efficacy depends on larvae ingesting crystalline and protein toxins during feeding.",
+          "prepared_text": "[[prepared]]Its efficacy depends on larvae ingesting crystalline and protein toxins during feeding."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Factors Contributing to Success"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt efficacy improves when:",
+          "prepared_text": "[[prepared]]Bt efficacy improves when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "It is applied close to hatching.",
+            "L1 and L2 are targeted.",
+            "Deposits reach feeding sites.",
+            "The formulation is stored correctly.",
+            "It is not rapidly degraded by radiation or washed off.",
+            "Applications are repeated according to new hatching rather than a rigid calendar.",
+            "It is integrated with compatible predators or parasitoids."
+          ],
+          "prepared_items": [
+            "[[prepared]]It is applied close to hatching.",
+            "[[prepared]]L1 and L2 are targeted.",
+            "[[prepared]]Deposits reach feeding sites.",
+            "[[prepared]]The formulation is stored correctly.",
+            "[[prepared]]It is not rapidly degraded by radiation or washed off.",
+            "[[prepared]]Applications are repeated according to new hatching rather than a rigid calendar.",
+            "[[prepared]]It is integrated with compatible predators or parasitoids."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Causes of Variation Among Results"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Results may differ because of:",
+          "prepared_text": "[[prepared]]Results may differ because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Strain used.",
+            "Spore and crystal concentration.",
+            "Larval instar.",
+            "Plant size.",
+            "Coverage quality.",
+            "Ultraviolet radiation.",
+            "Temperature.",
+            "Assessment timing.",
+            "Infestation level."
+          ],
+          "prepared_items": [
+            "[[prepared]]Strain used.",
+            "[[prepared]]Spore and crystal concentration.",
+            "[[prepared]][[term:larval-instar]]Larval instar[[/term]].",
+            "[[prepared]]Plant size.",
+            "[[prepared]]Coverage quality.",
+            "[[prepared]]Ultraviolet radiation.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Assessment timing.",
+            "[[prepared]]Infestation level."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt is less suitable as a rescue treatment when advanced instars dominate inside mines or fruits.",
+          "prepared_text": "[[prepared]]Bt is less suitable as a rescue treatment when advanced instars dominate inside [[term:mines]]mines[[/term]] or fruits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lesson Learned"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The value of Bt lies in:",
+          "prepared_text": "[[prepared]]The value of Bt lies in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Early intervention.",
+            "Relative protection of natural enemies.",
+            "Reduced dependence on neurotoxic insecticides.",
+            "Integration with egg parasitoids and predators."
+          ],
+          "prepared_items": [
+            "[[prepared]]Early intervention.",
+            "[[prepared]]Relative protection of natural enemies.",
+            "[[prepared]]Reduced dependence on neurotoxic insecticides.",
+            "[[prepared]]Integration with egg parasitoids and predators."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its value does not lie in using it after L3 and L4 appear as an immediate chemical substitute.",
+          "prepared_text": "[[prepared]]Its value does not lie in using it after L3 and L4 appear as an immediate chemical substitute."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study Four"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mating Disruption in Sardinian Greenhouses"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Background"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating disruption was tested in tomato greenhouses on the island of Sardinia using pheromone dispensers at high density.",
+          "prepared_text": "[[prepared]]Mating disruption was tested in tomato greenhouses on the island of Sardinia using pheromone dispensers at high density."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One programme used:",
+          "prepared_text": "[[prepared]]One programme used:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "About 1,000 dispensers per hectare.",
+            "Each dispenser containing a dose of sex-pheromone components.",
+            "A total of approximately 60 grams of active material per hectare."
+          ],
+          "prepared_items": [
+            "[[prepared]]About 1,000 dispensers per hectare.",
+            "[[prepared]]Each dispenser containing a dose of sex-pheromone components.",
+            "[[prepared]]A total of approximately 60 grams of active material per hectare."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Results"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme resulted in:",
+          "prepared_text": "[[prepared]]The programme resulted in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Severe reduction or near cessation of trap catch inside some greenhouses.",
+            "Reduced numbers of damaged plants or fruits compared with reference greenhouses.",
+            "Reduced pest pressure when application began early and the treated area was suitable."
+          ],
+          "prepared_items": [
+            "[[prepared]]Severe reduction or near cessation of trap catch inside some greenhouses.",
+            "[[prepared]]Reduced numbers of damaged plants or fruits compared with reference greenhouses.",
+            "[[prepared]]Reduced pest pressure when application began early and the treated area was suitable."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Critical Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced trap catch alone does not prove mating cessation because disruption also prevents males from reaching monitoring traps.",
+          "prepared_text": "[[prepared]]Reduced trap catch alone does not prove mating cessation because disruption also prevents males from reaching monitoring traps."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be measured:",
+          "prepared_text": "[[prepared]]The following should be measured:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Egg fertility.",
+            "Mines.",
+            "Fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Egg fertility.",
+            "[[prepared]]Mines.",
+            "[[prepared]]Fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The technique is also affected by:",
+          "prepared_text": "[[prepared]]The technique is also affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Unit size.",
+            "Greenhouse sealing.",
+            "Ventilation openings.",
+            "Initial pest density.",
+            "Entry of mated females.",
+            "Neighbouring fields.",
+            "Dispenser distribution.",
+            "Uniformity of pheromone release."
+          ],
+          "prepared_items": [
+            "[[prepared]]Unit size.",
+            "[[prepared]]Greenhouse sealing.",
+            "[[prepared]]Ventilation openings.",
+            "[[prepared]]Initial pest density.",
+            "[[prepared]]Entry of mated females.",
+            "[[prepared]]Neighbouring fields.",
+            "[[prepared]]Dispenser distribution.",
+            "[[prepared]]Uniformity of pheromone release."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Transferability to Egyptian Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Direct transferability to open fields is limited because:",
+          "prepared_text": "[[prepared]]Direct transferability to open fields is limited because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Wind disperses the pheromone cloud.",
+            "Areas may be small or irregular.",
+            "Neighbouring fields may not participate.",
+            "Mated females may immigrate.",
+            "Open edges reduce uniformity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Wind disperses the pheromone cloud.",
+            "[[prepared]]Areas may be small or irregular.",
+            "[[prepared]]Neighbouring fields may not participate.",
+            "[[prepared]]Mated females may immigrate.",
+            "[[prepared]]Open edges reduce uniformity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the technique may be studied in:",
+          "prepared_text": "[[prepared]]However, the technique may be studied in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Large contiguous areas.",
+            "Contract-production blocks.",
+            "Well-sealed greenhouses.",
+            "Regional programmes involving several fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Large contiguous areas.",
+            "[[prepared]]Contract-production blocks.",
+            "[[prepared]]Well-sealed greenhouses.",
+            "[[prepared]]Regional programmes involving several fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study Five"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Metarhizium anisopliae in Ugandan Tomato Fields"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Background"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A field study evaluated two strains of the entomopathogenic fungus:",
+          "prepared_text": "[[prepared]]A field study evaluated two strains of the entomopathogenic fungus:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Metarhizium anisopliae ICIPE 20.",
+            "M. anisopliae ICIPE 69."
+          ],
+          "prepared_items": [
+            "[[prepared]]Metarhizium anisopliae ICIPE 20.",
+            "[[prepared]]M. anisopliae ICIPE 69."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They were compared with a commercial chemical insecticide and an untreated control over two seasons.",
+          "prepared_text": "[[prepared]]They were compared with a commercial chemical insecticide and an untreated control over two seasons."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Biological Results"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In the first season, fruit infestation was approximately:",
+          "prepared_text": "[[prepared]]In the first season, fruit infestation was approximately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "26.48% in the untreated control.",
+            "13.92% with ICIPE 20.",
+            "18.84% with ICIPE 69.",
+            "10.87% with the reference chemical insecticide."
+          ],
+          "prepared_items": [
+            "[[prepared]]26.48% in the untreated control.",
+            "[[prepared]]13.92% with ICIPE 20.",
+            "[[prepared]]18.84% with ICIPE 69.",
+            "[[prepared]]10.87% with the reference chemical insecticide."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Yield loss caused by the pest was approximately:",
+          "prepared_text": "[[prepared]]Yield loss caused by the pest was approximately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "43.41% in the control.",
+            "10.48% with ICIPE 20.",
+            "18.41% with ICIPE 69.",
+            "6.73% with the chemical insecticide."
+          ],
+          "prepared_items": [
+            "[[prepared]]43.41% in the control.",
+            "[[prepared]]10.48% with ICIPE 20.",
+            "[[prepared]]18.41% with ICIPE 69.",
+            "[[prepared]]6.73% with the chemical insecticide."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Differences changed between seasons, demonstrating the influence of season, weather, and pest pressure.",
+          "prepared_text": "[[prepared]]Differences changed between seasons, demonstrating the influence of season, weather, and pest pressure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Economic Results"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "All treatments increased marketable yield compared with the control.",
+          "prepared_text": "[[prepared]]All treatments increased marketable yield compared with the control."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In the first season, the benefit–cost ratio was approximately:",
+          "prepared_text": "[[prepared]]In the first season, the benefit–cost ratio was approximately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "8.92 for the reference chemical insecticide.",
+            "4.31 for ICIPE 20.",
+            "3.43 for ICIPE 69."
+          ],
+          "prepared_items": [
+            "[[prepared]]8.92 for the reference chemical insecticide.",
+            "[[prepared]]4.31 for ICIPE 20.",
+            "[[prepared]]3.43 for ICIPE 69."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In the second season, the values declined to approximately:",
+          "prepared_text": "[[prepared]]In the second season, the values declined to approximately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "6.30 for the reference insecticide.",
+            "2.84 for ICIPE 20.",
+            "2.14 for ICIPE 69."
+          ],
+          "prepared_items": [
+            "[[prepared]]6.30 for the reference insecticide.",
+            "[[prepared]]2.84 for ICIPE 20.",
+            "[[prepared]]2.14 for ICIPE 69."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under the conditions of the study, the fungal programme cost more than the reference insecticide.",
+          "prepared_text": "[[prepared]]Under the conditions of the study, the fungal programme cost more than the reference insecticide."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Critical Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The study shows that a biological agent can:",
+          "prepared_text": "[[prepared]]The study shows that a biological agent can:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduce fruit infestation.",
+            "Reduce yield loss.",
+            "Increase marketable yield.",
+            "Produce a positive economic return."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduce fruit infestation.",
+            "[[prepared]]Reduce yield loss.",
+            "[[prepared]]Increase marketable yield.",
+            "[[prepared]]Produce a positive economic return."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, it also shows that:",
+          "prepared_text": "[[prepared]]However, it also shows that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Greater environmental sustainability does not automatically mean greater short-term profit.",
+            "Cost of the biological product is decisive.",
+            "Strains differ in efficacy.",
+            "Weather conditions affect results.",
+            "Fungal action is slower than that of some insecticides.",
+            "Results vary between seasons."
+          ],
+          "prepared_items": [
+            "[[prepared]]Greater environmental sustainability does not automatically mean greater short-term profit.",
+            "[[prepared]]Cost of the biological product is decisive.",
+            "[[prepared]]Strains differ in efficacy.",
+            "[[prepared]]Weather conditions affect results.",
+            "[[prepared]]Fungal action is slower than that of some insecticides.",
+            "[[prepared]]Results vary between seasons."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lesson for Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An entomopathogenic fungus should be evaluated according to:",
+          "prepared_text": "[[prepared]]An entomopathogenic fungus should be evaluated according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Strain, not species name alone.",
+            "Viability and concentration.",
+            "Temperature and humidity.",
+            "Application time.",
+            "Protection from radiation.",
+            "Fruit infestation.",
+            "Marketable yield.",
+            "Cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Strain, not species name alone.",
+            "[[prepared]]Viability and concentration.",
+            "[[prepared]]Temperature and humidity.",
+            "[[prepared]]Application time.",
+            "[[prepared]]Protection from radiation.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Marketable yield.",
+            "[[prepared]]Cost."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Demonstration of larval mortality in the laboratory is insufficient before recommending field use.",
+          "prepared_text": "[[prepared]]Demonstration of larval mortality in the laboratory is insufficient before recommending field use."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study Six"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Entomopathogenic Nematodes in Open Fields"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Background"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field studies evaluated entomopathogenic nematodes against Tuta absoluta larvae inside mines, using formulations that help nematodes persist on the foliage.",
+          "prepared_text": "[[prepared]]Field studies evaluated entomopathogenic nematodes against Tuta absoluta larvae inside mines, using formulations that help nematodes persist on the foliage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Results"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One field study showed that suitable nematode formulations reduced larvae inside mines by approximately:",
+          "prepared_text": "[[prepared]]One field study showed that suitable nematode formulations reduced larvae inside mines by approximately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "37%.",
+            "To 68%."
+          ],
+          "prepared_items": [
+            "[[prepared]]37%.",
+            "[[prepared]]To 68%."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Other studies in Morocco recorded larval reductions approaching 60–80% under some conditions.",
+          "prepared_text": "[[prepared]]Other studies in Morocco recorded larval reductions approaching 60–80% under some conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The percentage of fruits bearing holes also declined, although a significant increase in total yield weight was not always detected.",
+          "prepared_text": "[[prepared]]The percentage of fruits bearing holes also declined, although a significant increase in total yield weight was not always detected."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lesson Related to Yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This result is important because a programme may:",
+          "prepared_text": "[[prepared]]This result is important because a programme may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fail to increase total yield weight.",
+            "Yet increase the percentage of saleable fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fail to increase total yield weight.",
+            "[[prepared]]Yet increase the percentage of saleable fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A larva may not substantially reduce fruit weight, but the hole or associated rot may make the fruit unacceptable.",
+          "prepared_text": "[[prepared]]A larva may not substantially reduce fruit weight, but the hole or associated rot may make the fruit unacceptable."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should therefore be measured:",
+          "prepared_text": "[[prepared]]The following should therefore be measured:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crop quality.",
+            "Percentage of sound fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crop quality.",
+            "[[prepared]]Percentage of sound fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Alongside weight.",
+          "prepared_text": "[[prepared]]Alongside weight."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Critical Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Foliar use of nematodes faces challenges including:",
+          "prepared_text": "[[prepared]]Foliar use of nematodes faces challenges including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Radiation.",
+            "Desiccation.",
+            "Low humidity.",
+            "Leaf-surface temperature.",
+            "Difficulty reaching larvae.",
+            "Rapid drying of the spray solution."
+          ],
+          "prepared_items": [
+            "[[prepared]]Radiation.",
+            "[[prepared]]Desiccation.",
+            "[[prepared]]Low humidity.",
+            "[[prepared]]Leaf-surface temperature.",
+            "[[prepared]]Difficulty reaching larvae.",
+            "[[prepared]]Rapid drying of the spray solution."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy depends strongly on:",
+          "prepared_text": "[[prepared]]Efficacy depends strongly on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Species and strain.",
+            "Carrier material.",
+            "Application time.",
+            "Humidity.",
+            "Number of applications."
+          ],
+          "prepared_items": [
+            "[[prepared]]Species and strain.",
+            "[[prepared]]Carrier material.",
+            "[[prepared]]Application time.",
+            "[[prepared]]Humidity.",
+            "[[prepared]]Number of applications."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Laboratory or greenhouse results are therefore often higher than open-field results.",
+          "prepared_text": "[[prepared]]Laboratory or greenhouse results are therefore often higher than open-field results."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lesson for Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Potential usefulness is greater when:",
+          "prepared_text": "[[prepared]]Potential usefulness is greater when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Applications are made in the evening.",
+            "Temporary humidity is available.",
+            "A protective formulation is used.",
+            "Hotspots are targeted.",
+            "A suitable production cycle is selected."
+          ],
+          "prepared_items": [
+            "[[prepared]]Applications are made in the evening.",
+            "[[prepared]]Temporary humidity is available.",
+            "[[prepared]]A protective formulation is used.",
+            "[[prepared]]Hotspots are targeted.",
+            "[[prepared]]A suitable production cycle is selected."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Use may be more difficult under:",
+          "prepared_text": "[[prepared]]Use may be more difficult under:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Upper Egypt summer conditions.",
+            "Dry winds.",
+            "Highly exposed open fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Upper Egypt summer conditions.",
+            "[[prepared]]Dry winds.",
+            "[[prepared]]Highly exposed open fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study Seven"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Monitoring Natural Enemies in Egypt"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Background"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field surveys in Egypt recorded several natural enemies associated with Tuta absoluta, including:",
+          "prepared_text": "[[prepared]]Field surveys in Egypt recorded several natural enemies associated with Tuta absoluta, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trichogramma achaeae.",
+            "Nesidiocoris tenuis.",
+            "Macrolophus pygmaeus.",
+            "Chrysoperla carnea."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trichogramma achaeae.",
+            "[[prepared]]Nesidiocoris tenuis.",
+            "[[prepared]]Macrolophus pygmaeus.",
+            "[[prepared]]Chrysoperla carnea."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Their abundance varied with pest abundance and seasonal stage.",
+          "prepared_text": "[[prepared]]Their abundance varied with pest abundance and seasonal stage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Importance of the Findings"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These observations indicate that the Egyptian environment does not begin from zero; it already contains resources that can be supported through:",
+          "prepared_text": "[[prepared]]These observations indicate that the Egyptian environment does not begin from zero; it already contains resources that can be supported through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced use of broad-spectrum insecticides.",
+            "Biological belts.",
+            "Habitat conservation.",
+            "Selective materials.",
+            "Avoidance of unjustified spraying."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced use of broad-spectrum insecticides.",
+            "[[prepared]]Biological belts.",
+            "[[prepared]]Habitat conservation.",
+            "[[prepared]]Selective materials.",
+            "[[prepared]]Avoidance of unjustified spraying."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Local species may also form the basis of mass-rearing or release programmes after evaluation.",
+          "prepared_text": "[[prepared]]Local species may also form the basis of mass-rearing or release programmes after evaluation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Critical Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Presence of a natural enemy does not prove that it reduced the pest to an economic level.",
+          "prepared_text": "[[prepared]]Presence of a natural enemy does not prove that it reduced the pest to an economic level."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An observational study demonstrates:",
+          "prepared_text": "[[prepared]]An observational study demonstrates:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Association.",
+            "Synchrony."
+          ],
+          "prepared_items": [
+            "[[prepared]]Association.",
+            "[[prepared]]Synchrony."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "But it does not always demonstrate:",
+          "prepared_text": "[[prepared]]But it does not always demonstrate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Magnitude of predation.",
+            "Reduction in fruit infestation.",
+            "Yield saved.",
+            "Density required for control."
+          ],
+          "prepared_items": [
+            "[[prepared]]Magnitude of predation.",
+            "[[prepared]]Reduction in fruit infestation.",
+            "[[prepared]]Yield saved.",
+            "[[prepared]]Density required for control."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Predator abundance may rise only after pest abundance increases, meaning its response occurs after damage has begun.",
+          "prepared_text": "[[prepared]]Predator abundance may rise only after pest abundance increases, meaning its response occurs after damage has begun."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lesson Learned"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The next step should move beyond recording presence to measuring:",
+          "prepared_text": "[[prepared]]The next step should move beyond recording presence to measuring:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Parasitism percentage.",
+            "Number of eggs consumed.",
+            "Nymph density.",
+            "Response to insecticides.",
+            "Effect on fruit infestation.",
+            "Potential for commercial mass production."
+          ],
+          "prepared_items": [
+            "[[prepared]]Parasitism percentage.",
+            "[[prepared]]Number of eggs consumed.",
+            "[[prepared]]Nymph density.",
+            "[[prepared]]Response to insecticides.",
+            "[[prepared]]Effect on fruit infestation.",
+            "[[prepared]]Potential for commercial mass production."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These natural resources should not be destroyed by a non-selective chemical programme.",
+          "prepared_text": "[[prepared]]These natural resources should not be destroyed by a non-selective chemical programme."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study Eight"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Variation in Tomato-Cultivar Susceptibility in Upper Egypt"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Background"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Several tomato cultivars were compared in Assiut for:",
+          "prepared_text": "[[prepared]]Several tomato cultivars were compared in Assiut for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Mines.",
+            "Larvae.",
+            "Infestation by other pests."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Mines.",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Infestation by other pests."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some cultivars recorded fewer eggs or mines than others.",
+          "prepared_text": "[[prepared]]Some cultivars recorded fewer eggs or mines than others."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Results and Apparent Contradiction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One cultivar recorded relatively low values for some infestation indicators but showed high larval survival inside leaflets in another test.",
+          "prepared_text": "[[prepared]]One cultivar recorded relatively low values for some infestation indicators but showed high larval survival inside leaflets in another test."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Not all differences among cultivars were statistically significant.",
+          "prepared_text": "[[prepared]]Not all differences among cultivars were statistically significant."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This shows that resistance or tolerance cannot be reduced to one indicator.",
+          "prepared_text": "[[prepared]]This shows that resistance or tolerance cannot be reduced to one indicator."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Critical Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A cultivar may be:",
+          "prepared_text": "[[prepared]]A cultivar may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Less attractive for oviposition.",
+            "Yet suitable for survival of larvae that enter it."
+          ],
+          "prepared_items": [
+            "[[prepared]]Less attractive for oviposition.",
+            "[[prepared]]Yet suitable for survival of larvae that enter it."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Or it may:",
+          "prepared_text": "[[prepared]]Or it may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tolerate damage without a large yield reduction.",
+            "Without reducing the pest population."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tolerate damage without a large yield reduction.",
+            "[[prepared]]Without reducing the pest population."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Distinguish among:",
+          "prepared_text": "[[prepared]]Distinguish among:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Antixenosis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced oviposition preference.",
+          "prepared_text": "[[prepared]]Reduced oviposition preference."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Antibiosis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced larval survival or development.",
+          "prepared_text": "[[prepared]]Reduced larval survival or development."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Tolerance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The plant's capacity to produce yield despite infestation.",
+          "prepared_text": "[[prepared]]The plant's capacity to produce yield despite infestation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lesson Learned"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultivar selection should not replace IPM.",
+          "prepared_text": "[[prepared]]Cultivar selection should not replace [[term:ipm]]IPM[[/term]]."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A less susceptible cultivar may be a supporting component, provided the following are evaluated:",
+          "prepared_text": "[[prepared]]A less susceptible cultivar may be a supporting component, provided the following are evaluated:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Yield.",
+            "Quality.",
+            "Crop-cycle length.",
+            "Canopy cover.",
+            "Processing suitability.",
+            "Effect on subsequent pest generations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Yield.",
+            "[[prepared]]Quality.",
+            "[[prepared]]Crop-cycle length.",
+            "[[prepared]]Canopy cover.",
+            "[[prepared]]Processing suitability.",
+            "[[prepared]]Effect on subsequent pest generations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A cultivar should not be described as resistant on the basis of low egg numbers in one season.",
+          "prepared_text": "[[prepared]]A cultivar should not be described as resistant on the basis of low egg numbers in one season."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study Nine"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Commercial Entomopathogenic Fungi in Rwandan Laboratory Tests"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Background"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Commercial formulations of:",
+          "prepared_text": "[[prepared]]Commercial formulations of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Metarhizium anisopliae.",
+            "Beauveria bassiana."
+          ],
+          "prepared_items": [
+            "[[prepared]]Metarhizium anisopliae.",
+            "[[prepared]]Beauveria bassiana."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Were tested against larvae collected from tomato fields and exposed under controlled laboratory conditions.",
+          "prepared_text": "[[prepared]]Were tested against larvae collected from tomato fields and exposed under controlled laboratory conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The formulations showed pathogenic activity against the larvae.",
+          "prepared_text": "[[prepared]]The formulations showed pathogenic activity against the larvae."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Value of the Study"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These tests demonstrate:",
+          "prepared_text": "[[prepared]]These tests demonstrate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The strains can infect the pest.",
+            "Larvae are not completely protected inside mines.",
+            "The formulation warrants progression to more realistic testing."
+          ],
+          "prepared_items": [
+            "[[prepared]]The strains can infect the pest.",
+            "[[prepared]]Larvae are not completely protected inside mines.",
+            "[[prepared]]The formulation warrants progression to more realistic testing."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They do not demonstrate:",
+          "prepared_text": "[[prepared]]They do not demonstrate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Field performance.",
+            "Persistence under sunlight.",
+            "Reduction in fruit infestation.",
+            "Economic viability.",
+            "Compatibility with insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Field performance.",
+            "[[prepared]]Persistence under sunlight.",
+            "[[prepared]]Reduction in fruit infestation.",
+            "[[prepared]]Economic viability.",
+            "[[prepared]]Compatibility with insecticides."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lesson Learned"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Testing should proceed through successive stages:",
+          "prepared_text": "[[prepared]]Testing should proceed through successive stages:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Laboratory test.",
+            "2. Plant or cage test.",
+            "3. Greenhouse trial.",
+            "4. Field trial.",
+            "5. Commercial application.",
+            "6. Economic analysis."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Laboratory test.",
+            "[[prepared]]2. Plant or cage test.",
+            "[[prepared]]3. Greenhouse trial.",
+            "[[prepared]]4. Field trial.",
+            "[[prepared]]5. Commercial application.",
+            "[[prepared]]6. Economic analysis."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One should not move directly from mortality in a Petri dish to a per-feddan recommendation.",
+          "prepared_text": "[[prepared]]One should not move directly from mortality in a Petri dish to a per-feddan recommendation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Excessive Reliance on Insecticides in Several African Countries"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pattern of the Problem"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Following the invasion of Tuta absoluta into several African countries, many growers responded by:",
+          "prepared_text": "[[prepared]]Following the invasion of Tuta absoluta into several African countries, many growers responded by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increasing spray frequency.",
+            "Mixing multiple products.",
+            "Repeating the same groups.",
+            "Shortening spray intervals.",
+            "Using unreliable products.",
+            "Neglecting monitoring and biological control."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increasing spray frequency.",
+            "[[prepared]]Mixing multiple products.",
+            "[[prepared]]Repeating the same groups.",
+            "[[prepared]]Shortening spray intervals.",
+            "[[prepared]]Using unreliable products.",
+            "[[prepared]]Neglecting monitoring and biological control."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Consequences of This Approach"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sole reliance on insecticides led to:",
+          "prepared_text": "[[prepared]]Sole reliance on insecticides led to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Higher production costs.",
+            "Variable or weak efficacy.",
+            "Greater resistance risk.",
+            "Mortality of natural enemies.",
+            "Increased worker exposure.",
+            "Residue risks.",
+            "Persistent infestation despite intensive spraying."
+          ],
+          "prepared_items": [
+            "[[prepared]]Higher production costs.",
+            "[[prepared]]Variable or weak efficacy.",
+            "[[prepared]]Greater resistance risk.",
+            "[[prepared]]Mortality of natural enemies.",
+            "[[prepared]]Increased worker exposure.",
+            "[[prepared]]Residue risks.",
+            "[[prepared]]Persistent infestation despite intensive spraying."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not mean all insecticides are ineffective. It means their use outside a monitoring and resistance-management programme rapidly reduces their value.",
+          "prepared_text": "[[prepared]]This does not mean all insecticides are ineffective. It means their use outside a monitoring and resistance-management programme rapidly reduces their value."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Critical Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An insecticide may produce rapid suppression in the first season and be interpreted as a complete success.",
+          "prepared_text": "[[prepared]]An insecticide may produce rapid suppression in the first season and be interpreted as a complete success."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "With repeated use of the same group, however:",
+          "prepared_text": "[[prepared]]With repeated use of the same group, however:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Less-susceptible individuals survive.",
+            "The resistant population reproduces.",
+            "Growers require more interventions.",
+            "Natural enemies are killed.",
+            "Pest management becomes increasingly dependent on insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Less-susceptible individuals survive.",
+            "[[prepared]]The resistant population reproduces.",
+            "[[prepared]]Growers require more interventions.",
+            "[[prepared]]Natural enemies are killed.",
+            "[[prepared]]Pest management becomes increasingly dependent on insecticides."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Short-term success is thereby converted into long-term failure.",
+          "prepared_text": "[[prepared]]Short-term success is thereby converted into long-term failure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lesson for Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Programme evaluation should not be based only on:",
+          "prepared_text": "[[prepared]]Programme evaluation should not be based only on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Speed of mortality."
+          ],
+          "prepared_items": [
+            "[[prepared]]Speed of mortality."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should include:",
+          "prepared_text": "[[prepared]]It should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Sustainability of susceptibility.",
+            "Number of applications.",
+            "IRAC groups.",
+            "Natural enemies.",
+            "Residues.",
+            "Cost per accepted tonne."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sustainability of susceptibility.",
+            "[[prepared]]Number of applications.",
+            "[[prepared]][[term:irac]]IRAC groups[[/term]].",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Residues.",
+            "[[prepared]]Cost per accepted tonne."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Declining efficacy should be investigated rather than addressed by increasing the dose.",
+          "prepared_text": "[[prepared]]Declining efficacy should be investigated rather than addressed by increasing the dose."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case Study Eleven"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Applied Egyptian Case: Moth Immigration from an Old Field into a Late Crop"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nature of the Case"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This case represents an applied field observation from Egyptian processing-tomato fields, not a published or replicated research experiment.",
+          "prepared_text": "[[prepared]]This case represents an applied field observation from Egyptian processing-tomato fields, not a published or replicated research experiment."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following were observed:",
+          "prepared_text": "[[prepared]]The following were observed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nearby early fields had completed production.",
+            "Their control programmes had stopped or declined.",
+            "Plants and residues remained for a period.",
+            "Pest pressure moved into later plantings.",
+            "Traps were absent or installed late at the beginning of follow-up.",
+            "Infestation increased in the late field.",
+            "The canopy was weak, exposing part of the fruit."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nearby early fields had completed production.",
+            "[[prepared]]Their control programmes had stopped or declined.",
+            "[[prepared]]Plants and residues remained for a period.",
+            "[[prepared]]Pest pressure moved into later plantings.",
+            "[[prepared]]Traps were absent or installed late at the beginning of follow-up.",
+            "[[prepared]]Infestation increased in the late field.",
+            "[[prepared]]The canopy was weak, exposing part of the fruit."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Interpretation of the Case"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation development can be interpreted through the following sequence:",
+          "prepared_text": "[[prepared]]Infestation development can be interpreted through the following sequence:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Pest multiplication in early fields.",
+            "2. Cessation of control while plants remained.",
+            "3. Increased adult emergence.",
+            "4. Movement into the more recent field.",
+            "5. Oviposition on new growth.",
+            "6. Delayed early detection.",
+            "7. Larvae reaching advanced instars.",
+            "8. Damage to leaves and canopy cover.",
+            "9. Increased fruit exposure to sunlight and the pest."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Pest multiplication in early fields.",
+            "[[prepared]]2. Cessation of control while plants remained.",
+            "[[prepared]]3. Increased adult emergence.",
+            "[[prepared]]4. Movement into the more recent field.",
+            "[[prepared]]5. Oviposition on new growth.",
+            "[[prepared]]6. Delayed early detection.",
+            "[[prepared]]7. Larvae reaching advanced instars.",
+            "[[prepared]]8. Damage to leaves and canopy cover.",
+            "[[prepared]]9. Increased fruit exposure to sunlight and the pest."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Operational Errors"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Potential errors include:",
+          "prepared_text": "[[prepared]]Potential errors include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Failure to install traps from the beginning of the production cycle.",
+            "Absence of a map of old fields.",
+            "Stopping management of the source field before its removal.",
+            "Failure to notify later plantings.",
+            "Delayed shredding of residues.",
+            "Reliance only on interventions within the recipient field.",
+            "Failure to separate edge inspection from interior inspection."
+          ],
+          "prepared_items": [
+            "[[prepared]]Failure to install traps from the beginning of the production cycle.",
+            "[[prepared]]Absence of a map of old fields.",
+            "[[prepared]]Stopping management of the source field before its removal.",
+            "[[prepared]]Failure to notify later plantings.",
+            "[[prepared]]Delayed shredding of residues.",
+            "[[prepared]]Reliance only on interventions within the recipient field.",
+            "[[prepared]]Failure to separate edge inspection from interior inspection."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Alternative Preventive Measures"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Risk could have been reduced through:",
+          "prepared_text": "[[prepared]]Risk could have been reduced through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Installing traps before transplanting.",
+            "Recording termination dates of neighbouring fields.",
+            "Continuing management of the old field until termination.",
+            "Immediate shredding when the crop became uneconomic.",
+            "Increasing inspection along the facing edge.",
+            "Targeting eggs and hatching.",
+            "Protecting canopy cover.",
+            "Coordinating decisions among growers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Installing traps before transplanting.",
+            "[[prepared]]Recording termination dates of neighbouring fields.",
+            "[[prepared]]Continuing management of the old field until termination.",
+            "[[prepared]]Immediate shredding when the crop became uneconomic.",
+            "[[prepared]]Increasing inspection along the facing edge.",
+            "[[prepared]]Targeting eggs and hatching.",
+            "[[prepared]]Protecting canopy cover.",
+            "[[prepared]]Coordinating decisions among growers."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Value and Limitations of the Case"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The case illustrates the logic of immigration and the problem of source fields, but it does not quantitatively prove:",
+          "prepared_text": "[[prepared]]The case illustrates the logic of immigration and the problem of source fields, but it does not quantitatively prove:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of moths transferred.",
+            "Distance travelled.",
+            "Proportion of damage attributable solely to immigration.",
+            "Efficacy of any particular intervention."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of moths transferred.",
+            "[[prepared]]Distance travelled.",
+            "[[prepared]]Proportion of damage attributable solely to immigration.",
+            "[[prepared]]Efficacy of any particular intervention."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should therefore be used as:",
+          "prepared_text": "[[prepared]]It should therefore be used as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A training case.",
+            "A hypothesis requiring verification."
+          ],
+          "prepared_items": [
+            "[[prepared]]A training case.",
+            "[[prepared]]A hypothesis requiring verification."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should not replace a replicated experiment.",
+          "prepared_text": "[[prepared]]It should not replace a replicated experiment."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Comparison Among Cases"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Case",
+            "Production System",
+            "Principal Method",
+            "Main Result",
+            "Principal Limitation"
+          ],
+          "rows": [
+            [
+              "Trichogramma in Spain",
+              "Greenhouse",
+              "Release of egg parasitoids",
+              "High reduction in damage",
+              "High release rate and protected environment"
+            ],
+            [
+              "Trichogramma + Bt + Spinosad",
+              "Greenhouse",
+              "Integration of several agents",
+              "High mortality in combined treatments",
+              "Compatibility, resistance, and registration"
+            ],
+            [
+              "Bt in the Mediterranean",
+              "Greenhouse/Semi-field",
+              "Bacterial agent",
+              "Good efficacy against early instars",
+              "Weak performance against advanced instars"
+            ],
+            [
+              "Mating disruption",
+              "Greenhouses",
+              "Pheromones",
+              "Reduced trap catch and damage",
+              "Immigration, area size, and enclosure"
+            ],
+            [
+              "Metarhizium in Uganda",
+              "Open field",
+              "Entomopathogenic fungus",
+              "Reduced damage and increased marketable yield",
+              "Slow action and high cost"
+            ],
+            [
+              "Entomopathogenic nematodes",
+              "Open field",
+              "EPN",
+              "Reduced larvae and improved fruit quality",
+              "Desiccation, radiation, and humidity"
+            ],
+            [
+              "Natural enemies in Egypt",
+              "Field survey",
+              "Conservation biological control",
+              "Confirmation of beneficial species",
+              "Does not prove magnitude of economic suppression"
+            ],
+            [
+              "Cultivars in Assiut",
+              "Field/Laboratory",
+              "Genetic variation",
+              "Variation in some infestation indicators",
+              "Variable results and insufficiency of cultivar alone"
+            ],
+            [
+              "Fungi in Rwanda",
+              "Laboratory",
+              "Commercial EPF",
+              "Confirmation of pathogenic capacity",
+              "Does not prove field performance"
+            ],
+            [
+              "Excessive insecticide use in Africa",
+              "Commercial systems",
+              "Chemical control",
+              "Rapid suppression followed by efficacy and resistance problems",
+              "Absence of IPM"
+            ],
+            [
+              "Immigration among Egyptian fields",
+              "Commercial observation",
+              "Uncoordinated management",
+              "Infestation of the late crop",
+              "Unreplicated case"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Case",
+            "[[prepared]]Production System",
+            "[[prepared]]Principal Method",
+            "[[prepared]]Main Result",
+            "[[prepared]]Principal Limitation"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Trichogramma in Spain",
+              "[[prepared]]Greenhouse",
+              "[[prepared]]Release of egg parasitoids",
+              "[[prepared]]High reduction in damage",
+              "[[prepared]]High release rate and protected environment"
+            ],
+            [
+              "[[prepared]]Trichogramma + Bt + Spinosad",
+              "[[prepared]]Greenhouse",
+              "[[prepared]]Integration of several agents",
+              "[[prepared]]High mortality in combined treatments",
+              "[[prepared]]Compatibility, resistance, and registration"
+            ],
+            [
+              "[[prepared]]Bt in the Mediterranean",
+              "[[prepared]]Greenhouse/Semi-field",
+              "[[prepared]]Bacterial agent",
+              "[[prepared]]Good efficacy against early instars",
+              "[[prepared]]Weak performance against advanced instars"
+            ],
+            [
+              "[[prepared]]Mating disruption",
+              "[[prepared]]Greenhouses",
+              "[[prepared]][[term:pheromone-trap]]Pheromones[[/term]]",
+              "[[prepared]]Reduced trap catch and damage",
+              "[[prepared]]Immigration, area size, and enclosure"
+            ],
+            [
+              "[[prepared]]Metarhizium in Uganda",
+              "[[prepared]]Open field",
+              "[[prepared]]Entomopathogenic fungus",
+              "[[prepared]]Reduced damage and increased marketable yield",
+              "[[prepared]]Slow action and high cost"
+            ],
+            [
+              "[[prepared]]Entomopathogenic nematodes",
+              "[[prepared]]Open field",
+              "[[prepared]]EPN",
+              "[[prepared]]Reduced larvae and improved fruit quality",
+              "[[prepared]]Desiccation, radiation, and humidity"
+            ],
+            [
+              "[[prepared]]Natural enemies in Egypt",
+              "[[prepared]]Field survey",
+              "[[prepared]]Conservation biological control",
+              "[[prepared]]Confirmation of beneficial species",
+              "[[prepared]]Does not prove magnitude of economic suppression"
+            ],
+            [
+              "[[prepared]]Cultivars in Assiut",
+              "[[prepared]]Field/Laboratory",
+              "[[prepared]]Genetic variation",
+              "[[prepared]]Variation in some infestation indicators",
+              "[[prepared]]Variable results and insufficiency of cultivar alone"
+            ],
+            [
+              "[[prepared]]Fungi in Rwanda",
+              "[[prepared]]Laboratory",
+              "[[prepared]]Commercial EPF",
+              "[[prepared]]Confirmation of pathogenic capacity",
+              "[[prepared]]Does not prove field performance"
+            ],
+            [
+              "[[prepared]]Excessive insecticide use in Africa",
+              "[[prepared]]Commercial systems",
+              "[[prepared]]Chemical control",
+              "[[prepared]]Rapid suppression followed by efficacy and resistance problems",
+              "[[prepared]]Absence of IPM"
+            ],
+            [
+              "[[prepared]]Immigration among Egyptian fields",
+              "[[prepared]]Commercial observation",
+              "[[prepared]]Uncoordinated management",
+              "[[prepared]]Infestation of the late crop",
+              "[[prepared]]Unreplicated case"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Lessons from Successful Cases"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following elements recur in successful programmes:",
+          "prepared_text": "[[prepared]]The following elements recur in successful programmes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Early intervention.",
+            "Targeting eggs and L1 and L2.",
+            "Repeated monitoring.",
+            "Protection of natural enemies.",
+            "Matching the method to the environment.",
+            "Effective distribution.",
+            "Use of more than one compatible component.",
+            "Evaluation of fruits, not leaves alone.",
+            "Management of source fields.",
+            "Documentation of cost and return."
+          ],
+          "prepared_items": [
+            "[[prepared]]Early intervention.",
+            "[[prepared]]Targeting eggs and L1 and L2.",
+            "[[prepared]]Repeated monitoring.",
+            "[[prepared]]Protection of natural enemies.",
+            "[[prepared]]Matching the method to the environment.",
+            "[[prepared]]Effective distribution.",
+            "[[prepared]]Use of more than one compatible component.",
+            "[[prepared]]Evaluation of fruits, not leaves alone.",
+            "[[prepared]]Management of source fields.",
+            "[[prepared]]Documentation of cost and return."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sustainable success does not depend on the strength of one isolated method.",
+          "prepared_text": "[[prepared]]Sustainable success does not depend on the strength of one isolated method."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Lessons from Failure Cases"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Starting the programme after larvae have reached advanced instars.",
+            "Transferring laboratory results directly into practice.",
+            "Using a slow-acting method in an advanced emergency.",
+            "Relying on traps alone.",
+            "Failing to manage immigration.",
+            "Repeating insecticide groups.",
+            "Killing natural enemies.",
+            "Ignoring fruit infestation.",
+            "Failing to measure economic viability.",
+            "Leaving the field after harvest ends."
+          ],
+          "prepared_items": [
+            "[[prepared]]Starting the programme after larvae have reached advanced instars.",
+            "[[prepared]]Transferring laboratory results directly into practice.",
+            "[[prepared]]Using a slow-acting method in an advanced emergency.",
+            "[[prepared]]Relying on traps alone.",
+            "[[prepared]]Failing to manage immigration.",
+            "[[prepared]]Repeating insecticide groups.",
+            "[[prepared]]Killing natural enemies.",
+            "[[prepared]]Ignoring fruit infestation.",
+            "[[prepared]]Failing to measure economic viability.",
+            "[[prepared]]Leaving the field after harvest ends."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Difference Between Biological Efficacy and Agronomic Success"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A treatment may produce:",
+          "prepared_text": "[[prepared]]A treatment may produce:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High larval mortality."
+          ],
+          "prepared_items": [
+            "[[prepared]]High larval mortality."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Without producing:",
+          "prepared_text": "[[prepared]]Without producing:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased yield."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increased yield."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may also produce:",
+          "prepared_text": "[[prepared]]It may also produce:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Moderate pest suppression."
+          ],
+          "prepared_items": [
+            "[[prepared]]Moderate pest suppression."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "But result in:",
+          "prepared_text": "[[prepared]]But result in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A large increase in saleable fruit."
+          ],
+          "prepared_items": [
+            "[[prepared]]A large increase in saleable fruit."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should therefore be distinguished.",
+          "prepared_text": "[[prepared]]The following should therefore be distinguished."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Entomological Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduction of eggs or larvae.",
+          "prepared_text": "[[prepared]]Reduction of eggs or larvae."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Protective Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Prevention of leaf or fruit infestation.",
+          "prepared_text": "[[prepared]]Prevention of leaf or fruit infestation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Agronomic Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increase in yield or quality.",
+          "prepared_text": "[[prepared]]Increase in yield or quality."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increase in return relative to cost.",
+          "prepared_text": "[[prepared]]Increase in return relative to cost."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Environmental Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Protection of beneficial organisms and reduction of risks.",
+          "prepared_text": "[[prepared]]Protection of beneficial organisms and reduction of risks."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Why Do Results Differ Among Seasons?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The same intervention may produce different results because of:",
+          "prepared_text": "[[prepared]]The same intervention may produce different results because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pest pressure.",
+            "Temperature.",
+            "Humidity.",
+            "Immigration timing.",
+            "Plant density.",
+            "Product quality.",
+            "Population resistance.",
+            "Natural enemies.",
+            "Crop price.",
+            "Number of applications."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pest pressure.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Humidity.",
+            "[[prepared]]Immigration timing.",
+            "[[prepared]]Plant density.",
+            "[[prepared]]Product quality.",
+            "[[prepared]]Population resistance.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Crop price.",
+            "[[prepared]]Number of applications."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One-season trials are therefore insufficient for permanent programme adoption.",
+          "prepared_text": "[[prepared]]One-season trials are therefore insufficient for permanent programme adoption."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Difference Between Greenhouses and Open Fields"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Element",
+            "Greenhouse",
+            "Open Field"
+          ],
+          "rows": [
+            [
+              "Immigration",
+              "Can be reduced with screens",
+              "Open and recurrent"
+            ],
+            [
+              "Wind",
+              "Limited",
+              "Important"
+            ],
+            [
+              "Humidity",
+              "Higher and more stable",
+              "Variable"
+            ],
+            [
+              "Parasitoid persistence",
+              "Often higher",
+              "Greater loss and dispersal"
+            ],
+            [
+              "Mating disruption",
+              "More uniform",
+              "More difficult"
+            ],
+            [
+              "Fungi and nematodes",
+              "Relatively better conditions",
+              "Exposed to radiation and desiccation"
+            ],
+            [
+              "Coverage",
+              "More controllable",
+              "Affected by wind and area"
+            ],
+            [
+              "Source fields",
+              "Less influential when sealed",
+              "A major factor"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Element",
+            "[[prepared]]Greenhouse",
+            "[[prepared]]Open Field"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Immigration",
+              "[[prepared]]Can be reduced with screens",
+              "[[prepared]]Open and recurrent"
+            ],
+            [
+              "[[prepared]]Wind",
+              "[[prepared]]Limited",
+              "[[prepared]]Important"
+            ],
+            [
+              "[[prepared]]Humidity",
+              "[[prepared]]Higher and more stable",
+              "[[prepared]]Variable"
+            ],
+            [
+              "[[prepared]]Parasitoid persistence",
+              "[[prepared]]Often higher",
+              "[[prepared]]Greater loss and dispersal"
+            ],
+            [
+              "[[prepared]]Mating disruption",
+              "[[prepared]]More uniform",
+              "[[prepared]]More difficult"
+            ],
+            [
+              "[[prepared]]Fungi and nematodes",
+              "[[prepared]]Relatively better conditions",
+              "[[prepared]]Exposed to radiation and desiccation"
+            ],
+            [
+              "[[prepared]]Coverage",
+              "[[prepared]]More controllable",
+              "[[prepared]]Affected by wind and area"
+            ],
+            [
+              "[[prepared]]Source fields",
+              "[[prepared]]Less influential when sealed",
+              "[[prepared]]A major factor"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Greenhouse programmes should not be transferred to open fields using area-based conversion alone.",
+          "prepared_text": "[[prepared]]Greenhouse programmes should not be transferred to open fields using area-based conversion alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Transferring Fresh-Market Tomato Results to Processing Tomatoes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Consider differences in:",
+          "prepared_text": "[[prepared]]Consider differences in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crop-cycle length.",
+            "Plant density.",
+            "Canopy cover.",
+            "Harvest frequency.",
+            "Fruit value.",
+            "Rejection percentage.",
+            "Harvest system.",
+            "Factory list."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crop-cycle length.",
+            "[[prepared]]Plant density.",
+            "[[prepared]]Canopy cover.",
+            "[[prepared]]Harvest frequency.",
+            "[[prepared]]Fruit value.",
+            "[[prepared]]Rejection percentage.",
+            "[[prepared]]Harvest system.",
+            "[[prepared]]Factory list."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Collection of infested fruit may be relatively easy in a repeatedly harvested crop but difficult in dense processing tomatoes intended for mechanical harvest.",
+          "prepared_text": "[[prepared]]Collection of infested fruit may be relatively easy in a repeatedly harvested crop but difficult in dense processing tomatoes intended for mechanical harvest."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Price on Case Interpretation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme may be economically viable when:",
+          "prepared_text": "[[prepared]]A programme may be economically viable when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tomato price is high."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato price is high."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And uneconomic when:",
+          "prepared_text": "[[prepared]]And uneconomic when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Price is low."
+          ],
+          "prepared_items": [
+            "[[prepared]]Price is low."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following also matter:",
+          "prepared_text": "[[prepared]]The following also matter:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cost of the biological agent.",
+            "Labour cost.",
+            "Spray cost.",
+            "Value of rejected produce."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cost of the biological agent.",
+            "[[prepared]]Labour cost.",
+            "[[prepared]]Spray cost.",
+            "[[prepared]]Value of rejected produce."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A benefit–cost ratio should therefore not be transferred from one country to another without recalculation.",
+          "prepared_text": "[[prepared]]A benefit–cost ratio should therefore not be transferred from one country to another without recalculation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Legal Registration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Success of a material or mixture in a study does not mean that its use is permitted.",
+          "prepared_text": "[[prepared]]Success of a material or mixture in a study does not mean that its use is permitted."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Verify:",
+          "prepared_text": "[[prepared]]Verify:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Registration on tomato.",
+            "Registration against the pest or approved use.",
+            "Rate.",
+            "Preharvest interval.",
+            "Number of applications.",
+            "Target market.",
+            "Maximum residue limits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Registration on tomato.",
+            "[[prepared]]Registration against the pest or approved use.",
+            "[[prepared]]Rate.",
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Number of applications.",
+            "[[prepared]]Target market.",
+            "[[prepared]][[term:pesticide-safety]]Maximum residue limits[[/term]]."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An unregistered product should not be included in an applied programme merely because a study evaluated it.",
+          "prepared_text": "[[prepared]]An unregistered product should not be included in an applied programme merely because a study evaluated it."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Framework for Writing an Egyptian Case Study"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each future case should include:",
+          "prepared_text": "[[prepared]]Each future case should include:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Site Data"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Governorate.",
+            "Region.",
+            "Soil type.",
+            "Area.",
+            "Coordinates."
+          ],
+          "prepared_items": [
+            "[[prepared]]Governorate.",
+            "[[prepared]]Region.",
+            "[[prepared]]Soil type.",
+            "[[prepared]]Area.",
+            "[[prepared]]Coordinates."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Crop Data"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cultivar.",
+            "Transplanting date.",
+            "Plant density.",
+            "Production purpose.",
+            "Harvest date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Transplanting date.",
+            "[[prepared]]Plant density.",
+            "[[prepared]]Production purpose.",
+            "[[prepared]]Harvest date."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Pest Data"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Traps.",
+            "Eggs.",
+            "Larvae.",
+            "Mines.",
+            "Fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Traps.",
+            "[[prepared]]Eggs.",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Mines.",
+            "[[prepared]]Fruits."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Natural Enemies"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Species.",
+            "Density.",
+            "Parasitism.",
+            "Previous treatments."
+          ],
+          "prepared_items": [
+            "[[prepared]]Species.",
+            "[[prepared]]Density.",
+            "[[prepared]]Parasitism.",
+            "[[prepared]]Previous treatments."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Intervention"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Method.",
+            "Rate or release density.",
+            "Timing.",
+            "Application method.",
+            "Weather conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Method.",
+            "[[prepared]]Rate or release density.",
+            "[[prepared]]Timing.",
+            "[[prepared]]Application method.",
+            "[[prepared]]Weather conditions."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Results"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pest reduction.",
+            "Fruit infestation.",
+            "Accepted yield.",
+            "Residues.",
+            "Cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pest reduction.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Residues.",
+            "[[prepared]]Cost."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Analysis"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reason for success or failure.",
+            "Limitations.",
+            "Repeatability."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reason for success or failure.",
+            "[[prepared]]Limitations.",
+            "[[prepared]]Repeatability."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Case-Study Record Template"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Item",
+            "Data"
+          ],
+          "rows": [
+            [
+              "Case title",
+              ""
+            ],
+            [
+              "Location",
+              ""
+            ],
+            [
+              "Production system",
+              ""
+            ],
+            [
+              "Cultivar",
+              ""
+            ],
+            [
+              "Transplanting date",
+              ""
+            ],
+            [
+              "Initial infestation level",
+              ""
+            ],
+            [
+              "Potential source",
+              ""
+            ],
+            [
+              "Natural enemies",
+              ""
+            ],
+            [
+              "Intervention",
+              ""
+            ],
+            [
+              "Number of applications",
+              ""
+            ],
+            [
+              "IRAC group",
+              ""
+            ],
+            [
+              "Pest outcome",
+              ""
+            ],
+            [
+              "Fruit infestation",
+              ""
+            ],
+            [
+              "Accepted yield",
+              ""
+            ],
+            [
+              "Cost",
+              ""
+            ],
+            [
+              "Net benefit",
+              ""
+            ],
+            [
+              "Limitations",
+              ""
+            ],
+            [
+              "Lesson learned",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Item",
+            "[[prepared]]Data"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Case title",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Location",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Production system",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Cultivar",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Transplanting date",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Initial infestation level",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Potential source",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Natural enemies",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Intervention",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Number of applications",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]IRAC group",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Pest outcome",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Fruit infestation",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Accepted yield",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Cost",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Net benefit",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Limitations",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Lesson learned",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Errors in Interpreting Studies"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Selecting Only the Highest Mortality Percentage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The treatment may not be the most profitable or the least harmful to beneficial organisms.",
+          "prepared_text": "[[prepared]]The treatment may not be the most profitable or the least harmful to beneficial organisms."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Ignoring the Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The degree of improvement cannot be determined without comparison.",
+          "prepared_text": "[[prepared]]The degree of improvement cannot be determined without comparison."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Treating Correlation as Causation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A natural enemy may increase because the pest increased, not because it prevented the increase.",
+          "prepared_text": "[[prepared]]A natural enemy may increase because the pest increased, not because it prevented the increase."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Transferring Greenhouse Results to Open Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Environmental pressure and immigration differ.",
+          "prepared_text": "[[prepared]]Environmental pressure and immigration differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Transferring a Rate Without Local Registration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The use may be illegal or unsafe.",
+          "prepared_text": "[[prepared]]The use may be illegal or unsafe."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Ignoring the Second Season"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Results may differ substantially among seasons.",
+          "prepared_text": "[[prepared]]Results may differ substantially among seasons."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Relying on Total Weight"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A large proportion of fruit may be unmarketable.",
+          "prepared_text": "[[prepared]]A large proportion of fruit may be unmarketable."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Treating All Strains as Equivalent"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Strains of fungi, Bt, and parasitoids differ.",
+          "prepared_text": "[[prepared]]Strains of fungi, Bt, and parasitoids differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Using Commercial Observation as Experimental Evidence"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It can generate a hypothesis but cannot prove it.",
+          "prepared_text": "[[prepared]]It can generate a hypothesis but cannot prove it."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Ignoring Implementation Cost"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme may be effective but not scalable.",
+          "prepared_text": "[[prepared]]A programme may be effective but not scalable."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Egyptian Priorities"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The priorities are:",
+          "prepared_text": "[[prepared]]The priorities are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Conduct multi-site open-field trials.",
+            "2. Evaluate processing tomatoes separately from fresh-market tomatoes.",
+            "3. Test Trichogramma release rates locally.",
+            "4. Evaluate Bt with predators and parasitoids.",
+            "5. Test fungi under heat and dry conditions.",
+            "6. Test nematodes in protective formulations.",
+            "7. Measure fruit infestation by number and weight.",
+            "8. Calculate marketable yield.",
+            "9. Record local natural enemies.",
+            "10. Measure effects of biological belts.",
+            "11. Study immigration from old fields.",
+            "12. Evaluate mating disruption in large production blocks.",
+            "13. Develop a resistance-testing network.",
+            "14. Conduct economic analysis.",
+            "15. Repeat studies for at least two seasons.",
+            "16. Publish negative as well as positive results.",
+            "17. Document commercial failures.",
+            "18. Separate published data from field observations.",
+            "19. Build an Egyptian case-study database.",
+            "20. Convert lessons into decision protocols."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Conduct multi-site open-field trials.",
+            "[[prepared]]2. Evaluate processing tomatoes separately from fresh-market tomatoes.",
+            "[[prepared]]3. Test Trichogramma release rates locally.",
+            "[[prepared]]4. Evaluate Bt with predators and parasitoids.",
+            "[[prepared]]5. Test fungi under heat and dry conditions.",
+            "[[prepared]]6. Test nematodes in protective formulations.",
+            "[[prepared]]7. Measure fruit infestation by number and weight.",
+            "[[prepared]]8. Calculate marketable yield.",
+            "[[prepared]]9. Record local natural enemies.",
+            "[[prepared]]10. Measure effects of biological belts.",
+            "[[prepared]]11. Study immigration from old fields.",
+            "[[prepared]]12. Evaluate mating disruption in large production blocks.",
+            "[[prepared]]13. Develop a resistance-testing network.",
+            "[[prepared]]14. Conduct economic analysis.",
+            "[[prepared]]15. Repeat studies for at least two seasons.",
+            "[[prepared]]16. Publish negative as well as positive results.",
+            "[[prepared]]17. Document commercial failures.",
+            "[[prepared]]18. Separate published data from field observations.",
+            "[[prepared]]19. Build an Egyptian case-study database.",
+            "[[prepared]]20. Convert lessons into decision protocols."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Summary of Section Twenty-One"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Case studies show that Tuta absoluta can be managed using:",
+          "prepared_text": "[[prepared]]Case studies show that Tuta absoluta can be managed using:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg parasitoids.",
+            "Predators.",
+            "Bt.",
+            "Entomopathogenic fungi.",
+            "Nematodes.",
+            "Pheromones.",
+            "Selective insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Bt.",
+            "[[prepared]]Entomopathogenic fungi.",
+            "[[prepared]]Nematodes.",
+            "[[prepared]]Pheromones.",
+            "[[prepared]]Selective insecticides."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the success of each method depends on the system within which it operates.",
+          "prepared_text": "[[prepared]]However, the success of each method depends on the system within which it operates."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Trichogramma achaeae achieved a high reduction in damage in Spanish greenhouses when released at high and repeated rates, but those results cannot be transferred directly to open fields.",
+          "prepared_text": "[[prepared]]Trichogramma achaeae achieved a high reduction in damage in Spanish greenhouses when released at high and repeated rates, but those results cannot be transferred directly to open fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Integrated programmes showed that targeting eggs and larvae with different methods can increase efficacy, but compatibility, resistance, and registration should be considered.",
+          "prepared_text": "[[prepared]]Integrated programmes showed that targeting eggs and larvae with different methods can increase efficacy, but compatibility, resistance, and registration should be considered."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating disruption performed better in protected and contiguous environments, whereas its use in small open fields remains limited by immigration and wind.",
+          "prepared_text": "[[prepared]]Mating disruption performed better in protected and contiguous environments, whereas its use in small open fields remains limited by immigration and wind."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field trials with Metarhizium anisopliae showed that fungi can reduce fruit infestation and yield loss and produce a positive economic return, but they were slower and more expensive than the reference chemical insecticide under the conditions of the study.",
+          "prepared_text": "[[prepared]]Field trials with Metarhizium anisopliae showed that fungi can reduce fruit infestation and yield loss and produce a positive economic return, but they were slower and more expensive than the reference chemical insecticide under the conditions of the study."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Entomopathogenic nematodes also reduced larvae and improved fruit quality without always producing a confirmed increase in total weight, highlighting the importance of measuring marketable yield.",
+          "prepared_text": "[[prepared]]Entomopathogenic nematodes also reduced larvae and improved fruit quality without always producing a confirmed increase in total weight, highlighting the importance of measuring marketable yield."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egyptian surveys confirmed the presence of important parasitoids and predators, but their presence alone does not prove economic control; their effects on eggs, larvae, and fruits should be measured.",
+          "prepared_text": "[[prepared]]Egyptian surveys confirmed the presence of important parasitoids and predators, but their presence alone does not prove economic control; their effects on eggs, larvae, and fruits should be measured."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultivar studies also show that reduction of one infestation indicator is insufficient to describe a cultivar as resistant and that cultivar choice does not replace integrated management.",
+          "prepared_text": "[[prepared]]Cultivar studies also show that reduction of one infestation indicator is insufficient to describe a cultivar as resistant and that cultivar choice does not replace integrated management."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cases of excessive insecticide use demonstrate that rapid suppression may become long-term failure when resistance management and natural enemies are neglected.",
+          "prepared_text": "[[prepared]]Cases of excessive insecticide use demonstrate that rapid suppression may become long-term failure when resistance management and natural enemies are neglected."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The applied Egyptian case of moth immigration from old fields confirms that managing the recipient field alone is insufficient while surrounding infestation sources remain active.",
+          "prepared_text": "[[prepared]]The applied Egyptian case of moth immigration from old fields confirms that managing the recipient field alone is insufficient while surrounding infestation sources remain active."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal message is that a case study should not be used to copy a programme, but to understand:",
+          "prepared_text": "[[prepared]]The principal message is that a case study should not be used to copy a programme, but to understand:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Why did it succeed?",
+            "Where did it succeed?",
+            "What were its limitations?",
+            "What modifications are required before transfer?"
+          ],
+          "prepared_items": [
+            "[[prepared]]Why did it succeed?",
+            "[[prepared]]Where did it succeed?",
+            "[[prepared]]What were its limitations?",
+            "[[prepared]]What modifications are required before transfer?"
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-21-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Cabello, T., Gallego, J. R., Vila, E., Soler, A., del Pino, M., Carnero, A., Hernández-Suárez, E., & Polaszek, A. (2009). Biological control of the South American tomato pinworm, Tuta absoluta, with releases of Trichogramma achaeae in tomato greenhouses of Spain. IOBC/WPRS Bulletin, 49, 225–230.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "González-Cabrera, J., Mollá, O., Montón, H., & Urbaneja, A. (2011). Efficacy of Bacillus thuringiensis in controlling the tomato borer, Tuta absoluta. BioControl, 56, 71–80. DOI: 10.1007/s10526-010-9310-1.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Mollá, O., González-Cabrera, J., & Urbaneja, A. (2011). The combined use of Bacillus thuringiensis and Nesidiocoris tenuis against Tuta absoluta. BioControl, 56, 883–891.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Cocco, A., Deliperi, S., & Delrio, G. (2013). Control of Tuta absoluta in greenhouse tomato crops using the mating disruption technique. Journal of Applied Entomology, 137, 16–28.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "Alsaedi, G., Ashouri, A., Talaei-Hassanloui, R., & colleagues. (2018). Efficiency of spinosad, Bacillus thuringiensis and Trichogramma brassicae against the tomato leafminer in greenhouse. BioControl, 63.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "Kabaale, F. P., Tumuhaise, V., Tinzaara, W., Turyasingura, G., Subramanian, S., Khamis, F. M., & Akutse, K. S. (2022). Field efficacy and economic viability of Metarhizium anisopliae ICIPE 20 for Tuta absoluta management on tomato. Sustainability, 14, 14846.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Kajuga, J. N., et al. (2025). Efficacy of foliar applications of entomopathogenic nematodes in the management of Phthorimaea absoluta under open-field conditions. Agronomy, 15, 1417.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Ndereyimana, A., Nyalala, S., Murerwa, P., & Gaidashova, S. (2019). Pathogenicity of commercial formulations of entomopathogenic fungi on Tuta absoluta. Egyptian Journal of Biological Pest Control, 29, 70.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Hassan, E. S. M., Mesbah, I. I., Ali, F. A., & El-Shesheny, I. A. (2022). Prevalence, population dynamics and associated natural enemies of tomato leafminer, Tuta absoluta, in Egypt. International Journal of Tropical Insect Science, 42, 143–162.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Mahmoud, Y. A., et al. (2020). Susceptibility of different tomato varieties to infestation with insect pests in Egypt. Bulletin of the National Research Centre, 44.",
+              "url": ""
+            },
+            {
+              "number": 11,
+              "text": "Tarusikirwa, V. L., Machekano, H., Mutamiswa, R., Chidawanyika, F., & Nyamukondiwa, C. (2020). Tuta absoluta on the offensive in Africa: Prospects for integrated management initiatives. Insects, 11, 764.",
+              "url": ""
+            },
+            {
+              "number": 12,
+              "text": "Guedes, R. N. C., Roditakis, E., Campos, M. R., et al. (2019). Insecticide resistance in the tomato pinworm Tuta absoluta: Patterns, spread, mechanisms, management and outlook. Journal of Pest Science, 92, 1329–1342.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Desneux, N., Han, P., Mansour, R., et al. (2022). Integrated pest management of Tuta absoluta: Practical implementations across different world regions. Journal of Pest Science, 95, 17–39.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F. H., & Desneux, N. (2018). Ecology, worldwide spread, and management of the invasive South American tomato pinworm, Tuta absoluta. Annual Review of Entomology, 63, 239–258.",
+              "url": ""
+            },
+            {
+              "number": 15,
+              "text": "Ferracini, C., Bueno, V. H. P., Dindo, M. L., et al. (2019). Natural enemies of Tuta absoluta in the Mediterranean basin, Europe and South America. Biocontrol Science and Technology, 29, 578–609.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 21,
+        "part_title": "Section Twenty-One: Case Studies and Critical Analysis of Tuta absoluta Management Programmes",
+        "part_subtitle": "Case Studies and Critical Analysis of Tuta absoluta Management Programmes"
+      }
+    }
+  ]
+}
