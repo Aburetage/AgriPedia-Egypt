@@ -69,6 +69,177 @@
     {
       "tab_title": "الأعراض والأضرار والخسائر الاقتصادية",
       "content_path": "tuta/8.json"
+    },
+    {
+      "tab_title": "الإدارة المتكاملة لتوتا أبسولوتا",
+      "parts": [
+        {
+          "part_title": "الجزء الأول: المقدمة والأسس والمبادئ العامة للإدارة المتكاملة",
+          "part_short_title": "المقدمة والأسس والمبادئ العامة للإدارة المتكاملة",
+          "part_subtitle": "Integrated Pest Management of Tuta absoluta",
+          "content_path": "tuta/9/0.json"
+        },
+        {
+          "part_title": "القسم الأول: الوقاية ومنع دخول الآفة وتأسيسها في الحقل",
+          "part_short_title": "الوقاية ومنع دخول الآفة وتأسيسها في الحقل",
+          "part_subtitle": "",
+          "content_path": "tuta/9/1.json"
+        },
+        {
+          "part_title": "القسم الثاني: إدارة المشتل والشتلات ومنع انتقال الآفة إلى الحقل",
+          "part_short_title": "إدارة المشتل والشتلات ومنع انتقال الآفة إلى الحقل",
+          "part_subtitle": "",
+          "content_path": "tuta/9/2.json"
+        },
+        {
+          "part_title": "القسم الثالث: الرصد والكشف المبكر والإنذار",
+          "part_short_title": "الرصد والكشف المبكر والإنذار",
+          "part_subtitle": "",
+          "content_path": "tuta/9/3.json"
+        },
+        {
+          "part_title": "القسم الرابع: العتبات الاقتصادية واتخاذ قرار التدخل",
+          "part_short_title": "العتبات الاقتصادية واتخاذ قرار التدخل",
+          "part_subtitle": "",
+          "content_path": "tuta/9/4.json"
+        },
+        {
+          "part_title": "القسم الخامس: المكافحة الزراعية",
+          "part_short_title": "المكافحة الزراعية",
+          "part_subtitle": "Cultural Control of Tuta absoluta",
+          "content_path": "tuta/9/5.json"
+        },
+        {
+          "part_title": "القسم السادس: المكافحة الميكانيكية والفيزيائية",
+          "part_short_title": "المكافحة الميكانيكية والفيزيائية",
+          "part_subtitle": "Mechanical and Physical Control of Tuta absoluta",
+          "content_path": "tuta/9/6.json"
+        },
+        {
+          "part_title": "القسم السابع: المكافحة السلوكية والفرمونية",
+          "part_short_title": "المكافحة السلوكية والفرمونية",
+          "part_subtitle": "Behavioural and Pheromone-Based Control of Tuta absoluta",
+          "content_path": "tuta/9/7.json"
+        },
+        {
+          "part_title": "القسم الثامن: المكافحة الحيوية بالطفيليات الحشرية والمفترسات",
+          "part_short_title": "المكافحة الحيوية بالطفيليات الحشرية والمفترسات",
+          "part_subtitle": "Biological Control Using Parasitoids and Predators",
+          "content_path": "tuta/9/8.json"
+        },
+        {
+          "part_title": "القسم التاسع: المكافحة الميكروبية والعوامل الممرِضة للحشرات",
+          "part_short_title": "المكافحة الميكروبية والعوامل الممرِضة للحشرات",
+          "part_subtitle": "Microbial and Entomopathogenic Control of Tuta absoluta",
+          "content_path": "tuta/9/9.json"
+        },
+        {
+          "part_title": "القسم العاشر: المكافحة الكيميائية الرشيدة",
+          "part_short_title": "المكافحة الكيميائية الرشيدة",
+          "part_subtitle": "Rational Chemical Control of Tuta absoluta",
+          "content_path": "tuta/9/10.json"
+        },
+        {
+          "part_title": "القسم الحادي عشر: إدارة مقاومة المبيدات",
+          "part_short_title": "إدارة مقاومة المبيدات",
+          "part_subtitle": "Insecticide Resistance Management — IRM",
+          "content_path": "tuta/9/11.json"
+        },
+        {
+          "part_title": "القسم الثاني عشر: التوافق بين مكونات برنامج المكافحة المتكاملة",
+          "part_short_title": "التوافق بين مكونات برنامج المكافحة المتكاملة",
+          "part_subtitle": "Compatibility Among Integrated Pest Management Components",
+          "content_path": "tuta/9/12.json"
+        },
+        {
+          "part_title": "القسم الثالث عشر: الإدارة على مستوى المنطقة الزراعية",
+          "part_short_title": "الإدارة على مستوى المنطقة الزراعية",
+          "part_subtitle": "Area-Wide Integrated Pest Management of Tuta absoluta",
+          "content_path": "tuta/9/13.json"
+        },
+        {
+          "part_title": "القسم الرابع عشر: البرنامج الحقلي المتكامل طوال الموسم",
+          "part_short_title": "البرنامج الحقلي المتكامل طوال الموسم",
+          "part_subtitle": "Season-Long Field IPM Programme for Tuta absoluta",
+          "content_path": "tuta/9/14.json"
+        },
+        {
+          "part_title": "القسم الخامس عشر: تقييم كفاءة برنامج الإدارة المتكاملة والجدوى الاقتصادية",
+          "part_short_title": "تقييم كفاءة برنامج الإدارة المتكاملة والجدوى الاقتصادية",
+          "part_subtitle": "Evaluation of IPM Performance and Economic Viability",
+          "content_path": "tuta/9/15.json"
+        },
+        {
+          "part_title": "القسم السادس عشر: الحزام الحيوي والنباتات الداعمة للأعداء الحيوية",
+          "part_short_title": "الحزام الحيوي والنباتات الداعمة للأعداء الحيوية",
+          "part_subtitle": "Biological Belts, Insectary Plants and Conservation Biological Control",
+          "content_path": "tuta/9/16.json"
+        },
+        {
+          "part_title": "القسم السابع عشر: مصفوفة اتخاذ القرار الحقلي",
+          "part_short_title": "مصفوفة اتخاذ القرار الحقلي",
+          "part_subtitle": "Field Decision-Making Matrix for Tuta absoluta Management",
+          "content_path": "tuta/9/17.json"
+        },
+        {
+          "part_title": "القسم الثامن عشر: البرامج التطبيقية لإدارة توتا أبسولوتا تحت الظروف المصرية",
+          "part_short_title": "البرامج التطبيقية لإدارة توتا أبسولوتا تحت الظروف المصرية",
+          "part_subtitle": "Applied IPM Programmes for Tuta absoluta Under Egyptian Conditions",
+          "content_path": "tuta/9/18.json"
+        },
+        {
+          "part_title": "القسم التاسع عشر: سيناريوهات الطوارئ وإدارة فشل برنامج المكافحة",
+          "part_short_title": "سيناريوهات الطوارئ وإدارة فشل برنامج المكافحة",
+          "part_subtitle": "Emergency Scenarios and Management of IPM Failure",
+          "content_path": "tuta/9/19.json"
+        },
+        {
+          "part_title": "القسم العشرون: مؤشرات الإنذار المبكر والتنبؤ بالتفشي",
+          "part_short_title": "مؤشرات الإنذار المبكر والتنبؤ بالتفشي",
+          "part_subtitle": "Early-Warning Indicators and Outbreak Forecasting for Tuta absoluta",
+          "content_path": "tuta/9/20.json"
+        },
+        {
+          "part_title": "القسم الحادي والعشرون: دراسات الحالة والتحليل النقدي لبرامج إدارة توتا أبسولوتا",
+          "part_short_title": "دراسات الحالة والتحليل النقدي لبرامج إدارة توتا أبسولوتا",
+          "part_subtitle": "Case Studies and Critical Analysis of Tuta absoluta Management Programmes",
+          "content_path": "tuta/9/21.json"
+        },
+        {
+          "part_title": "القسم الثاني والعشرون: السجلات والنماذج الحقلية الجاهزة",
+          "part_short_title": "السجلات والنماذج الحقلية الجاهزة",
+          "part_subtitle": "Field Records, Monitoring Forms and Operational Templates",
+          "content_path": "tuta/9/22.json"
+        },
+        {
+          "part_title": "القسم الثالث والعشرون: الأخطاء الحرجة التي تُفشل برنامج الإدارة المتكاملة",
+          "part_short_title": "الأخطاء الحرجة التي تُفشل برنامج الإدارة المتكاملة",
+          "part_subtitle": "Critical Errors Leading to Failure of Tuta absoluta IPM Programmes",
+          "content_path": "tuta/9/23.json"
+        },
+        {
+          "part_title": "القسم الرابع والعشرون: البروتوكول التنفيذي النهائي للإدارة المتكاملة",
+          "part_short_title": "البروتوكول التنفيذي النهائي للإدارة المتكاملة",
+          "part_subtitle": "Final Operational IPM Protocol for Tuta absoluta",
+          "content_path": "tuta/9/24.json"
+        },
+        {
+          "part_title": "القسم الخامس والعشرون: التوصيات النهائية حسب الجهات المسؤولة",
+          "part_short_title": "التوصيات النهائية حسب الجهات المسؤولة",
+          "part_subtitle": "Stakeholder-Specific Recommendations for Sustainable Management of Tuta absoluta",
+          "content_path": "tuta/9/25.json"
+        },
+        {
+          "part_title": "القسم السادس والعشرون: الخاتمة العامة الموسعة",
+          "part_short_title": "الخاتمة العامة الموسعة",
+          "part_subtitle": "Tuta absoluta: A Difficult Pest to Manage, but Not an Impossible One",
+          "content_path": "tuta/9/26.json"
+        }
+      ]
+    },
+    {
+      "tab_title": "النموذج الحراري المتكامل",
+      "content_path": "tuta/10.json"
     }
   ]
 }
