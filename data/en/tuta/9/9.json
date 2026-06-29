@@ -1,0 +1,3936 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 9,
+  "part_title": "Section Nine: Microbial and Entomopathogenic Control",
+  "part_short_title": "Microbial and Entomopathogenic Control",
+  "part_subtitle": "Microbial and Entomopathogenic Control of Tuta absoluta",
+  "content_path": "tuta/9/9.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Microbial control relies on the use of microorganisms or their biological products to infect Tuta absoluta, disrupt its physiological functions, or kill it, while reducing dependence on conventional chemical insecticides.",
+          "prepared_text": "[[prepared]]Microbial control relies on the use of microorganisms or their biological products to infect Tuta absoluta, disrupt its physiological functions, or kill it, while reducing dependence on conventional chemical insecticides."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal groups of microbial control agents studied against the pest include:",
+          "prepared_text": "[[prepared]]The principal groups of microbial control agents studied against the pest include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Entomopathogenic bacteria, particularly Bacillus thuringiensis.",
+            "2. Entomopathogenic fungi, such as Beauveria bassiana and Metarhizium anisopliae.",
+            "3. Entomopathogenic nematodes, such as species of Steinernema and Heterorhabditis.",
+            "4. Insect viruses, particularly granuloviruses belonging to the family Baculoviridae.",
+            "5. Symbiotic bacteria associated with nematodes, which remain an area of research not yet fully translated into direct commercial use."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Entomopathogenic bacteria, particularly Bacillus thuringiensis.",
+            "[[prepared]]2. Entomopathogenic fungi, such as Beauveria bassiana and Metarhizium anisopliae.",
+            "[[prepared]]3. Entomopathogenic nematodes, such as species of Steinernema and Heterorhabditis.",
+            "[[prepared]]4. Insect viruses, particularly granuloviruses belonging to the family Baculoviridae.",
+            "[[prepared]]5. Symbiotic bacteria associated with nematodes, which remain an area of research not yet fully translated into direct commercial use."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These agents differ fundamentally in how they enter the insect:",
+          "prepared_text": "[[prepared]]These agents differ fundamentally in how they enter the insect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The larva must ingest B. thuringiensis bacteria or their toxins.",
+            "Fungi penetrate the external cuticle after spores germinate on it.",
+            "Nematodes enter larvae through natural openings and then release symbiotic bacteria into the body cavity.",
+            "The larva must ingest viral occlusion bodies before infection begins."
+          ],
+          "prepared_items": [
+            "[[prepared]]The larva must ingest B. thuringiensis bacteria or their toxins.",
+            "[[prepared]]Fungi penetrate the external cuticle after spores germinate on it.",
+            "[[prepared]]Nematodes enter larvae through natural openings and then release symbiotic bacteria into the body cavity.",
+            "[[prepared]]The larva must ingest viral occlusion bodies before infection begins."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The same rules therefore cannot be applied to all of these organisms, and they cannot be evaluated solely according to speed of kill.",
+          "prepared_text": "[[prepared]]The same rules therefore cannot be applied to all of these organisms, and they cannot be evaluated solely according to speed of kill."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Importance of Microbial Control in the Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The importance of microbial agents increases because of:",
+          "prepared_text": "[[prepared]]The importance of microbial agents increases because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The pest’s ability to develop resistance to several chemical insecticides.",
+            "Larval presence inside mines, reducing exposure to some contact insecticides.",
+            "The need for products compatible with egg parasitoids and predators.",
+            "The lower residue concern associated with correctly used registered microbial products.",
+            "The possibility of targeting several stages of the pest life cycle.",
+            "Their role within mode-of-action rotation programs.",
+            "Suitability of some products for use near harvest according to the registered label.",
+            "Their ability to reduce selection pressure caused by excessive chemical-insecticide use."
+          ],
+          "prepared_items": [
+            "[[prepared]]The pest’s ability to develop resistance to several chemical insecticides.",
+            "[[prepared]]Larval presence inside [[term:mines]]mines[[/term]], reducing exposure to some contact insecticides.",
+            "[[prepared]]The need for products compatible with [[term:biological-control]]egg parasitoids[[/term]] and predators.",
+            "[[prepared]]The lower residue concern associated with correctly used registered microbial products.",
+            "[[prepared]]The possibility of targeting several stages of the pest life cycle.",
+            "[[prepared]]Their role within mode-of-action rotation programs.",
+            "[[prepared]]Suitability of some products for use near harvest according to the registered label.",
+            "[[prepared]]Their ability to reduce selection pressure caused by excessive chemical-insecticide use."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, describing a product as “biological” does not automatically mean that it is:",
+          "prepared_text": "[[prepared]]However, describing a product as “biological” does not automatically mean that it is:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fast acting.",
+            "Effective at all temperatures.",
+            "Compatible with all pesticides.",
+            "Unaffected by sunlight.",
+            "Capable of reaching large larvae inside fruits.",
+            "Equally effective among all strains and formulations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fast acting.",
+            "[[prepared]]Effective at all temperatures.",
+            "[[prepared]]Compatible with all pesticides.",
+            "[[prepared]]Unaffected by sunlight.",
+            "[[prepared]]Capable of reaching large larvae inside fruits.",
+            "[[prepared]]Equally effective among all strains and formulations."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Conditions for Success of Microbial Control Agents"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy depends on the interaction of five components.",
+          "prepared_text": "[[prepared]]Efficacy depends on the interaction of five components."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "First: The Pathogen"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This includes:",
+          "prepared_text": "[[prepared]]This includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Species.",
+            "Strain.",
+            "Concentration.",
+            "Viability of spores or infective units.",
+            "Product purity.",
+            "Production date and storage conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Species.",
+            "[[prepared]]Strain.",
+            "[[prepared]]Concentration.",
+            "[[prepared]]Viability of spores or infective units.",
+            "[[prepared]]Product purity.",
+            "[[prepared]]Production date and storage conditions."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Second: Pest Stage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In general:",
+          "prepared_text": "[[prepared]]In general:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Young larvae are more susceptible to Bacillus thuringiensis and viruses.",
+            "Eggs and exposed larvae may be susceptible to some fungi.",
+            "Larvae inside mines may be reached by some nematodes when a suitable water film is present.",
+            "Pupae in soil are potential targets for fungi and nematodes."
+          ],
+          "prepared_items": [
+            "[[prepared]]Young larvae are more susceptible to Bacillus thuringiensis and viruses.",
+            "[[prepared]]Eggs and exposed larvae may be susceptible to some fungi.",
+            "[[prepared]]Larvae inside mines may be reached by some nematodes when a suitable water film is present.",
+            "[[prepared]][[term:pupation]]Pupae[[/term]] in soil are potential targets for fungi and nematodes."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Third: Environmental Conditions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Temperature.",
+            "Humidity.",
+            "Duration of leaf-surface wetness.",
+            "Intensity of ultraviolet radiation.",
+            "Wind.",
+            "Rainfall or overhead irrigation.",
+            "Soil moisture."
+          ],
+          "prepared_items": [
+            "[[prepared]]Temperature.",
+            "[[prepared]]Humidity.",
+            "[[prepared]]Duration of leaf-surface wetness.",
+            "[[prepared]]Intensity of ultraviolet radiation.",
+            "[[prepared]]Wind.",
+            "[[prepared]]Rainfall or overhead irrigation.",
+            "[[prepared]]Soil moisture."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fourth: Application Method"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This includes:",
+          "prepared_text": "[[prepared]]This includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Application timing.",
+            "Spray-water volume.",
+            "Coverage.",
+            "Droplet size.",
+            "Access to lower leaf surfaces.",
+            "Access to growing points and clusters.",
+            "Soil treatment when pupae are targeted.",
+            "Repeat applications."
+          ],
+          "prepared_items": [
+            "[[prepared]]Application timing.",
+            "[[prepared]]Spray-water volume.",
+            "[[prepared]]Coverage.",
+            "[[prepared]]Droplet size.",
+            "[[prepared]]Access to lower leaf surfaces.",
+            "[[prepared]]Access to growing points and clusters.",
+            "[[prepared]]Soil treatment when pupae are targeted.",
+            "[[prepared]]Repeat applications."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fifth: The Surrounding Integrated System"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This includes:",
+          "prepared_text": "[[prepared]]This includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Presence of predators and parasitoids.",
+            "Pesticides used before and after application.",
+            "Infestation level.",
+            "Continued moth immigration.",
+            "Residue removal.",
+            "Harvest timing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Presence of predators and parasitoids.",
+            "[[prepared]]Pesticides used before and after application.",
+            "[[prepared]]Infestation level.",
+            "[[prepared]]Continued moth immigration.",
+            "[[prepared]]Residue removal.",
+            "[[prepared]]Harvest timing."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "First: Bacillus thuringiensis"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Definition"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bacillus thuringiensis, abbreviated Bt, is a Gram-positive, spore-forming bacterium that produces protein crystals with toxic activity against specific insect groups during sporulation.",
+          "prepared_text": "[[prepared]]Bacillus thuringiensis, abbreviated Bt, is a Gram-positive, spore-forming bacterium that produces protein crystals with toxic activity against specific insect groups during sporulation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Products intended for lepidopteran larvae use strains or subspecies such as:",
+          "prepared_text": "[[prepared]]Products intended for lepidopteran larvae use strains or subspecies such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "B. thuringiensis subsp. kurstaki.",
+            "B. thuringiensis subsp. aizawai.",
+            "Other strains or mixtures containing different insecticidal proteins."
+          ],
+          "prepared_items": [
+            "[[prepared]]B. thuringiensis subsp. kurstaki.",
+            "[[prepared]]B. thuringiensis subsp. aizawai.",
+            "[[prepared]]Other strains or mixtures containing different insecticidal proteins."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Commercial products generally contain:",
+          "prepared_text": "[[prepared]]Commercial products generally contain:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Bacterial spores.",
+            "Protein crystals.",
+            "Carrier materials.",
+            "Spreaders or adjuvants that differ among formulations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Bacterial spores.",
+            "[[prepared]]Protein crystals.",
+            "[[prepared]]Carrier materials.",
+            "[[prepared]]Spreaders or adjuvants that differ among formulations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt products are not equivalent merely because they carry the same species name. They differ in strain, toxin composition, concentration, formulation, and field persistence.",
+          "prepared_text": "[[prepared]]Bt products are not equivalent merely because they carry the same species name. They differ in strain, toxin composition, concentration, formulation, and field persistence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mode of Action of Bt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt acts primarily as a stomach poison rather than as a conventional contact insecticide.",
+          "prepared_text": "[[prepared]]Bt acts primarily as a stomach poison rather than as a conventional contact insecticide."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its mode of action proceeds as follows:",
+          "prepared_text": "[[prepared]]Its [[term:mode-of-action]]mode of action[[/term]] proceeds as follows:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. The larva ingests protein crystals and spores while feeding.",
+            "2. The crystals dissolve in the alkaline environment of the midgut.",
+            "3. Digestive enzymes activate the protoxins.",
+            "4. Active toxins bind to specific receptors on midgut cells.",
+            "5. Pores form or severe membrane damage occurs.",
+            "6. The larva stops feeding.",
+            "7. Midgut tissue collapses and systemic physiological disruption develops.",
+            "8. The larva dies after a period that varies according to dose, instar, and strain."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. The larva ingests protein crystals and spores while feeding.",
+            "[[prepared]]2. The crystals dissolve in the alkaline environment of the midgut.",
+            "[[prepared]]3. Digestive enzymes activate the protoxins.",
+            "[[prepared]]4. Active toxins bind to specific receptors on midgut cells.",
+            "[[prepared]]5. Pores form or severe membrane damage occurs.",
+            "[[prepared]]6. The larva stops feeding.",
+            "[[prepared]]7. Midgut tissue collapses and systemic physiological disruption develops.",
+            "[[prepared]]8. The larva dies after a period that varies according to dose, instar, and strain."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This mechanism explains the importance of the larva ingesting a sufficient dose before it penetrates deeply into plant tissue.",
+          "prepared_text": "[[prepared]]This mechanism explains the importance of the larva ingesting a sufficient dose before it penetrates deeply into plant tissue."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cry and Vip Proteins"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt strains produce different groups of proteins.",
+          "prepared_text": "[[prepared]]Bt strains produce different groups of proteins."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Cry Proteins"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These generally occur in crystals formed during sporulation and act after ingestion and activation in the midgut.",
+          "prepared_text": "[[prepared]]These generally occur in crystals formed during sporulation and act after ingestion and activation in the midgut."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Vip Proteins"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are insecticidal proteins produced during vegetative bacterial growth and differ partly in receptors and binding mechanisms from some Cry proteins.",
+          "prepared_text": "[[prepared]]These are insecticidal proteins produced during vegetative bacterial growth and differ partly in receptors and binding mechanisms from some Cry proteins."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Laboratory studies have shown activity of proteins such as Vip3Aa16 against Tuta absoluta larvae, with clear pathological changes in the midgut.",
+          "prepared_text": "[[prepared]]Laboratory studies have shown activity of proteins such as Vip3Aa16 against Tuta absoluta larvae, with clear pathological changes in the midgut."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, results from purified or experimentally produced proteins cannot automatically be converted into field recommendations unless a stable registered formulation exists.",
+          "prepared_text": "[[prepared]]However, results from purified or experimentally produced proteins cannot automatically be converted into field recommendations unless a stable registered formulation exists."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Most Suitable Stages for Bt Application"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt is most suitable for targeting:",
+          "prepared_text": "[[prepared]]Bt is most suitable for targeting:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Newly hatched larvae.",
+            "First-instar larvae.",
+            "Second-instar larvae before deep penetration into tissues.",
+            "Larvae in superficial mines still feeding close to treated surfaces."
+          ],
+          "prepared_items": [
+            "[[prepared]]Newly hatched larvae.",
+            "[[prepared]]First-instar larvae.",
+            "[[prepared]]Second-instar larvae before deep penetration into tissues.",
+            "[[prepared]]Larvae in superficial mines still feeding close to treated surfaces."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Practical efficacy generally declines with:",
+          "prepared_text": "[[prepared]]Practical efficacy generally declines with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Advancing larval instar.",
+            "Larval entry into fruits or stems.",
+            "Cessation of feeding.",
+            "Poor coverage.",
+            "Degradation of residues on leaves."
+          ],
+          "prepared_items": [
+            "[[prepared]]Advancing [[term:larval-instar]]larval instar[[/term]].",
+            "[[prepared]]Larval entry into fruits or stems.",
+            "[[prepared]]Cessation of feeding.",
+            "[[prepared]]Poor coverage.",
+            "[[prepared]]Degradation of residues on leaves."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt does not provide sufficient direct activity against:",
+          "prepared_text": "[[prepared]]Bt does not provide sufficient direct activity against:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Adult moths.",
+            "Pupae.",
+            "Eggs before hatching, except where newly hatched larvae ingest surrounding residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Adult moths.",
+            "[[prepared]]Pupae.",
+            "[[prepared]]Eggs before hatching, except where newly hatched larvae ingest surrounding residues."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Importance of Application Timing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt timing is determined according to:",
+          "prepared_text": "[[prepared]]Bt timing is determined according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Beginning of oviposition.",
+            "Egg age.",
+            "Expected hatching date.",
+            "Appearance of the first small mines.",
+            "Accumulated degree-days.",
+            "Increased trap catches together with confirmation of eggs on plants."
+          ],
+          "prepared_items": [
+            "[[prepared]]Beginning of oviposition.",
+            "[[prepared]]Egg age.",
+            "[[prepared]]Expected hatching date.",
+            "[[prepared]]Appearance of the first small mines.",
+            "[[prepared]]Accumulated degree-days.",
+            "[[prepared]]Increased trap catches together with confirmation of eggs on plants."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The objective is to establish an effective residue layer on tissues where larvae will begin feeding immediately after hatching.",
+          "prepared_text": "[[prepared]]The objective is to establish an effective residue layer on tissues where larvae will begin feeding immediately after hatching."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application should not be delayed until most of the population consists of third- and fourth-instar larvae.",
+          "prepared_text": "[[prepared]]Application should not be delayed until most of the population consists of third- and fourth-instar larvae."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Required Coverage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Because Bt is non-systemic in conventional applications, efficacy depends on deposition at larval feeding sites.",
+          "prepared_text": "[[prepared]]Because Bt is non-systemic in conventional applications, efficacy depends on deposition at larval feeding sites."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Coverage should include:",
+          "prepared_text": "[[prepared]]Coverage should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Terminal growth.",
+            "Most recently formed leaves.",
+            "Lower leaf surfaces.",
+            "Petioles.",
+            "Areas near clusters.",
+            "Leaves touching fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Terminal growth.",
+            "[[prepared]]Most recently formed leaves.",
+            "[[prepared]]Lower leaf surfaces.",
+            "[[prepared]]Petioles.",
+            "[[prepared]]Areas near clusters.",
+            "[[prepared]]Leaves touching fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Uneven coverage leaves untreated plant parts through which larvae can enter without ingesting an effective dose.",
+          "prepared_text": "[[prepared]]Uneven coverage leaves untreated plant parts through which larvae can enter without ingesting an effective dose."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spray-Water Volume and Calibration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single spray-water volume is suitable for all fields.",
+          "prepared_text": "[[prepared]]No single spray-water volume is suitable for all fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Volume is determined according to:",
+          "prepared_text": "[[prepared]]Volume is determined according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant age.",
+            "Canopy density.",
+            "Nozzle type.",
+            "Sprayer speed.",
+            "Pressure.",
+            "Leaf area.",
+            "Cropping system."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant age.",
+            "[[prepared]]Canopy density.",
+            "[[prepared]]Nozzle type.",
+            "[[prepared]]Sprayer speed.",
+            "[[prepared]]Pressure.",
+            "[[prepared]]Leaf area.",
+            "[[prepared]]Cropping system."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The selected volume should achieve:",
+          "prepared_text": "[[prepared]]The selected volume should achieve:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Uniform coverage.",
+            "Deposition on both upper and lower leaf surfaces.",
+            "Minimal excessive runoff.",
+            "Minimal loss to the soil."
+          ],
+          "prepared_items": [
+            "[[prepared]]Uniform coverage.",
+            "[[prepared]]Deposition on both upper and lower leaf surfaces.",
+            "[[prepared]]Minimal excessive runoff.",
+            "[[prepared]]Minimal loss to the soil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The sprayer should be calibrated using water before the product is added.",
+          "prepared_text": "[[prepared]]The sprayer should be calibrated using water before the product is added."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effects of Radiation and Weather"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt proteins and spores are degraded by:",
+          "prepared_text": "[[prepared]]Bt proteins and spores are degraded by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Ultraviolet radiation.",
+            "Heat on the leaf surface.",
+            "Rainfall.",
+            "Overhead irrigation.",
+            "Growth of new untreated leaves."
+          ],
+          "prepared_items": [
+            "[[prepared]]Ultraviolet radiation.",
+            "[[prepared]]Heat on the leaf surface.",
+            "[[prepared]]Rainfall.",
+            "[[prepared]]Overhead irrigation.",
+            "[[prepared]]Growth of new untreated leaves."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The protection period is therefore generally shorter than that of many long-residual chemical insecticides.",
+          "prepared_text": "[[prepared]]The protection period is therefore generally shorter than that of many long-residual chemical insecticides."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application is often preferable during periods of lower radiation, while considering rainfall or overhead irrigation forecasts and following product instructions regarding reapplication.",
+          "prepared_text": "[[prepared]]Application is often preferable during periods of lower radiation, while considering rainfall or overhead irrigation forecasts and following product instructions regarding reapplication."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no fixed reapplication interval for all products. It may range from:",
+          "prepared_text": "[[prepared]]There is no fixed reapplication interval for all products. It may range from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Several days.",
+            "Approximately one week.",
+            "Other intervals according to the registered label and pest pressure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Several days.",
+            "[[prepared]]Approximately one week.",
+            "[[prepared]]Other intervals according to the registered label and pest pressure."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spray-Water Quality"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Product efficacy may be affected by:",
+          "prepared_text": "[[prepared]]Product efficacy may be affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Highly alkaline water.",
+            "High salinity.",
+            "Chlorine or disinfectants.",
+            "Prolonged retention of the mixture in the tank.",
+            "Mixing with incompatible products."
+          ],
+          "prepared_items": [
+            "[[prepared]]Highly alkaline water.",
+            "[[prepared]]High salinity.",
+            "[[prepared]]Chlorine or disinfectants.",
+            "[[prepared]]Prolonged retention of the mixture in the tank.",
+            "[[prepared]]Mixing with incompatible products."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be observed:",
+          "prepared_text": "[[prepared]]The following should be observed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Use clean water.",
+            "Test pH and electrical conductivity when a problem is suspected.",
+            "Prepare the mixture shortly before application.",
+            "Maintain agitation.",
+            "Follow the mixing order stated on the label.",
+            "Conduct a small compatibility test when clear data are unavailable."
+          ],
+          "prepared_items": [
+            "[[prepared]]Use clean water.",
+            "[[prepared]]Test pH and electrical conductivity when a problem is suspected.",
+            "[[prepared]]Prepare the mixture shortly before application.",
+            "[[prepared]]Maintain agitation.",
+            "[[prepared]]Follow the mixing order stated on the label.",
+            "[[prepared]]Conduct a small compatibility test when clear data are unavailable."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Acids, alkalis, or adjuvants should not be added randomly to a microbial product.",
+          "prepared_text": "[[prepared]]Acids, alkalis, or adjuvants should not be added randomly to a microbial product."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Evaluation of Bt Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Immediate larval knockdown and mortality should not always be expected. The first biological effect may be cessation of feeding.",
+          "prepared_text": "[[prepared]]Immediate larval knockdown and mortality should not always be expected. The first biological effect may be cessation of feeding."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy is measured through:",
+          "prepared_text": "[[prepared]]Efficacy is measured through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduction in new mines.",
+            "Cessation of expansion of existing mines.",
+            "Reduction in live larvae.",
+            "Reduction in growing-point infestation.",
+            "Reduced movement of larvae into fruits.",
+            "Reduced fruit infestation in the following generation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduction in new mines.",
+            "[[prepared]]Cessation of expansion of existing mines.",
+            "[[prepared]]Reduction in live larvae.",
+            "[[prepared]]Reduction in growing-point infestation.",
+            "[[prepared]]Reduced movement of larvae into fruits.",
+            "[[prepared]]Reduced fruit infestation in the following generation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Old mines should not be used as the measure of treatment outcome because they remain visible after larval death.",
+          "prepared_text": "[[prepared]]Old mines should not be used as the measure of treatment outcome because they remain visible after larval death."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance to Bt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance to Bt proteins can develop when the same strain or toxins are used intensively and repeatedly.",
+          "prepared_text": "[[prepared]]Resistance to Bt proteins can develop when the same strain or toxins are used intensively and repeatedly."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance management includes:",
+          "prepared_text": "[[prepared]]Resistance management includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoiding exclusive reliance on Bt throughout the season.",
+            "Rotating tools with different modes of action.",
+            "Integrating with parasitoids and predators.",
+            "Targeting young instars at the registered dose.",
+            "Avoiding ineffective low doses.",
+            "Monitoring gradual declines in efficacy.",
+            "Not assuming that changing the trade name changes the toxin group."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoiding exclusive reliance on Bt throughout the season.",
+            "[[prepared]]Rotating tools with different modes of action.",
+            "[[prepared]]Integrating with parasitoids and predators.",
+            "[[prepared]]Targeting young instars at the registered dose.",
+            "[[prepared]]Avoiding ineffective low doses.",
+            "[[prepared]]Monitoring gradual declines in efficacy.",
+            "[[prepared]]Not assuming that changing the trade name changes the toxin group."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The product’s strain and toxin profile should be verified, not only its trade name.",
+          "prepared_text": "[[prepared]]The product’s strain and toxin profile should be verified, not only its trade name."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Second: Entomopathogenic Fungi"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Principal Species"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal fungi studied against Tuta absoluta include:",
+          "prepared_text": "[[prepared]]The principal fungi studied against Tuta absoluta include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Beauveria bassiana.",
+            "Beauveria pseudobassiana.",
+            "Metarhizium anisopliae.",
+            "Other species and strains of Metarhizium.",
+            "Lecanicillium muscarium.",
+            "Cordyceps fumosorosea, formerly known as Isaria fumosorosea.",
+            "Other fungi evaluated in laboratory studies with variable results."
+          ],
+          "prepared_items": [
+            "[[prepared]]Beauveria bassiana.",
+            "[[prepared]]Beauveria pseudobassiana.",
+            "[[prepared]]Metarhizium anisopliae.",
+            "[[prepared]]Other species and strains of Metarhizium.",
+            "[[prepared]]Lecanicillium muscarium.",
+            "[[prepared]]Cordyceps fumosorosea, formerly known as Isaria fumosorosea.",
+            "[[prepared]]Other fungi evaluated in laboratory studies with variable results."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy does not depend on species name alone. Two strains of the same species may differ greatly in:",
+          "prepared_text": "[[prepared]]Efficacy does not depend on species name alone. Two strains of the same species may differ greatly in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Germination speed.",
+            "Capacity to penetrate the cuticle.",
+            "Heat tolerance.",
+            "Sporulation.",
+            "Virulence against the target stage.",
+            "Capacity for endophytic colonization."
+          ],
+          "prepared_items": [
+            "[[prepared]]Germination speed.",
+            "[[prepared]]Capacity to penetrate the cuticle.",
+            "[[prepared]]Heat tolerance.",
+            "[[prepared]]Sporulation.",
+            "[[prepared]]Virulence against the target stage.",
+            "[[prepared]]Capacity for endophytic colonization."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mode of Fungal Infection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fungi do not need to be ingested to initiate infection.",
+          "prepared_text": "[[prepared]]Fungi do not need to be ingested to initiate infection."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The process generally proceeds as follows:",
+          "prepared_text": "[[prepared]]The process generally proceeds as follows:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. A spore adheres to the insect body surface.",
+            "2. It absorbs moisture and begins germinating.",
+            "3. A germ tube and penetration structure form.",
+            "4. Enzymes are secreted to degrade cuticular components.",
+            "5. The fungus penetrates the body wall.",
+            "6. It spreads through the haemocoel.",
+            "7. It consumes nutrients and may produce toxic metabolites.",
+            "8. The insect dies.",
+            "9. Under suitable humidity, the fungus grows externally on the cadaver.",
+            "10. New spores form and may contribute to additional infections."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. A spore adheres to the insect body surface.",
+            "[[prepared]]2. It absorbs moisture and begins germinating.",
+            "[[prepared]]3. A germ tube and penetration structure form.",
+            "[[prepared]]4. Enzymes are secreted to degrade cuticular components.",
+            "[[prepared]]5. The fungus penetrates the body wall.",
+            "[[prepared]]6. It spreads through the haemocoel.",
+            "[[prepared]]7. It consumes nutrients and may produce toxic metabolites.",
+            "[[prepared]]8. The insect dies.",
+            "[[prepared]]9. Under suitable humidity, the fungus grows externally on the cadaver.",
+            "[[prepared]]10. New spores form and may contribute to additional infections."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Time to death varies according to strain, concentration, temperature, and insect stage.",
+          "prepared_text": "[[prepared]]Time to death varies according to strain, concentration, temperature, and insect stage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pest Stages Targeted by Fungi"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some strains can infect:",
+          "prepared_text": "[[prepared]]Some strains can infect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Newly hatched larvae.",
+            "Larvae in superficial mines.",
+            "Pupae in soil.",
+            "Adult moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Newly hatched larvae.",
+            "[[prepared]]Larvae in superficial mines.",
+            "[[prepared]]Pupae in soil.",
+            "[[prepared]]Adult moths."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Susceptibility differs among stages.",
+          "prepared_text": "[[prepared]]Susceptibility differs among stages."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae inside plant tissues are partly protected from direct spore contact, whereas the following may be targeted:",
+          "prepared_text": "[[prepared]]Larvae inside plant tissues are partly protected from direct spore contact, whereas the following may be targeted:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larvae during hatching.",
+            "Larvae moving between mines.",
+            "Larvae close to the mine surface.",
+            "Pupae in treated soil.",
+            "Adult moths contacting spore-covered plant surfaces."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larvae during hatching.",
+            "[[prepared]]Larvae moving between mines.",
+            "[[prepared]]Larvae close to the mine surface.",
+            "[[prepared]]Pupae in treated soil.",
+            "[[prepared]]Adult moths contacting spore-covered plant surfaces."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Humidity"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Spores require suitable moisture for germination and penetration.",
+          "prepared_text": "[[prepared]]Spores require suitable moisture for germination and penetration."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not mean plants must remain saturated with water. It means that the following are important:",
+          "prepared_text": "[[prepared]]This does not mean plants must remain saturated with water. It means that the following are important:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Suitable relative humidity in the boundary layer near the leaf surface.",
+            "A sufficient period for spore germination.",
+            "Prevention of immediate drying of residues after application."
+          ],
+          "prepared_items": [
+            "[[prepared]]Suitable relative humidity in the boundary layer near the leaf surface.",
+            "[[prepared]]A sufficient period for spore germination.",
+            "[[prepared]]Prevention of immediate drying of residues after application."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy generally declines under:",
+          "prepared_text": "[[prepared]]Efficacy generally declines under:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Severe dryness.",
+            "Dry winds.",
+            "Temperatures unsuitable for the strain.",
+            "Strong direct sunlight."
+          ],
+          "prepared_items": [
+            "[[prepared]]Severe dryness.",
+            "[[prepared]]Dry winds.",
+            "[[prepared]]Temperatures unsuitable for the strain.",
+            "[[prepared]]Strong direct sunlight."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application near evening is therefore more suitable in many environments, provided it is not followed by rainfall or irrigation that washes the product off.",
+          "prepared_text": "[[prepared]]Application near evening is therefore more suitable in many environments, provided it is not followed by rainfall or irrigation that washes the product off."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effect of Ultraviolet Radiation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Ultraviolet radiation is one of the principal factors degrading fungal spores on plant surfaces.",
+          "prepared_text": "[[prepared]]Ultraviolet radiation is one of the principal factors degrading fungal spores on plant surfaces."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may cause:",
+          "prepared_text": "[[prepared]]It may cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced germination.",
+            "Spore damage.",
+            "Shorter residual activity.",
+            "Differences in efficacy between exposed and shaded surfaces."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced germination.",
+            "[[prepared]]Spore damage.",
+            "[[prepared]]Shorter residual activity.",
+            "[[prepared]]Differences in efficacy between exposed and shaded surfaces."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some oil-based formulations and carriers may improve:",
+          "prepared_text": "[[prepared]]Some oil-based formulations and carriers may improve:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Adhesion.",
+            "Desiccation tolerance.",
+            "Spore distribution.",
+            "Relative persistence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Adhesion.",
+            "[[prepared]]Desiccation tolerance.",
+            "[[prepared]]Spore distribution.",
+            "[[prepared]]Relative persistence."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, formulation effects should be demonstrated for the specific product and not generalized to all oil formulations.",
+          "prepared_text": "[[prepared]]However, formulation effects should be demonstrated for the specific product and not generalized to all oil formulations."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Foliar Application of Fungi"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Foliar application aims to place viable spores on:",
+          "prepared_text": "[[prepared]]Foliar application aims to place viable spores on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Young leaves.",
+            "Oviposition sites.",
+            "Mine entrances.",
+            "Growing points.",
+            "Areas where adult moths occur."
+          ],
+          "prepared_items": [
+            "[[prepared]]Young leaves.",
+            "[[prepared]]Oviposition sites.",
+            "[[prepared]]Mine entrances.",
+            "[[prepared]]Growing points.",
+            "[[prepared]]Areas where adult moths occur."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Requirements include:",
+          "prepared_text": "[[prepared]]Requirements include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Use of the registered dose.",
+            "Maintenance of spore viability.",
+            "Avoidance of water or tank mixes toxic to the fungus.",
+            "Good coverage.",
+            "Suitable environmental timing.",
+            "Avoiding prolonged retention of the mixture in the tank."
+          ],
+          "prepared_items": [
+            "[[prepared]]Use of the registered dose.",
+            "[[prepared]]Maintenance of spore viability.",
+            "[[prepared]]Avoidance of water or tank mixes toxic to the fungus.",
+            "[[prepared]]Good coverage.",
+            "[[prepared]]Suitable environmental timing.",
+            "[[prepared]]Avoiding prolonged retention of the mixture in the tank."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The fungus should not be expected to penetrate fruit tissue and reach a deeply concealed larva merely because it was sprayed on the fruit surface.",
+          "prepared_text": "[[prepared]]The fungus should not be expected to penetrate fruit tissue and reach a deeply concealed larva merely because it was sprayed on the fruit surface."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Targeting Pupae in Soil"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Experimental studies have demonstrated susceptibility of Tuta absoluta pupae to products containing:",
+          "prepared_text": "[[prepared]]Experimental studies have demonstrated susceptibility of Tuta absoluta pupae to products containing:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Beauveria bassiana.",
+            "Metarhizium anisopliae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Beauveria bassiana.",
+            "[[prepared]]Metarhizium anisopliae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When applied to soil.",
+          "prepared_text": "[[prepared]]When applied to soil."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Treatments have resulted in:",
+          "prepared_text": "[[prepared]]Treatments have resulted in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced adult emergence.",
+            "Differences in efficacy among formulations and strains.",
+            "Reduced fertility of some surviving adults."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced adult emergence.",
+            "[[prepared]]Differences in efficacy among formulations and strains.",
+            "[[prepared]]Reduced fertility of some surviving adults."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, field efficacy is affected by:",
+          "prepared_text": "[[prepared]]However, field efficacy is affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Proportion of larvae actually pupating in soil.",
+            "Pupation depth.",
+            "Soil moisture.",
+            "Temperature.",
+            "Organic matter.",
+            "Fungicides present.",
+            "Distribution of the treatment solution."
+          ],
+          "prepared_items": [
+            "[[prepared]]Proportion of larvae actually pupating in soil.",
+            "[[prepared]]Pupation depth.",
+            "[[prepared]]Soil moisture.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Organic matter.",
+            "[[prepared]]Fungicides present.",
+            "[[prepared]]Distribution of the treatment solution."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Soil targeting should therefore be used as a supplementary component rather than a substitute for egg and larval control.",
+          "prepared_text": "[[prepared]]Soil targeting should therefore be used as a supplementary component rather than a substitute for egg and larval control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Beauveria bassiana"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "B. bassiana is among the most extensively studied fungi against the pest.",
+          "prepared_text": "[[prepared]]B. bassiana is among the most extensively studied fungi against the pest."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its efficacy has been evaluated through:",
+          "prepared_text": "[[prepared]]Its efficacy has been evaluated through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Foliar spraying.",
+            "Direct treatment of eggs and larvae.",
+            "Soil treatment.",
+            "Endophytic colonization.",
+            "Aqueous and oil-based formulations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Foliar spraying.",
+            "[[prepared]]Direct treatment of eggs and larvae.",
+            "[[prepared]]Soil treatment.",
+            "[[prepared]]Endophytic colonization.",
+            "[[prepared]]Aqueous and oil-based formulations."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Results vary among strains and products. One strain may be highly virulent while another performs poorly under the same conditions.",
+          "prepared_text": "[[prepared]]Results vary among strains and products. One strain may be highly virulent while another performs poorly under the same conditions."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The name B. bassiana alone is insufficient for predicting outcome.",
+          "prepared_text": "[[prepared]]The name B. bassiana alone is insufficient for predicting outcome."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Metarhizium anisopliae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Strains of M. anisopliae have shown the ability to infect:",
+          "prepared_text": "[[prepared]]Strains of M. anisopliae have shown the ability to infect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larvae.",
+            "Adult moths.",
+            "Pupae in soil."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larvae.",
+            "[[prepared]]Adult moths.",
+            "[[prepared]]Pupae in soil."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field trials have also shown that some strains can reduce damage and increase marketable yield.",
+          "prepared_text": "[[prepared]]Field trials have also shown that some strains can reduce damage and increase [[term:marketable-yield]]marketable yield[[/term]]."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Variation among strains is substantial. Results from one strain should not be used to evaluate all Metarhizium products.",
+          "prepared_text": "[[prepared]]Variation among strains is substantial. Results from one strain should not be used to evaluate all Metarhizium products."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be documented:",
+          "prepared_text": "[[prepared]]The following should be documented:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Strain number.",
+            "Concentration.",
+            "Formulation.",
+            "Application method.",
+            "Environmental conditions.",
+            "Number of applications."
+          ],
+          "prepared_items": [
+            "[[prepared]]Strain number.",
+            "[[prepared]]Concentration.",
+            "[[prepared]]Formulation.",
+            "[[prepared]]Application method.",
+            "[[prepared]]Environmental conditions.",
+            "[[prepared]]Number of applications."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Lecanicillium muscarium and Cordyceps fumosorosea"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Strains of L. muscarium and C. fumosorosea have been tested against eggs, larvae, and adult moths.",
+          "prepared_text": "[[prepared]]Strains of L. muscarium and C. fumosorosea have been tested against eggs, larvae, and adult moths."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Good efficacy has been achieved in laboratory or greenhouse studies under:",
+          "prepared_text": "[[prepared]]Good efficacy has been achieved in laboratory or greenhouse studies under:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High spore concentrations.",
+            "Suitable humidity.",
+            "Direct contact with the target stage."
+          ],
+          "prepared_items": [
+            "[[prepared]]High spore concentrations.",
+            "[[prepared]]Suitable humidity.",
+            "[[prepared]]Direct contact with the target stage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, commercial field data are less extensive than those available for Beauveria and Metarhizium.",
+          "prepared_text": "[[prepared]]However, commercial field data are less extensive than those available for Beauveria and Metarhizium."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Products should therefore be used according to:",
+          "prepared_text": "[[prepared]]Products should therefore be used according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The registered strain.",
+            "Local trial results.",
+            "Label instructions.",
+            "Compatibility with the pesticide program."
+          ],
+          "prepared_items": [
+            "[[prepared]]The registered strain.",
+            "[[prepared]]Local trial results.",
+            "[[prepared]]Label instructions.",
+            "[[prepared]]Compatibility with the pesticide program."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Endophytic Colonization"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Endophytic Colonization"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some entomopathogenic fungal strains can colonize tomato tissues internally after application by methods such as:",
+          "prepared_text": "[[prepared]]Some entomopathogenic fungal strains can colonize tomato tissues internally after application by methods such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Foliar spraying.",
+            "Root dipping.",
+            "Seed treatment.",
+            "Soil drench around roots."
+          ],
+          "prepared_items": [
+            "[[prepared]]Foliar spraying.",
+            "[[prepared]]Root dipping.",
+            "[[prepared]]Seed treatment.",
+            "[[prepared]]Soil drench around roots."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In some studies, endophytic colonization has resulted in:",
+          "prepared_text": "[[prepared]]In some studies, endophytic colonization has resulted in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced larval survival.",
+            "Slower development.",
+            "Reduced fecundity or population growth.",
+            "Changes in plant response to infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced larval survival.",
+            "[[prepared]]Slower development.",
+            "[[prepared]]Reduced fecundity or population growth.",
+            "[[prepared]]Changes in plant response to infestation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, endophytic colonization is not a fixed property of every strain. It may differ among:",
+          "prepared_text": "[[prepared]]However, endophytic colonization is not a fixed property of every strain. It may differ among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Roots.",
+            "Stems.",
+            "Leaves.",
+            "Application methods.",
+            "Plant age.",
+            "Time after application."
+          ],
+          "prepared_items": [
+            "[[prepared]]Roots.",
+            "[[prepared]]Stems.",
+            "[[prepared]]Leaves.",
+            "[[prepared]]Application methods.",
+            "[[prepared]]Plant age.",
+            "[[prepared]]Time after application."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Detection of the fungus within the plant does not necessarily mean that it will provide economically effective field control.",
+          "prepared_text": "[[prepared]]Detection of the fungus within the plant does not necessarily mean that it will provide economically effective field control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Field Evidence for Entomopathogenic Fungi"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In a two-season field trial in Uganda, M. anisopliae strain ICIPE 20 achieved:",
+          "prepared_text": "[[prepared]]In a two-season field trial in Uganda, M. anisopliae strain ICIPE 20 achieved:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced leaf and fruit damage.",
+            "More than a 22% increase in marketable yield compared with the untreated control.",
+            "A benefit-to-cost ratio greater than one and a high final economic return."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced leaf and fruit damage.",
+            "[[prepared]]More than a 22% increase in marketable yield compared with the untreated control.",
+            "[[prepared]]A benefit-to-cost ratio greater than one and a high final economic return."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This demonstrates the potential for field success, but the result applies to:",
+          "prepared_text": "[[prepared]]This demonstrates the potential for field success, but the result applies to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A specific strain.",
+            "A specific formulation.",
+            "A specific agroecological environment.",
+            "A specific application program."
+          ],
+          "prepared_items": [
+            "[[prepared]]A specific strain.",
+            "[[prepared]]A specific formulation.",
+            "[[prepared]]A specific agroecological environment.",
+            "[[prepared]]A specific application program."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should not be converted into a general recommendation for all Metarhizium strains.",
+          "prepared_text": "[[prepared]]It should not be converted into a general recommendation for all Metarhizium strains."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Confirmation of Fungal Infection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Finding a dead insect is insufficient to confirm that the fungus caused mortality.",
+          "prepared_text": "[[prepared]]Finding a dead insect is insufficient to confirm that the fungus caused mortality."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Verification includes:",
+          "prepared_text": "[[prepared]]Verification includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collecting dead individuals.",
+            "Placing them in a suitable moist chamber.",
+            "Monitoring external fungal growth.",
+            "Isolating or identifying the pathogen when necessary.",
+            "Comparing mortality with an untreated control.",
+            "Calculating corrected mortality."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collecting dead individuals.",
+            "[[prepared]]Placing them in a suitable moist chamber.",
+            "[[prepared]]Monitoring external fungal growth.",
+            "[[prepared]]Isolating or identifying the pathogen when necessary.",
+            "[[prepared]]Comparing mortality with an untreated control.",
+            "[[prepared]]Calculating corrected mortality."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field evaluation also includes:",
+          "prepared_text": "[[prepared]]Field evaluation also includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduction in live larvae.",
+            "Reduction in new mines.",
+            "Reduction in adult emergence.",
+            "Reduction in fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduction in live larvae.",
+            "[[prepared]]Reduction in new mines.",
+            "[[prepared]]Reduction in adult emergence.",
+            "[[prepared]]Reduction in fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Third: Entomopathogenic Nematodes"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Definition"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Entomopathogenic nematodes are microscopic worms belonging mainly to the families:",
+          "prepared_text": "[[prepared]]Entomopathogenic nematodes are microscopic worms belonging mainly to the families:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Steinernematidae.",
+            "Heterorhabditidae."
+          ],
+          "prepared_items": [
+            "[[prepared]]Steinernematidae.",
+            "[[prepared]]Heterorhabditidae."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Species studied against Tuta absoluta include:",
+          "prepared_text": "[[prepared]]Species studied against Tuta absoluta include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Steinernema feltiae.",
+            "Steinernema carpocapsae.",
+            "Other species and strains of Steinernema.",
+            "Heterorhabditis bacteriophora.",
+            "Local strains of Heterorhabditis."
+          ],
+          "prepared_items": [
+            "[[prepared]]Steinernema feltiae.",
+            "[[prepared]]Steinernema carpocapsae.",
+            "[[prepared]]Other species and strains of Steinernema.",
+            "[[prepared]]Heterorhabditis bacteriophora.",
+            "[[prepared]]Local strains of Heterorhabditis."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The stage used is known as the:",
+          "prepared_text": "[[prepared]]The stage used is known as the:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Infective juvenile"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is the stage capable of searching for and entering the host.",
+          "prepared_text": "[[prepared]]This is the stage capable of searching for and entering the host."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mode of Infection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Entomopathogenic nematodes function in symbiosis with bacteria:",
+          "prepared_text": "[[prepared]]Entomopathogenic nematodes function in symbiosis with bacteria:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Xenorhabdus in Steinernema species.",
+            "Photorhabdus in Heterorhabditis species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Xenorhabdus in Steinernema species.",
+            "[[prepared]]Photorhabdus in Heterorhabditis species."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infection generally proceeds as follows:",
+          "prepared_text": "[[prepared]]Infection generally proceeds as follows:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Infective juveniles reach the insect body.",
+            "2. They enter through the mouth, spiracles, or anus, while some Heterorhabditis species may penetrate thin regions of the cuticle.",
+            "3. They reach the body cavity.",
+            "4. They release their symbiotic bacteria.",
+            "5. The bacteria multiply and cause septicaemia and physiological collapse.",
+            "6. The insect usually dies within a relatively short period.",
+            "7. The nematodes reproduce inside the cadaver.",
+            "8. New generations of infective juveniles emerge when resources are depleted."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Infective juveniles reach the insect body.",
+            "[[prepared]]2. They enter through the mouth, spiracles, or anus, while some Heterorhabditis species may penetrate thin regions of the cuticle.",
+            "[[prepared]]3. They reach the body cavity.",
+            "[[prepared]]4. They release their symbiotic bacteria.",
+            "[[prepared]]5. The bacteria multiply and cause septicaemia and physiological collapse.",
+            "[[prepared]]6. The insect usually dies within a relatively short period.",
+            "[[prepared]]7. The nematodes reproduce inside the cadaver.",
+            "[[prepared]]8. New generations of infective juveniles emerge when resources are depleted."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The lethal effect depends on both the nematode and its associated bacteria.",
+          "prepared_text": "[[prepared]]The lethal effect depends on both the nematode and its associated bacteria."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Reaching Larvae Inside Mines"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Laboratory studies have shown that some nematode strains can:",
+          "prepared_text": "[[prepared]]Laboratory studies have shown that some nematode strains can:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Move through a water film on the leaf surface.",
+            "Enter through mine openings.",
+            "Reach larvae inside plant tissue.",
+            "Kill larvae within leaf mines."
+          ],
+          "prepared_items": [
+            "[[prepared]]Move through a water film on the leaf surface.",
+            "[[prepared]]Enter through mine openings.",
+            "[[prepared]]Reach larvae inside plant tissue.",
+            "[[prepared]]Kill larvae within leaf mines."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Field success is more difficult because of:",
+          "prepared_text": "[[prepared]]Field success is more difficult because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Rapid drying of the leaf surface.",
+            "Solar radiation.",
+            "Heat.",
+            "Absence of a water film.",
+            "Mine depth.",
+            "Larval position."
+          ],
+          "prepared_items": [
+            "[[prepared]]Rapid drying of the leaf surface.",
+            "[[prepared]]Solar radiation.",
+            "[[prepared]]Heat.",
+            "[[prepared]]Absence of a water film.",
+            "[[prepared]]Mine depth.",
+            "[[prepared]]Larval position."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Laboratory results are therefore generally higher than those expected in open fields.",
+          "prepared_text": "[[prepared]]Laboratory results are therefore generally higher than those expected in open fields."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Foliar Application"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Foliar application of nematodes requires:",
+          "prepared_text": "[[prepared]]Foliar application of nematodes requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Relatively high moisture on the plant surface.",
+            "Avoidance of the most intense sunlight and drying periods.",
+            "A spray-water volume sufficient to create a temporary water film.",
+            "Nozzles and filters that do not damage nematodes.",
+            "Continuous gentle agitation of the suspension.",
+            "Immediate application after preparation.",
+            "Removal of fine filters that obstruct passage, according to product instructions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Relatively high moisture on the plant surface.",
+            "[[prepared]]Avoidance of the most intense sunlight and drying periods.",
+            "[[prepared]]A spray-water volume sufficient to create a temporary water film.",
+            "[[prepared]]Nozzles and filters that do not damage nematodes.",
+            "[[prepared]]Continuous gentle agitation of the suspension.",
+            "[[prepared]]Immediate application after preparation.",
+            "[[prepared]]Removal of fine filters that obstruct passage, according to product instructions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application is generally conducted when moisture loss is reduced, such as during the evening, while strictly following the product label.",
+          "prepared_text": "[[prepared]]Application is generally conducted when moisture loss is reduced, such as during the evening, while strictly following the product label."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Soil Application"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following may be targeted:",
+          "prepared_text": "[[prepared]]The following may be targeted:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pupae in soil.",
+            "Larvae leaving the plant to pupate.",
+            "Stages occurring near the soil surface."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pupae in soil.",
+            "[[prepared]]Larvae leaving the plant to pupate.",
+            "[[prepared]]Stages occurring near the soil surface."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Efficacy depends on:",
+          "prepared_text": "[[prepared]]Efficacy depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Soil moisture.",
+            "Temperature.",
+            "Soil type.",
+            "Nematode movement.",
+            "Pupal depth.",
+            "Strain used.",
+            "Survival of nematodes after irrigation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Soil moisture.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Soil type.",
+            "[[prepared]]Nematode movement.",
+            "[[prepared]]Pupal depth.",
+            "[[prepared]]Strain used.",
+            "[[prepared]]Survival of nematodes after irrigation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The soil should be moist but not waterlogged, and moisture should persist long enough to permit nematode searching.",
+          "prepared_text": "[[prepared]]The soil should be moist but not waterlogged, and moisture should persist long enough to permit nematode searching."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Effects of Desiccation and Radiation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Entomopathogenic nematodes are relatively sensitive to desiccation and ultraviolet radiation.",
+          "prepared_text": "[[prepared]]Entomopathogenic nematodes are relatively sensitive to desiccation and ultraviolet radiation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rapid drying causes:",
+          "prepared_text": "[[prepared]]Rapid drying causes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Loss of movement.",
+            "Death of infective juveniles.",
+            "Reduced ability to enter hosts."
+          ],
+          "prepared_items": [
+            "[[prepared]]Loss of movement.",
+            "[[prepared]]Death of infective juveniles.",
+            "[[prepared]]Reduced ability to enter hosts."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Foliar applications in open fields are therefore more challenging than applications in greenhouses or moist soil.",
+          "prepared_text": "[[prepared]]Foliar applications in open fields are therefore more challenging than applications in greenhouses or moist soil."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Moisture-retaining adjuvants may be used, but they should be:",
+          "prepared_text": "[[prepared]]Moisture-retaining adjuvants may be used, but they should be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Registered or recommended.",
+            "Non-toxic to nematodes.",
+            "Safe for the plant.",
+            "Non-obstructive to nematode movement."
+          ],
+          "prepared_items": [
+            "[[prepared]]Registered or recommended.",
+            "[[prepared]]Non-toxic to nematodes.",
+            "[[prepared]]Safe for the plant.",
+            "[[prepared]]Non-obstructive to nematode movement."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Variation Among Strains"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tests have shown that local strains may differ from commercial or foreign strains in:",
+          "prepared_text": "[[prepared]]Tests have shown that local strains may differ from commercial or foreign strains in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Speed of larval kill.",
+            "Ability to reach mines.",
+            "Heat tolerance.",
+            "Desiccation tolerance.",
+            "Movement activity.",
+            "Compatibility with local soils."
+          ],
+          "prepared_items": [
+            "[[prepared]]Speed of larval kill.",
+            "[[prepared]]Ability to reach mines.",
+            "[[prepared]]Heat tolerance.",
+            "[[prepared]]Desiccation tolerance.",
+            "[[prepared]]Movement activity.",
+            "[[prepared]]Compatibility with local soils."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In a laboratory study in Rwanda, local strains killed Tuta absoluta larvae inside mines, and some local strains outperformed foreign strains during the initial evaluation stages.",
+          "prepared_text": "[[prepared]]In a laboratory study in Rwanda, local strains killed Tuta absoluta larvae inside mines, and some local strains outperformed foreign strains during the initial evaluation stages."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The researchers nevertheless emphasized the need for field trials before results are generalized.",
+          "prepared_text": "[[prepared]]The researchers nevertheless emphasized the need for field trials before results are generalized."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Egyptian Trial of Combined Biological Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An Egyptian study in commercial greenhouses tested the combination of:",
+          "prepared_text": "[[prepared]]An Egyptian study in commercial greenhouses tested the combination of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The egg parasitoid Trichogramma euproctidis.",
+            "The nematode Heterorhabditis bacteriophora HP88."
+          ],
+          "prepared_items": [
+            "[[prepared]]The egg parasitoid Trichogramma euproctidis.",
+            "[[prepared]]The nematode Heterorhabditis bacteriophora HP88."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The two agents were used alternately during the season.",
+          "prepared_text": "[[prepared]]The two agents were used alternately during the season."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The program produced a gradual reduction in Tuta absoluta abundance compared with the untreated greenhouse.",
+          "prepared_text": "[[prepared]]The program produced a gradual reduction in Tuta absoluta abundance compared with the untreated greenhouse."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The study demonstrates the possibility of combining an egg-targeting agent with a larval-targeting agent, but it was conducted:",
+          "prepared_text": "[[prepared]]The study demonstrates the possibility of combining an egg-targeting agent with a larval-targeting agent, but it was conducted:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "In only three greenhouses.",
+            "On specific cultivars.",
+            "During one winter production cycle.",
+            "Under protected conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]In only three greenhouses.",
+            "[[prepared]]On specific cultivars.",
+            "[[prepared]]During one winter production cycle.",
+            "[[prepared]]Under protected conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It therefore provides preliminary operational evidence rather than a fixed dosage program for all Egyptian conditions.",
+          "prepared_text": "[[prepared]]It therefore provides preliminary operational evidence rather than a fixed dosage program for all Egyptian conditions."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nematode Quality"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The product should be inspected before use through:",
+          "prepared_text": "[[prepared]]The product should be inspected before use through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage of living infective juveniles.",
+            "Their movement.",
+            "Absence of abnormal odor or contamination.",
+            "Expiry date.",
+            "Storage temperature.",
+            "Confirmation that the package was not exposed to freezing or excessive heat."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage of living infective juveniles.",
+            "[[prepared]]Their movement.",
+            "[[prepared]]Absence of abnormal odor or contamination.",
+            "[[prepared]]Expiry date.",
+            "[[prepared]]Storage temperature.",
+            "[[prepared]]Confirmation that the package was not exposed to freezing or excessive heat."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A small sample may be examined under suitable magnification to confirm that most individuals are:",
+          "prepared_text": "[[prepared]]A small sample may be examined under suitable magnification to confirm that most individuals are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active.",
+            "Normal in shape.",
+            "Not settled in dead aggregates."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active.",
+            "[[prepared]]Normal in shape.",
+            "[[prepared]]Not settled in dead aggregates."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nematode Tank Mixing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Nematodes should not be mixed with:",
+          "prepared_text": "[[prepared]]Nematodes should not be mixed with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Water disinfectants.",
+            "Pesticides or fertilizers of unknown compatibility.",
+            "Highly saline solutions.",
+            "Harmful concentrations of acids or alkalis.",
+            "Materials that clog or kill them."
+          ],
+          "prepared_items": [
+            "[[prepared]]Water disinfectants.",
+            "[[prepared]]Pesticides or fertilizers of unknown compatibility.",
+            "[[prepared]]Highly saline solutions.",
+            "[[prepared]]Harmful concentrations of acids or alkalis.",
+            "[[prepared]]Materials that clog or kill them."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Product-specific compatibility charts should be consulted because some pesticides may be compatible at specified concentrations while others are highly harmful.",
+          "prepared_text": "[[prepared]]Product-specific compatibility charts should be consulted because some pesticides may be compatible at specified concentrations while others are highly harmful."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fourth: Insect Viruses"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Baculoviruses"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal viruses studied against Tuta absoluta belong to the family:",
+          "prepared_text": "[[prepared]]The principal viruses studied against Tuta absoluta belong to the family:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Baculoviridae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Particularly the genus:",
+          "prepared_text": "[[prepared]]Particularly the genus:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Betabaculovirus"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Isolates studied include:",
+          "prepared_text": "[[prepared]]Isolates studied include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Phthorimaea operculella granulovirus — PhopGV.",
+            "Granuloviruses isolated from Tuta absoluta, referred to in some studies as TuabGV."
+          ],
+          "prepared_items": [
+            "[[prepared]]Phthorimaea operculella granulovirus — PhopGV.",
+            "[[prepared]]Granuloviruses isolated from Tuta absoluta, referred to in some studies as TuabGV."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These viruses are relatively highly specific to particular groups of Lepidoptera.",
+          "prepared_text": "[[prepared]]These viruses are relatively highly specific to particular groups of [[term:classification]]Lepidoptera[[/term]]."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mode of Viral Infection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The larva must ingest viral occlusion bodies.",
+          "prepared_text": "[[prepared]]The larva must ingest viral occlusion bodies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The infection process proceeds as follows:",
+          "prepared_text": "[[prepared]]The infection process proceeds as follows:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. The larva consumes occlusion bodies with leaf tissue.",
+            "2. The protein matrix dissolves in the alkaline gut.",
+            "3. Viral particles are released.",
+            "4. They infect midgut cells.",
+            "5. Infection spreads to other tissues.",
+            "6. The virus replicates within cells.",
+            "7. Larval growth and feeding gradually stop.",
+            "8. The larva dies after a period depending on dose, instar, and isolate."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. The larva consumes occlusion bodies with leaf tissue.",
+            "[[prepared]]2. The protein matrix dissolves in the alkaline gut.",
+            "[[prepared]]3. Viral particles are released.",
+            "[[prepared]]4. They infect midgut cells.",
+            "[[prepared]]5. Infection spreads to other tissues.",
+            "[[prepared]]6. The virus replicates within cells.",
+            "[[prepared]]7. Larval growth and feeding gradually stop.",
+            "[[prepared]]8. The larva dies after a period depending on dose, instar, and isolate."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The virus generally acts more slowly than chemical neurotoxic insecticides, but feeding may stop before complete death.",
+          "prepared_text": "[[prepared]]The virus generally acts more slowly than chemical neurotoxic insecticides, but feeding may stop before complete death."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Susceptibility of Larval Instars"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Young larvae are generally more susceptible to granuloviruses because:",
+          "prepared_text": "[[prepared]]Young larvae are generally more susceptible to granuloviruses because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Their body weight is low.",
+            "They require a relatively smaller dose.",
+            "They ingest residues when feeding begins.",
+            "They have not yet entered deep mines or fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Their body weight is low.",
+            "[[prepared]]They require a relatively smaller dose.",
+            "[[prepared]]They ingest residues when feeding begins.",
+            "[[prepared]]They have not yet entered deep mines or fruits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Advanced larvae:",
+          "prepared_text": "[[prepared]]Advanced larvae:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Require a larger dose.",
+            "Are more protected inside tissue.",
+            "May continue causing damage before death.",
+            "Are more difficult to reach with spray deposits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Require a larger dose.",
+            "[[prepared]]Are more protected inside tissue.",
+            "[[prepared]]May continue causing damage before death.",
+            "[[prepared]]Are more difficult to reach with spray deposits."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Successful use therefore depends on application before or at the beginning of hatching.",
+          "prepared_text": "[[prepared]]Successful use therefore depends on application before or at the beginning of hatching."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "PhopGV Isolates"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies have demonstrated substantial variation among PhopGV isolates in their capacity to infect Tuta absoluta.",
+          "prepared_text": "[[prepared]]Studies have demonstrated substantial variation among PhopGV isolates in their capacity to infect Tuta absoluta."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some African isolates were more effective than others against young larvae.",
+          "prepared_text": "[[prepared]]Some African isolates were more effective than others against young larvae."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This confirms that:",
+          "prepared_text": "[[prepared]]This confirms that:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Virus name alone does not determine efficacy.",
+            "Genetic isolate is important.",
+            "The product should contain an isolate tested against Tuta.",
+            "A dose from a product intended for another pest should not automatically be transferred to Tuta."
+          ],
+          "prepared_items": [
+            "[[prepared]]Virus name alone does not determine efficacy.",
+            "[[prepared]]Genetic isolate is important.",
+            "[[prepared]]The product should contain an isolate tested against Tuta.",
+            "[[prepared]]A dose from a product intended for another pest should not automatically be transferred to Tuta."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Persistence of Viruses on Plants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Occlusion bodies are affected by:",
+          "prepared_text": "[[prepared]]Occlusion bodies are affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Ultraviolet radiation.",
+            "Rainfall.",
+            "Growth of new leaves.",
+            "Uneven coverage.",
+            "Leaf removal."
+          ],
+          "prepared_items": [
+            "[[prepared]]Ultraviolet radiation.",
+            "[[prepared]]Rainfall.",
+            "[[prepared]]Growth of new leaves.",
+            "[[prepared]]Uneven coverage.",
+            "[[prepared]]Leaf removal."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Programs may therefore require repeated applications during hatching waves according to the product label and monitoring data.",
+          "prepared_text": "[[prepared]]Programs may therefore require repeated applications during hatching waves according to the product label and monitoring data."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "UV protectants or improved formulations may increase persistence, but they should be part of a tested and registered product.",
+          "prepared_text": "[[prepared]]UV protectants or improved formulations may increase persistence, but they should be part of a tested and registered product."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility with Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Granuloviruses are highly specific and can theoretically be integrated with egg and larval parasitoids.",
+          "prepared_text": "[[prepared]]Granuloviruses are highly specific and can theoretically be integrated with egg and larval parasitoids."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A study examining interactions between PhopGV and the larval parasitoids:",
+          "prepared_text": "[[prepared]]A study examining interactions between PhopGV and the larval parasitoids:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Necremnus tutae.",
+            "Dolichogenidea gelechiidivoris."
+          ],
+          "prepared_items": [
+            "[[prepared]]Necremnus tutae.",
+            "[[prepared]]Dolichogenidea gelechiidivoris."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Found that indirect effects were generally limited, although some interactions varied according to parasitoid species and timing of infection.",
+          "prepared_text": "[[prepared]]Found that indirect effects were generally limited, although some interactions varied according to parasitoid species and timing of infection."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This indicates potential compatibility, but application sequence matters because early larval death may affect a parasitoid developing within or on the host.",
+          "prepared_text": "[[prepared]]This indicates potential compatibility, but application sequence matters because early larval death may affect a parasitoid developing within or on the host."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Limitations of Viral Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Principal limitations include:",
+          "prepared_text": "[[prepared]]Principal limitations include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Relatively slow action.",
+            "Requirement for ingestion.",
+            "Reduced efficacy against large larvae.",
+            "UV degradation.",
+            "Need for repeated applications.",
+            "Variation in virulence among isolates.",
+            "Limited availability of registered products in some countries.",
+            "High cost in some programs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Relatively slow action.",
+            "[[prepared]]Requirement for ingestion.",
+            "[[prepared]]Reduced efficacy against large larvae.",
+            "[[prepared]]UV degradation.",
+            "[[prepared]]Need for repeated applications.",
+            "[[prepared]]Variation in virulence among isolates.",
+            "[[prepared]]Limited availability of registered products in some countries.",
+            "[[prepared]]High cost in some programs."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Viruses are therefore integrated with:",
+          "prepared_text": "[[prepared]]Viruses are therefore integrated with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Egg parasitoids.",
+            "Parasitoids of advanced larvae.",
+            "Predators.",
+            "Traps.",
+            "Agricultural sanitation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Parasitoids of advanced larvae.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Traps.",
+            "[[prepared]]Agricultural sanitation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fifth: Symbiotic Bacteria Associated with Nematodes"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Xenorhabdus and Photorhabdus"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Steinernema species are associated with Xenorhabdus bacteria, whereas Heterorhabditis species are associated with Photorhabdus bacteria.",
+          "prepared_text": "[[prepared]]Steinernema species are associated with Xenorhabdus bacteria, whereas Heterorhabditis species are associated with Photorhabdus bacteria."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These bacteria produce:",
+          "prepared_text": "[[prepared]]These bacteria produce:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Toxins.",
+            "Enzymes.",
+            "Immunosuppressive compounds.",
+            "Metabolites that help kill the host and preserve the cadaver for nematode development."
+          ],
+          "prepared_items": [
+            "[[prepared]]Toxins.",
+            "[[prepared]]Enzymes.",
+            "[[prepared]]Immunosuppressive compounds.",
+            "[[prepared]]Metabolites that help kill the host and preserve the cadaver for nematode development."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bacterial cells or cell-free filtrates have been tested against Tuta absoluta in laboratory studies.",
+          "prepared_text": "[[prepared]]Bacterial cells or cell-free filtrates have been tested against Tuta absoluta in laboratory studies."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the use of bacterial extracts or bacteria separately from nematodes remains a research area and is not a ready field alternative unless a registered and tested product exists.",
+          "prepared_text": "[[prepared]]However, the use of bacterial extracts or bacteria separately from nematodes remains a research area and is not a ready field alternative unless a registered and tested product exists."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bacterial extracts should not be prepared or used locally without evaluation of toxicity, stability, and effects on non-target organisms.",
+          "prepared_text": "[[prepared]]Bacterial extracts should not be prepared or used locally without evaluation of toxicity, stability, and effects on non-target organisms."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sixth: Compatibility and Integration"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility Between Bt and Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt is relatively more selective than many broad-spectrum insecticides because it mainly targets larvae that ingest the active proteins.",
+          "prepared_text": "[[prepared]]Bt is relatively more selective than many broad-spectrum insecticides because it mainly targets larvae that ingest the active proteins."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, compatibility should not be assumed automatically. The following may affect natural enemies:",
+          "prepared_text": "[[prepared]]However, compatibility should not be assumed automatically. The following may affect natural enemies:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Formulation.",
+            "Adjuvants.",
+            "Direct exposure.",
+            "Contaminated food.",
+            "Dose."
+          ],
+          "prepared_items": [
+            "[[prepared]]Formulation.",
+            "[[prepared]]Adjuvants.",
+            "[[prepared]]Direct exposure.",
+            "[[prepared]]Contaminated food.",
+            "[[prepared]]Dose."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compatibility should be reviewed for:",
+          "prepared_text": "[[prepared]]Compatibility should be reviewed for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trichogramma.",
+            "Mirid predators.",
+            "Larval parasitoids.",
+            "Bees and pollinators where present."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trichogramma.",
+            "[[prepared]]Mirid predators.",
+            "[[prepared]]Larval parasitoids.",
+            "[[prepared]]Bees and pollinators where present."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility Between Fungi and Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fungi can be integrated with parasitoids, but fungal spores may infect:",
+          "prepared_text": "[[prepared]]Fungi can be integrated with parasitoids, but fungal spores may infect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Adult parasitoids upon contact.",
+            "The parasitized host.",
+            "Immature parasitoids inside the host indirectly.",
+            "Predators moving over treated surfaces."
+          ],
+          "prepared_items": [
+            "[[prepared]]Adult parasitoids upon contact.",
+            "[[prepared]]The parasitized host.",
+            "[[prepared]]Immature parasitoids inside the host indirectly.",
+            "[[prepared]]Predators moving over treated surfaces."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compatibility depends on:",
+          "prepared_text": "[[prepared]]Compatibility depends on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Strain.",
+            "Dose.",
+            "Time interval.",
+            "Parasitoid stage.",
+            "Exposure method."
+          ],
+          "prepared_items": [
+            "[[prepared]]Strain.",
+            "[[prepared]]Dose.",
+            "[[prepared]]Time interval.",
+            "[[prepared]]Parasitoid stage.",
+            "[[prepared]]Exposure method."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A time interval between application and release may be necessary.",
+          "prepared_text": "[[prepared]]A time interval between application and release may be necessary."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility with Fungicides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fungicides are among the principal constraints on entomopathogenic fungi.",
+          "prepared_text": "[[prepared]]Fungicides are among the principal constraints on entomopathogenic fungi."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They may:",
+          "prepared_text": "[[prepared]]They may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Kill spores.",
+            "Prevent germination.",
+            "Slow mycelial growth.",
+            "Reduce infection.",
+            "Reduce endophytic colonization."
+          ],
+          "prepared_items": [
+            "[[prepared]]Kill spores.",
+            "[[prepared]]Prevent germination.",
+            "[[prepared]]Slow mycelial growth.",
+            "[[prepared]]Reduce infection.",
+            "[[prepared]]Reduce endophytic colonization."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Entomopathogenic fungi should not be tank-mixed with a fungicide unless the product label or compatibility tests confirm safety.",
+          "prepared_text": "[[prepared]]Entomopathogenic fungi should not be tank-mixed with a fungicide unless the product label or compatibility tests confirm safety."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Existing fungicide residues on leaves should also be considered, not only direct tank mixing.",
+          "prepared_text": "[[prepared]]Existing fungicide residues on leaves should also be considered, not only direct tank mixing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility Between Fungi and Nematodes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Possible outcomes include:",
+          "prepared_text": "[[prepared]]Possible outcomes include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Complementarity when different pest stages are targeted.",
+            "Neutral interaction.",
+            "Antagonism when one formulation contains materials harmful to the other organism."
+          ],
+          "prepared_items": [
+            "[[prepared]]Complementarity when different pest stages are targeted.",
+            "[[prepared]]Neutral interaction.",
+            "[[prepared]]Antagonism when one formulation contains materials harmful to the other organism."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should not be mixed automatically in the same tank. The following should be determined:",
+          "prepared_text": "[[prepared]]They should not be mixed automatically in the same tank. The following should be determined:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Timing.",
+            "Application site.",
+            "Water quality.",
+            "Adjuvants.",
+            "Strain compatibility."
+          ],
+          "prepared_items": [
+            "[[prepared]]Timing.",
+            "[[prepared]]Application site.",
+            "[[prepared]]Water quality.",
+            "[[prepared]]Adjuvants.",
+            "[[prepared]]Strain compatibility."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Separate application may be safer than direct mixing.",
+          "prepared_text": "[[prepared]]Separate application may be safer than direct mixing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compatibility with Copper and Sulfur"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some copper and sulfur products may affect the viability of entomopathogenic fungi or nematodes depending on concentration, formulation, and timing.",
+          "prepared_text": "[[prepared]]Some copper and sulfur products may affect the viability of entomopathogenic fungi or nematodes depending on concentration, formulation, and timing."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should therefore be observed:",
+          "prepared_text": "[[prepared]]The following should therefore be observed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Review product data.",
+            "Avoid undocumented tank mixes.",
+            "Leave an appropriate interval where required.",
+            "Test viability after exposure in research programs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Review product data.",
+            "[[prepared]]Avoid undocumented tank mixes.",
+            "[[prepared]]Leave an appropriate interval where required.",
+            "[[prepared]]Test viability after exposure in research programs."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Recommendations should not be based on the general names “copper” or “sulfur” because formulations and rates differ.",
+          "prepared_text": "[[prepared]]Recommendations should not be based on the general names “copper” or “sulfur” because formulations and rates differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Seventh: Operational Management"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Selection of a Microbial Agent"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selection is guided by pest status:",
+          "prepared_text": "[[prepared]]Selection is guided by pest status:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Pest Situation",
+            "Initially Most Suitable Agent"
+          ],
+          "rows": [
+            [
+              "Eggs close to hatching",
+              "Bt or virus covering the hatching site, together with egg parasitoids"
+            ],
+            [
+              "L1 and L2 larvae",
+              "Bt, virus, or a registered fungus"
+            ],
+            [
+              "Larvae inside relatively moist mines",
+              "Tested foliar nematodes or a suitable fungus"
+            ],
+            [
+              "Exposed moths and eggs",
+              "A registered entomopathogenic fungus"
+            ],
+            [
+              "Pupae in soil",
+              "A fungus or nematode registered for soil application"
+            ],
+            [
+              "Severe infestation inside fruits",
+              "Microbial agents alone are insufficient"
+            ],
+            [
+              "Near harvest",
+              "A registered product with a suitable preharvest interval"
+            ],
+            [
+              "Existing parasitoid program",
+              "An agent demonstrated to be compatible with the parasitoid"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Pest Situation",
+            "[[prepared]]Initially Most Suitable Agent"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Eggs close to hatching",
+              "[[prepared]]Bt or virus covering the hatching site, together with egg parasitoids"
+            ],
+            [
+              "[[prepared]]L1 and L2 larvae",
+              "[[prepared]]Bt, virus, or a registered fungus"
+            ],
+            [
+              "[[prepared]]Larvae inside relatively moist mines",
+              "[[prepared]]Tested foliar nematodes or a suitable fungus"
+            ],
+            [
+              "[[prepared]]Exposed moths and eggs",
+              "[[prepared]]A registered entomopathogenic fungus"
+            ],
+            [
+              "[[prepared]]Pupae in soil",
+              "[[prepared]]A fungus or nematode registered for soil application"
+            ],
+            [
+              "[[prepared]]Severe infestation inside fruits",
+              "[[prepared]]Microbial agents alone are insufficient"
+            ],
+            [
+              "[[prepared]]Near harvest",
+              "[[prepared]]A registered product with a suitable preharvest interval"
+            ],
+            [
+              "[[prepared]]Existing parasitoid program",
+              "[[prepared]]An agent demonstrated to be compatible with the parasitoid"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The table does not imply that every agent is registered or available in every country.",
+          "prepared_text": "[[prepared]]The table does not imply that every agent is registered or available in every country."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Product Inspection Before Use"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be confirmed:",
+          "prepared_text": "[[prepared]]The following should be confirmed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active organism or material.",
+            "Strain.",
+            "Concentration.",
+            "Registration number.",
+            "Expiry date.",
+            "Storage conditions.",
+            "Package integrity.",
+            "Registered crop and pest.",
+            "Preharvest interval.",
+            "Mixing and application instructions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active organism or material.",
+            "[[prepared]]Strain.",
+            "[[prepared]]Concentration.",
+            "[[prepared]]Registration number.",
+            "[[prepared]]Expiry date.",
+            "[[prepared]]Storage conditions.",
+            "[[prepared]]Package integrity.",
+            "[[prepared]]Registered crop and pest.",
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Mixing and application instructions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "For fungi and nematodes, viability should preferably be checked when resources permit.",
+          "prepared_text": "[[prepared]]For fungi and nematodes, viability should preferably be checked when resources permit."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Storage of Microbial Products"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Storage requirements differ greatly among products.",
+          "prepared_text": "[[prepared]]Storage requirements differ greatly among products."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The temperature specified on the package should be followed because improper storage can cause:",
+          "prepared_text": "[[prepared]]The temperature specified on the package should be followed because improper storage can cause:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced spore viability.",
+            "Nematode mortality.",
+            "Loss of viral activity.",
+            "Degradation of Bt proteins.",
+            "Shorter field persistence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced spore viability.",
+            "[[prepared]]Nematode mortality.",
+            "[[prepared]]Loss of viral activity.",
+            "[[prepared]]Degradation of Bt proteins.",
+            "[[prepared]]Shorter field persistence."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Products should not be stored in:",
+          "prepared_text": "[[prepared]]Products should not be stored in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Vehicles exposed to sunlight.",
+            "Hot warehouses.",
+            "Locations adjacent to fertilizers or volatile disinfectants.",
+            "Open or poorly sealed containers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Vehicles exposed to sunlight.",
+            "[[prepared]]Hot warehouses.",
+            "[[prepared]]Locations adjacent to fertilizers or volatile disinfectants.",
+            "[[prepared]]Open or poorly sealed containers."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preparation of the Spray Mixture"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "General steps include:",
+          "prepared_text": "[[prepared]]General steps include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Clean the tank of residues from previous pesticides.",
+            "2. Use suitable water.",
+            "3. Partially fill the tank with water.",
+            "4. Add the product according to label instructions.",
+            "5. Maintain appropriate agitation.",
+            "6. Complete the required water volume.",
+            "7. Add only registered adjuvants.",
+            "8. Use the mixture within the specified period.",
+            "9. Do not leave it until the following day."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Clean the tank of residues from previous pesticides.",
+            "[[prepared]]2. Use suitable water.",
+            "[[prepared]]3. Partially fill the tank with water.",
+            "[[prepared]]4. Add the product according to label instructions.",
+            "[[prepared]]5. Maintain appropriate agitation.",
+            "[[prepared]]6. Complete the required water volume.",
+            "[[prepared]]7. Add only registered adjuvants.",
+            "[[prepared]]8. Use the mixture within the specified period.",
+            "[[prepared]]9. Do not leave it until the following day."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Residues of disinfectants or fungicides in the tank may kill the living agent before it reaches the plant.",
+          "prepared_text": "[[prepared]]Residues of disinfectants or fungicides in the tank may kill the living agent before it reaches the plant."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Daily Application Timing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application near evening is suitable in many cases because it may:",
+          "prepared_text": "[[prepared]]Application near evening is suitable in many cases because it may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduce direct exposure to ultraviolet radiation.",
+            "Extend the period of surface moisture.",
+            "Improve survival of fungi and nematodes.",
+            "Coincide with activity of some pest stages."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduce direct exposure to ultraviolet radiation.",
+            "[[prepared]]Extend the period of surface moisture.",
+            "[[prepared]]Improve survival of fungi and nematodes.",
+            "[[prepared]]Coincide with activity of some pest stages."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the following should be considered:",
+          "prepared_text": "[[prepared]]However, the following should be considered:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Absence of strong winds.",
+            "No forecast of heavy rainfall.",
+            "Avoidance of humidity levels that sharply increase disease risk.",
+            "Product instructions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Absence of strong winds.",
+            "[[prepared]]No forecast of heavy rainfall.",
+            "[[prepared]]Avoidance of humidity levels that sharply increase disease risk.",
+            "[[prepared]]Product instructions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single time rule applies to all agents because Bt, fungi, and nematodes have different requirements.",
+          "prepared_text": "[[prepared]]No single time rule applies to all agents because Bt, fungi, and nematodes have different requirements."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Number of Applications"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The number of applications should not be fixed in advance without monitoring.",
+          "prepared_text": "[[prepared]]The number of applications should not be fixed in advance without monitoring."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is affected by:",
+          "prepared_text": "[[prepared]]It is affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Product persistence on leaves.",
+            "Oviposition waves.",
+            "Growth of new leaves.",
+            "Infestation level.",
+            "Weather.",
+            "Post-application efficacy.",
+            "Entry of new moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Product persistence on leaves.",
+            "[[prepared]]Oviposition waves.",
+            "[[prepared]]Growth of new leaves.",
+            "[[prepared]]Infestation level.",
+            "[[prepared]]Weather.",
+            "[[prepared]]Post-application efficacy.",
+            "[[prepared]]Entry of new moths."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reapplication is justified when data show:",
+          "prepared_text": "[[prepared]]Reapplication is justified when data show:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "New eggs or hatching.",
+            "Declining effective residues.",
+            "Continued appearance of new mines.",
+            "Expiry of the product’s protection period."
+          ],
+          "prepared_items": [
+            "[[prepared]]New eggs or hatching.",
+            "[[prepared]]Declining effective residues.",
+            "[[prepared]]Continued appearance of new mines.",
+            "[[prepared]]Expiry of the product’s protection period."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should not be repeated automatically when no active infestation is present.",
+          "prepared_text": "[[prepared]]It should not be repeated automatically when no [[term:infestation-status]]active infestation[[/term]] is present."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Post-Application Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Evaluation timing depends on the speed of action of the agent.",
+          "prepared_text": "[[prepared]]Evaluation timing depends on the speed of action of the agent."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Bt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Focus on:",
+          "prepared_text": "[[prepared]]Focus on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cessation of feeding.",
+            "Reduction in live larvae.",
+            "Reduction in new mines."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cessation of feeding.",
+            "[[prepared]]Reduction in live larvae.",
+            "[[prepared]]Reduction in new mines."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fungi"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Allow sufficient time for infection and death and confirm fungal growth where necessary.",
+          "prepared_text": "[[prepared]]Allow sufficient time for infection and death and confirm fungal growth where necessary."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Nematodes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Assess nematode survival and larval infection during the following days.",
+          "prepared_text": "[[prepared]]Assess nematode survival and larval infection during the following days."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Viruses"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Expect a slower effect and assess larvae and the following generation.",
+          "prepared_text": "[[prepared]]Expect a slower effect and assess larvae and the following generation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These agents should not all be compared after only 24 hours.",
+          "prepared_text": "[[prepared]]These agents should not all be compared after only 24 hours."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Success"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced numbers of live larvae.",
+            "Reduced appearance of new mines.",
+            "Reduced growing-point infestation.",
+            "Reduced fruit infestation.",
+            "Reduced adult emergence from soil.",
+            "Persistence of natural enemies.",
+            "Fewer chemical sprays.",
+            "Absence of phytotoxicity.",
+            "Reduced marketable losses.",
+            "Positive economic return."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced numbers of live larvae.",
+            "[[prepared]]Reduced appearance of new mines.",
+            "[[prepared]]Reduced growing-point infestation.",
+            "[[prepared]]Reduced fruit infestation.",
+            "[[prepared]]Reduced adult emergence from soil.",
+            "[[prepared]]Persistence of natural enemies.",
+            "[[prepared]]Fewer chemical sprays.",
+            "[[prepared]]Absence of phytotoxicity.",
+            "[[prepared]]Reduced marketable losses.",
+            "[[prepared]]Positive economic return."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Calculation of Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Abbott’s formula may be used in experiments that include an untreated control:",
+          "prepared_text": "[[prepared]]Abbott’s formula may be used in experiments that include an untreated control:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Corrected efficacy (%) = [(Survival in the control − Survival in the treatment) ÷ Survival in the control] × 100",
+          "prepared_text": "[[prepared]]Corrected efficacy (%) = [(Survival in the control − Survival in the treatment) ÷ Survival in the control] × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In commercial fields, it is preferable to use indicators including:",
+          "prepared_text": "[[prepared]]In commercial fields, it is preferable to use indicators including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Change before and after treatment.",
+            "A comparison field or sector.",
+            "Percentage of infested fruits.",
+            "Marketable yield.",
+            "Program cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Change before and after treatment.",
+            "[[prepared]]A comparison field or sector.",
+            "[[prepared]]Percentage of infested fruits.",
+            "[[prepared]]Marketable yield.",
+            "[[prepared]]Program cost."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Laboratory mortality alone is insufficient to predict field return.",
+          "prepared_text": "[[prepared]]Laboratory mortality alone is insufficient to predict field return."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Economic Cost"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The cost of microbial control includes:",
+          "prepared_text": "[[prepared]]The cost of microbial control includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Product cost.",
+            "Storage and transport.",
+            "Refrigeration where required.",
+            "Number of applications.",
+            "Labor.",
+            "Adjuvants.",
+            "Inspection.",
+            "Spray equipment.",
+            "Reapplication after rainfall or degradation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Product cost.",
+            "[[prepared]]Storage and transport.",
+            "[[prepared]]Refrigeration where required.",
+            "[[prepared]]Number of applications.",
+            "[[prepared]]Labor.",
+            "[[prepared]]Adjuvants.",
+            "[[prepared]]Inspection.",
+            "[[prepared]]Spray equipment.",
+            "[[prepared]]Reapplication after rainfall or degradation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Benefits include:",
+          "prepared_text": "[[prepared]]Benefits include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduction in chemical sprays.",
+            "Protection of natural enemies.",
+            "Lower residues.",
+            "Increased sound yield.",
+            "Delayed resistance.",
+            "Improved marketing opportunities."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduction in chemical sprays.",
+            "[[prepared]]Protection of natural enemies.",
+            "[[prepared]]Lower residues.",
+            "[[prepared]]Increased sound yield.",
+            "[[prepared]]Delayed resistance.",
+            "[[prepared]]Improved marketing opportunities."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Benefit-to-cost ratio = Value of benefits achieved ÷ Program cost"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A treatment is economically viable when the value of benefits clearly exceeds the cost.",
+          "prepared_text": "[[prepared]]A treatment is economically viable when the value of benefits clearly exceeds the cost."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Treating All Bt Products as Equivalent"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Strains, proteins, and formulations differ.",
+          "prepared_text": "[[prepared]]Strains, proteins, and formulations differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Applying Bt After Most Larvae Have Entered Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt must be ingested and is more effective against young instars.",
+          "prepared_text": "[[prepared]]Bt must be ingested and is more effective against young instars."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Evaluating Bt After Only a Few Hours"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Feeding may stop before mortality is complete.",
+          "prepared_text": "[[prepared]]Feeding may stop before mortality is complete."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Using a Dose Below the Registered Rate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may cause treatment failure and increase resistance risk.",
+          "prepared_text": "[[prepared]]This may cause treatment failure and increase resistance risk."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Applying Fungi During the Most Intense Sunlight and Dryness"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This reduces spore viability and persistence.",
+          "prepared_text": "[[prepared]]This reduces spore viability and persistence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Mixing a Fungus with a Fungicide"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may prevent germination or kill spores.",
+          "prepared_text": "[[prepared]]This may prevent germination or kill spores."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Generalizing the Result of One Strain to the Entire Species"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Strains differ substantially in virulence.",
+          "prepared_text": "[[prepared]]Strains differ substantially in virulence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Assuming Endophytic Colonization Is Guaranteed"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It depends on strain, application method, plant, and time.",
+          "prepared_text": "[[prepared]]It depends on strain, application method, plant, and time."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Applying Nematodes to a Dry Surface"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infective juveniles require a moisture film for movement and survival.",
+          "prepared_text": "[[prepared]]Infective juveniles require a moisture film for movement and survival."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Using Nozzles or Filters That Damage Nematodes"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application-equipment specifications should be reviewed.",
+          "prepared_text": "[[prepared]]Application-equipment specifications should be reviewed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Exposing Nematodes or Spores to Heat During Transport"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This reduces viability before application.",
+          "prepared_text": "[[prepared]]This reduces viability before application."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Applying Viruses Only Against Large Larvae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Young instars are more susceptible and easier to reach.",
+          "prepared_text": "[[prepared]]Young instars are more susceptible and easier to reach."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Thirteen: Measuring Success Only by Numbers of Dead Insects"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The final indicator is reduced fruit infestation and rejected yield.",
+          "prepared_text": "[[prepared]]The final indicator is reduced fruit infestation and rejected yield."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fourteen: Leaving a Biological Mixture in the Tank Until the Following Day"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The agent’s viability may decline.",
+          "prepared_text": "[[prepared]]The agent’s viability may decline."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fifteen: Using an Unregistered Product"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Research results alone do not demonstrate the safety and efficacy of a commercial product.",
+          "prepared_text": "[[prepared]]Research results alone do not demonstrate the safety and efficacy of a commercial product."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Practical Priorities for Open-Field Tomatoes in Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Scientific priorities are:",
+          "prepared_text": "[[prepared]]Scientific priorities are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Use only products registered for the crop and pest.",
+            "2. Identify the strain and concentration, not only the organism name.",
+            "3. Target eggs close to hatching and young larvae.",
+            "4. Link application to trap catches and field inspection.",
+            "5. Improve coverage of growing points and lower leaf surfaces.",
+            "6. Apply fungi and nematodes when desiccation and radiation are reduced.",
+            "7. Assess spray-water quality.",
+            "8. Do not mix fungi with fungicides without compatibility data.",
+            "9. Prevent exposure of living products to excessive heat during transport and storage.",
+            "10. Evaluate Egyptian or locally adapted fungal and nematode strains.",
+            "11. Study soil application of fungi or nematodes against pupae within integrated programs.",
+            "12. Build on the Egyptian trial combining T. euproctidis with H. bacteriophora through broader repeated trials.",
+            "13. Do not transfer greenhouse results directly to open fields.",
+            "14. Evaluate fruit infestation and marketable yield.",
+            "15. Document cost, return, and the number of chemical sprays avoided."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Use only products registered for the crop and pest.",
+            "[[prepared]]2. Identify the strain and concentration, not only the organism name.",
+            "[[prepared]]3. Target eggs close to hatching and young larvae.",
+            "[[prepared]]4. Link application to trap catches and field inspection.",
+            "[[prepared]]5. Improve coverage of growing points and lower leaf surfaces.",
+            "[[prepared]]6. Apply fungi and nematodes when desiccation and radiation are reduced.",
+            "[[prepared]]7. Assess spray-water quality.",
+            "[[prepared]]8. Do not mix fungi with fungicides without compatibility data.",
+            "[[prepared]]9. Prevent exposure of living products to excessive heat during transport and storage.",
+            "[[prepared]]10. Evaluate Egyptian or locally adapted fungal and nematode strains.",
+            "[[prepared]]11. Study soil application of fungi or nematodes against pupae within integrated programs.",
+            "[[prepared]]12. Build on the Egyptian trial combining T. euproctidis with H. bacteriophora through broader repeated trials.",
+            "[[prepared]]13. Do not transfer greenhouse results directly to open fields.",
+            "[[prepared]]14. Evaluate fruit infestation and marketable yield.",
+            "[[prepared]]15. Document cost, return, and the number of chemical sprays avoided."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Comparative Table of Microbial Agents"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Agent",
+            "Route of Entry",
+            "Best Target Stage",
+            "Principal Requirement for Success",
+            "Principal Limitation"
+          ],
+          "rows": [
+            [
+              "B. thuringiensis kurstaki",
+              "Ingestion",
+              "L1–L2",
+              "Coverage and hatching-time application",
+              "Relatively rapid degradation"
+            ],
+            [
+              "B. thuringiensis aizawai",
+              "Ingestion",
+              "L1–L2",
+              "Suitable dose and strain",
+              "Product variability"
+            ],
+            [
+              "B. bassiana",
+              "Cuticular penetration",
+              "Eggs, larvae, adults, and pupae",
+              "Humidity and viable spores",
+              "Radiation and desiccation"
+            ],
+            [
+              "M. anisopliae",
+              "Cuticular penetration",
+              "Larvae, adults, and pupae",
+              "Suitable strain and formulation",
+              "Variable virulence"
+            ],
+            [
+              "L. muscarium",
+              "Cuticular penetration",
+              "Eggs and larvae",
+              "Suitable humidity",
+              "Limited field data"
+            ],
+            [
+              "C. fumosorosea",
+              "Cuticular penetration",
+              "Exposed stages",
+              "Coverage and suitable climate",
+              "Variable results"
+            ],
+            [
+              "S. feltiae",
+              "Entry by infective juveniles",
+              "Larvae inside mines",
+              "Surface moisture",
+              "Desiccation and radiation"
+            ],
+            [
+              "S. carpocapsae",
+              "Entry by infective juveniles",
+              "Larvae and pupae",
+              "Direct access and moisture",
+              "Limited foliar persistence"
+            ],
+            [
+              "H. bacteriophora",
+              "Host entry or penetration",
+              "Larvae and pupae",
+              "Moist soil or surface",
+              "Environmental sensitivity"
+            ],
+            [
+              "PhopGV",
+              "Ingestion",
+              "Young larvae",
+              "Hatching-time application and coverage",
+              "Slow action and UV degradation"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Agent",
+            "[[prepared]]Route of Entry",
+            "[[prepared]]Best Target Stage",
+            "[[prepared]]Principal Requirement for Success",
+            "[[prepared]]Principal Limitation"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]B. thuringiensis kurstaki",
+              "[[prepared]]Ingestion",
+              "[[prepared]]L1–L2",
+              "[[prepared]]Coverage and hatching-time application",
+              "[[prepared]]Relatively rapid degradation"
+            ],
+            [
+              "[[prepared]]B. thuringiensis aizawai",
+              "[[prepared]]Ingestion",
+              "[[prepared]]L1–L2",
+              "[[prepared]]Suitable dose and strain",
+              "[[prepared]]Product variability"
+            ],
+            [
+              "[[prepared]]B. bassiana",
+              "[[prepared]]Cuticular penetration",
+              "[[prepared]]Eggs, larvae, adults, and pupae",
+              "[[prepared]]Humidity and viable spores",
+              "[[prepared]]Radiation and desiccation"
+            ],
+            [
+              "[[prepared]]M. anisopliae",
+              "[[prepared]]Cuticular penetration",
+              "[[prepared]]Larvae, adults, and pupae",
+              "[[prepared]]Suitable strain and formulation",
+              "[[prepared]]Variable virulence"
+            ],
+            [
+              "[[prepared]]L. muscarium",
+              "[[prepared]]Cuticular penetration",
+              "[[prepared]]Eggs and larvae",
+              "[[prepared]]Suitable humidity",
+              "[[prepared]]Limited field data"
+            ],
+            [
+              "[[prepared]]C. fumosorosea",
+              "[[prepared]]Cuticular penetration",
+              "[[prepared]]Exposed stages",
+              "[[prepared]]Coverage and suitable climate",
+              "[[prepared]]Variable results"
+            ],
+            [
+              "[[prepared]]S. feltiae",
+              "[[prepared]]Entry by infective juveniles",
+              "[[prepared]]Larvae inside mines",
+              "[[prepared]]Surface moisture",
+              "[[prepared]]Desiccation and radiation"
+            ],
+            [
+              "[[prepared]]S. carpocapsae",
+              "[[prepared]]Entry by infective juveniles",
+              "[[prepared]]Larvae and pupae",
+              "[[prepared]]Direct access and moisture",
+              "[[prepared]]Limited foliar persistence"
+            ],
+            [
+              "[[prepared]]H. bacteriophora",
+              "[[prepared]]Host entry or penetration",
+              "[[prepared]]Larvae and pupae",
+              "[[prepared]]Moist soil or surface",
+              "[[prepared]]Environmental sensitivity"
+            ],
+            [
+              "[[prepared]]PhopGV",
+              "[[prepared]]Ingestion",
+              "[[prepared]]Young larvae",
+              "[[prepared]]Hatching-time application and coverage",
+              "[[prepared]]Slow action and UV degradation"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Seasonal Microbial-Control Program"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Before Planting"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Review registered products.",
+            "Test spray water.",
+            "Clean application equipment.",
+            "Prepare a compatibility program.",
+            "Verify storage conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Review registered products.",
+            "[[prepared]]Test spray water.",
+            "[[prepared]]Clean application equipment.",
+            "[[prepared]]Prepare a compatibility program.",
+            "[[prepared]]Verify storage conditions."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "At First Moth and Egg Detection"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Determine expected hatching time.",
+            "Prepare the registered Bt or virus product.",
+            "Protect egg parasitoids.",
+            "Avoid broad-spectrum insecticides."
+          ],
+          "prepared_items": [
+            "[[prepared]]Determine expected hatching time.",
+            "[[prepared]]Prepare the registered Bt or virus product.",
+            "[[prepared]]Protect egg parasitoids.",
+            "[[prepared]]Avoid broad-spectrum insecticides."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "At Appearance of L1 and L2"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Apply Bt or the appropriate microbial agent.",
+            "Achieve complete coverage.",
+            "Reinspect.",
+            "Monitor new mines."
+          ],
+          "prepared_items": [
+            "[[prepared]]Apply Bt or the appropriate microbial agent.",
+            "[[prepared]]Achieve complete coverage.",
+            "[[prepared]]Reinspect.",
+            "[[prepared]]Monitor new mines."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "When Conditions Are Suitable for Fungi"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Select a registered strain.",
+            "Apply when radiation and desiccation are reduced.",
+            "Do not mix with an incompatible fungicide.",
+            "Monitor infection and mortality."
+          ],
+          "prepared_items": [
+            "[[prepared]]Select a registered strain.",
+            "[[prepared]]Apply when radiation and desiccation are reduced.",
+            "[[prepared]]Do not mix with an incompatible fungicide.",
+            "[[prepared]]Monitor infection and mortality."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "When Larvae Occur Inside Mines"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Evaluate registered or tested nematodes.",
+            "Provide a suitable moisture film.",
+            "Avoid heat and radiation.",
+            "Evaluate the result under field conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Evaluate registered or tested nematodes.",
+            "[[prepared]]Provide a suitable moisture film.",
+            "[[prepared]]Avoid heat and radiation.",
+            "[[prepared]]Evaluate the result under field conditions."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "When Soil Pupation Is High"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Evaluate soil treatment with a registered fungus or nematode.",
+            "Maintain suitable moisture.",
+            "Integrate treatment with residue removal.",
+            "Monitor adult emergence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Evaluate soil treatment with a registered fungus or nematode.",
+            "[[prepared]]Maintain suitable moisture.",
+            "[[prepared]]Integrate treatment with residue removal.",
+            "[[prepared]]Monitor adult emergence."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Near Harvest"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Review the preharvest interval.",
+            "Use registered products only.",
+            "Do not apply a slow-acting treatment that cannot protect a crop approaching imminent harvest.",
+            "Focus on preventing infestation of the remaining fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Review the preharvest interval.",
+            "[[prepared]]Use registered products only.",
+            "[[prepared]]Do not apply a slow-acting treatment that cannot protect a crop approaching imminent harvest.",
+            "[[prepared]]Focus on preventing infestation of the remaining fruits."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Summary of Section Nine"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Microbial control of Tuta absoluta includes entomopathogenic bacteria, fungi, nematodes, and viruses.",
+          "prepared_text": "[[prepared]]Microbial control of Tuta absoluta includes entomopathogenic bacteria, fungi, nematodes, and viruses."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bacillus thuringiensis is the principal bacterial agent used. It acts after larvae ingest toxic proteins and therefore provides the best results when young larvae are targeted before they penetrate deeply into leaves and fruits.",
+          "prepared_text": "[[prepared]]Bacillus thuringiensis is the principal bacterial agent used. It acts after larvae ingest toxic proteins and therefore provides the best results when young larvae are targeted before they penetrate deeply into leaves and fruits."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Bt products are not equivalent. Subspecies, strains, proteins, and formulations differ, and efficacy is affected by coverage, radiation, rainfall, and larval age.",
+          "prepared_text": "[[prepared]]Bt products are not equivalent. Subspecies, strains, proteins, and formulations differ, and efficacy is affected by coverage, radiation, rainfall, and larval age."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Entomopathogenic fungi infect insects by penetrating the cuticle. Important species include:",
+          "prepared_text": "[[prepared]]Entomopathogenic fungi infect insects by penetrating the cuticle. Important species include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Beauveria bassiana.",
+            "Metarhizium anisopliae.",
+            "Lecanicillium muscarium.",
+            "Cordyceps fumosorosea."
+          ],
+          "prepared_items": [
+            "[[prepared]]Beauveria bassiana.",
+            "[[prepared]]Metarhizium anisopliae.",
+            "[[prepared]]Lecanicillium muscarium.",
+            "[[prepared]]Cordyceps fumosorosea."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fungi require viable spores and suitable humidity and temperature and are affected by ultraviolet radiation and fungicides.",
+          "prepared_text": "[[prepared]]Fungi require viable spores and suitable humidity and temperature and are affected by ultraviolet radiation and fungicides."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Experimental evidence has demonstrated the possibility of targeting Tuta pupae in soil using B. bassiana and M. anisopliae. In addition, M. anisopliae strain ICIPE 20 produced positive economic results in a two-season field trial.",
+          "prepared_text": "[[prepared]]Experimental evidence has demonstrated the possibility of targeting Tuta pupae in soil using B. bassiana and M. anisopliae. In addition, M. anisopliae strain ICIPE 20 produced positive economic results in a two-season field trial."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some entomopathogenic nematode strains can reach larvae inside mines when moisture is available and act through symbiotic bacteria belonging to the genera Xenorhabdus and Photorhabdus.",
+          "prepared_text": "[[prepared]]Some entomopathogenic nematode strains can reach larvae inside mines when moisture is available and act through symbiotic bacteria belonging to the genera Xenorhabdus and Photorhabdus."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Foliar nematode applications require protection from desiccation and radiation, and laboratory results should not be generalized without field verification.",
+          "prepared_text": "[[prepared]]Foliar nematode applications require protection from desiccation and radiation, and laboratory results should not be generalized without field verification."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Granuloviruses are highly specific agents and perform best when ingested by young larvae, but they act more slowly and may require suitable coverage, timing, and repeated application in some programs.",
+          "prepared_text": "[[prepared]]Granuloviruses are highly specific agents and perform best when ingested by young larvae, but they act more slowly and may require suitable coverage, timing, and repeated application in some programs."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The best microbial-control results are achieved when:",
+          "prepared_text": "[[prepared]]The best microbial-control results are achieved when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Programs begin early.",
+            "The susceptible pest stage is targeted.",
+            "A registered strain and product are used.",
+            "Products are stored correctly.",
+            "Environmental conditions are considered.",
+            "Suitable coverage is achieved.",
+            "Products are integrated with parasitoids, predators, pheromones, and agricultural sanitation.",
+            "Performance is evaluated using reductions in fruit infestation and economic return."
+          ],
+          "prepared_items": [
+            "[[prepared]]Programs begin early.",
+            "[[prepared]]The susceptible pest stage is targeted.",
+            "[[prepared]]A registered strain and product are used.",
+            "[[prepared]]Products are stored correctly.",
+            "[[prepared]]Environmental conditions are considered.",
+            "[[prepared]]Suitable coverage is achieved.",
+            "[[prepared]]Products are integrated with parasitoids, predators, [[term:pheromone-trap]]pheromones[[/term]], and agricultural sanitation.",
+            "[[prepared]]Performance is evaluated using reductions in fruit infestation and economic return."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-9-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "González-Cabrera, J., Mollá, O., Montón, H., & Urbaneja, A. (2011). Efficacy of Bacillus thuringiensis in controlling the tomato borer, Tuta absoluta. BioControl, 56, 71–80.",
+              "url": "https://doi.org/10.1007/s10526-010-9310-1"
+            },
+            {
+              "number": 2,
+              "text": "Sellami, S., Cherif, M., Abdelkefi-Mesrati, L., Tounsi, S., & Jamoussi, K. (2015). Toxicity, activation process, and histopathological effect of Bacillus thuringiensis vegetative insecticidal protein Vip3Aa16 on Tuta absoluta. Applied Biochemistry and Biotechnology, 175, 1992–1999.",
+              "url": "https://doi.org/10.1007/s12010-014-1393-1"
+            },
+            {
+              "number": 3,
+              "text": "Çiçek, B., Karaca, M. M., & Karut, K. (2025). Effectiveness of Bacillus thuringiensis commercial products against tomato leaf miner, Tuta absoluta. Journal of Agricultural Science and Technology, 27(6), 1383–1394.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Abd El-Ghany, N. M., Abdel-Razek, A. S., Ebadah, I. M. A., & Mahmoud, Y. A. (2016). Evaluation of some microbial agents, natural and chemical compounds for controlling Tuta absoluta. Journal of Plant Protection Research.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "Aynalem, B., Muleta, D., Jida, M., Shemekite, F., & Aseffa, F. (2022). Biocontrol competence of Beauveria bassiana, Metarhizium anisopliae and Bacillus thuringiensis against tomato leaf miner, Tuta absoluta, under greenhouse and field conditions. Heliyon, 8, e09694.",
+              "url": "https://doi.org/10.1016/j.heliyon.2022.e09694"
+            },
+            {
+              "number": 6,
+              "text": "Pires, L. M., Marques, E. J., Oliveira, J. V., & Alves, S. B. (2010). Selection of isolates of entomopathogenic fungi for controlling Tuta absoluta and their compatibility with insecticides used in tomato crop. Neotropical Entomology, 39, 977–984.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Klieber, J., & Reineke, A. (2016). The entomopathogen Beauveria bassiana has epiphytic and endophytic activity against the tomato leaf miner Tuta absoluta. Journal of Applied Entomology, 140, 580–589.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Chouikhi, S., Assadi, B. H., Grissa-Lebdi, K., & Belkadhi, M. S. (2022). Efficacy of the entomopathogenic fungi Beauveria bassiana and Lecanicillium muscarium in the control of the tomato leaf miner, Tuta absoluta. Egyptian Journal of Biological Pest Control, 32.",
+              "url": "https://doi.org/10.1186/s41938-022-00640-5"
+            },
+            {
+              "number": 9,
+              "text": "Erasmus, R., Van den Berg, J., du Plessis, H., & others. (2021). Susceptibility of Tuta absoluta pupae to soil-applied entomopathogenic fungal biopesticides. Insects, 12, 515.",
+              "url": "https://doi.org/10.3390/insects12060515"
+            },
+            {
+              "number": 10,
+              "text": "Kabaale, F. P., Tumuhaise, V., Tinzaara, W., Turyasingura, G., Subramanian, S., Khamis, F. M., & Akutse, K. S. (2022). First report of field efficacy and economic viability of Metarhizium anisopliae ICIPE 20 for Tuta absoluta management on tomato. Sustainability, 14, 14846.",
+              "url": "https://doi.org/10.3390/su142214846"
+            },
+            {
+              "number": 11,
+              "text": "Xu, B., Huang, C., Cheng, S., Romeis, J., Collatz, J., Zhang, G., Zhang, Y., Zhang, G., & Wan, F. (2025). Screening of highly virulent Beauveria bassiana strains against Tuta absoluta larvae and evaluation of their endophytic colonization-mediated suppression in tomato plants. Plants, 14, 2932.",
+              "url": "https://doi.org/10.3390/plants14182932"
+            },
+            {
+              "number": 12,
+              "text": "Batalla-Carrera, L., Morton, A., & García-del-Pino, F. (2010). Efficacy of entomopathogenic nematodes against the tomato leafminer Tuta absoluta in laboratory and greenhouse conditions. BioControl, 55, 523–530.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Van Damme, V. M., Beck, B. K., Berckmoes, E., Moerkens, R., Wittemans, L., De Vis, R., Nuyttens, D., Casteels, H. F., Maes, M., Tirry, L., & De Clercq, P. (2016). Efficacy of entomopathogenic nematodes against larvae of Tuta absoluta in the laboratory. Pest Management Science.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "Ndereyimana, A., Nyalala, S., Murerwa, P., & Gaidashova, S. (2019). Potential of entomopathogenic nematode isolates from Rwanda to control the tomato leaf miner, Tuta absoluta. Egyptian Journal of Biological Pest Control, 29, 57.",
+              "url": "https://doi.org/10.1186/s41938-019-0163-3"
+            },
+            {
+              "number": 15,
+              "text": "Adly, D., & Nouh, G. M. (2019). Impact of combined releases of Trichogramma euproctidis and Heterorhabditis bacteriophora to control Tuta absoluta in tomato greenhouses in Egypt. Egyptian Journal of Biological Pest Control, 29, 91.",
+              "url": "https://doi.org/10.1186/s41938-019-0196-7"
+            },
+            {
+              "number": 16,
+              "text": "Yüksel, E. (2022). Biocontrol potential of endosymbiotic bacteria of entomopathogenic nematodes against the tomato leaf miner, Tuta absoluta. Egyptian Journal of Biological Pest Control, 32.",
+              "url": "https://doi.org/10.1186/s41938-022-00633-4"
+            },
+            {
+              "number": 17,
+              "text": "Ben Tiba, S., Larem, A., Laarif, A., Fritsch, E., Undorf-Spahn, K., Mohamed, S. A., Ekesi, S., Wennmann, J. T., Kroschel, J., Fattouch, S., & Jehle, J. A. (2019). The potential of novel African isolates of Phthorimaea operculella granulovirus for the control of Tuta absoluta. Journal of Applied Entomology, 143, 11–20.",
+              "url": "https://doi.org/10.1111/jen.12568"
+            },
+            {
+              "number": 18,
+              "text": "Gómez-Valderrama, J. A., et al. (2018). Potential of betabaculoviruses to control the tomato leafminer Tuta absoluta. Journal of Applied Entomology.",
+              "url": ""
+            },
+            {
+              "number": 19,
+              "text": "Gonthier, J., Arnó, J., Romeis, J., & Collatz, J. (2023). Few indirect effects of baculovirus on parasitoids demonstrate high compatibility of biocontrol methods against Tuta absoluta. Pest Management Science, 79, 1431–1441.",
+              "url": "https://doi.org/10.1002/ps.7314"
+            },
+            {
+              "number": 20,
+              "text": "Shahini, S., Bërxolli, A., & Kokojka, F. (2021). Effectiveness of bio-insecticides and mass trapping based on population fluctuations for controlling Tuta absoluta under greenhouse conditions. Heliyon, 7, e05753.",
+              "url": "https://doi.org/10.1016/j.heliyon.2020.e05753"
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 9,
+        "part_title": "Section Nine: Microbial and Entomopathogenic Control",
+        "part_subtitle": "Microbial and Entomopathogenic Control of Tuta absoluta"
+      }
+    }
+  ]
+}
