@@ -1,0 +1,3682 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 11,
+  "part_title": "Section Eleven: Insecticide Resistance Management",
+  "part_short_title": "Insecticide Resistance Management",
+  "part_subtitle": "Insecticide Resistance Management — IRM",
+  "content_path": "tuta/9/11.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insecticide resistance is one of the most serious factors limiting the sustainability of Tuta absoluta management. Different pest populations have developed varying degrees of resistance to several old and modern insecticide groups as a result of repeated exposure to high selection pressure over successive generations.",
+          "prepared_text": "[[prepared]][[term:resistance]]Insecticide resistance[[/term]] is one of the most serious factors limiting the sustainability of Tuta absoluta management. Different pest populations have developed varying degrees of resistance to several old and modern insecticide groups as a result of repeated exposure to high selection pressure over successive generations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance does not arise because an insect “becomes accustomed” to an insecticide during its lifetime. Rather, it develops through a heritable change in the genetic composition of the pest population. When an insecticide is applied, the most susceptible individuals die, while individuals carrying heritable traits that reduce their sensitivity are more likely to survive. Survivors mate and transmit resistance traits to their offspring, gradually increasing the proportion of resistant individuals within the population.",
+          "prepared_text": "[[prepared]]Resistance does not arise because an insect “becomes accustomed” to an insecticide during its lifetime. Rather, it develops through a heritable change in the genetic composition of the pest population. When an insecticide is applied, the most susceptible individuals die, while individuals carrying heritable traits that reduce their sensitivity are more likely to survive. Survivors mate and transmit resistance traits to their offspring, gradually increasing the proportion of resistant individuals within the population."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The more frequently the same mode of action is used:",
+          "prepared_text": "[[prepared]]The more frequently the same [[term:mode-of-action]]mode of action[[/term]] is used:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The greater the selection pressure.",
+            "The lower the proportion of susceptible individuals.",
+            "The wider the spread of resistance alleles.",
+            "The higher the dose needed to achieve the same level of mortality.",
+            "The greater the probability of field failure."
+          ],
+          "prepared_items": [
+            "[[prepared]]The greater the selection pressure.",
+            "[[prepared]]The lower the proportion of susceptible individuals.",
+            "[[prepared]]The wider the spread of resistance alleles.",
+            "[[prepared]]The higher the dose needed to achieve the same level of mortality.",
+            "[[prepared]]The greater the probability of field failure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The objective of resistance management is to slow this process and preserve population susceptibility to effective insecticides for as long as possible.",
+          "prepared_text": "[[prepared]]The objective of resistance management is to slow this process and preserve population susceptibility to effective insecticides for as long as possible."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Definition of Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insecticide resistance is defined as:",
+          "prepared_text": "[[prepared]]Insecticide resistance is defined as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "A heritable change in the susceptibility of a pest population that results in repeated failure of an insecticide to achieve the expected level of control when used at the registered rate and according to the registered application method."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The definition includes four main elements:",
+          "prepared_text": "[[prepared]]The definition includes four main elements:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. The change is heritable.",
+            "2. It occurs at the population level, not merely in one individual.",
+            "3. It causes a measurable decline in susceptibility.",
+            "4. It is associated with repeated failure under correct-use conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. The change is heritable.",
+            "[[prepared]]2. It occurs at the population level, not merely in one individual.",
+            "[[prepared]]3. It causes a measurable decline in susceptibility.",
+            "[[prepared]]4. It is associated with repeated failure under correct-use conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Survival of a limited number of larvae after treatment is not conclusive evidence of resistance.",
+          "prepared_text": "[[prepared]]Survival of a limited number of larvae after treatment is not conclusive evidence of resistance."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "What Is Not Resistance?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced insecticide performance may result from causes unrelated to heritable changes in susceptibility.",
+          "prepared_text": "[[prepared]]Reduced insecticide performance may result from causes unrelated to heritable changes in susceptibility."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Delayed application until larvae have entered fruits.",
+            "Targeting an unsuitable larval instar.",
+            "Poor sprayer calibration.",
+            "Inadequate coverage of growing points and lower leaf surfaces.",
+            "Use of a dose below the registered rate.",
+            "Product degradation due to poor storage.",
+            "High alkalinity or hardness of spray water.",
+            "Incompatibility among tank-mix components.",
+            "Rainfall or overhead irrigation after application.",
+            "Continued moth immigration from a neighboring field.",
+            "Incorrect pest identification.",
+            "Interpreting old mines as new infestation.",
+            "Evaluation before the active ingredient has completed its effect."
+          ],
+          "prepared_items": [
+            "[[prepared]]Delayed application until larvae have entered fruits.",
+            "[[prepared]]Targeting an unsuitable [[term:larval-instar]]larval instar[[/term]].",
+            "[[prepared]]Poor sprayer calibration.",
+            "[[prepared]]Inadequate coverage of growing points and lower leaf surfaces.",
+            "[[prepared]]Use of a dose below the registered rate.",
+            "[[prepared]]Product degradation due to poor storage.",
+            "[[prepared]]High alkalinity or hardness of spray water.",
+            "[[prepared]]Incompatibility among tank-mix components.",
+            "[[prepared]]Rainfall or overhead irrigation after application.",
+            "[[prepared]]Continued moth immigration from a neighboring field.",
+            "[[prepared]]Incorrect pest identification.",
+            "[[prepared]]Interpreting old [[term:mines]]mines[[/term]] as new infestation.",
+            "[[prepared]]Evaluation before the [[term:active-ingredient]]active ingredient[[/term]] has completed its effect."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These causes should be excluded before resistance is declared.",
+          "prepared_text": "[[prepared]]These causes should be excluded before resistance is declared."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance as an Evolutionary Process"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every insect population contains a degree of natural genetic variation. Alleles conferring some resistance may exist before commercial use of an insecticide, but at a low frequency that causes no visible problem.",
+          "prepared_text": "[[prepared]]Every insect population contains a degree of natural genetic variation. Alleles conferring some resistance may exist before commercial use of an insecticide, but at a low frequency that causes no visible problem."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When the active ingredient is repeatedly used:",
+          "prepared_text": "[[prepared]]When the active ingredient is repeatedly used:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Susceptible individuals are killed.",
+            "2. Less-susceptible individuals survive.",
+            "3. Their contribution to mating increases.",
+            "4. Resistance alleles are transmitted to offspring.",
+            "5. The frequency of resistance alleles rises.",
+            "6. The population gradually shifts from susceptible to resistant."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Susceptible individuals are killed.",
+            "[[prepared]]2. Less-susceptible individuals survive.",
+            "[[prepared]]3. Their contribution to mating increases.",
+            "[[prepared]]4. Resistance alleles are transmitted to offspring.",
+            "[[prepared]]5. The frequency of resistance alleles rises.",
+            "[[prepared]]6. The population gradually shifts from susceptible to resistant."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The insecticide does not create the appropriate mutation in response to need. Instead, it selects pre-existing heritable traits or mutations arising randomly.",
+          "prepared_text": "[[prepared]]The insecticide does not create the appropriate mutation in response to need. Instead, it selects pre-existing heritable traits or mutations arising randomly."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Why Is Tuta absoluta at High Risk?"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The pest has a high capacity to develop resistance because of the combined effect of several biological and management factors:",
+          "prepared_text": "[[prepared]]The pest has a high capacity to develop resistance because of the combined effect of several biological and management factors:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Short generation time under favorable conditions.",
+            "Multiple generations during the season.",
+            "High fecundity.",
+            "Overlapping life stages in the field.",
+            "Large numbers of applications during one crop cycle.",
+            "Exposure of successive generations to the same group.",
+            "Larval concealment within tissues, which encourages higher doses and repeated applications.",
+            "Year-round cultivation of tomato and solanaceous hosts.",
+            "Movement of resistant individuals among regions.",
+            "Use of the same products in nurseries and fields.",
+            "Greater reliance on chemical control than on non-chemical methods.",
+            "Repeated spraying while old mines remain visible."
+          ],
+          "prepared_items": [
+            "[[prepared]]Short generation time under favorable conditions.",
+            "[[prepared]]Multiple generations during the season.",
+            "[[prepared]]High fecundity.",
+            "[[prepared]]Overlapping life stages in the field.",
+            "[[prepared]]Large numbers of applications during one crop cycle.",
+            "[[prepared]]Exposure of successive generations to the same group.",
+            "[[prepared]]Larval concealment within tissues, which encourages higher doses and repeated applications.",
+            "[[prepared]]Year-round cultivation of tomato and [[term:solanaceae]]solanaceous hosts[[/term]].",
+            "[[prepared]]Movement of resistant individuals among regions.",
+            "[[prepared]]Use of the same products in nurseries and fields.",
+            "[[prepared]]Greater reliance on chemical control than on non-chemical methods.",
+            "[[prepared]]Repeated spraying while old mines remain visible."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A high resistance risk does not mean that all populations possess the same level of resistance. Susceptibility may differ between neighboring areas according to use history and migration.",
+          "prepared_text": "[[prepared]]A high resistance risk does not mean that all populations possess the same level of resistance. Susceptibility may differ between neighboring areas according to use history and migration."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Selection Pressure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selection pressure is the intensity of the effect imposed by an insecticide on the genetic composition of the pest population.",
+          "prepared_text": "[[prepared]]Selection pressure is the intensity of the effect imposed by an insecticide on the genetic composition of the pest population."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It increases when:",
+          "prepared_text": "[[prepared]]It increases when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The same mode-of-action group is repeated.",
+            "It is used against successive generations.",
+            "A high number of applications is made.",
+            "Doses permit survival of moderately susceptible individuals.",
+            "Most of the population is exposed without sources of susceptible individuals.",
+            "Residual activity is prolonged.",
+            "The same group is used over large contiguous areas.",
+            "The active ingredient is repeated in nurseries, greenhouses, and neighboring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]The same mode-of-action group is repeated.",
+            "[[prepared]]It is used against successive generations.",
+            "[[prepared]]A high number of applications is made.",
+            "[[prepared]]Doses permit survival of moderately susceptible individuals.",
+            "[[prepared]]Most of the population is exposed without sources of susceptible individuals.",
+            "[[prepared]]Residual activity is prolonged.",
+            "[[prepared]]The same group is used over large contiguous areas.",
+            "[[prepared]]The active ingredient is repeated in nurseries, greenhouses, and neighboring fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Selection pressure is reduced by:",
+          "prepared_text": "[[prepared]]Selection pressure is reduced by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reducing the number of applications.",
+            "Using an insecticide only when necessary.",
+            "Rotating modes of action.",
+            "Integrating biological and cultural control.",
+            "Using traps and pheromones.",
+            "Preventing population build-up from the beginning.",
+            "Treating foci rather than the entire area when justified."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reducing the number of applications.",
+            "[[prepared]]Using an insecticide only when necessary.",
+            "[[prepared]]Rotating modes of action.",
+            "[[prepared]]Integrating biological and cultural control.",
+            "[[prepared]]Using traps and [[term:pheromone-trap]]pheromones[[/term]].",
+            "[[prepared]]Preventing population build-up from the beginning.",
+            "[[prepared]]Treating foci rather than the entire area when justified."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Dominant and Recessive Inheritance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance may be:",
+          "prepared_text": "[[prepared]]Resistance may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dominant.",
+            "Partially dominant.",
+            "Recessive.",
+            "Incompletely recessive."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dominant.",
+            "[[prepared]]Partially dominant.",
+            "[[prepared]]Recessive.",
+            "[[prepared]]Incompletely recessive."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Dominant Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance is expressed even when an individual carries only one copy of the resistance allele and may therefore spread rapidly.",
+          "prepared_text": "[[prepared]]Resistance is expressed even when an individual carries only one copy of the resistance allele and may therefore spread rapidly."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Recessive Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An individual usually requires two copies of the allele to express full resistance.",
+          "prepared_text": "[[prepared]]An individual usually requires two copies of the allele to express full resistance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In some resistance systems, a high effective field dose may kill heterozygous individuals carrying only one allele, but this principle does not apply automatically to all insecticides and pests.",
+          "prepared_text": "[[prepared]]In some resistance systems, a high effective field dose may kill heterozygous individuals carrying only one allele, but this principle does not apply automatically to all insecticides and pests."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some cases of resistance in Tuta absoluta have shown inheritance that may be:",
+          "prepared_text": "[[prepared]]Some cases of resistance in Tuta absoluta have shown inheritance that may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Autosomal and not sex-linked.",
+            "Incompletely recessive.",
+            "Controlled by one major gene or a limited number of genes."
+          ],
+          "prepared_items": [
+            "[[prepared]]Autosomal and not sex-linked.",
+            "[[prepared]]Incompletely recessive.",
+            "[[prepared]]Controlled by one major gene or a limited number of genes."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inheritance pattern affects the rate of spread and the ability to detect resistance.",
+          "prepared_text": "[[prepared]]Inheritance pattern affects the rate of spread and the ability to detect resistance."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fitness Costs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance traits may impose physiological costs that reduce insect performance in the absence of the insecticide.",
+          "prepared_text": "[[prepared]]Resistance traits may impose physiological costs that reduce insect performance in the absence of the insecticide."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These may appear as:",
+          "prepared_text": "[[prepared]]These may appear as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced fecundity.",
+            "Slower development.",
+            "Lower survival.",
+            "Delayed mating.",
+            "Reduced host-searching ability.",
+            "Shorter lifespan.",
+            "Reduced competitive ability."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced fecundity.",
+            "[[prepared]]Slower development.",
+            "[[prepared]]Lower survival.",
+            "[[prepared]]Delayed mating.",
+            "[[prepared]]Reduced host-searching ability.",
+            "[[prepared]]Shorter lifespan.",
+            "[[prepared]]Reduced competitive ability."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some spinosyn-resistant Tuta absoluta strains showed declining resistance after selection pressure was removed, indicating a fitness cost in those strains.",
+          "prepared_text": "[[prepared]]Some spinosyn-resistant Tuta absoluta strains showed declining resistance after selection pressure was removed, indicating a fitness cost in those strains."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, resistance does not always decline after use stops because:",
+          "prepared_text": "[[prepared]]However, resistance does not always decline after use stops because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fitness costs may be limited.",
+            "Compensatory mutations may evolve.",
+            "The population may remain exposed to insecticides with cross-resistance.",
+            "Resistant individuals may immigrate from other areas.",
+            "The resistance allele may become common and stable."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fitness costs may be limited.",
+            "[[prepared]]Compensatory mutations may evolve.",
+            "[[prepared]]The population may remain exposed to insecticides with cross-resistance.",
+            "[[prepared]]Resistant individuals may immigrate from other areas.",
+            "[[prepared]]The resistance allele may become common and stable."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Temporary discontinuation of an active ingredient should therefore not be assumed to restore susceptibility automatically.",
+          "prepared_text": "[[prepared]]Temporary discontinuation of an active ingredient should therefore not be assumed to restore susceptibility automatically."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Migration and Gene Flow"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Movement of moths among fields affects resistance in two opposite ways.",
+          "prepared_text": "[[prepared]]Movement of moths among fields affects resistance in two opposite ways."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Introduction of Susceptible Individuals"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mating with resistant individuals may reduce resistance-allele frequency, especially when the trait is recessive or associated with a fitness cost.",
+          "prepared_text": "[[prepared]]Mating with resistant individuals may reduce resistance-allele frequency, especially when the trait is recessive or associated with a fitness cost."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Introduction of Resistant Individuals"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Migration may transfer resistance into fields and regions where the group has not been intensively used.",
+          "prepared_text": "[[prepared]]Migration may transfer resistance into fields and regions where the group has not been intensively used."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced efficacy may therefore appear in a field with limited spray history when it receives moths from:",
+          "prepared_text": "[[prepared]]Reduced efficacy may therefore appear in a field with limited spray history when it receives moths from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A heavily treated old field.",
+            "A neighboring production area.",
+            "Infested transplants or plant material.",
+            "Greenhouses using intensive chemical programs."
+          ],
+          "prepared_items": [
+            "[[prepared]]A heavily treated old field.",
+            "[[prepared]]A neighboring production area.",
+            "[[prepared]]Infested transplants or plant material.",
+            "[[prepared]]Greenhouses using intensive chemical programs."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This supports the need for area-wide resistance management.",
+          "prepared_text": "[[prepared]]This supports the need for area-wide resistance management."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Principal Resistance Mechanisms"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Insecticide resistance develops through four principal categories of mechanisms.",
+          "prepared_text": "[[prepared]]Insecticide resistance develops through four principal categories of mechanisms."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Target-Site Alteration"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Target-Site Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A mutation occurs in the protein or receptor targeted by the insecticide, reducing the ability of the active ingredient to bind to it.",
+          "prepared_text": "[[prepared]]A mutation occurs in the protein or receptor targeted by the insecticide, reducing the ability of the active ingredient to bind to it."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A single mutation may cause a large increase in resistance when the target site is highly specific.",
+          "prepared_text": "[[prepared]]A single mutation may cause a large increase in resistance when the target site is highly specific."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Metabolic Resistance"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Metabolic Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The insect’s ability to detoxify the insecticide or convert it into a less toxic form increases before it reaches the target site.",
+          "prepared_text": "[[prepared]]The insect’s ability to detoxify the insecticide or convert it into a less toxic form increases before it reaches the target site."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Important enzyme systems include:",
+          "prepared_text": "[[prepared]]Important enzyme systems include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cytochrome P450 monooxygenases.",
+            "Glutathione S-transferases.",
+            "Carboxylesterases.",
+            "UDP-glycosyltransferases.",
+            "Other metabolic enzymes."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cytochrome P450 monooxygenases.",
+            "[[prepared]]Glutathione S-transferases.",
+            "[[prepared]]Carboxylesterases.",
+            "[[prepared]]UDP-glycosyltransferases.",
+            "[[prepared]]Other metabolic enzymes."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Reduced Penetration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cuticular properties or penetration rate change, allowing less insecticide to reach internal tissues.",
+          "prepared_text": "[[prepared]]Cuticular properties or penetration rate change, allowing less insecticide to reach internal tissues."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Behavioural Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Contact with the insecticide decreases through:",
+          "prepared_text": "[[prepared]]Contact with the insecticide decreases through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoidance of treated surfaces.",
+            "Changes in feeding time.",
+            "Leaving the treated area.",
+            "Increased concealment within plant tissues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoidance of treated surfaces.",
+            "[[prepared]]Changes in feeding time.",
+            "[[prepared]]Leaving the treated area.",
+            "[[prepared]]Increased concealment within plant tissues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Behavioural resistance has not been demonstrated in every case of Tuta-control failure and should be experimentally verified.",
+          "prepared_text": "[[prepared]]Behavioural resistance has not been demonstrated in every case of Tuta-control failure and should be experimentally verified."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Multiple Resistance and Cross-Resistance"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Multiple Resistance"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Multiple Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The population possesses more than one independent mechanism conferring resistance to different insecticide groups.",
+          "prepared_text": "[[prepared]]The population possesses more than one independent mechanism conferring resistance to different insecticide groups."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A theoretical example:",
+          "prepared_text": "[[prepared]]A theoretical example:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A mutation conferring pyrethroid resistance.",
+            "Combined with increased P450 activity conferring resistance to another active ingredient."
+          ],
+          "prepared_items": [
+            "[[prepared]]A mutation conferring pyrethroid resistance.",
+            "[[prepared]]Combined with increased P450 activity conferring resistance to another active ingredient."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Cross-Resistance"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Cross-Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One mechanism confers resistance to more than one active ingredient.",
+          "prepared_text": "[[prepared]]One mechanism confers resistance to more than one active ingredient."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may occur among:",
+          "prepared_text": "[[prepared]]This may occur among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active ingredients within the same group.",
+            "Different active ingredients sharing the same target site.",
+            "Different groups detoxified by the same metabolic enzyme."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active ingredients within the same group.",
+            "[[prepared]]Different active ingredients sharing the same target site.",
+            "[[prepared]]Different groups detoxified by the same metabolic enzyme."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rotation between different IRAC numbers does not guarantee success when one metabolic mechanism confers resistance to both active ingredients.",
+          "prepared_text": "[[prepared]]Rotation between different [[term:irac]]IRAC[[/term]] numbers does not guarantee success when one metabolic mechanism confers resistance to both active ingredients."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Field Resistance and Laboratory Resistance"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Laboratory Reduction in Susceptibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The lethal-dose value of a field population is higher than that of a susceptible reference strain.",
+          "prepared_text": "[[prepared]]The lethal-dose value of a field population is higher than that of a susceptible reference strain."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Field Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The reduction in susceptibility has reached a level that causes repeated product failure under correct use.",
+          "prepared_text": "[[prepared]]The reduction in susceptibility has reached a level that causes repeated product failure under correct use."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A laboratory difference in LC50 may occur without field failure because the registered field dose remains higher than the amount required to kill the population.",
+          "prepared_text": "[[prepared]]A laboratory difference in LC50 may occur without field failure because the registered field dose remains higher than the amount required to kill the population."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conversely, field failure may occur before a complete laboratory-monitoring program is implemented.",
+          "prepared_text": "[[prepared]]Conversely, field failure may occur before a complete laboratory-monitoring program is implemented."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should therefore be integrated:",
+          "prepared_text": "[[prepared]]The following should therefore be integrated:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Susceptibility bioassays.",
+            "Field-performance data.",
+            "Registered field dose.",
+            "Application history.",
+            "Analysis of resistance mechanisms."
+          ],
+          "prepared_items": [
+            "[[prepared]]Susceptibility bioassays.",
+            "[[prepared]]Field-performance data.",
+            "[[prepared]]Registered field dose.",
+            "[[prepared]]Application history.",
+            "[[prepared]]Analysis of resistance mechanisms."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "History of Resistance in Tuta absoluta"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reports of declining efficacy began in South America after years of intensive insecticide use. Resistance or reduced susceptibility was then documented to several groups, including:",
+          "prepared_text": "[[prepared]]Reports of declining efficacy began in South America after years of intensive insecticide use. Resistance or reduced susceptibility was then documented to several groups, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Organophosphates.",
+            "Carbamates.",
+            "Pyrethroids.",
+            "Avermectins.",
+            "Chitin-biosynthesis inhibitors.",
+            "Spinosyns.",
+            "Oxadiazines.",
+            "Diamides.",
+            "Other active ingredients according to region."
+          ],
+          "prepared_items": [
+            "[[prepared]]Organophosphates.",
+            "[[prepared]]Carbamates.",
+            "[[prepared]]Pyrethroids.",
+            "[[prepared]]Avermectins.",
+            "[[prepared]]Chitin-biosynthesis inhibitors.",
+            "[[prepared]]Spinosyns.",
+            "[[prepared]]Oxadiazines.",
+            "[[prepared]]Diamides.",
+            "[[prepared]]Other active ingredients according to region."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "After the pest spread to Europe, Africa, and Asia, independent resistance cases appeared or resistance alleles moved with pest populations.",
+          "prepared_text": "[[prepared]]After the pest spread to Europe, Africa, and Asia, independent resistance cases appeared or resistance alleles moved with pest populations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Global reports do not mean that all these groups fail in every country because susceptibility status differs among populations.",
+          "prepared_text": "[[prepared]]Global reports do not mean that all these groups fail in every country because susceptibility status differs among populations."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pyrethroid Resistance — IRAC 3A"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pyrethroid resistance in Tuta absoluta is principally associated with changes in the voltage-gated sodium channel.",
+          "prepared_text": "[[prepared]]Pyrethroid resistance in Tuta absoluta is principally associated with changes in the voltage-gated sodium channel."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Detected mutations include:",
+          "prepared_text": "[[prepared]]Detected mutations include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "L1014F.",
+            "M918T.",
+            "T929I."
+          ],
+          "prepared_items": [
+            "[[prepared]]L1014F.",
+            "[[prepared]]M918T.",
+            "[[prepared]]T929I."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some of these mutations are included within the concepts of:",
+          "prepared_text": "[[prepared]]Some of these mutations are included within the concepts of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Knockdown resistance — kdr.",
+            "Super-kdr."
+          ],
+          "prepared_items": [
+            "[[prepared]]Knockdown resistance — kdr.",
+            "[[prepared]]Super-kdr."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They reduce sodium-channel sensitivity to pyrethroids.",
+          "prepared_text": "[[prepared]]They reduce sodium-channel sensitivity to pyrethroids."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some populations have also shown increased activity of:",
+          "prepared_text": "[[prepared]]Some populations have also shown increased activity of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cytochrome P450.",
+            "Glutathione S-transferases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cytochrome P450.",
+            "[[prepared]]Glutathione S-transferases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This indicates that target-site and metabolic resistance may coexist in the same population.",
+          "prepared_text": "[[prepared]]This indicates that target-site and metabolic resistance may coexist in the same population."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Because some sodium-channel mutations are widespread, repeated pyrethroid use may provide poor pest control while causing severe effects on natural enemies.",
+          "prepared_text": "[[prepared]]Because some sodium-channel mutations are widespread, repeated pyrethroid use may provide poor pest control while causing severe effects on [[term:biological-control]]natural enemies[[/term]]."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance to Organophosphates and Carbamates"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These groups target acetylcholinesterase.",
+          "prepared_text": "[[prepared]]These groups target acetylcholinesterase."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance to organophosphates in Tuta absoluta has been associated with mechanisms including:",
+          "prepared_text": "[[prepared]]Resistance to organophosphates in Tuta absoluta has been associated with mechanisms including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Alterations in the acetylcholinesterase-1 gene.",
+            "Increased metabolic detoxification.",
+            "The combined action of more than one mechanism."
+          ],
+          "prepared_items": [
+            "[[prepared]]Alterations in the acetylcholinesterase-1 gene.",
+            "[[prepared]]Increased metabolic detoxification.",
+            "[[prepared]]The combined action of more than one mechanism."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One mutation associated with resistance in some populations is:",
+          "prepared_text": "[[prepared]]One mutation associated with resistance in some populations is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "A201S in the ace-1 gene."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The presence of this mutation does not mean that all active ingredients in the two groups fail equally, but repeated use in a population carrying the mutation increases the probability of reduced efficacy.",
+          "prepared_text": "[[prepared]]The presence of this mutation does not mean that all active ingredients in the two groups fail equally, but repeated use in a population carrying the mutation increases the probability of reduced efficacy."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The problem is compounded by the broad effects of these insecticides on parasitoids and predators.",
+          "prepared_text": "[[prepared]]The problem is compounded by the broad effects of these insecticides on parasitoids and predators."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spinosyn Resistance — IRAC 5"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This group includes:",
+          "prepared_text": "[[prepared]]This group includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Spinosad.",
+            "Spinetoram."
+          ],
+          "prepared_items": [
+            "[[prepared]]Spinosad.",
+            "[[prepared]]Spinetoram."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some Tuta absoluta populations have developed very high resistance to spinosyns.",
+          "prepared_text": "[[prepared]]Some Tuta absoluta populations have developed very high resistance to spinosyns."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One of the most important confirmed mechanisms is:",
+          "prepared_text": "[[prepared]]One of the most important confirmed mechanisms is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "The G275E mutation in the α6 subunit of the nicotinic acetylcholine receptor."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This mutation alters the spinosyn-binding site on the receptor.",
+          "prepared_text": "[[prepared]]This mutation alters the spinosyn-binding site on the receptor."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Laboratory-selection studies have shown:",
+          "prepared_text": "[[prepared]]Laboratory-selection studies have shown:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Resistance can reach extremely high levels.",
+            "It may be associated with a major gene in some strains.",
+            "Fitness costs may occur after selection pressure is removed.",
+            "Cross-resistance may occur between Spinosad and Spinetoram because both belong to the same group."
+          ],
+          "prepared_items": [
+            "[[prepared]]Resistance can reach extremely high levels.",
+            "[[prepared]]It may be associated with a major gene in some strains.",
+            "[[prepared]]Fitness costs may occur after selection pressure is removed.",
+            "[[prepared]]Cross-resistance may occur between Spinosad and Spinetoram because both belong to the same group."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Switching from Spinosad to Spinetoram therefore does not constitute true rotation.",
+          "prepared_text": "[[prepared]]Switching from Spinosad to Spinetoram therefore does not constitute true rotation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Avermectin Resistance — IRAC 6"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This group includes:",
+          "prepared_text": "[[prepared]]This group includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Abamectin.",
+            "Emamectin benzoate."
+          ],
+          "prepared_items": [
+            "[[prepared]]Abamectin.",
+            "[[prepared]]Emamectin benzoate."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced susceptibility or resistance to this group has been recorded in some Tuta absoluta populations.",
+          "prepared_text": "[[prepared]]Reduced susceptibility or resistance to this group has been recorded in some Tuta absoluta populations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies indicate an important role for metabolic resistance, particularly:",
+          "prepared_text": "[[prepared]]Studies indicate an important role for metabolic resistance, particularly:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased P450-enzyme activity.",
+            "Changes in detoxification systems.",
+            "Possible contribution of other enzymes according to the population."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increased P450-enzyme activity.",
+            "[[prepared]]Changes in detoxification systems.",
+            "[[prepared]]Possible contribution of other enzymes according to the population."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single universal target-site mechanism has been confirmed as explaining all cases of Emamectin benzoate resistance.",
+          "prepared_text": "[[prepared]]No single universal target-site mechanism has been confirmed as explaining all cases of Emamectin benzoate resistance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rotation between Abamectin and Emamectin benzoate is not true rotation because both belong to IRAC group 6.",
+          "prepared_text": "[[prepared]]Rotation between Abamectin and Emamectin benzoate is not true rotation because both belong to IRAC group 6."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indoxacarb Resistance — IRAC 22A"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Indoxacarb acts by blocking voltage-gated sodium channels after conversion to the active metabolite within the insect.",
+          "prepared_text": "[[prepared]]Indoxacarb acts by blocking voltage-gated sodium channels after conversion to the active metabolite within the insect."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Recent studies have reported mutations associated with reduced susceptibility, including:",
+          "prepared_text": "[[prepared]]Recent studies have reported mutations associated with reduced susceptibility, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "F1845Y.",
+            "V1848I."
+          ],
+          "prepared_items": [
+            "[[prepared]]F1845Y.",
+            "[[prepared]]V1848I."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Metabolic mechanisms may also contribute to different degrees according to the population.",
+          "prepared_text": "[[prepared]]Metabolic mechanisms may also contribute to different degrees according to the population."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In some Iranian populations, laboratory resistance ratios ranged from low to moderate and were associated principally with target-site alterations.",
+          "prepared_text": "[[prepared]]In some Iranian populations, laboratory resistance ratios ranged from low to moderate and were associated principally with target-site alterations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These mutations and resistance levels should not be generalized to all regions without testing.",
+          "prepared_text": "[[prepared]]These mutations and resistance levels should not be generalized to all regions without testing."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Diamide Resistance — IRAC 28"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Diamides target ryanodine receptors responsible for regulating calcium release within muscle cells.",
+          "prepared_text": "[[prepared]]Diamides target ryanodine receptors responsible for regulating calcium release within muscle cells."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The group includes:",
+          "prepared_text": "[[prepared]]The group includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Chlorantraniliprole.",
+            "Cyantraniliprole.",
+            "Flubendiamide.",
+            "Tetraniliprole.",
+            "Other active ingredients carrying group number 28."
+          ],
+          "prepared_items": [
+            "[[prepared]]Chlorantraniliprole.",
+            "[[prepared]]Cyantraniliprole.",
+            "[[prepared]]Flubendiamide.",
+            "[[prepared]]Tetraniliprole.",
+            "[[prepared]]Other active ingredients carrying group number 28."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mutations in the ryanodine receptor have been confirmed in resistant Tuta absoluta populations, including:",
+          "prepared_text": "[[prepared]]Mutations in the ryanodine receptor have been confirmed in resistant Tuta absoluta populations, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "G4903E.",
+            "G4903V.",
+            "I4746M.",
+            "I4746T."
+          ],
+          "prepared_items": [
+            "[[prepared]]G4903E.",
+            "[[prepared]]G4903V.",
+            "[[prepared]]I4746M.",
+            "[[prepared]]I4746T."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Corresponding positions may be reported under slightly different numbers in other species because of differences in protein-sequence numbering.",
+          "prepared_text": "[[prepared]]Corresponding positions may be reported under slightly different numbers in other species because of differences in protein-sequence numbering."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These mutations reduce receptor affinity for diamides.",
+          "prepared_text": "[[prepared]]These mutations reduce receptor affinity for diamides."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Functional studies have shown that the mutations may confer different levels of resistance to different active ingredients within the group, but this does not make rotation among them a reliable strategy because all target the same general site.",
+          "prepared_text": "[[prepared]]Functional studies have shown that the mutations may confer different levels of resistance to different active ingredients within the group, but this does not make rotation among them a reliable strategy because all target the same general site."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Metabolic Resistance to Diamides"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Diamide resistance does not always depend on ryanodine-receptor mutations.",
+          "prepared_text": "[[prepared]]Diamide resistance does not always depend on ryanodine-receptor mutations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Spanish strains resistant to Chlorantraniliprole have been reported without the known receptor mutations, and resistance was associated with strong overexpression of:",
+          "prepared_text": "[[prepared]]Spanish strains resistant to Chlorantraniliprole have been reported without the known receptor mutations, and resistance was associated with strong overexpression of:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "UGT34A23"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An enzyme belonging to the UDP-glycosyltransferases.",
+          "prepared_text": "[[prepared]]An enzyme belonging to the UDP-glycosyltransferases."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This result confirms that a population may develop resistance to the same group through different mechanisms:",
+          "prepared_text": "[[prepared]]This result confirms that a population may develop resistance to the same group through different mechanisms:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Target-site alteration.",
+            "Increased detoxification.",
+            "A combination of the two."
+          ],
+          "prepared_items": [
+            "[[prepared]]Target-site alteration.",
+            "[[prepared]]Increased detoxification.",
+            "[[prepared]]A combination of the two."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Testing for one mutation is therefore insufficient to rule out group-28 resistance.",
+          "prepared_text": "[[prepared]]Testing for one mutation is therefore insufficient to rule out group-28 resistance."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance to Chitin-Biosynthesis Inhibitors — IRAC 15"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Benzoylureas were used extensively in some parts of South America, followed by clear declines in efficacy.",
+          "prepared_text": "[[prepared]]Benzoylureas were used extensively in some parts of South America, followed by clear declines in efficacy."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance may be associated with:",
+          "prepared_text": "[[prepared]]Resistance may be associated with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Metabolic mechanisms.",
+            "Polygenic changes.",
+            "Changes in chitin-biosynthesis pathways or responses to the active ingredient."
+          ],
+          "prepared_items": [
+            "[[prepared]]Metabolic mechanisms.",
+            "[[prepared]]Polygenic changes.",
+            "[[prepared]]Changes in chitin-biosynthesis pathways or responses to the active ingredient."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single universal mutation has been demonstrated as explaining all cases of resistance in Tuta absoluta.",
+          "prepared_text": "[[prepared]]No single universal mutation has been demonstrated as explaining all cases of resistance in Tuta absoluta."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Risk increases when:",
+          "prepared_text": "[[prepared]]Risk increases when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The group is used against unsuitable instars.",
+            "It is repeated against successive generations.",
+            "It is evaluated too early and spraying is repeated before the effect appears."
+          ],
+          "prepared_items": [
+            "[[prepared]]The group is used against unsuitable instars.",
+            "[[prepared]]It is repeated against successive generations.",
+            "[[prepared]]It is evaluated too early and spraying is repeated before the effect appears."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Chlorfenapyr Resistance — IRAC 13"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reports of high Chlorfenapyr resistance remain less widespread than for some other groups, although differences in susceptibility have been detected among pest populations.",
+          "prepared_text": "[[prepared]]Reports of high Chlorfenapyr resistance remain less widespread than for some other groups, although differences in susceptibility have been detected among pest populations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced susceptibility may involve:",
+          "prepared_text": "[[prepared]]Reduced susceptibility may involve:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Metabolic mechanisms.",
+            "Use history.",
+            "Differences in the insect’s ability to activate or detoxify the active ingredient.",
+            "Other multiple factors."
+          ],
+          "prepared_items": [
+            "[[prepared]]Metabolic mechanisms.",
+            "[[prepared]]Use history.",
+            "[[prepared]]Differences in the insect’s ability to activate or detoxify the active ingredient.",
+            "[[prepared]]Other multiple factors."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A different mode of action does not make Chlorfenapyr immune to resistance; continuous repetition selects individuals able to tolerate it.",
+          "prepared_text": "[[prepared]]A different mode of action does not make Chlorfenapyr immune to resistance; continuous repetition selects individuals able to tolerate it."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Establishing a Susceptibility Baseline"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Susceptibility Baseline"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A susceptibility baseline is a measurement of the response of populations that have not been widely exposed to an insecticide, or are highly susceptible to it, before widespread use of the active ingredient.",
+          "prepared_text": "[[prepared]]A susceptibility baseline is a measurement of the response of populations that have not been widely exposed to an insecticide, or are highly susceptible to it, before widespread use of the active ingredient."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is used to determine:",
+          "prepared_text": "[[prepared]]It is used to determine:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Natural variation.",
+            "LC50 and LC90 values.",
+            "The dose–response curve.",
+            "A diagnostic concentration.",
+            "Subsequent changes in susceptibility."
+          ],
+          "prepared_items": [
+            "[[prepared]]Natural variation.",
+            "[[prepared]]LC50 and LC90 values.",
+            "[[prepared]]The dose–response curve.",
+            "[[prepared]]A diagnostic concentration.",
+            "[[prepared]]Subsequent changes in susceptibility."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The baseline should be established using:",
+          "prepared_text": "[[prepared]]The baseline should be established using:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Several geographical populations where possible.",
+            "A standardized test method.",
+            "The same larval instar.",
+            "Constant temperature and humidity.",
+            "The same active ingredient.",
+            "A standardized assessment period."
+          ],
+          "prepared_items": [
+            "[[prepared]]Several geographical populations where possible.",
+            "[[prepared]]A standardized test method.",
+            "[[prepared]]The same larval instar.",
+            "[[prepared]]Constant temperature and humidity.",
+            "[[prepared]]The same active ingredient.",
+            "[[prepared]]A standardized assessment period."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Results from two laboratories cannot be directly compared when test methods differ substantially.",
+          "prepared_text": "[[prepared]]Results from two laboratories cannot be directly compared when test methods differ substantially."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Proactive and Reactive Monitoring"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Proactive Monitoring"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Proactive Monitoring"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This begins before clear field failure appears.",
+          "prepared_text": "[[prepared]]This begins before clear field failure appears."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its objectives are to:",
+          "prepared_text": "[[prepared]]Its objectives are to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Measure the susceptibility baseline.",
+            "Track changes in LC50 or diagnostic-concentration response.",
+            "Detect resistance at an early stage.",
+            "Modify the rotation program before failure occurs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Measure the susceptibility baseline.",
+            "[[prepared]]Track changes in LC50 or diagnostic-concentration response.",
+            "[[prepared]]Detect resistance at an early stage.",
+            "[[prepared]]Modify the rotation program before failure occurs."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Reactive Monitoring"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Reactive Monitoring"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This begins after reduced efficacy or field failure is recorded.",
+          "prepared_text": "[[prepared]]This begins after reduced efficacy or field failure is recorded."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its objectives are to:",
+          "prepared_text": "[[prepared]]Its objectives are to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confirm whether the failure is caused by resistance.",
+            "Determine the resistance level.",
+            "Identify affected active ingredients or groups.",
+            "Develop a containment plan."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confirm whether the failure is caused by resistance.",
+            "[[prepared]]Determine the resistance level.",
+            "[[prepared]]Identify affected active ingredients or groups.",
+            "[[prepared]]Develop a containment plan."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Proactive monitoring is preferable for protecting new active ingredients, whereas reactive monitoring is necessary for investigating failure cases.",
+          "prepared_text": "[[prepared]]Proactive monitoring is preferable for protecting new active ingredients, whereas reactive monitoring is necessary for investigating failure cases."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Collecting Samples for Resistance Testing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The sample should represent the field population. Larvae or infested leaves should therefore be collected from:",
+          "prepared_text": "[[prepared]]The sample should represent the field population. Larvae or infested leaves should therefore be collected from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Several points within the field.",
+            "Both edges and interior.",
+            "A large number of plants.",
+            "More than one hotspot.",
+            "More than one field when evaluating a whole area."
+          ],
+          "prepared_items": [
+            "[[prepared]]Several points within the field.",
+            "[[prepared]]Both edges and interior.",
+            "[[prepared]]A large number of plants.",
+            "[[prepared]]More than one hotspot.",
+            "[[prepared]]More than one field when evaluating a whole area."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be avoided:",
+          "prepared_text": "[[prepared]]The following should be avoided:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collecting all larvae from one plant.",
+            "Sampling immediately after a recent spray.",
+            "Mixing populations with different pesticide histories without recording them.",
+            "Collecting dead or severely weakened individuals.",
+            "Storing samples at high temperature."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collecting all larvae from one plant.",
+            "[[prepared]]Sampling immediately after a recent spray.",
+            "[[prepared]]Mixing populations with different pesticide histories without recording them.",
+            "[[prepared]]Collecting dead or severely weakened individuals.",
+            "[[prepared]]Storing samples at high temperature."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be recorded with the sample:",
+          "prepared_text": "[[prepared]]The following should be recorded with the sample:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Location.",
+            "Date.",
+            "Cultivar.",
+            "Crop age.",
+            "Pesticide history.",
+            "Active ingredients used.",
+            "Date of the most recent treatment.",
+            "Infestation level.",
+            "Description of the field failure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Location.",
+            "[[prepared]]Date.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Crop age.",
+            "[[prepared]]Pesticide history.",
+            "[[prepared]]Active ingredients used.",
+            "[[prepared]]Date of the most recent treatment.",
+            "[[prepared]]Infestation level.",
+            "[[prepared]]Description of the field failure."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "IRAC Method No. 022"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "IRAC Method No. 022 is one of the standardized methods used to test susceptibility of Tuta absoluta larvae.",
+          "prepared_text": "[[prepared]]IRAC Method No. 022 is one of the standardized methods used to test susceptibility of Tuta absoluta larvae."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its basic principles include:",
+          "prepared_text": "[[prepared]]Its basic principles include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Using uniform larvae, preferably second instars.",
+            "2. Using healthy tomato leaves.",
+            "3. Preparing known concentrations of the active ingredient.",
+            "4. Dipping leaves in the treatment solution.",
+            "5. Allowing them to dry.",
+            "6. Placing larvae on treated leaves.",
+            "7. Holding them under constant conditions.",
+            "8. Assessing mortality after the period appropriate to the active ingredient.",
+            "9. Correcting mortality when control mortality occurs.",
+            "10. Analyzing the dose–response curve."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Using uniform larvae, preferably second instars.",
+            "[[prepared]]2. Using healthy tomato leaves.",
+            "[[prepared]]3. Preparing known concentrations of the active ingredient.",
+            "[[prepared]]4. Dipping leaves in the treatment solution.",
+            "[[prepared]]5. Allowing them to dry.",
+            "[[prepared]]6. Placing larvae on treated leaves.",
+            "[[prepared]]7. Holding them under constant conditions.",
+            "[[prepared]]8. Assessing mortality after the period appropriate to the active ingredient.",
+            "[[prepared]]9. Correcting mortality when control mortality occurs.",
+            "[[prepared]]10. Analyzing the dose–response curve."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The F1 generation of field samples should preferably be used where possible to provide uniform numbers and reduce the effects of direct previous exposure.",
+          "prepared_text": "[[prepared]]The F1 generation of field samples should preferably be used where possible to provide uniform numbers and reduce the effects of direct previous exposure."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Commercial premixes containing two active ingredients should not be used to estimate susceptibility to either component individually.",
+          "prepared_text": "[[prepared]]Commercial premixes containing two active ingredients should not be used to estimate susceptibility to either component individually."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "LC50 and LC90 Values"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "LC50"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The concentration causing mortality of 50% of tested individuals.",
+          "prepared_text": "[[prepared]]The concentration causing mortality of 50% of tested individuals."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "LC90"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The concentration causing mortality of 90% of tested individuals.",
+          "prepared_text": "[[prepared]]The concentration causing mortality of 90% of tested individuals."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These values are used to:",
+          "prepared_text": "[[prepared]]These values are used to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Compare populations.",
+            "Establish a susceptibility baseline.",
+            "Calculate a resistance ratio.",
+            "Track changes in susceptibility over time."
+          ],
+          "prepared_items": [
+            "[[prepared]]Compare populations.",
+            "[[prepared]]Establish a susceptibility baseline.",
+            "[[prepared]]Calculate a resistance ratio.",
+            "[[prepared]]Track changes in susceptibility over time."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "LC50 is not necessarily equivalent to the field dose. It is a laboratory value affected by:",
+          "prepared_text": "[[prepared]]LC50 is not necessarily equivalent to the field dose. It is a laboratory value affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Exposure method.",
+            "Larval instar.",
+            "Assessment time.",
+            "Test conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Exposure method.",
+            "[[prepared]]Larval instar.",
+            "[[prepared]]Assessment time.",
+            "[[prepared]]Test conditions."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance Ratio"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The resistance ratio is commonly calculated as:",
+          "prepared_text": "[[prepared]]The resistance ratio is commonly calculated as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Resistance ratio, RR = LC50 of the field population ÷ LC50 of the susceptible population"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Example:",
+          "prepared_text": "[[prepared]]Example:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If the field-population LC50 is 10 mg/L and the susceptible-strain LC50 is 1 mg/L:",
+          "prepared_text": "[[prepared]]If the field-population LC50 is 10 mg/L and the susceptible-strain LC50 is 1 mg/L:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "RR = 10 ÷ 1 = 10-fold"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No universal boundaries always distinguish among:",
+          "prepared_text": "[[prepared]]No universal boundaries always distinguish among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Susceptibility.",
+            "Low resistance.",
+            "Moderate resistance.",
+            "High resistance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Susceptibility.",
+            "[[prepared]]Low resistance.",
+            "[[prepared]]Moderate resistance.",
+            "[[prepared]]High resistance."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "RR should be interpreted together with:",
+          "prepared_text": "[[prepared]]RR should be interpreted together with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confidence intervals.",
+            "Field dose.",
+            "Mortality at the diagnostic concentration.",
+            "Use history.",
+            "Field performance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confidence intervals.",
+            "[[prepared]]Field dose.",
+            "[[prepared]]Mortality at the diagnostic concentration.",
+            "[[prepared]]Use history.",
+            "[[prepared]]Field performance."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Diagnostic Concentration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A diagnostic concentration is a defined concentration expected to kill a very high proportion of a susceptible population.",
+          "prepared_text": "[[prepared]]A diagnostic concentration is a defined concentration expected to kill a very high proportion of a susceptible population."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is used to screen many populations more rapidly than conducting a full dose–response assay for every sample.",
+          "prepared_text": "[[prepared]]It is used to screen many populations more rapidly than conducting a full dose–response assay for every sample."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An increased proportion of survivors at this concentration indicates:",
+          "prepared_text": "[[prepared]]An increased proportion of survivors at this concentration indicates:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Presence of less-susceptible individuals.",
+            "Possible increase in resistance-allele frequency.",
+            "Need for a complete dose–response assay.",
+            "Need to review use of the active ingredient in the area."
+          ],
+          "prepared_items": [
+            "[[prepared]]Presence of less-susceptible individuals.",
+            "[[prepared]]Possible increase in resistance-allele frequency.",
+            "[[prepared]]Need for a complete dose–response assay.",
+            "[[prepared]]Need to review use of the active ingredient in the area."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The diagnostic concentration should be derived from a documented susceptibility baseline and not chosen arbitrarily from the field dose.",
+          "prepared_text": "[[prepared]]The diagnostic concentration should be derived from a documented susceptibility baseline and not chosen arbitrarily from the field dose."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Synergist Bioassays"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Synergist Bioassays"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compounds such as the following are used to help investigate the role of detoxification-enzyme systems:",
+          "prepared_text": "[[prepared]]Compounds such as the following are used to help investigate the role of detoxification-enzyme systems:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Piperonyl butoxide — PBO.",
+            "Triphenyl phosphate — TPP.",
+            "Diethyl maleate — DEM."
+          ],
+          "prepared_items": [
+            "[[prepared]]Piperonyl butoxide — PBO.",
+            "[[prepared]]Triphenyl phosphate — TPP.",
+            "[[prepared]]Diethyl maleate — DEM."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A substantial increase in insecticide toxicity after use of a synergist may indicate an enzymatic contribution to resistance.",
+          "prepared_text": "[[prepared]]A substantial increase in insecticide toxicity after use of a synergist may indicate an enzymatic contribution to resistance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, the test:",
+          "prepared_text": "[[prepared]]However, the test:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Does not identify the responsible gene by itself.",
+            "Is affected by synergist dose.",
+            "Does not prove causality conclusively.",
+            "Should be supported by enzyme measurements and molecular analysis."
+          ],
+          "prepared_items": [
+            "[[prepared]]Does not identify the responsible gene by itself.",
+            "[[prepared]]Is affected by synergist dose.",
+            "[[prepared]]Does not prove causality conclusively.",
+            "[[prepared]]Should be supported by enzyme measurements and molecular analysis."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Synergists should not be used in the field merely because they were effective in a laboratory test unless registered for that purpose.",
+          "prepared_text": "[[prepared]]Synergists should not be used in the field merely because they were effective in a laboratory test unless registered for that purpose."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Biochemical Measurements"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The activity of enzyme systems may be measured, including:",
+          "prepared_text": "[[prepared]]The activity of enzyme systems may be measured, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "P450 monooxygenases.",
+            "Glutathione S-transferases.",
+            "Esterases."
+          ],
+          "prepared_items": [
+            "[[prepared]]P450 monooxygenases.",
+            "[[prepared]]Glutathione S-transferases.",
+            "[[prepared]]Esterases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These measurements are useful for comparing:",
+          "prepared_text": "[[prepared]]These measurements are useful for comparing:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A resistant population.",
+            "A susceptible population.",
+            "Different regions.",
+            "Changes in activity after selection."
+          ],
+          "prepared_items": [
+            "[[prepared]]A resistant population.",
+            "[[prepared]]A susceptible population.",
+            "[[prepared]]Different regions.",
+            "[[prepared]]Changes in activity after selection."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increased enzyme activity alone does not prove that it causes resistance. It may be:",
+          "prepared_text": "[[prepared]]Increased enzyme activity alone does not prove that it causes resistance. It may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A general physiological response.",
+            "Associated with larval age.",
+            "Influenced by diet.",
+            "A consequence of previous exposure."
+          ],
+          "prepared_items": [
+            "[[prepared]]A general physiological response.",
+            "[[prepared]]Associated with larval age.",
+            "[[prepared]]Influenced by diet.",
+            "[[prepared]]A consequence of previous exposure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Demonstrating the mechanism requires integration of:",
+          "prepared_text": "[[prepared]]Demonstrating the mechanism requires integration of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Toxicity bioassays.",
+            "Synergist tests.",
+            "Enzyme measurements.",
+            "Gene-expression analysis.",
+            "Functional validation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Toxicity bioassays.",
+            "[[prepared]]Synergist tests.",
+            "[[prepared]]Enzyme measurements.",
+            "[[prepared]]Gene-expression analysis.",
+            "[[prepared]]Functional validation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Molecular Monitoring"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Molecular tests can detect known mutations, such as:",
+          "prepared_text": "[[prepared]]Molecular tests can detect known mutations, such as:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Group",
+            "Molecular Target",
+            "Example Mutations"
+          ],
+          "rows": [
+            [
+              "Pyrethroids",
+              "Sodium channel",
+              "L1014F, M918T, T929I"
+            ],
+            [
+              "Organophosphates",
+              "AChE1",
+              "A201S"
+            ],
+            [
+              "Spinosyns",
+              "nAChR α6",
+              "G275E"
+            ],
+            [
+              "Indoxacarb",
+              "Sodium channel",
+              "F1845Y, V1848I"
+            ],
+            [
+              "Diamides",
+              "Ryanodine receptor",
+              "G4903E/V, I4746M/T"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Group",
+            "[[prepared]]Molecular Target",
+            "[[prepared]]Example Mutations"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Pyrethroids",
+              "[[prepared]]Sodium channel",
+              "[[prepared]]L1014F, M918T, T929I"
+            ],
+            [
+              "[[prepared]]Organophosphates",
+              "[[prepared]]AChE1",
+              "[[prepared]]A201S"
+            ],
+            [
+              "[[prepared]]Spinosyns",
+              "[[prepared]]nAChR α6",
+              "[[prepared]]G275E"
+            ],
+            [
+              "[[prepared]]Indoxacarb",
+              "[[prepared]]Sodium channel",
+              "[[prepared]]F1845Y, V1848I"
+            ],
+            [
+              "[[prepared]]Diamides",
+              "[[prepared]]Ryanodine receptor",
+              "[[prepared]]G4903E/V, I4746M/T"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Molecular markers allow:",
+          "prepared_text": "[[prepared]]Molecular markers allow:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Detection of an allele before full field failure occurs.",
+            "Measurement of allele frequency.",
+            "Tracking of geographical spread.",
+            "Comparison among fields and seasons."
+          ],
+          "prepared_items": [
+            "[[prepared]]Detection of an allele before full field failure occurs.",
+            "[[prepared]]Measurement of allele frequency.",
+            "[[prepared]]Tracking of geographical spread.",
+            "[[prepared]]Comparison among fields and seasons."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Absence of known mutations does not prove susceptibility because there may be:",
+          "prepared_text": "[[prepared]]Absence of known mutations does not prove susceptibility because there may be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A new mutation.",
+            "Metabolic resistance.",
+            "Reduced penetration.",
+            "Multiple untested mechanisms."
+          ],
+          "prepared_items": [
+            "[[prepared]]A new mutation.",
+            "[[prepared]]Metabolic resistance.",
+            "[[prepared]]Reduced penetration.",
+            "[[prepared]]Multiple untested mechanisms."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Field-Performance Record"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A field-performance record provides an early means of detecting gradual decline in efficacy.",
+          "prepared_text": "[[prepared]]A field-performance record provides an early means of detecting gradual decline in efficacy."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "For every treatment, record:",
+          "prepared_text": "[[prepared]]For every treatment, record:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active ingredient.",
+            "IRAC group.",
+            "Dose.",
+            "Larval instar.",
+            "Infestation before treatment.",
+            "Coverage.",
+            "Weather.",
+            "Percentage of live larvae after treatment.",
+            "New mines.",
+            "Fruit infestation.",
+            "Previous application history."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active ingredient.",
+            "[[prepared]]IRAC group.",
+            "[[prepared]]Dose.",
+            "[[prepared]]Larval instar.",
+            "[[prepared]]Infestation before treatment.",
+            "[[prepared]]Coverage.",
+            "[[prepared]]Weather.",
+            "[[prepared]]Percentage of live larvae after treatment.",
+            "[[prepared]]New mines.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Previous application history."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The same evaluation method should be used each time to allow valid comparison.",
+          "prepared_text": "[[prepared]]The same evaluation method should be used each time to allow valid comparison."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Verification of Field Failure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When efficacy declines, investigation should proceed in the following order.",
+          "prepared_text": "[[prepared]]When efficacy declines, investigation should proceed in the following order."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Step One: Review Application"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Dose.",
+            "Calibration.",
+            "Coverage.",
+            "Water quality.",
+            "Weather.",
+            "Storage.",
+            "Tank mixing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Dose.",
+            "[[prepared]]Calibration.",
+            "[[prepared]]Coverage.",
+            "[[prepared]]Water quality.",
+            "[[prepared]]Weather.",
+            "[[prepared]]Storage.",
+            "[[prepared]]Tank mixing."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Step Two: Review the Pest"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval instar.",
+            "Location of larvae.",
+            "Old and new mines.",
+            "Entry into fruits."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larval instar.",
+            "[[prepared]]Location of larvae.",
+            "[[prepared]]Old and new mines.",
+            "[[prepared]]Entry into fruits."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Step Three: Review Immigration"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap data.",
+            "Old fields.",
+            "Field edges.",
+            "Cessation of control in neighboring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap data.",
+            "[[prepared]]Old fields.",
+            "[[prepared]]Field edges.",
+            "[[prepared]]Cessation of control in neighboring fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Step Four: Review Group History"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of applications.",
+            "Repetition in the nursery.",
+            "Use of the same active ingredient on neighboring crops.",
+            "Mixtures containing the same group."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of applications.",
+            "[[prepared]]Repetition in the nursery.",
+            "[[prepared]]Use of the same active ingredient on neighboring crops.",
+            "[[prepared]]Mixtures containing the same group."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Step Five: Collect Samples"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Conduct susceptibility bioassays.",
+            "Screen for mutations.",
+            "Measure enzyme activity where possible."
+          ],
+          "prepared_items": [
+            "[[prepared]]Conduct susceptibility bioassays.",
+            "[[prepared]]Screen for mutations.",
+            "[[prepared]]Measure enzyme activity where possible."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The same group should not be reused during the investigation merely to reconfirm failure.",
+          "prepared_text": "[[prepared]]The same group should not be reused during the investigation merely to reconfirm failure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mode-of-Action Window System"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance management recommends dividing the season into time- or heat-based windows corresponding to a generation or a defined portion of pest development.",
+          "prepared_text": "[[prepared]]Resistance management recommends dividing the season into time- or heat-based windows corresponding to a generation or a defined portion of pest development."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One group may be used within a window according to the product label, followed by a different group in the next window.",
+          "prepared_text": "[[prepared]]One group may be used within a window according to the product label, followed by a different group in the next window."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal rule is:",
+          "prepared_text": "[[prepared]]The principal rule is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Do not expose two successive generations of Tuta absoluta to the same mode-of-action group."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The window should be designed according to:",
+          "prepared_text": "[[prepared]]The window should be designed according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Temperature.",
+            "Generation duration.",
+            "Date of first flight.",
+            "Hatching waves.",
+            "Crop stage.",
+            "Trap data."
+          ],
+          "prepared_items": [
+            "[[prepared]]Temperature.",
+            "[[prepared]]Generation duration.",
+            "[[prepared]]Date of first flight.",
+            "[[prepared]]Hatching waves.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Trap data."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A 30-day period should not be used as a fixed value in every planting season because the generation may be shorter or longer.",
+          "prepared_text": "[[prepared]]A 30-day period should not be used as a fixed value in every planting season because the generation may be shorter or longer."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Managing Overlapping Generations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There are no perfectly distinct boundaries among Tuta absoluta generations in the field. The following may be present simultaneously:",
+          "prepared_text": "[[prepared]]There are no perfectly distinct boundaries among Tuta absoluta generations in the field. The following may be present simultaneously:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Different larval instars.",
+            "Pupae.",
+            "Adult moths."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Different larval instars.",
+            "[[prepared]][[term:pupation]]Pupae[[/term]].",
+            "[[prepared]]Adult moths."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The purpose of a window is therefore to reduce exposure of most individuals within one generation to multiple groups or exposure of successive generations to the same group.",
+          "prepared_text": "[[prepared]]The purpose of a window is therefore to reduce exposure of most individuals within one generation to multiple groups or exposure of successive generations to the same group."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The program should:",
+          "prepared_text": "[[prepared]]The program should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Define the start of the window using a clear biological event.",
+            "Record the date of the first application.",
+            "Avoid returning to the previous group merely because several days have passed.",
+            "Use non-chemical methods between windows.",
+            "Consider long residual activity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Define the start of the window using a clear biological event.",
+            "[[prepared]]Record the date of the first application.",
+            "[[prepared]]Avoid returning to the previous group merely because several days have passed.",
+            "[[prepared]]Use non-chemical methods between windows.",
+            "[[prepared]]Consider long residual activity."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Mixtures and Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mixtures may provide benefit under specific conditions, but they do not guarantee prevention of resistance.",
+          "prepared_text": "[[prepared]]Mixtures may provide benefit under specific conditions, but they do not guarantee prevention of resistance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each component should meet the following requirements:",
+          "prepared_text": "[[prepared]]Each component should meet the following requirements:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A different mode of action.",
+            "Independent efficacy against the same target stage.",
+            "A full effective dose.",
+            "Relatively similar protection periods.",
+            "Simultaneous delivery to the pest.",
+            "No widespread resistance to either component."
+          ],
+          "prepared_items": [
+            "[[prepared]]A different mode of action.",
+            "[[prepared]]Independent efficacy against the same target stage.",
+            "[[prepared]]A full effective dose.",
+            "[[prepared]]Relatively similar protection periods.",
+            "[[prepared]]Simultaneous delivery to the pest.",
+            "[[prepared]]No widespread resistance to either component."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mixture value is low when:",
+          "prepared_text": "[[prepared]]Mixture value is low when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "One component is ineffective.",
+            "Resistance to one component is already present.",
+            "Residual periods differ greatly.",
+            "The same mixture is repeated across several windows.",
+            "Both components belong to the same IRAC group."
+          ],
+          "prepared_items": [
+            "[[prepared]]One component is ineffective.",
+            "[[prepared]]Resistance to one component is already present.",
+            "[[prepared]]Residual periods differ greatly.",
+            "[[prepared]]The same mixture is repeated across several windows.",
+            "[[prepared]]Both components belong to the same IRAC group."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mixtures should not be used to compensate for lack of rotation or poor application.",
+          "prepared_text": "[[prepared]]Mixtures should not be used to compensate for lack of rotation or poor application."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Reducing the Number of Exposures"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The best way to reduce resistance risk is to reduce pest-population exposure to insecticides.",
+          "prepared_text": "[[prepared]]The best way to reduce resistance risk is to reduce pest-population exposure to insecticides."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is achieved through:",
+          "prepared_text": "[[prepared]]This is achieved through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Pest-free transplants.",
+            "Crop-residue removal.",
+            "Pheromone traps.",
+            "Egg parasitoids.",
+            "Predators.",
+            "Bt.",
+            "Entomopathogenic fungi and nematodes.",
+            "Management of old fields.",
+            "Collection of infested fruits.",
+            "Use of thresholds.",
+            "Localized treatment of foci."
+          ],
+          "prepared_items": [
+            "[[prepared]]Pest-free transplants.",
+            "[[prepared]]Crop-residue removal.",
+            "[[prepared]]Pheromone traps.",
+            "[[prepared]]Egg parasitoids.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Bt.",
+            "[[prepared]]Entomopathogenic fungi and nematodes.",
+            "[[prepared]]Management of old fields.",
+            "[[prepared]]Collection of infested fruits.",
+            "[[prepared]]Use of thresholds.",
+            "[[prepared]]Localized treatment of foci."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every individual killed by a non-chemical method is an individual not subjected to insecticide selection pressure.",
+          "prepared_text": "[[prepared]]Every individual killed by a non-chemical method is an individual not subjected to insecticide selection pressure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Dose and Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The registered dose demonstrated to be effective should be used.",
+          "prepared_text": "[[prepared]]The registered dose demonstrated to be effective should be used."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Unregistered Low Doses"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These may allow survival of:",
+          "prepared_text": "[[prepared]]These may allow survival of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Moderately susceptible individuals.",
+            "Heterozygous individuals.",
+            "Individuals carrying partial resistance mechanisms."
+          ],
+          "prepared_items": [
+            "[[prepared]]Moderately susceptible individuals.",
+            "[[prepared]]Heterozygous individuals.",
+            "[[prepared]]Individuals carrying partial resistance mechanisms."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Doses Above the Registered Rate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These may:",
+          "prepared_text": "[[prepared]]These may:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increase residues.",
+            "Harm natural enemies.",
+            "Increase environmental risks.",
+            "Increase selection pressure.",
+            "Fail to restore the efficacy of an active ingredient compromised by strong resistance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increase residues.",
+            "[[prepared]]Harm natural enemies.",
+            "[[prepared]]Increase environmental risks.",
+            "[[prepared]]Increase selection pressure.",
+            "[[prepared]]Fail to restore the efficacy of an active ingredient compromised by strong resistance."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Increasing the dose is not a resistance-management strategy.",
+          "prepared_text": "[[prepared]]Increasing the dose is not a resistance-management strategy."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Application Timing and Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Late application increases resistance risk because:",
+          "prepared_text": "[[prepared]]Late application increases resistance risk because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Large larvae require greater exposure.",
+            "Some are already within protected tissues.",
+            "A greater proportion survives.",
+            "Spraying is repeated after a short interval.",
+            "Applications from the same group accumulate."
+          ],
+          "prepared_items": [
+            "[[prepared]]Large larvae require greater exposure.",
+            "[[prepared]]Some are already within protected tissues.",
+            "[[prepared]]A greater proportion survives.",
+            "[[prepared]]Spraying is repeated after a short interval.",
+            "[[prepared]]Applications from the same group accumulate."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Targeted application against young instars provides greater efficacy with fewer treatments and reduces the proportion of survivors.",
+          "prepared_text": "[[prepared]]Targeted application against young instars provides greater efficacy with fewer treatments and reduces the proportion of survivors."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Coverage Quality and Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Uneven coverage can function as a spatially low dose.",
+          "prepared_text": "[[prepared]]Uneven coverage can function as a spatially low dose."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some larvae receive a full concentration, while others receive lower concentrations in:",
+          "prepared_text": "[[prepared]]Some larvae receive a full concentration, while others receive lower concentrations in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Untreated lower leaf surfaces.",
+            "The inner canopy.",
+            "Growing points.",
+            "Field edges.",
+            "Areas affected by blocked nozzles."
+          ],
+          "prepared_items": [
+            "[[prepared]]Untreated lower leaf surfaces.",
+            "[[prepared]]The inner canopy.",
+            "[[prepared]]Growing points.",
+            "[[prepared]]Field edges.",
+            "[[prepared]]Areas affected by blocked nozzles."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These zones increase the probability that moderately susceptible individuals will survive.",
+          "prepared_text": "[[prepared]]These zones increase the probability that moderately susceptible individuals will survive."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calibration and coverage are therefore components of resistance management, not merely requirements for immediate efficacy.",
+          "prepared_text": "[[prepared]]Calibration and coverage are therefore components of resistance management, not merely requirements for immediate efficacy."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Role of Untreated Areas"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In some resistance-management systems, untreated areas allow susceptible individuals to survive and mate with resistant individuals.",
+          "prepared_text": "[[prepared]]In some resistance-management systems, untreated areas allow susceptible individuals to survive and mate with resistant individuals."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Deliberately applying a refuge concept in tomato against Tuta absoluta faces constraints including:",
+          "prepared_text": "[[prepared]]Deliberately applying a refuge concept in tomato against Tuta absoluta faces constraints including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High crop value.",
+            "Rapid pest spread.",
+            "Fruit infestation.",
+            "Movement into neighboring fields.",
+            "Absence of a standardized recommendation to leave infested sectors unmanaged."
+          ],
+          "prepared_items": [
+            "[[prepared]]High crop value.",
+            "[[prepared]]Rapid pest spread.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Movement into neighboring fields.",
+            "[[prepared]]Absence of a standardized recommendation to leave infested sectors unmanaged."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A “Tuta refuge” should therefore not be created randomly within the field.",
+          "prepared_text": "[[prepared]]A “Tuta refuge” should therefore not be created randomly within the field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Susceptible individuals can be conserved more safely through:",
+          "prepared_text": "[[prepared]]Susceptible individuals can be conserved more safely through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reducing the number of applications.",
+            "Periods without use of the group.",
+            "Use of non-chemical methods.",
+            "Avoiding unnecessary treatment of pest-free areas.",
+            "Regional coordination."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reducing the number of applications.",
+            "[[prepared]]Periods without use of the group.",
+            "[[prepared]]Use of non-chemical methods.",
+            "[[prepared]]Avoiding unnecessary treatment of pest-free areas.",
+            "[[prepared]]Regional coordination."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Area-Wide Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The best rotation in one field may fail when surrounding fields repeatedly use the same group.",
+          "prepared_text": "[[prepared]]The best rotation in one field may fail when surrounding fields repeatedly use the same group."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Area-wide management includes:",
+          "prepared_text": "[[prepared]]Area-wide management includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Sharing data on IRAC groups used.",
+            "Avoiding dependence by all fields on the same group at the same time throughout the season.",
+            "Coordinating mode-of-action windows.",
+            "Reporting failure cases.",
+            "Collecting samples from high-use areas.",
+            "Managing old fields.",
+            "Preventing circulation of unsupported recommendations.",
+            "Training pesticide distributors and agricultural engineers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sharing data on IRAC groups used.",
+            "[[prepared]]Avoiding dependence by all fields on the same group at the same time throughout the season.",
+            "[[prepared]]Coordinating mode-of-action windows.",
+            "[[prepared]]Reporting failure cases.",
+            "[[prepared]]Collecting samples from high-use areas.",
+            "[[prepared]]Managing old fields.",
+            "[[prepared]]Preventing circulation of unsupported recommendations.",
+            "[[prepared]]Training pesticide distributors and agricultural engineers."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Coordination does not mean that all fields use the same insecticide. It means developing a plan that prevents continuous pressure on one group across the region.",
+          "prepared_text": "[[prepared]]Coordination does not mean that all fields use the same insecticide. It means developing a plan that prevents continuous pressure on one group across the region."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Nursery Insecticide History"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance pressure begins before transplants reach the field when insecticides are used in the nursery.",
+          "prepared_text": "[[prepared]]Resistance pressure begins before transplants reach the field when insecticides are used in the nursery."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each transplant batch should therefore be accompanied by a record including:",
+          "prepared_text": "[[prepared]]Each transplant batch should therefore be accompanied by a record including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active ingredients.",
+            "IRAC groups.",
+            "Number of applications.",
+            "Date of the most recent treatment.",
+            "Target pests."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active ingredients.",
+            "[[prepared]]IRAC groups.",
+            "[[prepared]]Number of applications.",
+            "[[prepared]]Date of the most recent treatment.",
+            "[[prepared]]Target pests."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The nursery record should be integrated with the field program.",
+          "prepared_text": "[[prepared]]The nursery record should be integrated with the field program."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If group 28 is used in the nursery and then used again immediately after transplanting, the pest population has been exposed during two successive periods despite the change in application location.",
+          "prepared_text": "[[prepared]]If group 28 is used in the nursery and then used again immediately after transplanting, the pest population has been exposed during two successive periods despite the change in application location."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance Selection by Treatments Against Other Crop Pests"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A particular group may be used against:",
+          "prepared_text": "[[prepared]]A particular group may be used against:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Whiteflies.",
+            "Thrips.",
+            "Other caterpillars.",
+            "Sucking pests."
+          ],
+          "prepared_items": [
+            "[[prepared]]Whiteflies.",
+            "[[prepared]]Thrips.",
+            "[[prepared]]Other caterpillars.",
+            "[[prepared]]Sucking pests."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "At the same time, Tuta absoluta is exposed to the residues.",
+          "prepared_text": "[[prepared]]At the same time, Tuta absoluta is exposed to the residues."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "All applications to which Tuta is exposed should therefore be included in the resistance history, not only treatments recorded as specifically targeting Tuta.",
+          "prepared_text": "[[prepared]]All applications to which Tuta is exposed should therefore be included in the resistance history, not only treatments recorded as specifically targeting Tuta."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance may be selected unintentionally by sprays directed against another pest.",
+          "prepared_text": "[[prepared]]Resistance may be selected unintentionally by sprays directed against another pest."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recent Egyptian Evidence"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An Egyptian study published in May 2026 showed differences in the susceptibility of Tuta absoluta populations collected from:",
+          "prepared_text": "[[prepared]]An Egyptian study published in May 2026 showed differences in the susceptibility of Tuta absoluta populations collected from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Luxor.",
+            "Assiut.",
+            "Giza."
+          ],
+          "prepared_items": [
+            "[[prepared]]Luxor.",
+            "[[prepared]]Assiut.",
+            "[[prepared]]Giza."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The populations were tested against:",
+          "prepared_text": "[[prepared]]The populations were tested against:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Chlorantraniliprole.",
+            "Chlorfenapyr.",
+            "Indoxacarb.",
+            "Emamectin benzoate.",
+            "Spinetoram."
+          ],
+          "prepared_items": [
+            "[[prepared]]Chlorantraniliprole.",
+            "[[prepared]]Chlorfenapyr.",
+            "[[prepared]]Indoxacarb.",
+            "[[prepared]]Emamectin benzoate.",
+            "[[prepared]]Spinetoram."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The Luxor population recorded the highest LC50 values and relative resistance ratios, especially to Chlorfenapyr and Indoxacarb, whereas the Giza population was the most susceptible in the test.",
+          "prepared_text": "[[prepared]]The Luxor population recorded the highest LC50 values and relative resistance ratios, especially to Chlorfenapyr and Indoxacarb, whereas the Giza population was the most susceptible in the test."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The Luxor population also showed higher activity of some detoxification enzymes, particularly P450 and GST, suggesting a possible contribution of metabolic resistance.",
+          "prepared_text": "[[prepared]]The Luxor population also showed higher activity of some detoxification enzymes, particularly P450 and GST, suggesting a possible contribution of metabolic resistance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Under the conditions of the study, Emamectin benzoate and Spinetoram remained highly effective against the tested populations.",
+          "prepared_text": "[[prepared]]Under the conditions of the study, Emamectin benzoate and Spinetoram remained highly effective against the tested populations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "However, these results:",
+          "prepared_text": "[[prepared]]However, these results:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Concern only three populations.",
+            "Do not represent a national resistance map.",
+            "Do not guarantee continued efficacy in following seasons.",
+            "Do not justify repeated use of the two active ingredients.",
+            "Require annual monitoring and inclusion of additional regions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Concern only three populations.",
+            "[[prepared]]Do not represent a national resistance map.",
+            "[[prepared]]Do not guarantee continued efficacy in following seasons.",
+            "[[prepared]]Do not justify repeated use of the two active ingredients.",
+            "[[prepared]]Require annual monitoring and inclusion of additional regions."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Design of an Egyptian Monitoring Program"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The proposed program should include:",
+          "prepared_text": "[[prepared]]The proposed program should include:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Regions"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The Nile Delta.",
+            "Nubaria.",
+            "Wadi El Natroun.",
+            "Matrouh.",
+            "Middle Egypt.",
+            "Luxor and Aswan.",
+            "Processing-tomato production areas.",
+            "Greenhouse and nursery production areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]The Nile Delta.",
+            "[[prepared]]Nubaria.",
+            "[[prepared]]Wadi El Natroun.",
+            "[[prepared]]Matrouh.",
+            "[[prepared]]Middle Egypt.",
+            "[[prepared]]Luxor and Aswan.",
+            "[[prepared]]Processing-tomato production areas.",
+            "[[prepared]]Greenhouse and nursery production areas."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Timing"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Beginning of the planting season.",
+            "Mid-season.",
+            "After documented failure cases.",
+            "End of the season when spray pressure is high."
+          ],
+          "prepared_items": [
+            "[[prepared]]Beginning of the planting season.",
+            "[[prepared]]Mid-season.",
+            "[[prepared]]After documented failure cases.",
+            "[[prepared]]End of the season when spray pressure is high."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Groups"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Priority should be given to groups that are heavily used or economically important, such as:",
+          "prepared_text": "[[prepared]]Priority should be given to groups that are heavily used or economically important, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "5.",
+            "6.",
+            "13.",
+            "15.",
+            "22A.",
+            "28.",
+            "Newer groups when registered."
+          ],
+          "prepared_items": [
+            "[[prepared]]5.",
+            "[[prepared]]6.",
+            "[[prepared]]13.",
+            "[[prepared]]15.",
+            "[[prepared]]22A.",
+            "[[prepared]]28.",
+            "[[prepared]]Newer groups when registered."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Tests"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "IRAC Method 022.",
+            "Diagnostic concentrations.",
+            "Dose–response curves.",
+            "Enzyme assays.",
+            "Molecular markers where available.",
+            "Linking results with field-use records."
+          ],
+          "prepared_items": [
+            "[[prepared]]IRAC Method 022.",
+            "[[prepared]]Diagnostic concentrations.",
+            "[[prepared]]Dose–response curves.",
+            "[[prepared]]Enzyme assays.",
+            "[[prepared]]Molecular markers where available.",
+            "[[prepared]]Linking results with field-use records."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance-Risk Card"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance risk for each field may be classified using the following indicators:",
+          "prepared_text": "[[prepared]]Resistance risk for each field may be classified using the following indicators:"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Indicator",
+            "Low",
+            "Moderate",
+            "High"
+          ],
+          "rows": [
+            [
+              "Number of applications of the group",
+              "0–1",
+              "2",
+              "More than 2"
+            ],
+            [
+              "Use in the nursery",
+              "No",
+              "Unknown",
+              "Yes"
+            ],
+            [
+              "Use in the previous generation",
+              "No",
+              "Uncertain",
+              "Yes"
+            ],
+            [
+              "Previous decline in efficacy",
+              "No",
+              "Once",
+              "Repeated"
+            ],
+            [
+              "Coverage",
+              "Good",
+              "Inconsistent",
+              "Poor"
+            ],
+            [
+              "Use of biological methods",
+              "High",
+              "Moderate",
+              "Absent"
+            ],
+            [
+              "Regional pressure",
+              "Low",
+              "Moderate",
+              "High"
+            ],
+            [
+              "Pesticide record",
+              "Complete",
+              "Incomplete",
+              "Absent"
+            ],
+            [
+              "Unregistered doses",
+              "No",
+              "Possible",
+              "Repeated"
+            ],
+            [
+              "Random mixtures",
+              "No",
+              "Sometimes",
+              "Repeated"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Indicator",
+            "[[prepared]]Low",
+            "[[prepared]]Moderate",
+            "[[prepared]]High"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Number of applications of the group",
+              "[[prepared]]0–1",
+              "[[prepared]]2",
+              "[[prepared]]More than 2"
+            ],
+            [
+              "[[prepared]]Use in the nursery",
+              "[[prepared]]No",
+              "[[prepared]]Unknown",
+              "[[prepared]]Yes"
+            ],
+            [
+              "[[prepared]]Use in the previous generation",
+              "[[prepared]]No",
+              "[[prepared]]Uncertain",
+              "[[prepared]]Yes"
+            ],
+            [
+              "[[prepared]]Previous decline in efficacy",
+              "[[prepared]]No",
+              "[[prepared]]Once",
+              "[[prepared]]Repeated"
+            ],
+            [
+              "[[prepared]]Coverage",
+              "[[prepared]]Good",
+              "[[prepared]]Inconsistent",
+              "[[prepared]]Poor"
+            ],
+            [
+              "[[prepared]]Use of biological methods",
+              "[[prepared]]High",
+              "[[prepared]]Moderate",
+              "[[prepared]]Absent"
+            ],
+            [
+              "[[prepared]]Regional pressure",
+              "[[prepared]]Low",
+              "[[prepared]]Moderate",
+              "[[prepared]]High"
+            ],
+            [
+              "[[prepared]]Pesticide record",
+              "[[prepared]]Complete",
+              "[[prepared]]Incomplete",
+              "[[prepared]]Absent"
+            ],
+            [
+              "[[prepared]]Unregistered doses",
+              "[[prepared]]No",
+              "[[prepared]]Possible",
+              "[[prepared]]Repeated"
+            ],
+            [
+              "[[prepared]]Random mixtures",
+              "[[prepared]]No",
+              "[[prepared]]Sometimes",
+              "[[prepared]]Repeated"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Risk level increases as more indicators from the high-risk column accumulate.",
+          "prepared_text": "[[prepared]]Risk level increases as more indicators from the high-risk column accumulate."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management Plan for a High-Risk Field"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Review all applications made during the season.",
+            "2. Identify the IRAC groups used.",
+            "3. Stop use of the repeated group.",
+            "4. Examine larval instars.",
+            "5. Review calibration and coverage.",
+            "6. Collect a sample for susceptibility testing.",
+            "7. Use an active ingredient from a different group demonstrated to be effective.",
+            "8. Increase biological and microbial control.",
+            "9. Manage hotspots and infested fruits.",
+            "10. Inspect neighboring fields.",
+            "11. Shorten the reassessment interval.",
+            "12. Record the outcome and notify technical management."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Review all applications made during the season.",
+            "[[prepared]]2. Identify the IRAC groups used.",
+            "[[prepared]]3. Stop use of the repeated group.",
+            "[[prepared]]4. Examine larval instars.",
+            "[[prepared]]5. Review calibration and coverage.",
+            "[[prepared]]6. Collect a sample for susceptibility testing.",
+            "[[prepared]]7. Use an active ingredient from a different group demonstrated to be effective.",
+            "[[prepared]]8. Increase biological and microbial control.",
+            "[[prepared]]9. Manage hotspots and infested fruits.",
+            "[[prepared]]10. Inspect neighboring fields.",
+            "[[prepared]]11. Shorten the reassessment interval.",
+            "[[prepared]]12. Record the outcome and notify technical management."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management After Resistance Is Confirmed"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When resistance to a particular group is confirmed:",
+          "prepared_text": "[[prepared]]When resistance to a particular group is confirmed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Suspend use of the group in the affected area for an appropriate period.",
+            "Do not use another active ingredient from the same group.",
+            "Review mixtures containing the group.",
+            "Notify neighboring fields and nurseries.",
+            "Use different effective groups.",
+            "Intensify non-chemical methods.",
+            "Monitor resistance alleles or susceptibility periodically.",
+            "Do not increase the dose or application frequency.",
+            "Identify sources of spread of the resistant population.",
+            "Review the following season’s plan."
+          ],
+          "prepared_items": [
+            "[[prepared]]Suspend use of the group in the affected area for an appropriate period.",
+            "[[prepared]]Do not use another active ingredient from the same group.",
+            "[[prepared]]Review mixtures containing the group.",
+            "[[prepared]]Notify neighboring fields and nurseries.",
+            "[[prepared]]Use different effective groups.",
+            "[[prepared]]Intensify non-chemical methods.",
+            "[[prepared]]Monitor resistance alleles or susceptibility periodically.",
+            "[[prepared]]Do not increase the dose or application frequency.",
+            "[[prepared]]Identify sources of spread of the resistant population.",
+            "[[prepared]]Review the following season’s plan."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Suspending the group does not guarantee recovery of susceptibility. Testing should be conducted before reintroduction.",
+          "prepared_text": "[[prepared]]Suspending the group does not guarantee recovery of susceptibility. Testing should be conducted before reintroduction."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Successful Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Stable population susceptibility.",
+            "No increase in LC50 across seasons.",
+            "Fewer failure cases.",
+            "Fewer applications.",
+            "No repetition of one group against successive generations.",
+            "Preservation of efficacy of key groups.",
+            "Increased use of biological methods.",
+            "Availability of complete pesticide records.",
+            "Rapid investigation of failure cases.",
+            "Data sharing among regions.",
+            "Reduced reliance on poorly designed mixtures."
+          ],
+          "prepared_items": [
+            "[[prepared]]Stable population susceptibility.",
+            "[[prepared]]No increase in LC50 across seasons.",
+            "[[prepared]]Fewer failure cases.",
+            "[[prepared]]Fewer applications.",
+            "[[prepared]]No repetition of one group against successive generations.",
+            "[[prepared]]Preservation of efficacy of key groups.",
+            "[[prepared]]Increased use of biological methods.",
+            "[[prepared]]Availability of complete pesticide records.",
+            "[[prepared]]Rapid investigation of failure cases.",
+            "[[prepared]]Data sharing among regions.",
+            "[[prepared]]Reduced reliance on poorly designed mixtures."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Assuming Resistance Always Results from Poor Product Quality"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The product may be sound and the population resistant, or the reverse may be true.",
+          "prepared_text": "[[prepared]]The product may be sound and the population resistant, or the reverse may be true."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Declaring Resistance After One Treatment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Application errors should first be excluded.",
+          "prepared_text": "[[prepared]]Application errors should first be excluded."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Increasing the Dose After Failure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not overcome resistance and may increase risk.",
+          "prepared_text": "[[prepared]]This does not overcome resistance and may increase risk."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Repeating the Active Ingredient Within a Short Period"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This increases selection pressure.",
+          "prepared_text": "[[prepared]]This increases selection pressure."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Changing Only the Trade Name"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not change the mode of action.",
+          "prepared_text": "[[prepared]]This does not change the mode of action."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Switching Between Active Ingredients Within the Same Group"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This does not constitute true rotation.",
+          "prepared_text": "[[prepared]]This does not constitute true rotation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Forgetting Nursery Applications"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They form part of the exposure history.",
+          "prepared_text": "[[prepared]]They form part of the exposure history."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Using a Group Against Another Pest Without Accounting for Tuta Exposure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This may select resistance unintentionally.",
+          "prepared_text": "[[prepared]]This may select resistance unintentionally."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Relying on the Same Mixture Throughout the Season"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This selects resistance to both components.",
+          "prepared_text": "[[prepared]]This selects resistance to both components."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Using Unregistered Low Concentrations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This allows less-susceptible individuals to survive.",
+          "prepared_text": "[[prepared]]This allows less-susceptible individuals to survive."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Ignoring Metabolic Resistance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may cause cross-resistance between different groups.",
+          "prepared_text": "[[prepared]]It may cause cross-resistance between different groups."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Relying on Detection of One Mutation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Other mechanisms may be present.",
+          "prepared_text": "[[prepared]]Other mechanisms may be present."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Thirteen: Comparing LC50 Values from Different Test Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The comparison may be invalid.",
+          "prepared_text": "[[prepared]]The comparison may be invalid."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fourteen: Collecting an Unrepresentative Sample"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The sample may reflect only one hotspot.",
+          "prepared_text": "[[prepared]]The sample may reflect only one hotspot."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fifteen: Continuing to Use the Group After Failure Is Confirmed"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This accelerates the spread of resistance.",
+          "prepared_text": "[[prepared]]This accelerates the spread of resistance."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Practical Priorities in Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The priorities are:",
+          "prepared_text": "[[prepared]]The priorities are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Establish a national susceptibility baseline for the principal groups.",
+            "2. Apply IRAC Method 022 in specialized laboratories.",
+            "3. Collect samples from high-density and high-use areas.",
+            "4. Integrate nursery and field records.",
+            "5. Record the IRAC group on spray orders.",
+            "6. Prevent use of the same group against two successive generations.",
+            "7. Review all components of commercial mixtures.",
+            "8. Do not treat Spinosad and Spinetoram as different groups.",
+            "9. Do not treat Abamectin and Emamectin benzoate as different groups.",
+            "10. Do not rotate among diamides as though they were separate groups.",
+            "11. Investigate local declines in efficacy of Chlorfenapyr and Indoxacarb.",
+            "12. Expand the recent Egyptian study to additional regions and planting seasons.",
+            "13. Introduce molecular tests for known resistance mutations.",
+            "14. Monitor P450, GST, and other metabolic enzymes.",
+            "15. Strengthen biological control to reduce exposure frequency.",
+            "16. Educate growers and pesticide distributors about modes of action.",
+            "17. Issue regional warnings when resistance is confirmed.",
+            "18. Do not reintroduce a suspended group before susceptibility recovery is tested."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Establish a national susceptibility baseline for the principal groups.",
+            "[[prepared]]2. Apply IRAC Method 022 in specialized laboratories.",
+            "[[prepared]]3. Collect samples from high-density and high-use areas.",
+            "[[prepared]]4. Integrate nursery and field records.",
+            "[[prepared]]5. Record the IRAC group on spray orders.",
+            "[[prepared]]6. Prevent use of the same group against two successive generations.",
+            "[[prepared]]7. Review all components of commercial mixtures.",
+            "[[prepared]]8. Do not treat Spinosad and Spinetoram as different groups.",
+            "[[prepared]]9. Do not treat Abamectin and Emamectin benzoate as different groups.",
+            "[[prepared]]10. Do not rotate among diamides as though they were separate groups.",
+            "[[prepared]]11. Investigate local declines in efficacy of Chlorfenapyr and Indoxacarb.",
+            "[[prepared]]12. Expand the recent Egyptian study to additional regions and planting seasons.",
+            "[[prepared]]13. Introduce molecular tests for known resistance mutations.",
+            "[[prepared]]14. Monitor P450, GST, and other metabolic enzymes.",
+            "[[prepared]]15. Strengthen biological control to reduce exposure frequency.",
+            "[[prepared]]16. Educate growers and pesticide distributors about modes of action.",
+            "[[prepared]]17. Issue regional warnings when resistance is confirmed.",
+            "[[prepared]]18. Do not reintroduce a suspended group before susceptibility recovery is tested."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance-Management Record Template"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Date",
+            "Sector",
+            "Active Ingredient",
+            "IRAC Group",
+            "Window Number",
+            "Target Generation",
+            "Previous Applications of the Group",
+            "Efficacy",
+            "Natural-Enemy Status",
+            "Decision for the Next Window"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Date",
+            "[[prepared]]Sector",
+            "[[prepared]]Active Ingredient",
+            "[[prepared]]IRAC Group",
+            "[[prepared]]Window Number",
+            "[[prepared]]Target Generation",
+            "[[prepared]]Previous Applications of the Group",
+            "[[prepared]]Efficacy",
+            "[[prepared]]Natural-Enemy Status",
+            "[[prepared]]Decision for the Next Window"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The record should also include:",
+          "prepared_text": "[[prepared]]The record should also include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nursery applications.",
+            "Active ingredients used against other pests.",
+            "Mixtures.",
+            "Failure cases.",
+            "Susceptibility-test results.",
+            "Transplant source.",
+            "Neighboring fields.",
+            "Harvest date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nursery applications.",
+            "[[prepared]]Active ingredients used against other pests.",
+            "[[prepared]]Mixtures.",
+            "[[prepared]]Failure cases.",
+            "[[prepared]]Susceptibility-test results.",
+            "[[prepared]]Transplant source.",
+            "[[prepared]]Neighboring fields.",
+            "[[prepared]]Harvest date."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Summary of Section Eleven"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance is a heritable population-level change resulting from repeated selection of less-susceptible individuals. It is not a physiological habituation that develops within an individual during its lifetime.",
+          "prepared_text": "[[prepared]]Resistance is a heritable population-level change resulting from repeated selection of less-susceptible individuals. It is not a physiological habituation that develops within an individual during its lifetime."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance risk in Tuta absoluta is high because of the short life cycle, multiple generations, high fecundity, frequent applications, and overlapping planting seasons.",
+          "prepared_text": "[[prepared]]Resistance risk in Tuta absoluta is high because of the short life cycle, multiple generations, high fecundity, frequent applications, and overlapping planting seasons."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The principal resistance mechanisms include:",
+          "prepared_text": "[[prepared]]The principal resistance mechanisms include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Target-site alteration.",
+            "Increased detoxification-enzyme activity.",
+            "Reduced penetration.",
+            "Behavioural change."
+          ],
+          "prepared_items": [
+            "[[prepared]]Target-site alteration.",
+            "[[prepared]]Increased detoxification-enzyme activity.",
+            "[[prepared]]Reduced penetration.",
+            "[[prepared]]Behavioural change."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Mutations associated with resistance to several groups have been confirmed in Tuta absoluta, including:",
+          "prepared_text": "[[prepared]]Mutations associated with resistance to several groups have been confirmed in Tuta absoluta, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "L1014F, M918T, and T929I for pyrethroids.",
+            "A201S for organophosphates.",
+            "G275E for spinosyns.",
+            "F1845Y and V1848I for Indoxacarb.",
+            "G4903E/V and I4746M/T for diamides."
+          ],
+          "prepared_items": [
+            "[[prepared]]L1014F, M918T, and T929I for pyrethroids.",
+            "[[prepared]]A201S for organophosphates.",
+            "[[prepared]]G275E for spinosyns.",
+            "[[prepared]]F1845Y and V1848I for Indoxacarb.",
+            "[[prepared]]G4903E/V and I4746M/T for diamides."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Metabolic resistance to diamides associated with overexpression of UGT34A23 has also been demonstrated, showing that absence of known ryanodine-receptor mutations does not rule out group-28 resistance.",
+          "prepared_text": "[[prepared]]Metabolic resistance to diamides associated with overexpression of UGT34A23 has also been demonstrated, showing that absence of known ryanodine-receptor mutations does not rule out group-28 resistance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Resistance is managed through:",
+          "prepared_text": "[[prepared]]Resistance is managed through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reducing the number of applications.",
+            "Targeting susceptible instars.",
+            "Applying the registered dose.",
+            "Improving coverage.",
+            "Rotating IRAC groups.",
+            "Avoiding exposure of successive generations to the same group.",
+            "Integrating non-chemical methods.",
+            "Monitoring susceptibility.",
+            "Scientifically investigating field failure.",
+            "Coordinating management across regions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reducing the number of applications.",
+            "[[prepared]]Targeting susceptible instars.",
+            "[[prepared]]Applying the registered dose.",
+            "[[prepared]]Improving coverage.",
+            "[[prepared]]Rotating IRAC groups.",
+            "[[prepared]]Avoiding exposure of successive generations to the same group.",
+            "[[prepared]]Integrating non-chemical methods.",
+            "[[prepared]]Monitoring susceptibility.",
+            "[[prepared]]Scientifically investigating field failure.",
+            "[[prepared]]Coordinating management across regions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Changing only the trade name or switching between active ingredients within the same group does not constitute rotation.",
+          "prepared_text": "[[prepared]]Changing only the trade name or switching between active ingredients within the same group does not constitute rotation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "IRAC Method No. 022 is used to measure susceptibility of Tuta absoluta larvae, together with biochemical and molecular tests.",
+          "prepared_text": "[[prepared]]IRAC Method No. 022 is used to measure susceptibility of Tuta absoluta larvae, together with biochemical and molecular tests."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An Egyptian study published in 2026 showed differences among Luxor, Assiut, and Giza populations, with relatively higher resistance in the Luxor population to some active ingredients and increased P450 and GST activity. This finding confirms the need for a continuous national program and does not represent a final judgment on all Tuta absoluta populations in Egypt.",
+          "prepared_text": "[[prepared]]An Egyptian study published in 2026 showed differences among Luxor, Assiut, and Giza populations, with relatively higher resistance in the Luxor population to some active ingredients and increased P450 and GST activity. This finding confirms the need for a continuous national program and does not represent a final judgment on all Tuta absoluta populations in Egypt."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-11-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Insecticide Resistance Action Committee. IRAC Mode of Action Classification Scheme.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "Insecticide Resistance Action Committee. Tuta absoluta: Recommendations for Sustainable and Effective Resistance Management.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Insecticide Resistance Action Committee. IRAC Susceptibility Test Method No. 022: Tuta absoluta Larvae.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Guedes, R. N. C., Roditakis, E., Campos, M. R., Haddi, K., Bielza, P., Siqueira, H. A. A., Tsagkarakou, A., Vontas, J., & Nauen, R. (2019). Insecticide resistance in the tomato pinworm Tuta absoluta: Patterns, spread, mechanisms, management and outlook. Journal of Pest Science, 92, 1329–1342.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "Roditakis, E., Vasakis, E., Grispou, M., Stavrakaki, M., Nauen, R., Gravouil, M., & Bassi, A. (2015). First report of Tuta absoluta resistance to diamide insecticides. Journal of Pest Science, 88, 9–16.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "Roditakis, E., Steinbach, D., Moritz, G., et al. (2017). Ryanodine receptor point mutations confer diamide insecticide resistance in tomato leafminer, Tuta absoluta. Insect Biochemistry and Molecular Biology, 80, 11–20.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Douris, V., Steinbach, D., Panteleri, R., et al. (2017). Investigation of the contribution of RyR target-site mutations in diamide resistance by CRISPR/Cas9 genome modification in Drosophila. Insect Biochemistry and Molecular Biology, 87, 127–135.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Grant, C., Jacobson, R., Ilias, A., et al. (2023). Overexpression of the UDP-glycosyltransferase UGT34A23 confers resistance to chlorantraniliprole in Tuta absoluta. Insect Biochemistry and Molecular Biology, 158, 103983.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Silva, W. M., Berger, M., Bass, C., et al. (2016). Mutation G275E of the nicotinic acetylcholine receptor α6 subunit is associated with high levels of resistance to spinosyns in Tuta absoluta. Pesticide Biochemistry and Physiology, 131, 1–8.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Campos, M. R., Rodrigues, A. R. S., Silva, W. M., et al. (2014). Spinosad and the tomato borer Tuta absoluta: A bioinsecticide, an invasive pest threat, and high insecticide resistance. PLoS ONE, 9, e103235.",
+              "url": ""
+            },
+            {
+              "number": 11,
+              "text": "Haddi, K., Berger, M., Bielza, P., et al. (2012). Identification of mutations associated with pyrethroid resistance in the voltage-gated sodium channel of Tuta absoluta. Insect Biochemistry and Molecular Biology, 42, 506–513.",
+              "url": ""
+            },
+            {
+              "number": 12,
+              "text": "Silva, W. M., Berger, M., Bass, C., et al. (2015). Status of pyrethroid resistance and mechanisms in Brazilian populations of Tuta absoluta. Pesticide Biochemistry and Physiology, 122, 8–14.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Haddi, K., Berger, M., Bielza, P., Rapisarda, C., Williamson, M. S., Moores, G., & Bass, C. (2017). Mutation in the ace-1 gene of Tuta absoluta associated with organophosphate resistance. Journal of Applied Entomology, 141, 612–619.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "Aboutalebian-Soureshjani, A., Rafiee-Dastjerdi, H., Naseri, B., Hassanpour, M., & Khajehali, J. (2023). Indoxacarb resistance in Iranian populations of Tuta absoluta: Cross-resistance, biochemical and molecular mechanisms. Pesticide Biochemistry and Physiology, 196, 105633.",
+              "url": ""
+            },
+            {
+              "number": 15,
+              "text": "Samantsidis, G. R., Panteleri, R., Denecke, S., et al. (2019). Functional validation of target-site resistance mutations against sodium channel blocker insecticides. Insect Biochemistry and Molecular Biology, 104, 73–81.",
+              "url": ""
+            },
+            {
+              "number": 16,
+              "text": "Stavrakaki, M., Ilias, A., Ioannidis, P., Vontas, J., & Roditakis, E. (2022). Investigating mechanisms associated with emamectin benzoate resistance in Tuta absoluta. Journal of Pest Science, 95, 1163–1177.",
+              "url": ""
+            },
+            {
+              "number": 17,
+              "text": "Silva, G. A., Picanço, M. C., Bacci, L., Crespo, A. L. B., Rosado, J. F., & Guedes, R. N. C. (2011). Control failure likelihood and spatial dependence of insecticide resistance in Tuta absoluta. Pest Management Science, 67, 913–920.",
+              "url": ""
+            },
+            {
+              "number": 18,
+              "text": "Roditakis, E., Vasakis, E., García-Vidal, L., et al. (2018). A four-year survey on insecticide resistance and likelihood of chemical control failure for Tuta absoluta in the European and Asian region. Journal of Pest Science, 91, 421–435.",
+              "url": ""
+            },
+            {
+              "number": 19,
+              "text": "Ahmed, A. M. M., Ramirez-Flores, L., Saad, M. A. A., et al. (2026). Susceptibility of different Egyptian populations of Tuta absoluta to selected insecticides and associated detoxification enzyme activities. Insects, 17, 493.",
+              "url": ""
+            },
+            {
+              "number": 20,
+              "text": "IRAC International. Insecticide Mixtures and Resistance Management: Updated Guidance.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 11,
+        "part_title": "Section Eleven: Insecticide Resistance Management",
+        "part_subtitle": "Insecticide Resistance Management — IRM"
+      }
+    }
+  ]
+}
