@@ -1,0 +1,3653 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 25,
+  "part_title": "Section Twenty-Five: Final Recommendations by Responsible Stakeholder",
+  "part_short_title": "Final Recommendations by Responsible Stakeholder",
+  "part_subtitle": "Stakeholder-Specific Recommendations for Sustainable Management of Tuta absoluta",
+  "content_path": "tuta/9/25.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta cannot be managed sustainably through a single decision made within a tomato field because the pest life cycle extends across a broad production system that includes:",
+          "prepared_text": "[[prepared]]Tuta absoluta cannot be managed sustainably through a single decision made within a tomato field because the pest life cycle extends across a broad production system that includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Seed companies.",
+            "Nurseries.",
+            "Growers.",
+            "Agricultural engineers.",
+            "Farm managers.",
+            "Pesticide suppliers.",
+            "Producers of natural enemies.",
+            "Tomato-processing factories.",
+            "Collection and grading stations.",
+            "Export companies.",
+            "Laboratories.",
+            "Researchers.",
+            "Agricultural extension services.",
+            "Regulatory authorities.",
+            "Contract-farming programmes."
+          ],
+          "prepared_items": [
+            "[[prepared]]Seed companies.",
+            "[[prepared]]Nurseries.",
+            "[[prepared]]Growers.",
+            "[[prepared]]Agricultural engineers.",
+            "[[prepared]]Farm managers.",
+            "[[prepared]]Pesticide suppliers.",
+            "[[prepared]]Producers of [[term:biological-control]]natural enemies[[/term]].",
+            "[[prepared]]Tomato-processing factories.",
+            "[[prepared]]Collection and grading stations.",
+            "[[prepared]]Export companies.",
+            "[[prepared]]Laboratories.",
+            "[[prepared]]Researchers.",
+            "[[prepared]]Agricultural extension services.",
+            "[[prepared]]Regulatory authorities.",
+            "[[prepared]]Contract-farming programmes."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One field may implement an advanced programme and still fail because of:",
+          "prepared_text": "[[prepared]]One field may implement an advanced programme and still fail because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infested transplants arriving from the nursery.",
+            "A neighbouring old field that was not terminated.",
+            "Use of an unsuitable pesticide in a nearby field.",
+            "Movement of infested fruits and residues.",
+            "Poor quality of a commercial natural enemy.",
+            "Absence of a unified warning system.",
+            "Failure to share resistance cases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infested transplants arriving from the nursery.",
+            "[[prepared]]A neighbouring old field that was not terminated.",
+            "[[prepared]]Use of an unsuitable pesticide in a nearby field.",
+            "[[prepared]]Movement of infested fruits and residues.",
+            "[[prepared]]Poor quality of a commercial natural enemy.",
+            "[[prepared]]Absence of a unified warning system.",
+            "[[prepared]]Failure to share resistance cases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sustainable management therefore depends on:",
+          "prepared_text": "[[prepared]]Sustainable management therefore depends on:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Distribution of responsibilities, data sharing, and holding each stakeholder accountable for the part of the pest cycle under its control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Principles for Allocating Responsibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The system should be based on the following principles:",
+          "prepared_text": "[[prepared]]The system should be based on the following principles:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Every stakeholder is responsible for preventing the production or movement of a new pest source.",
+            "2. Responsibility for failure should not be placed entirely on the grower or the insecticide.",
+            "3. Movement of transplants, pesticides, produce, and residues should be documented.",
+            "4. Warnings should be shared among neighbouring fields.",
+            "5. Commercial interests should be separated from scientific product evaluation.",
+            "6. No biological or chemical product should be adopted without quality control.",
+            "7. The factory should be linked to the field programme before harvest, not only after rejecting the consignment.",
+            "8. Research organisations should provide solutions that are applicable and economically measurable.",
+            "9. Regulatory authorities should support area-wide management, not merely paper registration.",
+            "10. Every stakeholder is responsible for protecting the future efficacy of insecticides and natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Every stakeholder is responsible for preventing the production or movement of a new pest source.",
+            "[[prepared]]2. Responsibility for failure should not be placed entirely on the grower or the insecticide.",
+            "[[prepared]]3. Movement of transplants, pesticides, produce, and residues should be documented.",
+            "[[prepared]]4. Warnings should be shared among neighbouring fields.",
+            "[[prepared]]5. Commercial interests should be separated from scientific product evaluation.",
+            "[[prepared]]6. No biological or chemical product should be adopted without quality control.",
+            "[[prepared]]7. The factory should be linked to the field programme before harvest, not only after rejecting the consignment.",
+            "[[prepared]]8. Research organisations should provide solutions that are applicable and economically measurable.",
+            "[[prepared]]9. Regulatory authorities should support area-wide management, not merely paper registration.",
+            "[[prepared]]10. Every stakeholder is responsible for protecting the future efficacy of insecticides and natural enemies."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "First"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for the Field Agricultural Engineer"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Core Role of the Engineer"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The agricultural engineer is the centre for integrating information, not merely the executor of a spray programme.",
+          "prepared_text": "[[prepared]]The agricultural engineer is the centre for integrating information, not merely the executor of a spray programme."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Responsibilities include:",
+          "prepared_text": "[[prepared]]Responsibilities include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Diagnosis.",
+            "Monitoring.",
+            "Data interpretation.",
+            "Selection of the decision level.",
+            "Compatibility review.",
+            "Resistance management.",
+            "Implementation follow-up.",
+            "Outcome evaluation.",
+            "Decision documentation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Diagnosis.",
+            "[[prepared]]Monitoring.",
+            "[[prepared]]Data interpretation.",
+            "[[prepared]]Selection of the decision level.",
+            "[[prepared]]Compatibility review.",
+            "[[prepared]]Resistance management.",
+            "[[prepared]]Implementation follow-up.",
+            "[[prepared]]Outcome evaluation.",
+            "[[prepared]]Decision documentation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Engineer performance should not be measured by the number of treatment orders issued, but by the ability to protect the crop with the least possible disruption to the production system.",
+          "prepared_text": "[[prepared]]Engineer performance should not be measured by the number of treatment orders issued, but by the ability to protect the crop with the least possible disruption to the production system."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Monitoring and Diagnostic Recommendations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The engineer should:",
+          "prepared_text": "[[prepared]]The engineer should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Ensure that traps are installed before or at the beginning of transplanting.",
+            "2. Separate edge traps from interior traps.",
+            "3. Review lure and trap validity.",
+            "4. Inspect eggs, mines, larvae, and fruits.",
+            "5. Distinguish active mines from old mines.",
+            "6. Identify larval instars.",
+            "7. Record natural enemies.",
+            "8. Link data to temperature.",
+            "9. Review neighbouring fields.",
+            "10. Avoid making a decision from a single trap reading."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Ensure that traps are installed before or at the beginning of transplanting.",
+            "[[prepared]]2. Separate edge traps from interior traps.",
+            "[[prepared]]3. Review lure and trap validity.",
+            "[[prepared]]4. Inspect eggs, [[term:mines]]mines[[/term]], larvae, and fruits.",
+            "[[prepared]]5. Distinguish active mines from old mines.",
+            "[[prepared]]6. Identify [[term:larval-instar]]larval instars[[/term]].",
+            "[[prepared]]7. Record natural enemies.",
+            "[[prepared]]8. Link data to temperature.",
+            "[[prepared]]9. Review neighbouring fields.",
+            "[[prepared]]10. Avoid making a decision from a single trap reading."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Decision-Making Recommendations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Each decision should specify:",
+          "prepared_text": "[[prepared]]Each decision should specify:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Evidence that intervention is required.",
+            "Infestation location.",
+            "Target stage.",
+            "Crop stage.",
+            "Fruit status.",
+            "Selected method.",
+            "Reason alternatives were rejected.",
+            "Reassessment date.",
+            "Success indicator."
+          ],
+          "prepared_items": [
+            "[[prepared]]Evidence that intervention is required.",
+            "[[prepared]]Infestation location.",
+            "[[prepared]]Target stage.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Fruit status.",
+            "[[prepared]]Selected method.",
+            "[[prepared]]Reason alternatives were rejected.",
+            "[[prepared]]Reassessment date.",
+            "[[prepared]]Success indicator."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A general instruction such as:",
+          "prepared_text": "[[prepared]]A general instruction such as:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "“Spray for Tuta”",
+          "prepared_text": "[[prepared]]“Spray for Tuta”"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Should not be issued without identifying the stage, sector, and objective.",
+          "prepared_text": "[[prepared]]Should not be issued without identifying the stage, sector, and objective."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Resistance-Management Recommendations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The engineer should:",
+          "prepared_text": "[[prepared]]The engineer should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Record the active ingredient.",
+            "Record the IRAC group.",
+            "Include nursery treatments.",
+            "Include applications against other pests.",
+            "Avoid repeating a group under a different trade name.",
+            "Investigate declining efficacy.",
+            "Prevent rate increases.",
+            "Collect samples when resistance is suspected.",
+            "Introduce periods relying on non-chemical measures."
+          ],
+          "prepared_items": [
+            "[[prepared]]Record the [[term:active-ingredient]]active ingredient[[/term]].",
+            "[[prepared]]Record the [[term:irac]]IRAC group[[/term]].",
+            "[[prepared]]Include nursery treatments.",
+            "[[prepared]]Include applications against other pests.",
+            "[[prepared]]Avoid repeating a group under a different trade name.",
+            "[[prepared]]Investigate declining efficacy.",
+            "[[prepared]]Prevent rate increases.",
+            "[[prepared]]Collect samples when resistance is suspected.",
+            "[[prepared]]Introduce periods relying on non-chemical measures."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Protecting Natural Enemies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The engineer should:",
+          "prepared_text": "[[prepared]]The engineer should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Record predator and parasitoid species.",
+            "Review the effect of every pesticide on them.",
+            "Avoid broad-spectrum pesticides unless necessary.",
+            "Protect the biological belt.",
+            "Assess release quality.",
+            "Select timings that reduce exposure of beneficial organisms.",
+            "Monitor recovery of natural enemies after intervention."
+          ],
+          "prepared_items": [
+            "[[prepared]]Record predator and parasitoid species.",
+            "[[prepared]]Review the effect of every pesticide on them.",
+            "[[prepared]]Avoid broad-spectrum pesticides unless necessary.",
+            "[[prepared]]Protect the biological belt.",
+            "[[prepared]]Assess release quality.",
+            "[[prepared]]Select timings that reduce exposure of beneficial organisms.",
+            "[[prepared]]Monitor recovery of natural enemies after intervention."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Beneficial organisms should not be treated as a marginal note in the report.",
+          "prepared_text": "[[prepared]]Beneficial organisms should not be treated as a marginal note in the report."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Engineer Recommendations Close to Harvest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The engineer should review:",
+          "prepared_text": "[[prepared]]The engineer should review:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Preharvest interval.",
+            "Factory or market list.",
+            "Ripeness percentage.",
+            "Fruit infestation.",
+            "Protectable yield.",
+            "Treatment feasibility.",
+            "Harvest timing.",
+            "Residue analyses."
+          ],
+          "prepared_items": [
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Factory or market list.",
+            "[[prepared]]Ripeness percentage.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Protectable yield.",
+            "[[prepared]]Treatment feasibility.",
+            "[[prepared]]Harvest timing.",
+            "[[prepared]]Residue analyses."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The engineer should refuse to issue a treatment order when there is no:",
+          "prepared_text": "[[prepared]]The engineer should refuse to issue a treatment order when there is no:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Biological justification.",
+            "Sufficient time for the method to act.",
+            "Compatibility with harvest."
+          ],
+          "prepared_items": [
+            "[[prepared]]Biological justification.",
+            "[[prepared]]Sufficient time for the method to act.",
+            "[[prepared]]Compatibility with harvest."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Engineer Performance Indicators"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The engineer may be evaluated according to:",
+          "prepared_text": "[[prepared]]The engineer may be evaluated according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Detection of infestation before it reaches fruits.",
+            "Percentage of completed inspection rounds.",
+            "Response speed.",
+            "Accuracy of larval-instar identification.",
+            "Compliance with IRAC windows.",
+            "Reduction of unjustified treatments.",
+            "Persistence of natural enemies.",
+            "Accepted yield.",
+            "Completeness of records.",
+            "Speed of terminating completed fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Detection of infestation before it reaches fruits.",
+            "[[prepared]]Percentage of completed inspection rounds.",
+            "[[prepared]]Response speed.",
+            "[[prepared]]Accuracy of larval-instar identification.",
+            "[[prepared]]Compliance with IRAC windows.",
+            "[[prepared]]Reduction of unjustified treatments.",
+            "[[prepared]]Persistence of natural enemies.",
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Completeness of records.",
+            "[[prepared]]Speed of terminating completed fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Second"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for the Grower"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Grower Responsibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The grower is a partner in decision-making, not a passive recipient of recommendations.",
+          "prepared_text": "[[prepared]]The grower is a partner in decision-making, not a passive recipient of recommendations."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Responsibilities include:",
+          "prepared_text": "[[prepared]]Responsibilities include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Purchasing healthy transplants.",
+            "Allowing regular monitoring.",
+            "Avoiding treatments outside the programme.",
+            "Complying with the rate and preharvest interval.",
+            "Managing residues.",
+            "Informing neighbours when severe infestation occurs.",
+            "Terminating the field when it is no longer economically viable."
+          ],
+          "prepared_items": [
+            "[[prepared]]Purchasing healthy transplants.",
+            "[[prepared]]Allowing regular monitoring.",
+            "[[prepared]]Avoiding treatments outside the programme.",
+            "[[prepared]]Complying with the rate and preharvest interval.",
+            "[[prepared]]Managing residues.",
+            "[[prepared]]Informing neighbours when severe infestation occurs.",
+            "[[prepared]]Terminating the field when it is no longer economically viable."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Purchasing Transplants"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The grower should:",
+          "prepared_text": "[[prepared]]The grower should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Deal with a reliable nursery.",
+            "Request a treatment record for the batch.",
+            "Inspect transplants on receipt.",
+            "Reject trays carrying mines or widespread infestation.",
+            "Avoid mixing transplant sources without documentation.",
+            "Retain the nursery name and batch number."
+          ],
+          "prepared_items": [
+            "[[prepared]]Deal with a reliable nursery.",
+            "[[prepared]]Request a treatment record for the batch.",
+            "[[prepared]]Inspect transplants on receipt.",
+            "[[prepared]]Reject trays carrying mines or widespread infestation.",
+            "[[prepared]]Avoid mixing transplant sources without documentation.",
+            "[[prepared]]Retain the nursery name and batch number."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infested transplants should not be accepted merely because they are cheaper.",
+          "prepared_text": "[[prepared]]Infested transplants should not be accepted merely because they are cheaper."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compliance with Monitoring Decisions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The grower should not demand spraying merely because of:",
+          "prepared_text": "[[prepared]]The grower should not demand spraying merely because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Seeing one moth.",
+            "A high reading in one trap.",
+            "Persistence of old mines.",
+            "Observing a neighbouring field being sprayed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Seeing one moth.",
+            "[[prepared]]A high reading in one trap.",
+            "[[prepared]]Persistence of old mines.",
+            "[[prepared]]Observing a neighbouring field being sprayed."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Likewise, necessary intervention should not be delayed when there is confirmed:",
+          "prepared_text": "[[prepared]]Likewise, necessary intervention should not be delayed when there is confirmed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High egg density.",
+            "A hatching wave.",
+            "Cluster or fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]High egg density.",
+            "[[prepared]]A hatching wave.",
+            "[[prepared]]Cluster or fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preventing Random Pesticide Use"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The grower should:",
+          "prepared_text": "[[prepared]]The grower should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoid purchasing an insecticide by trade name alone.",
+            "Avoid increasing the rate.",
+            "Avoid mixing several products without review.",
+            "Avoid repeating a material that has shown reduced efficacy.",
+            "Avoid unknown or unregistered materials.",
+            "Avoid spraying the biological belt without reason."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoid purchasing an insecticide by trade name alone.",
+            "[[prepared]]Avoid increasing the rate.",
+            "[[prepared]]Avoid mixing several products without review.",
+            "[[prepared]]Avoid repeating a material that has shown reduced efficacy.",
+            "[[prepared]]Avoid unknown or unregistered materials.",
+            "[[prepared]]Avoid spraying the biological belt without reason."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Managing Fruits and Residues"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The grower should:",
+          "prepared_text": "[[prepared]]The grower should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collect infested fruits.",
+            "Avoid throwing them between rows.",
+            "Avoid moving them into another field.",
+            "Clean containers.",
+            "Remove the crop when economic viability ends.",
+            "Prevent volunteer tomato growth."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collect infested fruits.",
+            "[[prepared]]Avoid throwing them between rows.",
+            "[[prepared]]Avoid moving them into another field.",
+            "[[prepared]]Clean containers.",
+            "[[prepared]]Remove the crop when economic viability ends.",
+            "[[prepared]]Prevent volunteer tomato growth."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cooperation with Neighbours"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The grower should notify neighbouring fields when:",
+          "prepared_text": "[[prepared]]The grower should notify neighbouring fields when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Removal of a heavily infested field begins.",
+            "A major outbreak occurs.",
+            "Resistance is suspected.",
+            "Infested transplants from a shared source are discovered."
+          ],
+          "prepared_items": [
+            "[[prepared]]Removal of a heavily infested field begins.",
+            "[[prepared]]A major outbreak occurs.",
+            "[[prepared]]Resistance is suspected.",
+            "[[prepared]]Infested transplants from a shared source are discovered."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Concealing infestation may increase pressure across the entire area.",
+          "prepared_text": "[[prepared]]Concealing infestation may increase pressure across the entire area."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Third"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for the Farm or Project Manager"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Administrative Role"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The farm manager converts the technical programme into an implementable system through:",
+          "prepared_text": "[[prepared]]The farm manager converts the technical programme into an implementable system through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Resource allocation.",
+            "Definition of responsibilities.",
+            "Approval of records.",
+            "Quality monitoring.",
+            "Prevention of conflicting decisions.",
+            "Coordination among fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Resource allocation.",
+            "[[prepared]]Definition of responsibilities.",
+            "[[prepared]]Approval of records.",
+            "[[prepared]]Quality monitoring.",
+            "[[prepared]]Prevention of conflicting decisions.",
+            "[[prepared]]Coordination among fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Organisation of the IPM Team"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The manager should identify:",
+          "prepared_text": "[[prepared]]The manager should identify:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trap officer.",
+            "Inspection officer.",
+            "Biological-control officer.",
+            "Spray officer.",
+            "Residue officer.",
+            "Harvest officer.",
+            "Final decision-maker."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trap officer.",
+            "[[prepared]]Inspection officer.",
+            "[[prepared]]Biological-control officer.",
+            "[[prepared]]Spray officer.",
+            "[[prepared]]Residue officer.",
+            "[[prepared]]Harvest officer.",
+            "[[prepared]]Final decision-maker."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A substitute should be available for each role in case of absence.",
+          "prepared_text": "[[prepared]]A substitute should be available for each role in case of absence."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Allocating a Monitoring Budget"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A serious management error is to reduce inspection costs and then spend several times more on corrective treatments.",
+          "prepared_text": "[[prepared]]A serious management error is to reduce inspection costs and then spend several times more on corrective treatments."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A budget should be allocated for:",
+          "prepared_text": "[[prepared]]A budget should be allocated for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Traps and lures.",
+            "Technical labour.",
+            "Magnifying lenses and tools.",
+            "Weather stations.",
+            "Digital maps.",
+            "Resistance samples.",
+            "Residue analyses."
+          ],
+          "prepared_items": [
+            "[[prepared]]Traps and lures.",
+            "[[prepared]]Technical labour.",
+            "[[prepared]]Magnifying lenses and tools.",
+            "[[prepared]]Weather stations.",
+            "[[prepared]]Digital maps.",
+            "[[prepared]]Resistance samples.",
+            "[[prepared]]Residue analyses."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preventing Conflicting Instructions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The spray officer should not receive different instructions from:",
+          "prepared_text": "[[prepared]]The spray officer should not receive different instructions from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The crop-protection engineer.",
+            "Production manager.",
+            "Pesticide supplier.",
+            "Grower.",
+            "Factory."
+          ],
+          "prepared_items": [
+            "[[prepared]]The crop-protection engineer.",
+            "[[prepared]]Production manager.",
+            "[[prepared]]Pesticide supplier.",
+            "[[prepared]]Grower.",
+            "[[prepared]]Factory."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The treatment order should come from one authorised source after data review.",
+          "prepared_text": "[[prepared]]The treatment order should come from one authorised source after data review."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Large Areas"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In large projects:",
+          "prepared_text": "[[prepared]]In large projects:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Divide the area into sectors.",
+            "Issue an independent decision for each sector.",
+            "Use hotspot maps.",
+            "Avoid spraying the entire project because of localised infestation.",
+            "Compare cultivar and transplanting-date performance.",
+            "Manage equipment movement."
+          ],
+          "prepared_items": [
+            "[[prepared]]Divide the area into sectors.",
+            "[[prepared]]Issue an independent decision for each sector.",
+            "[[prepared]]Use hotspot maps.",
+            "[[prepared]]Avoid spraying the entire project because of localised infestation.",
+            "[[prepared]]Compare cultivar and transplanting-date performance.",
+            "[[prepared]]Manage equipment movement."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Performance Review"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The manager should hold periodic meetings reviewing:",
+          "prepared_text": "[[prepared]]The manager should hold periodic meetings reviewing:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Data.",
+            "Treatments.",
+            "IRAC groups.",
+            "Emergencies.",
+            "Source fields.",
+            "Fruit infestation.",
+            "Harvest.",
+            "Costs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Data.",
+            "[[prepared]]Treatments.",
+            "[[prepared]]IRAC groups.",
+            "[[prepared]]Emergencies.",
+            "[[prepared]]Source fields.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Harvest.",
+            "[[prepared]]Costs."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The review should produce defined decisions, each with a responsible person and implementation date.",
+          "prepared_text": "[[prepared]]The review should produce defined decisions, each with a responsible person and implementation date."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fourth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Nurseries"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Treating the Nursery as the First Line of Defence"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A nursery distributing infested transplants does not merely transfer a few larvae; it may establish tens or hundreds of hotspots across multiple fields.",
+          "prepared_text": "[[prepared]]A nursery distributing infested transplants does not merely transfer a few larvae; it may establish tens or hundreds of hotspots across multiple fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Freedom of transplants from the pest should therefore be considered a basic quality criterion.",
+          "prepared_text": "[[prepared]]Freedom of transplants from the pest should therefore be considered a basic quality criterion."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Structural and Management Requirements"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The nursery should:",
+          "prepared_text": "[[prepared]]The nursery should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Maintain screens and doors.",
+            "Install pheromone traps.",
+            "Remove weeds and host plants.",
+            "Separate batches.",
+            "Clean trays.",
+            "Manage rejected plants.",
+            "Prevent entry of infested tomato fruits or plants.",
+            "Train workers."
+          ],
+          "prepared_items": [
+            "[[prepared]]Maintain screens and doors.",
+            "[[prepared]]Install [[term:pheromone-trap]]pheromone traps[[/term]].",
+            "[[prepared]]Remove weeds and host plants.",
+            "[[prepared]]Separate batches.",
+            "[[prepared]]Clean trays.",
+            "[[prepared]]Manage rejected plants.",
+            "[[prepared]]Prevent entry of infested tomato fruits or plants.",
+            "[[prepared]]Train workers."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Inspection Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inspect:",
+          "prepared_text": "[[prepared]]Inspect:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Trays near doors.",
+            "Edges.",
+            "Young leaves.",
+            "Lower leaf surfaces.",
+            "Small mines.",
+            "Weak plants.",
+            "Traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Trays near doors.",
+            "[[prepared]]Edges.",
+            "[[prepared]]Young leaves.",
+            "[[prepared]]Lower leaf surfaces.",
+            "[[prepared]]Small mines.",
+            "[[prepared]]Weak plants.",
+            "[[prepared]]Traps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inspection frequency should increase when regional activity rises.",
+          "prepared_text": "[[prepared]]Inspection frequency should increase when regional activity rises."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Batch-Traceability System"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every batch should carry:",
+          "prepared_text": "[[prepared]]Every batch should carry:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A code.",
+            "Cultivar.",
+            "Sowing date.",
+            "Seed source.",
+            "Inspection date.",
+            "Insecticide record.",
+            "Delivery date.",
+            "Names of receiving fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]A code.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Sowing date.",
+            "[[prepared]]Seed source.",
+            "[[prepared]]Inspection date.",
+            "[[prepared]]Insecticide record.",
+            "[[prepared]]Delivery date.",
+            "[[prepared]]Names of receiving fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This enables notification of all clients when infestation linked to the batch is detected.",
+          "prepared_text": "[[prepared]]This enables notification of all clients when infestation linked to the batch is detected."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Infestation Policy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When infestation is detected:",
+          "prepared_text": "[[prepared]]When infestation is detected:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Stop distribution.",
+            "2. Isolate the batch.",
+            "3. Determine the extent of spread.",
+            "4. Remove infested plants.",
+            "5. Inspect adjacent batches.",
+            "6. Implement a documented intervention where necessary.",
+            "7. Reinspect.",
+            "8. Inform customers who received transplants from the same batch."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Stop distribution.",
+            "[[prepared]]2. Isolate the batch.",
+            "[[prepared]]3. Determine the extent of spread.",
+            "[[prepared]]4. Remove infested plants.",
+            "[[prepared]]5. Inspect adjacent batches.",
+            "[[prepared]]6. Implement a documented intervention where necessary.",
+            "[[prepared]]7. Reinspect.",
+            "[[prepared]]8. Inform customers who received transplants from the same batch."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The case should not be concealed to protect commercial reputation.",
+          "prepared_text": "[[prepared]]The case should not be concealed to protect commercial reputation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Transplant-Health Certificate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The certificate should preferably include:",
+          "prepared_text": "[[prepared]]The certificate should preferably include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Batch number.",
+            "Date of the most recent inspection.",
+            "Trap status.",
+            "Active ingredients used.",
+            "IRAC groups.",
+            "Date of the most recent treatment.",
+            "Result of pre-shipment inspection."
+          ],
+          "prepared_items": [
+            "[[prepared]]Batch number.",
+            "[[prepared]]Date of the most recent inspection.",
+            "[[prepared]]Trap status.",
+            "[[prepared]]Active ingredients used.",
+            "[[prepared]]IRAC groups.",
+            "[[prepared]]Date of the most recent treatment.",
+            "[[prepared]]Result of pre-shipment inspection."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The certificate is not an absolute guarantee, but it improves traceability and accountability.",
+          "prepared_text": "[[prepared]]The certificate is not an absolute guarantee, but it improves traceability and accountability."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fifth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Companies and Producers of Natural Enemies"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Product Quality Assurance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The company should provide data on:",
+          "prepared_text": "[[prepared]]The company should provide data on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Correct species.",
+            "Strain or origin.",
+            "Number of individuals.",
+            "Emergence percentage.",
+            "Female proportion where relevant.",
+            "Production date.",
+            "Storage conditions.",
+            "Shelf life.",
+            "Transport method.",
+            "Proposed release rate."
+          ],
+          "prepared_items": [
+            "[[prepared]]Correct species.",
+            "[[prepared]]Strain or origin.",
+            "[[prepared]]Number of individuals.",
+            "[[prepared]]Emergence percentage.",
+            "[[prepared]]Female proportion where relevant.",
+            "[[prepared]]Production date.",
+            "[[prepared]]Storage conditions.",
+            "[[prepared]]Shelf life.",
+            "[[prepared]]Transport method.",
+            "[[prepared]]Proposed release rate."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Avoiding Generalised Release Rates"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One rate should not be marketed as suitable for all:",
+          "prepared_text": "[[prepared]]One rate should not be marketed as suitable for all:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Greenhouses and open fields.",
+            "Cool and hot production cycles.",
+            "Egg densities.",
+            "Field sizes.",
+            "Immigration levels."
+          ],
+          "prepared_items": [
+            "[[prepared]]Greenhouses and open fields.",
+            "[[prepared]]Cool and hot production cycles.",
+            "[[prepared]]Egg densities.",
+            "[[prepared]]Field sizes.",
+            "[[prepared]]Immigration levels."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rates should be presented as:",
+          "prepared_text": "[[prepared]]Rates should be presented as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A starting point.",
+            "Linked to pest stage and density.",
+            "Adjustable according to monitoring."
+          ],
+          "prepared_items": [
+            "[[prepared]]A starting point.",
+            "[[prepared]]Linked to pest stage and density.",
+            "[[prepared]]Adjustable according to monitoring."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Transport and Delivery"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The company is responsible for:",
+          "prepared_text": "[[prepared]]The company is responsible for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Maintaining an appropriate temperature.",
+            "Minimising transport time.",
+            "Preventing exposure to sunlight.",
+            "Documenting warehouse-dispatch time.",
+            "Inspecting packages at delivery.",
+            "Explaining how delays should be managed."
+          ],
+          "prepared_items": [
+            "[[prepared]]Maintaining an appropriate temperature.",
+            "[[prepared]]Minimising transport time.",
+            "[[prepared]]Preventing exposure to sunlight.",
+            "[[prepared]]Documenting warehouse-dispatch time.",
+            "[[prepared]]Inspecting packages at delivery.",
+            "[[prepared]]Explaining how delays should be managed."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Technical Support"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The company's role should not end with selling the organism. It should include:",
+          "prepared_text": "[[prepared]]The company's role should not end with selling the organism. It should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Worker training.",
+            "Review of pesticide residues.",
+            "Evaluation of release points.",
+            "Monitoring emergence.",
+            "Monitoring parasitism or establishment.",
+            "Investigating weak performance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Worker training.",
+            "[[prepared]]Review of pesticide residues.",
+            "[[prepared]]Evaluation of release points.",
+            "[[prepared]]Monitoring emergence.",
+            "[[prepared]]Monitoring parasitism or establishment.",
+            "[[prepared]]Investigating weak performance."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Transparency in Presenting Results"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The company should explain:",
+          "prepared_text": "[[prepared]]The company should explain:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Natural enemies are not knockdown insecticides.",
+            "Their efficacy is affected by pesticides, weather, and immigration.",
+            "They require an early start.",
+            "Release alone does not guarantee fruit protection during an advanced outbreak."
+          ],
+          "prepared_items": [
+            "[[prepared]]Natural enemies are not knockdown insecticides.",
+            "[[prepared]]Their efficacy is affected by pesticides, weather, and immigration.",
+            "[[prepared]]They require an early start.",
+            "[[prepared]]Release alone does not guarantee fruit protection during an advanced outbreak."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Greenhouse efficacy percentages should not be used to market the product for open fields without explaining the difference.",
+          "prepared_text": "[[prepared]]Greenhouse efficacy percentages should not be used to market the product for open fields without explaining the difference."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Local Production"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Local production programmes should preferably comply with:",
+          "prepared_text": "[[prepared]]Local production programmes should preferably comply with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Taxonomic identification.",
+            "Contamination prevention.",
+            "Quality testing.",
+            "Strain preservation.",
+            "Standardisation of packaging units.",
+            "Batch records.",
+            "Field-efficacy testing."
+          ],
+          "prepared_items": [
+            "[[prepared]]Taxonomic identification.",
+            "[[prepared]]Contamination prevention.",
+            "[[prepared]]Quality testing.",
+            "[[prepared]]Strain preservation.",
+            "[[prepared]]Standardisation of packaging units.",
+            "[[prepared]]Batch records.",
+            "[[prepared]]Field-efficacy testing."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sixth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Pesticide Companies and Distributors"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Company Responsibility"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The company's responsibility is not limited to demonstrating toxicity; it also includes protecting product efficacy and reducing misuse.",
+          "prepared_text": "[[prepared]]The company's responsibility is not limited to demonstrating toxicity; it also includes protecting product efficacy and reducing misuse."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Information That Should Be Provided"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The company should clearly state:",
+          "prepared_text": "[[prepared]]The company should clearly state:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active ingredient.",
+            "IRAC group.",
+            "Target stage.",
+            "Maximum number of applications.",
+            "Preharvest interval.",
+            "Effect on natural enemies.",
+            "Water-quality requirements.",
+            "Coverage requirements.",
+            "Resistance risks.",
+            "Incompatible mixtures."
+          ],
+          "prepared_items": [
+            "[[prepared]]Active ingredient.",
+            "[[prepared]]IRAC group.",
+            "[[prepared]]Target stage.",
+            "[[prepared]]Maximum number of applications.",
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Effect on natural enemies.",
+            "[[prepared]]Water-quality requirements.",
+            "[[prepared]]Coverage requirements.",
+            "[[prepared]]Resistance risks.",
+            "[[prepared]]Incompatible mixtures."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preventing Misleading Marketing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Statements such as the following should be prohibited or avoided:",
+          "prepared_text": "[[prepared]]Statements such as the following should be prohibited or avoided:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Completely eliminates Tuta.",
+            "Resistance does not occur.",
+            "Can be used against all instars.",
+            "Suitable for weekly spraying.",
+            "Completely safe for all beneficial organisms.",
+            "Requires no preharvest interval."
+          ],
+          "prepared_items": [
+            "[[prepared]]Completely eliminates Tuta.",
+            "[[prepared]]Resistance does not occur.",
+            "[[prepared]]Can be used against all instars.",
+            "[[prepared]]Suitable for weekly spraying.",
+            "[[prepared]]Completely safe for all beneficial organisms.",
+            "[[prepared]]Requires no preharvest interval."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should be replaced with specific claims supported by registration and studies.",
+          "prepared_text": "[[prepared]]They should be replaced with specific claims supported by registration and studies."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Training Distributors"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The distributor should be trained to:",
+          "prepared_text": "[[prepared]]The distributor should be trained to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Read the active ingredient.",
+            "Identify the IRAC group.",
+            "Avoid selling two materials from the same group as rotation.",
+            "Reject suggestions to increase the rate.",
+            "Warn growers against random mixtures.",
+            "Refer failure cases for technical investigation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Read the active ingredient.",
+            "[[prepared]]Identify the IRAC group.",
+            "[[prepared]]Avoid selling two materials from the same group as rotation.",
+            "[[prepared]]Reject suggestions to increase the rate.",
+            "[[prepared]]Warn growers against random mixtures.",
+            "[[prepared]]Refer failure cases for technical investigation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Tracking Cases of Reduced Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The company should:",
+          "prepared_text": "[[prepared]]The company should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Receive reports.",
+            "Record the batch number.",
+            "Visit the field.",
+            "Review application.",
+            "Collect samples where necessary.",
+            "Support susceptibility testing.",
+            "Share scientific results."
+          ],
+          "prepared_items": [
+            "[[prepared]]Receive reports.",
+            "[[prepared]]Record the batch number.",
+            "[[prepared]]Visit the field.",
+            "[[prepared]]Review application.",
+            "[[prepared]]Collect samples where necessary.",
+            "[[prepared]]Support susceptibility testing.",
+            "[[prepared]]Share scientific results."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reports should not be rejected automatically as misuse, nor accepted automatically as resistance.",
+          "prepared_text": "[[prepared]]Reports should not be rejected automatically as misuse, nor accepted automatically as resistance."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Product Quality"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Quality requires:",
+          "prepared_text": "[[prepared]]Quality requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Appropriate storage.",
+            "Protection from heat.",
+            "Control of counterfeit products.",
+            "Batch traceability.",
+            "Testing concentration and quality.",
+            "A system for recalling defective batches."
+          ],
+          "prepared_items": [
+            "[[prepared]]Appropriate storage.",
+            "[[prepared]]Protection from heat.",
+            "[[prepared]]Control of counterfeit products.",
+            "[[prepared]]Batch traceability.",
+            "[[prepared]]Testing concentration and quality.",
+            "[[prepared]]A system for recalling defective batches."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Seventh"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Tomato-Processing Factories and Processing Companies"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "The Factory as a Partner in Field Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The factory's role should not be limited to accepting or rejecting produce at the delivery gate.",
+          "prepared_text": "[[prepared]]The factory's role should not be limited to accepting or rejecting produce at the delivery gate."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The factory can influence:",
+          "prepared_text": "[[prepared]]The factory can influence:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Supplier selection.",
+            "Pesticide lists.",
+            "Monitoring programmes.",
+            "Harvest timing.",
+            "Residue management.",
+            "Old fields.",
+            "Warning exchange."
+          ],
+          "prepared_items": [
+            "[[prepared]]Supplier selection.",
+            "[[prepared]]Pesticide lists.",
+            "[[prepared]]Monitoring programmes.",
+            "[[prepared]]Harvest timing.",
+            "[[prepared]]Residue management.",
+            "[[prepared]]Old fields.",
+            "[[prepared]]Warning exchange."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Contract Requirements"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The contract should include:",
+          "prepared_text": "[[prepared]]The contract should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A mandatory treatment record.",
+            "A list of accepted materials.",
+            "Preharvest intervals.",
+            "The right to conduct technical visits.",
+            "Procedures for high infestation.",
+            "A mechanism for field removal after delivery.",
+            "Management of rejected fruits.",
+            "Traceability by field code."
+          ],
+          "prepared_items": [
+            "[[prepared]]A mandatory treatment record.",
+            "[[prepared]]A list of accepted materials.",
+            "[[prepared]]Preharvest intervals.",
+            "[[prepared]]The right to conduct technical visits.",
+            "[[prepared]]Procedures for high infestation.",
+            "[[prepared]]A mechanism for field removal after delivery.",
+            "[[prepared]]Management of rejected fruits.",
+            "[[prepared]]Traceability by field code."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Technical Support for Growers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The factory may provide:",
+          "prepared_text": "[[prepared]]The factory may provide:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Traps and monitoring materials.",
+            "Inspection training.",
+            "Warning bulletins.",
+            "IRAC lists.",
+            "Support for natural enemies.",
+            "Residue analyses.",
+            "Residue-shredding equipment.",
+            "Coordination of harvest dates."
+          ],
+          "prepared_items": [
+            "[[prepared]]Traps and monitoring materials.",
+            "[[prepared]]Inspection training.",
+            "[[prepared]]Warning bulletins.",
+            "[[prepared]]IRAC lists.",
+            "[[prepared]]Support for natural enemies.",
+            "[[prepared]]Residue analyses.",
+            "[[prepared]]Residue-shredding equipment.",
+            "[[prepared]]Coordination of harvest dates."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Evaluation of Raw-Material Quality"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Rejection causes should be separated into:",
+          "prepared_text": "[[prepared]]Rejection causes should be separated into:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tuta absoluta.",
+            "Rots associated with Tuta wounds.",
+            "Colour defects.",
+            "Green fruits.",
+            "Sunscald.",
+            "Mechanical damage.",
+            "Other diseases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tuta absoluta.",
+            "[[prepared]]Rots associated with Tuta wounds.",
+            "[[prepared]]Colour defects.",
+            "[[prepared]]Green fruits.",
+            "[[prepared]]Sunscald.",
+            "[[prepared]]Mechanical damage.",
+            "[[prepared]]Other diseases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This allows the true loss associated with the pest to be determined.",
+          "prepared_text": "[[prepared]]This allows the true loss associated with the pest to be determined."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Factory Waste"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The factory should:",
+          "prepared_text": "[[prepared]]The factory should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Avoid leaving rejected fruits exposed.",
+            "Process waste rapidly.",
+            "Prevent tomato plants from growing around the site.",
+            "Clean receiving yards.",
+            "Monitor the site with traps.",
+            "Manage wash water and sediments."
+          ],
+          "prepared_items": [
+            "[[prepared]]Avoid leaving rejected fruits exposed.",
+            "[[prepared]]Process waste rapidly.",
+            "[[prepared]]Prevent tomato plants from growing around the site.",
+            "[[prepared]]Clean receiving yards.",
+            "[[prepared]]Monitor the site with traps.",
+            "[[prepared]]Manage wash water and sediments."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A factory may become an aggregation point for living stages if waste is poorly managed.",
+          "prepared_text": "[[prepared]]A factory may become an aggregation point for living stages if waste is poorly managed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Harvest Scheduling"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Consider:",
+          "prepared_text": "[[prepared]]Consider:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Ripeness percentage.",
+            "Infestation level.",
+            "Risk of retaining the field.",
+            "Preharvest interval.",
+            "Factory capacity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Ripeness percentage.",
+            "[[prepared]]Infestation level.",
+            "[[prepared]]Risk of retaining the field.",
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Factory capacity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Advancing harvest of a threatened field may be more economical than leaving it to wait for a fixed date while fruit infestation increases.",
+          "prepared_text": "[[prepared]]Advancing harvest of a threatened field may be more economical than leaving it to wait for a fixed date while fruit infestation increases."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Eighth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Collection, Grading, and Packing Stations"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Preventing the Station from Becoming an Infestation Source"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The station should:",
+          "prepared_text": "[[prepared]]The station should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Separate rejected produce.",
+            "Remove waste daily.",
+            "Clean containers.",
+            "Avoid storing infested fruit near fields.",
+            "Monitor surrounding plants.",
+            "Prevent rejected produce from returning to farms."
+          ],
+          "prepared_items": [
+            "[[prepared]]Separate rejected produce.",
+            "[[prepared]]Remove waste daily.",
+            "[[prepared]]Clean containers.",
+            "[[prepared]]Avoid storing infested fruit near fields.",
+            "[[prepared]]Monitor surrounding plants.",
+            "[[prepared]]Prevent rejected produce from returning to farms."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Traceability"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every consignment should be linked to:",
+          "prepared_text": "[[prepared]]Every consignment should be linked to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Supplier name.",
+            "Field code.",
+            "Harvest date.",
+            "Infestation percentage.",
+            "Most recent recorded treatment where required.",
+            "Grading result."
+          ],
+          "prepared_items": [
+            "[[prepared]]Supplier name.",
+            "[[prepared]]Field code.",
+            "[[prepared]]Harvest date.",
+            "[[prepared]]Infestation percentage.",
+            "[[prepared]]Most recent recorded treatment where required.",
+            "[[prepared]]Grading result."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This allows the problem to be traced to its source rather than mixing consignments.",
+          "prepared_text": "[[prepared]]This allows the problem to be traced to its source rather than mixing consignments."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Training Grading Workers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Workers should be trained to identify:",
+          "prepared_text": "[[prepared]]Workers should be trained to identify:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Entry and exit holes.",
+            "Frass.",
+            "Live larvae.",
+            "Associated rots.",
+            "Differences between Tuta damage and mechanical injury."
+          ],
+          "prepared_items": [
+            "[[prepared]]Entry and exit holes.",
+            "[[prepared]][[term:frass]]Frass[[/term]].",
+            "[[prepared]]Live larvae.",
+            "[[prepared]]Associated rots.",
+            "[[prepared]]Differences between Tuta damage and mechanical injury."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Ninth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Export Companies"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Export Requirements"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The exporter should:",
+          "prepared_text": "[[prepared]]The exporter should:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Identify the destination market.",
+            "Review maximum residue limits.",
+            "Define accepted materials.",
+            "Apply traceability.",
+            "Review fruit infestation.",
+            "Prevent live stages in consignments.",
+            "Retain analytical records."
+          ],
+          "prepared_items": [
+            "[[prepared]]Identify the destination market.",
+            "[[prepared]]Review [[term:pesticide-safety]]maximum residue limits[[/term]].",
+            "[[prepared]]Define accepted materials.",
+            "[[prepared]]Apply traceability.",
+            "[[prepared]]Review fruit infestation.",
+            "[[prepared]]Prevent live stages in consignments.",
+            "[[prepared]]Retain analytical records."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Avoiding Reliance on Final Inspection Alone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Final inspection cannot compensate for:",
+          "prepared_text": "[[prepared]]Final inspection cannot compensate for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A weak field programme.",
+            "Harvesting from a heavily infested field.",
+            "Use of unsuitable materials.",
+            "Leaving rejected fruits unmanaged."
+          ],
+          "prepared_items": [
+            "[[prepared]]A weak field programme.",
+            "[[prepared]]Harvesting from a heavily infested field.",
+            "[[prepared]]Use of unsuitable materials.",
+            "[[prepared]]Leaving rejected fruits unmanaged."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Quality assurance should begin in the nursery and field.",
+          "prepared_text": "[[prepared]]Quality assurance should begin in the nursery and field."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Communication with Suppliers"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Suppliers should be notified early of any update to:",
+          "prepared_text": "[[prepared]]Suppliers should be notified early of any update to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Material lists.",
+            "Maximum limits.",
+            "Market requirements.",
+            "Withdrawal periods.",
+            "Acceptance levels."
+          ],
+          "prepared_items": [
+            "[[prepared]]Material lists.",
+            "[[prepared]]Maximum limits.",
+            "[[prepared]]Market requirements.",
+            "[[prepared]]Withdrawal periods.",
+            "[[prepared]]Acceptance levels."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Requirements should not be changed after programme implementation unless there is a clear regulatory necessity.",
+          "prepared_text": "[[prepared]]Requirements should not be changed after programme implementation unless there is a clear regulatory necessity."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Tenth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Seed Companies"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Role of Seed Companies"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Seed companies do not control the pest directly, but they can support management by characterising:",
+          "prepared_text": "[[prepared]]Seed companies do not control the pest directly, but they can support management by characterising:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Plant architecture.",
+            "Cycle length.",
+            "Canopy density.",
+            "Earliness of ripening.",
+            "Fruit susceptibility.",
+            "Cultivar response under pressure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Plant architecture.",
+            "[[prepared]]Cycle length.",
+            "[[prepared]]Canopy density.",
+            "[[prepared]]Earliness of ripening.",
+            "[[prepared]]Fruit susceptibility.",
+            "[[prepared]]Cultivar response under pressure."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cultivar Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cultivars should not be described as resistant to Tuta on the basis of:",
+          "prepared_text": "[[prepared]]Cultivars should not be described as resistant to Tuta on the basis of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "One season.",
+            "Low egg numbers.",
+            "An unreplicated observation."
+          ],
+          "prepared_items": [
+            "[[prepared]]One season.",
+            "[[prepared]]Low egg numbers.",
+            "[[prepared]]An unreplicated observation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Distinguish among:",
+          "prepared_text": "[[prepared]]Distinguish among:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Antixenosis.",
+            "Antibiosis.",
+            "Tolerance.",
+            "Differences in canopy cover."
+          ],
+          "prepared_items": [
+            "[[prepared]]Antixenosis.",
+            "[[prepared]]Antibiosis.",
+            "[[prepared]]Tolerance.",
+            "[[prepared]]Differences in canopy cover."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Joint Trials"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Trials should preferably measure:",
+          "prepared_text": "[[prepared]]Trials should preferably measure:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Mines.",
+            "Larval survival.",
+            "Fruit infestation.",
+            "Accepted yield.",
+            "Cycle length.",
+            "Management requirements."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Mines.",
+            "[[prepared]]Larval survival.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Cycle length.",
+            "[[prepared]]Management requirements."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Manageability of the cultivar may be included in its technical description.",
+          "prepared_text": "[[prepared]]Manageability of the cultivar may be included in its technical description."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Eleventh"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Contract-Farming Programmes"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Importance of Collective Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Contract farming enables management of multiple areas through:",
+          "prepared_text": "[[prepared]]Contract farming enables management of multiple areas through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A crop calendar.",
+            "A monitoring network.",
+            "A pesticide list.",
+            "Technical support.",
+            "Harvest coordination.",
+            "Field removal."
+          ],
+          "prepared_items": [
+            "[[prepared]]A crop calendar.",
+            "[[prepared]]A monitoring network.",
+            "[[prepared]]A pesticide list.",
+            "[[prepared]]Technical support.",
+            "[[prepared]]Harvest coordination.",
+            "[[prepared]]Field removal."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Components of the Contract Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should include:",
+          "prepared_text": "[[prepared]]The programme should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An approved transplant source.",
+            "A unified record.",
+            "Periodic inspection.",
+            "A warning system.",
+            "Mandatory residue removal.",
+            "Prohibition of unapproved materials.",
+            "A mechanism for investigating failure.",
+            "Compliance incentives."
+          ],
+          "prepared_items": [
+            "[[prepared]]An approved transplant source.",
+            "[[prepared]]A unified record.",
+            "[[prepared]]Periodic inspection.",
+            "[[prepared]]A warning system.",
+            "[[prepared]]Mandatory residue removal.",
+            "[[prepared]]Prohibition of unapproved materials.",
+            "[[prepared]]A mechanism for investigating failure.",
+            "[[prepared]]Compliance incentives."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Incentives and Penalties"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Incentives may be offered for:",
+          "prepared_text": "[[prepared]]Incentives may be offered for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Complete records.",
+            "Low rejection.",
+            "Compliance with preharvest intervals.",
+            "Rapid field removal.",
+            "Conservation of natural enemies.",
+            "Participation in regional monitoring."
+          ],
+          "prepared_items": [
+            "[[prepared]]Complete records.",
+            "[[prepared]]Low rejection.",
+            "[[prepared]]Compliance with preharvest intervals.",
+            "[[prepared]]Rapid field removal.",
+            "[[prepared]]Conservation of natural enemies.",
+            "[[prepared]]Participation in regional monitoring."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Penalties may apply for:",
+          "prepared_text": "[[prepared]]Penalties may apply for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Use of prohibited materials.",
+            "Concealing treatments.",
+            "Leaving a heavily infested source field.",
+            "Mixing untraceable consignments."
+          ],
+          "prepared_items": [
+            "[[prepared]]Use of prohibited materials.",
+            "[[prepared]]Concealing treatments.",
+            "[[prepared]]Leaving a heavily infested source field.",
+            "[[prepared]]Mixing untraceable consignments."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Shared Services"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The contract programme may provide:",
+          "prepared_text": "[[prepared]]The contract programme may provide:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A reliable central nursery.",
+            "Monitoring teams.",
+            "Collective purchase of natural enemies.",
+            "Calibration services.",
+            "Residue testing.",
+            "Shredding equipment.",
+            "A shared database."
+          ],
+          "prepared_items": [
+            "[[prepared]]A reliable central nursery.",
+            "[[prepared]]Monitoring teams.",
+            "[[prepared]]Collective purchase of natural enemies.",
+            "[[prepared]]Calibration services.",
+            "[[prepared]]Residue testing.",
+            "[[prepared]]Shredding equipment.",
+            "[[prepared]]A shared database."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Twelfth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Researchers and Universities"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Directing Research Towards Field Needs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Research should not be limited to demonstrating larval mortality. It should also include:",
+          "prepared_text": "[[prepared]]Research should not be limited to demonstrating larval mortality. It should also include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fruit infestation.",
+            "Accepted yield.",
+            "Economic viability.",
+            "Compatibility with natural enemies.",
+            "Resistance.",
+            "Egyptian conditions.",
+            "Scalability."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Economic viability.",
+            "[[prepared]]Compatibility with natural enemies.",
+            "[[prepared]]Resistance.",
+            "[[prepared]]Egyptian conditions.",
+            "[[prepared]]Scalability."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Research Priorities"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Developing local economic thresholds.",
+            "2. Calibrating thermal models.",
+            "3. Studying migration among production cycles.",
+            "4. Evaluating local parasitoids and predators.",
+            "5. Testing biological belts.",
+            "6. Evaluating fungi and nematodes.",
+            "7. Studying resistance by region.",
+            "8. Improving sampling methods.",
+            "9. Studying cultivars.",
+            "10. Evaluating programmes for processing tomatoes separately from fresh-market tomatoes."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Developing local economic thresholds.",
+            "[[prepared]]2. Calibrating thermal models.",
+            "[[prepared]]3. Studying migration among production cycles.",
+            "[[prepared]]4. Evaluating local parasitoids and predators.",
+            "[[prepared]]5. Testing biological belts.",
+            "[[prepared]]6. Evaluating fungi and nematodes.",
+            "[[prepared]]7. Studying resistance by region.",
+            "[[prepared]]8. Improving sampling methods.",
+            "[[prepared]]9. Studying cultivars.",
+            "[[prepared]]10. Evaluating programmes for processing tomatoes separately from fresh-market tomatoes."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Experimental Design"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Research should use:",
+          "prepared_text": "[[prepared]]Research should use:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Replicates.",
+            "A control.",
+            "Randomisation.",
+            "Pretreatment measurements.",
+            "More than one season.",
+            "More than one location.",
+            "Agronomic and economic indicators.",
+            "Detailed description of conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Replicates.",
+            "[[prepared]]A control.",
+            "[[prepared]]Randomisation.",
+            "[[prepared]]Pretreatment measurements.",
+            "[[prepared]]More than one season.",
+            "[[prepared]]More than one location.",
+            "[[prepared]]Agronomic and economic indicators.",
+            "[[prepared]]Detailed description of conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Negative results should be published, not only successful results.",
+          "prepared_text": "[[prepared]]Negative results should be published, not only successful results."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Use of Commercial Observations"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Commercial cases may be used to develop hypotheses, but they should be clearly distinguished from:",
+          "prepared_text": "[[prepared]]Commercial cases may be used to develop hypotheses, but they should be clearly distinguished from:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Controlled experiments.",
+            "Replicated studies.",
+            "Causal evidence."
+          ],
+          "prepared_items": [
+            "[[prepared]]Controlled experiments.",
+            "[[prepared]]Replicated studies.",
+            "[[prepared]]Causal evidence."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An observation should not be presented as a proven efficacy percentage.",
+          "prepared_text": "[[prepared]]An observation should not be presented as a proven efficacy percentage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Data Sharing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Databases should preferably include:",
+          "prepared_text": "[[prepared]]Databases should preferably include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Temperature.",
+            "Trap catches.",
+            "Eggs.",
+            "Resistance.",
+            "Natural enemies.",
+            "Fruit infestation.",
+            "Yield.",
+            "Costs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Temperature.",
+            "[[prepared]]Trap catches.",
+            "[[prepared]]Eggs.",
+            "[[prepared]]Resistance.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Yield.",
+            "[[prepared]]Costs."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Commercial grower data should be protected.",
+          "prepared_text": "[[prepared]]Commercial grower data should be protected."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Thirteenth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Agricultural Extension Services"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Converting Science into Applicable Instructions"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Extension services should provide:",
+          "prepared_text": "[[prepared]]Extension services should provide:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Clear images of pest stages.",
+            "Methods for distinguishing mines.",
+            "Instructions for reading traps.",
+            "Meaning of IRAC groups.",
+            "Methods for collecting infested fruits.",
+            "Risks posed by old fields.",
+            "Concise checklists."
+          ],
+          "prepared_items": [
+            "[[prepared]]Clear images of pest stages.",
+            "[[prepared]]Methods for distinguishing mines.",
+            "[[prepared]]Instructions for reading traps.",
+            "[[prepared]]Meaning of IRAC groups.",
+            "[[prepared]]Methods for collecting infested fruits.",
+            "[[prepared]]Risks posed by old fields.",
+            "[[prepared]]Concise checklists."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Farmer Field Schools"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Farmer field schools may be used for practical training in:",
+          "prepared_text": "[[prepared]]Farmer field schools may be used for practical training in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Detecting eggs.",
+            "Identifying larval instars.",
+            "Recognising predators.",
+            "Comparing preventive spraying with monitoring-based decisions.",
+            "Calculating programme cost.",
+            "Evaluating fruit infestation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Detecting eggs.",
+            "[[prepared]]Identifying larval instars.",
+            "[[prepared]]Recognising predators.",
+            "[[prepared]]Comparing preventive spraying with monitoring-based decisions.",
+            "[[prepared]]Calculating programme cost.",
+            "[[prepared]]Evaluating fruit infestation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Warning Bulletins"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The bulletin should be:",
+          "prepared_text": "[[prepared]]The bulletin should be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Regional.",
+            "Dated.",
+            "Linked to temperature and production cycles.",
+            "Clear about the risk level.",
+            "Clear about the required action.",
+            "Free from one insecticide recommendation for all fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Regional.",
+            "[[prepared]]Dated.",
+            "[[prepared]]Linked to temperature and production cycles.",
+            "[[prepared]]Clear about the risk level.",
+            "[[prepared]]Clear about the required action.",
+            "[[prepared]]Free from one insecticide recommendation for all fields."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Addressing Misinformation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Claims such as the following should be corrected:",
+          "prepared_text": "[[prepared]]Claims such as the following should be corrected:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A high trap catch automatically requires spraying.",
+            "Mixing three products prevents resistance.",
+            "Increasing the rate solves failure.",
+            "Basil is guaranteed to repel Tuta.",
+            "Parasitoids succeed after fruit infestation.",
+            "Cold weather eliminates the pest."
+          ],
+          "prepared_items": [
+            "[[prepared]]A high trap catch automatically requires spraying.",
+            "[[prepared]]Mixing three products prevents resistance.",
+            "[[prepared]]Increasing the rate solves failure.",
+            "[[prepared]]Basil is guaranteed to repel Tuta.",
+            "[[prepared]]Parasitoids succeed after fruit infestation.",
+            "[[prepared]]Cold weather eliminates the pest."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fourteenth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Laboratories and Resistance-Testing Centres"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Standardising Test Methods"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Laboratories should use:",
+          "prepared_text": "[[prepared]]Laboratories should use:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Standardised methods.",
+            "Uniform larval instars.",
+            "Concentrations calculated from the active ingredient.",
+            "An appropriate control.",
+            "A susceptible strain or baseline.",
+            "Documented test conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Standardised methods.",
+            "[[prepared]]Uniform larval instars.",
+            "[[prepared]]Concentrations calculated from the active ingredient.",
+            "[[prepared]]An appropriate control.",
+            "[[prepared]]A susceptible strain or baseline.",
+            "[[prepared]]Documented test conditions."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sample Chain of Custody"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Record:",
+          "prepared_text": "[[prepared]]Record:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Collection location.",
+            "Field.",
+            "Most recent treatments.",
+            "Larval instar.",
+            "Number of individuals.",
+            "Transport conditions.",
+            "Receipt time."
+          ],
+          "prepared_items": [
+            "[[prepared]]Collection location.",
+            "[[prepared]]Field.",
+            "[[prepared]]Most recent treatments.",
+            "[[prepared]]Larval instar.",
+            "[[prepared]]Number of individuals.",
+            "[[prepared]]Transport conditions.",
+            "[[prepared]]Receipt time."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Otherwise, the interpretive value of the test result may be lost.",
+          "prepared_text": "[[prepared]]Otherwise, the interpretive value of the test result may be lost."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Result Reports"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The report should state:",
+          "prepared_text": "[[prepared]]The report should state:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Test method.",
+            "Validity of the control.",
+            "Concentrations.",
+            "Mortality percentage.",
+            "LC50 or diagnostic concentration where available.",
+            "Resistance ratio.",
+            "Uncertainty limits.",
+            "Technical recommendation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Test method.",
+            "[[prepared]]Validity of the control.",
+            "[[prepared]]Concentrations.",
+            "[[prepared]]Mortality percentage.",
+            "[[prepared]]LC50 or diagnostic concentration where available.",
+            "[[prepared]]Resistance ratio.",
+            "[[prepared]]Uncertainty limits.",
+            "[[prepared]]Technical recommendation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should not merely state:",
+          "prepared_text": "[[prepared]]It should not merely state:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "“The insect is resistant.”",
+          "prepared_text": "[[prepared]]“The insect is resistant.”"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Residue Laboratories"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They should ensure:",
+          "prepared_text": "[[prepared]]They should ensure:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Representative sampling.",
+            "Chain of custody.",
+            "An accredited analytical method.",
+            "Known limits of detection and quantification.",
+            "Identification of the reference market.",
+            "Rapid reporting before delivery."
+          ],
+          "prepared_items": [
+            "[[prepared]]Representative sampling.",
+            "[[prepared]]Chain of custody.",
+            "[[prepared]]An accredited analytical method.",
+            "[[prepared]]Known limits of detection and quantification.",
+            "[[prepared]]Identification of the reference market.",
+            "[[prepared]]Rapid reporting before delivery."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fifteenth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Regulatory and Inspection Authorities"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Product Registration"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Registration should be based on:",
+          "prepared_text": "[[prepared]]Registration should be based on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Efficacy against the target stage.",
+            "Representative Egyptian conditions.",
+            "Effects on natural enemies.",
+            "Preharvest interval.",
+            "Number of applications.",
+            "Resistance risks.",
+            "Formulation quality."
+          ],
+          "prepared_items": [
+            "[[prepared]]Efficacy against the target stage.",
+            "[[prepared]]Representative Egyptian conditions.",
+            "[[prepared]]Effects on natural enemies.",
+            "[[prepared]]Preharvest interval.",
+            "[[prepared]]Number of applications.",
+            "[[prepared]]Resistance risks.",
+            "[[prepared]]Formulation quality."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Updating Material Lists"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be updated:",
+          "prepared_text": "[[prepared]]The following should be updated:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Registered materials.",
+            "IRAC groups.",
+            "Restrictions.",
+            "Preharvest intervals.",
+            "Registration cancellations.",
+            "Resistance results."
+          ],
+          "prepared_items": [
+            "[[prepared]]Registered materials.",
+            "[[prepared]]IRAC groups.",
+            "[[prepared]]Restrictions.",
+            "[[prepared]]Preharvest intervals.",
+            "[[prepared]]Registration cancellations.",
+            "[[prepared]]Resistance results."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These data should be made available in a clear format for engineers and growers.",
+          "prepared_text": "[[prepared]]These data should be made available in a clear format for engineers and growers."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Market Surveillance"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Stronger control is required for:",
+          "prepared_text": "[[prepared]]Stronger control is required for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Counterfeit pesticides.",
+            "Expired products.",
+            "Storage under heat.",
+            "Incorrect labels.",
+            "Recommendations exceeding the rate.",
+            "Biological products with unknown concentration or strain."
+          ],
+          "prepared_items": [
+            "[[prepared]]Counterfeit pesticides.",
+            "[[prepared]]Expired products.",
+            "[[prepared]]Storage under heat.",
+            "[[prepared]]Incorrect labels.",
+            "[[prepared]]Recommendations exceeding the rate.",
+            "[[prepared]]Biological products with unknown concentration or strain."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Regulation of Natural-Enemy Production"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Standards should include:",
+          "prepared_text": "[[prepared]]Standards should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Correct identification.",
+            "Purity.",
+            "Emergence percentage.",
+            "Actual number.",
+            "Production date.",
+            "Transport conditions.",
+            "Batch-traceability system.",
+            "Field evaluation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Correct identification.",
+            "[[prepared]]Purity.",
+            "[[prepared]]Emergence percentage.",
+            "[[prepared]]Actual number.",
+            "[[prepared]]Production date.",
+            "[[prepared]]Transport conditions.",
+            "[[prepared]]Batch-traceability system.",
+            "[[prepared]]Field evaluation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "National Resistance Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Regulatory authorities need:",
+          "prepared_text": "[[prepared]]Regulatory authorities need:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A resistance-monitoring network.",
+            "Reference laboratories.",
+            "Collection of use data.",
+            "Publication of early warnings.",
+            "Coordination with companies.",
+            "Updated rotation recommendations.",
+            "Prevention of advertising that encourages repetition."
+          ],
+          "prepared_items": [
+            "[[prepared]]A resistance-monitoring network.",
+            "[[prepared]]Reference laboratories.",
+            "[[prepared]]Collection of use data.",
+            "[[prepared]]Publication of early warnings.",
+            "[[prepared]]Coordination with companies.",
+            "[[prepared]]Updated rotation recommendations.",
+            "[[prepared]]Prevention of advertising that encourages repetition."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Regulation of Nurseries"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Licensing should include:",
+          "prepared_text": "[[prepared]]Licensing should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Isolation requirements.",
+            "Traps.",
+            "Records.",
+            "Management of rejected plants.",
+            "Batch traceability.",
+            "Inspection.",
+            "A mechanism for recalling an infested batch."
+          ],
+          "prepared_items": [
+            "[[prepared]]Isolation requirements.",
+            "[[prepared]]Traps.",
+            "[[prepared]]Records.",
+            "[[prepared]]Management of rejected plants.",
+            "[[prepared]]Batch traceability.",
+            "[[prepared]]Inspection.",
+            "[[prepared]]A mechanism for recalling an infested batch."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sixteenth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Local Authorities, Associations, and Cooperatives"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Area-Wide Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Associations and local authorities can organise:",
+          "prepared_text": "[[prepared]]Associations and local authorities can organise:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Field-removal dates.",
+            "Residue-cleaning campaigns.",
+            "A trap network.",
+            "Warning bulletins.",
+            "Collective purchasing of inputs.",
+            "Shared shredding equipment.",
+            "Group training."
+          ],
+          "prepared_items": [
+            "[[prepared]]Field-removal dates.",
+            "[[prepared]]Residue-cleaning campaigns.",
+            "[[prepared]]A trap network.",
+            "[[prepared]]Warning bulletins.",
+            "[[prepared]]Collective purchasing of inputs.",
+            "[[prepared]]Shared shredding equipment.",
+            "[[prepared]]Group training."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Management of Neglected Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A mechanism should exist for dealing with:",
+          "prepared_text": "[[prepared]]A mechanism should exist for dealing with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An abandoned field.",
+            "A completed field that has not been removed.",
+            "Accumulated residues.",
+            "Volunteer crops."
+          ],
+          "prepared_items": [
+            "[[prepared]]An abandoned field.",
+            "[[prepared]]A completed field that has not been removed.",
+            "[[prepared]]Accumulated residues.",
+            "[[prepared]]Volunteer crops."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The mechanism should include:",
+          "prepared_text": "[[prepared]]The mechanism should include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Notification of the owner.",
+            "Support for removal.",
+            "A defined deadline.",
+            "Regulatory intervention if the risk continues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Notification of the owner.",
+            "[[prepared]]Support for removal.",
+            "[[prepared]]A defined deadline.",
+            "[[prepared]]Regulatory intervention if the risk continues."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cooperatives and Cost Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cooperatives can reduce the cost of:",
+          "prepared_text": "[[prepared]]Cooperatives can reduce the cost of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Traps.",
+            "Natural enemies.",
+            "Calibration.",
+            "Analyses.",
+            "Shredding.",
+            "Consultancy."
+          ],
+          "prepared_items": [
+            "[[prepared]]Traps.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Calibration.",
+            "[[prepared]]Analyses.",
+            "[[prepared]]Shredding.",
+            "[[prepared]]Consultancy."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "They can also aggregate data while preserving the confidentiality of individual growers.",
+          "prepared_text": "[[prepared]]They can also aggregate data while preserving the confidentiality of individual growers."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Seventeenth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Recommendations for Policymakers"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Moving from Field Control to System Management"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Policy should focus on:",
+          "prepared_text": "[[prepared]]Policy should focus on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Nursery.",
+            "Field.",
+            "Neighbouring fields.",
+            "Grading stations.",
+            "Factory.",
+            "Residues.",
+            "Resistance.",
+            "Information."
+          ],
+          "prepared_items": [
+            "[[prepared]]Nursery.",
+            "[[prepared]]Field.",
+            "[[prepared]]Neighbouring fields.",
+            "[[prepared]]Grading stations.",
+            "[[prepared]]Factory.",
+            "[[prepared]]Residues.",
+            "[[prepared]]Resistance.",
+            "[[prepared]]Information."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Supporting pesticide purchase alone is insufficient.",
+          "prepared_text": "[[prepared]]Supporting pesticide purchase alone is insufficient."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Supporting Biological Control"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This requires:",
+          "prepared_text": "[[prepared]]This requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Facilitating registration of safe organisms.",
+            "Supporting local production.",
+            "Quality-control laboratories.",
+            "User training.",
+            "Field trials.",
+            "Reducing risks from uncontrolled importation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Facilitating registration of safe organisms.",
+            "[[prepared]]Supporting local production.",
+            "[[prepared]]Quality-control laboratories.",
+            "[[prepared]]User training.",
+            "[[prepared]]Field trials.",
+            "[[prepared]]Reducing risks from uncontrolled importation."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Supporting Warning Systems"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The state or production sectors need:",
+          "prepared_text": "[[prepared]]The state or production sectors need:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Weather stations.",
+            "A trap network.",
+            "Data-entry applications.",
+            "Diagnostic teams.",
+            "Regional bulletins.",
+            "Production-cycle maps.",
+            "Sustained funding."
+          ],
+          "prepared_items": [
+            "[[prepared]]Weather stations.",
+            "[[prepared]]A trap network.",
+            "[[prepared]]Data-entry applications.",
+            "[[prepared]]Diagnostic teams.",
+            "[[prepared]]Regional bulletins.",
+            "[[prepared]]Production-cycle maps.",
+            "[[prepared]]Sustained funding."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Supporting Applied Research"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Funding should target:",
+          "prepared_text": "[[prepared]]Funding should target:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Actual grower problems.",
+            "Open-field tomatoes.",
+            "Processing tomatoes.",
+            "Multi-season studies.",
+            "Economics.",
+            "Resistance.",
+            "Non-target effects."
+          ],
+          "prepared_items": [
+            "[[prepared]]Actual grower problems.",
+            "[[prepared]]Open-field tomatoes.",
+            "[[prepared]]Processing tomatoes.",
+            "[[prepared]]Multi-season studies.",
+            "[[prepared]]Economics.",
+            "[[prepared]]Resistance.",
+            "[[prepared]]Non-target effects."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Legislation Related to Residues and Waste"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Regulations should preferably require large projects, nurseries, and grading stations to:",
+          "prepared_text": "[[prepared]]Regulations should preferably require large projects, nurseries, and grading stations to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Manage residues.",
+            "Prevent leaving infested fruit.",
+            "Clean sites.",
+            "Avoid creating an infestation source near crops."
+          ],
+          "prepared_items": [
+            "[[prepared]]Manage residues.",
+            "[[prepared]]Prevent leaving infested fruit.",
+            "[[prepared]]Clean sites.",
+            "[[prepared]]Avoid creating an infestation source near crops."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Eighteenth"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Urgent Joint Recommendations for Egypt"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Short-Term Actions"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Standardise trap and field-inspection records.",
+            "2. Train teams to identify eggs and larval instars.",
+            "3. Update the IRAC-group list.",
+            "4. Inspect nurseries and link batches to fields.",
+            "5. Prevent old fields from being left standing.",
+            "6. Establish a reporting system for failure.",
+            "7. Increase susceptibility-testing capacity.",
+            "8. Support reliable production of natural enemies.",
+            "9. Regulate factory and grading waste.",
+            "10. Link factories to field records."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Standardise trap and field-inspection records.",
+            "[[prepared]]2. Train teams to identify eggs and larval instars.",
+            "[[prepared]]3. Update the IRAC-group list.",
+            "[[prepared]]4. Inspect nurseries and link batches to fields.",
+            "[[prepared]]5. Prevent old fields from being left standing.",
+            "[[prepared]]6. Establish a reporting system for failure.",
+            "[[prepared]]7. Increase susceptibility-testing capacity.",
+            "[[prepared]]8. Support reliable production of natural enemies.",
+            "[[prepared]]9. Regulate factory and grading waste.",
+            "[[prepared]]10. Link factories to field records."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Medium-Term Actions"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Establish a regional warning network.",
+            "2. Develop Egyptian economic thresholds.",
+            "3. Calibrate thermal models.",
+            "4. Establish a resistance database.",
+            "5. Evaluate biological belts.",
+            "6. Develop programmes specific to processing tomatoes.",
+            "7. Establish transplant-traceability certificates.",
+            "8. Set quality standards for natural enemies.",
+            "9. Develop Arabic-language training manuals.",
+            "10. Include field edges and residues in inspection."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Establish a regional warning network.",
+            "[[prepared]]2. Develop Egyptian economic thresholds.",
+            "[[prepared]]3. Calibrate thermal models.",
+            "[[prepared]]4. Establish a resistance database.",
+            "[[prepared]]5. Evaluate biological belts.",
+            "[[prepared]]6. Develop programmes specific to processing tomatoes.",
+            "[[prepared]]7. Establish transplant-traceability certificates.",
+            "[[prepared]]8. Set quality standards for natural enemies.",
+            "[[prepared]]9. Develop Arabic-language training manuals.",
+            "[[prepared]]10. Include field edges and residues in inspection."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Long-Term Actions"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Manage the pest at landscape level.",
+            "2. Reduce structural dependence on insecticides.",
+            "3. Develop cultivars with lower susceptibility.",
+            "4. Build a local biological-control industry.",
+            "5. Integrate weather, trap, and crop data.",
+            "6. Establish a national insecticide-resistance system.",
+            "7. Incorporate sustainability into processing and export contracts.",
+            "8. Strengthen research collaboration between universities and the private sector.",
+            "9. Digitise production records.",
+            "10. Measure the economic and environmental impact of pest management."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Manage the pest at landscape level.",
+            "[[prepared]]2. Reduce structural dependence on insecticides.",
+            "[[prepared]]3. Develop cultivars with lower susceptibility.",
+            "[[prepared]]4. Build a local biological-control industry.",
+            "[[prepared]]5. Integrate weather, trap, and crop data.",
+            "[[prepared]]6. Establish a national insecticide-resistance system.",
+            "[[prepared]]7. Incorporate sustainability into processing and export contracts.",
+            "[[prepared]]8. Strengthen research collaboration between universities and the private sector.",
+            "[[prepared]]9. Digitise production records.",
+            "[[prepared]]10. Measure the economic and environmental impact of pest management."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Responsibility Matrix"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Stakeholder",
+            "Core Responsibility",
+            "Indicator to Be Measured"
+          ],
+          "rows": [
+            [
+              "Agricultural engineer",
+              "Monitoring, decision-making, and evaluation",
+              "Early detection and fruit infestation"
+            ],
+            [
+              "Grower",
+              "Implementation, sanitation, and compliance",
+              "Completion of operations and residue management"
+            ],
+            [
+              "Farm manager",
+              "Organisation and resources",
+              "Response speed and cost efficiency"
+            ],
+            [
+              "Nursery",
+              "Production of healthy transplants",
+              "Percentage of compliant batches"
+            ],
+            [
+              "Natural-enemy producer",
+              "Quality and support",
+              "Emergence and establishment percentage"
+            ],
+            [
+              "Pesticide company",
+              "Rational use and quality",
+              "Failure and resistance cases"
+            ],
+            [
+              "Factory",
+              "Contracting, delivery, and residues",
+              "Acceptance and rejection percentage"
+            ],
+            [
+              "Grading station",
+              "Prevention of waste-associated spread",
+              "Quantity of rejected produce treated"
+            ],
+            [
+              "Exporter",
+              "Residues and traceability",
+              "Consignment compliance"
+            ],
+            [
+              "Researchers",
+              "Local evidence",
+              "Multi-site results"
+            ],
+            [
+              "Extension services",
+              "Training and warning",
+              "Percentage of compliant growers"
+            ],
+            [
+              "Laboratories",
+              "Diagnosis and resistance testing",
+              "Quality and speed of reports"
+            ],
+            [
+              "Regulatory authorities",
+              "Registration and inspection",
+              "Compliant products and batches"
+            ],
+            [
+              "Cooperatives",
+              "Collective coordination",
+              "Participating fields"
+            ],
+            [
+              "Policymakers",
+              "Institutional infrastructure",
+              "Reduced losses and chemical dependence"
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Stakeholder",
+            "[[prepared]]Core Responsibility",
+            "[[prepared]]Indicator to Be Measured"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Agricultural engineer",
+              "[[prepared]]Monitoring, decision-making, and evaluation",
+              "[[prepared]]Early detection and fruit infestation"
+            ],
+            [
+              "[[prepared]]Grower",
+              "[[prepared]]Implementation, sanitation, and compliance",
+              "[[prepared]]Completion of operations and residue management"
+            ],
+            [
+              "[[prepared]]Farm manager",
+              "[[prepared]]Organisation and resources",
+              "[[prepared]]Response speed and cost efficiency"
+            ],
+            [
+              "[[prepared]]Nursery",
+              "[[prepared]]Production of healthy transplants",
+              "[[prepared]]Percentage of compliant batches"
+            ],
+            [
+              "[[prepared]]Natural-enemy producer",
+              "[[prepared]]Quality and support",
+              "[[prepared]]Emergence and establishment percentage"
+            ],
+            [
+              "[[prepared]]Pesticide company",
+              "[[prepared]]Rational use and quality",
+              "[[prepared]]Failure and resistance cases"
+            ],
+            [
+              "[[prepared]]Factory",
+              "[[prepared]]Contracting, delivery, and residues",
+              "[[prepared]]Acceptance and rejection percentage"
+            ],
+            [
+              "[[prepared]]Grading station",
+              "[[prepared]]Prevention of waste-associated spread",
+              "[[prepared]]Quantity of rejected produce treated"
+            ],
+            [
+              "[[prepared]]Exporter",
+              "[[prepared]]Residues and traceability",
+              "[[prepared]]Consignment compliance"
+            ],
+            [
+              "[[prepared]]Researchers",
+              "[[prepared]]Local evidence",
+              "[[prepared]]Multi-site results"
+            ],
+            [
+              "[[prepared]]Extension services",
+              "[[prepared]]Training and warning",
+              "[[prepared]]Percentage of compliant growers"
+            ],
+            [
+              "[[prepared]]Laboratories",
+              "[[prepared]]Diagnosis and resistance testing",
+              "[[prepared]]Quality and speed of reports"
+            ],
+            [
+              "[[prepared]]Regulatory authorities",
+              "[[prepared]]Registration and inspection",
+              "[[prepared]]Compliant products and batches"
+            ],
+            [
+              "[[prepared]]Cooperatives",
+              "[[prepared]]Collective coordination",
+              "[[prepared]]Participating fields"
+            ],
+            [
+              "[[prepared]]Policymakers",
+              "[[prepared]]Institutional infrastructure",
+              "[[prepared]]Reduced losses and chemical dependence"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of Success of the Shared System"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced incidence of infested transplants.",
+            "Increased proportion of fields using traps and plant inspection.",
+            "Reduced repetition of IRAC groups.",
+            "Increased documented use of natural enemies.",
+            "Reduced fruit infestation.",
+            "Reduced cases of residue non-compliance.",
+            "Shorter interval between final harvest and field removal.",
+            "Fewer neglected source fields.",
+            "Increased accepted yield.",
+            "Reduced control cost per tonne.",
+            "Earlier detection of resistance cases.",
+            "Greater grower participation in warning systems."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced incidence of infested transplants.",
+            "[[prepared]]Increased proportion of fields using traps and plant inspection.",
+            "[[prepared]]Reduced repetition of IRAC groups.",
+            "[[prepared]]Increased documented use of natural enemies.",
+            "[[prepared]]Reduced fruit infestation.",
+            "[[prepared]]Reduced cases of residue non-compliance.",
+            "[[prepared]]Shorter interval between final harvest and field removal.",
+            "[[prepared]]Fewer neglected source fields.",
+            "[[prepared]]Increased accepted yield.",
+            "[[prepared]]Reduced control cost per tonne.",
+            "[[prepared]]Earlier detection of resistance cases.",
+            "[[prepared]]Greater grower participation in warning systems."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indicators of System Failure"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Continued distribution of transplants from unknown sources.",
+            "Increased preventive spraying.",
+            "Spread of random mixtures.",
+            "Failure to share cases of reduced efficacy.",
+            "Weak product-quality control.",
+            "Leaving factory and field residues unmanaged.",
+            "Absence of standardised data.",
+            "Repeated rejection of consignments because of residues.",
+            "Rising infestation despite increased expenditure.",
+            "Lack of coordination among production cycles."
+          ],
+          "prepared_items": [
+            "[[prepared]]Continued distribution of transplants from unknown sources.",
+            "[[prepared]]Increased preventive spraying.",
+            "[[prepared]]Spread of random mixtures.",
+            "[[prepared]]Failure to share cases of reduced efficacy.",
+            "[[prepared]]Weak product-quality control.",
+            "[[prepared]]Leaving factory and field residues unmanaged.",
+            "[[prepared]]Absence of standardised data.",
+            "[[prepared]]Repeated rejection of consignments because of residues.",
+            "[[prepared]]Rising infestation despite increased expenditure.",
+            "[[prepared]]Lack of coordination among production cycles."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Message to All Stakeholders"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta is not merely an insecticide problem, an individual grower problem, or a one-season problem.",
+          "prepared_text": "[[prepared]]Tuta absoluta is not merely an insecticide problem, an individual grower problem, or a one-season problem."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It becomes a production-system problem when:",
+          "prepared_text": "[[prepared]]It becomes a production-system problem when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Transplants move without traceability.",
+            "Pesticides are used without resistance management.",
+            "Old fields are left standing.",
+            "Natural enemies are neglected.",
+            "Residues are not managed.",
+            "Data are not shared."
+          ],
+          "prepared_items": [
+            "[[prepared]]Transplants move without traceability.",
+            "[[prepared]]Pesticides are used without resistance management.",
+            "[[prepared]]Old fields are left standing.",
+            "[[prepared]]Natural enemies are neglected.",
+            "[[prepared]]Residues are not managed.",
+            "[[prepared]]Data are not shared."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It becomes manageable when every stakeholder assumes responsibility within a unified system beginning in the nursery and ending only after field removal.",
+          "prepared_text": "[[prepared]]It becomes manageable when every stakeholder assumes responsibility within a unified system beginning in the nursery and ending only after field removal."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Summary of Section Twenty-Five"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sustainable management of Tuta absoluta depends on clear allocation of responsibilities across the entire tomato-production chain.",
+          "prepared_text": "[[prepared]]Sustainable management of Tuta absoluta depends on clear allocation of responsibilities across the entire tomato-production chain."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The agricultural engineer is responsible for integrating data from traps, eggs, larvae, fruits, and natural enemies into a documented decision, rather than issuing a spray schedule.",
+          "prepared_text": "[[prepared]]The agricultural engineer is responsible for integrating data from traps, eggs, larvae, fruits, and natural enemies into a documented decision, rather than issuing a spray schedule."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The grower is responsible for using healthy transplants, complying with rates and preharvest intervals, collecting infested fruits, and terminating the field.",
+          "prepared_text": "[[prepared]]The grower is responsible for using healthy transplants, complying with rates and preharvest intervals, collecting infested fruits, and terminating the field."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The farm manager is responsible for providing resources, organising the team, preventing conflicting decisions, and reviewing economic performance.",
+          "prepared_text": "[[prepared]]The farm manager is responsible for providing resources, organising the team, preventing conflicting decisions, and reviewing economic performance."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The nursery represents the first line of defence and should implement inspection, traceability, isolation, and reporting systems for infested batches.",
+          "prepared_text": "[[prepared]]The nursery represents the first line of defence and should implement inspection, traceability, isolation, and reporting systems for infested batches."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Producers of natural enemies are responsible for the quality of species, strain, number, emergence percentage, transport, and technical support, while avoiding transfer of greenhouse release rates to open fields without calibration.",
+          "prepared_text": "[[prepared]]Producers of natural enemies are responsible for the quality of species, strain, number, emergence percentage, transport, and technical support, while avoiding transfer of greenhouse release rates to open fields without calibration."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pesticide companies are responsible for providing correct information on the active ingredient, IRAC group, target stage, and preharvest interval, and for conducting scientific investigation of reduced-efficacy cases.",
+          "prepared_text": "[[prepared]]Pesticide companies are responsible for providing correct information on the active ingredient, IRAC group, target stage, and preharvest interval, and for conducting scientific investigation of reduced-efficacy cases."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tomato-processing factories should participate in management from the beginning of the season through technical contracts, accepted-material lists, monitoring, and support for field removal, while properly managing receiving and processing waste.",
+          "prepared_text": "[[prepared]]Tomato-processing factories should participate in management from the beginning of the season through technical contracts, accepted-material lists, monitoring, and support for field removal, while properly managing receiving and processing waste."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Grading stations and export companies are responsible for traceability, prevention of infested-fruit accumulation, and review of residues and market specifications.",
+          "prepared_text": "[[prepared]]Grading stations and export companies are responsible for traceability, prevention of infested-fruit accumulation, and review of residues and market specifications."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Researchers should develop multi-site, multi-season Egyptian evidence that measures fruit infestation, accepted yield, and economic viability rather than insect mortality alone.",
+          "prepared_text": "[[prepared]]Researchers should develop multi-site, multi-season Egyptian evidence that measures fruit infestation, accepted yield, and economic viability rather than insect mortality alone."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Extension services should convert research findings into practical instructions, images, and warning templates.",
+          "prepared_text": "[[prepared]]Extension services should convert research findings into practical instructions, images, and warning templates."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Regulatory authorities need to monitor pesticide, natural-enemy, and nursery quality, establish a resistance-monitoring network, and update information available to engineers.",
+          "prepared_text": "[[prepared]]Regulatory authorities need to monitor pesticide, natural-enemy, and nursery quality, establish a resistance-monitoring network, and update information available to engineers."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "No single stakeholder can eliminate the Tuta absoluta problem. Integration among stakeholders can, however, shift management from a late spray-based reaction to a preventive system that anticipates infestation and protects the crop, insecticide efficacy, and natural enemies.",
+          "prepared_text": "[[prepared]]No single stakeholder can eliminate the Tuta absoluta problem. Integration among stakeholders can, however, shift management from a late spray-based reaction to a preventive system that anticipates infestation and protects the crop, insecticide efficacy, and natural enemies."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-25-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Food and Agriculture Organization of the United Nations. Developing an Integrated Pest Management and Biorational Program for Control and Containment of the Invasive Pest of Tomato, Tuta absoluta.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "Insecticide Resistance Action Committee. Tuta absoluta: Recommendations for Sustainable and Effective Resistance Management.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Insecticide Resistance Action Committee. Tuta absoluta Insecticide Resistance Management Poster, Version 3.0.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Insecticide Resistance Action Committee. Mode of Action Classification Scheme.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "European and Mediterranean Plant Protection Organization. Summary of the Express Pest Risk Analysis for Tuta absoluta.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "CABI. Integrated Management of Tomato Leaf Miner and Other Tomato Pests: A Training Manual for Extension Workers.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Rwomushana, I., Beale, T., Chipabika, G., et al. (2019). Tomato Leafminer, Tuta absoluta: Impacts and Coping Strategies for Africa. CABI Working Paper 12.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Desneux, N., Han, P., Mansour, R., et al. (2022). Integrated pest management of Tuta absoluta: Practical implementations across different world regions. Journal of Pest Science, 95, 17–39.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F. H., & Desneux, N. (2018). Ecology, worldwide spread, and management of the invasive South American tomato pinworm, Tuta absoluta. Annual Review of Entomology, 63, 239–258.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Guedes, R. N. C., Roditakis, E., Campos, M. R., et al. (2019). Insecticide resistance in the tomato pinworm Tuta absoluta: Patterns, spread, mechanisms, management and outlook. Journal of Pest Science, 92, 1329–1342.",
+              "url": ""
+            },
+            {
+              "number": 11,
+              "text": "Ferracini, C., Bueno, V. H. P., Dindo, M. L., et al. (2019). Natural enemies of Tuta absoluta in the Mediterranean basin, Europe and South America. Biocontrol Science and Technology, 29, 578–609.",
+              "url": ""
+            },
+            {
+              "number": 12,
+              "text": "Colmenárez, Y. C., Corniani, N., Jahnke, S. M., Sampaio, M. V., & Vásquez, G. M. (2022). Sustainable management of the invasive Tuta absoluta. Journal of Integrated Pest Management, 13, 15.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Hassan, E. S. M., Mesbah, I. I., Ali, F. A., & El-Shesheny, I. A. (2022). Prevalence, population dynamics and associated natural enemies of tomato leafminer, Tuta absoluta, in Egypt. International Journal of Tropical Insect Science, 42, 143–162.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "Kansiime, K. M., Karanja, P., Rware, H., et al. (2020). Integrated Management of Tomato Leaf Miner and Other Tomato Pests. CABI and Koppert Biological Systems.",
+              "url": ""
+            },
+            {
+              "number": 15,
+              "text": "Landis, D. A., Wratten, S. D., & Gurr, G. M. (2000). Habitat management to conserve natural enemies of arthropod pests in agriculture. Annual Review of Entomology, 45, 175–201.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 25,
+        "part_title": "Section Twenty-Five: Final Recommendations by Responsible Stakeholder",
+        "part_subtitle": "Stakeholder-Specific Recommendations for Sustainable Management of Tuta absoluta"
+      }
+    }
+  ]
+}
