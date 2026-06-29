@@ -1,0 +1,4401 @@
+{
+  "tab_title": "Integrated Management of Tuta absoluta",
+  "part_index": 15,
+  "part_title": "Section Fifteen: Evaluation of IPM Performance and Economic Viability",
+  "part_short_title": "Evaluation of IPM Performance and Economic Viability",
+  "part_subtitle": "Evaluation of IPM Performance and Economic Viability",
+  "content_path": "tuta/9/15.json",
+  "content_blocks": [
+    {
+      "type": "doc-article",
+      "items": [
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Chapter Ten"
+        },
+        {
+          "type": "doc-heading",
+          "level": 1,
+          "text": "Integrated Management of Tuta absoluta"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Introduction"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An integrated management programme for Tuta absoluta is not complete merely because traps have been installed, natural enemies released, or insecticides applied. The actual outcome achieved by these actions must be measured.",
+          "prepared_text": "[[prepared]]An integrated management programme for Tuta absoluta is not complete merely because traps have been installed, [[term:biological-control]]natural enemies[[/term]] released, or insecticides applied. The actual outcome achieved by these actions must be measured."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme may appear entomologically successful because larval numbers decline, yet be economically inefficient because application costs are too high. Another programme may produce a high total yield while the value of marketable produce declines because small holes occur in a large proportion of fruits.",
+          "prepared_text": "[[prepared]]A programme may appear entomologically successful because larval numbers decline, yet be economically inefficient because application costs are too high. Another programme may produce a high total yield while the value of marketable produce declines because small holes occur in a large proportion of fruits."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme should therefore be evaluated through six interrelated dimensions:",
+          "prepared_text": "[[prepared]]The programme should therefore be evaluated through six interrelated dimensions:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Biological efficacy against the pest.",
+            "2. Protection of plants and fruits.",
+            "3. Conservation of natural enemies.",
+            "4. Crop quality and safety.",
+            "5. Operational efficiency.",
+            "6. Economic viability."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Biological efficacy against the pest.",
+            "[[prepared]]2. Protection of plants and fruits.",
+            "[[prepared]]3. Conservation of natural enemies.",
+            "[[prepared]]4. Crop quality and safety.",
+            "[[prepared]]5. Operational efficiency.",
+            "[[prepared]]6. Economic viability."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Success should not be judged from a single indicator such as:",
+          "prepared_text": "[[prepared]]Success should not be judged from a single indicator such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of moths in traps.",
+            "Parasitism percentage.",
+            "Number of sprays.",
+            "Total yield.",
+            "Insecticide cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of moths in traps.",
+            "[[prepared]]Parasitism percentage.",
+            "[[prepared]]Number of sprays.",
+            "[[prepared]]Total yield.",
+            "[[prepared]]Insecticide cost."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Indicators should be integrated to provide a balanced assessment.",
+          "prepared_text": "[[prepared]]Indicators should be integrated to provide a balanced assessment."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Objectives of Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Evaluation aims to answer the following questions:",
+          "prepared_text": "[[prepared]]Evaluation aims to answer the following questions:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Did pest density decline?",
+            "Did active mines decline?",
+            "Did fruit infestation decline?",
+            "Did marketable yield improve?",
+            "Did the programme conserve natural enemies?",
+            "Did the number of chemical applications decline?",
+            "Did the crop comply with residue limits?",
+            "Was programme cost lower than the value of losses prevented?",
+            "Which components were successful?",
+            "Which components increased cost without a clear return?",
+            "What caused any failure?",
+            "Can the programme be repeated in the following season?"
+          ],
+          "prepared_items": [
+            "[[prepared]]Did pest density decline?",
+            "[[prepared]]Did active [[term:mines]]mines[[/term]] decline?",
+            "[[prepared]]Did fruit infestation decline?",
+            "[[prepared]]Did [[term:marketable-yield]]marketable yield[[/term]] improve?",
+            "[[prepared]]Did the programme conserve natural enemies?",
+            "[[prepared]]Did the number of chemical applications decline?",
+            "[[prepared]]Did the crop comply with residue limits?",
+            "[[prepared]]Was programme cost lower than the value of losses prevented?",
+            "[[prepared]]Which components were successful?",
+            "[[prepared]]Which components increased cost without a clear return?",
+            "[[prepared]]What caused any failure?",
+            "[[prepared]]Can the programme be repeated in the following season?"
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Levels of Evaluation"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Operational Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This measures the extent to which the plan was implemented as designed, such as:",
+          "prepared_text": "[[prepared]]This measures the extent to which the plan was implemented as designed, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Regularity of trap readings.",
+            "Number of inspection rounds completed.",
+            "Compliance with release schedules.",
+            "Calibration of spray equipment.",
+            "Removal of old fields.",
+            "Completeness of pesticide records."
+          ],
+          "prepared_items": [
+            "[[prepared]]Regularity of trap readings.",
+            "[[prepared]]Number of inspection rounds completed.",
+            "[[prepared]]Compliance with release schedules.",
+            "[[prepared]]Calibration of spray equipment.",
+            "[[prepared]]Removal of old fields.",
+            "[[prepared]]Completeness of pesticide records."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Biological Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This measures programme effects on:",
+          "prepared_text": "[[prepared]]This measures programme effects on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs.",
+            "Larvae.",
+            "Mines.",
+            "Moths.",
+            "Successive generations."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs.",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Mines.",
+            "[[prepared]]Moths.",
+            "[[prepared]]Successive generations."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Agronomic Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This measures:",
+          "prepared_text": "[[prepared]]This measures:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Integrity of growing points.",
+            "Canopy cover.",
+            "Fruit set.",
+            "Number of fruits.",
+            "Fruit weight.",
+            "Total yield."
+          ],
+          "prepared_items": [
+            "[[prepared]]Integrity of growing points.",
+            "[[prepared]]Canopy cover.",
+            "[[prepared]]Fruit set.",
+            "[[prepared]]Number of fruits.",
+            "[[prepared]]Fruit weight.",
+            "[[prepared]]Total yield."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Quality Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This measures:",
+          "prepared_text": "[[prepared]]This measures:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infested fruits.",
+            "Rots.",
+            "Rejected fruits.",
+            "Processing or market quality.",
+            "Residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infested fruits.",
+            "[[prepared]]Rots.",
+            "[[prepared]]Rejected fruits.",
+            "[[prepared]]Processing or market quality.",
+            "[[prepared]]Residues."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This compares:",
+          "prepared_text": "[[prepared]]This compares:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Programme cost.",
+            "Value of the protected crop.",
+            "Avoided losses.",
+            "Net return.",
+            "Benefit–cost ratio."
+          ],
+          "prepared_items": [
+            "[[prepared]]Programme cost.",
+            "[[prepared]]Value of the protected crop.",
+            "[[prepared]]Avoided losses.",
+            "[[prepared]]Net return.",
+            "[[prepared]]Benefit–cost ratio."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Environmental and Sustainability Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This measures:",
+          "prepared_text": "[[prepared]]This measures:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of chemical applications.",
+            "Extent of broad-spectrum group use.",
+            "Survival of natural enemies.",
+            "Insecticide-resistance pressure.",
+            "Non-target effects."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of chemical applications.",
+            "[[prepared]]Extent of broad-spectrum group use.",
+            "[[prepared]]Survival of natural enemies.",
+            "[[prepared]]Insecticide-resistance pressure.",
+            "[[prepared]]Non-target effects."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Need for a Baseline"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Change cannot be assessed without knowing the previous condition.",
+          "prepared_text": "[[prepared]]Change cannot be assessed without knowing the previous condition."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The baseline includes:",
+          "prepared_text": "[[prepared]]The baseline includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation level before programme initiation.",
+            "Infestation history in previous seasons.",
+            "Average number of conventional sprays.",
+            "Previous percentage of infested fruits.",
+            "Average marketable yield.",
+            "Previous control costs.",
+            "Chemical groups used.",
+            "Status of natural enemies.",
+            "Cases of residue exceedance or shipment rejection."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation level before programme initiation.",
+            "[[prepared]]Infestation history in previous seasons.",
+            "[[prepared]]Average number of conventional sprays.",
+            "[[prepared]]Previous percentage of infested fruits.",
+            "[[prepared]]Average marketable yield.",
+            "[[prepared]]Previous control costs.",
+            "[[prepared]]Chemical groups used.",
+            "[[prepared]]Status of natural enemies.",
+            "[[prepared]]Cases of residue exceedance or shipment rejection."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The baseline is used for comparison with the results of the new programme.",
+          "prepared_text": "[[prepared]]The baseline is used for comparison with the results of the new programme."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Selecting an Appropriate Comparison"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The programme may be compared with:",
+          "prepared_text": "[[prepared]]The programme may be compared with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An untreated sector in a research trial.",
+            "The grower’s conventional programme.",
+            "A traditional chemical programme.",
+            "An alternative IPM programme.",
+            "Data from the previous season.",
+            "The mean of several similar fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]An untreated sector in a research trial.",
+            "[[prepared]]The grower’s conventional programme.",
+            "[[prepared]]A traditional chemical programme.",
+            "[[prepared]]An alternative [[term:ipm]]IPM[[/term]] programme.",
+            "[[prepared]]Data from the previous season.",
+            "[[prepared]]The mean of several similar fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The comparison should be similar in:",
+          "prepared_text": "[[prepared]]The comparison should be similar in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cultivar.",
+            "Transplanting date.",
+            "Plant density.",
+            "Soil.",
+            "Irrigation and fertilization.",
+            "Crop stage.",
+            "Climatic conditions.",
+            "Pest pressure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Transplanting date.",
+            "[[prepared]]Plant density.",
+            "[[prepared]]Soil.",
+            "[[prepared]]Irrigation and fertilization.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Climatic conditions.",
+            "[[prepared]]Pest pressure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Yield differences should not be attributed to the Tuta programme when sectors differ substantially in irrigation, fertility, or cultivar.",
+          "prepared_text": "[[prepared]]Yield differences should not be attributed to the Tuta programme when sectors differ substantially in irrigation, fertility, or cultivar."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Difference Between a Research Trial and Commercial Evaluation"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Research Trial"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This requires:",
+          "prepared_text": "[[prepared]]This requires:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Defined treatments.",
+            "An appropriate control.",
+            "Replication.",
+            "Randomization.",
+            "Statistical analysis.",
+            "A fixed protocol."
+          ],
+          "prepared_items": [
+            "[[prepared]]Defined treatments.",
+            "[[prepared]]An appropriate control.",
+            "[[prepared]]Replication.",
+            "[[prepared]]Randomization.",
+            "[[prepared]]Statistical analysis.",
+            "[[prepared]]A fixed protocol."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Commercial Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This focuses on:",
+          "prepared_text": "[[prepared]]This focuses on:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Infestation trend.",
+            "Comparison with historical data.",
+            "Differences among sectors.",
+            "Actual cost.",
+            "Accepted yield.",
+            "Causes of success or failure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Infestation trend.",
+            "[[prepared]]Comparison with historical data.",
+            "[[prepared]]Differences among sectors.",
+            "[[prepared]]Actual cost.",
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Causes of success or failure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A non-replicated commercial evaluation cannot prove causality to the same degree as a controlled experiment, but it remains important for practical decision-making.",
+          "prepared_text": "[[prepared]]A non-replicated commercial evaluation cannot prove causality to the same degree as a controlled experiment, but it remains important for practical decision-making."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "First: Biological Indicators"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pheromone-Trap Catch"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is used to evaluate:",
+          "prepared_text": "[[prepared]]This is used to evaluate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Beginning of male activity.",
+            "Increasing or decreasing trends.",
+            "Migration waves.",
+            "Differences between edges and interior.",
+            "Effects of removing an old field.",
+            "Success of mating disruption through reduced access to traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Beginning of male activity.",
+            "[[prepared]]Increasing or decreasing trends.",
+            "[[prepared]]Migration waves.",
+            "[[prepared]]Differences between edges and interior.",
+            "[[prepared]]Effects of removing an old field.",
+            "[[prepared]]Success of mating disruption through reduced access to traps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should not be used alone to measure final efficacy because:",
+          "prepared_text": "[[prepared]]It should not be used alone to measure final efficacy because:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The trap targets males.",
+            "Catch is affected by lure strength.",
+            "Catch may decline under mating disruption without mating stopping completely.",
+            "Trap catch may increase while plant infestation remains limited.",
+            "Fertilized females may still be present despite low male catch."
+          ],
+          "prepared_items": [
+            "[[prepared]]The trap targets males.",
+            "[[prepared]]Catch is affected by lure strength.",
+            "[[prepared]]Catch may decline under mating disruption without mating stopping completely.",
+            "[[prepared]]Trap catch may increase while plant infestation remains limited.",
+            "[[prepared]]Fertilized females may still be present despite low male catch."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When exposure periods differ, results should be expressed as:",
+          "prepared_text": "[[prepared]]When exposure periods differ, results should be expressed as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Males/trap/day"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Egg Density"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is measured using:",
+          "prepared_text": "[[prepared]]This is measured using:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Eggs per plant.",
+            "Eggs per leaf or group of leaves.",
+            "Percentage of plants carrying eggs.",
+            "Number of eggs on field edges compared with the interior."
+          ],
+          "prepared_items": [
+            "[[prepared]]Eggs per plant.",
+            "[[prepared]]Eggs per leaf or group of leaves.",
+            "[[prepared]]Percentage of plants carrying eggs.",
+            "[[prepared]]Number of eggs on field edges compared with the interior."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is useful for:",
+          "prepared_text": "[[prepared]]It is useful for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Assessing oviposition pressure.",
+            "Timing egg-parasitoid releases.",
+            "Estimating the hatching wave.",
+            "Evaluating success of mating prevention."
+          ],
+          "prepared_items": [
+            "[[prepared]]Assessing oviposition pressure.",
+            "[[prepared]]Timing egg-parasitoid releases.",
+            "[[prepared]]Estimating the hatching wave.",
+            "[[prepared]]Evaluating success of mating prevention."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be distinguished:",
+          "prepared_text": "[[prepared]]The following should be distinguished:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Viable eggs.",
+            "Hatched eggs.",
+            "Parasitized eggs.",
+            "Dead eggs.",
+            "Empty eggshells."
+          ],
+          "prepared_items": [
+            "[[prepared]]Viable eggs.",
+            "[[prepared]]Hatched eggs.",
+            "[[prepared]]Parasitized eggs.",
+            "[[prepared]]Dead eggs.",
+            "[[prepared]]Empty eggshells."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Egg-Parasitism Percentage"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is calculated as:",
+          "prepared_text": "[[prepared]]This is calculated as:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Egg parasitism (%) = Number of parasitized eggs ÷ Total evaluable eggs × 100",
+          "prepared_text": "[[prepared]]Egg parasitism (%) = Number of parasitized eggs ÷ Total evaluable eggs × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Old eggshells or eggs of indeterminate status should not be included in the denominator without explanation.",
+          "prepared_text": "[[prepared]]Old eggshells or eggs of indeterminate status should not be included in the denominator without explanation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Successful parasitism should preferably be confirmed through:",
+          "prepared_text": "[[prepared]]Successful parasitism should preferably be confirmed through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Change in egg colour.",
+            "Parasitoid emergence.",
+            "Presence of a characteristic exit hole.",
+            "Laboratory holding of samples where necessary."
+          ],
+          "prepared_items": [
+            "[[prepared]]Change in egg colour.",
+            "[[prepared]]Parasitoid emergence.",
+            "[[prepared]]Presence of a characteristic exit hole.",
+            "[[prepared]]Laboratory holding of samples where necessary."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A high parasitism percentage does not necessarily mean the programme succeeded when total egg density is extremely high, because a large absolute number of viable eggs may remain.",
+          "prepared_text": "[[prepared]]A high parasitism percentage does not necessarily mean the programme succeeded when total egg density is extremely high, because a large absolute number of viable eggs may remain."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Example:",
+          "prepared_text": "[[prepared]]Example:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "80% parasitism of 10 eggs/plant leaves two viable eggs.",
+            "50% parasitism of one egg/plant leaves only 0.5 egg."
+          ],
+          "prepared_items": [
+            "[[prepared]]80% parasitism of 10 eggs/plant leaves two viable eggs.",
+            "[[prepared]]50% parasitism of one egg/plant leaves only 0.5 egg."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The absolute number of surviving eggs should therefore be evaluated together with the percentage.",
+          "prepared_text": "[[prepared]]The absolute number of surviving eggs should therefore be evaluated together with the percentage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Active Mines"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Active mines are more informative than the total number of visible mines.",
+          "prepared_text": "[[prepared]]Active mines are more informative than the total number of visible mines."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An active mine is usually characterized by one or more of the following:",
+          "prepared_text": "[[prepared]]An active mine is usually characterized by one or more of the following:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A live larva.",
+            "Fresh frass.",
+            "Moist or recently damaged tissue.",
+            "Increase in mine area between two visits.",
+            "A fresh, non-dry edge."
+          ],
+          "prepared_items": [
+            "[[prepared]]A live larva.",
+            "[[prepared]]Fresh [[term:frass]]frass[[/term]].",
+            "[[prepared]]Moist or recently damaged tissue.",
+            "[[prepared]]Increase in mine area between two visits.",
+            "[[prepared]]A fresh, non-dry edge."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Old mines may remain visible after:",
+          "prepared_text": "[[prepared]]Old mines may remain visible after:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval death.",
+            "Larval exit.",
+            "Parasitism.",
+            "Successful treatment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larval death.",
+            "[[prepared]]Larval exit.",
+            "[[prepared]]Parasitism.",
+            "[[prepared]]Successful treatment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The indicator may be expressed as:",
+          "prepared_text": "[[prepared]]The indicator may be expressed as:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Active mines/plant"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Or:",
+          "prepared_text": "[[prepared]]Or:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Percentage of plants with active mines"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Live Larvae"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larvae should be classified as:",
+          "prepared_text": "[[prepared]]Larvae should be classified as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "L1.",
+            "L2.",
+            "L3.",
+            "L4."
+          ],
+          "prepared_items": [
+            "[[prepared]]L1.",
+            "[[prepared]]L2.",
+            "[[prepared]]L3.",
+            "[[prepared]]L4."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Larval-age distribution helps evaluate:",
+          "prepared_text": "[[prepared]]Larval-age distribution helps evaluate:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Timing of infestation entry.",
+            "Success of hatching-stage targeting.",
+            "Cause of treatment failure.",
+            "Persistence of the generation.",
+            "Risk of fruit entry."
+          ],
+          "prepared_items": [
+            "[[prepared]]Timing of infestation entry.",
+            "[[prepared]]Success of hatching-stage targeting.",
+            "[[prepared]]Cause of treatment failure.",
+            "[[prepared]]Persistence of the generation.",
+            "[[prepared]]Risk of fruit entry."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A high proportion of L3 and L4 after a programme intended to target hatching indicates:",
+          "prepared_text": "[[prepared]]A high proportion of L3 and L4 after a programme intended to target hatching indicates:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Delayed intervention.",
+            "Poor coverage.",
+            "Inadequate inspection.",
+            "Possible resistance.",
+            "Immigration or undetected hatching waves."
+          ],
+          "prepared_items": [
+            "[[prepared]]Delayed intervention.",
+            "[[prepared]]Poor coverage.",
+            "[[prepared]]Inadequate inspection.",
+            "[[prepared]]Possible resistance.",
+            "[[prepared]]Immigration or undetected hatching waves."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Growing-Point and Stem Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be recorded:",
+          "prepared_text": "[[prepared]]The following should be recorded:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage of infested growing points.",
+            "Number of bored stems.",
+            "Number of plants that lost the growing point.",
+            "Presence of compensatory lateral growth."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage of infested growing points.",
+            "[[prepared]]Number of bored stems.",
+            "[[prepared]]Number of plants that lost the growing point.",
+            "[[prepared]]Presence of compensatory lateral growth."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is particularly important in:",
+          "prepared_text": "[[prepared]]This is particularly important in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Transplants.",
+            "Young plants.",
+            "Determinate cultivars.",
+            "Stages before full fruit set."
+          ],
+          "prepared_items": [
+            "[[prepared]]Transplants.",
+            "[[prepared]]Young plants.",
+            "[[prepared]]Determinate cultivars.",
+            "[[prepared]]Stages before full fruit set."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infestation of a small number of growing points may be more damaging than a larger number of small mines in old lower leaves.",
+          "prepared_text": "[[prepared]]Infestation of a small number of growing points may be more damaging than a larger number of small mines in old lower leaves."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fruit Infestation by Number"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is calculated as:",
+          "prepared_text": "[[prepared]]This is calculated as:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fruit infestation by number (%) = Number of Tuta-infested fruits ÷ Total fruits examined × 100",
+          "prepared_text": "[[prepared]]Fruit infestation by number (%) = Number of Tuta-infested fruits ÷ Total fruits examined × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Infested fruits include:",
+          "prepared_text": "[[prepared]]Infested fruits include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fruits with a confirmed entry or exit hole.",
+            "Fruits containing a larva.",
+            "Fruits with an internal tunnel.",
+            "Fruits rotted because of the infestation wound when the rot can be linked to Tuta."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruits with a confirmed entry or exit hole.",
+            "[[prepared]]Fruits containing a larva.",
+            "[[prepared]]Fruits with an internal tunnel.",
+            "[[prepared]]Fruits rotted because of the infestation wound when the rot can be linked to Tuta."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should preferably be recorded separately:",
+          "prepared_text": "[[prepared]]The following should preferably be recorded separately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Active infestation.",
+            "Old infestation.",
+            "Infestation with rot.",
+            "Fruits containing live larvae."
+          ],
+          "prepared_items": [
+            "[[prepared]][[term:infestation-status]]Active infestation[[/term]].",
+            "[[prepared]]Old infestation.",
+            "[[prepared]]Infestation with rot.",
+            "[[prepared]]Fruits containing live larvae."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fruit Infestation by Weight"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is calculated as:",
+          "prepared_text": "[[prepared]]This is calculated as:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Weight loss caused by Tuta (%) = Weight of infested and rejected fruits ÷ Total sample weight × 100",
+          "prepared_text": "[[prepared]]Weight loss caused by Tuta (%) = Weight of infested and rejected fruits ÷ Total sample weight × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The result may differ from numerical fruit infestation when infested fruits are:",
+          "prepared_text": "[[prepared]]The result may differ from numerical fruit infestation when infested fruits are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Smaller than average.",
+            "Larger than average.",
+            "Partially damaged.",
+            "Completely rejected despite retaining most of their weight."
+          ],
+          "prepared_items": [
+            "[[prepared]]Smaller than average.",
+            "[[prepared]]Larger than average.",
+            "[[prepared]]Partially damaged.",
+            "[[prepared]]Completely rejected despite retaining most of their weight."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Both indicators should be used together.",
+          "prepared_text": "[[prepared]]Both indicators should be used together."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Total Yield and Marketable Yield"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Total Yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The total weight of harvested fruits, including fruits that may later be rejected.",
+          "prepared_text": "[[prepared]]The total weight of harvested fruits, including fruits that may later be rejected."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Marketable Yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The weight of fruits meeting market or factory specifications.",
+          "prepared_text": "[[prepared]]The weight of fruits meeting market or factory specifications."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Total yield may remain high despite major economic loss when some fruits carry small holes that make them unacceptable.",
+          "prepared_text": "[[prepared]]Total yield may remain high despite major economic loss when some fruits carry small holes that make them unacceptable."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Therefore:",
+          "prepared_text": "[[prepared]]Therefore:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Marketable or processable accepted yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Is the most important economic yield indicator, rather than total yield alone.",
+          "prepared_text": "[[prepared]]Is the most important economic yield indicator, rather than total yield alone."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Conversion to Accepted Yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Acceptance rate (%) = Weight of accepted fruits ÷ Total harvested fruit weight × 100",
+          "prepared_text": "[[prepared]]Acceptance rate (%) = Weight of accepted fruits ÷ Total harvested fruit weight × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "And:",
+          "prepared_text": "[[prepared]]And:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Rejection rate (%) = 100 − Acceptance rate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reasons for rejection should be identified separately:",
+          "prepared_text": "[[prepared]]Reasons for rejection should be identified separately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tuta absoluta.",
+            "Rots.",
+            "Sun injury.",
+            "Colour defects.",
+            "Unripe fruits.",
+            "Mechanical damage.",
+            "Other defects."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tuta absoluta.",
+            "[[prepared]]Rots.",
+            "[[prepared]]Sun injury.",
+            "[[prepared]]Colour defects.",
+            "[[prepared]]Unripe fruits.",
+            "[[prepared]]Mechanical damage.",
+            "[[prepared]]Other defects."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This prevents all rejected fruits from being attributed to the pest.",
+          "prepared_text": "[[prepared]]This prevents all rejected fruits from being attributed to the pest."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Second: Quality Indicators"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Processing-Tomato Quality"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Depending on factory requirements, evaluation may include:",
+          "prepared_text": "[[prepared]]Depending on factory requirements, evaluation may include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage of infested fruits.",
+            "Rotted fruits.",
+            "Foreign material.",
+            "Colour grade.",
+            "°Brix.",
+            "Texture.",
+            "Percentage of green or unripe fruits.",
+            "Permitted defect level.",
+            "Acceptance percentage at reception."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage of infested fruits.",
+            "[[prepared]]Rotted fruits.",
+            "[[prepared]]Foreign material.",
+            "[[prepared]]Colour grade.",
+            "[[prepared]][[term:brix-tss]]°Brix[[/term]].",
+            "[[prepared]]Texture.",
+            "[[prepared]]Percentage of green or unripe fruits.",
+            "[[prepared]]Permitted defect level.",
+            "[[prepared]]Acceptance percentage at reception."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tuta absoluta should not be assumed to reduce °Brix directly in all cases. Its principal economic effects may instead occur through:",
+          "prepared_text": "[[prepared]]Tuta absoluta should not be assumed to reduce °Brix directly in all cases. Its principal economic effects may instead occur through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fruit rejection.",
+            "Secondary rots.",
+            "Reduced fruit integrity.",
+            "Increased sorting and waste."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fruit rejection.",
+            "[[prepared]]Secondary rots.",
+            "[[prepared]]Reduced fruit integrity.",
+            "[[prepared]]Increased sorting and waste."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fresh-Market Tomato Quality"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Market value can be strongly reduced even by limited superficial infestation because of:",
+          "prepared_text": "[[prepared]]Market value can be strongly reduced even by limited superficial infestation because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Reduced appearance.",
+            "Possibility of a larva inside the fruit.",
+            "Rots.",
+            "Loss of confidence in the consignment.",
+            "Difficulty detecting all infested fruits during grading."
+          ],
+          "prepared_items": [
+            "[[prepared]]Reduced appearance.",
+            "[[prepared]]Possibility of a larva inside the fruit.",
+            "[[prepared]]Rots.",
+            "[[prepared]]Loss of confidence in the consignment.",
+            "[[prepared]]Difficulty detecting all infested fruits during grading."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tolerance in the fresh market may therefore be lower than in processing tomatoes, depending on buyer specifications.",
+          "prepared_text": "[[prepared]]Tolerance in the fresh market may therefore be lower than in processing tomatoes, depending on buyer specifications."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Crop Safety and Residues"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Record:",
+          "prepared_text": "[[prepared]]Record:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of active ingredients detected.",
+            "Concentration of each residue.",
+            "Comparison with legal and commercial limits.",
+            "Compliance with preharvest intervals.",
+            "Number of materials not accepted by the target market.",
+            "Exceedance cases.",
+            "Shipment rejections."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of active ingredients detected.",
+            "[[prepared]]Concentration of each residue.",
+            "[[prepared]]Comparison with legal and commercial limits.",
+            "[[prepared]]Compliance with preharvest intervals.",
+            "[[prepared]]Number of materials not accepted by the target market.",
+            "[[prepared]]Exceedance cases.",
+            "[[prepared]]Shipment rejections."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme is not successful if it suppresses Tuta but causes:",
+          "prepared_text": "[[prepared]]A programme is not successful if it suppresses Tuta but causes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "MRL exceedance.",
+            "Use of an unregistered material.",
+            "Rejection by the factory or market.",
+            "Repeated use of a large number of active ingredients."
+          ],
+          "prepared_items": [
+            "[[prepared]][[term:pesticide-safety]]MRL[[/term]] exceedance.",
+            "[[prepared]]Use of an unregistered material.",
+            "[[prepared]]Rejection by the factory or market.",
+            "[[prepared]]Repeated use of a large number of active ingredients."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Third: Natural-Enemy and Sustainability Indicators"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Predator Density"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This should be measured using fixed units such as:",
+          "prepared_text": "[[prepared]]This should be measured using fixed units such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Predators/plant.",
+            "Nymphs/plant.",
+            "Percentage of plants carrying a predator.",
+            "Predators per defined number of leaves."
+          ],
+          "prepared_items": [
+            "[[prepared]]Predators/plant.",
+            "[[prepared]]Nymphs/plant.",
+            "[[prepared]]Percentage of plants carrying a predator.",
+            "[[prepared]]Predators per defined number of leaves."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be recorded separately:",
+          "prepared_text": "[[prepared]]The following should be recorded separately:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Adults.",
+            "Nymphs.",
+            "Different species."
+          ],
+          "prepared_items": [
+            "[[prepared]]Adults.",
+            "[[prepared]]Nymphs.",
+            "[[prepared]]Different species."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Presence of nymphs indicates reproduction and establishment, whereas adults alone may represent recently released individuals.",
+          "prepared_text": "[[prepared]]Presence of nymphs indicates reproduction and establishment, whereas adults alone may represent recently released individuals."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Larval Parasitoids"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These are assessed through:",
+          "prepared_text": "[[prepared]]These are assessed through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Parasitism percentage.",
+            "Number of cocoons.",
+            "Number of emerged parasitoids.",
+            "Host mortality resulting from host feeding.",
+            "Species diversity."
+          ],
+          "prepared_items": [
+            "[[prepared]]Parasitism percentage.",
+            "[[prepared]]Number of cocoons.",
+            "[[prepared]]Number of emerged parasitoids.",
+            "[[prepared]]Host mortality resulting from host feeding.",
+            "[[prepared]]Species diversity."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Every dead larva should not be classified as parasitized without confirmation.",
+          "prepared_text": "[[prepared]]Every dead larva should not be classified as parasitized without confirmation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Natural-Enemy Retention"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A simple index may be calculated as:",
+          "prepared_text": "[[prepared]]A simple index may be calculated as:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Natural-enemy retention (%) = Natural-enemy density after intervention ÷ Density before intervention × 100",
+          "prepared_text": "[[prepared]]Natural-enemy retention (%) = Natural-enemy density after intervention ÷ Density before intervention × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This should be interpreted cautiously because density is also affected by:",
+          "prepared_text": "[[prepared]]This should be interpreted cautiously because density is also affected by:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Movement.",
+            "Changes in prey abundance.",
+            "Temperature.",
+            "Crop stage.",
+            "Immigration."
+          ],
+          "prepared_items": [
+            "[[prepared]]Movement.",
+            "[[prepared]]Changes in prey abundance.",
+            "[[prepared]]Temperature.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Immigration."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is more informative when compared with a reference sector or time series.",
+          "prepared_text": "[[prepared]]It is more informative when compared with a reference sector or time series."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Number of Chemical Applications"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Record:",
+          "prepared_text": "[[prepared]]Record:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Total number of sprays.",
+            "Number of sprays targeting Tuta.",
+            "Number of sprays targeting other pests that also exposed Tuta to the active ingredient.",
+            "Number of IRAC groups.",
+            "Number of repetitions of each group.",
+            "Number of mixtures."
+          ],
+          "prepared_items": [
+            "[[prepared]]Total number of sprays.",
+            "[[prepared]]Number of sprays targeting Tuta.",
+            "[[prepared]]Number of sprays targeting other pests that also exposed Tuta to the [[term:active-ingredient]]active ingredient[[/term]].",
+            "[[prepared]]Number of [[term:irac]]IRAC groups[[/term]].",
+            "[[prepared]]Number of repetitions of each group.",
+            "[[prepared]]Number of mixtures."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Compare the programme with:",
+          "prepared_text": "[[prepared]]Compare the programme with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Previous practice.",
+            "A conventional field.",
+            "The seasonal plan."
+          ],
+          "prepared_items": [
+            "[[prepared]]Previous practice.",
+            "[[prepared]]A conventional field.",
+            "[[prepared]]The seasonal plan."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduced spray number should not be considered successful when fruit infestation or economic losses increase unacceptably.",
+          "prepared_text": "[[prepared]]Reduced spray number should not be considered successful when fruit infestation or economic losses increase unacceptably."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pesticide-Pressure Index"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A project may develop an internal index assigning points to each application according to:",
+          "prepared_text": "[[prepared]]A project may develop an internal index assigning points to each application according to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Breadth of activity.",
+            "Residual duration.",
+            "Effects on natural enemies.",
+            "Repetition of the IRAC group.",
+            "Proximity to harvest.",
+            "Actual need for treatment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Breadth of activity.",
+            "[[prepared]]Residual duration.",
+            "[[prepared]]Effects on natural enemies.",
+            "[[prepared]]Repetition of the IRAC group.",
+            "[[prepared]]Proximity to harvest.",
+            "[[prepared]]Actual need for treatment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This index should not be treated as a legal standard, but as a tool for comparing programmes and seasons.",
+          "prepared_text": "[[prepared]]This index should not be treated as a legal standard, but as a tool for comparing programmes and seasons."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Insecticide-Resistance Indicators"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Repetition of the same group.",
+            "Reduced mortality after application.",
+            "Increased numbers of surviving larvae.",
+            "Increased LC50.",
+            "Resistance ratio, RR.",
+            "Frequency of known mutations.",
+            "Increased detoxification-enzyme activity.",
+            "Number of confirmed failure cases."
+          ],
+          "prepared_items": [
+            "[[prepared]]Repetition of the same group.",
+            "[[prepared]]Reduced mortality after application.",
+            "[[prepared]]Increased numbers of surviving larvae.",
+            "[[prepared]]Increased LC50.",
+            "[[prepared]]Resistance ratio, RR.",
+            "[[prepared]]Frequency of known mutations.",
+            "[[prepared]]Increased detoxification-enzyme activity.",
+            "[[prepared]]Number of confirmed failure cases."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Preserving pest susceptibility can be considered a long-term economic benefit, even when its full value is not realized within one season.",
+          "prepared_text": "[[prepared]]Preserving pest susceptibility can be considered a long-term economic benefit, even when its full value is not realized within one season."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fourth: Operational Indicators"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Compliance with Inspection Rounds"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inspection compliance (%) = Number of rounds completed on schedule ÷ Number of planned rounds × 100",
+          "prepared_text": "[[prepared]]Inspection compliance (%) = Number of rounds completed on schedule ÷ Number of planned rounds × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Also record:",
+          "prepared_text": "[[prepared]]Also record:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Delayed rounds.",
+            "Uninspected sectors.",
+            "Incomplete samples.",
+            "Differences among inspectors."
+          ],
+          "prepared_items": [
+            "[[prepared]]Delayed rounds.",
+            "[[prepared]]Uninspected sectors.",
+            "[[prepared]]Incomplete samples.",
+            "[[prepared]]Differences among inspectors."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Programme failure may result from poor implementation rather than weakness of the scientific components.",
+          "prepared_text": "[[prepared]]Programme failure may result from poor implementation rather than weakness of the scientific components."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Quality of Trap Data"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Indicators include:",
+          "prepared_text": "[[prepared]]Indicators include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage of functioning traps.",
+            "Percentage of traps with sound lures.",
+            "Percentage of readings completed on schedule.",
+            "Dry or saturated traps.",
+            "Actual exposure period.",
+            "Number of lost traps."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage of functioning traps.",
+            "[[prepared]]Percentage of traps with sound lures.",
+            "[[prepared]]Percentage of readings completed on schedule.",
+            "[[prepared]]Dry or saturated traps.",
+            "[[prepared]]Actual exposure period.",
+            "[[prepared]]Number of lost traps."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Trap-network operational efficiency (%) = Number of traps suitable for reading ÷ Total number of planned traps × 100",
+          "prepared_text": "[[prepared]]Trap-network operational efficiency (%) = Number of traps suitable for reading ÷ Total number of planned traps × 100"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Accuracy of Intervention Timing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The time may be measured between:",
+          "prepared_text": "[[prepared]]The time may be measured between:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "First egg detection.",
+            "Application of a hatching-targeted intervention."
+          ],
+          "prepared_items": [
+            "[[prepared]]First egg detection.",
+            "[[prepared]]Application of a hatching-targeted intervention."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Or between:",
+          "prepared_text": "[[prepared]]Or between:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Exceedance of the intervention threshold.",
+            "Implementation of treatment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Exceedance of the intervention threshold.",
+            "[[prepared]]Implementation of treatment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The longer the delay, the greater the likelihood of:",
+          "prepared_text": "[[prepared]]The longer the delay, the greater the likelihood of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval entry into plant tissues.",
+            "Need for a stronger product.",
+            "Fruit infestation.",
+            "Higher cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larval entry into plant tissues.",
+            "[[prepared]]Need for a stronger product.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Higher cost."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Spray-Application Quality"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is evaluated through:",
+          "prepared_text": "[[prepared]]This is evaluated through:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Sprayer calibration.",
+            "Nozzle uniformity.",
+            "Spray-water volume.",
+            "Coverage of lower leaf surfaces.",
+            "Coverage of growing points.",
+            "Operating speed.",
+            "Weather conditions.",
+            "Percentage of the area not adequately covered."
+          ],
+          "prepared_items": [
+            "[[prepared]]Sprayer calibration.",
+            "[[prepared]]Nozzle uniformity.",
+            "[[prepared]]Spray-water volume.",
+            "[[prepared]]Coverage of lower leaf surfaces.",
+            "[[prepared]]Coverage of growing points.",
+            "[[prepared]]Operating speed.",
+            "[[prepared]]Weather conditions.",
+            "[[prepared]]Percentage of the area not adequately covered."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A result should not be attributed to the active ingredient unless delivery to the target sites has been demonstrated.",
+          "prepared_text": "[[prepared]]A result should not be attributed to the active ingredient unless delivery to the target sites has been demonstrated."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Implementation of Residue Removal"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Measure:",
+          "prepared_text": "[[prepared]]Measure:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Time between final harvest and crop termination.",
+            "Percentage of remaining fruits collected.",
+            "Percentage of the area shredded.",
+            "Residue-treatment method.",
+            "Presence of regrowth.",
+            "Trap catch after crop removal."
+          ],
+          "prepared_items": [
+            "[[prepared]]Time between final harvest and crop termination.",
+            "[[prepared]]Percentage of remaining fruits collected.",
+            "[[prepared]]Percentage of the area shredded.",
+            "[[prepared]]Residue-treatment method.",
+            "[[prepared]]Presence of regrowth.",
+            "[[prepared]]Trap catch after crop removal."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Delayed removal indicates increased risk of the field becoming a source.",
+          "prepared_text": "[[prepared]]Delayed removal indicates increased risk of the field becoming a source."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Fifth: Economic Evaluation"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Concept of Economic Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Economic analysis determines whether the monetary value of losses prevented by the programme exceeds the cost of implementation.",
+          "prepared_text": "[[prepared]]Economic analysis determines whether the monetary value of losses prevented by the programme exceeds the cost of implementation."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme may be more entomologically effective yet:",
+          "prepared_text": "[[prepared]]A programme may be more entomologically effective yet:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Too expensive.",
+            "Labour intensive.",
+            "Unsuitable for the target market.",
+            "Difficult to apply on large areas.",
+            "Unprofitable during a low-price season."
+          ],
+          "prepared_items": [
+            "[[prepared]]Too expensive.",
+            "[[prepared]]Labour intensive.",
+            "[[prepared]]Unsuitable for the target market.",
+            "[[prepared]]Difficult to apply on large areas.",
+            "[[prepared]]Unprofitable during a low-price season."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Conversely, a programme with higher direct costs may be more profitable when it:",
+          "prepared_text": "[[prepared]]Conversely, a programme with higher direct costs may be more profitable when it:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increases accepted yield.",
+            "Reduces rejection.",
+            "Reduces later sprays.",
+            "Protects a high-value market.",
+            "Prevents residue exceedance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increases accepted yield.",
+            "[[prepared]]Reduces rejection.",
+            "[[prepared]]Reduces later sprays.",
+            "[[prepared]]Protects a high-value market.",
+            "[[prepared]]Prevents residue exceedance."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Direct Costs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Traps.",
+            "Lures.",
+            "Parasitoid cards.",
+            "Predators.",
+            "Supplementary food.",
+            "Microbial products.",
+            "Insecticides.",
+            "Adjuvants.",
+            "Labour.",
+            "Fuel and spray equipment.",
+            "Personal protective equipment.",
+            "Collection of infested fruits.",
+            "Residue shredding.",
+            "Residue analyses.",
+            "Susceptibility tests."
+          ],
+          "prepared_items": [
+            "[[prepared]]Traps.",
+            "[[prepared]]Lures.",
+            "[[prepared]]Parasitoid cards.",
+            "[[prepared]]Predators.",
+            "[[prepared]]Supplementary food.",
+            "[[prepared]]Microbial products.",
+            "[[prepared]]Insecticides.",
+            "[[prepared]]Adjuvants.",
+            "[[prepared]]Labour.",
+            "[[prepared]]Fuel and spray equipment.",
+            "[[prepared]]Personal protective equipment.",
+            "[[prepared]]Collection of infested fruits.",
+            "[[prepared]]Residue shredding.",
+            "[[prepared]]Residue analyses.",
+            "[[prepared]]Susceptibility tests."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Labour cost should be included even when permanent farm workers perform the work, because labour is an economic resource used by the programme.",
+          "prepared_text": "[[prepared]]Labour cost should be included even when permanent farm workers perform the work, because labour is an economic resource used by the programme."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Indirect Costs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Management and supervision time.",
+            "Training.",
+            "Delays to other agricultural operations.",
+            "Damage to natural enemies.",
+            "Insecticide resistance.",
+            "Risk of crop rejection.",
+            "Equipment contamination.",
+            "Cost of re-establishing predator populations.",
+            "Losses imposed on neighbouring fields by unmanaged residues."
+          ],
+          "prepared_items": [
+            "[[prepared]]Management and supervision time.",
+            "[[prepared]]Training.",
+            "[[prepared]]Delays to other agricultural operations.",
+            "[[prepared]]Damage to natural enemies.",
+            "[[prepared]][[term:resistance]]Insecticide resistance[[/term]].",
+            "[[prepared]]Risk of crop rejection.",
+            "[[prepared]]Equipment contamination.",
+            "[[prepared]]Cost of re-establishing predator populations.",
+            "[[prepared]]Losses imposed on neighbouring fields by unmanaged residues."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some of these costs are difficult to quantify precisely but should not be ignored when programmes are compared.",
+          "prepared_text": "[[prepared]]Some of these costs are difficult to quantify precisely but should not be ignored when programmes are compared."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Direct Benefits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Increased marketable yield.",
+            "Reduced fruit infestation.",
+            "Reduced rots.",
+            "Reduced rejection.",
+            "Higher value of better grades.",
+            "Fewer chemical applications.",
+            "Reduced sorting cost.",
+            "Reduced corrective labour.",
+            "Protection of late harvests."
+          ],
+          "prepared_items": [
+            "[[prepared]]Increased marketable yield.",
+            "[[prepared]]Reduced fruit infestation.",
+            "[[prepared]]Reduced rots.",
+            "[[prepared]]Reduced rejection.",
+            "[[prepared]]Higher value of better grades.",
+            "[[prepared]]Fewer chemical applications.",
+            "[[prepared]]Reduced sorting cost.",
+            "[[prepared]]Reduced corrective labour.",
+            "[[prepared]]Protection of late harvests."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Long-Term Benefits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These include:",
+          "prepared_text": "[[prepared]]These include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Delayed insecticide resistance.",
+            "Increased natural-enemy abundance.",
+            "Reduced pesticide residues.",
+            "Continued acceptance by the factory or market.",
+            "Improved worker safety.",
+            "Prevention of the field becoming an infestation source.",
+            "Reduced pest pressure in the following season."
+          ],
+          "prepared_items": [
+            "[[prepared]]Delayed insecticide resistance.",
+            "[[prepared]]Increased natural-enemy abundance.",
+            "[[prepared]]Reduced pesticide residues.",
+            "[[prepared]]Continued acceptance by the factory or market.",
+            "[[prepared]]Improved worker safety.",
+            "[[prepared]]Prevention of the field becoming an infestation source.",
+            "[[prepared]]Reduced pest pressure in the following season."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "These benefits are not fully expressed in a one-season calculation but are important when programme sustainability is assessed.",
+          "prepared_text": "[[prepared]]These benefits are not fully expressed in a one-season calculation but are important when programme sustainability is assessed."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Partial Budget Analysis"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Partial Budget Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is used to compare a new programme with the standard practice.",
+          "prepared_text": "[[prepared]]This is used to compare a new programme with the standard practice."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It consists of four elements.",
+          "prepared_text": "[[prepared]]It consists of four elements."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Additional Revenue"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Such as the value of additional accepted yield.",
+          "prepared_text": "[[prepared]]Such as the value of additional accepted yield."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Reduced Costs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Such as the value of sprays that were not applied.",
+          "prepared_text": "[[prepared]]Such as the value of sprays that were not applied."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Additional Costs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Such as the cost of parasitoids, traps, and inspection.",
+          "prepared_text": "[[prepared]]Such as the cost of parasitoids, traps, and inspection."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Lost Revenue"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Such as yield lost because of a slower intervention or land occupied by supporting plants.",
+          "prepared_text": "[[prepared]]Such as yield lost because of a slower intervention or land occupied by supporting plants."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Net economic change = Additional revenue + Reduced costs − Additional costs − Lost revenue",
+          "prepared_text": "[[prepared]]Net economic change = Additional revenue + Reduced costs − Additional costs − Lost revenue"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A positive result indicates that the new programme is economically superior according to the components included.",
+          "prepared_text": "[[prepared]]A positive result indicates that the new programme is economically superior according to the components included."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Gross Revenue"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Gross revenue = Marketable yield × Unit price"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Where price grades exist:",
+          "prepared_text": "[[prepared]]Where price grades exist:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Gross revenue = Sum of weight in each grade × Its price",
+          "prepared_text": "[[prepared]]Gross revenue = Sum of weight in each grade × Its price"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Total yield should not be multiplied by the premium-grade price when part of the crop is rejected or sold at a lower grade.",
+          "prepared_text": "[[prepared]]Total yield should not be multiplied by the premium-grade price when part of the crop is rejected or sold at a lower grade."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Gross Margin"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Gross margin = Gross revenue − Total variable costs"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Total variable costs may include:",
+          "prepared_text": "[[prepared]]Total variable costs may include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crop-protection costs.",
+            "Harvesting.",
+            "Packaging.",
+            "Variable labour.",
+            "Other inputs included in the comparison."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crop-protection costs.",
+            "[[prepared]]Harvesting.",
+            "[[prepared]]Packaging.",
+            "[[prepared]]Variable labour.",
+            "[[prepared]]Other inputs included in the comparison."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When only the Tuta programme is being evaluated, a partial budget may be used instead of recalculating all production costs.",
+          "prepared_text": "[[prepared]]When only the Tuta programme is being evaluated, a partial budget may be used instead of recalculating all production costs."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Benefit–Cost Ratio"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Benefit–Cost Ratio"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This can be calculated using more than one definition, so the equation used should always be stated.",
+          "prepared_text": "[[prepared]]This can be calculated using more than one definition, so the equation used should always be stated."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Overall Ratio"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "BCR = Total benefits ÷ Total costs"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Incremental Ratio for an IPM Programme"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Incremental BCR = Value of avoided losses or additional revenue ÷ Additional programme cost",
+          "prepared_text": "[[prepared]]Incremental BCR = Value of avoided losses or additional revenue ÷ Additional programme cost"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Interpretation:",
+          "prepared_text": "[[prepared]]Interpretation:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Less than 1: calculated benefits are lower than costs.",
+            "Equal to 1: approximate break-even.",
+            "Greater than 1: benefits exceed costs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Less than 1: calculated benefits are lower than costs.",
+            "[[prepared]]Equal to 1: approximate break-even.",
+            "[[prepared]]Greater than 1: benefits exceed costs."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Results from two studies should not be compared unless both use the same definition.",
+          "prepared_text": "[[prepared]]Results from two studies should not be compared unless both use the same definition."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Return on Investment"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Return on Investment"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "ROI (%) = Net return generated by the programme ÷ Programme cost × 100",
+          "prepared_text": "[[prepared]]ROI (%) = Net return generated by the programme ÷ Programme cost × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Or in incremental comparison:",
+          "prepared_text": "[[prepared]]Or in incremental comparison:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Incremental ROI (%) = Incremental net benefit ÷ Incremental cost × 100",
+          "prepared_text": "[[prepared]]Incremental ROI (%) = Incremental net benefit ÷ Incremental cost × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The calculation should state whether programme cost includes:",
+          "prepared_text": "[[prepared]]The calculation should state whether programme cost includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tuta management only.",
+            "Or all crop-production costs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tuta management only.",
+            "[[prepared]]Or all crop-production costs."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cost of Protecting One Accepted Tonne"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cost of protecting one accepted tonne = Total cost of the Tuta programme ÷ Tonnes of accepted yield",
+          "prepared_text": "[[prepared]]Cost of protecting one accepted tonne = Total cost of the Tuta programme ÷ Tonnes of accepted yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is useful for comparing:",
+          "prepared_text": "[[prepared]]This is useful for comparing:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fields.",
+            "Production cycles.",
+            "Chemical and biological programmes.",
+            "Cultivars.",
+            "Areas."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fields.",
+            "[[prepared]]Production cycles.",
+            "[[prepared]]Chemical and biological programmes.",
+            "[[prepared]]Cultivars.",
+            "[[prepared]]Areas."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme with a lower cost per feddan may have a higher cost per tonne when accepted yield is low.",
+          "prepared_text": "[[prepared]]A programme with a lower cost per feddan may have a higher cost per tonne when accepted yield is low."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Cost of Preventing One Kilogram of Loss"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Cost of preventing one kilogram of loss = Additional programme cost ÷ Additional accepted yield",
+          "prepared_text": "[[prepared]]Cost of preventing one kilogram of loss = Additional programme cost ÷ Additional accepted yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The result should be compared with the selling price per kilogram.",
+          "prepared_text": "[[prepared]]The result should be compared with the selling price per kilogram."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When the cost of protecting one kilogram exceeds its market value, the programme needs adjustment unless it provides other important benefits such as:",
+          "prepared_text": "[[prepared]]When the cost of protecting one kilogram exceeds its market value, the programme needs adjustment unless it provides other important benefits such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Protection of an export market.",
+            "Resistance management.",
+            "Residue reduction.",
+            "Protection of the following season."
+          ],
+          "prepared_items": [
+            "[[prepared]]Protection of an export market.",
+            "[[prepared]]Resistance management.",
+            "[[prepared]]Residue reduction.",
+            "[[prepared]]Protection of the following season."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Break-Even Point"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The break-even point is the additional yield required to recover programme cost.",
+          "prepared_text": "[[prepared]]The break-even point is the additional yield required to recover programme cost."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculate:",
+          "prepared_text": "[[prepared]]Calculate:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Additional yield required for break-even = Additional programme cost ÷ Selling price per unit of yield",
+          "prepared_text": "[[prepared]]Additional yield required for break-even = Additional programme cost ÷ Selling price per unit of yield"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "General example:",
+          "prepared_text": "[[prepared]]General example:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "If the additional programme cost is 3,000 monetary units and the price per tonne is 3,000 monetary units:",
+          "prepared_text": "[[prepared]]If the additional programme cost is 3,000 monetary units and the price per tonne is 3,000 monetary units:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Required break-even yield = One additional marketable tonne"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Net price should be used after subtracting additional harvesting and packaging costs associated with the extra yield.",
+          "prepared_text": "[[prepared]]Net price should be used after subtracting additional harvesting and packaging costs associated with the extra yield."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Marginal Rate of Return"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When comparing two programmes:",
+          "prepared_text": "[[prepared]]When comparing two programmes:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Marginal rate of return (%) = Increase in net benefit ÷ Increase in cost × 100",
+          "prepared_text": "[[prepared]]Marginal rate of return (%) = Increase in net benefit ÷ Increase in cost × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This determines whether the additional cost of the more intensive programme is justified by the increased return.",
+          "prepared_text": "[[prepared]]This determines whether the additional cost of the more intensive programme is justified by the increased return."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme does not become economically preferable merely because it produces the highest yield if the additional income is lower than the additional cost.",
+          "prepared_text": "[[prepared]]A programme does not become economically preferable merely because it produces the highest yield if the additional income is lower than the additional cost."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sixth: Economic Damage and Thresholds"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Economic Injury Level Equation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The general equation is:",
+          "prepared_text": "[[prepared]]The general equation is:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "EIL = C ÷ (V × I × D × K)"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Where:",
+          "prepared_text": "[[prepared]]Where:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "EIL = Economic injury level.",
+            "C = Cost of the control action per unit area.",
+            "V = Value per unit of crop.",
+            "I = Injury caused by one pest individual.",
+            "D = Yield loss resulting from one unit of injury.",
+            "K = Proportionate reduction expected from the control measure."
+          ],
+          "prepared_items": [
+            "[[prepared]]EIL = Economic injury level.",
+            "[[prepared]]C = Cost of the control action per unit area.",
+            "[[prepared]]V = Value per unit of crop.",
+            "[[prepared]]I = Injury caused by one pest individual.",
+            "[[prepared]]D = Yield loss resulting from one unit of injury.",
+            "[[prepared]]K = Proportionate reduction expected from the control measure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In studies directly relating pest density to crop loss using one regression slope, the equation can be simplified to:",
+          "prepared_text": "[[prepared]]In studies directly relating pest density to crop loss using one regression slope, the equation can be simplified to:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "EIL = C ÷ (V × b × K)"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Where b is the loss caused by each unit increase in pest density.",
+          "prepared_text": "[[prepared]]Where b is the loss caused by each unit increase in pest density."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The units used should remain consistent.",
+          "prepared_text": "[[prepared]]The units used should remain consistent."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Economic Threshold"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The economic threshold, or intervention threshold, is the pest level at which action should begin before the population reaches the economic injury level.",
+          "prepared_text": "[[prepared]]The [[term:economic-threshold]]economic threshold[[/term]], or intervention threshold, is the pest level at which action should begin before the population reaches the economic injury level."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The threshold is lower than the EIL because it accounts for:",
+          "prepared_text": "[[prepared]]The threshold is lower than the EIL because it accounts for:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Time required to detect the problem.",
+            "Decision-making time.",
+            "Time required to implement intervention.",
+            "Pest population growth rate.",
+            "Speed of action of the control measure.",
+            "Proximity of the crop to a sensitive stage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Time required to detect the problem.",
+            "[[prepared]]Decision-making time.",
+            "[[prepared]]Time required to implement intervention.",
+            "[[prepared]]Pest population growth rate.",
+            "[[prepared]]Speed of action of the control measure.",
+            "[[prepared]]Proximity of the crop to a sensitive stage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "There is no fixed percentage of the EIL that the threshold must equal in every situation.",
+          "prepared_text": "[[prepared]]There is no fixed percentage of the EIL that the threshold must equal in every situation."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Dynamic Nature of Thresholds"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The threshold changes with:",
+          "prepared_text": "[[prepared]]The threshold changes with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Tomato price.",
+            "Control cost.",
+            "Control efficacy.",
+            "Cultivar.",
+            "Crop stage.",
+            "Fresh-market or processing use.",
+            "Factory acceptance percentage.",
+            "Climate.",
+            "Pest-development rate.",
+            "Resistance.",
+            "Natural-enemy abundance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Tomato price.",
+            "[[prepared]]Control cost.",
+            "[[prepared]]Control efficacy.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Fresh-market or processing use.",
+            "[[prepared]]Factory acceptance percentage.",
+            "[[prepared]]Climate.",
+            "[[prepared]]Pest-development rate.",
+            "[[prepared]]Resistance.",
+            "[[prepared]]Natural-enemy abundance."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An increase in crop price generally lowers the amount of damage that can be tolerated, while an increase in control cost may raise the EIL.",
+          "prepared_text": "[[prepared]]An increase in crop price generally lowers the amount of damage that can be tolerated, while an increase in control cost may raise the EIL."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Old or foreign thresholds should therefore not be used automatically.",
+          "prepared_text": "[[prepared]]Old or foreign thresholds should therefore not be used automatically."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Published Threshold Examples"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Studies have produced different values, including:",
+          "prepared_text": "[[prepared]]Studies have produced different values, including:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Approximately 3 larvae/plant as the economic injury level and 2.25 larvae/plant as the intervention threshold in an Ethiopian greenhouse trial.",
+            "Approximately 3.82 larvae/plant as the economic injury level and 2.87 larvae/plant as the intervention threshold in an Ethiopian open-field trial.",
+            "Approximately 5.7–6.3 larvae/plant in a two-season open-field trial in western Iran."
+          ],
+          "prepared_items": [
+            "[[prepared]]Approximately 3 larvae/plant as the economic injury level and 2.25 larvae/plant as the intervention threshold in an Ethiopian greenhouse trial.",
+            "[[prepared]]Approximately 3.82 larvae/plant as the economic injury level and 2.87 larvae/plant as the intervention threshold in an Ethiopian open-field trial.",
+            "[[prepared]]Approximately 5.7–6.3 larvae/plant in a two-season open-field trial in western Iran."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The differences do not necessarily represent contradiction because they reflect differences in:",
+          "prepared_text": "[[prepared]]The differences do not necessarily represent contradiction because they reflect differences in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Cultivar.",
+            "Control costs.",
+            "Crop prices.",
+            "Environment.",
+            "Method of artificial infestation.",
+            "Loss indicator.",
+            "Treatment efficacy."
+          ],
+          "prepared_items": [
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Control costs.",
+            "[[prepared]]Crop prices.",
+            "[[prepared]]Environment.",
+            "[[prepared]]Method of artificial infestation.",
+            "[[prepared]]Loss indicator.",
+            "[[prepared]]Treatment efficacy."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "None of these values should be transferred directly to Egyptian tomatoes without local calibration.",
+          "prepared_text": "[[prepared]]None of these values should be transferred directly to Egyptian tomatoes without local calibration."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Selecting the Damage Indicator"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pest density may be related to:",
+          "prepared_text": "[[prepared]]Pest density may be related to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Total yield.",
+            "Accepted yield.",
+            "Number of infested fruits.",
+            "Weight of infested fruits.",
+            "Number of mines.",
+            "Loss of growing points.",
+            "Rejection percentage."
+          ],
+          "prepared_items": [
+            "[[prepared]]Total yield.",
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Number of infested fruits.",
+            "[[prepared]]Weight of infested fruits.",
+            "[[prepared]]Number of mines.",
+            "[[prepared]]Loss of growing points.",
+            "[[prepared]]Rejection percentage."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "For Tuta absoluta:",
+          "prepared_text": "[[prepared]]For Tuta absoluta:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Number or percentage of infested fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "May be more economically informative than total yield loss because a fruit may retain its weight, yet a small hole may make it unmarketable.",
+          "prepared_text": "[[prepared]]May be more economically informative than total yield loss because a fruit may retain its weight, yet a small hole may make it unmarketable."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Threshold Differences by Crop Stage"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Early Vegetative Growth"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The plant can compensate for limited leaf injury when growing points and fruits remain intact.",
+          "prepared_text": "[[prepared]]The plant can compensate for limited leaf injury when growing points and fruits remain intact."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Flowering and Fruit Set"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tolerance declines because of the risk to growing points and clusters.",
+          "prepared_text": "[[prepared]]Tolerance declines because of the risk to growing points and clusters."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fruit Growth"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Tolerance for larvae close to clusters and fruits becomes lower.",
+          "prepared_text": "[[prepared]]Tolerance for larvae close to clusters and fruits becomes lower."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Near Harvest"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The calculation changes because of:",
+          "prepared_text": "[[prepared]]The calculation changes because of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Limited remaining time.",
+            "Preharvest intervals.",
+            "Value of fruits already present.",
+            "Limited capacity of an intervention to protect a crop close to picking."
+          ],
+          "prepared_items": [
+            "[[prepared]]Limited remaining time.",
+            "[[prepared]]Preharvest intervals.",
+            "[[prepared]]Value of fruits already present.",
+            "[[prepared]]Limited capacity of an intervention to protect a crop close to picking."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One threshold should therefore not be used throughout the season.",
+          "prepared_text": "[[prepared]]One threshold should therefore not be used throughout the season."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Thresholds in Processing and Fresh-Market Tomatoes"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Fresh Market"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Limited infestation may result in complete rejection of a fruit, so tolerance is generally low.",
+          "prepared_text": "[[prepared]]Limited infestation may result in complete rejection of a fruit, so tolerance is generally low."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Processing"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be considered:",
+          "prepared_text": "[[prepared]]The following should be considered:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Factory specifications.",
+            "Defect allowance.",
+            "Rots.",
+            "Larvae.",
+            "Effects of damaged fruit on raw-material quality.",
+            "Sorting cost."
+          ],
+          "prepared_items": [
+            "[[prepared]]Factory specifications.",
+            "[[prepared]]Defect allowance.",
+            "[[prepared]]Rots.",
+            "[[prepared]]Larvae.",
+            "[[prepared]]Effects of damaged fruit on raw-material quality.",
+            "[[prepared]]Sorting cost."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The lower price of processing tomatoes does not mean that high infestation can be tolerated, because a high rejection percentage may make harvesting and transport uneconomic.",
+          "prepared_text": "[[prepared]]The lower price of processing tomatoes does not mean that high infestation can be tolerated, because a high rejection percentage may make harvesting and transport uneconomic."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Seventh: Evaluation of Treatment Efficacy"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Abbott's Formula"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is used when a treatment and an untreated control are present and infestation is measured after treatment.",
+          "prepared_text": "[[prepared]]This is used when a treatment and an untreated control are present and infestation is measured after treatment."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Corrected efficacy according to Abbott (%) = [(Survival in the control − Survival in the treatment) ÷ Survival in the control] × 100",
+          "prepared_text": "[[prepared]]Corrected efficacy according to Abbott (%) = [(Survival in the control − Survival in the treatment) ÷ Survival in the control] × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It is suitable for experiments in which initial pest density does not differ substantially among treatments.",
+          "prepared_text": "[[prepared]]It is suitable for experiments in which initial pest density does not differ substantially among treatments."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Henderson–Tilton Formula"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This is more appropriate when pest numbers before treatment differ among treatments and the control.",
+          "prepared_text": "[[prepared]]This is more appropriate when pest numbers before treatment differ among treatments and the control."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Corrected reduction (%) = [1 − (Pest number after treatment ÷ Pest number before treatment) × (Pest number before treatment in the control ÷ Pest number after treatment in the control)] × 100",
+          "prepared_text": "[[prepared]]Corrected reduction (%) = [1 − (Pest number after treatment ÷ Pest number before treatment) × (Pest number before treatment in the control ÷ Pest number after treatment in the control)] × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It may be used with:",
+          "prepared_text": "[[prepared]]It may be used with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Larval numbers.",
+            "Active mines.",
+            "Appropriate density indicators."
+          ],
+          "prepared_items": [
+            "[[prepared]]Larval numbers.",
+            "[[prepared]]Active mines.",
+            "[[prepared]]Appropriate density indicators."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The equation should not be applied mechanically when sampling units or counting methods differ among visits.",
+          "prepared_text": "[[prepared]]The equation should not be applied mechanically when sampling units or counting methods differ among visits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Reduction in Fruit Infestation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Relative reduction is calculated as:",
+          "prepared_text": "[[prepared]]Relative reduction is calculated as:"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Reduction in fruit infestation (%) = [(Fruit infestation in the comparison − Fruit infestation in the programme) ÷ Fruit infestation in the comparison] × 100",
+          "prepared_text": "[[prepared]]Reduction in fruit infestation (%) = [(Fruit infestation in the comparison − Fruit infestation in the programme) ÷ Fruit infestation in the comparison] × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The comparison should be specified as:",
+          "prepared_text": "[[prepared]]The comparison should be specified as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "An untreated control.",
+            "The grower's programme.",
+            "A previous season.",
+            "A similar field."
+          ],
+          "prepared_items": [
+            "[[prepared]]An untreated control.",
+            "[[prepared]]The grower's programme.",
+            "[[prepared]]A previous season.",
+            "[[prepared]]A similar field."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Evaluation of Speed of Action"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Control tools differ in how rapidly effects appear:",
+          "prepared_text": "[[prepared]]Control tools differ in how rapidly effects appear:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Neuroactive insecticides may rapidly reduce movement and feeding.",
+            "Growth regulators require time until molting.",
+            "Bt stops feeding before complete mortality.",
+            "Fungi and viruses act relatively slowly.",
+            "Parasitoid effects appear within the generation.",
+            "Mating-disruption effects appear in mating and the following generation."
+          ],
+          "prepared_items": [
+            "[[prepared]]Neuroactive insecticides may rapidly reduce movement and feeding.",
+            "[[prepared]]Growth regulators require time until molting.",
+            "[[prepared]]Bt stops feeding before complete mortality.",
+            "[[prepared]]Fungi and viruses act relatively slowly.",
+            "[[prepared]]Parasitoid effects appear within the generation.",
+            "[[prepared]]Mating-disruption effects appear in mating and the following generation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Assessment dates should therefore be selected according to mode of action, and all tools should not be compared after only 24 hours.",
+          "prepared_text": "[[prepared]]Assessment dates should therefore be selected according to [[term:mode-of-action]]mode of action[[/term]], and all tools should not be compared after only 24 hours."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Duration of Protection"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A treatment should not be evaluated at only one time point.",
+          "prepared_text": "[[prepared]]A treatment should not be evaluated at only one time point."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Measure:",
+          "prepared_text": "[[prepared]]Measure:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Speed of onset.",
+            "Maximum efficacy.",
+            "Duration of suppression.",
+            "Time until new mines reappear.",
+            "Need for renewed intervention."
+          ],
+          "prepared_items": [
+            "[[prepared]]Speed of onset.",
+            "[[prepared]]Maximum efficacy.",
+            "[[prepared]]Duration of suppression.",
+            "[[prepared]]Time until new mines reappear.",
+            "[[prepared]]Need for renewed intervention."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "One material may produce rapid high mortality but have a short effect, while another may provide slower but more sustained suppression.",
+          "prepared_text": "[[prepared]]One material may produce rapid high mortality but have a short effect, while another may provide slower but more sustained suppression."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Eighth: Field-Evaluation Design"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Treatment and Replicate"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In scientific trials, the experimental unit should be clearly defined, such as:",
+          "prepared_text": "[[prepared]]In scientific trials, the experimental unit should be clearly defined, such as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "A plot.",
+            "Defined rows.",
+            "A separate greenhouse.",
+            "An isolated sector."
+          ],
+          "prepared_items": [
+            "[[prepared]]A plot.",
+            "[[prepared]]Defined rows.",
+            "[[prepared]]A separate greenhouse.",
+            "[[prepared]]An isolated sector."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Sufficient replication should be used to distinguish treatment effects from natural variability.",
+          "prepared_text": "[[prepared]]Sufficient replication should be used to distinguish treatment effects from natural variability."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A large number of plants within one plot should not be treated as independent replicates when they all receive the same treatment and experience the same conditions; this constitutes pseudoreplication.",
+          "prepared_text": "[[prepared]]A large number of plants within one plot should not be treated as independent replicates when they all receive the same treatment and experience the same conditions; this constitutes pseudoreplication."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Randomization"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Treatments should be randomized or assigned through an appropriate design to reduce the effects of:",
+          "prepared_text": "[[prepared]]Treatments should be randomized or assigned through an appropriate design to reduce the effects of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Wind direction.",
+            "Proximity to edges.",
+            "Soil differences.",
+            "Irrigation source.",
+            "Adjacent fields.",
+            "Shading."
+          ],
+          "prepared_items": [
+            "[[prepared]]Wind direction.",
+            "[[prepared]]Proximity to edges.",
+            "[[prepared]]Soil differences.",
+            "[[prepared]]Irrigation source.",
+            "[[prepared]]Adjacent fields.",
+            "[[prepared]]Shading."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Where a clear field gradient exists, a randomized complete block design may be used.",
+          "prepared_text": "[[prepared]]Where a clear field gradient exists, a randomized complete block design may be used."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Sampling"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The sample should be:",
+          "prepared_text": "[[prepared]]The sample should be:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Representative.",
+            "Equal in size among treatments.",
+            "Distributed across edges and interior according to the design.",
+            "Measured using the same method.",
+            "Collected at approximately the same time."
+          ],
+          "prepared_items": [
+            "[[prepared]]Representative.",
+            "[[prepared]]Equal in size among treatments.",
+            "[[prepared]]Distributed across edges and interior according to the design.",
+            "[[prepared]]Measured using the same method.",
+            "[[prepared]]Collected at approximately the same time."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should be defined in advance:",
+          "prepared_text": "[[prepared]]The following should be defined in advance:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Number of plants.",
+            "Number of leaves.",
+            "Number of fruits.",
+            "Position on the plant.",
+            "Sampling frequency."
+          ],
+          "prepared_items": [
+            "[[prepared]]Number of plants.",
+            "[[prepared]]Number of leaves.",
+            "[[prepared]]Number of fruits.",
+            "[[prepared]]Position on the plant.",
+            "[[prepared]]Sampling frequency."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Pretreatment Measurements"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Pretreatment measurements allow:",
+          "prepared_text": "[[prepared]]Pretreatment measurements allow:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Confirmation of treatment comparability.",
+            "Calculation of corrected reduction.",
+            "Determination of response onset.",
+            "Interpretation of failure."
+          ],
+          "prepared_items": [
+            "[[prepared]]Confirmation of treatment comparability.",
+            "[[prepared]]Calculation of corrected reduction.",
+            "[[prepared]]Determination of response onset.",
+            "[[prepared]]Interpretation of failure."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Post-treatment measurements alone are insufficient when initial pest densities are unknown.",
+          "prepared_text": "[[prepared]]Post-treatment measurements alone are insufficient when initial pest densities are unknown."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Statistical Analysis"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The appropriate test depends on data structure.",
+          "prepared_text": "[[prepared]]The appropriate test depends on data structure."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Data may require:",
+          "prepared_text": "[[prepared]]Data may require:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Linear or mixed models.",
+            "Binomial models for percentage fruit infestation.",
+            "Poisson or negative-binomial distributions for counts.",
+            "Repeated measures over time.",
+            "Survival analysis.",
+            "Separate economic analysis."
+          ],
+          "prepared_items": [
+            "[[prepared]]Linear or mixed models.",
+            "[[prepared]]Binomial models for percentage fruit infestation.",
+            "[[prepared]]Poisson or negative-binomial distributions for counts.",
+            "[[prepared]]Repeated measures over time.",
+            "[[prepared]]Survival analysis.",
+            "[[prepared]]Separate economic analysis."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The mean alone should not be used without estimating variability and confidence intervals.",
+          "prepared_text": "[[prepared]]The mean alone should not be used without estimating variability and confidence intervals."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Ninth: Performance Dashboard"
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Weekly Indicator Dashboard"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Dimension",
+            "Indicator",
+            "Current Week",
+            "Previous Week",
+            "Trend",
+            "Acceptance Level"
+          ],
+          "rows": [
+            [
+              "Monitoring",
+              "Males/trap/day",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Eggs",
+              "Eggs/plant",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Parasitism",
+              "Percentage of parasitized eggs",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Larvae",
+              "Live larvae/plant",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Damage",
+              "Active mines/plant",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Fruits",
+              "Percentage of infested fruits",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Beneficials",
+              "Predators/plant",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Pesticides",
+              "Seasonal applications",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Residues",
+              "PHI status",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Operations",
+              "Inspection completion",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Dimension",
+            "[[prepared]]Indicator",
+            "[[prepared]]Current Week",
+            "[[prepared]]Previous Week",
+            "[[prepared]]Trend",
+            "[[prepared]]Acceptance Level"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Monitoring",
+              "[[prepared]]Males/trap/day",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Eggs",
+              "[[prepared]]Eggs/plant",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Parasitism",
+              "[[prepared]]Percentage of parasitized eggs",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Larvae",
+              "[[prepared]]Live larvae/plant",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Damage",
+              "[[prepared]]Active mines/plant",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Fruits",
+              "[[prepared]]Percentage of infested fruits",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Beneficials",
+              "[[prepared]]Predators/plant",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Pesticides",
+              "[[prepared]]Seasonal applications",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Residues",
+              "[[prepared]]PHI status",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Operations",
+              "[[prepared]]Inspection completion",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "End-of-Season Evaluation Card"
+        },
+        {
+          "type": "doc-table",
+          "headers": [
+            "Indicator",
+            "Target",
+            "Result",
+            "Deviation",
+            "Interpretation"
+          ],
+          "rows": [
+            [
+              "Percentage of infested fruits",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Total yield",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Accepted yield",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Rejection rate",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Number of sprays",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Number of IRAC groups",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Parasitism percentage",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Predator density",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Tuta-programme cost",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Cost per accepted tonne",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Net benefit",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Residue result",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Time to field termination",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "prepared_headers": [
+            "[[prepared]]Indicator",
+            "[[prepared]]Target",
+            "[[prepared]]Result",
+            "[[prepared]]Deviation",
+            "[[prepared]]Interpretation"
+          ],
+          "prepared_rows": [
+            [
+              "[[prepared]]Percentage of infested fruits",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Total yield",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Accepted yield",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Rejection rate",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Number of sprays",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Number of IRAC groups",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Parasitism percentage",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Predator density",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Tuta-programme cost",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Cost per accepted tonne",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Net benefit",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Residue result",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ],
+            [
+              "[[prepared]]Time to field termination",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]",
+              "[[prepared]]"
+            ]
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Composite Performance Index"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A project may create a composite index, but it should not conceal component details.",
+          "prepared_text": "[[prepared]]A project may create a composite index, but it should not conceal component details."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Example weighting:",
+          "prepared_text": "[[prepared]]Example weighting:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "30% fruit protection.",
+            "20% economic viability.",
+            "15% pesticide reduction.",
+            "15% natural enemies.",
+            "10% residues.",
+            "10% quality of implementation."
+          ],
+          "prepared_items": [
+            "[[prepared]]30% fruit protection.",
+            "[[prepared]]20% economic viability.",
+            "[[prepared]]15% pesticide reduction.",
+            "[[prepared]]15% natural enemies.",
+            "[[prepared]]10% residues.",
+            "[[prepared]]10% quality of implementation."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Weights should be selected according to project objectives.",
+          "prepared_text": "[[prepared]]Weights should be selected according to project objectives."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "In an export project, residue compliance may receive greater weight, whereas in processing tomatoes greater importance may be assigned to:",
+          "prepared_text": "[[prepared]]In an export project, residue compliance may receive greater weight, whereas in processing tomatoes greater importance may be assigned to:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Acceptance percentage.",
+            "Cost per tonne.",
+            "Speed of field termination."
+          ],
+          "prepared_items": [
+            "[[prepared]]Acceptance percentage.",
+            "[[prepared]]Cost per tonne.",
+            "[[prepared]]Speed of field termination."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The composite index should not be used without presenting each component separately.",
+          "prepared_text": "[[prepared]]The composite index should not be used without presenting each component separately."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Analysis of Causes of Deviation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When a target is not achieved, the cause should be classified.",
+          "prepared_text": "[[prepared]]When a target is not achieved, the cause should be classified."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Biological Causes"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High pest pressure.",
+            "Migration.",
+            "Temperatures favourable to reproduction.",
+            "Weak natural-enemy activity."
+          ],
+          "prepared_items": [
+            "[[prepared]]High pest pressure.",
+            "[[prepared]]Migration.",
+            "[[prepared]]Temperatures favourable to reproduction.",
+            "[[prepared]]Weak natural-enemy activity."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Operational Causes"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Delayed inspection.",
+            "Trap malfunction.",
+            "Poor distribution.",
+            "Inadequate spraying."
+          ],
+          "prepared_items": [
+            "[[prepared]]Delayed inspection.",
+            "[[prepared]]Trap malfunction.",
+            "[[prepared]]Poor distribution.",
+            "[[prepared]]Inadequate spraying."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Chemical Causes"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Unsuitable group.",
+            "Resistance.",
+            "Incorrect rate or mixture.",
+            "Repetition of the group."
+          ],
+          "prepared_items": [
+            "[[prepared]]Unsuitable group.",
+            "[[prepared]]Resistance.",
+            "[[prepared]]Incorrect rate or mixture.",
+            "[[prepared]]Repetition of the group."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Agronomic Causes"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Excessive vegetative growth.",
+            "Failure to remove residues.",
+            "Plant stress.",
+            "Delayed harvest."
+          ],
+          "prepared_items": [
+            "[[prepared]]Excessive vegetative growth.",
+            "[[prepared]]Failure to remove residues.",
+            "[[prepared]]Plant stress.",
+            "[[prepared]]Delayed harvest."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Economic Causes"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "High cost of natural enemies.",
+            "Low crop price.",
+            "Increased labour cost.",
+            "Unnecessary interventions."
+          ],
+          "prepared_items": [
+            "[[prepared]]High cost of natural enemies.",
+            "[[prepared]]Low crop price.",
+            "[[prepared]]Increased labour cost.",
+            "[[prepared]]Unnecessary interventions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The cause should be identified before the following season is modified.",
+          "prepared_text": "[[prepared]]The cause should be identified before the following season is modified."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Comparison Among Seasons"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Interpretation should account for differences in:",
+          "prepared_text": "[[prepared]]Interpretation should account for differences in:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Temperature.",
+            "Transplanting date.",
+            "Crop duration.",
+            "Cultivar.",
+            "Regional pest pressure.",
+            "Tomato price.",
+            "Input costs.",
+            "Market specifications."
+          ],
+          "prepared_items": [
+            "[[prepared]]Temperature.",
+            "[[prepared]]Transplanting date.",
+            "[[prepared]]Crop duration.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Regional pest pressure.",
+            "[[prepared]]Tomato price.",
+            "[[prepared]]Input costs.",
+            "[[prepared]]Market specifications."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A lower number of sprays in a cool season does not necessarily indicate greater programme success than in a hot, high-pressure season.",
+          "prepared_text": "[[prepared]]A lower number of sprays in a cool season does not necessarily indicate greater programme success than in a hot, high-pressure season."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Multi-Year Programme Evaluation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Some IPM benefits do not appear within one season.",
+          "prepared_text": "[[prepared]]Some IPM benefits do not appear within one season."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The following should preferably be tracked:",
+          "prepared_text": "[[prepared]]The following should preferably be tracked:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Resistance trends.",
+            "Stability of natural enemies.",
+            "Change in date of first pest appearance.",
+            "Number of sprays.",
+            "Control cost.",
+            "Fruit infestation.",
+            "Residue exceedance cases.",
+            "Infestation level in neighbouring fields."
+          ],
+          "prepared_items": [
+            "[[prepared]]Resistance trends.",
+            "[[prepared]]Stability of natural enemies.",
+            "[[prepared]]Change in date of first pest appearance.",
+            "[[prepared]]Number of sprays.",
+            "[[prepared]]Control cost.",
+            "[[prepared]]Fruit infestation.",
+            "[[prepared]]Residue exceedance cases.",
+            "[[prepared]]Infestation level in neighbouring fields."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Establishment costs may be high in the first year and then decline as:",
+          "prepared_text": "[[prepared]]Establishment costs may be high in the first year and then decline as:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Workers are trained.",
+            "The same equipment is reused.",
+            "The monitoring programme stabilizes.",
+            "Conservation biological control improves."
+          ],
+          "prepared_items": [
+            "[[prepared]]Workers are trained.",
+            "[[prepared]]The same equipment is reused.",
+            "[[prepared]]The monitoring programme stabilizes.",
+            "[[prepared]]Conservation biological control improves."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "General Per-Feddan Calculation Example"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Assume the following:",
+          "prepared_text": "[[prepared]]Assume the following:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Marketable yield under the conventional programme = Y1 tonnes/feddan.",
+            "Marketable yield under IPM = Y2 tonnes/feddan.",
+            "Price per tonne = P.",
+            "Cost of the conventional programme = C1.",
+            "Cost of IPM = C2."
+          ],
+          "prepared_items": [
+            "[[prepared]]Marketable yield under the conventional programme = Y1 tonnes/feddan.",
+            "[[prepared]]Marketable yield under IPM = Y2 tonnes/feddan.",
+            "[[prepared]]Price per tonne = P.",
+            "[[prepared]]Cost of the conventional programme = C1.",
+            "[[prepared]]Cost of IPM = C2."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Then:",
+          "prepared_text": "[[prepared]]Then:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Increase in accepted yield = Y2 − Y1"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Value of the increase = (Y2 − Y1) × P"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Additional cost = C2 − C1"
+        },
+        {
+          "type": "doc-heading",
+          "level": 4,
+          "text": "Incremental net benefit = [(Y2 − Y1) × P] − (C2 − C1)"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Incremental ROI (%) = Incremental net benefit ÷ Incremental cost × 100",
+          "prepared_text": "[[prepared]]Incremental ROI (%) = Incremental net benefit ÷ Incremental cost × 100"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The value of reduced costs, such as avoided sprays, should also be added to benefits.",
+          "prepared_text": "[[prepared]]The value of reduced costs, such as avoided sprays, should also be added to benefits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Example of Evaluating the Addition of a Biological Component"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "When evaluating addition of egg parasitoids to the programme, calculate:",
+          "prepared_text": "[[prepared]]When evaluating addition of egg parasitoids to the programme, calculate:"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Additional Costs"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Purchase of the parasitoid.",
+            "Transport.",
+            "Distribution.",
+            "Inspection."
+          ],
+          "prepared_items": [
+            "[[prepared]]Purchase of the parasitoid.",
+            "[[prepared]]Transport.",
+            "[[prepared]]Distribution.",
+            "[[prepared]]Inspection."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Benefits"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Fewer sprays.",
+            "Reduced fruit infestation.",
+            "Increased accepted yield.",
+            "Conservation of natural enemies.",
+            "Delayed resistance."
+          ],
+          "prepared_items": [
+            "[[prepared]]Fewer sprays.",
+            "[[prepared]]Reduced fruit infestation.",
+            "[[prepared]]Increased accepted yield.",
+            "[[prepared]]Conservation of natural enemies.",
+            "[[prepared]]Delayed resistance."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A decline in Tuta should not be attributed to parasitoids alone when the following also changed:",
+          "prepared_text": "[[prepared]]A decline in Tuta should not be attributed to parasitoids alone when the following also changed:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Insecticides.",
+            "Weather.",
+            "Migration source.",
+            "Transplanting date."
+          ],
+          "prepared_items": [
+            "[[prepared]]Insecticides.",
+            "[[prepared]]Weather.",
+            "[[prepared]]Migration source.",
+            "[[prepared]]Transplanting date."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Interpreting Lack of Profitability Despite Biological Efficacy"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An IPM programme may reduce infestation substantially without producing the highest profit when:",
+          "prepared_text": "[[prepared]]An IPM programme may reduce infestation substantially without producing the highest profit when:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Component costs are high.",
+            "Pest pressure is low and intensive intervention was unnecessary.",
+            "Crop price declines.",
+            "Fixed interventions are used without thresholds.",
+            "Yield in the comparison field remains high because of seasonal conditions.",
+            "Higher fruit quality does not receive a price premium."
+          ],
+          "prepared_items": [
+            "[[prepared]]Component costs are high.",
+            "[[prepared]]Pest pressure is low and intensive intervention was unnecessary.",
+            "[[prepared]]Crop price declines.",
+            "[[prepared]]Fixed interventions are used without thresholds.",
+            "[[prepared]]Yield in the comparison field remains high because of seasonal conditions.",
+            "[[prepared]]Higher fruit quality does not receive a price premium."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This indicates a need to improve:",
+          "prepared_text": "[[prepared]]This indicates a need to improve:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Intervention timing.",
+            "Rates.",
+            "Number of releases.",
+            "Sector targeting.",
+            "Threshold use.",
+            "Collective purchasing of inputs."
+          ],
+          "prepared_items": [
+            "[[prepared]]Intervention timing.",
+            "[[prepared]]Rates.",
+            "[[prepared]]Number of releases.",
+            "[[prepared]]Sector targeting.",
+            "[[prepared]]Threshold use.",
+            "[[prepared]]Collective purchasing of inputs."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It does not mean that IPM is scientifically invalid.",
+          "prepared_text": "[[prepared]]It does not mean that IPM is scientifically invalid."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Evaluating Risk Rather Than the Mean Alone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A conventional programme may produce a high mean profit while carrying greater risk of:",
+          "prepared_text": "[[prepared]]A conventional programme may produce a high mean profit while carrying greater risk of:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Resistance.",
+            "Residue exceedance.",
+            "Sudden insecticide failure.",
+            "Shipment rejection.",
+            "Mortality of natural enemies."
+          ],
+          "prepared_items": [
+            "[[prepared]]Resistance.",
+            "[[prepared]]Residue exceedance.",
+            "[[prepared]]Sudden insecticide failure.",
+            "[[prepared]]Shipment rejection.",
+            "[[prepared]]Mortality of natural enemies."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An IPM programme may produce a slightly lower average profit but be more stable among seasons and less risky.",
+          "prepared_text": "[[prepared]]An IPM programme may produce a slightly lower average profit but be more stable among seasons and less risky."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The evaluation should therefore consider:",
+          "prepared_text": "[[prepared]]The evaluation should therefore consider:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Return variability.",
+            "Worst possible outcome.",
+            "Probability of crop rejection.",
+            "Dependence on one active ingredient.",
+            "Programme sustainability."
+          ],
+          "prepared_items": [
+            "[[prepared]]Return variability.",
+            "[[prepared]]Worst possible outcome.",
+            "[[prepared]]Probability of crop rejection.",
+            "[[prepared]]Dependence on one active ingredient.",
+            "[[prepared]]Programme sustainability."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Common Errors"
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error One: Evaluating Success by the Number of Moths Captured"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Traps are monitoring indicators, not final crop-performance measures.",
+          "prepared_text": "[[prepared]]Traps are monitoring indicators, not final crop-performance measures."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Two: Counting All Mines as Active"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Old mines remain after successful control.",
+          "prepared_text": "[[prepared]]Old mines remain after successful control."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Three: Using Total Yield Alone"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A large proportion may be unmarketable.",
+          "prepared_text": "[[prepared]]A large proportion may be unmarketable."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Four: Measuring Fruit Infestation by Number Without Weight"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Weight loss may differ.",
+          "prepared_text": "[[prepared]]Weight loss may differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Five: Measuring Weight Without Counting Rejected Fruits"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An infested fruit may retain its weight despite being rejected.",
+          "prepared_text": "[[prepared]]An infested fruit may retain its weight despite being rejected."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Six: Ignoring Labour Cost"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Inspection, distribution, and collection have economic costs.",
+          "prepared_text": "[[prepared]]Inspection, distribution, and collection have economic costs."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Seven: Treating Every Reduction in Sprays as a Benefit"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "It should not be accompanied by an unacceptable increase in damage.",
+          "prepared_text": "[[prepared]]It should not be accompanied by an unacceptable increase in damage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eight: Comparing Fundamentally Different Fields"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Differences may result from irrigation, cultivar, or soil.",
+          "prepared_text": "[[prepared]]Differences may result from irrigation, cultivar, or soil."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Nine: Using BCR Without Defining the Equation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Calculation methods differ among studies.",
+          "prepared_text": "[[prepared]]Calculation methods differ among studies."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Ten: Transferring an Economic Threshold from Another Country"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Prices, costs, cultivars, and climates differ.",
+          "prepared_text": "[[prepared]]Prices, costs, cultivars, and climates differ."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Eleven: Using One Threshold Throughout the Season"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Crop sensitivity changes with growth stage.",
+          "prepared_text": "[[prepared]]Crop sensitivity changes with growth stage."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Twelve: Evaluating Slow-Acting Tools Too Early"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Fungi, viruses, and parasitoids require time.",
+          "prepared_text": "[[prepared]]Fungi, viruses, and parasitoids require time."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Thirteen: Ignoring Resistance and Residues"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Both are real costs and risks.",
+          "prepared_text": "[[prepared]]Both are real costs and risks."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fourteen: Assuming the Most Entomologically Effective Programme Is Automatically the Most Profitable"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Its cost may exceed the value of additional benefits.",
+          "prepared_text": "[[prepared]]Its cost may exceed the value of additional benefits."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "Error Fifteen: Changing Several Factors Simultaneously Without Documentation"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "This makes it difficult to identify the component responsible for the outcome.",
+          "prepared_text": "[[prepared]]This makes it difficult to identify the component responsible for the outcome."
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Practical Priorities in Egypt"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The priorities are:",
+          "prepared_text": "[[prepared]]The priorities are:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "1. Use accepted yield rather than total yield alone.",
+            "2. Measure fruit infestation by number and weight.",
+            "3. Separate Tuta losses from other causes of rejection.",
+            "4. Record the cost of every programme component.",
+            "5. Include labour and inspection costs.",
+            "6. Calculate the cost of protecting one accepted tonne.",
+            "7. Establish a baseline for each region and production cycle.",
+            "8. Do not transfer foreign thresholds directly.",
+            "9. Develop separate Egyptian thresholds for processing and fresh-market tomatoes.",
+            "10. Include factory and market prices in EIL calculations.",
+            "11. Incorporate natural-enemy efficacy into decision-making.",
+            "12. Evaluate programmes over two or more seasons.",
+            "13. Link residue compliance to economic viability.",
+            "14. Calculate the value of avoided sprays.",
+            "15. Treat resistance risk as a future cost.",
+            "16. Compare programmes in similar fields.",
+            "17. Use partial budgeting when modifying one component.",
+            "18. Review causes of deviation after the season.",
+            "19. Convert field records into an analyzable database.",
+            "20. Update calculations as crop and input prices change."
+          ],
+          "prepared_items": [
+            "[[prepared]]1. Use accepted yield rather than total yield alone.",
+            "[[prepared]]2. Measure fruit infestation by number and weight.",
+            "[[prepared]]3. Separate Tuta losses from other causes of rejection.",
+            "[[prepared]]4. Record the cost of every programme component.",
+            "[[prepared]]5. Include labour and inspection costs.",
+            "[[prepared]]6. Calculate the cost of protecting one accepted tonne.",
+            "[[prepared]]7. Establish a baseline for each region and production cycle.",
+            "[[prepared]]8. Do not transfer foreign thresholds directly.",
+            "[[prepared]]9. Develop separate Egyptian thresholds for processing and fresh-market tomatoes.",
+            "[[prepared]]10. Include factory and market prices in EIL calculations.",
+            "[[prepared]]11. Incorporate natural-enemy efficacy into decision-making.",
+            "[[prepared]]12. Evaluate programmes over two or more seasons.",
+            "[[prepared]]13. Link residue compliance to economic viability.",
+            "[[prepared]]14. Calculate the value of avoided sprays.",
+            "[[prepared]]15. Treat resistance risk as a future cost.",
+            "[[prepared]]16. Compare programmes in similar fields.",
+            "[[prepared]]17. Use partial budgeting when modifying one component.",
+            "[[prepared]]18. Review causes of deviation after the season.",
+            "[[prepared]]19. Convert field records into an analyzable database.",
+            "[[prepared]]20. Update calculations as crop and input prices change."
+          ]
+        },
+        {
+          "type": "doc-heading",
+          "level": 2,
+          "text": "Scientific Summary of Section Fifteen"
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "An integrated management programme for Tuta absoluta should be evaluated through a multidimensional framework that includes:",
+          "prepared_text": "[[prepared]]An integrated management programme for Tuta absoluta should be evaluated through a multidimensional framework that includes:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "The pest.",
+            "Damage.",
+            "Fruits.",
+            "Accepted yield.",
+            "Natural enemies.",
+            "Insecticides.",
+            "Residues.",
+            "Costs and returns."
+          ],
+          "prepared_items": [
+            "[[prepared]]The pest.",
+            "[[prepared]]Damage.",
+            "[[prepared]]Fruits.",
+            "[[prepared]]Accepted yield.",
+            "[[prepared]]Natural enemies.",
+            "[[prepared]]Insecticides.",
+            "[[prepared]]Residues.",
+            "[[prepared]]Costs and returns."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A decline in pest numbers alone is insufficient to demonstrate economic viability, just as high total yield is insufficient when part of the crop is unmarketable.",
+          "prepared_text": "[[prepared]]A decline in pest numbers alone is insufficient to demonstrate economic viability, just as high total yield is insufficient when part of the crop is unmarketable."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The most important final indicators include:",
+          "prepared_text": "[[prepared]]The most important final indicators include:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Percentage of infested fruits.",
+            "Weight loss.",
+            "Marketable or processable yield.",
+            "Rejection rate.",
+            "Cost per protected tonne.",
+            "Net benefit.",
+            "Benefit–cost ratio.",
+            "Return on investment."
+          ],
+          "prepared_items": [
+            "[[prepared]]Percentage of infested fruits.",
+            "[[prepared]]Weight loss.",
+            "[[prepared]]Marketable or processable yield.",
+            "[[prepared]]Rejection rate.",
+            "[[prepared]]Cost per protected tonne.",
+            "[[prepared]]Net benefit.",
+            "[[prepared]]Benefit–cost ratio.",
+            "[[prepared]]Return on investment."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Active mines and live larvae should be used instead of total old mines when evaluating treatment efficacy.",
+          "prepared_text": "[[prepared]]Active mines and live larvae should be used instead of total old mines when evaluating treatment efficacy."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The economic injury level changes with:",
+          "prepared_text": "[[prepared]]The economic injury level changes with:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Crop price.",
+            "Intervention cost.",
+            "Control efficacy.",
+            "Cultivar.",
+            "Crop stage.",
+            "Market.",
+            "Climatic conditions."
+          ],
+          "prepared_items": [
+            "[[prepared]]Crop price.",
+            "[[prepared]]Intervention cost.",
+            "[[prepared]]Control efficacy.",
+            "[[prepared]]Cultivar.",
+            "[[prepared]]Crop stage.",
+            "[[prepared]]Market.",
+            "[[prepared]]Climatic conditions."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Published values ranging from approximately 3 to more than 6 larvae per plant represent the specific conditions under which they were calculated and should not be treated as general thresholds for Egyptian fields.",
+          "prepared_text": "[[prepared]]Published values ranging from approximately 3 to more than 6 larvae per plant represent the specific conditions under which they were calculated and should not be treated as general thresholds for Egyptian fields."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "The number or percentage of infested and rejected fruits may be more informative than total yield weight because a small hole may cause complete fruit rejection without substantially reducing its weight.",
+          "prepared_text": "[[prepared]]The number or percentage of infested and rejected fruits may be more informative than total yield weight because a small hole may cause complete fruit rejection without substantially reducing its weight."
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "Evaluation should also determine whether the programme:",
+          "prepared_text": "[[prepared]]Evaluation should also determine whether the programme:"
+        },
+        {
+          "type": "doc-list",
+          "items": [
+            "Conserved natural enemies.",
+            "Reduced chemical applications.",
+            "Managed IRAC groups correctly.",
+            "Complied with preharvest intervals.",
+            "Prevented the field from becoming a source for the next crop."
+          ],
+          "prepared_items": [
+            "[[prepared]]Conserved natural enemies.",
+            "[[prepared]]Reduced chemical applications.",
+            "[[prepared]]Managed IRAC groups correctly.",
+            "[[prepared]]Complied with preharvest intervals.",
+            "[[prepared]]Prevented the field from becoming a source for the next crop."
+          ]
+        },
+        {
+          "type": "doc-paragraph",
+          "text": "A programme is successful when it achieves the best possible balance among crop protection, profitability, and sustainability, not when it produces the lowest possible pest population at any cost.",
+          "prepared_text": "[[prepared]]A programme is successful when it achieves the best possible balance among crop protection, profitability, and sustainability, not when it produces the lowest possible pest population at any cost."
+        },
+        {
+          "type": "doc-heading",
+          "level": 3,
+          "text": "References",
+          "id": "chapter-ten-part-15-references"
+        },
+        {
+          "type": "reference-list",
+          "items": [
+            {
+              "number": 1,
+              "text": "Pedigo, L. P., Hutchins, S. H., & Higley, L. G. (1986). Economic injury levels in theory and practice. Annual Review of Entomology, 31, 341–368.",
+              "url": ""
+            },
+            {
+              "number": 2,
+              "text": "Higley, L. G., & Pedigo, L. P., eds. (1996). Economic Thresholds for Integrated Pest Management. University of Nebraska Press.",
+              "url": ""
+            },
+            {
+              "number": 3,
+              "text": "Rostami, E., Madadi, H., Abbasipour, H., & Han, P. (2024). Economic injury level and crop loss assessment of Tuta absoluta in open-field tomatoes in Western Iran. Journal of Crop Protection, 13(2), 125–137.",
+              "url": ""
+            },
+            {
+              "number": 4,
+              "text": "Ghaderi, S., Fathipour, Y., Asgari, S., & Reddy, G. V. P. (2019). Economic injury level and crop loss assessment for Tuta absoluta on different tomato cultivars. Journal of Applied Entomology, 143(5), 493–507.",
+              "url": ""
+            },
+            {
+              "number": 5,
+              "text": "Shiberu, T., & Getu, E. (2018). Determination of the economic threshold level of tomato leaf miner, Tuta absoluta, on tomato under glasshouse conditions. Journal of Horticulture and Forestry, 10.",
+              "url": ""
+            },
+            {
+              "number": 6,
+              "text": "Shiberu, T., & Getu, E. (2018). Experimental analysis of economic action level of tomato leafminer, Tuta absoluta, under open-field conditions. Advances in Crop Science and Technology, 6.",
+              "url": ""
+            },
+            {
+              "number": 7,
+              "text": "Boni, S. B., Othim, S. T. O., Mlowe, N., & Srinivasan, R. (2026). Efficacy and economic viability of an integrated pest management strategy against Phthorimaea absoluta in open-field tomato production in Northern Tanzania. Journal of Crop Health, 78, Article 35. DOI: 10.1007/s10343-026-01302-4.",
+              "url": ""
+            },
+            {
+              "number": 8,
+              "text": "Desneux, N., Han, P., Mansour, R., et al. (2022). Integrated pest management of Tuta absoluta: Practical implementations across different world regions. Journal of Pest Science, 95, 17–39. DOI: 10.1007/s10340-021-01442-8.",
+              "url": ""
+            },
+            {
+              "number": 9,
+              "text": "Biondi, A., Guedes, R. N. C., Wan, F. H., & Desneux, N. (2018). Ecology, worldwide spread, and management of the invasive South American tomato pinworm, Tuta absoluta. Annual Review of Entomology, 63, 239–258.",
+              "url": ""
+            },
+            {
+              "number": 10,
+              "text": "Mangrio, G. Q., et al. (2024). Integrated pest management of Tuta absoluta on tomato: Biological performance, yield and economic return. Sarhad Journal of Agriculture.",
+              "url": ""
+            },
+            {
+              "number": 11,
+              "text": "Kabaale, F. P., Tumuhaise, V., Tinzaara, W., et al. (2022). Field efficacy and economic viability of Metarhizium anisopliae ICIPE 20 for management of Tuta absoluta on tomato. Sustainability, 14, 14846.",
+              "url": ""
+            },
+            {
+              "number": 12,
+              "text": "González-Cabrera, J., Mollá, O., Montón, H., & Urbaneja, A. (2011). Efficacy of Bacillus thuringiensis in controlling the tomato borer, Tuta absoluta. BioControl, 56, 71–80.",
+              "url": ""
+            },
+            {
+              "number": 13,
+              "text": "Cocco, A., Deliperi, S., & Delrio, G. (2013). Control of Tuta absoluta in greenhouse tomato crops using mating disruption. Journal of Applied Entomology, 137, 16–28.",
+              "url": ""
+            },
+            {
+              "number": 14,
+              "text": "Guedes, R. N. C., Roditakis, E., Campos, M. R., et al. (2019). Insecticide resistance in the tomato pinworm Tuta absoluta: Patterns, spread, mechanisms, management and outlook. Journal of Pest Science, 92, 1329–1342.",
+              "url": ""
+            },
+            {
+              "number": 15,
+              "text": "Insecticide Resistance Action Committee. IRAC Susceptibility Test Method No. 022: Tuta absoluta Larvae.",
+              "url": ""
+            },
+            {
+              "number": 16,
+              "text": "International Organisation for Biological and Integrated Control. Guidelines for the Evaluation of Side Effects of Plant Protection Products on Beneficial Organisms.",
+              "url": ""
+            },
+            {
+              "number": 17,
+              "text": "Henderson, C. F., & Tilton, E. W. (1955). Tests with acaricides against the brown wheat mite. Journal of Economic Entomology, 48, 157–161.",
+              "url": ""
+            },
+            {
+              "number": 18,
+              "text": "Abbott, W. S. (1925). A method of computing the effectiveness of an insecticide. Journal of Economic Entomology, 18, 265–267.",
+              "url": ""
+            },
+            {
+              "number": 19,
+              "text": "CIMMYT. (1988). From Agronomic Data to Farmer Recommendations: An Economics Training Manual.",
+              "url": ""
+            },
+            {
+              "number": 20,
+              "text": "FAO. Guidelines on Economic Analysis of Integrated Pest Management Programmes.",
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "updated_at": "2026-06-29",
+        "part_index": 15,
+        "part_title": "Section Fifteen: Evaluation of IPM Performance and Economic Viability",
+        "part_subtitle": "Evaluation of IPM Performance and Economic Viability"
+      }
+    }
+  ]
+}
