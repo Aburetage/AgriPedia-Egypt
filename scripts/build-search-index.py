@@ -58,6 +58,20 @@ def build_language_index(lang: str) -> list[dict]:
             for part_index, part_manifest, tab in sources:
                 article = next((block for block in tab.get("content_blocks", []) if block.get("type") == "doc-article"), None)
                 if not article:
+                    interactive = next((
+                        block for block in tab.get("content_blocks", [])
+                        if block.get("type") == "interactive-tool"
+                    ), None)
+                    if interactive:
+                        search_index.append({
+                            "chapterId": chapter_id,
+                            "chapterTitle": manifest["chapter_title"],
+                            "tabIndex": tab_index,
+                            "tabTitle": tab["tab_title"],
+                            "sectionIndex": 1,
+                            "sectionTitle": interactive.get("title", tab["tab_title"]),
+                            "text": interactive.get("search_text", ""),
+                        })
                     continue
 
                 section_index = 0
