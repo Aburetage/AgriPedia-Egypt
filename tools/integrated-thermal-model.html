@@ -970,22 +970,101 @@ html.agripedia-embed .footer{padding-bottom:.75rem}
 html.agripedia-embed[data-app-theme="light"]{
   --bg:transparent;--card:rgba(255,255,255,.96);--card2:rgba(248,250,252,.95);
   --line:rgba(15,23,42,.11);--line2:rgba(15,23,42,.18);
-  --text:#0f172a;--muted:#64748b;--soft:#334155;--shadow:0 18px 55px rgba(15,23,42,.10)
+  --text:#0f172a;--muted:#475569;--soft:#334155;--shadow:0 18px 55px rgba(15,23,42,.10);
+  --cyan:#0369a1;--blue:#1d4ed8;--green:#047857;--amber:#b45309;
+  --orange:#c2410c;--red:#be123c;--pink:#be185d;--purple:#6d28d9;
+  color-scheme:light
 }
 html.agripedia-embed[data-app-theme="light"] .article p,
 html.agripedia-embed[data-app-theme="light"] .article li,
 html.agripedia-embed[data-app-theme="light"] .scenario-detail,
 html.agripedia-embed[data-app-theme="light"] .scenario-detail p,
 html.agripedia-embed[data-app-theme="light"] .scenario-detail li,
-html.agripedia-embed[data-app-theme="light"] .sources li{color:#334155}
-html.agripedia-embed[data-app-theme="light"] .article strong{color:#0f172a}
+html.agripedia-embed[data-app-theme="light"] .sources li,
+html.agripedia-embed[data-app-theme="light"] .lesson-box p,
+html.agripedia-embed[data-app-theme="light"] .field-guide-card p,
+html.agripedia-embed[data-app-theme="light"] .field-guide-card li,
+html.agripedia-embed[data-app-theme="light"] .chapter-body p,
+html.agripedia-embed[data-app-theme="light"] .chapter-body li,
+html.agripedia-embed[data-app-theme="light"] .chapter-body ul,
+html.agripedia-embed[data-app-theme="light"] .chapter-body ol,
+html.agripedia-embed[data-app-theme="light"] .temp-scenario-reading p{color:#334155}
+html.agripedia-embed[data-app-theme="light"] .article strong,
+html.agripedia-embed[data-app-theme="light"] .fert-sync-chip b,
+html.agripedia-embed[data-app-theme="light"] .insight-mini b,
+html.agripedia-embed[data-app-theme="light"] .timeline-hint strong,
+html.agripedia-embed[data-app-theme="light"] .indicator-title,
+html.agripedia-embed[data-app-theme="light"] .calibration-title,
+html.agripedia-embed[data-app-theme="light"] .ipm-flow-step b,
+html.agripedia-embed[data-app-theme="light"] .calibration-item > span,
+html.agripedia-embed[data-app-theme="light"] .mode-panel b,
+html.agripedia-embed[data-app-theme="light"] .mini-table td:first-child,
+html.agripedia-embed[data-app-theme="light"] .mini-table th:first-child{color:#0f172a}
 html.agripedia-embed[data-app-theme="light"] .note,
 html.agripedia-embed[data-app-theme="light"] .temp-panel,
 html.agripedia-embed[data-app-theme="light"] .metric,
 html.agripedia-embed[data-app-theme="light"] .stage,
 html.agripedia-embed[data-app-theme="light"] .quick-tile,
 html.agripedia-embed[data-app-theme="light"] .lesson-box,
-html.agripedia-embed[data-app-theme="light"] .quiz-card{color:#1e293b;background:rgba(248,250,252,.88)}
+html.agripedia-embed[data-app-theme="light"] .quiz-card,
+html.agripedia-embed[data-app-theme="light"] .visual-controls,
+html.agripedia-embed[data-app-theme="light"] .fert-fmla-box,
+html.agripedia-embed[data-app-theme="light"] .gauss-wrap,
+html.agripedia-embed[data-app-theme="light"] .gauss-chart,
+html.agripedia-embed[data-app-theme="light"] .gauss-fmla,
+html.agripedia-embed[data-app-theme="light"] .gen-chart-sec,
+html.agripedia-embed[data-app-theme="light"] .chart-wrap,
+html.agripedia-embed[data-app-theme="light"] .bar,
+html.agripedia-embed[data-app-theme="light"] .temp-scenario-reading .mini-pill{
+  color:#1e293b;background:#f8fafc
+}
+html.agripedia-embed[data-app-theme="light"] .indicator-logic-card,
+html.agripedia-embed[data-app-theme="light"] .calibration-card{
+  background:linear-gradient(135deg,#fff,#f1f5f9);box-shadow:0 18px 48px rgba(15,23,42,.09)
+}
+html.agripedia-embed[data-app-theme="light"] .journey-step,
+html.agripedia-embed[data-app-theme="light"] .insight-mini,
+html.agripedia-embed[data-app-theme="light"] .field-guide-card,
+html.agripedia-embed[data-app-theme="light"] .ipm-flow-step,
+html.agripedia-embed[data-app-theme="light"] .calibration-item,
+html.agripedia-embed[data-app-theme="light"] .fact-pill,
+html.agripedia-embed[data-app-theme="light"] .preset-btn,
+html.agripedia-embed[data-app-theme="light"] .scenario-btn,
+html.agripedia-embed[data-app-theme="light"] .quiz-option{
+  background:rgba(255,255,255,.92);color:#1e293b
+}
+html.agripedia-embed[data-app-theme="light"] table,
+html.agripedia-embed[data-app-theme="light"] .mini-table,
+html.agripedia-embed[data-app-theme="light"] .exp-tbl{background:#fff}
+html.agripedia-embed[data-app-theme="light"] td{color:#334155}
+html.agripedia-embed[data-app-theme="light"] tr:hover td{background:#f1f5f9}
+html.agripedia-embed[data-app-theme="light"] .row-opt td{color:#92400e;background:#fffbeb}
+html.agripedia-embed[data-app-theme="light"] .row-danger td{color:#9f1239;background:#fff1f2}
+html.agripedia-embed[data-app-theme="light"] .row-cold td{color:#1d4ed8;background:#eff6ff}
+html.agripedia-embed[data-app-theme="light"] .warning.heat{color:#9f1239;background:#fff1f2}
+html.agripedia-embed[data-app-theme="light"] .warning.cold{color:#1d4ed8;background:#eff6ff}
+html.agripedia-embed[data-app-theme="light"] .risk-list div,
+html.agripedia-embed[data-app-theme="light"] .risk-advice,
+html.agripedia-embed[data-app-theme="light"] .intervention-body,
+html.agripedia-embed[data-app-theme="light"] .intervention-list div,
+html.agripedia-embed[data-app-theme="light"] .interpretation-note,
+html.agripedia-embed[data-app-theme="light"] .temp-master-note,
+html.agripedia-embed[data-app-theme="light"] .chapter-intro,
+html.agripedia-embed[data-app-theme="light"] .fert-calibration-note{color:#334155}
+html.agripedia-embed[data-app-theme="light"] .intervention-stage{color:#065f46;background:#ecfdf5}
+html.agripedia-embed[data-app-theme="light"] .mode-btn.active{color:#92400e;background:#fffbeb}
+html.agripedia-embed[data-app-theme="light"] .quiz-option.correct{color:#065f46;background:#ecfdf5}
+html.agripedia-embed[data-app-theme="light"] .quiz-option.wrong{color:#9f1239;background:#fff1f2}
+html.agripedia-embed[data-app-theme="light"] .formula,
+html.agripedia-embed[data-app-theme="light"] .chapter-equation{color:#5b21b6;background:#f5f3ff}
+html.agripedia-embed[data-app-theme="light"] .thermo-tube{background:#e2e8f0;border-color:#cbd5e1}
+html.agripedia-embed[data-app-theme="light"] .axis{stroke:#64748b}
+html.agripedia-embed[data-app-theme="light"] .gridline{stroke:#cbd5e1}
+html.agripedia-embed[data-app-theme="light"] svg .label{fill:#334155}
+html.agripedia-embed[data-app-theme="light"] .chart-wrap svg text,
+html.agripedia-embed[data-app-theme="light"] .gauss-chart svg text,
+html.agripedia-embed[data-app-theme="light"] .gen-chart-h svg text{fill:#334155!important}
+html.agripedia-embed[data-app-theme="light"] .chart-wrap svg .markerText{fill:#92400e!important}
 @media(max-width:760px){html.agripedia-embed .wrap{padding:0 0 1rem}}
 </style>
 </head>
@@ -2307,7 +2386,6 @@ html.agripedia-embed[data-app-theme="light"] .quiz-card{color:#1e293b;background
     updateTimeline(d);
     updateRiskCard(T, d);
     updateInterventionCard(T, d);
-    updateReportCard(T, d);
     if($('eggInsight')) $('eggInsight').textContent = d.egg > 0 ? `مدة البيضة الآن نحو ${d.egg.toFixed(1)} يوم؛ كلما قصرت هذه الفترة زادت أهمية استهداف البيض قبل الفقس.` : 'لا يوجد تطور فعلي للبيض عند هذه الحرارة.';
     if($('larvaInsight')) $('larvaInsight').textContent = d.larva > 0 ? `مدة اليرقة الآن نحو ${d.larva.toFixed(1)} يوم؛ كلما طالت مدة اليرقة زادت فترة التغذية داخل الورقة والثمار.` : 'لا توجد قراءة موثوقة لمدة اليرقة عند هذه الحرارة.';
     if($('fertInsight')) {
