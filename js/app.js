@@ -500,7 +500,13 @@ function centerScrollableItem(container, item, behavior = 'smooth') {
     const containerRect = container.getBoundingClientRect();
     const itemRect = item.getBoundingClientRect();
     const delta = ((itemRect.left + itemRect.right) / 2) - ((containerRect.left + containerRect.right) / 2);
-    if (Math.abs(delta) > 4) container.scrollBy({ left: delta, behavior });
+    if (Math.abs(delta) <= 4) return;
+    const previousScrollBehavior = container.style.scrollBehavior;
+    if (behavior === 'auto') container.style.scrollBehavior = 'auto';
+    container.scrollBy({ left: delta, behavior });
+    if (behavior === 'auto') {
+        requestAnimationFrame(() => { container.style.scrollBehavior = previousScrollBehavior; });
+    }
 }
 
 function registerServiceWorker() {
@@ -960,6 +966,17 @@ async function loadIndex() {
         const response = await fetch(versionedDataUrl(`data/${requestedLang}/index.json`));
         if (!response.ok) throw new Error('Network error');
         const loadedIndex = await response.json();
+        const tutaManifest = await fetchChapterManifest(requestedLang, 'tuta').catch(() => null);
+        if (Array.isArray(tutaManifest?.tabs)) {
+            loadedIndex.sidebar?.forEach(group => group.links?.forEach((link, tabIndex) => {
+                const parts = tutaManifest.tabs[tabIndex]?.parts;
+                if (link.target !== 'tuta' || !Array.isArray(parts) || !parts.length) return;
+                link.children = parts.map((part, partIndex) => ({
+                    text: part.part_title || part.part_short_title,
+                    part_index: partIndex
+                }));
+            }));
+        }
         if (requestedLang !== currentLang) return;
         appDataIndex = loadedIndex;
         renderSidebar(appDataIndex.sidebar);
@@ -1021,8 +1038,8 @@ function renderSidebar(sidebarData) {
     let html = `<div class="home-link-wrap"><a href="#home" class="active ripple-btn" id="nav-home"><i class="fas fa-home"></i> <span>${currentLang === 'ar' ? 'الرئيسية' : 'Home'}</span></a></div>`;
     sidebarData.forEach((group) => {
         html += `
-        <div class="chapter-group ${group.is_active ? 'active' : ''}">
-            <button class="chapter-header ripple-btn" type="button" onclick="toggleAccordion(this)" aria-expanded="${group.is_active ? 'true' : 'false'}">
+        <div class="chapter-group">
+            <button class="chapter-header ripple-btn" type="button" onclick="toggleAccordion(this)" aria-expanded="false">
                 <span class="title-wrap"><i class="${group.icon}" aria-hidden="true"></i><span>${group.title}</span></span>
                 <i class="fas fa-chevron-down arrow" aria-hidden="true"></i>
             </button>
@@ -1031,7 +1048,7 @@ function renderSidebar(sidebarData) {
                     if (link.disabled) return `<li><span class="disabled" aria-disabled="true"><span>${link.text}</span></span></li>`;
                     if (Array.isArray(link.children) && link.children.length) {
                         return `<li class="sidebar-subchapter">
-                            <details open>
+                            <details>
                                 <summary><span>${link.text}</span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
                                 <ul class="sidebar-sub-links">
                                     ${link.children.map(child => `<li><a href="#${link.target}-${idx}-${child.part_index}" class="ripple-btn"><span>${child.text}</span></a></li>`).join('')}
@@ -1272,12 +1289,14 @@ function renderChapter(data, initialTab, activeTabData, partContext = null) {
     `;
     appContainer.innerHTML = html;
     initializeInteractiveTools();
-    if (showChapterNavigation) {
-        requestAnimationFrame(() => {
+    requestAnimationFrame(() => requestAnimationFrame(() => {
+        if (showChapterNavigation) {
             const tabStrip = document.getElementById(`tabs-${chapId}`);
             centerScrollableItem(tabStrip, tabStrip?.querySelector('.tab-btn.active'), 'auto');
-        });
-    }
+        }
+        const partsStrip = appContainer.querySelector('.doc-parts-nav');
+        centerScrollableItem(partsStrip, partsStrip?.querySelector('[aria-current="true"]'), 'auto');
+    }));
     if (showChapterNavigation) renderPagination(data, partContext);
     updateActiveSidebarLink(chapId, initialTab, partContext?.index ?? null);
     const currentRoute = chapterTabRoute(chapId, initialTab, data.tabs[initialTab], partContext?.index ?? null);
@@ -1452,15 +1471,63 @@ function prepareDocPartNavigation(items) {
     };
 }
 
+function collapseEmptyDocSectionHeadings(items) {
+    const renderedItems = [];
+    const originalToRenderedHeading = new Map();
+    let pendingHeadings = [];
+    const isLevelTwoHeading = item => item?.type === 'doc-heading' && Number(item.level) === 2 && !item.id;
+    const hasMeaningfulContent = segment => segment.some(item => {
+        if (item.type === 'doc-heading') return false;
+        if (String(item.text || '').trim()) return true;
+        if (Array.isArray(item.items) && item.items.length) return true;
+        if (Array.isArray(item.rows) && item.rows.length) return true;
+        return false;
+    });
+
+    for (let index = 0; index < items.length; index++) {
+        const item = items[index];
+        if (!isLevelTwoHeading(item)) {
+            if (item.type === 'doc-heading' && (Number(item.level) === 1 || item.id)) pendingHeadings = [];
+            renderedItems.push(item);
+            continue;
+        }
+
+        let boundary = index + 1;
+        while (boundary < items.length && !isLevelTwoHeading(items[boundary])
+            && !(items[boundary].type === 'doc-heading' && (Number(items[boundary].level) === 1 || items[boundary].id))) {
+            boundary++;
+        }
+        const segment = items.slice(index + 1, boundary);
+        if (!hasMeaningfulContent(segment)) {
+            const headingText = String(item.text || '').trim();
+            if (headingText) pendingHeadings.push(headingText);
+            index = boundary - 1;
+            continue;
+        }
+
+        const titleParts = [...pendingHeadings, String(item.text || '').trim()].filter(Boolean);
+        const renderedHeading = pendingHeadings.length
+            ? { ...item, text: titleParts.join(' — ') }
+            : item;
+        pendingHeadings = [];
+        originalToRenderedHeading.set(item, renderedHeading);
+        renderedItems.push(renderedHeading);
+    }
+
+    return { items: renderedItems, originalToRenderedHeading };
+}
+
 function buildDocArticle(items, meta = {}) {
     items = normalizeDocReferences(items);
     const preparedParts = prepareDocPartNavigation(items);
-    items = preparedParts.items;
+    const collapsedSections = collapseEmptyDocSectionHeadings(preparedParts.items);
+    items = collapsedSections.items;
     const chapterHeadings = items.filter(item => item.type === 'doc-heading' && Number(item.level) === 1 && !item.id);
     const sectionHeadings = items.filter(item => item.type === 'doc-heading' && Number(item.level) === 2);
     const docParts = preparedParts.parts.map(part => {
-        const sectionIndex = sectionHeadings.indexOf(part.targetHeading);
-        return { ...part, sectionIndex };
+        const targetHeading = collapsedSections.originalToRenderedHeading.get(part.targetHeading) || part.targetHeading;
+        const sectionIndex = sectionHeadings.indexOf(targetHeading);
+        return { ...part, targetHeading, sectionIndex };
     }).filter(part => part.sectionIndex >= 0);
     const externalParts = Array.isArray(meta.parts_navigation)
         ? meta.parts_navigation.map((part, index) => ({
@@ -2059,6 +2126,7 @@ function updateActiveSidebarLink(target, tabIndex = null, partIndex = null) {
         a.classList.remove('active');
         a.removeAttribute('aria-current');
     });
+    document.querySelectorAll('.chapter-group').forEach(group => group.classList.remove('has-current'));
     if(target === 'home' || target === 'glossary') {
         const navLink = document.getElementById(target === 'home' ? 'nav-home' : 'nav-glossary');
         if(navLink) {
@@ -2077,8 +2145,7 @@ function updateActiveSidebarLink(target, tabIndex = null, partIndex = null) {
             link.setAttribute('aria-current', 'page');
             const details = link.closest('details');
             if (details) details.open = true;
-            link.closest('.chapter-group')?.classList.add('active');
-            link.closest('.chapter-group')?.querySelector('.chapter-header')?.setAttribute('aria-expanded', 'true');
+            link.closest('.chapter-group')?.classList.add('has-current');
         }
     });
 }
