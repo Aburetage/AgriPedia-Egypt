@@ -182,16 +182,16 @@ body.light-mode .sidebar { box-shadow: -10px 0 30px rgba(0,0,0,0.1); }
 .chapter-group { margin: 0 1rem 0.5rem 1rem; }  
 .chapter-header { display: flex; align-items: center; justify-content: space-between; padding: 0.6rem 0.8rem; color: var(--text); cursor: pointer; transition: all 0.3s; font-weight: 700; font-size: 0.95rem; font-family: 'Readex Pro', sans-serif; background: transparent; border-radius: 12px; border: 1px solid transparent; min-height: 48px; width: 100%; text-align: start;}  
 .chapter-header:hover { background: rgba(128,128,128,0.05); }  
-.chapter-group.active .chapter-header { color: var(--cyan); }  
+.chapter-group.active .chapter-header, .chapter-group.has-current .chapter-header { color: var(--cyan); }  
 .chapter-header .title-wrap { display: flex; align-items: center; gap: 0.8rem; }  
 .chapter-header .title-wrap i { display: flex; align-items: center; justify-content: center; width: 34px; height: 34px; background: rgba(128,128,128,0.08); border-radius: 8px; color: var(--muted); transition: 0.3s; font-size: 0.95rem; border: 1px solid var(--border);}
-.chapter-group.active .chapter-header .title-wrap i { background: rgba(0, 212, 255, 0.1); border-color: rgba(0, 212, 255, 0.3); color: var(--cyan); box-shadow: 0 0 15px rgba(0,212,255,0.15); }
+.chapter-group.active .chapter-header .title-wrap i, .chapter-group.has-current .chapter-header .title-wrap i { background: rgba(0, 212, 255, 0.1); border-color: rgba(0, 212, 255, 0.3); color: var(--cyan); box-shadow: 0 0 15px rgba(0,212,255,0.15); }
 .chapter-header .arrow { transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); font-size: 0.8rem; color: var(--muted);}  
 .chapter-group.active .chapter-header .arrow { transform: rotate(180deg); color: var(--cyan);}  
 
 /* الروابط الفرعية والنقاط (Tree-View Navigation) */
 .chapter-links { list-style: none; padding: 0; max-height: 0; overflow: hidden; transition: max-height 0.5s ease; margin-inline-start: 1.8rem; border-inline-start: 1px solid var(--border-hi); padding-inline-start: 0.8rem; }  
-.chapter-group.active .chapter-links { max-height: 800px; padding-top: 0.5rem; padding-bottom: 0.5rem; margin-top: 0.2rem; }  
+.chapter-group.active .chapter-links { max-height: 2400px; padding-top: 0.5rem; padding-bottom: 0.5rem; margin-top: 0.2rem; }  
 .chapter-links li { padding: 0.15rem 0; position: relative;}  
 .chapter-links a, .chapter-links span.disabled { display: flex; align-items: center; gap: 0.6rem; padding: 0.5rem 0.8rem; color: var(--text-p); text-decoration: none; border-radius: 8px; transition: all 0.3s; font-size: 0.85rem; font-weight: 600; min-height: 40px; position: relative;}  
 .chapter-links a::before, .chapter-links span.disabled::before { content: ''; position: absolute; inset-inline-start: -1.05rem; top: 50%; transform: translateY(-50%); width: 7px; height: 7px; background: var(--border-hi); border-radius: 50%; transition: all 0.3s; border: 2px solid var(--sidebar-bg); }  
