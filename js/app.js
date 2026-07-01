@@ -1,6 +1,6 @@
 const appContainer = document.getElementById('app-container');
 const sidebarContainer = document.getElementById('sidebar-menu-container');
-const DATA_VERSION = '38';
+const DATA_VERSION = '40';
 const versionedDataUrl = path => `${path}${path.includes('?') ? '&' : '?'}v=${DATA_VERSION}`;
 // 🌟 ضبط الوضع الداكن واللغة العربية كافتراضي 🌟
 let currentLang = localStorage.getItem('lang') || 'ar';
@@ -968,12 +968,15 @@ async function loadIndex() {
         const loadedIndex = await response.json();
         const tutaManifest = await fetchChapterManifest(requestedLang, 'tuta').catch(() => null);
         if (Array.isArray(tutaManifest?.tabs)) {
-            loadedIndex.sidebar?.forEach(group => group.links?.forEach((link, tabIndex) => {
-                const parts = tutaManifest.tabs[tabIndex]?.parts;
-                if (link.target !== 'tuta' || !Array.isArray(parts) || !parts.length) return;
-                link.children = parts.map((part, partIndex) => ({
-                    text: part.part_title || part.part_short_title,
-                    part_index: partIndex
+            loadedIndex.sidebar?.forEach(group => group.links?.forEach(link => {
+                if (link.target !== 'tuta') return;
+                link.chapters = tutaManifest.tabs.map((tab, tabIndex) => ({
+                    text: tab.tab_title,
+                    tab_index: tabIndex,
+                    children: Array.isArray(tab.parts) ? tab.parts.map((part, partIndex) => ({
+                        text: part.part_short_title || part.part_title,
+                        part_index: partIndex
+                    })) : []
                 }));
             }));
         }
@@ -1035,33 +1038,139 @@ async function loadChapter(chapterId, tabIndex = 0, requestedPartIndex = null) {
 }
 
 function renderSidebar(sidebarData) {
-    let html = `<div class="home-link-wrap"><a href="#home" class="active ripple-btn" id="nav-home"><i class="fas fa-home"></i> <span>${currentLang === 'ar' ? 'الرئيسية' : 'Home'}</span></a></div>`;
-    sidebarData.forEach((group) => {
-        html += `
-        <div class="chapter-group">
-            <button class="chapter-header ripple-btn" type="button" onclick="toggleAccordion(this)" aria-expanded="false">
-                <span class="title-wrap"><i class="${group.icon}" aria-hidden="true"></i><span>${group.title}</span></span>
-                <i class="fas fa-chevron-down arrow" aria-hidden="true"></i>
+    const isArabic = currentLang === 'ar';
+    const labels = isArabic ? {
+        index: 'فهرس الموسوعة', close: 'إغلاق القائمة', home: 'الرئيسية',
+        series: 'السلسلة', parts: 'جزءًا', available: 'متاح الآن', soon: 'قريبًا',
+        back: 'العودة إلى أجزاء السلسلة', part: 'الجزء', chapters: 'فصول الجزء',
+        open: 'فتح الجزء'
+    } : {
+        index: 'Encyclopedia index', close: 'Close menu', home: 'Home',
+        series: 'Series', parts: 'parts', available: 'Available now', soon: 'Coming soon',
+        back: 'Back to series parts', part: 'Part', chapters: 'Part chapters',
+        open: 'Open part'
+    };
+    const series = sidebarData.find(group => group.type === 'series') || sidebarData[0];
+    const parts = Array.isArray(series?.links) ? series.links : [];
+    const availablePart = parts.find(part => !part.disabled && part.target);
+    const renderChapterLink = chapter => {
+        const chapterNumber = String(chapter.tab_index + 1).padStart(2, '0');
+        if (Array.isArray(chapter.children) && chapter.children.length) {
+            return `
+                <li class="series-chapter series-chapter-nested">
+                    <details>
+                        <summary>
+                            <span class="series-chapter-number">${chapterNumber}</span>
+                            <span>${escapeHtml(chapter.text)}</span>
+                            <i class="fas fa-chevron-down" aria-hidden="true"></i>
+                        </summary>
+                        <ul class="sidebar-sub-links">
+                            ${chapter.children.map(child => `
+                                <li><a href="#${availablePart.target}-${chapter.tab_index}-${child.part_index}" class="ripple-btn">
+                                    <span>${escapeHtml(child.text)}</span>
+                                </a></li>`).join('')}
+                        </ul>
+                    </details>
+                </li>`;
+        }
+        return `
+            <li class="series-chapter">
+                <a href="#${availablePart.target}-${chapter.tab_index}" class="ripple-btn">
+                    <span class="series-chapter-number">${chapterNumber}</span>
+                    <span>${escapeHtml(chapter.text)}</span>
+                </a>
+            </li>`;
+    };
+
+    let html = `
+        <div class="sidebar-toolbar">
+            <span><i class="fas fa-book-open" aria-hidden="true"></i>${labels.index}</span>
+            <button type="button" class="sidebar-close-btn ripple-btn" data-sidebar-close aria-label="${labels.close}">
+                <i class="fas fa-xmark" aria-hidden="true"></i>
             </button>
-            <ul class="chapter-links">
-                ${group.links.map((link, idx) => {
-                    if (link.disabled) return `<li><span class="disabled" aria-disabled="true"><span>${link.text}</span></span></li>`;
-                    if (Array.isArray(link.children) && link.children.length) {
-                        return `<li class="sidebar-subchapter">
-                            <details>
-                                <summary><span>${link.text}</span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
-                                <ul class="sidebar-sub-links">
-                                    ${link.children.map(child => `<li><a href="#${link.target}-${idx}-${child.part_index}" class="ripple-btn"><span>${child.text}</span></a></li>`).join('')}
-                                </ul>
-                            </details>
-                        </li>`;
-                    }
-                    return `<li><a href="#${link.target}-${idx}" class="ripple-btn"><span>${link.text}</span></a></li>`;
+        </div>
+        <div class="home-link-wrap">
+            <a href="#home" class="active ripple-btn" id="nav-home"><i class="fas fa-home"></i><span>${labels.home}</span></a>
+        </div>
+        <section class="sidebar-series-panel" data-sidebar-panel="series">
+            <header class="sidebar-series-card">
+                <span class="series-badge" aria-hidden="true">${series?.badge || '🌱'}</span>
+                <div>
+                    <span class="series-kicker">${labels.series} ${escapeHtml(series?.series_number || '01')}</span>
+                    <h2>${escapeHtml(series?.title || '')}</h2>
+                    <p>${escapeHtml(series?.subtitle || '')}</p>
+                </div>
+                <span class="series-count">${parts.length} ${labels.parts}</span>
+            </header>
+            <ol class="series-parts-list">
+                ${parts.map(part => {
+                    const number = String(part.number).padStart(2, '0');
+                    const content = `
+                        <span class="series-part-number">${number}</span>
+                        <span class="series-part-copy">
+                            <strong>${escapeHtml(part.text)}</strong>
+                            <small>${escapeHtml(part.description || '')}</small>
+                        </span>
+                        <span class="series-part-state">${part.disabled ? labels.soon : labels.available}</span>`;
+                    return part.disabled
+                        ? `<li><div class="series-part-card is-coming" aria-disabled="true">${content}</div></li>`
+                        : `<li><button type="button" class="series-part-card is-available ripple-btn" data-sidebar-part="${escapeHtml(part.target)}">${content}<i class="fas fa-chevron-${isArabic ? 'left' : 'right'} series-part-arrow" aria-hidden="true"></i></button></li>`;
                 }).join('')}
-            </ul>
-        </div>`;
-    });
+            </ol>
+        </section>`;
+
+    if (availablePart) {
+        const chapters = Array.isArray(availablePart.chapters) ? availablePart.chapters : [];
+        html += `
+            <section class="sidebar-part-panel" data-sidebar-panel="part" data-part-target="${escapeHtml(availablePart.target)}" hidden>
+                <button type="button" class="sidebar-back-btn ripple-btn" data-sidebar-back>
+                    <i class="fas ${isArabic ? 'fa-arrow-right' : 'fa-arrow-left'}" aria-hidden="true"></i>
+                    <span>${labels.back}</span>
+                </button>
+                <header class="sidebar-part-card">
+                    <div class="sidebar-part-heading">
+                        <span class="sidebar-part-number">${String(availablePart.number).padStart(2, '0')}</span>
+                        <span>${labels.part}</span>
+                    </div>
+                    <h2>${escapeHtml(availablePart.text)}</h2>
+                    <p>${escapeHtml(availablePart.description || '')}</p>
+                </header>
+                <div class="series-chapters-heading">
+                    <span>${labels.chapters}</span>
+                    <small>${chapters.length}</small>
+                </div>
+                <ul class="series-chapter-list">
+                    ${chapters.length
+                        ? chapters.map(renderChapterLink).join('')
+                        : `<li class="series-chapter"><a href="#${availablePart.target}-0" class="ripple-btn"><i class="fas fa-arrow-right" aria-hidden="true"></i><span>${labels.open}</span></a></li>`}
+                </ul>
+            </section>`;
+    }
     sidebarContainer.innerHTML = html;
+    sidebarContainer.querySelector('[data-sidebar-close]')?.addEventListener('click', () => closeSidebar(true));
+    sidebarContainer.querySelector('[data-sidebar-back]')?.addEventListener('click', () => showSidebarSeriesView(true));
+    sidebarContainer.querySelectorAll('[data-sidebar-part]').forEach(button => {
+        button.addEventListener('click', () => showSidebarPartView(button.dataset.sidebarPart, true));
+    });
+}
+
+function showSidebarSeriesView(shouldFocus = false) {
+    const seriesPanel = sidebarContainer.querySelector('[data-sidebar-panel="series"]');
+    const partPanels = sidebarContainer.querySelectorAll('[data-sidebar-panel="part"]');
+    if (!seriesPanel) return;
+    seriesPanel.hidden = false;
+    partPanels.forEach(panel => { panel.hidden = true; });
+    if (shouldFocus) sidebarContainer.querySelector('[data-sidebar-part]')?.focus();
+}
+
+function showSidebarPartView(target, shouldFocus = false) {
+    const seriesPanel = sidebarContainer.querySelector('[data-sidebar-panel="series"]');
+    const partPanels = sidebarContainer.querySelectorAll('[data-sidebar-panel="part"]');
+    const activePanel = sidebarContainer.querySelector(`[data-part-target="${target}"]`);
+    if (!activePanel) return;
+    if (seriesPanel) seriesPanel.hidden = true;
+    partPanels.forEach(panel => { panel.hidden = panel !== activePanel; });
+    if (shouldFocus) activePanel.querySelector('.sidebar-back-btn')?.focus();
 }
 
 async function loadGlossaryPage() {
@@ -2128,6 +2237,7 @@ function updateActiveSidebarLink(target, tabIndex = null, partIndex = null) {
     });
     document.querySelectorAll('.chapter-group').forEach(group => group.classList.remove('has-current'));
     if(target === 'home' || target === 'glossary') {
+        showSidebarSeriesView(false);
         const navLink = document.getElementById(target === 'home' ? 'nav-home' : 'nav-glossary');
         if(navLink) {
             navLink.classList.add('active');
@@ -2135,7 +2245,7 @@ function updateActiveSidebarLink(target, tabIndex = null, partIndex = null) {
         }
         return;
     }
-    const links = document.querySelectorAll('.chapter-links a');
+    const links = document.querySelectorAll('.chapter-links a, .series-chapter-list a');
     const activeHref = partIndex === null
         ? `#${target}-${tabIndex}`
         : `#${target}-${tabIndex}-${partIndex}`;
@@ -2146,6 +2256,7 @@ function updateActiveSidebarLink(target, tabIndex = null, partIndex = null) {
             const details = link.closest('details');
             if (details) details.open = true;
             link.closest('.chapter-group')?.classList.add('has-current');
+            showSidebarPartView(target, false);
         }
     });
 }
