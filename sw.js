@@ -1,9 +1,9 @@
-const CACHE_NAME = 'agripedia-v39';
+const CACHE_NAME = 'agripedia-v41';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
-  './css/style.css?v=28',
-  './js/app.js?v=33',
+  './css/style.css?v=29',
+  './js/app.js?v=35',
   './manifest.json',
   './data/ar/index.json',
   './data/ar/glossary.json',
