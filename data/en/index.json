@@ -86,33 +86,37 @@
     },
     "library": {
       "kicker": "Start learning",
-      "title": "Explore the agricultural encyclopedia",
-      "text": "Organized scientific and practical guides that help you reach the information you need quickly and clearly."
+      "title": "The first AgriPedia Egypt series",
+      "text": "A complete learning path connecting field decisions with processing and market requirements."
     },
-    "cards": [
-      {
-        "target": "tuta",
-        "color": "--blue",
-        "icon": "fas fa-bug",
+    "series": {
+      "number": "01",
+      "title": "Open-Field Processing Tomato Series",
+      "subtitle": "From seed to factory and market.",
+      "text": "A scientific and practical path covering processing tomato production from seed selection and field establishment through harvest, processing, and marketing.",
+      "stats": ["24 parts", "One part available", "Continuously updated"],
+      "available": {
+        "number": "11",
+        "eyebrow": "Available now",
         "title": "Tuta absoluta",
-        "desc": "A comprehensive IPM guide covering economic importance, the nature of damage, monitoring, and correction of common misconceptions.",
-        "disabled": false
+        "text": "Monitoring, prevention, and integrated pest management.",
+        "cta": "Start this part"
       },
-      {
-        "target": "soon",
-        "color": "--muted",
-        "icon": "fas fa-leaf",
-        "title": "Other Crops & Pests (Soon)",
-        "desc": "New sections are being prepared to expand the encyclopedia with more pests, diseases, crops, and agricultural practices.",
-        "disabled": true
-      }
-    ],
+      "browse_cta": "Browse series parts",
+      "upcoming_title": "Coming next in the series",
+      "upcoming": [
+        { "number": "01", "title": "Introduction to Processing Tomatoes", "text": "Concept, development, and importance." },
+        { "number": "02", "title": "Tomato Plant and Crop Physiology", "text": "Growth, flowering, fruit set, and yield formation." },
+        { "number": "03", "title": "Varieties and Hybrids", "text": "Hybrid selection and field and processing performance." }
+      ],
+      "all_parts_cta": "View all 24 parts"
+    },
     "closing": {
-      "kicker": "A vision beyond borders",
-      "title": "From Egypt to the entire Arab world",
-      "text": "We are building a modern agricultural library that respects science, understands reality, supports development, and puts specialized knowledge within reach of everyone pursuing better agriculture and a more sustainable future.",
-      "signature": "AgriPedia Egypt — Science understood, experience applied, results measured.",
-      "cta": "Start with the current guide"
+      "kicker": "Start now",
+      "title": "Begin with the available part",
+      "text": "Learn how to monitor, prevent, and manage Tuta absoluta in processing tomato fields.",
+      "signature": "Part 11 of the Processing Tomato Series.",
+      "cta": "Start the Tuta absoluta part"
     }
   },
   "sidebar": [
