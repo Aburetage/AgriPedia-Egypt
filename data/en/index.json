@@ -117,40 +117,38 @@
   },
   "sidebar": [
     {
-      "title": "Tuta absoluta",
-      "icon": "fas fa-bug",
+      "type": "series",
+      "series_number": "01",
+      "title": "Open-Field Processing Tomato Series",
+      "subtitle": "From seed to factory and market.",
+      "icon": "fas fa-seedling",
+      "badge": "🍅",
       "is_active": true,
       "links": [
-        { "text": "Introduction and Overview", "target": "tuta", "disabled": false },
-        { "text": "Identification and Nature of Damage", "target": "tuta", "disabled": false },
-        { "text": "Scientific and Common Names", "target": "tuta", "disabled": false },
-        { "text": "Scientific Classification", "target": "tuta", "disabled": false },
-        { "text": "Origin and Global Spread", "target": "tuta", "disabled": false },
-        {
-          "text": "Morphological Description",
-          "target": "tuta",
-          "disabled": false,
-          "children": [
-            { "text": "Part One: General Introduction", "part_index": 0 },
-            { "text": "Part Two: The Egg", "part_index": 1 },
-            { "text": "Part Three: The Larva", "part_index": 2 },
-            { "text": "Part Four: The Pupa", "part_index": 3 },
-            { "text": "Part Five: The Adult Moth", "part_index": 4 }
-          ]
-        },
-        { "text": "Life Cycle", "target": "tuta", "disabled": false },
-        { "text": "Host Plants", "target": "tuta", "disabled": false },
-        { "text": "Symptoms, Damage, and Economic Losses", "target": "tuta", "disabled": false },
-        { "text": "Integrated Management of Tuta absoluta", "target": "tuta", "disabled": false },
-        { "text": "Integrated Thermal Model", "target": "tuta", "disabled": false }
-      ]
-    },
-    {
-      "title": "Encyclopedia Sections (Soon)",
-      "icon": "fas fa-seedling",
-      "is_active": false,
-      "links": [
-        { "text": "More will be added later", "target": "soon", "disabled": true }
+        { "number": 1, "text": "Introduction to Processing Tomatoes", "description": "Concept, development, and importance.", "disabled": true },
+        { "number": 2, "text": "Tomato Plant and Crop Physiology", "description": "Growth, flowering, fruit set, and yield formation.", "disabled": true },
+        { "number": 3, "text": "Varieties and Hybrids", "description": "Hybrid selection and field and processing performance.", "disabled": true },
+        { "number": 4, "text": "Seed Companies", "description": "Breeding programs, hybrids, companies, and markets.", "disabled": true },
+        { "number": 5, "text": "Seeds and Seedlings", "description": "Producing strong seedlings from seed to transplanting.", "disabled": true },
+        { "number": 6, "text": "Field Establishment", "description": "Site selection, preparation, layout, and transplanting.", "disabled": true },
+        { "number": 7, "text": "Irrigation Management", "description": "Water scheduling and improved irrigation efficiency.", "disabled": true },
+        { "number": 8, "text": "Fertilization and Nutrition", "description": "Building fertilizer programs and diagnosing crop nutrition.", "disabled": true },
+        { "number": 9, "text": "Growth and Crop Management", "description": "Balancing vegetative growth, fruit set, and maturity.", "disabled": true },
+        { "number": 10, "text": "Weed Management", "description": "Integrated preventive, chemical, and mechanical control.", "disabled": true },
+        { "number": 11, "text": "Tuta absoluta", "description": "Monitoring, prevention, and integrated pest management.", "target": "tuta", "disabled": false },
+        { "number": 12, "text": "Insect and Mite Pests", "description": "Pest diagnosis, monitoring, and control programs.", "disabled": true },
+        { "number": 13, "text": "Tomato Diseases", "description": "Diagnosis, prevention, and integrated disease management.", "disabled": true },
+        { "number": 14, "text": "Nematodes and Soil Problems", "description": "Managing nematodes, salinity, drainage, and soil stresses.", "disabled": true },
+        { "number": 15, "text": "Stresses and Physiological Disorders", "description": "Heat, salinity, fruit defects, and non-pathogenic problems.", "disabled": true },
+        { "number": 16, "text": "Fruit Quality", "description": "Measuring Brix, color, firmness, and acceptance criteria.", "disabled": true },
+        { "number": 17, "text": "Harvest and Mechanization", "description": "Harvest timing and reducing losses and damage.", "disabled": true },
+        { "number": 18, "text": "Transport and Delivery", "description": "Managing loads from the field to factory intake.", "disabled": true },
+        { "number": 19, "text": "Tomato Processing", "description": "Paste, sauces, juices, and other processed products.", "disabled": true },
+        { "number": 20, "text": "Tomato Factories and Companies", "description": "A guide to processors, companies, products, and markets.", "disabled": true },
+        { "number": 21, "text": "Economics and Contract Farming", "description": "Costs, profitability, contracts, and risk management.", "disabled": true },
+        { "number": 22, "text": "International Experience", "description": "Production, mechanization, and contracting models worldwide.", "disabled": true },
+        { "number": 23, "text": "Processing Tomatoes in Egypt", "description": "Current reality, challenges, and development opportunities.", "disabled": true },
+        { "number": 24, "text": "Field Trials and Data Management", "description": "Trial design, result analysis, and technical reporting.", "disabled": true }
       ]
     }
   ]
