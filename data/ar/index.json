@@ -117,40 +117,38 @@
   },
   "sidebar": [
     {
-      "title": "توتا أبسلوتا (Tuta)",
-      "icon": "fas fa-bug",
+      "type": "series",
+      "series_number": "01",
+      "title": "سلسلة الطماطم التصنيعية في الحقول المكشوفة",
+      "subtitle": "من البذرة إلى المصنع والسوق.",
+      "icon": "fas fa-seedling",
+      "badge": "🍅",
       "is_active": true,
       "links": [
-        { "text": "تمهيد ومقدمة", "target": "tuta", "disabled": false },
-        { "text": "التعريف بالحشرة وطبيعة الضرر", "target": "tuta", "disabled": false },
-        { "text": "التسمية والأسماء الشائعة", "target": "tuta", "disabled": false },
-        { "text": "التصنيف العلمي", "target": "tuta", "disabled": false },
-        { "text": "الظهور والانتشار العالمي", "target": "tuta", "disabled": false },
-        {
-          "text": "الوصف المورفولوجي",
-          "target": "tuta",
-          "disabled": false,
-          "children": [
-            { "text": "الجزء الأول: المدخل العام", "part_index": 0 },
-            { "text": "الجزء الثاني: البيضة", "part_index": 1 },
-            { "text": "الجزء الثالث: اليرقة", "part_index": 2 },
-            { "text": "الجزء الرابع: العذراء", "part_index": 3 },
-            { "text": "الجزء الخامس: الحشرة الكاملة", "part_index": 4 }
-          ]
-        },
-        { "text": "دورة الحياة", "target": "tuta", "disabled": false },
-        { "text": "العوائل النباتية", "target": "tuta", "disabled": false },
-        { "text": "الأعراض والأضرار والخسائر الاقتصادية", "target": "tuta", "disabled": false },
-        { "text": "الإدارة المتكاملة لتوتا أبسولوتا", "target": "tuta", "disabled": false },
-        { "text": "النموذج الحراري المتكامل", "target": "tuta", "disabled": false }
-      ]
-    },
-    {
-      "title": "أقسام الموسوعة (قريباً)",
-      "icon": "fas fa-seedling",
-      "is_active": false,
-      "links": [
-        { "text": "سيتم إضافة المزيد لاحقاً", "target": "soon", "disabled": true }
+        { "number": 1, "text": "مدخل إلى الطماطم التصنيعية", "description": "المفهوم والتطور والأهمية.", "disabled": true },
+        { "number": 2, "text": "نبات الطماطم وفسيولوجيا المحصول", "description": "النمو والتزهير والعقد وتكوين المحصول.", "disabled": true },
+        { "number": 3, "text": "الأصناف والهجن", "description": "اختيار الهجين وتقييم أدائه الحقلي والتصنيعي.", "disabled": true },
+        { "number": 4, "text": "شركات البذور", "description": "برامج التربية والهجن والشركات والأسواق.", "disabled": true },
+        { "number": 5, "text": "البذور والشتلات", "description": "إنتاج شتلات قوية من البذرة حتى الشتل.", "disabled": true },
+        { "number": 6, "text": "إنشاء الحقل", "description": "اختيار الأرض والتجهيز وتصميم الزراعة والشتل.", "disabled": true },
+        { "number": 7, "text": "إدارة الري", "description": "جدولة المياه ورفع كفاءة استخدام الري.", "disabled": true },
+        { "number": 8, "text": "التسميد والتغذية", "description": "بناء البرامج السمادية وتشخيص الحالة الغذائية.", "disabled": true },
+        { "number": 9, "text": "إدارة النمو والمحصول", "description": "تحقيق التوازن بين النمو الخضري والعقد والنضج.", "disabled": true },
+        { "number": 10, "text": "إدارة الحشائش", "description": "الوقاية والمكافحة الكيميائية والميكانيكية المتكاملة.", "disabled": true },
+        { "number": 11, "text": "توتا أبسولوتا", "description": "الرصد والوقاية والإدارة المتكاملة للآفة.", "target": "tuta", "disabled": false },
+        { "number": 12, "text": "الآفات الحشرية والأكاروسية", "description": "تشخيص الآفات ومراقبتها وبناء برامج مكافحتها.", "disabled": true },
+        { "number": 13, "text": "أمراض الطماطم", "description": "التشخيص والوقاية والإدارة المتكاملة للأمراض.", "disabled": true },
+        { "number": 14, "text": "النيماتودا ومشكلات التربة", "description": "إدارة النيماتودا والملوحة والصرف وإجهادات التربة.", "disabled": true },
+        { "number": 15, "text": "الإجهادات والاضطرابات الفسيولوجية", "description": "الحرارة والملوحة وعيوب الثمار والمشكلات غير المرضية.", "disabled": true },
+        { "number": 16, "text": "جودة الثمار", "description": "قياس البريكس واللون والصلابة ومواصفات القبول.", "disabled": true },
+        { "number": 17, "text": "الحصاد والميكنة", "description": "تحديد موعد الحصاد وتقليل الفاقد والتلف.", "disabled": true },
+        { "number": 18, "text": "النقل والتوريد", "description": "إدارة الشحنات من الحقل حتى استلام المصنع.", "disabled": true },
+        { "number": 19, "text": "تصنيع الطماطم", "description": "إنتاج المعجون والصلصة والعصائر والمنتجات المختلفة.", "disabled": true },
+        { "number": 20, "text": "مصانع وشركات الطماطم", "description": "دليل المصانع والشركات والمنتجات والأسواق.", "disabled": true },
+        { "number": 21, "text": "الاقتصاديات والزراعة التعاقدية", "description": "التكاليف والربحية والعقود وإدارة المخاطر.", "disabled": true },
+        { "number": 22, "text": "التجارب الدولية", "description": "نماذج الإنتاج والميكنة والتعاقد في الدول الرئيسية.", "disabled": true },
+        { "number": 23, "text": "الطماطم التصنيعية في مصر", "description": "الواقع والتحديات وفرص تطوير القطاع المصري.", "disabled": true },
+        { "number": 24, "text": "التجارب الحقلية وإدارة البيانات", "description": "تصميم التجارب وتحليل النتائج وإعداد التقارير.", "disabled": true }
       ]
     }
   ]
