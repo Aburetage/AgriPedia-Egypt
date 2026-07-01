@@ -1,6 +1,6 @@
 const appContainer = document.getElementById('app-container');
 const sidebarContainer = document.getElementById('sidebar-menu-container');
-const DATA_VERSION = '40';
+const DATA_VERSION = '42';
 const versionedDataUrl = path => `${path}${path.includes('?') ? '&' : '?'}v=${DATA_VERSION}`;
 // 🌟 ضبط الوضع الداكن واللغة العربية كافتراضي 🌟
 let currentLang = localStorage.getItem('lang') || 'ar';
@@ -1338,23 +1338,51 @@ function renderHome(homeData) {
                     <h2>${homeData.library.title}</h2>
                     <p>${homeData.library.text}</p>
                 </div>
-                <div class="chapter-grid home-chapter-grid">
-                ${homeData.cards.map(card => card.disabled ? `
-                    <div class="chapter-card disabled" aria-disabled="true" style="--c-color: var(${card.color});">
-                        <i class="${card.icon} c-icon"></i>
-                        <h3>${card.title}</h3>
-                        <p>${card.desc}</p>
-                    </div>` : `
-                    <a href="#${card.target}-0" class="chapter-card ripple-btn" style="--c-color: var(${card.color});">
-                        <i class="${card.icon} c-icon"></i>
-                        <h3>${card.title}</h3>
-                        <p>${card.desc}</p>
-                    </a>`).join('')}
+                <div class="home-series-showcase">
+                    <article class="home-series-overview">
+                        <div class="home-series-identity">
+                            <span class="home-series-mark" aria-hidden="true">🍅</span>
+                            <span class="home-series-number">${currentLang === 'ar' ? 'السلسلة' : 'Series'} ${homeData.series.number}</span>
+                        </div>
+                        <h3>${homeData.series.title}</h3>
+                        <strong>${homeData.series.subtitle}</strong>
+                        <p>${homeData.series.text}</p>
+                        <div class="home-series-stats">
+                            ${homeData.series.stats.map((stat, index) => `<span><i class="fas ${index === 0 ? 'fa-layer-group' : index === 1 ? 'fa-circle-check' : 'fa-arrows-rotate'}" aria-hidden="true"></i>${stat}</span>`).join('')}
+                        </div>
+                    </article>
+                    <article class="home-series-available">
+                        <div class="home-available-heading">
+                            <span>${homeData.series.available.eyebrow}</span>
+                            <strong>${homeData.series.available.number}</strong>
+                        </div>
+                        <i class="fas fa-bug home-available-icon" aria-hidden="true"></i>
+                        <h3>${homeData.series.available.title}</h3>
+                        <p>${homeData.series.available.text}</p>
+                        <div class="home-series-actions">
+                            <a href="#tuta-0" class="home-series-start ripple-btn"><span>${homeData.series.available.cta}</span><i class="fas fa-arrow-left" aria-hidden="true"></i></a>
+                            <button type="button" class="home-series-browse ripple-btn" data-home-series-menu><i class="fas fa-list-ul" aria-hidden="true"></i><span>${homeData.series.browse_cta}</span></button>
+                        </div>
+                    </article>
+                </div>
+                <div class="home-upcoming-parts">
+                    <div class="home-upcoming-heading">
+                        <h3>${homeData.series.upcoming_title}</h3>
+                        <button type="button" class="home-all-parts-btn ripple-btn" data-home-series-menu>${homeData.series.all_parts_cta}<i class="fas fa-arrow-left" aria-hidden="true"></i></button>
+                    </div>
+                    <div class="home-upcoming-grid">
+                        ${homeData.series.upcoming.map(part => `
+                            <article>
+                                <span>${part.number}</span>
+                                <div><h4>${part.title}</h4><p>${part.text}</p></div>
+                                <small>${currentLang === 'ar' ? 'قريبًا' : 'Coming soon'}</small>
+                            </article>`).join('')}
+                    </div>
                 </div>
             </section>
 
             <section class="home-closing home-reveal">
-                <i class="fas fa-earth-africa" aria-hidden="true"></i>
+                <i class="fas fa-bug" aria-hidden="true"></i>
                 <div><span>${homeData.closing.kicker}</span><h2>${homeData.closing.title}</h2><p>${homeData.closing.text}</p><strong>${homeData.closing.signature}</strong></div>
                 <a href="#tuta-0" class="home-closing-link ripple-btn"><span>${homeData.closing.cta}</span><i class="fas fa-arrow-left" aria-hidden="true"></i></a>
             </section>
@@ -1365,6 +1393,13 @@ function renderHome(homeData) {
         button.addEventListener('click', () => {
             const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
             document.getElementById(button.dataset.homeScroll)?.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'start' });
+        });
+    });
+    appContainer.querySelectorAll('[data-home-series-menu]').forEach(button => {
+        button.addEventListener('click', () => {
+            showSidebarSeriesView(false);
+            openSidebar();
+            sidebarContainer.querySelector('[data-sidebar-close]')?.focus();
         });
     });
     updateActiveSidebarLink('home');
